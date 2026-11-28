@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×3 (poz. 40); Brutalny Bloodbag Passenger ×2 (poz. 40)
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×3 (poz. 40).*
 
@@ -27,25 +27,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -60,7 +60,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -79,25 +79,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -116,7 +116,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Brutalny Bloodbag Passenger ×2 (poz. 42); Agresywny Bloodbag Passenger ×3 (poz. 42)
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 42).*
 
@@ -135,25 +135,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -168,7 +168,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×3 (poz. 42).*
 
@@ -187,25 +187,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -224,7 +224,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×2 (poz. 44); Brutalny Bloodbag Passenger ×3 (poz. 44); Agresywny Bloodbag Passenger ×1 (poz. 44) (wsparcie); Agresywny Bloodbag Passenger ×1 (poz. 44) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 44) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 44) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 44) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 44) (wsparcie)
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×4 (poz. 44) · też jako wsparcie.*
 
@@ -243,25 +243,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -276,7 +276,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×5 (poz. 44) · też jako wsparcie.*
 
@@ -295,25 +295,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -328,7 +328,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 44) · też jako wsparcie.*
 
@@ -347,25 +347,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -384,7 +384,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×1 (poz. 45); Brutalny Bloodbag Passenger ×1 (poz. 45); Agresywny Bloodbag Passenger ×1 (poz. 45); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 45) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 45) (wsparcie); Agresywny Bloodbag Passenger ×1 (poz. 45) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie)
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -403,25 +403,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -436,7 +436,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -455,25 +455,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -488,7 +488,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -507,25 +507,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -540,7 +540,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -556,25 +556,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -592,7 +592,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -608,25 +608,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -648,7 +648,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 45); Żądny Krwi Bloodbag Passenger ×1 (poz. 45); Brutalny Bloodbag Passenger ×1 (poz. 45); Agresywny Bloodbag Passenger ×1 (poz. 45); Agresywny Bloodbag Passenger ×1 (poz. 45) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 45) · też jako wsparcie.*
 
@@ -664,25 +664,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -700,7 +700,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 45) · też jako wsparcie.*
 
@@ -716,25 +716,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -752,7 +752,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -771,25 +771,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -804,7 +804,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -823,25 +823,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -856,7 +856,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -875,25 +875,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -908,7 +908,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
@@ -924,25 +924,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -964,7 +964,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×2 (poz. 45); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 45); Brutalny Bloodbag Passenger ×1 (poz. 45); Agresywny Bloodbag Passenger ×1 (poz. 45) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 45) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 45) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 45) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 45) · też jako wsparcie.*
 
@@ -980,25 +980,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1016,7 +1016,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -1032,25 +1032,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1068,7 +1068,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -1084,25 +1084,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1120,7 +1120,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -1139,25 +1139,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1172,7 +1172,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
@@ -1191,25 +1191,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1224,7 +1224,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -1243,25 +1243,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1280,7 +1280,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45); Bezwzględny Bloodbag Agent Oczyszczania ×2 (poz. 45); Agresywny Bloodbag Passenger ×1 (poz. 45); Fixer z Protetyką Bloodbag ×1 (poz. 45) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 45) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 45) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 45) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -1296,25 +1296,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1332,7 +1332,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -1348,25 +1348,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1384,7 +1384,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 45).*
 
@@ -1400,25 +1400,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1436,7 +1436,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -1455,25 +1455,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1488,7 +1488,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Fixer z Protetyką Bloodbag — id 90151
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -1504,25 +1504,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1542,7 +1542,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Prosthesis Model - L37** — Na początku tury: jeżeli Licznik [Ładowanie] jest niższy niż 5, nakłada 1 [Spadek Mocy Ataku]
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
@@ -1561,25 +1561,25 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1594,7 +1594,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
@@ -1613,25 +1613,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1650,7 +1650,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×2 (poz. 45); Fixer z Protetyką Bloodbag ×3 (poz. 45); Agresywny Bloodbag Passenger ×1 (poz. 45); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 45) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 45) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 45) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 45) · też jako wsparcie.*
 
@@ -1666,25 +1666,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1702,7 +1702,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Fixer z Protetyką Bloodbag — id 90151
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×6 (poz. 45) · też jako wsparcie.*
 
@@ -1718,25 +1718,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1756,7 +1756,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Prosthesis Model - L37** — Na początku tury: jeżeli Licznik [Ładowanie] jest niższy niż 5, nakłada 1 [Spadek Mocy Ataku]
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -1775,25 +1775,25 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1808,7 +1808,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -1824,25 +1824,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1865,7 +1865,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×5 (poz. 45); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 45) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 45) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 45) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 45) (wsparcie); Sasha ×1 (poz. 45) (wsparcie)
 - **Fala 2:** Cassetti ×1 (poz. 45)
 
-#### Żądny Krwi Bloodbag Passenger — id 8349
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×6 (poz. 45) · też jako wsparcie.*
 
@@ -1880,7 +1880,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 834901
+##### Korpus
 
 | Parametr           | Wartość                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------- |
@@ -1892,25 +1892,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1926,7 +1926,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 8348
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
@@ -1941,7 +1941,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 834801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -1953,25 +1953,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1990,7 +1990,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Fixer z Protetyką Bloodbag — id 8346
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -2005,7 +2005,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 834601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -2017,25 +2017,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2056,7 +2056,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Sasha — id 8347
+#### Sasha
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
@@ -2075,7 +2075,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Części (anatomia):**
 
-##### Korpus — id 834701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2087,37 +2087,37 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 9101801
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Reflux — id 9101802
+##### Umiejętność: Hardblood Reflux
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9101804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Transfusion — id 9101805
+##### Umiejętność: Hardblood Transfusion
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2138,7 +2138,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 - **A Young Kindred** — otrzymuje o 30% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych obrażeń
 
-#### Cassetti — id 8350
+#### Cassetti
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -2156,7 +2156,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Części (anatomia):**
 
-##### Tułów — id 835001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2168,49 +2168,49 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Kulaj przede Mną — id 835001
+##### Umiejętność: Kulaj przede Mną
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Żałosny Stwór — id 835002
+##### Umiejętność: Żałosny Stwór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Idź... Idź Stąd...! — id 835003
+##### Umiejętność: Idź... Idź Stąd...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Książę Parady — id 835004
+##### Umiejętność: Książę Parady
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Krew... Krew... Krew...! — id 835005
+##### Umiejętność: Krew... Krew... Krew...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          8 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zostawcie Mnie...! — id 835006
+##### Umiejętność: Zostawcie Mnie...!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Jestem... Księciem... tej Parady...! — id 835007
+##### Umiejętność: Jestem... Księciem... tej Parady...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +1 |      4 |    6 |
 
-##### Umiejętność: Nigdy... Nie Wracam...! — id 835008
+##### Umiejętność: Nigdy... Nie Wracam...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2237,7 +2237,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 
 ## Pula Część `mowe` — jednostki bez przypisanego etapu
 
-#### Fixer z Protetyką Bloodbag — id 8351
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2252,7 +2252,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 
 **Części (anatomia):**
 
-##### Korpus — id 835101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -2264,25 +2264,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2302,7 +2302,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Prosthesis Model - L37** — Na początku tury: jeżeli Licznik [Ładowanie] jest niższy niż 5, nakłada 1 [Spadek Mocy Ataku]
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 
-#### Sasha — id 8352
+#### Sasha
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2321,7 +2321,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Części (anatomia):**
 
-##### Korpus — id 835201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2333,37 +2333,37 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 9101801
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Reflux — id 9101802
+##### Umiejętność: Hardblood Reflux
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9101804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Transfusion — id 9101805
+##### Umiejętność: Hardblood Transfusion
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2384,7 +2384,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 - **A Young Kindred** — otrzymuje o 30% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych obrażeń
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 8353
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2399,7 +2399,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 835301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -2411,25 +2411,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2447,7 +2447,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Żądny Krwi Bloodbag Passenger — id 8354
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2462,7 +2462,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 835401
+##### Korpus
 
 | Parametr           | Wartość                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------- |
@@ -2474,25 +2474,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2507,7 +2507,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Cassetti — id 8355
+#### Cassetti
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2525,7 +2525,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Części (anatomia):**
 
-##### Tułów — id 835001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2537,49 +2537,49 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Kulaj przede Mną — id 835001
+##### Umiejętność: Kulaj przede Mną
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Żałosny Stwór — id 835002
+##### Umiejętność: Żałosny Stwór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Idź... Idź Stąd...! — id 835003
+##### Umiejętność: Idź... Idź Stąd...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Książę Parady — id 835004
+##### Umiejętność: Książę Parady
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Krew... Krew... Krew...! — id 835005
+##### Umiejętność: Krew... Krew... Krew...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          8 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zostawcie Mnie...! — id 835006
+##### Umiejętność: Zostawcie Mnie...!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Jestem... Księciem... tej Parady...! — id 835007
+##### Umiejętność: Jestem... Księciem... tej Parady...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +1 |      4 |    6 |
 
-##### Umiejętność: Nigdy... Nie Wracam...! — id 835008
+##### Umiejętność: Nigdy... Nie Wracam...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2602,7 +2602,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Fixer z Protetyką Bloodbag — id 8356
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2617,7 +2617,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 
 **Części (anatomia):**
 
-##### Korpus — id 835601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -2629,25 +2629,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2668,7 +2668,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Sasha — id 8357
+#### Sasha
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2687,7 +2687,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Części (anatomia):**
 
-##### Korpus — id 835701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2699,37 +2699,37 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 9101801
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Reflux — id 9101802
+##### Umiejętność: Hardblood Reflux
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9101804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Transfusion — id 9101805
+##### Umiejętność: Hardblood Transfusion
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2750,7 +2750,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 - **A Young Kindred** — otrzymuje o 30% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych obrażeń
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 8358
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2765,7 +2765,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 835801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -2777,25 +2777,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2814,7 +2814,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Żądny Krwi Bloodbag Passenger — id 8359
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2829,7 +2829,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 835901
+##### Korpus
 
 | Parametr           | Wartość                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------- |
@@ -2841,25 +2841,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2875,7 +2875,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 8360
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2890,7 +2890,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 836001
+##### Korpus
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -2902,25 +2902,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2938,7 +2938,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Dziki Bloodbag Agent Oczyszczania — id 8361
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2953,7 +2953,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 836101
+##### Korpus
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -2965,25 +2965,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3001,7 +3001,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 8362
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3016,7 +3016,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 836201
+##### Korpus
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -3028,25 +3028,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3064,7 +3064,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Żądny Krwi Bloodbag Passenger — id 70145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3083,25 +3083,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3116,7 +3116,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 70146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3135,25 +3135,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3168,7 +3168,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 70147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3187,25 +3187,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3220,7 +3220,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 70148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3236,25 +3236,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3272,7 +3272,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Dziki Bloodbag Agent Oczyszczania — id 70149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3288,25 +3288,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3324,7 +3324,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 70150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3340,25 +3340,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3376,7 +3376,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Fixer z Protetyką Bloodbag — id 70151
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3392,25 +3392,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3430,7 +3430,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Prosthesis Model - L37** — Na początku tury: jeżeli Licznik [Ładowanie] jest niższy niż 5, nakłada 1 [Spadek Mocy Ataku]
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 
-#### Sasha — id 71018
+#### Sasha
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3449,37 +3449,37 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Aktywacja Protezy — id 9101801
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Reflux — id 9101802
+##### Umiejętność: Hardblood Reflux
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9101804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Transfusion — id 9101805
+##### Umiejętność: Hardblood Transfusion
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3500,7 +3500,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 - **A Young Kindred** — otrzymuje o 30% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych obrażeń
 
-#### Sasha — id 91018
+#### Sasha
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3519,37 +3519,37 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Aktywacja Protezy — id 9101801
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Reflux — id 9101802
+##### Umiejętność: Hardblood Reflux
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9101804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Transfusion — id 9101805
+##### Umiejętność: Hardblood Transfusion
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3576,7 +3576,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×3 (poz. 55); Brutalny Bloodbag Passenger ×2 (poz. 55)
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×3 (poz. 55).*
 
@@ -3595,25 +3595,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3628,7 +3628,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55).*
 
@@ -3647,25 +3647,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3684,7 +3684,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Brutalny Bloodbag Passenger ×2 (poz. 55); Agresywny Bloodbag Passenger ×3 (poz. 55)
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55).*
 
@@ -3703,25 +3703,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3736,7 +3736,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×3 (poz. 55).*
 
@@ -3755,25 +3755,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3792,7 +3792,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×2 (poz. 55); Brutalny Bloodbag Passenger ×3 (poz. 55); Agresywny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Agresywny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 55) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 55) (wsparcie)
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×4 (poz. 55) · też jako wsparcie.*
 
@@ -3811,25 +3811,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3844,7 +3844,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×5 (poz. 55) · też jako wsparcie.*
 
@@ -3863,25 +3863,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3896,7 +3896,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -3915,25 +3915,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3952,7 +3952,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×1 (poz. 55); Brutalny Bloodbag Passenger ×1 (poz. 55); Agresywny Bloodbag Passenger ×1 (poz. 55); Dziki Bloodbag Agent Oczyszczania ×2 (poz. 55); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 55) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Agresywny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie)
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -3971,25 +3971,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4004,7 +4004,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4023,25 +4023,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4056,7 +4056,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4075,25 +4075,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4108,7 +4108,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 55) · też jako wsparcie.*
 
@@ -4124,25 +4124,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4160,7 +4160,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4176,25 +4176,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4216,7 +4216,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 55); Żądny Krwi Bloodbag Passenger ×1 (poz. 55); Brutalny Bloodbag Passenger ×1 (poz. 55); Agresywny Bloodbag Passenger ×1 (poz. 55); Agresywny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 55) · też jako wsparcie.*
 
@@ -4232,25 +4232,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4268,7 +4268,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 55) · też jako wsparcie.*
 
@@ -4284,25 +4284,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4320,7 +4320,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -4339,25 +4339,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4372,7 +4372,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -4391,25 +4391,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4424,7 +4424,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4443,25 +4443,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4476,7 +4476,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -4492,25 +4492,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4532,7 +4532,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×2 (poz. 55); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 55); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 55); Brutalny Bloodbag Passenger ×1 (poz. 55); Agresywny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 55) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Bezwzględny Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 55) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 55) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 55) · też jako wsparcie.*
 
@@ -4548,25 +4548,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4584,7 +4584,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -4600,25 +4600,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4636,7 +4636,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4652,25 +4652,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4688,7 +4688,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4707,25 +4707,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4740,7 +4740,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -4759,25 +4759,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4792,7 +4792,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4811,25 +4811,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4848,7 +4848,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 55); Bezwzględny Bloodbag Agent Oczyszczania ×2 (poz. 55); Agresywny Bloodbag Passenger ×1 (poz. 55); Fixer z Protetyką Bloodbag ×1 (poz. 55) (wsparcie); Brutalny Bloodbag Passenger ×1 (poz. 55) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 55) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 55) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4864,25 +4864,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4900,7 +4900,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -4916,25 +4916,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4952,7 +4952,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Bezwzględny Bloodbag Agent Oczyszczania — id 90148
+#### Bezwzględny Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 55).*
 
@@ -4968,25 +4968,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przecięcie — id 9014801
+##### Umiejętność: Przecięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicie z Góry — id 9014802
+##### Umiejętność: Bicie z Góry
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014803
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5004,7 +5004,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -5023,25 +5023,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5056,7 +5056,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Fixer z Protetyką Bloodbag — id 90151
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -5072,25 +5072,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5110,7 +5110,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Prosthesis Model - L37** — Na początku tury: jeżeli Licznik [Ładowanie] jest niższy niż 5, nakłada 1 [Spadek Mocy Ataku]
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 
-#### Brutalny Bloodbag Passenger — id 90146
+#### Brutalny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5129,25 +5129,25 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Slice — id 9014602
+##### Umiejętność: Hardblood Slice
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014603
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5162,7 +5162,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Żądny Krwi Bloodbag Passenger — id 90145
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5181,25 +5181,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5218,7 +5218,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 - **Fala 1:** Głodujący Bloodbag Agent Oczyszczania ×2 (poz. 55); Fixer z Protetyką Bloodbag ×2 (poz. 55); Agresywny Bloodbag Passenger ×1 (poz. 55); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Dziki Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 55) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 55) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 55) (wsparcie)
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 90150
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×3 (poz. 55) · też jako wsparcie.*
 
@@ -5234,25 +5234,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5270,7 +5270,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 (1 raz na Umiejętność. nie uruchamia się, jeżeli jednostka nie ma [Ładowanie])
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 
-#### Fixer z Protetyką Bloodbag — id 90151
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×5 (poz. 55) · też jako wsparcie.*
 
@@ -5286,25 +5286,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5324,7 +5324,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Prosthesis Model - L37** — Na początku tury: jeżeli Licznik [Ładowanie] jest niższy niż 5, nakłada 1 [Spadek Mocy Ataku]
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 
-#### Agresywny Bloodbag Passenger — id 90147
+#### Agresywny Bloodbag Passenger
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -5343,25 +5343,25 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9014702
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014703
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5376,7 +5376,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 - **Bloodsucking** — otrzymuje o 10% mniej obrażeń od [Krwawienie] (zaokrąglone w dół)
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 
-#### Dziki Bloodbag Agent Oczyszczania — id 90149
+#### Dziki Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -5392,25 +5392,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie — id 9014901
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9014902
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9014903
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9014904
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5433,7 +5433,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Fala 1:** Żądny Krwi Bloodbag Passenger ×5 (poz. 55); Fixer z Protetyką Bloodbag ×1 (poz. 55) (wsparcie); Fixer z Protetyką Bloodbag ×1 (poz. 55) (wsparcie); Głodujący Bloodbag Agent Oczyszczania ×1 (poz. 55) (wsparcie); Żądny Krwi Bloodbag Passenger ×1 (poz. 55) (wsparcie); Sasha ×1 (poz. 55) (wsparcie)
 - **Fala 2:** Cassetti ×1 (poz. 55)
 
-#### Żądny Krwi Bloodbag Passenger — id 8349
+#### Żądny Krwi Bloodbag Passenger
 
 *Wystąpienia: ×6 (poz. 55) · też jako wsparcie.*
 
@@ -5448,7 +5448,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 834901
+##### Korpus
 
 | Parametr           | Wartość                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------- |
@@ -5460,25 +5460,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Zkrzepnięta Ręka — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +5 |      1 |    1 |
 
-##### Umiejętność: Hardblood Jag — id 9014502
+##### Umiejętność: Hardblood Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Krwi — id 9014503
+##### Umiejętność: Zbieranie Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9014504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5494,7 +5494,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych obrażeń
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Fixer z Protetyką Bloodbag — id 8346
+#### Fixer z Protetyką Bloodbag
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -5509,7 +5509,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 834601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -5521,25 +5521,25 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 9015101
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Znak Harpuna — id 9015102
+##### Umiejętność: Znak Harpuna
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Harpoon — id 9015103
+##### Umiejętność: Hardblood Harpoon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5560,7 +5560,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starcia]
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Głodujący Bloodbag Agent Oczyszczania — id 8348
+#### Głodujący Bloodbag Agent Oczyszczania
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5575,7 +5575,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Części (anatomia):**
 
-##### Korpus — id 834801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -5587,25 +5587,25 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Machnięcie Włócznią — id 9015001
+##### Umiejętność: Machnięcie Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9015002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hardblood Weapon — id 9015003
+##### Umiejętność: Hardblood Weapon
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9015004
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5624,7 +5624,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 - **Tenacious** — obrażenia samozadawane przez Umiejętności tej jednostki nie obniżają HP tej jednostki poniżej 1
 - **Burst Bloodbag** — początek walki: przystępuje do walki tylko z połową Maks. HP
 
-#### Sasha — id 1305
+#### Sasha
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5643,7 +5643,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 130501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5655,37 +5655,37 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Aktywacja Protezy — id 130501
+##### Umiejętność: Aktywacja Protezy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Reflux — id 130502
+##### Umiejętność: Hardblood Reflux
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 130503
+##### Umiejętność: Ładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 130504
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Hardblood Transfusion — id 130505
+##### Umiejętność: Hardblood Transfusion
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 130506
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5714,7 +5714,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 - atakując Bloodfiends z La Manchalandy, traci 5 SP (1 raz na Umiejętność; maks. 2 razy na turę)
 - zadaje o 20% mniej obrażeń Umiejętnościami Bloodfiends z La Manchalandy
 
-#### Cassetti — id 1238
+#### Cassetti
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -5732,7 +5732,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Części (anatomia):**
 
-##### Korpus — id 123801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5744,49 +5744,49 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Kulaj przede Mną — id 835001
+##### Umiejętność: Kulaj przede Mną
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Żałosny Stwór — id 835002
+##### Umiejętność: Żałosny Stwór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Idź... Idź Stąd...! — id 835003
+##### Umiejętność: Idź... Idź Stąd...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Książę Parady — id 123804
+##### Umiejętność: Książę Parady
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      4 |    2 |
 
-##### Umiejętność: Krew... Krew... Krew...! — id 835005
+##### Umiejętność: Krew... Krew... Krew...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          8 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zostawcie Mnie...! — id 835006
+##### Umiejętność: Zostawcie Mnie...!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Jestem... Księciem... tej Parady...! — id 123807
+##### Umiejętność: Jestem... Księciem... tej Parady...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +1 |      4 |    7 |
 
-##### Umiejętność: Nigdy... Nie Wracam...! — id 123808
+##### Umiejętność: Nigdy... Nie Wracam...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |

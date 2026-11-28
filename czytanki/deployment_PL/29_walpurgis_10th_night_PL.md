@@ -10,7 +10,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Oscar ×1 (poz. 80); Pameli ×1 (poz. 70); Pamela ×1 (poz. 70); Philip ×1 (poz. 65)
 - **Fala 3:** Volatile Effloresced E.G.O::Waxen Pinion ×1 (poz. 65)
 
-#### Philip — id 1582
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -31,7 +31,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158201
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -43,33 +43,33 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 158205, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Salvador — id 1580
+#### Salvador
 
 *Wystąpienia: ×1 (poz. 82).*
 
@@ -90,7 +90,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158001
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -102,51 +102,51 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158001
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Błysk Świtu — id 158002
+##### Umiejętność: Błysk Świtu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158003
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Rozszczepiacz Świtu — id 158004
+##### Umiejętność: Rozszczepiacz Świtu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Świt — id 158005
+##### Umiejętność: Świt
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +4 |      2 |    3 |
 
-##### Umiejętność: Strażnik — id 158006
+##### Umiejętność: Strażnik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |          8 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zadymka — id 158007
+##### Umiejętność: Zadymka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Yuna — id 1581
+#### Yuna
 
 *Wystąpienia: ×1 (poz. 75).*
 
@@ -167,7 +167,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -179,45 +179,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158101
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Cięcie Motyla — id 158102
+##### Umiejętność: Cięcie Motyla
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał — id 158103
+##### Umiejętność: Wystrzał
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał - Wysokie Słońce — id 158104
+##### Umiejętność: Wystrzał - Wysokie Słońce
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    3 |
 
-##### Umiejętność: Napiętnowanie — id 158105
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Łączenie — id 158106
+##### Umiejętność: Łączenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Oscar — id 1583
+#### Oscar
 
 *Wystąpienia: ×1 (poz. 80).*
 
@@ -238,7 +238,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158301
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -250,45 +250,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Szybkie Dzierżenie — id 158301
+##### Umiejętność: Szybkie Dzierżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Błyskawiczna Włócznia — id 158302
+##### Umiejętność: Błyskawiczna Włócznia
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Pchnięcie — id 158303
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Przyjęcie Szyku Klina — id 158304
+##### Umiejętność: Przyjęcie Szyku Klina
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158305
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zejdź z Drogi. — id 158306
+##### Umiejętność: Zejdź z Drogi.
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pameli — id 1584
+#### Pameli
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -309,7 +309,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -321,39 +321,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158401
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Korzystając z Impetu — id 158402
+##### Umiejętność: Korzystając z Impetu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158403
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Przebiję cię Szybko i Pewnie — id 158404
+##### Umiejętność: Przebiję cię Szybko i Pewnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158405
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pamela — id 1585
+#### Pamela
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -374,7 +374,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -386,39 +386,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158501
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Uderzenie w Szczelinę — id 158502
+##### Umiejętność: Uderzenie w Szczelinę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158503
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Moja włócznia przebije cię bez chyby. — id 158504
+##### Umiejętność: Moja włócznia przebije cię bez chyby.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158505
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Philip — id 1586
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -439,7 +439,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158601
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -451,39 +451,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-##### Umiejętność: Skrucha — id 158601
+##### Umiejętność: Skrucha
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 158605, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Volatile Effloresced E.G.O::Waxen Pinion — id 1587
+#### Volatile Effloresced E.G.O::Waxen Pinion
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -504,7 +504,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 **Części (anatomia):**
 
-##### Korpus — id 158701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -516,37 +516,37 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 *Opis:* Część
 
-##### Umiejętność: Smutny Zmierzch — id 158701
+##### Umiejętność: Smutny Zmierzch
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tarcza z Piór — id 158702
+##### Umiejętność: Tarcza z Piór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Żarzący się Miecz — id 158703
+##### Umiejętność: Żarzący się Miecz
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Gwałtowny Napór — id 158704
+##### Umiejętność: Gwałtowny Napór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płonący Cios — id 158705
+##### Umiejętność: Płonący Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         15 |        +15 |      1 |    5 |
 
-**Pasywki:** *(wpisy id: 158705, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 5-75
 
@@ -554,7 +554,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 - **Fala 2:** Oscar ×1 (poz. 80); Pameli ×1 (poz. 70); Pamela ×1 (poz. 70); Philip ×1 (poz. 65)
 - **Fala 3:** Volatile Effloresced E.G.O::Waxen Pinion ×1 (poz. 65)
 
-#### Philip — id 1582
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -575,7 +575,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158201
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -587,33 +587,33 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 158205, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Salvador — id 1580
+#### Salvador
 
 *Wystąpienia: ×1 (poz. 82).*
 
@@ -634,7 +634,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158001
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -646,51 +646,51 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158001
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Błysk Świtu — id 158002
+##### Umiejętność: Błysk Świtu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158003
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Rozszczepiacz Świtu — id 158004
+##### Umiejętność: Rozszczepiacz Świtu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Świt — id 158005
+##### Umiejętność: Świt
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +4 |      2 |    3 |
 
-##### Umiejętność: Strażnik — id 158006
+##### Umiejętność: Strażnik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |          8 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zadymka — id 158007
+##### Umiejętność: Zadymka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Yuna — id 1581
+#### Yuna
 
 *Wystąpienia: ×1 (poz. 75).*
 
@@ -711,7 +711,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -723,45 +723,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158101
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Cięcie Motyla — id 158102
+##### Umiejętność: Cięcie Motyla
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał — id 158103
+##### Umiejętność: Wystrzał
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał - Wysokie Słońce — id 158104
+##### Umiejętność: Wystrzał - Wysokie Słońce
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    3 |
 
-##### Umiejętność: Napiętnowanie — id 158105
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Łączenie — id 158106
+##### Umiejętność: Łączenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Oscar — id 1583
+#### Oscar
 
 *Wystąpienia: ×1 (poz. 80).*
 
@@ -782,7 +782,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158301
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -794,45 +794,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Szybkie Dzierżenie — id 158301
+##### Umiejętność: Szybkie Dzierżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Błyskawiczna Włócznia — id 158302
+##### Umiejętność: Błyskawiczna Włócznia
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Pchnięcie — id 158303
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Przyjęcie Szyku Klina — id 158304
+##### Umiejętność: Przyjęcie Szyku Klina
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158305
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zejdź z Drogi. — id 158306
+##### Umiejętność: Zejdź z Drogi.
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pameli — id 1584
+#### Pameli
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -853,7 +853,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -865,39 +865,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158401
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Korzystając z Impetu — id 158402
+##### Umiejętność: Korzystając z Impetu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158403
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Przebiję cię Szybko i Pewnie — id 158404
+##### Umiejętność: Przebiję cię Szybko i Pewnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158405
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pamela — id 1585
+#### Pamela
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -918,7 +918,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -930,39 +930,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158501
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Uderzenie w Szczelinę — id 158502
+##### Umiejętność: Uderzenie w Szczelinę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158503
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Moja włócznia przebije cię bez chyby. — id 158504
+##### Umiejętność: Moja włócznia przebije cię bez chyby.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158505
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Philip — id 1586
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -983,7 +983,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158601
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -995,39 +995,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-##### Umiejętność: Skrucha — id 158601
+##### Umiejętność: Skrucha
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 158605, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Volatile Effloresced E.G.O::Waxen Pinion — id 1587
+#### Volatile Effloresced E.G.O::Waxen Pinion
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -1048,7 +1048,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 **Części (anatomia):**
 
-##### Korpus — id 158701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -1060,37 +1060,37 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 *Opis:* Część
 
-##### Umiejętność: Smutny Zmierzch — id 158701
+##### Umiejętność: Smutny Zmierzch
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tarcza z Piór — id 158702
+##### Umiejętność: Tarcza z Piór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Żarzący się Miecz — id 158703
+##### Umiejętność: Żarzący się Miecz
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Gwałtowny Napór — id 158704
+##### Umiejętność: Gwałtowny Napór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płonący Cios — id 158705
+##### Umiejętność: Płonący Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         15 |        +15 |      1 |    5 |
 
-**Pasywki:** *(wpisy id: 158705, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 5-76
 
@@ -1098,7 +1098,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 - **Fala 2:** Oscar ×1 (poz. 80); Pameli ×1 (poz. 70); Pamela ×1 (poz. 70); Philip ×1 (poz. 65)
 - **Fala 3:** Volatile Effloresced E.G.O::Waxen Pinion ×1 (poz. 65)
 
-#### Philip — id 1582
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -1119,7 +1119,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158201
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -1131,33 +1131,33 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 158205, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Salvador — id 1580
+#### Salvador
 
 *Wystąpienia: ×1 (poz. 82).*
 
@@ -1178,7 +1178,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158001
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -1190,51 +1190,51 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158001
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Błysk Świtu — id 158002
+##### Umiejętność: Błysk Świtu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158003
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Rozszczepiacz Świtu — id 158004
+##### Umiejętność: Rozszczepiacz Świtu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Świt — id 158005
+##### Umiejętność: Świt
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +4 |      2 |    3 |
 
-##### Umiejętność: Strażnik — id 158006
+##### Umiejętność: Strażnik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |          8 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zadymka — id 158007
+##### Umiejętność: Zadymka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Yuna — id 1581
+#### Yuna
 
 *Wystąpienia: ×1 (poz. 75).*
 
@@ -1255,7 +1255,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -1267,45 +1267,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158101
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Cięcie Motyla — id 158102
+##### Umiejętność: Cięcie Motyla
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał — id 158103
+##### Umiejętność: Wystrzał
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał - Wysokie Słońce — id 158104
+##### Umiejętność: Wystrzał - Wysokie Słońce
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    3 |
 
-##### Umiejętność: Napiętnowanie — id 158105
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Łączenie — id 158106
+##### Umiejętność: Łączenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Oscar — id 1583
+#### Oscar
 
 *Wystąpienia: ×1 (poz. 80).*
 
@@ -1326,7 +1326,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158301
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -1338,45 +1338,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Szybkie Dzierżenie — id 158301
+##### Umiejętność: Szybkie Dzierżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Błyskawiczna Włócznia — id 158302
+##### Umiejętność: Błyskawiczna Włócznia
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Pchnięcie — id 158303
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Przyjęcie Szyku Klina — id 158304
+##### Umiejętność: Przyjęcie Szyku Klina
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158305
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zejdź z Drogi. — id 158306
+##### Umiejętność: Zejdź z Drogi.
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pameli — id 1584
+#### Pameli
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -1397,7 +1397,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -1409,39 +1409,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158401
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Korzystając z Impetu — id 158402
+##### Umiejętność: Korzystając z Impetu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158403
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Przebiję cię Szybko i Pewnie — id 158404
+##### Umiejętność: Przebiję cię Szybko i Pewnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158405
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pamela — id 1585
+#### Pamela
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -1462,7 +1462,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -1474,39 +1474,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158501
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Uderzenie w Szczelinę — id 158502
+##### Umiejętność: Uderzenie w Szczelinę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158503
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Moja włócznia przebije cię bez chyby. — id 158504
+##### Umiejętność: Moja włócznia przebije cię bez chyby.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158505
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Philip — id 1586
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -1527,7 +1527,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158601
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -1539,39 +1539,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-##### Umiejętność: Skrucha — id 158601
+##### Umiejętność: Skrucha
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 158605, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Volatile Effloresced E.G.O::Waxen Pinion — id 1587
+#### Volatile Effloresced E.G.O::Waxen Pinion
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -1592,7 +1592,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 **Części (anatomia):**
 
-##### Korpus — id 158701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -1604,37 +1604,37 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 *Opis:* Część
 
-##### Umiejętność: Smutny Zmierzch — id 158701
+##### Umiejętność: Smutny Zmierzch
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tarcza z Piór — id 158702
+##### Umiejętność: Tarcza z Piór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Żarzący się Miecz — id 158703
+##### Umiejętność: Żarzący się Miecz
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Gwałtowny Napór — id 158704
+##### Umiejętność: Gwałtowny Napór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płonący Cios — id 158705
+##### Umiejętność: Płonący Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         15 |        +15 |      1 |    5 |
 
-**Pasywki:** *(wpisy id: 158705, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 5-77
 
@@ -1642,7 +1642,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 - **Fala 2:** Oscar ×1 (poz. 80); Pameli ×1 (poz. 70); Pamela ×1 (poz. 70); Philip ×1 (poz. 65)
 - **Fala 3:** Volatile Effloresced E.G.O::Waxen Pinion ×1 (poz. 65)
 
-#### Philip — id 1582
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -1663,7 +1663,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158201
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -1675,33 +1675,33 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 158205, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Salvador — id 1580
+#### Salvador
 
 *Wystąpienia: ×1 (poz. 82).*
 
@@ -1722,7 +1722,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158001
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -1734,51 +1734,51 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158001
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Błysk Świtu — id 158002
+##### Umiejętność: Błysk Świtu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158003
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Rozszczepiacz Świtu — id 158004
+##### Umiejętność: Rozszczepiacz Świtu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Świt — id 158005
+##### Umiejętność: Świt
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +4 |      2 |    3 |
 
-##### Umiejętność: Strażnik — id 158006
+##### Umiejętność: Strażnik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |          8 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zadymka — id 158007
+##### Umiejętność: Zadymka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Yuna — id 1581
+#### Yuna
 
 *Wystąpienia: ×1 (poz. 75).*
 
@@ -1799,7 +1799,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -1811,45 +1811,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158101
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Cięcie Motyla — id 158102
+##### Umiejętność: Cięcie Motyla
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał — id 158103
+##### Umiejętność: Wystrzał
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wystrzał - Wysokie Słońce — id 158104
+##### Umiejętność: Wystrzał - Wysokie Słońce
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    3 |
 
-##### Umiejętność: Napiętnowanie — id 158105
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Łączenie — id 158106
+##### Umiejętność: Łączenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Oscar — id 1583
+#### Oscar
 
 *Wystąpienia: ×1 (poz. 80).*
 
@@ -1870,7 +1870,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158301
+##### Korpus
 
 | Parametr           | Wartość                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -1882,45 +1882,45 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Szybkie Dzierżenie — id 158301
+##### Umiejętność: Szybkie Dzierżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Błyskawiczna Włócznia — id 158302
+##### Umiejętność: Błyskawiczna Włócznia
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Pchnięcie — id 158303
+##### Umiejętność: Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Przyjęcie Szyku Klina — id 158304
+##### Umiejętność: Przyjęcie Szyku Klina
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158305
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zejdź z Drogi. — id 158306
+##### Umiejętność: Zejdź z Drogi.
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pameli — id 1584
+#### Pameli
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -1941,7 +1941,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -1953,39 +1953,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158401
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Korzystając z Impetu — id 158402
+##### Umiejętność: Korzystając z Impetu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158403
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Przebiję cię Szybko i Pewnie — id 158404
+##### Umiejętność: Przebiję cię Szybko i Pewnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158405
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Pamela — id 1585
+#### Pamela
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -2006,7 +2006,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -2018,39 +2018,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie — id 158501
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Uderzenie w Szczelinę — id 158502
+##### Umiejętność: Uderzenie w Szczelinę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zamieć Włócznią — id 158503
+##### Umiejętność: Zamieć Włócznią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Moja włócznia przebije cię bez chyby. — id 158504
+##### Umiejętność: Moja włócznia przebije cię bez chyby.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Wyrównanie Oddechu — id 158505
+##### Umiejętność: Wyrównanie Oddechu
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          8 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Philip — id 1586
+#### Philip
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -2071,7 +2071,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 **Części (anatomia):**
 
-##### Korpus — id 158601
+##### Korpus
 
 | Parametr           | Wartość                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
@@ -2083,39 +2083,39 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 
 *Opis:* Część
 
-##### Umiejętność: Obsługa Zlecenia — id 158201
+##### Umiejętność: Obsługa Zlecenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Miecz Zachodzącego Słońca — id 158202
+##### Umiejętność: Miecz Zachodzącego Słońca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Napiętnowanie — id 158203
+##### Umiejętność: Napiętnowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 158204
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          7 |        +10 |      1 |    1 |
 
-##### Umiejętność: Skrucha — id 158601
+##### Umiejętność: Skrucha
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 158605, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Volatile Effloresced E.G.O::Waxen Pinion — id 1587
+#### Volatile Effloresced E.G.O::Waxen Pinion
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -2136,7 +2136,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 **Części (anatomia):**
 
-##### Korpus — id 158701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -2148,34 +2148,34 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 
 *Opis:* Część
 
-##### Umiejętność: Smutny Zmierzch — id 158701
+##### Umiejętność: Smutny Zmierzch
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tarcza z Piór — id 158702
+##### Umiejętność: Tarcza z Piór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Żarzący się Miecz — id 158703
+##### Umiejętność: Żarzący się Miecz
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Gwałtowny Napór — id 158704
+##### Umiejętność: Gwałtowny Napór
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płonący Cios — id 158705
+##### Umiejętność: Płonący Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         15 |        +15 |      1 |    5 |
 
-**Pasywki:** *(wpisy id: 158705, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*

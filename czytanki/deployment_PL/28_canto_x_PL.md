@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Thirsty Kaki ×2 (poz. 10); Hungry Kaki ×2 (poz. 10)
 
-#### Thirsty Kaki — id 91059
+#### Thirsty Kaki
 
 *Wystąpienia: ×2 (poz. 10).*
 
@@ -25,25 +25,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
-##### Umiejętność: Bicie (×2) — id 9105901
+##### Umiejętność: Bicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Bodnięcie Tułowiem — id 9105902
+##### Umiejętność: Bodnięcie Tułowiem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbicie — id 9105903
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9105904
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -57,7 +57,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 - **Phew, my bottle's safe** — Koniec tury: jeżeli ta jednostka nie ma [Krwawienie], przywraca 5 SP
 - **I must fill the bottle** — jeżeli cel trafiony Umiejętnością tej jednostki ma [Krwawienie], a ta jednostka nie ma pełnego HP, przywraca 2% HP (2 razy na turę; zaokrąglone w dół)
 
-#### Hungry Kaki — id 91060
+#### Hungry Kaki
 
 *Wystąpienia: ×2 (poz. 10).*
 
@@ -76,25 +76,25 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Część
 
-##### Umiejętność: Cios (×2) — id 9106001
+##### Umiejętność: Cios (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Popychanie Tułowiem — id 9106002
+##### Umiejętność: Popychanie Tułowiem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbicie — id 9106003
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9106004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -112,7 +112,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 - **Fala 1:** Le Noir Sales Associate Gustave ×1 (poz. 10)
 
-#### Le Noir Sales Associate Gustave — id 1465
+#### Le Noir Sales Associate Gustave
 
 *Wystąpienia: ×1 (poz. 10).*
 
@@ -131,7 +131,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Części (anatomia):**
 
-##### Korpus — id 146501
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -143,43 +143,43 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Opis:* Część
 
-##### Umiejętność: Proszę, koszule tutaj. — id 146501
+##### Umiejętność: Proszę, koszule tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Proszę, spodnie tutaj. — id 146502
+##### Umiejętność: Proszę, spodnie tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tego towaru nie można przymierzać, kliencie. — id 146503
+##### Umiejętność: Tego towaru nie można przymierzać, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie. — id 146504
+##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Proszę dbać, by towar nie ucierpiał. — id 146505
+##### Umiejętność: Proszę dbać, by towar nie ucierpiał.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Kliencie! Proszę nie gniotć towaru! — id 146506
+##### Umiejętność: Kliencie! Proszę nie gniotć towaru!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +5 |      1 |    7 |
 
-##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali. — id 146507
+##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -196,7 +196,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 - **Fala 1:** Thirsty Kaki ×3 (poz. 35); Hungry Kaki ×2 (poz. 35)
 
-#### Thirsty Kaki — id 91061
+#### Thirsty Kaki
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -215,25 +215,25 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106101
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106102
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106103
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106104
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -248,7 +248,7 @@ Zyskaj 1 [Wrażliwość]
 - **I hear it... the Voice of another god...!** — Przy pierwszym pojawieniu się w walce zyskuje 2 [Promienie Słońca]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 
-#### Hungry Kaki — id 91062
+#### Hungry Kaki
 
 *Wystąpienia: ×2 (poz. 35).*
 
@@ -267,25 +267,25 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106201
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106202
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106203
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106204
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -304,7 +304,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** Leather Wallet ×4 (poz. 35)
 
-#### Leather Wallet — id 1480
+#### Leather Wallet
 
 *Wystąpienia: ×4 (poz. 35).*
 
@@ -317,7 +317,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Części (anatomia):**
 
-##### Korpus — id 148001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -329,25 +329,25 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam (×2) — id 147501
+##### Umiejętność: Mniam Mniam (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk na Pustym Żołądku — id 148003
+##### Umiejętność: Beeełk na Pustym Żołądku
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Powłóczenie — id 148004
+##### Umiejętność: Powłóczenie
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -362,7 +362,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** L'Inamovible ×1 (poz. 43)
 
-#### L'Inamovible — id 1466
+#### L'Inamovible
 
 *Wystąpienia: ×1 (poz. 43).*
 
@@ -379,7 +379,7 @@ Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
 **Części (anatomia):**
 
-##### Korpus — id 146601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                              |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -391,55 +391,53 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Słyszę... Słyszę! — id 146601
+##### Umiejętność: Słyszę... Słyszę!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          8 |         −4 |      2 |    1 |
 
-##### Umiejętność: Otrzymałem kolejną szansę na przebranie! — id 146602
+##### Umiejętność: Otrzymałem kolejną szansę na przebranie!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          9 |         −4 |      2 |    1 |
 
-##### Umiejętność: Moja wiara nie była nadaremna! — id 146603
+##### Umiejętność: Moja wiara nie była nadaremna!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Skrobać! Zdzierać! Odrzerać! — id 146604
+##### Umiejętność: Skrobać! Zdzierać! Odrzerać!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         13 |         −5 |      2 |    1 |
 
-##### Umiejętność: Świat miał w końcu sens! — id 146605
+##### Umiejętność: Świat miał w końcu sens!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         15 |         −5 |      1 |    7 |
 
-##### Umiejętność: Głos jest ze mną, tego jestem pewien! — id 146606
+##### Umiejętność: Głos jest ze mną, tego jestem pewien!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −5 |      1 |    1 |
 
-##### Umiejętność: Być sobą... Być w pełni sobą...! — id 146607
+##### Umiejętność: Być sobą... Być w pełni sobą...!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |         11 |         −4 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 10-8
 
 - **Fala 1:** Sous Chef ×1 (poz. 35); Leather Wallet ×4 (poz. 35); Leather Wallet ×1 (poz. 35) (wsparcie)
 
-#### Sous Chef — id 1474
+#### Sous Chef
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -456,7 +454,7 @@ Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
 **Części (anatomia):**
 
-##### Korpus — id 147401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -468,49 +466,49 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Kroję mięso, rozumiecie? — id 147401
+##### Umiejętność: Kroję mięso, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kroję duże kawałki, rozumiecie? — id 147402
+##### Umiejętność: Kroję duże kawałki, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie? — id 147403
+##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie? — id 147404
+##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      4 |    5 |
 
-##### Umiejętność: Zbieram składniki, rozumiecie? — id 147405
+##### Umiejętność: Zbieram składniki, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie? — id 147407
+##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    4 |
 
-##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie? — id 147408
+##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          0 |         +0 |      1 |   11 |
 
-##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?! — id 147409
+##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -530,7 +528,7 @@ Koniec tury: jeżeli ta jednostka nie użyła Umiejętności „Aah! I'm on lunc
 Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Umiejętności Gniewu
 - **Yummies yummers, you hear?** — Początek tury: przywraca 3 SP za każde 1 [Smakołyki zjedzone, siła nabyta, jasne?] tej jednostki
 
-#### Leather Wallet — id 1475
+#### Leather Wallet
 
 *Wystąpienia: ×5 (poz. 35) · też jako wsparcie.*
 
@@ -543,7 +541,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Części (anatomia):**
 
-##### Korpus — id 147501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -555,19 +553,19 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam — id 147501
+##### Umiejętność: Mniam Mniam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk — id 147503
+##### Umiejętność: Beeełk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -583,7 +581,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 - **Fala 1:** Le Noir Sales Associate [Sunshone] ×3 (poz. 18)
 
-#### Le Noir Sales Associate [Sunshone] — id 91066
+#### Le Noir Sales Associate [Sunshone]
 
 *Wystąpienia: ×3 (poz. 18).*
 
@@ -600,19 +598,19 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
-##### Umiejętność: Nie dotykaj...! (×2) — id 9106601
+##### Umiejętność: Nie dotykaj...! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! — id 9106602
+##### Umiejętność: Zabierz łapy...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -637,7 +635,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Zachowanie]
 
 - **Fala 1:** 3F Floor Manager ×1 (poz. 40)
 
-#### 3F Floor Manager — id 1481
+#### 3F Floor Manager
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -650,7 +648,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Zachowanie]
 
 **Części (anatomia):**
 
-##### Korpus — id 148101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                     |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -662,55 +660,55 @@ Po przegranej w Starciu zyskuje 2 Licznika [Zachowanie]
 
 *Opis:* Część
 
-##### Umiejętność: Komunikat — id 148101
+##### Umiejętność: Komunikat
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Komunikat Ostrzegawczy — id 148102
+##### Umiejętność: Komunikat Ostrzegawczy
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dziękuję... za wysłuchanie... — id 148103
+##### Umiejętność: Dziękuję... za wysłuchanie...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szarża — id 148104
+##### Umiejętność: Szarża
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ciężka Szarża — id 148105
+##### Umiejętność: Ciężka Szarża
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Ech na Całe Piętro — id 148106
+##### Umiejętność: Ech na Całe Piętro
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: WHUMP! THUMP! KRA-KOOM! — id 148107
+##### Umiejętność: WHUMP! THUMP! KRA-KOOM!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +6 |      1 |    7 |
 
-##### Umiejętność: Ech na Całe Piętro — id 148108
+##### Umiejętność: Ech na Całe Piętro
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: WHUMP! THUMP! KRA-KOOM! BOOM-CRACK! — id 148109
+##### Umiejętność: WHUMP! THUMP! KRA-KOOM! BOOM-CRACK!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -733,7 +731,7 @@ przy HP 50% lub mniej Umiejętność używana w pewnym wzorcu zostaje zastąpion
 
 - **Fala 1:** The Crimson God [Inchoate Life] ×1 (poz. 50); Ripped Flesh of the Crimson God ×1 (poz. 50) (wsparcie)
 
-#### The Crimson God [Inchoate Life] — id 1484
+#### The Crimson God [Inchoate Life]
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -753,7 +751,7 @@ Zadawane obrażenia +10%
 W Starciu z celem mającym co najmniej 3 [Chrzest [Czerwień]]: Moc Starcia +3
 **Części (anatomia):**
 
-##### Lifecord — id 148401
+##### Lifecord
 
 | Parametr           | Wartość                                                                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -765,7 +763,7 @@ W Starciu z celem mającym co najmniej 3 [Chrzest [Czerwień]]: Moc Starcia +3
 
 *Opis:* The Crimson God Part
 
-##### Korpus — id 148402
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -777,79 +775,79 @@ W Starciu z celem mającym co najmniej 3 [Chrzest [Czerwień]]: Moc Starcia +3
 
 *Opis:* Część
 
-##### Umiejętność: Hrgh... — id 148401
+##### Umiejętność: Hrgh...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Nngh... — id 148402
+##### Umiejętność: Nngh...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Pw... ffeh... — id 148403
+##### Umiejętność: Pw... ffeh...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    3 |
 
-##### Umiejętność: Zi...mno… — id 148404
+##### Umiejętność: Zi...mno…
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Boli...! Ciało... nie słucha...!!! — id 148405
+##### Umiejętność: Boli...! Ciało... nie słucha...!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    3 |
 
-##### Umiejętność: Głód... zima... boli...! — id 148406
+##### Umiejętność: Głód... zima... boli...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      4 |    5 |
 
-##### Umiejętność: Odejd...dź... — id 148407
+##### Umiejętność: Odejd...dź...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Głód... głód... — id 148408
+##### Umiejętność: Głód... głód...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Coś... do... jedzenia... — id 148409
+##### Umiejętność: Coś... do... jedzenia...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    3 |
 
-##### Umiejętność: Słyszę... ten Głos... — id 148410
+##### Umiejętność: Słyszę... ten Głos...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    3 |
 
-##### Umiejętność: Nie... rób tego... — id 148411
+##### Umiejętność: Nie... rób tego...
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Chc...ę... — id 148412
+##### Umiejętność: Chc...ę...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kim... ja jestem...? — id 148413
+##### Umiejętność: Kim... ja jestem...?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -883,7 +881,7 @@ następnie nie traci Stosów [Paroksyzm], dopóki Część Lifecord nie zostanie
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Ripped Flesh of the Crimson God — id 1497
+#### Ripped Flesh of the Crimson God
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
@@ -898,7 +896,7 @@ następnie nie traci Stosów [Paroksyzm], dopóki Część Lifecord nie zostanie
 
 **Części (anatomia):**
 
-##### Korpus — id 149701
+##### Korpus
 
 | Parametr   | Wartość                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------ |
@@ -909,7 +907,7 @@ następnie nie traci Stosów [Paroksyzm], dopóki Część Lifecord nie zostanie
 
 *Opis:* Część
 
-##### Umiejętność: Zmęczone Przywołanie — id 149701
+##### Umiejętność: Zmęczone Przywołanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -925,7 +923,7 @@ jednostka zostaje pokonana, gdy [Instynkt Życia] wygaśnie
 
 - **Fala 1:** Le Rouge Sales Associate [Sunshone] ×3 (poz. 15)
 
-#### Le Rouge Sales Associate [Sunshone] — id 91067
+#### Le Rouge Sales Associate [Sunshone]
 
 *Wystąpienia: ×3 (poz. 15).*
 
@@ -942,25 +940,25 @@ jednostka zostaje pokonana, gdy [Instynkt Życia] wygaśnie
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
-##### Umiejętność: Szywanie — id 149401
+##### Umiejętność: Szywanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie — id 149402
+##### Umiejętność: Tłoczenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching — id 149403
+##### Umiejętność: Triple Stitching
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -988,7 +986,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
 - **Fala 1:** Four-legs ×1 (poz. 23)
 
-#### Four-legs — id 1482
+#### Four-legs
 
 *Wystąpienia: ×1 (poz. 23).*
 
@@ -1005,7 +1003,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 148201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------------------------- |
@@ -1017,25 +1015,25 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
 *Opis:* Część
 
-##### Umiejętność: Cwał — id 148201
+##### Umiejętność: Cwał
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Cwał, Skok! — id 148202
+##### Umiejętność: Cwał, Skok!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odetnij Mi Je! Proszę! — id 148203
+##### Umiejętność: Odetnij Mi Je! Proszę!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +4 |      3 |    1 |
 
-##### Umiejętność: Cwał-cwał, jakie przerażające odgłosy... — id 148204
+##### Umiejętność: Cwał-cwał, jakie przerażające odgłosy...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1051,7 +1049,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 - **Fala 1:** One-leg ×1 (poz. 25)
 
-#### One-leg — id 1483
+#### One-leg
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -1068,7 +1066,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 148301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -1080,43 +1078,43 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 *Opis:* Część
 
-##### Umiejętność: Obrzydliwość! — id 148301
+##### Umiejętność: Obrzydliwość!
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wstyd Wam za tę dodatkową nogę? — id 148302
+##### Umiejętność: Wstyd Wam za tę dodatkową nogę?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odetnę Ci to. Uznaj to za łaskę. — id 148303
+##### Umiejętność: Odetnę Ci to. Uznaj to za łaskę.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Jedno Kopnięcie — id 148304
+##### Umiejętność: Jedno Kopnięcie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Jedno Kopnięcie - Couture Multiple — id 148305
+##### Umiejętność: Jedno Kopnięcie - Couture Multiple
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      4 |    1 |
 
-**Pasywki:** *(wpisy id: 146504 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 10-15
 
 - **Fala 1:** Warp Needlekin ×1 (poz. 38); Weft Needlekin ×1 (poz. 38); Warp Needlekin ×1 (poz. 38)
 
-#### Warp Needlekin — id 91063
+#### Warp Needlekin
 
 *Wystąpienia: ×2 (poz. 38).*
 
@@ -1133,25 +1131,25 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
-##### Umiejętność: Szew Bieżący - Osnowa (×2) — id 9106301
+##### Umiejętność: Szew Bieżący - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Osnowa (×2) — id 9106302
+##### Umiejętność: Szew Tymczasowy - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Osnowa — id 9106303
+##### Umiejętność: Zszywanie - Osnowa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Osnowa — id 9106304
+##### Umiejętność: Ślepy Szew - Osnowa
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1164,7 +1162,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 - **I hear it... the Voice of another god...!** — Przy pierwszym pojawieniu się w walce zyskuje 2 [Promienie Słońca]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 
-#### Weft Needlekin — id 91064
+#### Weft Needlekin
 
 *Wystąpienia: ×1 (poz. 38).*
 
@@ -1181,25 +1179,25 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
-##### Umiejętność: Szew Bieżący - Wątek (×2) — id 9106401
+##### Umiejętność: Szew Bieżący - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Wątek (×2) — id 9106402
+##### Umiejętność: Szew Tymczasowy - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Wątek — id 9106403
+##### Umiejętność: Zszywanie - Wątek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Wątek — id 9106404
+##### Umiejętność: Ślepy Szew - Wątek
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1216,7 +1214,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 - **Fala 1:** King of Needleworks ×1 (poz. 43); Warp Needlekin ×1 (poz. 35) (wsparcie); Weft Needlekin ×1 (poz. 35) (wsparcie)
 
-#### King of Needleworks — id 1496
+#### King of Needleworks
 
 *Wystąpienia: ×1 (poz. 43).*
 
@@ -1233,7 +1231,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
 **Części (anatomia):**
 
-##### Korpus — id 149601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1245,61 +1243,61 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 *Opis:* Część
 
-##### Umiejętność: Bla Bla Nachylenie Bla — id 149601
+##### Umiejętność: Bla Bla Nachylenie Bla
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Naru Wątek Naru — id 149602
+##### Umiejętność: Naru Wątek Naru
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      3 |    4 |
 
-##### Umiejętność: Ścieg! Ścieg! Ścieg! — id 149603
+##### Umiejętność: Ścieg! Ścieg! Ścieg!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: 20 szwów na cal, minimum!!! — id 149604
+##### Umiejętność: 20 szwów na cal, minimum!!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          8 |         +8 |      1 |    7 |
 
-##### Umiejętność: Za równo, mówisz? To nie pikowanie, mówisz? Zbiórka!!! — id 149605
+##### Umiejętność: Za równo, mówisz? To nie pikowanie, mówisz? Zbiórka!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Mam to szyć ręcznie?! RĘCZNIE???!!! — id 149606
+##### Umiejętność: Mam to szyć ręcznie?! RĘCZNIE???!!!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Podwójny ścieg za szwem bocznym? Podwójna igła! Odrzucone! — id 149607
+##### Umiejętność: Podwójny ścieg za szwem bocznym? Podwójna igła! Odrzucone!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          8 |         +4 |      1 |    7 |
 
-##### Umiejętność: Brak krzyżowych guzików? Odrzucam! — id 149608
+##### Umiejętność: Brak krzyżowych guzików? Odrzucam!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pikowanie aż tak rzuca się w oczy, mówisz?! To ja cię samym pikowaniem przyszyję! — id 149609
+##### Umiejętność: Pikowanie aż tak rzuca się w oczy, mówisz?! To ja cię samym pikowaniem przyszyję!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          1 |         +1 |      1 |    7 |
 
-##### Umiejętność: Po prostu... Zjedz!! — id 149610
+##### Umiejętność: Po prostu... Zjedz!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1315,7 +1313,7 @@ w turze, w której słychać „Cry of the Cocoon”, ta jednostka jest odporna 
 
 jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w następnej turze 2 [Wrażliwość]
 
-#### Warp Needlekin — id 1498
+#### Warp Needlekin
 
 *Wystąpienia: ×1 (poz. 35) · też jako wsparcie.*
 
@@ -1332,7 +1330,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
 **Części (anatomia):**
 
-##### Korpus — id 149801
+##### Korpus
 
 | Parametr           | Wartość                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -1344,25 +1342,25 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 *Opis:* Część
 
-##### Umiejętność: Szew Bieżący - Osnowa (×2) — id 9106301
+##### Umiejętność: Szew Bieżący - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Osnowa (×2) — id 9106302
+##### Umiejętność: Szew Tymczasowy - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Osnowa — id 9106303
+##### Umiejętność: Zszywanie - Osnowa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Osnowa — id 9106304
+##### Umiejętność: Ślepy Szew - Osnowa
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1373,7 +1371,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 - **Sewing** — nakłada o 1 więcej Stosów [Gwoździk] na cele mające 1.5+ Odporności na Kłucie lub Zawiść
 - **Tiny and Sharp Nails** — nakładając Umiejętnościami Siłę [Krwawienie] na wrogów mających [Gwoździk], nakłada dodatkowo (Stosy [Gwoździk] celu) Siły [Krwawienie] (maks. 3)
 
-#### Weft Needlekin — id 1499
+#### Weft Needlekin
 
 *Wystąpienia: ×1 (poz. 35) · też jako wsparcie.*
 
@@ -1390,7 +1388,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
 **Części (anatomia):**
 
-##### Korpus — id 149901
+##### Korpus
 
 | Parametr           | Wartość                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -1402,25 +1400,25 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 *Opis:* Część
 
-##### Umiejętność: Szew Bieżący - Wątek (×2) — id 9106401
+##### Umiejętność: Szew Bieżący - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Wątek (×2) — id 9106402
+##### Umiejętność: Szew Tymczasowy - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Wątek — id 9106403
+##### Umiejętność: Zszywanie - Wątek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Wątek — id 9106404
+##### Umiejętność: Ślepy Szew - Wątek
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1435,7 +1433,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 - **Fala 1:** Le Noir Sales Associate Gustave ×1 (poz. 13)
 
-#### Le Noir Sales Associate Gustave — id 1534
+#### Le Noir Sales Associate Gustave
 
 *Wystąpienia: ×1 (poz. 13).*
 
@@ -1454,7 +1452,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 **Części (anatomia):**
 
-##### Korpus — id 153401
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -1466,43 +1464,43 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 *Opis:* Część
 
-##### Umiejętność: Proszę, koszule tutaj. — id 146501
+##### Umiejętność: Proszę, koszule tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Proszę, spodnie tutaj. — id 146502
+##### Umiejętność: Proszę, spodnie tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tego towaru nie można przymierzać, kliencie. — id 146503
+##### Umiejętność: Tego towaru nie można przymierzać, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie. — id 146504
+##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Proszę dbać, by towar nie ucierpiał. — id 146505
+##### Umiejętność: Proszę dbać, by towar nie ucierpiał.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Kliencie! Proszę nie gniotć towaru! — id 146506
+##### Umiejętność: Kliencie! Proszę nie gniotć towaru!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +5 |      1 |    7 |
 
-##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali. — id 146507
+##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1519,7 +1517,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 - **Fala 1:** Thirsty Kaki ×3 (poz. 35); Hungry Kaki ×2 (poz. 35)
 
-#### Thirsty Kaki — id 91061
+#### Thirsty Kaki
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -1538,25 +1536,25 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106101
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106102
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106103
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106104
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1571,7 +1569,7 @@ Zyskaj 1 [Wrażliwość]
 - **I hear it... the Voice of another god...!** — Przy pierwszym pojawieniu się w walce zyskuje 2 [Promienie Słońca]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 
-#### Hungry Kaki — id 91062
+#### Hungry Kaki
 
 *Wystąpienia: ×2 (poz. 35).*
 
@@ -1590,25 +1588,25 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106201
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106202
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106203
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106204
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1627,7 +1625,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** Leather Wallet ×3 (poz. 35); Thirsty Kaki ×1 (poz. 35); Hungry Kaki ×1 (poz. 35)
 
-#### Leather Wallet — id 1480
+#### Leather Wallet
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -1640,7 +1638,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Części (anatomia):**
 
-##### Korpus — id 148001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -1652,25 +1650,25 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam (×2) — id 147501
+##### Umiejętność: Mniam Mniam (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk na Pustym Żołądku — id 148003
+##### Umiejętność: Beeełk na Pustym Żołądku
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Powłóczenie — id 148004
+##### Umiejętność: Powłóczenie
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1681,7 +1679,7 @@ Zyskaj 1 [Wrażliwość]
 - **Flavorful Cooking Ingredient.** — jeżeli ta jednostka ma 5+ efektów statusu, zyskuje 3 Poziomu Ataku i 3 Poziomu Obrony
 - **Enzymatic Tenderization** — przy trafieniu zyskuje w następnej turze 1 Spadek Poziomu Obrony i 1 Wzrost Poziomu Ataku (maks. 3 na turę)
 
-#### Thirsty Kaki — id 1529
+#### Thirsty Kaki
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -1700,7 +1698,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Części (anatomia):**
 
-##### Korpus — id 152901
+##### Korpus
 
 | Parametr           | Wartość                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------- |
@@ -1712,25 +1710,25 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Grzebanie (×2) — id 9106101
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106102
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106103
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106104
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1745,7 +1743,7 @@ Zyskaj 1 [Wrażliwość]
 - **I hear it... the Voice of another god...!** — Przy pierwszym pojawieniu się w walce zyskuje 2 [Promienie Słońca]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 
-#### Hungry Kaki — id 1530
+#### Hungry Kaki
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -1764,7 +1762,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Części (anatomia):**
 
-##### Korpus — id 153001
+##### Korpus
 
 | Parametr           | Wartość                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------- |
@@ -1776,25 +1774,25 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Grzebanie (×2) — id 9106201
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106202
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106203
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106204
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1813,7 +1811,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** Le Noir Sales Associate [Sunshone] ×3 (poz. 35)
 
-#### Le Noir Sales Associate [Sunshone] — id 91068
+#### Le Noir Sales Associate [Sunshone]
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -1830,19 +1828,19 @@ Zyskaj 1 [Wrażliwość]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
-##### Umiejętność: Nie dotykaj...! — id 9106601
+##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! — id 9106602
+##### Umiejętność: Zabierz łapy...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1863,7 +1861,7 @@ przy użyciu Umiejętności, przy 15+ Licznika [Zachowanie], zużywa 3 Licznika 
 
 - **Fala 1:** Le Rouge Sales Associate Mimosa ×3 (poz. 35)
 
-#### Le Rouge Sales Associate Mimosa — id 91069
+#### Le Rouge Sales Associate Mimosa
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -1882,25 +1880,25 @@ przy użyciu Umiejętności, przy 15+ Licznika [Zachowanie], zużywa 3 Licznika 
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
 *Opis:* 1F NPC
 
-##### Umiejętność: Szywanie (×2) — id 149401
+##### Umiejętność: Szywanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie — id 149402
+##### Umiejętność: Tłoczenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching — id 149403
+##### Umiejętność: Triple Stitching
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1925,7 +1923,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 - **Fala 1:** Thirsty Kaki ×2 (poz. 35); Hungry Kaki ×3 (poz. 35)
 
-#### Thirsty Kaki — id 91061
+#### Thirsty Kaki
 
 *Wystąpienia: ×2 (poz. 35).*
 
@@ -1944,25 +1942,25 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106101
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106102
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106103
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106104
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1977,7 +1975,7 @@ Zyskaj 1 [Wrażliwość]
 - **I hear it... the Voice of another god...!** — Przy pierwszym pojawieniu się w walce zyskuje 2 [Promienie Słońca]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 
-#### Hungry Kaki — id 91062
+#### Hungry Kaki
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -1996,25 +1994,25 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106201
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106202
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106203
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106204
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2033,7 +2031,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** Thirsty Kaki ×2 (poz. 35); Hungry Kaki ×3 (poz. 35)
 
-#### Thirsty Kaki — id 91061
+#### Thirsty Kaki
 
 *Wystąpienia: ×2 (poz. 35).*
 
@@ -2052,25 +2050,25 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106101
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106102
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106103
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106104
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2085,7 +2083,7 @@ Zyskaj 1 [Wrażliwość]
 - **I hear it... the Voice of another god...!** — Przy pierwszym pojawieniu się w walce zyskuje 2 [Promienie Słońca]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 
-#### Hungry Kaki — id 91062
+#### Hungry Kaki
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -2104,25 +2102,25 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×2) — id 9106201
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106202
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106203
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106204
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2141,7 +2139,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** Sous Chef ×1 (poz. 35); Leather Wallet ×4 (poz. 35); Leather Wallet ×1 (poz. 35) (wsparcie)
 
-#### Sous Chef — id 1474
+#### Sous Chef
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -2158,7 +2156,7 @@ Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
 **Części (anatomia):**
 
-##### Korpus — id 147401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -2170,49 +2168,49 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Kroję mięso, rozumiecie? — id 147401
+##### Umiejętność: Kroję mięso, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kroję duże kawałki, rozumiecie? — id 147402
+##### Umiejętność: Kroję duże kawałki, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie? — id 147403
+##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie? — id 147404
+##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      4 |    5 |
 
-##### Umiejętność: Zbieram składniki, rozumiecie? — id 147405
+##### Umiejętność: Zbieram składniki, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie? — id 147407
+##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    4 |
 
-##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie? — id 147408
+##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          0 |         +0 |      1 |   11 |
 
-##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?! — id 147409
+##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2232,7 +2230,7 @@ Koniec tury: jeżeli ta jednostka nie użyła Umiejętności „Aah! I'm on lunc
 Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Umiejętności Gniewu
 - **Yummies yummers, you hear?** — Początek tury: przywraca 3 SP za każde 1 [Smakołyki zjedzone, siła nabyta, jasne?] tej jednostki
 
-#### Leather Wallet — id 1475
+#### Leather Wallet
 
 *Wystąpienia: ×5 (poz. 35) · też jako wsparcie.*
 
@@ -2245,7 +2243,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Części (anatomia):**
 
-##### Korpus — id 147501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -2257,19 +2255,19 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam — id 147501
+##### Umiejętność: Mniam Mniam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk — id 147503
+##### Umiejętność: Beeełk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2285,7 +2283,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 - **Fala 1:** One-leg ×1 (poz. 25)
 
-#### One-leg — id 1533
+#### One-leg
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -2302,7 +2300,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 148301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -2314,43 +2312,41 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Obrzydliwość! — id 148301
+##### Umiejętność: Obrzydliwość!
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wstyd Wam za tę dodatkową nogę? — id 148302
+##### Umiejętność: Wstyd Wam za tę dodatkową nogę?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odetnę Ci to. Uznaj to za łaskę. — id 148303
+##### Umiejętność: Odetnę Ci to. Uznaj to za łaskę.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Jedno Kopnięcie — id 148304
+##### Umiejętność: Jedno Kopnięcie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Jedno Kopnięcie - Couture Multiple — id 148305
+##### Umiejętność: Jedno Kopnięcie - Couture Multiple
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      4 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 1100401
 
 - **Fala 1:** Le Noir Sales Associate Gustave ×1 (poz. 10)
 
-#### Le Noir Sales Associate Gustave — id 1465
+#### Le Noir Sales Associate Gustave
 
 *Wystąpienia: ×1 (poz. 10).*
 
@@ -2369,7 +2365,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Części (anatomia):**
 
-##### Korpus — id 146501
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -2381,43 +2377,43 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Proszę, koszule tutaj. — id 146501
+##### Umiejętność: Proszę, koszule tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Proszę, spodnie tutaj. — id 146502
+##### Umiejętność: Proszę, spodnie tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tego towaru nie można przymierzać, kliencie. — id 146503
+##### Umiejętność: Tego towaru nie można przymierzać, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie. — id 146504
+##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Proszę dbać, by towar nie ucierpiał. — id 146505
+##### Umiejętność: Proszę dbać, by towar nie ucierpiał.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Kliencie! Proszę nie gniotć towaru! — id 146506
+##### Umiejętność: Kliencie! Proszę nie gniotć towaru!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +5 |      1 |    7 |
 
-##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali. — id 146507
+##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2432,7 +2428,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 ## Pula Canto X · część 1 (`a1c10p1`) — jednostki bez przypisanego etapu
 
-#### jednostka 1467 — id 1467
+#### jednostka 1467
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2442,12 +2438,12 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | HP           | 534 (+18,41 za poziom)                         |
 | Sloty akcji  | start: 5 · maks. 5                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1100 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 146701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2459,39 +2455,39 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 146701 — id 146701
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          9 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 146702 — id 146702
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         10 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 146703 — id 146703
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         14 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 146704 — id 146704
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 146705 — id 146705
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          9 |         +7 |      1 |    7 |
 
-**Pasywki:** *(wpisy id: 146701, 146703 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1468 — id 1468
+#### jednostka 1468
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2501,12 +2497,12 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | HP           | 209 (+7,21 za poziom)                          |
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1100 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 146801
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -2518,21 +2514,21 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 146801 — id 146801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 146802 — id 146802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 146801 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1469 — id 1469
+#### jednostka 1469
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2542,12 +2538,12 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | HP           | 209 (+7,21 za poziom)                          |
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1100 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 146901
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -2559,21 +2555,21 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 146801 — id 146801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 146802 — id 146802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 146901 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1470 — id 1470
+#### jednostka 1470
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2583,12 +2579,12 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | HP           | 209 (+7,21 za poziom)                          |
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1100 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147001
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -2600,21 +2596,21 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 146801 — id 146801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 146802 — id 146802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 147001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1471 — id 1471
+#### jednostka 1471
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2624,12 +2620,12 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | HP           | 209 (+7,21 za poziom)                          |
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1100 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147101
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -2641,21 +2637,21 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 146801 — id 146801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 146802 — id 146802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 147101 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1472 — id 1472
+#### jednostka 1472
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2665,12 +2661,12 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | HP           | 209 (+7,21 za poziom)                          |
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1100 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147201
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -2682,21 +2678,21 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 146801 — id 146801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 146802 — id 146802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 147201 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1473 — id 1473
+#### jednostka 1473
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2706,12 +2702,12 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | HP           | 209 (+7,21 za poziom)                          |
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1100 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147301
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -2723,21 +2719,21 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 146801 — id 146801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 146802 — id 146802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 147301 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1493 — id 1493
+#### jednostka 1493
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2754,7 +2750,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
 **Części (anatomia):**
 
-##### Korpus — id 149301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -2766,33 +2762,31 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: Szywanie — id 149401
+##### Umiejętność: Szywanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie — id 149402
+##### Umiejętność: Tłoczenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching — id 149403
+##### Umiejętność: Triple Stitching
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          7 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### jednostka 1500 — id 1500
+#### jednostka 1500
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2809,7 +2803,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
 **Części (anatomia):**
 
-##### Korpus — id 150001
+##### Korpus
 
 | Parametr           | Wartość                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -2821,25 +2815,25 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: Szew Bieżący - Osnowa (×2) — id 9106301
+##### Umiejętność: Szew Bieżący - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Osnowa (×2) — id 9106302
+##### Umiejętność: Szew Tymczasowy - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Osnowa — id 9106303
+##### Umiejętność: Zszywanie - Osnowa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Osnowa — id 9106304
+##### Umiejętność: Ślepy Szew - Osnowa
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2850,7 +2844,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 - **Sewing** — nakłada o 1 więcej Stosów [Gwoździk] na cele mające 1.5+ Odporności na Kłucie lub Zawiść
 - **Tiny and Sharp Nails** — nakładając Umiejętnościami Siłę [Krwawienie] na wrogów mających [Gwoździk], nakłada dodatkowo (Stosy [Gwoździk] celu) Siły [Krwawienie] (maks. 3)
 
-#### Le Rouge Sales Associate [Sunshone] — id 98001
+#### Le Rouge Sales Associate [Sunshone]
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2867,25 +2861,25 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
-##### Umiejętność: Szywanie (×9) — id 149401
+##### Umiejętność: Szywanie (×9)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie (×6) — id 149402
+##### Umiejętność: Tłoczenie (×6)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching (×2) — id 149403
+##### Umiejętność: Triple Stitching (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2909,7 +2903,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
-#### Le Noir Sales Associate [Sunshone] — id 98002
+#### Le Noir Sales Associate [Sunshone]
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2926,19 +2920,19 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
-##### Umiejętność: Nie dotykaj...! (×3) — id 9106601
+##### Umiejętność: Nie dotykaj...! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! (×2) — id 9106602
+##### Umiejętność: Zabierz łapy...! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2959,7 +2953,7 @@ przy użyciu Umiejętności, przy 15+ Licznika [Zachowanie], zużywa 3 Licznika 
 
 Po przegranej w Starciu zyskuje 2 Licznika [Zachowanie]
 
-#### Thirsty Kaki — id 98003
+#### Thirsty Kaki
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2978,25 +2972,25 @@ Po przegranej w Starciu zyskuje 2 Licznika [Zachowanie]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×3) — id 9106101
+##### Umiejętność: Grzebanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie (×2) — id 9106102
+##### Umiejętność: Wygrabienie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106103
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106104
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3011,7 +3005,7 @@ Zyskaj 1 [Wrażliwość]
 - **I hear it... the Voice of another god...!** — Przy pierwszym pojawieniu się w walce zyskuje 2 [Promienie Słońca]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 
-#### Hungry Kaki — id 98004
+#### Hungry Kaki
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3030,25 +3024,25 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
-##### Umiejętność: Grzebanie (×3) — id 9106201
+##### Umiejętność: Grzebanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie (×2) — id 9106202
+##### Umiejętność: Wygrabienie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106203
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106204
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3069,7 +3063,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** Flannel ×1 (poz. 46); Maison du Noir ×4 (poz. 45)
 
-#### Flannel — id 1504
+#### Flannel
 
 *Wystąpienia: ×1 (poz. 46).*
 
@@ -3086,7 +3080,7 @@ Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku -3, Poziom Obrony +4
 **Części (anatomia):**
 
-##### Korpus — id 150401
+##### Korpus
 
 | Parametr           | Wartość                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------- |
@@ -3096,31 +3090,31 @@ Zyskaj 1 [Wrażliwość]
 | Progi oszołomienia | 0%                                                                                    |
 | Odporności         | Cięcie ×0,8; Żądza ×1,25; Lenistwo ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Proszę o historię zakupów? — id 150401
+##### Umiejętność: Proszę o historię zakupów?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Proszę o prawo zakupu? — id 150402
+##### Umiejętność: Proszę o prawo zakupu?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie [Flanela] — id 150403
+##### Umiejętność: Tłoczenie [Flanela]
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Wzmocnić Tkaninę — id 150404
+##### Umiejętność: Wzmocnić Tkaninę
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dla Zachowania — id 150405
+##### Umiejętność: Dla Zachowania
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3136,7 +3130,7 @@ gdy staje się Oszołamiona, traci wszystkie [Le Noir: Tkanina Czesankowa]
 Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 [Le Noir: Tkanina Czesankowa]
 - **Shower of Stinging Sunshine** — poziom tej jednostki jest podniesiony pod wpływem słońca
 
-#### Maison du Noir — id 1505
+#### Maison du Noir
 
 *Wystąpienia: ×4 (poz. 45).*
 
@@ -3153,7 +3147,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 150501
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -3163,25 +3157,25 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 | Progi oszołomienia | 0%                                                                                   |
 | Odporności         | Cięcie ×0,8; Obuch ×1,2; Lenistwo ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Ile Państwo Cenią? — id 150501
+##### Umiejętność: Ile Państwo Cenią?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wad Na Okrągło — id 150502
+##### Umiejętność: Wad Na Okrągło
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie [Filc] — id 150503
+##### Umiejętność: Tłoczenie [Filc]
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Tłoczenie [Reverb] — id 150504
+##### Umiejętność: Tłoczenie [Reverb]
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3201,7 +3195,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 - **Fala 1:** Annette the Alterationist ×1 (poz. 48)
 
-#### Annette the Alterationist — id 1495
+#### Annette the Alterationist
 
 *Wystąpienia: ×1 (poz. 48).*
 
@@ -3220,7 +3214,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 - Przy każdym otrzymanym trafieniu zyskaj 1 Siły [Wstrząs] oraz +1 Licznika [Wstrząs] (raz na umiejętność, maks. 5 na turę)
 **Części (anatomia):**
 
-##### Korpus — id 149501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3230,37 +3224,37 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 | Progi oszołomienia | 50% / -10% / -70%                                                                                                                                                                   |
 | Odporności         | Kłucie ×0,75; Obuch ×1,2; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Lenistwo ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Docinka — id 149501
+##### Umiejętność: Docinka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Krojenie — id 149502
+##### Umiejętność: Krojenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Przypięcie i Docinanie według Szablonów — id 149503
+##### Umiejętność: Przypięcie i Docinanie według Szablonów
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Coupez dans le Biais — id 149504
+##### Umiejętność: Coupez dans le Biais
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +3 |      4 |    4 |
 
-##### Umiejętność: Wycenianie Szablonów — id 149505
+##### Umiejętność: Wycenianie Szablonów
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Surfile à la Chaîne — id 149506
+##### Umiejętność: Surfile à la Chaîne
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3274,7 +3268,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 - **Fala 1:** ??? ×1 (poz. 55); One Who Emerged from the Earth ×2 (poz. 50); One Who Emerged from the Earth ×1 (poz. 50) (wsparcie)
 
-#### ??? — id 1501
+#### ???
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -3289,7 +3283,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 **Części (anatomia):**
 
-##### Korpus — id 150101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                          |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3299,49 +3293,49 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 | Progi oszołomienia | 40%                                                                                                                                              |
 | Odporności         | Obuch ×1,2; Gniew ×1,2; Żądza ×1,2; Obżar. ×0,75 (Endured); Posępność ×0,5 (Ineff.); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Narodziny Wiosny — id 150101
+##### Umiejętność: Narodziny Wiosny
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jesienny Zmierzch — id 150102
+##### Umiejętność: Jesienny Zmierzch
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Lalka, która Chciała Być Człowiekiem — id 150103
+##### Umiejętność: Lalka, która Chciała Być Człowiekiem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Człowiek, który Chciał Być Lalką — id 150104
+##### Umiejętność: Człowiek, który Chciał Być Lalką
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      3 |    3 |
 
-##### Umiejętność: Pachnący Wieniec Laurowy — id 150105
+##### Umiejętność: Pachnący Wieniec Laurowy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Z Nadzieją Powrotu w Proch... — id 150106
+##### Umiejętność: Z Nadzieją Powrotu w Proch...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         15 |         +6 |      1 |    7 |
 
-##### Umiejętność: Zostanie złożone do grobu ze wszystkim, co chce żyć — id 150107
+##### Umiejętność: Zostanie złożone do grobu ze wszystkim, co chce żyć
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Kiedy kwiaty zastąpią pożądanie w sercach wszystkich... — id 150108
+##### Umiejętność: Kiedy kwiaty zastąpią pożądanie w sercach wszystkich...
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3371,7 +3365,7 @@ Początek tury: **jeżeli istnieje cel w Panice lub w Korozji, używa „... It 
 jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who Emerged from the Earth
 - efekt nie uruchamia się, jeżeli na polu są 4 One Who Emerged from the Earth
 
-#### One Who Emerged from the Earth — id 1502
+#### One Who Emerged from the Earth
 
 *Wystąpienia: ×3 (poz. 50) · też jako wsparcie.*
 
@@ -3386,7 +3380,7 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 
 **Części (anatomia):**
 
-##### Korpus — id 150201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                          |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3396,19 +3390,19 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 | Progi oszołomienia | 0%                                                                                                                                               |
 | Odporności         | Obuch ×1,2; Gniew ×1,2; Żądza ×1,2; Obżar. ×0,75 (Endured); Posępność ×0,5 (Ineff.); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Kopiec Kwiatów — id 150201
+##### Umiejętność: Kopiec Kwiatów
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Pęknięcie w Sercu — id 150202
+##### Umiejętność: Pęknięcie w Sercu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Splatająca Rozpacz — id 150203
+##### Umiejętność: Splatająca Rozpacz
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3426,7 +3420,7 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 
 - **Fala 1:** jednostka 1489 ×1 (poz. 45); jednostka 1490 ×1 (poz. 45)
 
-#### jednostka 1489 — id 1489
+#### jednostka 1489
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -3436,12 +3430,12 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 | HP           | 626 (+21,59 za poziom)                         |
 | Sloty akcji  | start: 4 · maks. 7                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1107 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 148901
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -3453,51 +3447,51 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 148901 — id 148901
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 148902 — id 148902
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 148903 — id 148903
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 148904 — id 148904
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          9 |         +9 |      1 |    1 |
 
-##### Umiejętność: umiejętność 148905 — id 148905
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 148906 — id 148906
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          9 |        +11 |      1 |    3 |
 
-##### Umiejętność: umiejętność 148907 — id 148907
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 148903, 148904, 148905 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1490 — id 1490
+#### jednostka 1490
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -3507,12 +3501,12 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 | HP           | 626 (+21,59 za poziom)                         |
 | Sloty akcji  | start: 4 · maks. 7                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1108 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 149001
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -3524,55 +3518,55 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 149001 — id 149001
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 149002 — id 149002
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 149003 — id 149003
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 149004 — id 149004
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          9 |         +9 |      1 |    1 |
 
-##### Umiejętność: umiejętność 149005 — id 149005
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 149006 — id 149006
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: umiejętność 149007 — id 149007
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 149003, 149004, 149005 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 10-30
 
 - **Fala 1:** The Overseer ×1 (poz. 65); Tanned Prisoner ×1 (poz. 60) (wsparcie)
 
-#### The Overseer — id 1488
+#### The Overseer
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -3591,7 +3585,7 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 - Początek Tury: nałóż 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń] na wszystkich pozostałych sojuszników
 **Części (anatomia):**
 
-##### Korpus — id 148801
+##### Korpus
 
 | Parametr           | Wartość                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------- |
@@ -3603,43 +3597,43 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 
 *Opis:* Część
 
-##### Umiejętność: Zdzieranie Skóry — id 148801
+##### Umiejętność: Zdzieranie Skóry
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Oskórowanie — id 148802
+##### Umiejętność: Oskórowanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Brain Tanning — id 148803
+##### Umiejętność: Brain Tanning
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Rozszczepianie — id 148804
+##### Umiejętność: Rozszczepianie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      1 |    1 |
 
-##### Umiejętność: Massive Splitting — id 148805
+##### Umiejętność: Massive Splitting
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      1 |    7 |
 
-##### Umiejętność: Tumbling Skór w Tłuszczu Mózgu: W Stylu Grzechu Pierworodnego — id 148806
+##### Umiejętność: Tumbling Skór w Tłuszczu Mózgu: W Stylu Grzechu Pierworodnego
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      3 |    7 |
 
-##### Umiejętność: Punishing Burnishing Finishing — id 148807
+##### Umiejętność: Punishing Burnishing Finishing
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3662,7 +3656,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 30.
 
-#### Tanned Prisoner — id 1491
+#### Tanned Prisoner
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -3675,7 +3669,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 **Części (anatomia):**
 
-##### Korpus — id 149101
+##### Korpus
 
 | Parametr           | Wartość                                                                          |
 | ------------------ | -------------------------------------------------------------------------------- |
@@ -3687,19 +3681,19 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 *Opis:* Część
 
-##### Umiejętność: Rozpylanie Łoju Mózgowego (×2) — id 149101
+##### Umiejętność: Rozpylanie Łoju Mózgowego (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Polerowanie Łojem Mózgowym (×2) — id 149102
+##### Umiejętność: Polerowanie Łojem Mózgowym (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odkupieńcze Tłoczenie — id 149103
+##### Umiejętność: Odkupieńcze Tłoczenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3713,7 +3707,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 - **Fala 1:** Le Noir's Brand Manager ×1 (poz. 70); Le Noir Sales Associate ×3 (poz. 68) (wsparcie); Maison du Noir ×2 (poz. 68) (wsparcie)
 
-#### Le Noir's Brand Manager — id 1506
+#### Le Noir's Brand Manager
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -3730,7 +3724,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 **Efekt Paniki:** Poziom Ataku -3, Poziom Obrony +4
 **Części (anatomia):**
 
-##### Korpus — id 150601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -3742,61 +3736,61 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 *Opis:* Część
 
-##### Umiejętność: Niech Wbije się Gwóźdź — id 150601
+##### Umiejętność: Niech Wbije się Gwóźdź
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Niech Gwóźdź Się Przyzwie — id 150602
+##### Umiejętność: Niech Gwóźdź Się Przyzwie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Stukanie — id 150603
+##### Umiejętność: Stukanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    3 |
 
-##### Umiejętność: W Świetle Przygładzonego Milczenia — id 150604
+##### Umiejętność: W Świetle Przygładzonego Milczenia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Ogłoszenie: Sanktuarium Zachowania — id 150605
+##### Umiejętność: Ogłoszenie: Sanktuarium Zachowania
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         15 |         +4 |      1 |    8 |
 
-##### Umiejętność: Objawienia — id 150606
+##### Umiejętność: Objawienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przymierze — id 150607
+##### Umiejętność: Przymierze
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         10 |         +2 |      1 |    1 |
 
-##### Umiejętność: Ucinam wasze narodziny. — id 150608
+##### Umiejętność: Ucinam wasze narodziny.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         15 |         +4 |      2 |    5 |
 
-##### Umiejętność: Każdym ciosem utnę twoje nadejście! — id 150609
+##### Umiejętność: Każdym ciosem utnę twoje nadejście!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         15 |         +5 |      2 |    7 |
 
-##### Umiejętność: Wierni, Odpowiedzcie na Wołanie — id 150610
+##### Umiejętność: Wierni, Odpowiedzcie na Wołanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3806,7 +3800,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 - **The Battle Continues** — rozpoczyna tę walkę z 80% HP i 45 SP
 
-#### Le Noir Sales Associate — id 1531
+#### Le Noir Sales Associate
 
 *Wystąpienia: ×3 (poz. 68) · też jako wsparcie.*
 
@@ -3823,7 +3817,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 153101
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -3835,25 +3829,25 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 *Opis:* Część
 
-##### Umiejętność: Nie dotykaj...! — id 9106601
+##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! — id 9106602
+##### Umiejętność: Zabierz łapy...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Tłoczenie [Reverb] — id 150504
+##### Umiejętność: Tłoczenie [Reverb]
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3865,7 +3859,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa])% Maks. HP tej jednostki
 
-#### Maison du Noir — id 1579
+#### Maison du Noir
 
 *Wystąpienia: ×2 (poz. 68) · też jako wsparcie.*
 
@@ -3882,7 +3876,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 157901
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -3894,25 +3888,25 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 *Opis:* Część
 
-##### Umiejętność: Ile Państwo Cenią? — id 150501
+##### Umiejętność: Ile Państwo Cenią?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wad Na Okrągło — id 150502
+##### Umiejętność: Wad Na Okrągło
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie [Filc] — id 150503
+##### Umiejętność: Tłoczenie [Filc]
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Tłoczenie [Reverb] — id 150504
+##### Umiejętność: Tłoczenie [Reverb]
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3932,7 +3926,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 - **Fala 1:** King of Needleworks ×1 (poz. 64); Warp Needlekin ×1 (poz. 59) (wsparcie); Weft Needlekin ×1 (poz. 59) (wsparcie)
 
-#### King of Needleworks — id 1510
+#### King of Needleworks
 
 *Wystąpienia: ×1 (poz. 64).*
 
@@ -3949,7 +3943,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
 **Części (anatomia):**
 
-##### Korpus — id 151001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3961,61 +3955,61 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 *Opis:* Część
 
-##### Umiejętność: Bla Bla Nachylenie Bla — id 149601
+##### Umiejętność: Bla Bla Nachylenie Bla
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Naru Wątek Naru — id 149602
+##### Umiejętność: Naru Wątek Naru
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      3 |    4 |
 
-##### Umiejętność: Ścieg! Ścieg! Ścieg! — id 149603
+##### Umiejętność: Ścieg! Ścieg! Ścieg!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: 20 szwów na cal, minimum!!! — id 149604
+##### Umiejętność: 20 szwów na cal, minimum!!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          8 |         +8 |      1 |    7 |
 
-##### Umiejętność: Za równo, mówisz? To nie pikowanie, mówisz? Zbiórka!!! — id 149605
+##### Umiejętność: Za równo, mówisz? To nie pikowanie, mówisz? Zbiórka!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Mam to szyć ręcznie?! RĘCZNIE???!!! — id 149606
+##### Umiejętność: Mam to szyć ręcznie?! RĘCZNIE???!!!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Podwójny ścieg za szwem bocznym? Podwójna igła! Odrzucone! — id 149607
+##### Umiejętność: Podwójny ścieg za szwem bocznym? Podwójna igła! Odrzucone!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          8 |         +4 |      1 |    7 |
 
-##### Umiejętność: Brak krzyżowych guzików? Odrzucam! — id 149608
+##### Umiejętność: Brak krzyżowych guzików? Odrzucam!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pikowanie aż tak rzuca się w oczy, mówisz?! To ja cię samym pikowaniem przyszyję! — id 149609
+##### Umiejętność: Pikowanie aż tak rzuca się w oczy, mówisz?! To ja cię samym pikowaniem przyszyję!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          1 |         +1 |      1 |    7 |
 
-##### Umiejętność: Po prostu... Zjedz!! — id 149610
+##### Umiejętność: Po prostu... Zjedz!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4032,7 +4026,7 @@ nie może zostać unieruchomiona
 
 Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
-#### Warp Needlekin — id 1498
+#### Warp Needlekin
 
 *Wystąpienia: ×1 (poz. 59) · też jako wsparcie.*
 
@@ -4049,7 +4043,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
 **Części (anatomia):**
 
-##### Korpus — id 149801
+##### Korpus
 
 | Parametr           | Wartość                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -4061,25 +4055,25 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
 *Opis:* Część
 
-##### Umiejętność: Szew Bieżący - Osnowa (×2) — id 9106301
+##### Umiejętność: Szew Bieżący - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Osnowa (×2) — id 9106302
+##### Umiejętność: Szew Tymczasowy - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Osnowa — id 9106303
+##### Umiejętność: Zszywanie - Osnowa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Osnowa — id 9106304
+##### Umiejętność: Ślepy Szew - Osnowa
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4090,7 +4084,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 - **Sewing** — nakłada o 1 więcej Stosów [Gwoździk] na cele mające 1.5+ Odporności na Kłucie lub Zawiść
 - **Tiny and Sharp Nails** — nakładając Umiejętnościami Siłę [Krwawienie] na wrogów mających [Gwoździk], nakłada dodatkowo (Stosy [Gwoździk] celu) Siły [Krwawienie] (maks. 3)
 
-#### Weft Needlekin — id 1499
+#### Weft Needlekin
 
 *Wystąpienia: ×1 (poz. 59) · też jako wsparcie.*
 
@@ -4107,7 +4101,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
 **Części (anatomia):**
 
-##### Korpus — id 149901
+##### Korpus
 
 | Parametr           | Wartość                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -4119,25 +4113,25 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
 *Opis:* Część
 
-##### Umiejętność: Szew Bieżący - Wątek (×2) — id 9106401
+##### Umiejętność: Szew Bieżący - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Wątek (×2) — id 9106402
+##### Umiejętność: Szew Tymczasowy - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Wątek — id 9106403
+##### Umiejętność: Zszywanie - Wątek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Wątek — id 9106404
+##### Umiejętność: Ślepy Szew - Wątek
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4152,7 +4146,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
 - **Fala 1:** Sous Chef ×1 (poz. 64); Leather Wallet ×4 (poz. 57); Leather Wallet ×1 (poz. 57) (wsparcie)
 
-#### Sous Chef — id 1511
+#### Sous Chef
 
 *Wystąpienia: ×1 (poz. 64).*
 
@@ -4169,7 +4163,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
 **Części (anatomia):**
 
-##### Korpus — id 151101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -4181,49 +4175,49 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
 *Opis:* Część
 
-##### Umiejętność: Kroję mięso, rozumiecie? — id 147401
+##### Umiejętność: Kroję mięso, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kroję duże kawałki, rozumiecie? — id 147402
+##### Umiejętność: Kroję duże kawałki, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie? — id 147403
+##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie? — id 147404
+##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      4 |    5 |
 
-##### Umiejętność: Zbieram składniki, rozumiecie? — id 147405
+##### Umiejętność: Zbieram składniki, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie? — id 147407
+##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    4 |
 
-##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie? — id 147408
+##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          0 |         +0 |      1 |   11 |
 
-##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?! — id 147409
+##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4245,7 +4239,7 @@ Koniec tury: jeżeli ta jednostka nie użyła Umiejętności „Aah! I'm on lunc
 Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Umiejętności Gniewu
 - **Yummies yummers, you hear?** — Początek tury: przywraca 3 SP za każde 1 [Smakołyki zjedzone, siła nabyta, jasne?] tej jednostki
 
-#### Leather Wallet — id 1543
+#### Leather Wallet
 
 *Wystąpienia: ×5 (poz. 57) · też jako wsparcie.*
 
@@ -4258,7 +4252,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Części (anatomia):**
 
-##### Korpus — id 147501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -4270,19 +4264,19 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam — id 147501
+##### Umiejętność: Mniam Mniam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk — id 147503
+##### Umiejętność: Beeełk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -4299,7 +4293,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 - **Fala 1:** 3F Floor Manager ×1 (poz. 64)
 
-#### 3F Floor Manager — id 1512
+#### 3F Floor Manager
 
 *Wystąpienia: ×1 (poz. 64).*
 
@@ -4312,7 +4306,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Części (anatomia):**
 
-##### Korpus — id 151201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                     |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4324,55 +4318,55 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Komunikat — id 148101
+##### Umiejętność: Komunikat
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Komunikat Ostrzegawczy — id 148102
+##### Umiejętność: Komunikat Ostrzegawczy
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dziękuję... za wysłuchanie... — id 148103
+##### Umiejętność: Dziękuję... za wysłuchanie...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szarża — id 148104
+##### Umiejętność: Szarża
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ciężka Szarża — id 148105
+##### Umiejętność: Ciężka Szarża
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Ech na Całe Piętro — id 148106
+##### Umiejętność: Ech na Całe Piętro
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: WHUMP! THUMP! KRA-KOOM! — id 148107
+##### Umiejętność: WHUMP! THUMP! KRA-KOOM!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +6 |      1 |    7 |
 
-##### Umiejętność: Ech na Całe Piętro — id 148108
+##### Umiejętność: Ech na Całe Piętro
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: WHUMP! THUMP! KRA-KOOM! BOOM-CRACK! — id 148109
+##### Umiejętność: WHUMP! THUMP! KRA-KOOM! BOOM-CRACK!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4398,7 +4392,7 @@ przy HP 50% lub mniej Umiejętność używana w pewnym wzorcu zostaje zastąpion
 
 - **Fala 1:** Blackthread of the Elden Sea ×1 (poz. 65)
 
-#### Blackthread of the Elden Sea — id 1503
+#### Blackthread of the Elden Sea
 
 *Wystąpienia: ×1 (poz. 65).*
 
@@ -4422,7 +4416,7 @@ przy HP 50% lub mniej Umiejętność używana w pewnym wzorcu zostaje zastąpion
 
 **Części (anatomia):**
 
-##### Korpus — id 150301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4434,7 +4428,7 @@ przy HP 50% lub mniej Umiejętność używana w pewnym wzorcu zostaje zastąpion
 
 *Opis:* 검은 실 괴물 부위
 
-##### Lewe Ramie — id 150302
+##### Lewe Ramie
 
 | Parametr           | Wartość                                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4446,7 +4440,7 @@ przy HP 50% lub mniej Umiejętność używana w pewnym wzorcu zostaje zastąpion
 
 *Opis:* 검은 실 괴물 부위
 
-##### Prawe Ramie — id 150303
+##### Prawe Ramie
 
 | Parametr           | Wartość                                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4458,49 +4452,49 @@ przy HP 50% lub mniej Umiejętność używana w pewnym wzorcu zostaje zastąpion
 
 *Opis:* 검은 실 괴물 부위
 
-##### Umiejętność: Oddaj To... — id 150301
+##### Umiejętność: Oddaj To...
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         12 |         −2 |      2 |    1 |
 
-##### Umiejętność: Oddaj... — id 150302
+##### Umiejętność: Oddaj...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         15 |         −2 |      2 |    3 |
 
-##### Umiejętność: Nie odbieraj Mi Tego... — id 150303
+##### Umiejętność: Nie odbieraj Mi Tego...
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         17 |         −4 |      1 |    3 |
 
-##### Umiejętność: Splecione i Skręcone — id 150304
+##### Umiejętność: Splecione i Skręcone
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         14 |         −1 |      3 |    1 |
 
-##### Umiejętność: Wiercenie Prastarej Istoty — id 150305
+##### Umiejętność: Wiercenie Prastarej Istoty
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         15 |         −2 |      2 |    3 |
 
-##### Umiejętność: Splot — id 150306
+##### Umiejętność: Splot
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         16 |         −2 |      2 |    3 |
 
-##### Umiejętność: Gęba Otchłani — id 150307
+##### Umiejętność: Gęba Otchłani
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         18 |         −6 |      1 |    1 |
 
-##### Umiejętność: Oczyszczenie — id 150308
+##### Umiejętność: Oczyszczenie
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4539,7 +4533,7 @@ Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0
 
 - **Fala 1:** Putty ×1 (poz. 64)
 
-#### Putty — id 1519
+#### Putty
 
 *Wystąpienia: ×1 (poz. 64).*
 
@@ -4558,7 +4552,7 @@ Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0
 
 **Części (anatomia):**
 
-##### Korpus — id 151901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -4568,43 +4562,41 @@ Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0
 | Progi oszołomienia | 60% / 30%                                                                                                           |
 | Odporności         | Cięcie ×1,2; Kłucie ×0,75; Lenistwo ×1,2; Pycha ×0,75 (Endured); Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Odpalanie — id 151901
+##### Umiejętność: Odpalanie
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Nawlekanie Nitki — id 151902
+##### Umiejętność: Nawlekanie Nitki
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Maszynowy — id 151903
+##### Umiejętność: Szew Maszynowy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Szew Łańcuszkowy — id 151904
+##### Umiejętność: Szew Łańcuszkowy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: 2-needle Bottom Coverstitch Rainbow Overlock — id 151905
+##### Umiejętność: 2-needle Bottom Coverstitch Rainbow Overlock
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +5 |      4 |    7 |
 
-**Pasywki:** brak
-
 ### Etap 10-42
 
 - **Fala 1:** One-leg ×1 (poz. 50)
 
-#### One-leg — id 1532
+#### One-leg
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -4621,7 +4613,7 @@ Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 148301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -4633,31 +4625,31 @@ Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0
 
 *Opis:* Część
 
-##### Umiejętność: Obrzydliwość! — id 148301
+##### Umiejętność: Obrzydliwość!
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wstyd Wam za tę dodatkową nogę? — id 148302
+##### Umiejętność: Wstyd Wam za tę dodatkową nogę?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odetnę Ci to. Uznaj to za łaskę. — id 148303
+##### Umiejętność: Odetnę Ci to. Uznaj to za łaskę.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Jedno Kopnięcie — id 148304
+##### Umiejętność: Jedno Kopnięcie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Jedno Kopnięcie - Couture Multiple — id 148305
+##### Umiejętność: Jedno Kopnięcie - Couture Multiple
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -4675,7 +4667,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 - **Fala 1:** Thirsty Kaki ×2 (poz. 40); Hungry Kaki ×2 (poz. 40)
 
-#### Thirsty Kaki — id 91070
+#### Thirsty Kaki
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -4692,25 +4684,25 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
-##### Umiejętność: Bicie (×2) — id 9105901
+##### Umiejętność: Bicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Bodnięcie Tułowiem — id 9105902
+##### Umiejętność: Bodnięcie Tułowiem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbicie — id 9105903
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9105904
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4725,7 +4717,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 - **I must fill the bottle** — jeżeli cel trafiony Umiejętnością tej jednostki ma [Krwawienie], a ta jednostka nie ma pełnego HP, przywraca 2% HP (2 razy na turę; zaokrąglone w dół)
 - **Shower of Stinging Sunshine** — poziom tej jednostki jest podniesiony pod wpływem słońca
 
-#### Hungry Kaki — id 91071
+#### Hungry Kaki
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -4744,25 +4736,25 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Część
 
-##### Umiejętność: Cios (×2) — id 9106001
+##### Umiejętność: Cios (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Popychanie Tułowiem — id 9106002
+##### Umiejętność: Popychanie Tułowiem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbicie — id 9106003
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9106004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4781,7 +4773,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 - **Fala 1:** Le Noir Sales Associate Gustave ×1 (poz. 43); Le Noir Sales Associate ×4 (poz. 43)
 
-#### Le Noir Sales Associate Gustave — id 1538
+#### Le Noir Sales Associate Gustave
 
 *Wystąpienia: ×1 (poz. 43).*
 
@@ -4800,7 +4792,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Części (anatomia):**
 
-##### Korpus — id 153401
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -4812,43 +4804,43 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Opis:* Część
 
-##### Umiejętność: Proszę, koszule tutaj. — id 146501
+##### Umiejętność: Proszę, koszule tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Proszę, spodnie tutaj. — id 146502
+##### Umiejętność: Proszę, spodnie tutaj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tego towaru nie można przymierzać, kliencie. — id 146503
+##### Umiejętność: Tego towaru nie można przymierzać, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie. — id 146504
+##### Umiejętność: Przymierzajcie Państwo co wolisz, kliencie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Proszę dbać, by towar nie ucierpiał. — id 146505
+##### Umiejętność: Proszę dbać, by towar nie ucierpiał.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Kliencie! Proszę nie gniotć towaru! — id 146506
+##### Umiejętność: Kliencie! Proszę nie gniotć towaru!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +5 |      1 |    7 |
 
-##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali. — id 146507
+##### Umiejętność: Tego towaru nie mamy w Państwa rozmiarze; sprawdzę magazyn w centrali.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4862,7 +4854,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 - **Shower of Stinging Sunshine** — poziom tej jednostki jest podniesiony pod wpływem słońca
 
-#### Le Noir Sales Associate — id 1513
+#### Le Noir Sales Associate
 
 *Wystąpienia: ×4 (poz. 43).*
 
@@ -4879,7 +4871,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 151301
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -4891,19 +4883,19 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 *Opis:* Część
 
-##### Umiejętność: Nie dotykaj...! — id 9106601
+##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! — id 9106602
+##### Umiejętność: Zabierz łapy...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -4920,7 +4912,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 - **Fala 1:** Le Rouge Sales Associate Mimosa ×1 (poz. 43)
 
-#### Le Rouge Sales Associate Mimosa — id 1539
+#### Le Rouge Sales Associate Mimosa
 
 *Wystąpienia: ×1 (poz. 43).*
 
@@ -4939,7 +4931,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Części (anatomia):**
 
-##### Korpus — id 149401
+##### Korpus
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -4951,25 +4943,25 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 *Opis:* Część
 
-##### Umiejętność: Szywanie — id 149401
+##### Umiejętność: Szywanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie — id 149402
+##### Umiejętność: Tłoczenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching — id 149403
+##### Umiejętność: Triple Stitching
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4983,7 +4975,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 - **Fala 1:** Le Rouge Sales Associate [Sunshone] ×3 (poz. 45)
 
-#### Le Rouge Sales Associate [Sunshone] — id 91074
+#### Le Rouge Sales Associate [Sunshone]
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -5000,25 +4992,25 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
-##### Umiejętność: Szywanie — id 149401
+##### Umiejętność: Szywanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie — id 149402
+##### Umiejętność: Tłoczenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching — id 149403
+##### Umiejętność: Triple Stitching
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5047,7 +5039,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
 - **Fala 1:** Maison du Noir ×3 (poz. 62); Le Noir Sales Associate ×3 (poz. 60)
 
-#### Maison du Noir — id 1505
+#### Maison du Noir
 
 *Wystąpienia: ×3 (poz. 62).*
 
@@ -5064,7 +5056,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 150501
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -5074,25 +5066,25 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 | Progi oszołomienia | 0%                                                                                   |
 | Odporności         | Cięcie ×0,8; Obuch ×1,2; Lenistwo ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Ile Państwo Cenią? — id 150501
+##### Umiejętność: Ile Państwo Cenią?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wad Na Okrągło — id 150502
+##### Umiejętność: Wad Na Okrągło
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie [Filc] — id 150503
+##### Umiejętność: Tłoczenie [Filc]
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Tłoczenie [Reverb] — id 150504
+##### Umiejętność: Tłoczenie [Reverb]
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5108,7 +5100,7 @@ gdy staje się Oszołamiona, traci wszystkie [Le Noir: Tkanina Czesankowa]
 Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 [Le Noir: Tkanina Czesankowa]
 - **Shower of Stinging Sunshine** — poziom tej jednostki jest podniesiony pod wpływem słońca
 
-#### Le Noir Sales Associate — id 1531
+#### Le Noir Sales Associate
 
 *Wystąpienia: ×3 (poz. 60).*
 
@@ -5125,7 +5117,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 153101
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -5137,25 +5129,25 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 *Opis:* Część
 
-##### Umiejętność: Nie dotykaj...! — id 9106601
+##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! — id 9106602
+##### Umiejętność: Zabierz łapy...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Tłoczenie [Reverb] — id 150504
+##### Umiejętność: Tłoczenie [Reverb]
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5171,7 +5163,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 - **Fala 1:** Four-legs ×1 (poz. 48)
 
-#### Four-legs — id 1536
+#### Four-legs
 
 *Wystąpienia: ×1 (poz. 48).*
 
@@ -5188,7 +5180,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 148201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------------------------- |
@@ -5200,25 +5192,25 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 *Opis:* Część
 
-##### Umiejętność: Cwał — id 148201
+##### Umiejętność: Cwał
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Cwał, Skok! — id 148202
+##### Umiejętność: Cwał, Skok!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odetnij Mi Je! Proszę! — id 148203
+##### Umiejętność: Odetnij Mi Je! Proszę!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +4 |      3 |    1 |
 
-##### Umiejętność: Cwał-cwał, jakie przerażające odgłosy... — id 148204
+##### Umiejętność: Cwał-cwał, jakie przerażające odgłosy...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5239,7 +5231,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 - **Fala 1:** Leather Wallet ×4 (poz. 57)
 
-#### Leather Wallet — id 1540
+#### Leather Wallet
 
 *Wystąpienia: ×4 (poz. 57).*
 
@@ -5252,7 +5244,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 **Części (anatomia):**
 
-##### Korpus — id 148001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -5264,25 +5256,25 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam (×2) — id 147501
+##### Umiejętność: Mniam Mniam (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk na Pustym Żołądku — id 148003
+##### Umiejętność: Beeełk na Pustym Żołądku
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Powłóczenie — id 148004
+##### Umiejętność: Powłóczenie
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5298,7 +5290,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 - **Fala 1:** Leather Wallet ×3 (poz. 57); Thirsty Kaki ×1 (poz. 57); Hungry Kaki ×1 (poz. 57)
 
-#### Leather Wallet — id 1540
+#### Leather Wallet
 
 *Wystąpienia: ×3 (poz. 57).*
 
@@ -5311,7 +5303,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 **Części (anatomia):**
 
-##### Korpus — id 148001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -5323,25 +5315,25 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam (×2) — id 147501
+##### Umiejętność: Mniam Mniam (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk na Pustym Żołądku — id 148003
+##### Umiejętność: Beeełk na Pustym Żołądku
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Powłóczenie — id 148004
+##### Umiejętność: Powłóczenie
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5353,7 +5345,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 - **Enzymatic Tenderization** — przy trafieniu zyskuje w następnej turze 1 Spadek Poziomu Obrony i 1 Wzrost Poziomu Ataku (maks. 3 na turę)
 - **Shower of Stinging Sunshine** — poziom tej jednostki jest podniesiony pod wpływem słońca
 
-#### Thirsty Kaki — id 1541
+#### Thirsty Kaki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -5372,7 +5364,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Części (anatomia):**
 
-##### Korpus — id 152901
+##### Korpus
 
 | Parametr           | Wartość                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------- |
@@ -5384,25 +5376,25 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Grzebanie (×2) — id 9106101
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106102
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106103
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106104
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5418,7 +5410,7 @@ Zyskaj 1 [Wrażliwość]
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 - **Shower of Stinging Sunshine** — poziom tej jednostki jest podniesiony pod wpływem słońca
 
-#### Hungry Kaki — id 1542
+#### Hungry Kaki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -5437,7 +5429,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Części (anatomia):**
 
-##### Korpus — id 153001
+##### Korpus
 
 | Parametr           | Wartość                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------- |
@@ -5449,25 +5441,25 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Grzebanie (×2) — id 9106201
+##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wygrabienie — id 9106202
+##### Umiejętność: Wygrabienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Złapany! — id 9106203
+##### Umiejętność: Złapany!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ej! To Moje! — id 9106204
+##### Umiejętność: Ej! To Moje!
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5487,7 +5479,7 @@ Zyskaj 1 [Wrażliwość]
 
 - **Fala 1:** Sous Chef ×1 (poz. 64); Leather Wallet ×4 (poz. 57); Leather Wallet ×1 (poz. 57) (wsparcie)
 
-#### Sous Chef — id 1474
+#### Sous Chef
 
 *Wystąpienia: ×1 (poz. 64).*
 
@@ -5504,7 +5496,7 @@ Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
 **Części (anatomia):**
 
-##### Korpus — id 147401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -5516,49 +5508,49 @@ Zyskaj 1 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: Kroję mięso, rozumiecie? — id 147401
+##### Umiejętność: Kroję mięso, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kroję duże kawałki, rozumiecie? — id 147402
+##### Umiejętność: Kroję duże kawałki, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie? — id 147403
+##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie? — id 147404
+##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      4 |    5 |
 
-##### Umiejętność: Zbieram składniki, rozumiecie? — id 147405
+##### Umiejętność: Zbieram składniki, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie? — id 147407
+##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    4 |
 
-##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie? — id 147408
+##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          0 |         +0 |      1 |   11 |
 
-##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?! — id 147409
+##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5578,7 +5570,7 @@ Koniec tury: jeżeli ta jednostka nie użyła Umiejętności „Aah! I'm on lunc
 Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Umiejętności Gniewu
 - **Yummies yummers, you hear?** — Początek tury: przywraca 3 SP za każde 1 [Smakołyki zjedzone, siła nabyta, jasne?] tej jednostki
 
-#### Leather Wallet — id 1543
+#### Leather Wallet
 
 *Wystąpienia: ×5 (poz. 57) · też jako wsparcie.*
 
@@ -5591,7 +5583,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Części (anatomia):**
 
-##### Korpus — id 147501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -5603,19 +5595,19 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam — id 147501
+##### Umiejętność: Mniam Mniam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk — id 147503
+##### Umiejętność: Beeełk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5632,7 +5624,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 - **Fala 1:** Sous Chef ×1 (poz. 64); Leather Wallet ×4 (poz. 57); Leather Wallet ×1 (poz. 57) (wsparcie)
 
-#### Sous Chef — id 1474
+#### Sous Chef
 
 *Wystąpienia: ×1 (poz. 64).*
 
@@ -5649,7 +5641,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
 **Części (anatomia):**
 
-##### Korpus — id 147401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -5661,49 +5653,49 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Kroję mięso, rozumiecie? — id 147401
+##### Umiejętność: Kroję mięso, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kroję duże kawałki, rozumiecie? — id 147402
+##### Umiejętność: Kroję duże kawałki, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie? — id 147403
+##### Umiejętność: Rąbić, krajać, szatkować, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie? — id 147404
+##### Umiejętność: Mój Firmowy Styl Noża, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      4 |    5 |
 
-##### Umiejętność: Zbieram składniki, rozumiecie? — id 147405
+##### Umiejętność: Zbieram składniki, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie? — id 147407
+##### Umiejętność: Mniamkus! Wsysaj to, rozumiecie?
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    4 |
 
-##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie? — id 147408
+##### Umiejętność: Ach! To czas mojego lunchu, rozumiecie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          0 |         +0 |      1 |   11 |
 
-##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?! — id 147409
+##### Umiejętność: Gotowanie!!! Pozwólcie mi gotować, rozumiecie?!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5723,7 +5715,7 @@ Koniec tury: jeżeli ta jednostka nie użyła Umiejętności „Aah! I'm on lunc
 Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Umiejętności Gniewu
 - **Yummies yummers, you hear?** — Początek tury: przywraca 3 SP za każde 1 [Smakołyki zjedzone, siła nabyta, jasne?] tej jednostki
 
-#### Leather Wallet — id 1543
+#### Leather Wallet
 
 *Wystąpienia: ×5 (poz. 57) · też jako wsparcie.*
 
@@ -5736,7 +5728,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Części (anatomia):**
 
-##### Korpus — id 147501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -5748,19 +5740,19 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 *Opis:* Część
 
-##### Umiejętność: Mniam Mniam — id 147501
+##### Umiejętność: Mniam Mniam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Mlaskanie — id 147502
+##### Umiejętność: Mlaskanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Beeełk — id 147503
+##### Umiejętność: Beeełk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5777,7 +5769,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 - **Fala 1:** Le Noir Sales Associate [Sunshone] ×3 (poz. 60)
 
-#### Le Noir Sales Associate [Sunshone] — id 91075
+#### Le Noir Sales Associate [Sunshone]
 
 *Wystąpienia: ×3 (poz. 60).*
 
@@ -5794,19 +5786,19 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
-##### Umiejętność: Nie dotykaj...! — id 9106601
+##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! — id 9106602
+##### Umiejętność: Zabierz łapy...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5828,7 +5820,7 @@ przy użyciu Umiejętności, przy 15+ Licznika [Zachowanie], zużywa 3 Licznika 
 
 - **Fala 1:** Le Rouge Sales Associate Mimosa ×3 (poz. 60)
 
-#### Le Rouge Sales Associate Mimosa — id 91076
+#### Le Rouge Sales Associate Mimosa
 
 *Wystąpienia: ×3 (poz. 60).*
 
@@ -5847,25 +5839,25 @@ przy użyciu Umiejętności, przy 15+ Licznika [Zachowanie], zużywa 3 Licznika 
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
 *Opis:* 1F NPC
 
-##### Umiejętność: Szywanie (×2) — id 149401
+##### Umiejętność: Szywanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie — id 149402
+##### Umiejętność: Tłoczenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching — id 149403
+##### Umiejętność: Triple Stitching
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5891,7 +5883,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 - **Fala 1:** Warp Needlekin ×1 (poz. 59); Weft Needlekin ×1 (poz. 59); Warp Needlekin ×1 (poz. 59)
 
-#### Warp Needlekin — id 91072
+#### Warp Needlekin
 
 *Wystąpienia: ×2 (poz. 59).*
 
@@ -5908,25 +5900,25 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
-##### Umiejętność: Szew Bieżący - Osnowa (×2) — id 9106301
+##### Umiejętność: Szew Bieżący - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Osnowa (×2) — id 9106302
+##### Umiejętność: Szew Tymczasowy - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Osnowa — id 9106303
+##### Umiejętność: Zszywanie - Osnowa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Osnowa — id 9106304
+##### Umiejętność: Ślepy Szew - Osnowa
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5940,7 +5932,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 - Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [Promienie Słońca] zamienia się w [Parzące Promienie Słońca]
 - **Shower of Stinging Sunshine** — poziom tej jednostki jest podniesiony pod wpływem słońca
 
-#### Weft Needlekin — id 91073
+#### Weft Needlekin
 
 *Wystąpienia: ×1 (poz. 59).*
 
@@ -5957,25 +5949,25 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
-##### Umiejętność: Szew Bieżący - Wątek (×2) — id 9106401
+##### Umiejętność: Szew Bieżący - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Szew Tymczasowy - Wątek (×2) — id 9106402
+##### Umiejętność: Szew Tymczasowy - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zszywanie - Wątek — id 9106403
+##### Umiejętność: Zszywanie - Wątek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szew - Wątek — id 9106404
+##### Umiejętność: Ślepy Szew - Wątek
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5993,7 +5985,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 - **Fala 1:** Maison du Noir ×3 (poz. 62)
 
-#### Maison du Noir — id 1537
+#### Maison du Noir
 
 *Wystąpienia: ×3 (poz. 62).*
 
@@ -6010,7 +6002,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 150501
+##### Korpus
 
 | Parametr           | Wartość                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -6020,25 +6012,25 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 | Progi oszołomienia | 0%                                                                                   |
 | Odporności         | Cięcie ×0,8; Obuch ×1,2; Lenistwo ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Ile Państwo Cenią? — id 150501
+##### Umiejętność: Ile Państwo Cenią?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wad Na Okrągło — id 150502
+##### Umiejętność: Wad Na Okrągło
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie [Filc] — id 150503
+##### Umiejętność: Tłoczenie [Filc]
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Tłoczenie [Reverb] — id 150504
+##### Umiejętność: Tłoczenie [Reverb]
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6058,7 +6050,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 - **Fala 1:** Le Noir Sales Associate [Sunshone] ×3 (poz. 45)
 
-#### Le Noir Sales Associate [Sunshone] — id 1492
+#### Le Noir Sales Associate [Sunshone]
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -6075,7 +6067,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
 **Części (anatomia):**
 
-##### Korpus — id 149201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -6087,19 +6079,19 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 *Opis:* Część
 
-##### Umiejętność: Nie dotykaj...! — id 9106601
+##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zabierz łapy...! — id 9106602
+##### Umiejętność: Zabierz łapy...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nie powinniśmy nic robić...! — id 9106603
+##### Umiejętność: Nie powinniśmy nic robić...!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -6115,7 +6107,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 - **Fala 1:** Thirsty Kaki ×2 (poz. 10); Hungry Kaki ×2 (poz. 10); Thirsty Kaki ×2 (poz. 10) (wsparcie); Hungry Kaki ×2 (poz. 10) (wsparcie)
 
-#### Thirsty Kaki — id 91059
+#### Thirsty Kaki
 
 *Wystąpienia: ×4 (poz. 10) · też jako wsparcie.*
 
@@ -6132,25 +6124,25 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
-##### Umiejętność: Bicie (×2) — id 9105901
+##### Umiejętność: Bicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Bodnięcie Tułowiem — id 9105902
+##### Umiejętność: Bodnięcie Tułowiem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbicie — id 9105903
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9105904
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6164,7 +6156,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 - **Phew, my bottle's safe** — Koniec tury: jeżeli ta jednostka nie ma [Krwawienie], przywraca 5 SP
 - **I must fill the bottle** — jeżeli cel trafiony Umiejętnością tej jednostki ma [Krwawienie], a ta jednostka nie ma pełnego HP, przywraca 2% HP (2 razy na turę; zaokrąglone w dół)
 
-#### Hungry Kaki — id 91060
+#### Hungry Kaki
 
 *Wystąpienia: ×4 (poz. 10) · też jako wsparcie.*
 
@@ -6183,25 +6175,25 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Część
 
-##### Umiejętność: Cios (×2) — id 9106001
+##### Umiejętność: Cios (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Popychanie Tułowiem — id 9106002
+##### Umiejętność: Popychanie Tułowiem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbicie — id 9106003
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9106004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6217,7 +6209,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 ## Pula Canto X · część 2 (`a1c10p2`) — jednostki bez przypisanego etapu
 
-#### jednostka 1476 — id 1476
+#### jednostka 1476
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6227,12 +6219,12 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | HP           | 1 (+1 za poziom)                               |
 | Sloty akcji  | start: 1 · maks. 5                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1106 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147601
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -6244,69 +6236,69 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 147601 — id 147601
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          1 |         +1 |      1 |    7 |
 
-##### Umiejętność: umiejętność 147602 — id 147602
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          1 |         +1 |      1 |    7 |
 
-##### Umiejętność: umiejętność 147603 — id 147603
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          1 |         +1 |      1 |    7 |
 
-##### Umiejętność: umiejętność 147604 — id 147604
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147605 — id 147605
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147606 — id 147606
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147607 — id 147607
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          1 |         +1 |      2 |    1 |
 
-##### Umiejętność: umiejętność 147608 — id 147608
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +1 |      2 |    1 |
 
-##### Umiejętność: umiejętność 147609 — id 147609
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          1 |         +1 |      2 |    1 |
 
-##### Umiejętność: umiejętność 147610 — id 147610
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          1 |         +1 |      2 |    1 |
 
-**Pasywki:** *(wpisy id: 147602, 147603 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1477 — id 1477
+#### jednostka 1477
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6316,12 +6308,12 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | HP           | 1 (+1 za poziom)                               |
 | Sloty akcji  | start: 1 · maks. 2                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1106 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147701
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -6333,33 +6325,33 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 147701 — id 147701
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147702 — id 147702
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          1 |         +1 |      2 |    2 |
 
-##### Umiejętność: umiejętność 147703 — id 147703
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147704 — id 147704
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          1 |         +1 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 147701, 147702 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1478 — id 1478
+#### jednostka 1478
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6369,12 +6361,12 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | HP           | 1 (+1 za poziom)                               |
 | Sloty akcji  | start: 1 · maks. 2                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1106 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147801
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -6386,33 +6378,33 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 147801 — id 147801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147802 — id 147802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          1 |         +1 |      2 |    2 |
 
-##### Umiejętność: umiejętność 147803 — id 147803
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147804 — id 147804
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: blok |          1 |         +1 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 147801, 147802 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### jednostka 1479 — id 1479
+#### jednostka 1479
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6422,12 +6414,12 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | HP           | 1 (+1 za poziom)                               |
 | Sloty akcji  | start: 1 · maks. 2                             |
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | id 1106 (brak danych)                          |
+| Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Części (anatomia):**
 
-##### Korpus — id 147901
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -6439,31 +6431,31 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 147901 — id 147901
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147902 — id 147902
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          1 |         +1 |      2 |    2 |
 
-##### Umiejętność: umiejętność 147903 — id 147903
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 147904 — id 147904
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |          1 |         +1 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 147901, 147902 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ## Część: Canto X · część 3 (`a1c10p3`)
 
@@ -6471,7 +6463,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 - **Fala 1:** Le Rouge Sales Associate Mimosa ×1 (poz. 10)
 
-#### Le Rouge Sales Associate Mimosa — id 1494
+#### Le Rouge Sales Associate Mimosa
 
 *Wystąpienia: ×1 (poz. 10).*
 
@@ -6490,7 +6482,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Części (anatomia):**
 
-##### Korpus — id 149401
+##### Korpus
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -6502,37 +6494,35 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Opis:* Część
 
-##### Umiejętność: Szywanie — id 149401
+##### Umiejętność: Szywanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tłoczenie — id 149402
+##### Umiejętność: Tłoczenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Triple Stitching — id 149403
+##### Umiejętność: Triple Stitching
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Agresywny Marketing — id 149404
+##### Umiejętność: Agresywny Marketing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          7 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 10-36
 
 - **Fala 1:** The Warden ×1 (poz. 90); Candle of Retribution ×1 (poz. 1) (wsparcie)
 
-#### The Warden — id 1485
+#### The Warden
 
 *Wystąpienia: ×1 (poz. 90).*
 
@@ -6553,7 +6543,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 - Obrażenia umiejętności zużywających [Zachowanie] -25%
 **Części (anatomia):**
 
-##### Korpus — id 148501
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -6562,39 +6552,39 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Szybkość   | 2–2                                                                                                                             |
 | Odporności | Cięcie ×0,9; Kłucie ×0,9; Obuch ×0,9; Żądza ×1,2; Lenistwo ×1,2; Obżar. ×1,2; Pycha ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Zgrzeszyliście... — id 148501
+##### Umiejętność: Zgrzeszyliście...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zadośćuczyn. — id 148502
+##### Umiejętność: Zadośćuczyn.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Potępienie — id 148503
+##### Umiejętność: Potępienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +2 |      3 |    2 |
 
-##### Umiejętność: Twoja Grzeszność Cię Uciska — id 148504
+##### Umiejętność: Twoja Grzeszność Cię Uciska
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +2 |      4 |    2 |
 
-##### Umiejętność: Boża Kara — id 148505
+##### Umiejętność: Boża Kara
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +2 |      5 |    7 |
 
-**Pasywki:** *(wpisy id: 148512, 148513 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Candle of Retribution — id 1520
+#### Candle of Retribution
 
 *Wystąpienia: ×1 (poz. 1) · też jako wsparcie.*
 
@@ -6606,7 +6596,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Części (anatomia):**
 
-##### Korpus — id 152001
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6620,13 +6610,11 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
 ### Etap 10-39
 
 - **Fala 1:** Jeanne Sartre, the Sartorial Tailor ×1 (poz. 90); Grand Magasin Sisyphe Blueprint ×3 (poz. 65) (wsparcie); Sisyphe System Blueprint - Le Rouge ×1 (poz. 65) (wsparcie); Sisyphe System Blueprint - Le Noir ×1 (poz. 65) (wsparcie)
 
-#### Jeanne Sartre, the Sartorial Tailor — id 1522
+#### Jeanne Sartre, the Sartorial Tailor
 
 *Wystąpienia: ×1 (poz. 90).*
 
@@ -6643,7 +6631,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 **Efekt Paniki:** Moc Bazowa -1, zadawane obrażenia -10%
 **Części (anatomia):**
 
-##### Korpus — id 152201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6653,39 +6641,39 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Progi oszołomienia | 70%                                                                                                                                             |
 | Odporności         | Cięcie ×0,9; Kłucie ×0,9; Obuch ×0,9; Żądza ×1,2; Lenistwo ×1,2; Posępność ×0,8; Pycha ×1,2; Zawiść ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Przygotowanie Gwoździ Krawieckich — id 152201
+##### Umiejętność: Przygotowanie Gwoździ Krawieckich
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wzorce i Projekty — id 152202
+##### Umiejętność: Wzorce i Projekty
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zamrożenie Punktu Widzenia — id 152203
+##### Umiejętność: Zamrożenie Punktu Widzenia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      4 |    3 |
 
-##### Umiejętność: W Perspektywie — id 152204
+##### Umiejętność: W Perspektywie
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Skupienie — id 152205
+##### Umiejętność: Skupienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Grand Magasin Sisyphe Blueprint — id 1525
+#### Grand Magasin Sisyphe Blueprint
 
 *Wystąpienia: ×3 (poz. 65) · też jako wsparcie.*
 
@@ -6698,7 +6686,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Części (anatomia):**
 
-##### Korpus — id 152501
+##### Korpus
 
 | Parametr           | Wartość                                                                       |
 | ------------------ | ----------------------------------------------------------------------------- |
@@ -6708,15 +6696,15 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Progi oszołomienia | 50%                                                                           |
 | Odporności         | Żądza ×1,2; Lenistwo ×1,2; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Schemat Domu Towarowego — id 152501
+##### Umiejętność: Schemat Domu Towarowego
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          1 |         +1 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Sisyphe System Blueprint - Le Rouge — id 1526
+#### Sisyphe System Blueprint - Le Rouge
 
 *Wystąpienia: ×1 (poz. 65) · też jako wsparcie.*
 
@@ -6729,7 +6717,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Części (anatomia):**
 
-##### Korpus — id 152601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6739,33 +6727,33 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Progi oszołomienia | 50%                                                                                                                                     |
 | Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Żądza ×1,5 (Weak); Posępność ×0,8; Pycha ×1,2; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Wzorzec: „Pożądaj.” — id 152601
+##### Umiejętność: Wzorzec: „Pożądaj.”
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          7 |         +9 |      1 |    1 |
 
-##### Umiejętność: Wzorzec: „Załóż.” — id 152602
+##### Umiejętność: Wzorzec: „Załóż.”
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Wzorzec: „Spożyj.” — id 152603
+##### Umiejętność: Wzorzec: „Spożyj.”
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          7 |         +9 |      2 |    1 |
 
-##### Umiejętność: Wzorzec: „Zgrzybaj i zbieraj.” — id 152604
+##### Umiejętność: Wzorzec: „Zgrzybaj i zbieraj.”
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +7 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 152603, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Sisyphe System Blueprint - Le Noir — id 1527
+#### Sisyphe System Blueprint - Le Noir
 
 *Wystąpienia: ×1 (poz. 65) · też jako wsparcie.*
 
@@ -6778,7 +6766,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Części (anatomia):**
 
-##### Korpus — id 152701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -6788,37 +6776,37 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Progi oszołomienia | 50%                                                                                                                                        |
 | Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Lenistwo ×1,5 (Weak); Posępność ×0,8; Pycha ×1,2; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Krawiectwo: „Zachowaj.” — id 152701
+##### Umiejętność: Krawiectwo: „Zachowaj.”
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          7 |         +9 |      1 |    1 |
 
-##### Umiejętność: Krawiectwo: „Patrz w milczeniu.” — id 152702
+##### Umiejętność: Krawiectwo: „Patrz w milczeniu.”
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Krawiectwo: „Niech wszystko zostanie spięte.” — id 152703
+##### Umiejętność: Krawiectwo: „Niech wszystko zostanie spięte.”
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +9 |      2 |    1 |
 
-##### Umiejętność: Krawiectwo: „Przyjdź gwóźdź.” — id 152704
+##### Umiejętność: Krawiectwo: „Przyjdź gwóźdź.”
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +7 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 152603, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 10-41
 
 - **Fala 1:** The Crimson God [Adulthood] ×1 (poz. 90); Ripped Flesh of the Crimson God ×3 (poz. 65); Ripped Flesh of the Crimson God ×1 (poz. 65) (wsparcie); Le Rouge Senior Staff ×1 (poz. 65) (wsparcie)
 
-#### The Crimson God [Adulthood] — id 1517
+#### The Crimson God [Adulthood]
 
 *Wystąpienia: ×1 (poz. 90).*
 
@@ -6835,7 +6823,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 **Efekt Paniki:** Poziom Ataku +5, Poziom Obrony +5
 **Części (anatomia):**
 
-##### Korpus — id 151701
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6844,85 +6832,85 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Szybkość   | 2–4                                                                                                                                                 |
 | Odporności | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Gniew ×0,75 (Endured); Żądza ×1,2; Obżar. ×1,2; Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Je m'expulse — id 151701
+##### Umiejętność: Je m'expulse
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    3 |
 
-##### Umiejętność: Je me crache — id 151702
+##### Umiejętność: Je me crache
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          8 |         +9 |      1 |    1 |
 
-##### Umiejętność: Je m'abjecte — id 151703
+##### Umiejętność: Je m'abjecte
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +5 |      2 |    3 |
 
-##### Umiejętność: La Pulsion — id 151704
+##### Umiejętność: La Pulsion
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Le Manque-à-être — id 151705
+##### Umiejętność: Le Manque-à-être
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |         18 |        +17 |      1 |    1 |
 
-##### Umiejętność: La Jouissance — id 151706
+##### Umiejętność: La Jouissance
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         13 |         +4 |      3 |    5 |
 
-##### Umiejętność: La Jouissance — id 151713
+##### Umiejętność: La Jouissance
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         13 |         +4 |      3 |    5 |
 
-##### Umiejętność: Dégagé — id 151711
+##### Umiejętność: Dégagé
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          8 |         +7 |      1 |    1 |
 
-##### Umiejętność: Le Point de Capiton — id 151712
+##### Umiejętność: Le Point de Capiton
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          8 |         +5 |      2 |    1 |
 
-##### Umiejętność: Le Nom-du-Père — id 151708
+##### Umiejętność: Le Nom-du-Père
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          8 |         +4 |      3 |    5 |
 
-##### Umiejętność: La Castration — id 151709
+##### Umiejętność: La Castration
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |         15 |         +3 |      4 |    7 |
 
-##### Umiejętność: Le Trait Unaire — id 151710
+##### Umiejętność: Le Trait Unaire
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: La Demande — id 151707
+##### Umiejętność: La Demande
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +4 |      3 |    3 |
 
-##### Umiejętność: La Métaphore Paternelle — id 151714
+##### Umiejętność: La Métaphore Paternelle
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6951,7 +6939,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 - zyskuje 2 [Wrażliwość]
 - przy użyciu Umiejętności, jeżeli cel **ma [Doświadczenie z Pwie], Moc Monety -1**
 
-#### Ripped Flesh of the Crimson God — id 1518
+#### Ripped Flesh of the Crimson God
 
 *Wystąpienia: ×4 (poz. 65) · też jako wsparcie.*
 
@@ -6964,7 +6952,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Części (anatomia):**
 
-##### Korpus — id 151801
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                               |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6973,13 +6961,13 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 | Szybkość   | 1–2                                                                                                                                                   |
 | Odporności | Cięcie ×1,2; Kłucie ×1,2; Obuch ×1,2; Gniew ×0,75 (Endured); Żądza ×1,25; Obżar. ×1,25; Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Przyjmij Nas... — id 151801
+##### Umiejętność: Przyjmij Nas...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: O... Nasz Szkarłatny Głos... — id 151802
+##### Umiejętność: O... Nasz Szkarłatny Głos...
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6991,7 +6979,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 - jeżeli zyskane Liczniki [Pulsacja] osiągnęły 10+, zużywa wszystkie Liczniki [Pulsacja]; następnie zyskuje 1 [Niepowstrzymana Furia [Le Désir]] w następnej turze za każde 5 zużytych Stosów
 - **Flesh Gummed to the Ground** — Grzesznicy nie mogą wskazać tej jednostki jako celu
 
-#### Le Rouge Senior Staff — id 1521
+#### Le Rouge Senior Staff
 
 *Wystąpienia: ×1 (poz. 65) · też jako wsparcie.*
 
@@ -7008,7 +6996,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +3
 **Części (anatomia):**
 
-##### Korpus — id 152101
+##### Korpus
 
 | Parametr           | Wartość                                                                                          |
 | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -7018,37 +7006,37 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 | Progi oszołomienia | 25%                                                                                              |
 | Odporności         | Kłucie ×1,2; Żądza ×1,5 (Weak); Obżar. ×1,25; Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Tym Sierpem Odpowiadam na Wasze Wołanie! (×3) — id 152101
+##### Umiejętność: Tym Sierpem Odpowiadam na Wasze Wołanie! (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przyjmijcie Moją Ofiarę z Mięsa! (×2) — id 152102
+##### Umiejętność: Przyjmijcie Moją Ofiarę z Mięsa! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ofiara z Mojego Uścisku! — id 152103
+##### Umiejętność: Ofiara z Mojego Uścisku!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Pożreć wszystko, co jest! — id 152104
+##### Umiejętność: Pożreć wszystko, co jest!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Jeszcze Nas Nie Złożono! — id 152105
+##### Umiejętność: Jeszcze Nas Nie Złożono!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Modlitwa ku Głosowi — id 152106
+##### Umiejętność: Modlitwa ku Głosowi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -7063,7 +7051,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 ## Pula Canto X · część 3 (`a1c10p3`) — jednostki bez przypisanego etapu
 
-#### The Warden — id 1486
+#### The Warden
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7084,7 +7072,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 - Obrażenia umiejętności zużywających [Zachowanie] -25%
 **Części (anatomia):**
 
-##### Korpus — id 148601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -7094,69 +7082,69 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 | Progi oszołomienia | 65% / -5%                                                                                                                       |
 | Odporności         | Cięcie ×0,9; Kłucie ×0,9; Obuch ×0,9; Żądza ×1,2; Lenistwo ×1,2; Obżar. ×1,2; Pycha ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Zgrzeszyliście... — id 148609
+##### Umiejętność: Zgrzeszyliście...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Zadośćuczyn. — id 148610
+##### Umiejętność: Zadośćuczyn.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Gwóźdź Pokuty — id 148601
+##### Umiejętność: Gwóźdź Pokuty
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Gwóźdź Kary — id 148602
+##### Umiejętność: Gwóźdź Kary
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Sąd — id 148603
+##### Umiejętność: Sąd
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    2 |
 
-##### Umiejętność: Odkupienie przed Bogiem. — id 148604
+##### Umiejętność: Odkupienie przed Bogiem.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Pokutuj. — id 148605
+##### Umiejętność: Pokutuj.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Przyjmij karę. — id 148606
+##### Umiejętność: Przyjmij karę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Sąd...! Wyrok...! Potępienie! — id 148607
+##### Umiejętność: Sąd...! Wyrok...! Potępienie!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +2 |      5 |    7 |
 
-##### Umiejętność: Egzekucja Skazańca — id 148608
+##### Umiejętność: Egzekucja Skazańca
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         19 |         +4 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 148512, 148513, 148613 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### The Chaplain — id 1487
+#### The Chaplain
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7173,7 +7161,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 **Efekt Paniki:** Niemożliwe do zaobserwowania
 **Części (anatomia):**
 
-##### Korpus — id 148701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -7183,63 +7171,63 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 | Progi oszołomienia | 65%                                                                                                                             |
 | Odporności         | Cięcie ×0,5; Kłucie ×0,5; Obuch ×0,5; Żądza ×1,2; Lenistwo ×1,2; Obżar. ×1,2; Pycha ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Ach… czy nie mógłbyś się już… przewinąć? — id 148701
+##### Umiejętność: Ach… czy nie mógłbyś się już… przewinąć?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: No weź, pozwól raz na czas zejść ze zmiany. — id 148702
+##### Umiejętność: No weź, pozwól raz na czas zejść ze zmiany.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: „Sąd.” — id 148703
+##### Umiejętność: „Sąd.”
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    2 |
 
-##### Umiejętność: „Odkupienie przed Bogiem”... tak to było? — id 148704
+##### Umiejętność: „Odkupienie przed Bogiem”... tak to było?
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: „Pokutuj.” — id 148705
+##### Umiejętność: „Pokutuj.”
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: „Przyjmij karę.” — id 148706
+##### Umiejętność: „Przyjmij karę.”
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Naprawdę chcecie zepsuć System Sisyphe? — id 148707
+##### Umiejętność: Naprawdę chcecie zepsuć System Sisyphe?
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +2 |      5 |    7 |
 
-##### Umiejętność: Ban Systemowy — id 148708
+##### Umiejętność: Ban Systemowy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         23 |         +8 |      1 |    1 |
 
-##### Umiejętność: Shift + Delete — id 148709
+##### Umiejętność: Shift + Delete
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         23 |         +8 |      3 |    1 |
 
-**Pasywki:** *(wpisy id: 148512, 148712, 148713, 9999995 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Le Rouge Sales Associate Mimosa — id 1514
+#### Le Rouge Sales Associate Mimosa
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7254,7 +7242,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Części (anatomia):**
 
-##### część id 151401 — id 151401
+##### (bez nazwy)
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -7268,9 +7256,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### L'Inamovible — id 1515
+#### L'Inamovible
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7283,7 +7269,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Części (anatomia):**
 
-##### część id 151401 — id 151401
+##### (bez nazwy)
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -7297,9 +7283,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### The Crimson God [Inchoate Life] — id 1516
+#### The Crimson God [Inchoate Life]
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7312,7 +7296,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Części (anatomia):**
 
-##### część id 151401 — id 151401
+##### (bez nazwy)
 
 | Parametr           | Wartość                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -7326,9 +7310,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Jeanne-Marie Sartre — id 1523
+#### Jeanne-Marie Sartre
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7345,7 +7327,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 **Efekt Paniki:** Moc Bazowa -1, zadawane obrażenia -10%
 **Części (anatomia):**
 
-##### Korpus — id 152301
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                         |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7354,45 +7336,45 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 | Szybkość   | 2–4                                                                                                                                             |
 | Odporności | Cięcie ×0,9; Kłucie ×0,9; Obuch ×0,9; Żądza ×1,2; Lenistwo ×1,2; Posępność ×0,8; Pycha ×1,2; Zawiść ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Pierwszy Krok — id 152301
+##### Umiejętność: Pierwszy Krok
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +9 |      1 |    1 |
 
-##### Umiejętność: Drugi Krok — id 152302
+##### Umiejętność: Drugi Krok
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Trzeci Ruch — id 152303
+##### Umiejętność: Trzeci Ruch
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Trzeba trzymać się wzorca. — id 152304
+##### Umiejętność: Trzeba trzymać się wzorca.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         +5 |      2 |    1 |
 
-##### Umiejętność: Te czasy, gdy rozmawialiśmy razem w kawiarni — id 152305
+##### Umiejętność: Te czasy, gdy rozmawialiśmy razem w kawiarni
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Mieliśmy swoje małe kłótnie, tak. — id 152306
+##### Umiejętność: Mieliśmy swoje małe kłótnie, tak.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |         12 |         +8 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Moulin Rouge - Jeanne-Marie Sartre — id 1524
+#### Moulin Rouge - Jeanne-Marie Sartre
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7407,37 +7389,37 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Efekt Niskiego Morale:** Zadawane obrażenia -10%
 **Efekt Paniki:** Moc Bazowa -1, zadawane obrażenia -10%
-##### Umiejętność: Uprawnienia: Odbudowa — id 152401
+##### Umiejętność: Uprawnienia: Odbudowa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         24 |        +24 |      1 |    1 |
 
-##### Umiejętność: Uprawnienia: Ban — id 152402
+##### Umiejętność: Uprawnienia: Ban
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +7 |      2 |    1 |
 
-##### Umiejętność: Na tej scenie wszystko jest ustalone. — id 152403
+##### Umiejętność: Na tej scenie wszystko jest ustalone.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zboczyłeś ze wzorca. — id 152404
+##### Umiejętność: Zboczyłeś ze wzorca.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Projekt Dochodził Do Tutaj. — id 152405
+##### Umiejętność: Projekt Dochodził Do Tutaj.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Uprawnienia: Wzrok — id 152406
+##### Umiejętność: Uprawnienia: Wzrok
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7466,7 +7448,7 @@ pokonanie jednostki Blueprint uruchamia następujące efekty:
 - wszystkie pozostałe jednostki Blueprint zyskują 1 [Délaissement]
 - od następnej tury 1 jednostka Blueprint wyposaża Umiejętność Jeanne „Rights: Gaze” zamiast „Rights: Ban”
 
-#### Jeanne Sartre, the Sartorial Tailor — id 15262
+#### Jeanne Sartre, the Sartorial Tailor
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7479,7 +7461,7 @@ pokonanie jednostki Blueprint uruchamia następujące efekty:
 
 **Części (anatomia):**
 
-##### Korpus — id 152601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7489,27 +7471,27 @@ pokonanie jednostki Blueprint uruchamia następujące efekty:
 | Progi oszołomienia | 50%                                                                                                                                     |
 | Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Żądza ×1,5 (Weak); Posępność ×0,8; Pycha ×1,2; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Na tej scenie wszystko jest ustalone. — id 152403
+##### Umiejętność: Na tej scenie wszystko jest ustalone.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zboczyłeś ze wzorca. — id 152404
+##### Umiejętność: Zboczyłeś ze wzorca.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Projekt Dochodził Do Tutaj. — id 152405
+##### Umiejętność: Projekt Dochodził Do Tutaj.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |         10 |         +8 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 152603, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Jeanne Sartre, the Sartorial Tailor — id 15272
+#### Jeanne Sartre, the Sartorial Tailor
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7522,7 +7504,7 @@ pokonanie jednostki Blueprint uruchamia następujące efekty:
 
 **Części (anatomia):**
 
-##### Korpus — id 152701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -7532,22 +7514,22 @@ pokonanie jednostki Blueprint uruchamia następujące efekty:
 | Progi oszołomienia | 50%                                                                                                                                        |
 | Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Lenistwo ×1,5 (Weak); Posępność ×0,8; Pycha ×1,2; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Na tej scenie wszystko jest ustalone. — id 152403
+##### Umiejętność: Na tej scenie wszystko jest ustalone.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zboczyłeś ze wzorca. — id 152404
+##### Umiejętność: Zboczyłeś ze wzorca.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Projekt Dochodził Do Tutaj. — id 152405
+##### Umiejętność: Projekt Dochodził Do Tutaj.
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |         10 |         +8 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 152603, 9999990 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*

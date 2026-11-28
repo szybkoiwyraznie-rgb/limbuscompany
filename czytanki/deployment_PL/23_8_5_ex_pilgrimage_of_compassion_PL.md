@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Ślizgacz Morskiej Niziny ×7 (poz. 50); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Ślizgacz Morskiej Niziny — id 91028
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×12 (poz. 50) · też jako wsparcie.*
 
@@ -23,13 +23,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -44,7 +44,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Biegacz Wybrzeża ×4 (poz. 48); Ślizgacz Morskiej Niziny ×3 (poz. 50); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie)
 
-#### Biegacz Wybrzeża — id 91027
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×12 (poz. 48) · też jako wsparcie.*
 
@@ -59,13 +59,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -75,7 +75,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Abyssal Horror** — nakłada o 1 więcej Siły [Zatonięcie] przy trafieniu celów bez [Zatonięcie]
 
-#### Ślizgacz Morskiej Niziny — id 91028
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
 
@@ -90,13 +90,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -111,7 +111,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Biegacz Wybrzeża ×4 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Biegacz Wybrzeża — id 91027
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×11 (poz. 48) · też jako wsparcie.*
 
@@ -126,13 +126,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -142,7 +142,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Abyssal Horror** — nakłada o 1 więcej Siły [Zatonięcie] przy trafieniu celów bez [Zatonięcie]
 
-#### Ślizgacz Morskiej Niziny — id 91028
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
 
@@ -157,13 +157,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -174,7 +174,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Abyssal Horror** — nakłada o 2 więcej Siły [Zatonięcie] przy trafieniu celów bez [Zatonięcie]
 - **Nethersea Brand Utopia** — gdy jednostka znajduje się na [Piętno Głębin]: zyskuje Moc Starcia +2, a nakładane przy trafieniu [Uszkodzenie Nerwów] są podwojone
 
-#### Żniwiarz Morskiej Niecki — id 91033
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -189,19 +189,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -226,7 +226,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 - **Fala 1:** Biegacz Wybrzeża ×3 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×10 (poz. 48) · też jako wsparcie.*
 
@@ -241,7 +241,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -253,21 +253,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×4 (poz. 50) · też jako wsparcie.*
 
@@ -282,7 +280,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -294,21 +292,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
 
@@ -323,7 +319,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -335,21 +331,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×2 (poz. 54) · też jako wsparcie.*
 
@@ -364,7 +358,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -376,25 +370,23 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
 ### Etap 7 · Obracający się Zegar
 
 - **Fala 1:** Zwinny Wyznawca Głębin ×3 (poz. 50); Wytrwały Wyznawca Głębin ×3 (poz. 50); Fabius ×1 (poz. 50)
 
-#### Zwinny Wyznawca Głębin — id 1289
+#### Zwinny Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -412,7 +404,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 128901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -424,19 +416,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 128904
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -446,7 +438,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Wytrwały Wyznawca Głębin — id 1290
+#### Wytrwały Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -464,7 +456,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -476,19 +468,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Wstrzyknięcie Komórek — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -498,7 +490,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Fabius — id 1300
+#### Fabius
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -516,7 +508,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 130001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------- |
@@ -528,25 +520,25 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Zjednoczona Wola — id 129101
+##### Umiejętność: Zjednoczona Wola
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Obrzęd Uwolnienia — id 129103
+##### Umiejętność: Obrzęd Uwolnienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Adaptacja do Środowiska — id 129104
+##### Umiejętność: Adaptacja do Środowiska
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -565,7 +557,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 - **Fala 1:** Biegacz Wybrzeża ×2 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×2 (poz. 48).*
 
@@ -580,7 +572,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -592,21 +584,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
 
@@ -621,7 +611,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -633,21 +623,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1304
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -662,7 +650,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 130401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -674,27 +662,25 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×6 (poz. 52) · też jako wsparcie.*
 
@@ -709,7 +695,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -721,21 +707,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×3 (poz. 54) · też jako wsparcie.*
 
@@ -750,7 +734,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -762,25 +746,23 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
 ### Etap 9 · Operacja Odbicia Latarni
 
 - **Fala 1:** Biegacz Wybrzeża ×3 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×12 (poz. 48) · też jako wsparcie.*
 
@@ -795,7 +777,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -807,21 +789,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×10 (poz. 50) · też jako wsparcie.*
 
@@ -836,7 +816,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -848,21 +828,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1304
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -877,7 +855,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 130401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -889,27 +867,25 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
 
@@ -924,7 +900,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -936,25 +912,23 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 10 · Wzburzone Fale
 
 - **Fala 1:** Biegacz Wybrzeża ×2 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Żniwiarz Morskiej Niecki ×1 (poz. 57) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×9 (poz. 48) · też jako wsparcie.*
 
@@ -969,7 +943,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -981,21 +955,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×9 (poz. 50) · też jako wsparcie.*
 
@@ -1010,7 +982,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1022,21 +994,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1304
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×2 (poz. 57) · też jako wsparcie.*
 
@@ -1051,7 +1021,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 130401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1063,27 +1033,25 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
 
@@ -1098,7 +1066,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1110,21 +1078,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×3 (poz. 54) · też jako wsparcie.*
 
@@ -1139,7 +1105,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1151,25 +1117,23 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
 ### Etap 11 · Rycerz z Baśni
 
 - **Fala 1:** Ostatni Rycerz ×1 (poz. 85)
 
-#### Ostatni Rycerz — id 1302
+#### Ostatni Rycerz
 
 *Wystąpienia: ×1 (poz. 85).*
 
@@ -1189,7 +1153,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 130201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1201,37 +1165,37 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Włócznia Przebijająca Fale — id 128801
+##### Umiejętność: Włócznia Przebijająca Fale
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Włócznia Rozbijająca Fale — id 128802
+##### Umiejętność: Włócznia Rozbijająca Fale
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Polowanie Przypływu — id 128803
+##### Umiejętność: Polowanie Przypływu
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +3 |      3 |    3 |
 
-##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128804
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +1 |      3 |    7 |
 
-##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128805
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +3 |      3 |    7 |
 
-##### Umiejętność: Nieugięty Rycerz — id 128806
+##### Umiejętność: Nieugięty Rycerz
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1259,7 +1223,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 - **Fala 1:** Biegacz Wybrzeża ×1 (poz. 48); Ślizgacz Morskiej Niziny ×1 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Zwinny Wyznawca Głębin ×1 (poz. 50); Wytrwały Wyznawca Głębin ×1 (poz. 50); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie)
 - **Fala 2:** Zwinny Wyznawca Głębin ×2 (poz. 50); Wytrwały Wyznawca Głębin ×2 (poz. 50); Założyciel Głębin ×1 (poz. 52); Fabius ×1 (poz. 55); Biegacz Wybrzeża ×2 (poz. 48) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×10 (poz. 48) · też jako wsparcie.*
 
@@ -1274,7 +1238,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1286,21 +1250,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1315,7 +1277,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1327,21 +1289,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1304
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -1356,7 +1316,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 130401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1368,27 +1328,25 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52).*
 
@@ -1403,7 +1361,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1415,21 +1373,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×1 (poz. 54).*
 
@@ -1444,7 +1400,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1456,21 +1412,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
-#### Zwinny Wyznawca Głębin — id 1289
+#### Zwinny Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -1488,7 +1442,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 128901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1500,19 +1454,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 128904
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1522,7 +1476,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Wytrwały Wyznawca Głębin — id 1290
+#### Wytrwały Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -1540,7 +1494,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1552,19 +1506,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Wstrzyknięcie Komórek — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1574,7 +1528,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Fabius — id 1301
+#### Fabius
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -1592,7 +1546,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 130101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------- |
@@ -1604,31 +1558,31 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Zjednoczona Wola — id 129101
+##### Umiejętność: Zjednoczona Wola
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Obrzęd Uwolnienia — id 129103
+##### Umiejętność: Obrzęd Uwolnienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Adaptacja do Środowiska — id 129104
+##### Umiejętność: Adaptacja do Środowiska
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |          9 |         +5 |      1 |    1 |
 
-##### Umiejętność: Dla Lądowych Rodaków — id 129105
+##### Umiejętność: Dla Lądowych Rodaków
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1653,7 +1607,7 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 - **Fala 1:** Ślizgacz Morskiej Niziny ×7 (poz. 50); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Ślizgacz Morskiej Niziny — id 91028
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×12 (poz. 50) · też jako wsparcie.*
 
@@ -1668,13 +1622,13 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1689,7 +1643,7 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 - **Fala 1:** Biegacz Wybrzeża ×4 (poz. 48); Ślizgacz Morskiej Niziny ×3 (poz. 50); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie)
 
-#### Biegacz Wybrzeża — id 91027
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×12 (poz. 48) · też jako wsparcie.*
 
@@ -1704,13 +1658,13 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1720,7 +1674,7 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 - **Abyssal Horror** — nakłada o 1 więcej Siły [Zatonięcie] przy trafieniu celów bez [Zatonięcie]
 
-#### Ślizgacz Morskiej Niziny — id 91028
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
 
@@ -1735,13 +1689,13 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1756,7 +1710,7 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 - **Fala 1:** Biegacz Wybrzeża ×4 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Biegacz Wybrzeża — id 91027
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×11 (poz. 48) · też jako wsparcie.*
 
@@ -1771,13 +1725,13 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1787,7 +1741,7 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 - **Abyssal Horror** — nakłada o 1 więcej Siły [Zatonięcie] przy trafieniu celów bez [Zatonięcie]
 
-#### Ślizgacz Morskiej Niziny — id 91028
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
 
@@ -1802,13 +1756,13 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1819,7 +1773,7 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 - **Abyssal Horror** — nakłada o 2 więcej Siły [Zatonięcie] przy trafieniu celów bez [Zatonięcie]
 - **Nethersea Brand Utopia** — gdy jednostka znajduje się na [Piętno Głębin]: zyskuje Moc Starcia +2, a nakładane przy trafieniu [Uszkodzenie Nerwów] są podwojone
 
-#### Żniwiarz Morskiej Niecki — id 91029
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -1834,19 +1788,19 @@ na koniec tury, jeżeli [Piętno Głębin] istnieje na tym etapie, nakłada 2 [W
 
 *Opis:* Standardowy Wróg
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1871,7 +1825,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 - **Fala 1:** Biegacz Wybrzeża ×3 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×10 (poz. 48) · też jako wsparcie.*
 
@@ -1886,7 +1840,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1898,21 +1852,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×4 (poz. 50) · też jako wsparcie.*
 
@@ -1927,7 +1879,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1939,21 +1891,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
 
@@ -1968,7 +1918,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1980,21 +1930,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×2 (poz. 54) · też jako wsparcie.*
 
@@ -2009,7 +1957,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2021,25 +1969,23 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
 ### Etap 7 · Obracający się Zegar
 
 - **Fala 1:** Zwinny Wyznawca Głębin ×3 (poz. 50); Wytrwały Wyznawca Głębin ×3 (poz. 50); Fabius ×1 (poz. 50)
 
-#### Zwinny Wyznawca Głębin — id 1289
+#### Zwinny Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -2057,7 +2003,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 128901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2069,19 +2015,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 128904
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2091,7 +2037,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Wytrwały Wyznawca Głębin — id 1290
+#### Wytrwały Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -2109,7 +2055,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2121,19 +2067,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Wstrzyknięcie Komórek — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2143,7 +2089,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Fabius — id 1291
+#### Fabius
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -2161,7 +2107,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Części (anatomia):**
 
-##### Korpus — id 129101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------- |
@@ -2173,25 +2119,25 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Zjednoczona Wola — id 129101
+##### Umiejętność: Zjednoczona Wola
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Obrzęd Uwolnienia — id 129103
+##### Umiejętność: Obrzęd Uwolnienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Adaptacja do Środowiska — id 129104
+##### Umiejętność: Adaptacja do Środowiska
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2210,7 +2156,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 - **Fala 1:** Biegacz Wybrzeża ×2 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×2 (poz. 48).*
 
@@ -2225,7 +2171,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2237,21 +2183,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
 
@@ -2266,7 +2210,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2278,21 +2222,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1294
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -2307,7 +2249,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2319,27 +2261,25 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×6 (poz. 52) · też jako wsparcie.*
 
@@ -2354,7 +2294,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2366,21 +2306,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×3 (poz. 54) · też jako wsparcie.*
 
@@ -2395,7 +2333,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2407,25 +2345,23 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
 ### Etap 9 · Operacja Odbicia Latarni
 
 - **Fala 1:** Biegacz Wybrzeża ×3 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×12 (poz. 48) · też jako wsparcie.*
 
@@ -2440,7 +2376,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2452,21 +2388,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×10 (poz. 50) · też jako wsparcie.*
 
@@ -2481,7 +2415,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2493,21 +2427,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1294
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -2522,7 +2454,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2534,27 +2466,25 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
 
@@ -2569,7 +2499,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2581,25 +2511,23 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 10 · Wzburzone Fale
 
 - **Fala 1:** Biegacz Wybrzeża ×2 (poz. 48); Ślizgacz Morskiej Niziny ×2 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Żniwiarz Morskiej Niecki ×1 (poz. 57) (wsparcie); Założyciel Głębin ×1 (poz. 52) (wsparcie); Wydzielacz Głębin ×1 (poz. 54) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Ślizgacz Morskiej Niziny ×1 (poz. 50) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×9 (poz. 48) · też jako wsparcie.*
 
@@ -2614,7 +2542,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2626,21 +2554,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×9 (poz. 50) · też jako wsparcie.*
 
@@ -2655,7 +2581,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2667,21 +2593,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1294
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×2 (poz. 57) · też jako wsparcie.*
 
@@ -2696,7 +2620,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2708,27 +2632,25 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
 
@@ -2743,7 +2665,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2755,21 +2677,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×3 (poz. 54) · też jako wsparcie.*
 
@@ -2784,7 +2704,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2796,25 +2716,23 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
 ### Etap 11 · Rycerz z Baśni
 
 - **Fala 1:** Ostatni Rycerz ×1 (poz. 90)
 
-#### Ostatni Rycerz — id 1288
+#### Ostatni Rycerz
 
 *Wystąpienia: ×1 (poz. 90).*
 
@@ -2834,7 +2752,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 128801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2846,37 +2764,37 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Włócznia Przebijająca Fale — id 128801
+##### Umiejętność: Włócznia Przebijająca Fale
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Włócznia Rozbijająca Fale — id 128802
+##### Umiejętność: Włócznia Rozbijająca Fale
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Polowanie Przypływu — id 128803
+##### Umiejętność: Polowanie Przypływu
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +3 |      3 |    3 |
 
-##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128804
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +1 |      3 |    7 |
 
-##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128805
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +3 |      3 |    7 |
 
-##### Umiejętność: Nieugięty Rycerz — id 128806
+##### Umiejętność: Nieugięty Rycerz
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2904,7 +2822,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 - **Fala 1:** Biegacz Wybrzeża ×1 (poz. 48); Ślizgacz Morskiej Niziny ×1 (poz. 50); Żniwiarz Morskiej Niecki ×1 (poz. 57); Założyciel Głębin ×1 (poz. 52); Wydzielacz Głębin ×1 (poz. 54); Zwinny Wyznawca Głębin ×1 (poz. 50); Wytrwały Wyznawca Głębin ×1 (poz. 50); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie); Biegacz Wybrzeża ×1 (poz. 48) (wsparcie)
 - **Fala 2:** Zwinny Wyznawca Głębin ×2 (poz. 50); Wytrwały Wyznawca Głębin ×2 (poz. 50); Założyciel Głębin ×1 (poz. 52); Fabius ×1 (poz. 55); Biegacz Wybrzeża ×2 (poz. 48) (wsparcie)
 
-#### Biegacz Wybrzeża — id 1292
+#### Biegacz Wybrzeża
 
 *Wystąpienia: ×10 (poz. 48) · też jako wsparcie.*
 
@@ -2919,7 +2837,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2931,21 +2849,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Gryzienie — id 9102701
+##### Umiejętność: Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Natarcie — id 9102702
+##### Umiejętność: Natarcie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ślizgacz Morskiej Niziny — id 1293
+#### Ślizgacz Morskiej Niziny
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -2960,7 +2876,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2972,21 +2888,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Rozbicie — id 9102801
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozrzucanie Strzępów — id 9102802
+##### Umiejętność: Rozrzucanie Strzępów
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Żniwiarz Morskiej Niecki — id 1294
+#### Żniwiarz Morskiej Niecki
 
 *Wystąpienia: ×1 (poz. 57).*
 
@@ -3001,7 +2915,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -3013,27 +2927,25 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Skrawkowanie Życia — id 9102901
+##### Umiejętność: Skrawkowanie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Furia — id 9102902
+##### Umiejętność: Furia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          8 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zbiór Substancji Odżywczych — id 9102903
+##### Umiejętność: Zbiór Substancji Odżywczych
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Założyciel Głębin — id 1295
+#### Założyciel Głębin
 
 *Wystąpienia: ×2 (poz. 52).*
 
@@ -3048,7 +2960,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3060,21 +2972,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Rozcinający Zagryz — id 9103001
+##### Umiejętność: Rozcinający Zagryz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nieustanne Żerowanie — id 9103002
+##### Umiejętność: Nieustanne Żerowanie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wydzielacz Głębin — id 1296
+#### Wydzielacz Głębin
 
 *Wystąpienia: ×1 (poz. 54).*
 
@@ -3089,7 +2999,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -3101,21 +3011,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie Życia — id 9103101
+##### Umiejętność: Przebicie Życia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    3 |
 
-##### Umiejętność: Wyrzut — id 9103102
+##### Umiejętność: Wyrzut
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
-**Pasywki:** brak
-
-#### Zwinny Wyznawca Głębin — id 1289
+#### Zwinny Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -3133,7 +3041,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 128901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3145,19 +3053,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 128904
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3167,7 +3075,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Wytrwały Wyznawca Głębin — id 1290
+#### Wytrwały Wyznawca Głębin
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -3185,7 +3093,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3197,19 +3105,19 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Wstrzyknięcie Komórek — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie z Machnięcia — id 128903
+##### Umiejętność: Cięcie z Machnięcia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3219,7 +3127,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 - **Abyssal Worship** — na początku tury, przywraca 3 SP za każdego ocalałego sojusznika
 
-#### Fabius — id 1298
+#### Fabius
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -3237,7 +3145,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Części (anatomia):**
 
-##### Korpus — id 129801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------- |
@@ -3249,31 +3157,31 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 *Opis:* Część
 
-##### Umiejętność: Zjednoczona Wola — id 129101
+##### Umiejętność: Zjednoczona Wola
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Obrzęd Uwolnienia — id 129103
+##### Umiejętność: Obrzęd Uwolnienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Adaptacja do Środowiska — id 129104
+##### Umiejętność: Adaptacja do Środowiska
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |          9 |         +5 |      1 |    1 |
 
-##### Umiejętność: Dla Lądowych Rodaków — id 129105
+##### Umiejętność: Dla Lądowych Rodaków
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |

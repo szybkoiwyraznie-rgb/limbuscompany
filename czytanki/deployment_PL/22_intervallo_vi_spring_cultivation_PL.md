@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Heishou Pack - Si : Veilstriker ×3 (poz. 60); Heishou Pack - Si : Shadestriker ×2 (poz. 60); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Shadestriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Shadestriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Depthstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Depthstriker ×1 (poz. 60) (wsparcie)
 
-#### Heishou Pack - Si : Veilstriker — id 90215
+#### Heishou Pack - Si : Veilstriker
 
 *Wystąpienia: ×5 (poz. 60) · też jako wsparcie.*
 
@@ -27,25 +27,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3) — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2) — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Rozglądanie za Okazją — id 9021504
+##### Umiejętność: Rozglądanie za Okazją
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -57,7 +57,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Snake Venom** — jeżeli cel ma [Obrzęd Śmierci【Jad】], zadaje +2.5% obrażeń za każde [Wężowe Ramię] jednostki (maks. 7.5%)
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Shadestriker — id 90216
+#### Heishou Pack - Si : Shadestriker
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -76,25 +76,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3) — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2) — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Szukam Okazji — id 9021604
+##### Umiejętność: Szukam Okazji
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -106,7 +106,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Snake Venom** — jeżeli cel ma [Obrzęd Śmierci【Jad】], zadaje +2.5% obrażeń za każde [Wężowe Ramię] jednostki (maks. 7.5%)
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Depthstriker — id 91023
+#### Heishou Pack - Si : Depthstriker
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -125,25 +125,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3) — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2) — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Czekaj na Okazję — id 9102304
+##### Umiejętność: Czekaj na Okazję
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -160,7 +160,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Heishou Pack - Si : Veilstriker ×2 (poz. 60); Heishou Pack - Si : Shadestriker ×3 (poz. 60); Heishou Pack - Si : Depthstriker ×1 (poz. 60); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Shadestriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Shadestriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Depthstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Depthstriker ×1 (poz. 60) (wsparcie)
 
-#### Heishou Pack - Si : Veilstriker — id 90215
+#### Heishou Pack - Si : Veilstriker
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -179,25 +179,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3) — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2) — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Rozglądanie za Okazją — id 9021504
+##### Umiejętność: Rozglądanie za Okazją
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -209,7 +209,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Snake Venom** — jeżeli cel ma [Obrzęd Śmierci【Jad】], zadaje +2.5% obrażeń za każde [Wężowe Ramię] jednostki (maks. 7.5%)
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Shadestriker — id 90216
+#### Heishou Pack - Si : Shadestriker
 
 *Wystąpienia: ×5 (poz. 60) · też jako wsparcie.*
 
@@ -228,25 +228,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3) — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2) — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Szukam Okazji — id 9021604
+##### Umiejętność: Szukam Okazji
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -258,7 +258,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Snake Venom** — jeżeli cel ma [Obrzęd Śmierci【Jad】], zadaje +2.5% obrażeń za każde [Wężowe Ramię] jednostki (maks. 7.5%)
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Depthstriker — id 91023
+#### Heishou Pack - Si : Depthstriker
 
 *Wystąpienia: ×3 (poz. 60) · też jako wsparcie.*
 
@@ -277,25 +277,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3) — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2) — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Czekaj na Okazję — id 9102304
+##### Umiejętność: Czekaj na Okazję
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -312,7 +312,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Wei ×1 (poz. 75)
 
-#### Wei — id 1247
+#### Wei
 
 *Wystąpienia: ×1 (poz. 75).*
 
@@ -331,7 +331,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 124701
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -343,49 +343,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zgniot Żelaznego Konia (鐵馬碎) — id 124701
+##### Umiejętność: Zgniot Żelaznego Konia (鐵馬碎)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Zgniot Fal (破蹈碎) — id 124702
+##### Umiejętność: Zgniot Fal (破蹈碎)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          9 |         −2 |      4 |    1 |
 
-##### Umiejętność: Miażdżenie Konnej Linii (馬陣粉碎) — id 124703
+##### Umiejętność: Miażdżenie Konnej Linii (馬陣粉碎)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: Zadeptanie i Ścięcie (擊碎斬) — id 124704
+##### Umiejętność: Zadeptanie i Ścięcie (擊碎斬)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         11 |         −3 |      3 |    1 |
 
-##### Umiejętność: Brudne węże... Wszystkich Was Zgniotę... — id 124705
+##### Umiejętność: Brudne węże... Wszystkich Was Zgniotę...
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         12 |         −2 |      4 |    3 |
 
-##### Umiejętność: Gwałtowny Wierzchowiec Przebijający Szyk (奔馬穿陣) — id 124706
+##### Umiejętność: Gwałtowny Wierzchowiec Przebijający Szyk (奔馬穿陣)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         10 |         −4 |      2 |    5 |
 
-##### Umiejętność: Nie Przejdziesz Dalej...! — id 124707
+##### Umiejętność: Nie Przejdziesz Dalej...!
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         12 |         −2 |      4 |    1 |
 
-##### Umiejętność: Rozdarcie Pustki Szalonym Wierzchowcem (狂馬裂空衝) — id 124708
+##### Umiejętność: Rozdarcie Pustki Szalonym Wierzchowcem (狂馬裂空衝)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -412,7 +412,7 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 
 - **Fala 1:** Night Drifter of the Drunken Palm ×1 (poz. 70)
 
-#### Night Drifter of the Drunken Palm — id 1286
+#### Night Drifter of the Drunken Palm
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -431,7 +431,7 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 
 **Części (anatomia):**
 
-##### Korpus — id 128601
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -443,43 +443,43 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 
 *Opis:* Część
 
-##### Umiejętność: Przednie Wirowanie — id 9102101
+##### Umiejętność: Przednie Wirowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wino na Otwarte Gardło — id 9102102
+##### Umiejętność: Wino na Otwarte Gardło
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wodospad — id 9102103
+##### Umiejętność: Wodospad
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Drunklaim — id 9102104
+##### Umiejętność: Drunklaim
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Pijacki Cios Powrotny — id 9102105
+##### Umiejętność: Pijacki Cios Powrotny
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Prawdziwa Dekapitacja — id 9102506
+##### Umiejętność: Prawdziwa Dekapitacja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |        +20 |      1 |    1 |
 
-##### Umiejętność: Pochył pijaka — id 9102107
+##### Umiejętność: Pochył pijaka
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -496,7 +496,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 - **Fala 1:** Heishou Pack - Si : Veilstriker ×2 (poz. 60); Heishou Pack - Si : Shadestriker ×2 (poz. 60); Heishou Pack - Si : Depthstriker ×2 (poz. 60); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Shadestriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Shadestriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Depthstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Depthstriker ×1 (poz. 60) (wsparcie)
 
-#### Heishou Pack - Si : Veilstriker — id 90215
+#### Heishou Pack - Si : Veilstriker
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -515,25 +515,25 @@ Szybkość w następnej turze jest ustalona na 10
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3) — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2) — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Rozglądanie za Okazją — id 9021504
+##### Umiejętność: Rozglądanie za Okazją
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -545,7 +545,7 @@ Szybkość w następnej turze jest ustalona na 10
 - **Snake Venom** — jeżeli cel ma [Obrzęd Śmierci【Jad】], zadaje +2.5% obrażeń za każde [Wężowe Ramię] jednostki (maks. 7.5%)
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Shadestriker — id 90216
+#### Heishou Pack - Si : Shadestriker
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -564,25 +564,25 @@ Szybkość w następnej turze jest ustalona na 10
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3) — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2) — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Szukam Okazji — id 9021604
+##### Umiejętność: Szukam Okazji
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -594,7 +594,7 @@ Szybkość w następnej turze jest ustalona na 10
 - **Snake Venom** — jeżeli cel ma [Obrzęd Śmierci【Jad】], zadaje +2.5% obrażeń za każde [Wężowe Ramię] jednostki (maks. 7.5%)
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Depthstriker — id 91023
+#### Heishou Pack - Si : Depthstriker
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -613,25 +613,25 @@ Szybkość w następnej turze jest ustalona na 10
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3) — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2) — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Czekaj na Okazję — id 9102304
+##### Umiejętność: Czekaj na Okazję
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -648,7 +648,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 - **Fala 1:** True Night Drifter of the Drunken Palm ×1 (poz. 70); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Veilstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Shadestriker ×1 (poz. 60) (wsparcie); Heishou Pack - Si : Depthstriker ×1 (poz. 60) (wsparcie)
 
-#### True Night Drifter of the Drunken Palm — id 1272
+#### True Night Drifter of the Drunken Palm
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -667,7 +667,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Części (anatomia):**
 
-##### Korpus — id 127201
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -679,61 +679,61 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Przednie Wirowanie (前旋斬) — id 127201
+##### Umiejętność: Przednie Wirowanie (前旋斬)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wino na Otwarte Gardło (咽道酒) — id 127202
+##### Umiejętność: Wino na Otwarte Gardło (咽道酒)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wodospad (落酒) — id 127203
+##### Umiejętność: Wodospad (落酒)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Drunklaim (取) — id 127204
+##### Umiejętność: Drunklaim (取)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Prawdziwa Dekapitacja (眞鎭終斬) — id 127205
+##### Umiejętność: Prawdziwa Dekapitacja (眞鎭終斬)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    2 |
 
-##### Umiejętność: Pochył pijaka (醉靠) — id 127206
+##### Umiejętność: Pochył pijaka (醉靠)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          7 |        +13 |      1 |    1 |
 
-##### Umiejętność: Pijacki Cios Powrotny (醉回攻) — id 127207
+##### Umiejętność: Pijacki Cios Powrotny (醉回攻)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ostateczna Prawdziwa Dekapitacja (眞-眞鎭終斬) — id 127208
+##### Umiejętność: Ostateczna Prawdziwa Dekapitacja (眞-眞鎭終斬)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Pijane Ścięcie (落醉斬) — id 127209
+##### Umiejętność: Pijane Ścięcie (落醉斬)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Pijackie Kroki Cienia (醉影步) — id 127210
+##### Umiejętność: Pijackie Kroki Cienia (醉影步)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -744,7 +744,7 @@ Szybkość w następnej turze jest ustalona na 10
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Heishou Pack - Si : Veilstriker — id 1277
+#### Heishou Pack - Si : Veilstriker
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -763,7 +763,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Części (anatomia):**
 
-##### Korpus — id 127701
+##### Korpus
 
 | Parametr           | Wartość                                                          |
 | ------------------ | ---------------------------------------------------------------- |
@@ -775,25 +775,25 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Rozciągająca Dłoń (伸長手) — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Rozglądanie za Okazją — id 9021504
+##### Umiejętność: Rozglądanie za Okazją
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -803,7 +803,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Shadestriker — id 1278
+#### Heishou Pack - Si : Shadestriker
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -822,7 +822,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Części (anatomia):**
 
-##### Korpus — id 127801
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -834,25 +834,25 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Rozciągająca Ręka (伸長腕) — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Szukam Okazji — id 9021604
+##### Umiejętność: Szukam Okazji
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -862,7 +862,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Heishou Pack - Si : Depthstriker — id 1279
+#### Heishou Pack - Si : Depthstriker
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -881,7 +881,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Części (anatomia):**
 
-##### Korpus — id 127901
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -893,25 +893,25 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Czekaj na Okazję — id 9102304
+##### Umiejętność: Czekaj na Okazję
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

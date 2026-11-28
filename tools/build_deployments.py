@@ -361,7 +361,7 @@ class Renderer:
             out.append("| Poczytalność | " + " · ".join(bits) + " |")
         ptype = row.get("panicType")
         if ptype:
-            out.append(f"| Typ paniki | {panic_name or f'id {ptype} (brak danych)'} |")
+            out.append(f"| Typ paniki | {panic_name or '(brak danych)'} |")
         return out
 
     def sp_effects(self, row: dict, panic_rec: dict | None) -> list[str]:
@@ -404,9 +404,9 @@ def _render_skills(out: list[str], renderer: Renderer, ids_numbers: list[dict],
             continue
         number_of = entry.get("number", 1)
         levels = skills_loc.get(int(sid), []) or []
-        name = one_line(to_markdown(levels[-1].get("name"))) if levels else f"umiejętność {sid}"
+        name = one_line(to_markdown(levels[-1].get("name"))) if levels else "(bez nazwy)"
         count_note = f" (×{number_of})" if number_of and number_of != 1 else ""
-        out += [f"{heading} Umiejętność: {name}{count_note} — id {sid}", ""]
+        out += [f"{heading} Umiejętność: {name}{count_note}", ""]
         data = skills_static.get(int(sid), {})
         entries = data.get("skillData", []) or []
         rows = merged_levels(entries, "gaksungLevel") if any("gaksungLevel" in e for e in entries) else \
@@ -444,10 +444,7 @@ def _render_passives(out: list[str], renderer: Renderer, passive_ids: list,
         out += lines
         out.append("")
     elif passive_ids:
-        missing = ", ".join(str(p) for p in passive_ids)
-        out += [f"**Pasywki:** *(wpisy id: {missing} — brak danych lokalizacji)*", ""]
-    else:
-        out += ["**Pasywki:** brak", ""]
+        out += ["**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*", ""]
 
 
 class Context:
@@ -505,7 +502,7 @@ class Context:
         if occ.get("support"):
             tags += " · też jako wsparcie"
         lvl_note = "poz. " + ", ".join(str(x) for x in levels) if levels else "poz. —"
-        out += [f"{heading} {name} — id {uid}", ""]
+        out += [f"{heading} {name}", ""]
         out += [f"*Wystąpienia: ×{counts} ({lvl_note}){tags}.*", ""]
         if not row:
             out += ["*Brak danych statystyk w StaticData.*", ""]
@@ -524,8 +521,8 @@ class Context:
             for pid in part_ids:
                 _, prow = self.uid2static.get(pid, ("część", {}))
                 ploc = _loc_row(self.enemies_loc, self.unit2nameid, pid)
-                pname = one_line(to_markdown(ploc.get("name"))) or f"część id {pid}"
-                out += [f"{heading}# {pname} — id {pid}", ""]
+                pname = one_line(to_markdown(ploc.get("name"))) or "(bez nazwy)"
+                out += [f"{heading}# {pname}", ""]
                 if prow:
                     p_panic = self.panic_map.get(prow.get("panicType")) or None
                     out += self.renderer.stats_table(prow, (p_panic or {}).get("panicName"))

@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Peccatulum Gniewu ×3 (poz. 12)
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×3 (poz. 12).*
 
@@ -23,7 +23,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,25 +35,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-2 · Lombard
 
 - **Fala 1:** Chuligan Liczący Liczby ×3 (poz. 6); Ostry Chuligan ×1 (poz. 6) (wsparcie); Chuligan z Wielkim Łbem ×1 (poz. 6) (wsparcie); Ostry Chuligan ×1 (poz. 6) (wsparcie); Chuligan z Wielkim Łbem ×1 (poz. 6) (wsparcie)
 
-#### Chuligan Liczący Liczby — id 90004
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×3 (poz. 6).*
 
@@ -72,15 +70,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9000401
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 90005
+#### Ostry Chuligan
 
 *Wystąpienia: ×2 (poz. 6) · też jako wsparcie.*
 
@@ -99,15 +95,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9000501
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan z Wielkim Łbem — id 90007
+#### Chuligan z Wielkim Łbem
 
 *Wystąpienia: ×2 (poz. 6) · też jako wsparcie.*
 
@@ -126,31 +120,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Obuch (×3) — id 9000701
+##### Umiejętność: Obuch (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Ciężki Cios — id 9000702
+##### Umiejętność: Ciężki Cios
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blok — id 9000703
+##### Umiejętność: Blok
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-4 · Wszy
 
 - **Fala 1:** Przechwalający Się Tingtangczyk ×2 (poz. 7); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 7); Przechwalający Się Tingtangczyk ×1 (poz. 7) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 7) (wsparcie); Przechwalający Się Tingtangczyk ×1 (poz. 7) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 7) (wsparcie)
 
-#### Przechwalający Się Tingtangczyk — id 90018
+#### Przechwalający Się Tingtangczyk
 
 *Wystąpienia: ×4 (poz. 7) · też jako wsparcie.*
 
@@ -169,27 +161,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×3) — id 9001701
+##### Umiejętność: Zamach (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Paskudne Uderzenie (×2) — id 9001702
+##### Umiejętność: Paskudne Uderzenie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001703
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Nienawidzący Fasoli Tingtangczyk — id 90019
+#### Nienawidzący Fasoli Tingtangczyk
 
 *Wystąpienia: ×3 (poz. 7) · też jako wsparcie.*
 
@@ -208,31 +198,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Cięcie w Dół (×3) — id 9001801
+##### Umiejętność: Cięcie w Dół (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Masywne Cięcie (×2) — id 9001802
+##### Umiejętność: Masywne Cięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001803
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-5 · Jesteśmy z Limbu…
 
 - **Fala 1:** Przechwalający Się Tingtangczyk ×4 (poz. 8); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 8) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 8) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 8) (wsparcie); Prowincjonalny Tingtangczyk ×1 (poz. 8) (wsparcie)
 
-#### Przechwalający Się Tingtangczyk — id 90018
+#### Przechwalający Się Tingtangczyk
 
 *Wystąpienia: ×4 (poz. 8).*
 
@@ -251,27 +239,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×3) — id 9001701
+##### Umiejętność: Zamach (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Paskudne Uderzenie (×2) — id 9001702
+##### Umiejętność: Paskudne Uderzenie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001703
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Nienawidzący Fasoli Tingtangczyk — id 90019
+#### Nienawidzący Fasoli Tingtangczyk
 
 *Wystąpienia: ×3 (poz. 8) · też jako wsparcie.*
 
@@ -290,27 +276,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Cięcie w Dół (×3) — id 9001801
+##### Umiejętność: Cięcie w Dół (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Masywne Cięcie (×2) — id 9001802
+##### Umiejętność: Masywne Cięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001803
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Prowincjonalny Tingtangczyk — id 90017
+#### Prowincjonalny Tingtangczyk
 
 *Wystąpienia: ×1 (poz. 8) · też jako wsparcie.*
 
@@ -329,31 +313,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kłucie (×3) — id 9001901
+##### Umiejętność: Kłucie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Podłe Pchnięcie (×2) — id 9001902
+##### Umiejętność: Podłe Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001903
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-6 · Wieża z aut
 
 - **Fala 1:** Przechwalający Się Tingtangczyk ×2 (poz. 9); Nienawidzący Fasoli Tingtangczyk ×2 (poz. 9); Prowincjonalny Tingtangczyk ×1 (poz. 9); Przechwalający Się Tingtangczyk ×1 (poz. 9) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 9) (wsparcie); Prowincjonalny Tingtangczyk ×1 (poz. 9) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 9) (wsparcie); Prowincjonalny Tingtangczyk ×1 (poz. 9) (wsparcie)
 
-#### Przechwalający Się Tingtangczyk — id 90018
+#### Przechwalający Się Tingtangczyk
 
 *Wystąpienia: ×3 (poz. 9) · też jako wsparcie.*
 
@@ -372,27 +354,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×3) — id 9001701
+##### Umiejętność: Zamach (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Paskudne Uderzenie (×2) — id 9001702
+##### Umiejętność: Paskudne Uderzenie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001703
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Nienawidzący Fasoli Tingtangczyk — id 90019
+#### Nienawidzący Fasoli Tingtangczyk
 
 *Wystąpienia: ×4 (poz. 9) · też jako wsparcie.*
 
@@ -411,27 +391,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Cięcie w Dół (×3) — id 9001801
+##### Umiejętność: Cięcie w Dół (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Masywne Cięcie (×2) — id 9001802
+##### Umiejętność: Masywne Cięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001803
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Prowincjonalny Tingtangczyk — id 90017
+#### Prowincjonalny Tingtangczyk
 
 *Wystąpienia: ×3 (poz. 9) · też jako wsparcie.*
 
@@ -450,31 +428,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kłucie (×3) — id 9001901
+##### Umiejętność: Kłucie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Podłe Pchnięcie (×2) — id 9001902
+##### Umiejętność: Podłe Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001903
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-7 · Kanister życzeń
 
 - **Fala 1:** Prowincjonalny Tingtangczyk ×2 (poz. 11); Przechwalający Się Tingtangczyk ×1 (poz. 11); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 11); Prowincjonalny Tingtangczyk ×1 (poz. 11) (wsparcie); Przechwalający Się Tingtangczyk ×1 (poz. 11) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 11) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 11) (wsparcie); Przechwalający Się Tingtangczyk ×1 (poz. 11) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 11) (wsparcie); Prowincjonalny Tingtangczyk ×1 (poz. 11) (wsparcie); Prowincjonalny Tingtangczyk ×1 (poz. 11) (wsparcie); Boss Gangu Tingtang ×1 (poz. 11) (wsparcie)
 
-#### Prowincjonalny Tingtangczyk — id 90017
+#### Prowincjonalny Tingtangczyk
 
 *Wystąpienia: ×5 (poz. 11) · też jako wsparcie.*
 
@@ -493,27 +469,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kłucie (×3) — id 9001901
+##### Umiejętność: Kłucie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Podłe Pchnięcie (×2) — id 9001902
+##### Umiejętność: Podłe Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001903
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Przechwalający Się Tingtangczyk — id 90018
+#### Przechwalający Się Tingtangczyk
 
 *Wystąpienia: ×3 (poz. 11) · też jako wsparcie.*
 
@@ -532,27 +506,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×3) — id 9001701
+##### Umiejętność: Zamach (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Paskudne Uderzenie (×2) — id 9001702
+##### Umiejętność: Paskudne Uderzenie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001703
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Nienawidzący Fasoli Tingtangczyk — id 90019
+#### Nienawidzący Fasoli Tingtangczyk
 
 *Wystąpienia: ×4 (poz. 11) · też jako wsparcie.*
 
@@ -571,27 +543,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Cięcie w Dół (×3) — id 9001801
+##### Umiejętność: Cięcie w Dół (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Masywne Cięcie (×2) — id 9001802
+##### Umiejętność: Masywne Cięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Malutkie Marzenie — id 9001803
+##### Umiejętność: Malutkie Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Boss Gangu Tingtang — id 91003
+#### Boss Gangu Tingtang
 
 *Wystąpienia: ×1 (poz. 11) · też jako wsparcie.*
 
@@ -610,37 +580,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Podcięcie Gardła (×3) — id 9100301
+##### Umiejętność: Podcięcie Gardła (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dźgnięcie (×2) — id 9100302
+##### Umiejętność: Dźgnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Spadaj! (×3) — id 9100306
+##### Umiejętność: Spadaj! (×3)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Okaleczenie — id 9100303
+##### Umiejętność: Okaleczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +3 |      3 |    1 |
 
-##### Umiejętność: Iskrzące Marzenie — id 9100305
+##### Umiejętność: Iskrzące Marzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      1 |    1 |
 
-##### Umiejętność: Pokażę Ci, Co To Znaczy…! — id 9100304
+##### Umiejętność: Pokażę Ci, Co To Znaczy…!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -655,7 +625,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Sztywny Ochroniarz Kasyna ×3 (poz. 10); Sztywny Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Pewny Siebie Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Sztywny Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Pewny Siebie Ochroniarz Kasyna ×1 (poz. 10) (wsparcie)
 
-#### Sztywny Ochroniarz Kasyna — id 90020
+#### Sztywny Ochroniarz Kasyna
 
 *Wystąpienia: ×5 (poz. 10) · też jako wsparcie.*
 
@@ -674,27 +644,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ni z ruszenia! (×2) — id 9002002
+##### Umiejętność: Ni z ruszenia! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Pewny Siebie Ochroniarz Kasyna — id 90021
+#### Pewny Siebie Ochroniarz Kasyna
 
 *Wystąpienia: ×2 (poz. 10) · też jako wsparcie.*
 
@@ -713,31 +681,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ani kroku! (×2) — id 9002003
+##### Umiejętność: Ani kroku! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-9 · Performans
 
 - **Fala 1:** Sztywny Ochroniarz Kasyna ×2 (poz. 10); Pewny Siebie Ochroniarz Kasyna ×2 (poz. 10); Sztywny Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Pewny Siebie Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Skupiony Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Skupiony Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Szef Ochroniarzy Kasyna ×1 (poz. 10) (wsparcie)
 
-#### Sztywny Ochroniarz Kasyna — id 90020
+#### Sztywny Ochroniarz Kasyna
 
 *Wystąpienia: ×3 (poz. 10) · też jako wsparcie.*
 
@@ -756,27 +722,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ni z ruszenia! (×2) — id 9002002
+##### Umiejętność: Ni z ruszenia! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Pewny Siebie Ochroniarz Kasyna — id 90021
+#### Pewny Siebie Ochroniarz Kasyna
 
 *Wystąpienia: ×3 (poz. 10) · też jako wsparcie.*
 
@@ -795,27 +759,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ani kroku! (×2) — id 9002003
+##### Umiejętność: Ani kroku! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Skupiony Ochroniarz Kasyna — id 90022
+#### Skupiony Ochroniarz Kasyna
 
 *Wystąpienia: ×2 (poz. 10) · też jako wsparcie.*
 
@@ -834,21 +796,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Będzie Boleć! (×2) — id 9002101
+##### Umiejętność: Będzie Boleć! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Szef Ochroniarzy Kasyna — id 90023
+#### Szef Ochroniarzy Kasyna
 
 *Wystąpienia: ×1 (poz. 10) · też jako wsparcie.*
 
@@ -867,38 +827,36 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Intruz Namierzony (×2) — id 9002301
+##### Umiejętność: Intruz Namierzony (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Wykluczone (×2) — id 9002304
+##### Umiejętność: Wykluczone (×2)
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Uważne Powstrzymywanie — id 9002302
+##### Umiejętność: Uważne Powstrzymywanie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Aresztowanie na Oślep — id 9002303
+##### Umiejętność: Aresztowanie na Oślep
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +2 |      3 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 2-10 · U.K.
 
 - **Fala 1:** Sztywny Ochroniarz Kasyna ×2 (poz. 11); Wesoły Członek Gangu Mariachi ×2 (poz. 11)
 - **Fala 2:** Sztywny Ochroniarz Kasyna ×1 (poz. 11); Pewny Siebie Ochroniarz Kasyna ×1 (poz. 11); Wesoły Członek Gangu Mariachi ×2 (poz. 11)
 
-#### Sztywny Ochroniarz Kasyna — id 90020
+#### Sztywny Ochroniarz Kasyna
 
 *Wystąpienia: ×3 (poz. 11).*
 
@@ -917,27 +875,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ni z ruszenia! (×2) — id 9002002
+##### Umiejętność: Ni z ruszenia! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wesoły Członek Gangu Mariachi — id 90024
+#### Wesoły Członek Gangu Mariachi
 
 *Wystąpienia: ×4 (poz. 11).*
 
@@ -956,33 +912,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Pokoju (×2) — id 9002402
+##### Umiejętność: Taniec Pokoju (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: ¡Olé! (×2) — id 9002405
+##### Umiejętność: ¡Olé! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny — id 9002403
+##### Umiejętność: Pojedynek Taneczny
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Pewny Siebie Ochroniarz Kasyna — id 90021
+#### Pewny Siebie Ochroniarz Kasyna
 
 *Wystąpienia: ×1 (poz. 11).*
 
@@ -1001,32 +955,30 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ani kroku! (×2) — id 9002003
+##### Umiejętność: Ani kroku! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 2-11 · U.K. 2
 
 - **Fala 1:** Wesoły Członek Gangu Mariachi ×4 (poz. 11)
 - **Fala 2:** Ożywiony Członek Gangu Mariachi ×4 (poz. 11)
 
-#### Wesoły Członek Gangu Mariachi — id 90024
+#### Wesoły Członek Gangu Mariachi
 
 *Wystąpienia: ×4 (poz. 11).*
 
@@ -1045,33 +997,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Pokoju (×2) — id 9002402
+##### Umiejętność: Taniec Pokoju (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: ¡Olé! (×2) — id 9002405
+##### Umiejętność: ¡Olé! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny — id 9002403
+##### Umiejętność: Pojedynek Taneczny
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Ożywiony Członek Gangu Mariachi — id 90025
+#### Ożywiony Członek Gangu Mariachi
 
 *Wystąpienia: ×4 (poz. 11).*
 
@@ -1090,38 +1040,36 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Namiętności (×2) — id 9002502
+##### Umiejętność: Taniec Namiętności (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny (×2) — id 9002403
+##### Umiejętność: Pojedynek Taneczny (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wesołe Pchnięcia — id 9002404
+##### Umiejętność: Wesołe Pchnięcia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 2-12 · Porywający taniec
 
 - **Fala 1:** Wesoły Członek Gangu Mariachi ×3 (poz. 12); Ożywiony Członek Gangu Mariachi ×2 (poz. 12)
 - **Fala 2:** Wesoły Członek Gangu Mariachi ×2 (poz. 12); Ożywiony Członek Gangu Mariachi ×3 (poz. 12)
 
-#### Wesoły Członek Gangu Mariachi — id 99027
+#### Wesoły Członek Gangu Mariachi
 
 *Wystąpienia: ×3 (poz. 12).*
 
@@ -1140,33 +1088,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Pokoju (×2) — id 9002402
+##### Umiejętność: Taniec Pokoju (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: ¡Olé! (×2) — id 9002405
+##### Umiejętność: ¡Olé! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny — id 9002403
+##### Umiejętność: Pojedynek Taneczny
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Ożywiony Członek Gangu Mariachi — id 99028
+#### Ożywiony Członek Gangu Mariachi
 
 *Wystąpienia: ×2 (poz. 12).*
 
@@ -1185,33 +1131,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Namiętności (×2) — id 9002502
+##### Umiejętność: Taniec Namiętności (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny (×2) — id 9002403
+##### Umiejętność: Pojedynek Taneczny (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wesołe Pchnięcia — id 9002404
+##### Umiejętność: Wesołe Pchnięcia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
 
-**Pasywki:** brak
-
-#### Wesoły Członek Gangu Mariachi — id 90024
+#### Wesoły Członek Gangu Mariachi
 
 *Wystąpienia: ×2 (poz. 12).*
 
@@ -1230,33 +1174,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Pokoju (×2) — id 9002402
+##### Umiejętność: Taniec Pokoju (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: ¡Olé! (×2) — id 9002405
+##### Umiejętność: ¡Olé! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny — id 9002403
+##### Umiejętność: Pojedynek Taneczny
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Ożywiony Członek Gangu Mariachi — id 90025
+#### Ożywiony Członek Gangu Mariachi
 
 *Wystąpienia: ×3 (poz. 12).*
 
@@ -1275,37 +1217,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Namiętności (×2) — id 9002502
+##### Umiejętność: Taniec Namiętności (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny (×2) — id 9002403
+##### Umiejętność: Pojedynek Taneczny (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wesołe Pchnięcia — id 9002404
+##### Umiejętność: Wesołe Pchnięcia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-13 · Powitanie
 
 - **Fala 1:** Sztywny Ochroniarz Kasyna ×1 (poz. 10); Pewny Siebie Ochroniarz Kasyna ×2 (poz. 10); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 10); Pewny Siebie Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 10) (wsparcie); Pewny Siebie Ochroniarz Kasyna ×1 (poz. 10) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 10) (wsparcie)
 
-#### Sztywny Ochroniarz Kasyna — id 90020
+#### Sztywny Ochroniarz Kasyna
 
 *Wystąpienia: ×1 (poz. 10).*
 
@@ -1324,27 +1264,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ni z ruszenia! (×2) — id 9002002
+##### Umiejętność: Ni z ruszenia! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Pewny Siebie Ochroniarz Kasyna — id 90021
+#### Pewny Siebie Ochroniarz Kasyna
 
 *Wystąpienia: ×4 (poz. 10) · też jako wsparcie.*
 
@@ -1363,27 +1301,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ani kroku! (×2) — id 9002003
+##### Umiejętność: Ani kroku! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Rozgrzewający Się Członek Gangu Tieqiu — id 90027
+#### Rozgrzewający Się Członek Gangu Tieqiu
 
 *Wystąpienia: ×3 (poz. 10) · też jako wsparcie.*
 
@@ -1402,37 +1338,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Deszcz Obelg (×2) — id 9002603
+##### Umiejętność: Deszcz Obelg (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         −1 |      2 |    1 |
 
-##### Umiejętność: Rozłupię Ci Ten Łeb (×3) — id 9002701
+##### Umiejętność: Rozłupię Ci Ten Łeb (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Na Co Patrzysz, Gało? (×2) — id 9002607
+##### Umiejętność: Na Co Patrzysz, Gało? (×2)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: No! — id 9002604
+##### Umiejętność: No!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-14 · Powitanie 2
 
 - **Fala 1:** Zagrażający Członek Gangu Tieqiu ×2 (poz. 11); Rozgrzewający Się Członek Gangu Tieqiu ×2 (poz. 11); Zagrażający Członek Gangu Tieqiu ×1 (poz. 11) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 11) (wsparcie); Zagrażający Członek Gangu Tieqiu ×1 (poz. 11) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 11) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 11) (wsparcie)
 
-#### Zagrażający Członek Gangu Tieqiu — id 90026
+#### Zagrażający Członek Gangu Tieqiu
 
 *Wystąpienia: ×4 (poz. 11) · też jako wsparcie.*
 
@@ -1451,33 +1385,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Krwawe Powitanie (×2) — id 9002602
+##### Umiejętność: Krwawe Powitanie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          9 |         −4 |      1 |    1 |
 
-##### Umiejętność: Porozrywam Cię na Strzępy (×3) — id 9002601
+##### Umiejętność: Porozrywam Cię na Strzępy (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Na Co Patrzysz, Gało? (×2) — id 9002607
+##### Umiejętność: Na Co Patrzysz, Gało? (×2)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: No! — id 9002604
+##### Umiejętność: No!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Rozgrzewający Się Członek Gangu Tieqiu — id 90027
+#### Rozgrzewający Się Członek Gangu Tieqiu
 
 *Wystąpienia: ×5 (poz. 11) · też jako wsparcie.*
 
@@ -1496,37 +1428,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Deszcz Obelg (×2) — id 9002603
+##### Umiejętność: Deszcz Obelg (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         −1 |      2 |    1 |
 
-##### Umiejętność: Rozłupię Ci Ten Łeb (×3) — id 9002701
+##### Umiejętność: Rozłupię Ci Ten Łeb (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Na Co Patrzysz, Gało? (×2) — id 9002607
+##### Umiejętność: Na Co Patrzysz, Gało? (×2)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: No! — id 9002604
+##### Umiejętność: No!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-15 · Ozór
 
 - **Fala 1:** Zagrażający Członek Gangu Tieqiu ×2 (poz. 12); Rozgrzewający Się Członek Gangu Tieqiu ×3 (poz. 12); Zagrażający Członek Gangu Tieqiu ×1 (poz. 12) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 12) (wsparcie); Zagrażający Członek Gangu Tieqiu ×1 (poz. 12) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 12) (wsparcie); Rozgrzewający Się Członek Gangu Tieqiu ×1 (poz. 12) (wsparcie)
 
-#### Zagrażający Członek Gangu Tieqiu — id 90026
+#### Zagrażający Członek Gangu Tieqiu
 
 *Wystąpienia: ×4 (poz. 12) · też jako wsparcie.*
 
@@ -1545,33 +1475,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Krwawe Powitanie (×2) — id 9002602
+##### Umiejętność: Krwawe Powitanie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          9 |         −4 |      1 |    1 |
 
-##### Umiejętność: Porozrywam Cię na Strzępy (×3) — id 9002601
+##### Umiejętność: Porozrywam Cię na Strzępy (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Na Co Patrzysz, Gało? (×2) — id 9002607
+##### Umiejętność: Na Co Patrzysz, Gało? (×2)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: No! — id 9002604
+##### Umiejętność: No!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Rozgrzewający Się Członek Gangu Tieqiu — id 90027
+#### Rozgrzewający Się Członek Gangu Tieqiu
 
 *Wystąpienia: ×6 (poz. 12) · też jako wsparcie.*
 
@@ -1590,37 +1518,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Deszcz Obelg (×2) — id 9002603
+##### Umiejętność: Deszcz Obelg (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         −1 |      2 |    1 |
 
-##### Umiejętność: Rozłupię Ci Ten Łeb (×3) — id 9002701
+##### Umiejętność: Rozłupię Ci Ten Łeb (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Na Co Patrzysz, Gało? (×2) — id 9002607
+##### Umiejętność: Na Co Patrzysz, Gało? (×2)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: No! — id 9002604
+##### Umiejętność: No!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-16 · Wejście zawodniczki
 
 - **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
 
-#### Urzekające Różowe Buciki — id 8013
+#### Urzekające Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 13).*
 
@@ -1635,7 +1561,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 801301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1647,19 +1573,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801301
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801302
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801303
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1670,7 +1596,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-#### Opętane Różowe Buciki — id 8014
+#### Opętane Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 13).*
 
@@ -1685,7 +1611,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 801401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1697,19 +1623,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801401
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801402
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801403
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1724,7 +1650,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Peccatulum Lenistwa ×1 (poz. 13); Peccatulum Posępności ×1 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
 
-#### Peccatulum Lenistwa — id 8006
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×1 (poz. 13).*
 
@@ -1739,7 +1665,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1751,21 +1677,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 8016
+#### Peccatulum Posępności
 
 *Wystąpienia: ×1 (poz. 13).*
 
@@ -1780,7 +1704,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 801601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1792,21 +1716,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Opętane Różowe Buciki — id 8014
+#### Opętane Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 13).*
 
@@ -1821,7 +1743,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 801401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1833,19 +1755,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801401
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801402
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801403
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1860,7 +1782,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Wesoły Członek Gangu Mariachi ×2 (poz. 13); Ożywiony Członek Gangu Mariachi ×2 (poz. 13); Wesoły Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ożywiony Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Wesoły Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ożywiony Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Wesoły Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ożywiony Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ayed ×1 (poz. 13) (wsparcie)
 
-#### Wesoły Członek Gangu Mariachi — id 90024
+#### Wesoły Członek Gangu Mariachi
 
 *Wystąpienia: ×5 (poz. 13) · też jako wsparcie.*
 
@@ -1879,33 +1801,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Pokoju (×2) — id 9002402
+##### Umiejętność: Taniec Pokoju (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: ¡Olé! (×2) — id 9002405
+##### Umiejętność: ¡Olé! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny — id 9002403
+##### Umiejętność: Pojedynek Taneczny
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Ożywiony Członek Gangu Mariachi — id 90025
+#### Ożywiony Członek Gangu Mariachi
 
 *Wystąpienia: ×5 (poz. 13) · też jako wsparcie.*
 
@@ -1924,33 +1844,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Namiętności (×2) — id 9002502
+##### Umiejętność: Taniec Namiętności (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny (×2) — id 9002403
+##### Umiejętność: Pojedynek Taneczny (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wesołe Pchnięcia — id 9002404
+##### Umiejętność: Wesołe Pchnięcia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
 
-**Pasywki:** brak
-
-#### Ayed — id 91004
+#### Ayed
 
 *Wystąpienia: ×1 (poz. 13) · też jako wsparcie.*
 
@@ -1969,37 +1887,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Żarliwy Krok Taneczny (×2) — id 9100401
+##### Umiejętność: Żarliwy Krok Taneczny (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +1 |      4 |    1 |
 
-##### Umiejętność: To Wszystko, Co Masz? (×2) — id 9100402
+##### Umiejętność: To Wszystko, Co Masz? (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: ¡Excelente! (×2) — id 9100406
+##### Umiejętność: ¡Excelente! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ostro! — id 9100403
+##### Umiejętność: Ostro!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zwinnie~ — id 9100404
+##### Umiejętność: Zwinnie~
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pañata Party~! — id 9100405
+##### Umiejętność: Pañata Party~!
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2015,7 +1933,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×1 (poz. 13); Zrobiłem Się Mocny! Serio? ×1 (poz. 13); Urzekające Różowe Buciki ×1 (poz. 13); Opętane Różowe Buciki ×1 (poz. 13)
 
-#### Czy Zostałem Silniejszy? Naprawdę? — id 8010
+#### Czy Zostałem Silniejszy? Naprawdę?
 
 *Wystąpienia: ×1 (poz. 13).*
 
@@ -2030,7 +1948,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2042,25 +1960,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Mocno Pracuj! (×2) — id 801002
+##### Umiejętność: Mocno Pracuj! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Do Pracy… — id 801001
+##### Umiejętność: Do Pracy…
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: Zajęty... — id 801003
+##### Umiejętność: Zajęty...
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: A-L-A-R-M!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2070,7 +1988,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
 
-#### Zrobiłem Się Mocny! Serio? — id 8011
+#### Zrobiłem Się Mocny! Serio?
 
 *Wystąpienia: ×1 (poz. 13).*
 
@@ -2085,7 +2003,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2097,25 +2015,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Najlepiej Skończyć z Tym… (×2) — id 801101
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: Sumiennie! — id 801102
+##### Umiejętność: Sumiennie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zajęty... — id 801103
+##### Umiejętność: Zajęty...
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: A-L-A-R-M!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2125,7 +2043,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
 
-#### Urzekające Różowe Buciki — id 8013
+#### Urzekające Różowe Buciki
 
 *Wystąpienia: ×1 (poz. 13).*
 
@@ -2140,7 +2058,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2152,19 +2070,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801301
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801302
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801303
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2175,7 +2093,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-#### Opętane Różowe Buciki — id 8014
+#### Opętane Różowe Buciki
 
 *Wystąpienia: ×1 (poz. 13).*
 
@@ -2190,7 +2108,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2202,19 +2120,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801401
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801402
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801403
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2229,7 +2147,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
 
-#### Urzekające Różowe Buciki — id 8013
+#### Urzekające Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 13).*
 
@@ -2244,7 +2162,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2256,19 +2174,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801301
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801302
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801303
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2279,7 +2197,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-#### Opętane Różowe Buciki — id 8014
+#### Opętane Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 13).*
 
@@ -2294,7 +2212,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2306,19 +2224,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801401
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801402
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801403
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2333,7 +2251,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 14); Opętane Różowe Buciki ×1 (poz. 14); Stuk-stuk? Marsz! ×1 (poz. 14)
 
-#### Urzekające Różowe Buciki — id 8013
+#### Urzekające Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 14).*
 
@@ -2348,7 +2266,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2360,19 +2278,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801301
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801302
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801303
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2383,7 +2301,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-#### Opętane Różowe Buciki — id 8014
+#### Opętane Różowe Buciki
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -2398,7 +2316,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2410,19 +2328,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801401
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801402
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801403
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2433,7 +2351,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-#### Stuk-stuk? Marsz! — id 8015
+#### Stuk-stuk? Marsz!
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -2448,7 +2366,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                            |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -2460,25 +2378,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Czas Zarobić! — id 801501
+##### Umiejętność: Czas Zarobić!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          9 |         −7 |      1 |    1 |
 
-##### Umiejętność: Zarobić! — id 801502
+##### Umiejętność: Zarobić!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         13 |        −10 |      1 |    1 |
 
-##### Umiejętność: Cóż za Rozrywka!! — id 801503
+##### Umiejętność: Cóż za Rozrywka!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         −2 |      2 |    1 |
 
-##### Umiejętność: Błysk☆Błysk Obrot!? — id 801504
+##### Umiejętność: Błysk☆Błysk Obrot!?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2494,7 +2412,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Peccatulum Posępności ×4 (poz. 14)
 
-#### Peccatulum Posępności — id 8016
+#### Peccatulum Posępności
 
 *Wystąpienia: ×4 (poz. 14).*
 
@@ -2509,7 +2427,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2521,25 +2439,23 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 2-23
 
 - **Fala 1:** Peccatulum Lenistwa ×2 (poz. 14); Peccatulum Posępności ×2 (poz. 14)
 
-#### Peccatulum Lenistwa — id 8006
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×2 (poz. 14).*
 
@@ -2554,7 +2470,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 800601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2566,21 +2482,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 8016
+#### Peccatulum Posępności
 
 *Wystąpienia: ×2 (poz. 14).*
 
@@ -2595,7 +2509,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2607,25 +2521,23 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 2-24
 
 - **Fala 1:** Peccatulum Posępności ×2 (poz. 14); Zamierający z Zimna Niewolnik Kopalni ×1 (poz. 14); Dygotający Niewolnik Kopalni ×1 (poz. 14)
 
-#### Peccatulum Posępności — id 8016
+#### Peccatulum Posępności
 
 *Wystąpienia: ×2 (poz. 14).*
 
@@ -2640,7 +2552,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2652,21 +2564,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Zamierający z Zimna Niewolnik Kopalni — id 8021
+#### Zamierający z Zimna Niewolnik Kopalni
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -2681,7 +2591,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2693,19 +2603,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2715,7 +2625,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-#### Dygotający Niewolnik Kopalni — id 8022
+#### Dygotający Niewolnik Kopalni
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -2730,7 +2640,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2742,19 +2652,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2768,7 +2678,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Peccatulum Lenistwa ×2 (poz. 14); Zamierający z Zimna Niewolnik Kopalni ×1 (poz. 14); Dygotający Niewolnik Kopalni ×1 (poz. 14)
 
-#### Peccatulum Lenistwa — id 8006
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×2 (poz. 14).*
 
@@ -2783,7 +2693,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 800601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2795,21 +2705,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Zamierający z Zimna Niewolnik Kopalni — id 8021
+#### Zamierający z Zimna Niewolnik Kopalni
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -2824,7 +2732,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2836,19 +2744,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2858,7 +2766,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-#### Dygotający Niewolnik Kopalni — id 8022
+#### Dygotający Niewolnik Kopalni
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -2873,7 +2781,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2885,19 +2793,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2911,7 +2819,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Zamierający z Zimna Niewolnik Kopalni ×2 (poz. 14); Dygotający Niewolnik Kopalni ×1 (poz. 14)
 
-#### Zamierający z Zimna Niewolnik Kopalni — id 8021
+#### Zamierający z Zimna Niewolnik Kopalni
 
 *Wystąpienia: ×2 (poz. 14).*
 
@@ -2926,7 +2834,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2938,19 +2846,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2960,7 +2868,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-#### Dygotający Niewolnik Kopalni — id 8022
+#### Dygotający Niewolnik Kopalni
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -2975,7 +2883,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2987,19 +2895,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3013,7 +2921,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Zamierający z Zimna Niewolnik Kopalni ×1 (poz. 14); Dygotający Niewolnik Kopalni ×2 (poz. 14)
 
-#### Zamierający z Zimna Niewolnik Kopalni — id 8021
+#### Zamierający z Zimna Niewolnik Kopalni
 
 *Wystąpienia: ×1 (poz. 14).*
 
@@ -3028,7 +2936,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3040,19 +2948,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3062,7 +2970,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-#### Dygotający Niewolnik Kopalni — id 8022
+#### Dygotający Niewolnik Kopalni
 
 *Wystąpienia: ×2 (poz. 14).*
 
@@ -3077,7 +2985,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3089,19 +2997,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3118,7 +3026,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Fala 3:** Sąsiad Zbudzony ze Snu ×2 (poz. 15); Sąsiad Powstały Ponownie ×1 (poz. 15); Zamierający z Zimna Niewolnik Kopalni ×2 (poz. 15)
 - **Fala 4:** Zamierający z Zimna Niewolnik Kopalni ×2 (poz. 15); Dygotający Niewolnik Kopalni ×3 (poz. 15)
 
-#### Sąsiad Zbudzony ze Snu — id 8019
+#### Sąsiad Zbudzony ze Snu
 
 *Wystąpienia: ×6 (poz. 15).*
 
@@ -3133,7 +3041,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801901
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3145,19 +3053,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Klucie Dziobem — id 801901
+##### Umiejętność: Klucie Dziobem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cięcie Klapsm — id 801902
+##### Umiejętność: Cięcie Klapsm
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Kopniak — id 801903
+##### Umiejętność: Kopniak
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3167,7 +3075,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-#### Sąsiad Powstały Ponownie — id 8020
+#### Sąsiad Powstały Ponownie
 
 *Wystąpienia: ×4 (poz. 15).*
 
@@ -3182,7 +3090,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3194,19 +3102,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Klucie Dziobem — id 801901
+##### Umiejętność: Klucie Dziobem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cięcie Klapsm — id 801902
+##### Umiejętność: Cięcie Klapsm
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Kopniak — id 801903
+##### Umiejętność: Kopniak
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3216,7 +3124,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-#### Zamierający z Zimna Niewolnik Kopalni — id 8021
+#### Zamierający z Zimna Niewolnik Kopalni
 
 *Wystąpienia: ×4 (poz. 15).*
 
@@ -3231,7 +3139,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3243,19 +3151,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3265,7 +3173,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-#### Dygotający Niewolnik Kopalni — id 8022
+#### Dygotający Niewolnik Kopalni
 
 *Wystąpienia: ×3 (poz. 15).*
 
@@ -3280,7 +3188,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 802201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                               |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3292,19 +3200,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Dziobanie — id 802101
+##### Umiejętność: Dziobanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Plucie Lodem — id 802102
+##### Umiejętność: Plucie Lodem
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozbicie Dzioba — id 802103
+##### Umiejętność: Rozbicie Dzioba
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3318,7 +3226,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×2 (poz. 15); Zrobiłem Się Mocny! Serio? ×2 (poz. 15)
 
-#### Czy Zostałem Silniejszy? Naprawdę? — id 8010
+#### Czy Zostałem Silniejszy? Naprawdę?
 
 *Wystąpienia: ×2 (poz. 15).*
 
@@ -3333,7 +3241,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3345,25 +3253,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Mocno Pracuj! (×2) — id 801002
+##### Umiejętność: Mocno Pracuj! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Do Pracy… — id 801001
+##### Umiejętność: Do Pracy…
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: Zajęty... — id 801003
+##### Umiejętność: Zajęty...
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: A-L-A-R-M!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3373,7 +3281,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
 
-#### Zrobiłem Się Mocny! Serio? — id 8011
+#### Zrobiłem Się Mocny! Serio?
 
 *Wystąpienia: ×2 (poz. 15).*
 
@@ -3388,7 +3296,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3400,25 +3308,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Najlepiej Skończyć z Tym… (×2) — id 801101
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: Sumiennie! — id 801102
+##### Umiejętność: Sumiennie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Zajęty... — id 801103
+##### Umiejętność: Zajęty...
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: A-L-A-R-M!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3432,7 +3340,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 15); Opętane Różowe Buciki ×2 (poz. 15)
 
-#### Urzekające Różowe Buciki — id 8013
+#### Urzekające Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 15).*
 
@@ -3447,7 +3355,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3459,19 +3367,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801301
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801302
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801303
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3482,7 +3390,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-#### Opętane Różowe Buciki — id 8014
+#### Opętane Różowe Buciki
 
 *Wystąpienia: ×2 (poz. 15).*
 
@@ -3497,7 +3405,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Części (anatomia):**
 
-##### Tułów — id 801401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3509,19 +3417,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Stłumiony Gest — id 801401
+##### Umiejętność: Stłumiony Gest
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ściskające Pożądania — id 801402
+##### Umiejętność: Ściskające Pożądania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Różowy Taniec — id 801403
+##### Umiejętność: Różowy Taniec
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |

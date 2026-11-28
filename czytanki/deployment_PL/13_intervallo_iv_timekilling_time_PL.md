@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** T Corp. Class 2 Collection Staff ×2 (poz. 40); T Corp. Class 3 Collector - Neutralize ×3 (poz. 40)
 
-#### T Corp. Class 2 Collection Staff — id 90142
+#### T Corp. Class 2 Collection Staff
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -27,19 +27,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Naliczenie: Kontrola — id 9014201
+##### Umiejętność: Naliczenie: Kontrola
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Proszę Się Zatrzymać. — id 9014202
+##### Umiejętność: Proszę Się Zatrzymać.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekwuję Naliczenie. — id 9014203
+##### Umiejętność: Egzekwuję Naliczenie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -52,7 +52,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Ready to Borrow Time** — na początku tury, jeżeli ta jednostka nie ma [Pożyczony Czas Korporacji T], zyskuje +5 Licznika Wstrząsu
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### T Corp. Class 3 Collector - Neutralize — id 90143
+#### T Corp. Class 3 Collector - Neutralize
 
 *Wystąpienia: ×3 (poz. 40).*
 
@@ -71,25 +71,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przygotowanie do Zbierania — id 9014301
+##### Umiejętność: Przygotowanie do Zbierania
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przyspieszony Amputator Korporacji T — id 9014302
+##### Umiejętność: Przyspieszony Amputator Korporacji T
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Twój Zegarek, jeśli wolno. — id 9014303
+##### Umiejętność: Twój Zegarek, jeśli wolno.
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekwuję Naliczenie. — id 9014304
+##### Umiejętność: Egzekwuję Naliczenie.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -106,7 +106,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×4 (poz. 41); Quick-witted Yurodivy ×1 (poz. 41)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×4 (poz. 41).*
 
@@ -125,25 +125,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -153,7 +153,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×1 (poz. 41).*
 
@@ -172,25 +172,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -204,7 +204,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 42); Quick-witted Yurodivy ×2 (poz. 42)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×3 (poz. 42).*
 
@@ -223,25 +223,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -251,7 +251,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×2 (poz. 42).*
 
@@ -270,25 +270,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -302,7 +302,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 42); Quick-witted Yurodivy ×2 (poz. 42); Aggressive Yurodivy ×1 (poz. 42) (wsparcie); Quick-witted Yurodivy ×1 (poz. 42) (wsparcie); Aggressive Yurodivy ×1 (poz. 42) (wsparcie); Quick-witted Yurodivy ×1 (poz. 42) (wsparcie); Quick-witted Yurodivy ×1 (poz. 42) (wsparcie)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×5 (poz. 42) · też jako wsparcie.*
 
@@ -321,25 +321,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -349,7 +349,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×5 (poz. 42) · też jako wsparcie.*
 
@@ -368,25 +368,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -400,7 +400,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 43); Quick-witted Yurodivy ×2 (poz. 43); Aggressive Yurodivy ×1 (poz. 43) (wsparcie); Quick-witted Yurodivy ×1 (poz. 43) (wsparcie); Aggressive Yurodivy ×1 (poz. 43) (wsparcie); Quick-witted Yurodivy ×1 (poz. 43) (wsparcie); Quick-witted Yurodivy ×1 (poz. 43) (wsparcie)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×5 (poz. 43) · też jako wsparcie.*
 
@@ -419,25 +419,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -447,7 +447,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×5 (poz. 43) · też jako wsparcie.*
 
@@ -466,25 +466,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -499,7 +499,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 44); Quick-witted Yurodivy ×2 (poz. 44)
 - **Fala 2:** Aggressive Yurodivy ×1 (poz. 44); Quick-witted Yurodivy ×1 (poz. 44); District 20 Yurodiviye Captain ×1 (poz. 44); Quick-witted Yurodivy ×1 (poz. 44)
 
-#### Aggressive Yurodivy — id 8343
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×4 (poz. 44).*
 
@@ -518,7 +518,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 834301
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -530,25 +530,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -558,7 +558,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 8344
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×4 (poz. 44).*
 
@@ -577,7 +577,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 834401
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -589,25 +589,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -617,7 +617,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### District 20 Yurodiviye Captain — id 8345
+#### District 20 Yurodiviye Captain
 
 *Wystąpienia: ×1 (poz. 44).*
 
@@ -636,7 +636,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 834501
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -648,43 +648,43 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wstydu Nie Masz? — id 9101701
+##### Umiejętność: Wstydu Nie Masz?
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Widzę, Wstydu Nie Masz — id 9101702
+##### Umiejętność: Widzę, Wstydu Nie Masz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zdołasz Ich Chronić? — id 9101703
+##### Umiejętność: Zdołasz Ich Chronić?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tej Broni Już Nie Użyjesz — id 9101704
+##### Umiejętność: Tej Broni Już Nie Użyjesz
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gotowy na Bitę? — id 9101705
+##### Umiejętność: Gotowy na Bitę?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Garda — id 9101706
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Dla Większego Dobra — id 9101707
+##### Umiejętność: Dla Większego Dobra
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -698,7 +698,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** The Time Ripper ×1 (poz. 45); Unfolded Time Rippers ×3 (poz. 45); The Time Ripper ×1 (poz. 45) (wsparcie)
 
-#### The Time Ripper — id 8277
+#### The Time Ripper
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -717,7 +717,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 827701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -729,49 +729,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strach Cię Wziął? — id 827701
+##### Umiejętność: Strach Cię Wziął?
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Kara za Zabijanie Czasu — id 827702
+##### Umiejętność: Kara za Zabijanie Czasu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ekstrakcja — id 827703
+##### Umiejętność: Ekstrakcja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Okaleczenie — id 827704
+##### Umiejętność: Okaleczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Czas na Zbawienie — id 827705
+##### Umiejętność: Czas na Zbawienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: Unik — id 827706
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: O nie... — id 827707
+##### Umiejętność: O nie...
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Brakuje Czasu — id 827708
+##### Umiejętność: Brakuje Czasu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -784,7 +784,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Rescued Time** — na początku walki posiada 1000 [Skradziony Czas]
 - **Accelerated Regeneration** — na koniec tury, jeżeli Część jest zniszczona, zużywa 100 Czasu z tej Części, by w następnej turze wyjść ze stanu zniszczonej Części.
 
-#### Unfolded Time Rippers — id 8279
+#### Unfolded Time Rippers
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -799,7 +799,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 827901
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -811,33 +811,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tik (×2) — id 827901
+##### Umiejętność: Tik (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ta-ak — id 827902
+##### Umiejętność: Ta-ak
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Tik-tik-Tak — id 827903
+##### Umiejętność: Tik-tik-Tak
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tak — id 827904
+##### Umiejętność: Tak
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          2 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### The Time Ripper — id 8278
+#### The Time Ripper
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
@@ -856,7 +854,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Brain — id 827801
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -868,7 +866,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 827802
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -880,7 +878,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 827803
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -892,7 +890,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 827804
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -904,7 +902,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 827805
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -916,49 +914,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strach Cię Wziął? — id 827801
+##### Umiejętność: Strach Cię Wziął?
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kara za Zabijanie Czasu — id 827802
+##### Umiejętność: Kara za Zabijanie Czasu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Ekstrakcja — id 827803
+##### Umiejętność: Ekstrakcja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Okaleczenie — id 827804
+##### Umiejętność: Okaleczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Czas na Zbawienie — id 827805
+##### Umiejętność: Czas na Zbawienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: Unik — id 827806
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Czas Zabijania Czasu — id 827807
+##### Umiejętność: Czas Zabijania Czasu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |         48 |        +48 |      1 |    1 |
 
-##### Umiejętność: Potrzebujemy Więcej Czasu! — id 827808
+##### Umiejętność: Potrzebujemy Więcej Czasu!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -978,7 +976,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** The Time Ripper ×1 (poz. 45)
 
-#### The Time Ripper — id 8277
+#### The Time Ripper
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -997,7 +995,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 827701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1009,49 +1007,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strach Cię Wziął? — id 827701
+##### Umiejętność: Strach Cię Wziął?
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Kara za Zabijanie Czasu — id 827702
+##### Umiejętność: Kara za Zabijanie Czasu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ekstrakcja — id 827703
+##### Umiejętność: Ekstrakcja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Okaleczenie — id 827704
+##### Umiejętność: Okaleczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Czas na Zbawienie — id 827705
+##### Umiejętność: Czas na Zbawienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: Unik — id 827706
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: O nie... — id 827707
+##### Umiejętność: O nie...
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Brakuje Czasu — id 827708
+##### Umiejętność: Brakuje Czasu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1070,7 +1068,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** T Corp. Class 2 Collection Staff ×2 (poz. 55); T Corp. Class 3 Collector - Neutralize ×3 (poz. 55)
 
-#### T Corp. Class 2 Collection Staff — id 90142
+#### T Corp. Class 2 Collection Staff
 
 *Wystąpienia: ×2 (poz. 55).*
 
@@ -1089,19 +1087,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Naliczenie: Kontrola — id 9014201
+##### Umiejętność: Naliczenie: Kontrola
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Proszę Się Zatrzymać. — id 9014202
+##### Umiejętność: Proszę Się Zatrzymać.
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekwuję Naliczenie. — id 9014203
+##### Umiejętność: Egzekwuję Naliczenie.
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1114,7 +1112,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Ready to Borrow Time** — na początku tury, jeżeli ta jednostka nie ma [Pożyczony Czas Korporacji T], zyskuje +5 Licznika Wstrząsu
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### T Corp. Class 3 Collector - Neutralize — id 90143
+#### T Corp. Class 3 Collector - Neutralize
 
 *Wystąpienia: ×3 (poz. 55).*
 
@@ -1133,25 +1131,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przygotowanie do Zbierania — id 9014301
+##### Umiejętność: Przygotowanie do Zbierania
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przyspieszony Amputator Korporacji T — id 9014302
+##### Umiejętność: Przyspieszony Amputator Korporacji T
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Twój Zegarek, jeśli wolno. — id 9014303
+##### Umiejętność: Twój Zegarek, jeśli wolno.
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekwuję Naliczenie. — id 9014304
+##### Umiejętność: Egzekwuję Naliczenie.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1168,7 +1166,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×4 (poz. 55); Quick-witted Yurodivy ×1 (poz. 55)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×4 (poz. 55).*
 
@@ -1187,25 +1185,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1215,7 +1213,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -1234,25 +1232,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1266,7 +1264,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 55); Quick-witted Yurodivy ×2 (poz. 55)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×3 (poz. 55).*
 
@@ -1285,25 +1283,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1313,7 +1311,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×2 (poz. 55).*
 
@@ -1332,25 +1330,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1364,7 +1362,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 55); Quick-witted Yurodivy ×2 (poz. 55); Aggressive Yurodivy ×1 (poz. 55) (wsparcie); Quick-witted Yurodivy ×1 (poz. 55) (wsparcie); Aggressive Yurodivy ×1 (poz. 55) (wsparcie); Quick-witted Yurodivy ×1 (poz. 55) (wsparcie); Quick-witted Yurodivy ×1 (poz. 55) (wsparcie)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×5 (poz. 55) · też jako wsparcie.*
 
@@ -1383,25 +1381,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1411,7 +1409,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×5 (poz. 55) · też jako wsparcie.*
 
@@ -1430,25 +1428,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1462,7 +1460,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 55); Quick-witted Yurodivy ×2 (poz. 55); Aggressive Yurodivy ×1 (poz. 55) (wsparcie); Quick-witted Yurodivy ×1 (poz. 55) (wsparcie); Aggressive Yurodivy ×1 (poz. 55) (wsparcie); Quick-witted Yurodivy ×1 (poz. 55) (wsparcie); Quick-witted Yurodivy ×1 (poz. 55) (wsparcie)
 
-#### Aggressive Yurodivy — id 90140
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×5 (poz. 55) · też jako wsparcie.*
 
@@ -1481,25 +1479,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1509,7 +1507,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 90141
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×5 (poz. 55) · też jako wsparcie.*
 
@@ -1528,25 +1526,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1561,7 +1559,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 1:** Aggressive Yurodivy ×3 (poz. 55); Quick-witted Yurodivy ×2 (poz. 55)
 - **Fala 2:** Aggressive Yurodivy ×1 (poz. 55); Quick-witted Yurodivy ×1 (poz. 55); District 20 Yurodiviye Captain ×1 (poz. 55); Quick-witted Yurodivy ×1 (poz. 55)
 
-#### Aggressive Yurodivy — id 8343
+#### Aggressive Yurodivy
 
 *Wystąpienia: ×4 (poz. 55).*
 
@@ -1580,7 +1578,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 834301
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -1592,25 +1590,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nie Przeszkadzaj — id 9014001
+##### Umiejętność: Nie Przeszkadzaj
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mój Tajny Oręż — id 9014002
+##### Umiejętność: Mój Tajny Oręż
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014004
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1620,7 +1618,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Quick-witted Yurodivy — id 8344
+#### Quick-witted Yurodivy
 
 *Wystąpienia: ×4 (poz. 55).*
 
@@ -1639,7 +1637,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 834401
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -1651,25 +1649,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Z Drogi — id 9014101
+##### Umiejętność: Z Drogi
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9014104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1679,7 +1677,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### District 20 Yurodiviye Captain — id 1231
+#### District 20 Yurodiviye Captain
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -1698,7 +1696,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 123101
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -1710,43 +1708,43 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wstydu Nie Masz? — id 9102401
+##### Umiejętność: Wstydu Nie Masz?
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Widzę, Wstydu Nie Masz — id 9102402
+##### Umiejętność: Widzę, Wstydu Nie Masz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zdołasz Ich Chronić? — id 9102403
+##### Umiejętność: Zdołasz Ich Chronić?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tej Broni Już Nie Użyjesz — id 9102404
+##### Umiejętność: Tej Broni Już Nie Użyjesz
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Gotowy na Bitę? — id 9102405
+##### Umiejętność: Gotowy na Bitę?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Garda — id 9102406
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Dla Większego Dobra — id 9102407
+##### Umiejętność: Dla Większego Dobra
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1760,7 +1758,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** The Time Ripper ×1 (poz. 55); Unfolded Time Rippers ×3 (poz. 55); The Time Ripper ×1 (poz. 55) (wsparcie)
 
-#### The Time Ripper — id 1228
+#### The Time Ripper
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -1779,7 +1777,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 122801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1791,49 +1789,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strach Cię Wziął? — id 122801
+##### Umiejętność: Strach Cię Wziął?
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kara za Zabijanie Czasu — id 122802
+##### Umiejętność: Kara za Zabijanie Czasu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ekstrakcja — id 122803
+##### Umiejętność: Ekstrakcja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +4 |      4 |    1 |
 
-##### Umiejętność: Okaleczenie — id 122804
+##### Umiejętność: Okaleczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Czas na Zbawienie — id 122805
+##### Umiejętność: Czas na Zbawienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Unik — id 122806
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: O nie... — id 122807
+##### Umiejętność: O nie...
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brakuje Czasu — id 122808
+##### Umiejętność: Brakuje Czasu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1847,7 +1845,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Accelerated Regeneration** — na koniec tury, jeżeli Część jest zniszczona, zużywa 100 Czasu z tej Części, by w następnej turze wyjść ze stanu zniszczonej Części.
 - **'O Clock** — na koniec tury, jeżeli [Skradziony Czas] tej jednostki dzieli się bez reszty przez 60, zyskuje w następnej turze 2 [Wzrost Obrażeń Cięcia] i 2 [Wzrost Obrażeń Przebicia]
 
-#### Unfolded Time Rippers — id 1230
+#### Unfolded Time Rippers
 
 *Wystąpienia: ×3 (poz. 55).*
 
@@ -1862,7 +1860,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 123001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1874,25 +1872,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tik (×2) — id 827901
+##### Umiejętność: Tik (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ta-ak — id 827902
+##### Umiejętność: Ta-ak
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Tik-tik-Tak — id 827903
+##### Umiejętność: Tik-tik-Tak
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tak — id 827904
+##### Umiejętność: Tak
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1902,7 +1900,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Time Hyperacceleration** — na koniec tury, jeżeli ta jednostka żyje, nakłada 1 [Ochrona] w następnej turze na losową Część The Time Ripper.
 
-#### The Time Ripper — id 1229
+#### The Time Ripper
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -1921,7 +1919,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Brain — id 122901
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1933,7 +1931,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 122902
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1945,7 +1943,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 122903
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1957,7 +1955,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 122904
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1969,7 +1967,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Brain — id 122905
+##### Brain
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1981,49 +1979,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strach Cię Wziął? — id 122901
+##### Umiejętność: Strach Cię Wziął?
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kara za Zabijanie Czasu — id 122902
+##### Umiejętność: Kara za Zabijanie Czasu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Ekstrakcja — id 122903
+##### Umiejętność: Ekstrakcja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      4 |    1 |
 
-##### Umiejętność: Okaleczenie — id 122904
+##### Umiejętność: Okaleczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Czas na Zbawienie — id 122905
+##### Umiejętność: Czas na Zbawienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Unik — id 122906
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Czas Zabijania Czasu — id 122907
+##### Umiejętność: Czas Zabijania Czasu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |         48 |        +48 |      1 |    1 |
 
-##### Umiejętność: Potrzebujemy Więcej Czasu! — id 122908
+##### Umiejętność: Potrzebujemy Więcej Czasu!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2044,7 +2042,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** The Time Ripper ×1 (poz. 55)
 
-#### The Time Ripper — id 1228
+#### The Time Ripper
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -2063,7 +2061,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 122801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2075,49 +2073,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strach Cię Wziął? — id 122801
+##### Umiejętność: Strach Cię Wziął?
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Kara za Zabijanie Czasu — id 122802
+##### Umiejętność: Kara za Zabijanie Czasu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ekstrakcja — id 122803
+##### Umiejętność: Ekstrakcja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +4 |      4 |    1 |
 
-##### Umiejętność: Okaleczenie — id 122804
+##### Umiejętność: Okaleczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Czas na Zbawienie — id 122805
+##### Umiejętność: Czas na Zbawienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Unik — id 122806
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: O nie... — id 122807
+##### Umiejętność: O nie...
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brakuje Czasu — id 122808
+##### Umiejętność: Brakuje Czasu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2133,7 +2131,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 ## Pula Część `tkt-re` — jednostki bez przypisanego etapu
 
-#### District 20 Yurodiviye Captain — id 91024
+#### District 20 Yurodiviye Captain
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2152,43 +2150,43 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Wstydu Nie Masz? — id 9102401
+##### Umiejętność: Wstydu Nie Masz?
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Widzę, Wstydu Nie Masz — id 9102402
+##### Umiejętność: Widzę, Wstydu Nie Masz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zdołasz Ich Chronić? — id 9102403
+##### Umiejętność: Zdołasz Ich Chronić?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tej Broni Już Nie Użyjesz — id 9102404
+##### Umiejętność: Tej Broni Już Nie Użyjesz
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Gotowy na Bitę? — id 9102405
+##### Umiejętność: Gotowy na Bitę?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Garda — id 9102406
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Dla Większego Dobra — id 9102407
+##### Umiejętność: Dla Większego Dobra
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |

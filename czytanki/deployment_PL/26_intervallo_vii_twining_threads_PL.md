@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Impulsive Fauvist Student of the Ring ×3 (poz. 60); Feral Fauvist Student of the Ring ×2 (poz. 60); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie)
 
-#### Impulsive Fauvist Student of the Ring — id 91043
+#### Impulsive Fauvist Student of the Ring
 
 *Wystąpienia: ×6 (poz. 60) · też jako wsparcie.*
 
@@ -29,25 +29,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Dzikie Walicie (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka (×2) — id 9104304
+##### Umiejętność: Wstawka (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -62,7 +62,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Welling Inspiration** — gdy ta jednostka lub sojusznik zostanie trafiony, zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (1 raz na Umiejętność, maks. 3 na turę)
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 
-#### Feral Fauvist Student of the Ring — id 91045
+#### Feral Fauvist Student of the Ring
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -83,25 +83,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104503
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -121,7 +121,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 - **Fala 1:** Impulsive Fauvist Student of the Ring ×3 (poz. 60); Feral Fauvist Student of the Ring ×3 (poz. 60); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie)
 
-#### Impulsive Fauvist Student of the Ring — id 91043
+#### Impulsive Fauvist Student of the Ring
 
 *Wystąpienia: ×6 (poz. 60) · też jako wsparcie.*
 
@@ -142,25 +142,25 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Dzikie Walicie (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka (×2) — id 9104304
+##### Umiejętność: Wstawka (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -175,7 +175,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Welling Inspiration** — gdy ta jednostka lub sojusznik zostanie trafiony, zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (1 raz na Umiejętność, maks. 3 na turę)
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 
-#### Feral Fauvist Student of the Ring — id 91045
+#### Feral Fauvist Student of the Ring
 
 *Wystąpienia: ×6 (poz. 60) · też jako wsparcie.*
 
@@ -196,25 +196,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104503
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -234,7 +234,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 - **Fala 1:** Impulsive Fauvist Student of the Ring ×1 (poz. 60); Impulsive Fauvist Student of the Ring ×1 (poz. 60); Instinctive Fauvist Student of the Ring ×1 (poz. 60); Feral Fauvist Student of the Ring ×1 (poz. 60); Feral Fauvist Student of the Ring ×1 (poz. 60); Spontaneous Fauvist Student of the Ring ×1 (poz. 60); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Instinctive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Spontaneous Fauvist Student of the Ring ×1 (poz. 60) (wsparcie)
 
-#### Impulsive Fauvist Student of the Ring — id 91043
+#### Impulsive Fauvist Student of the Ring
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -255,25 +255,25 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Dzikie Walicie (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka (×2) — id 9104304
+##### Umiejętność: Wstawka (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -288,7 +288,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Welling Inspiration** — gdy ta jednostka lub sojusznik zostanie trafiony, zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (1 raz na Umiejętność, maks. 3 na turę)
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 
-#### Instinctive Fauvist Student of the Ring — id 91044
+#### Instinctive Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -309,25 +309,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Dzikie Walicie (×3) — id 9104401
+##### Umiejętność: Dzikie Walicie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin (×2) — id 9104402
+##### Umiejętność: Szybki Dessin (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104403
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka (×2) — id 9104404
+##### Umiejętność: Wstawka (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -342,7 +342,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Welling Inspiration** — gdy ta jednostka lub sojusznik zostanie trafiony, zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (1 raz na Umiejętność, maks. 3 na turę)
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 
-#### Feral Fauvist Student of the Ring — id 91045
+#### Feral Fauvist Student of the Ring
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -363,25 +363,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104503
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -397,7 +397,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - **Alacritous Expression** — jeżeli Szybkość tej jednostki jest większa od Szybkości celu, Moc Starcia +1
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Bleu]] na 2 losowych wrogów
 
-#### Spontaneous Fauvist Student of the Ring — id 91046
+#### Spontaneous Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -418,25 +418,25 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104601
+##### Umiejętność: Przygotowanie Dzieła (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja (×2) — id 9104602
+##### Umiejętność: Szybka Ekspresja (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104603
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta (×2) — id 9104604
+##### Umiejętność: Częściowa Korekta (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -456,7 +456,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 - **Fala 1:** Impulsive Fauvist Student of the Ring ×1 (poz. 60); Instinctive Fauvist Student of the Ring ×1 (poz. 60); Instinctive Fauvist Student of the Ring ×1 (poz. 60); Feral Fauvist Student of the Ring ×1 (poz. 60); Spontaneous Fauvist Student of the Ring ×1 (poz. 60); Spontaneous Fauvist Student of the Ring ×1 (poz. 60); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Instinctive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Instinctive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Spontaneous Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Spontaneous Fauvist Student of the Ring ×1 (poz. 60) (wsparcie)
 
-#### Impulsive Fauvist Student of the Ring — id 91043
+#### Impulsive Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -477,25 +477,25 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Dzikie Walicie (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka (×2) — id 9104304
+##### Umiejętność: Wstawka (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -510,7 +510,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Welling Inspiration** — gdy ta jednostka lub sojusznik zostanie trafiony, zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (1 raz na Umiejętność, maks. 3 na turę)
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 
-#### Instinctive Fauvist Student of the Ring — id 91044
+#### Instinctive Fauvist Student of the Ring
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -531,25 +531,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Dzikie Walicie (×3) — id 9104401
+##### Umiejętność: Dzikie Walicie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin (×2) — id 9104402
+##### Umiejętność: Szybki Dessin (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104403
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka (×2) — id 9104404
+##### Umiejętność: Wstawka (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -564,7 +564,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Welling Inspiration** — gdy ta jednostka lub sojusznik zostanie trafiony, zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (1 raz na Umiejętność, maks. 3 na turę)
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 
-#### Feral Fauvist Student of the Ring — id 91045
+#### Feral Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -585,25 +585,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104503
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -619,7 +619,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - **Alacritous Expression** — jeżeli Szybkość tej jednostki jest większa od Szybkości celu, Moc Starcia +1
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Bleu]] na 2 losowych wrogów
 
-#### Spontaneous Fauvist Student of the Ring — id 91046
+#### Spontaneous Fauvist Student of the Ring
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -640,25 +640,25 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104601
+##### Umiejętność: Przygotowanie Dzieła (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja (×2) — id 9104602
+##### Umiejętność: Szybka Ekspresja (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104603
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta (×2) — id 9104604
+##### Umiejętność: Częściowa Korekta (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -678,7 +678,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 - **Fala 1:** Prescript-chasing Proselyte of the Index ×1 (poz. 58); Prescript-chasing Proselyte of the Index ×1 (poz. 58); Prescript-conforming Proselyte of the Index ×1 (poz. 58); Prescript-conforming Proselyte of the Index ×1 (poz. 58); Prescript-chasing Proselyte of the Index ×1 (poz. 58) (wsparcie); Prescript-chasing Proselyte of the Index ×1 (poz. 58) (wsparcie); Prescript-conforming Proselyte of the Index ×1 (poz. 58) (wsparcie); Prescript-conforming Proselyte of the Index ×1 (poz. 58) (wsparcie)
 
-#### Prescript-chasing Proselyte of the Index — id 1428
+#### Prescript-chasing Proselyte of the Index
 
 *Wystąpienia: ×4 (poz. 58) · też jako wsparcie.*
 
@@ -699,7 +699,7 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 **Części (anatomia):**
 
-##### Tułów — id 142801
+##### Tułów
 
 | Parametr           | Wartość                                                           |
 | ------------------ | ----------------------------------------------------------------- |
@@ -711,19 +711,19 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 *Opis:* Część
 
-##### Umiejętność: Cel Zauważony — id 9103401
+##### Umiejętność: Cel Zauważony
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103402
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wykonaj Z-zlecenie — id 9103403
+##### Umiejętność: Wykonaj Z-zlecenie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -747,7 +747,7 @@ na koniec tury, jeżeli w tej turze nie wykonano [Nakaz], zyskuje 10 [Karma]
 przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 1 [Zatonięcie] (1 raz na turę)
 - za każde 3 [Łaska Nakazu], liczba aktywacji tego efektu na turę rośnie o 1 (maks. 2)
 
-#### Prescript-conforming Proselyte of the Index — id 1429
+#### Prescript-conforming Proselyte of the Index
 
 *Wystąpienia: ×4 (poz. 58) · też jako wsparcie.*
 
@@ -768,7 +768,7 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 **Części (anatomia):**
 
-##### Tułów — id 142901
+##### Tułów
 
 | Parametr           | Wartość                                                           |
 | ------------------ | ----------------------------------------------------------------- |
@@ -780,19 +780,19 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 *Opis:* Część
 
-##### Umiejętność: Cel Zauważony — id 9103501
+##### Umiejętność: Cel Zauważony
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103502
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wykonaj Z-zlecenie — id 9103503
+##### Umiejętność: Wykonaj Z-zlecenie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -820,7 +820,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 - **Fala 1:** Prescript-chasing Proselyte of the Index ×1 (poz. 58); Prescript-chasing Proselyte of the Index ×1 (poz. 58); Prescript-chasing Proselyte of the Index ×1 (poz. 58); Prescript-conforming Proselyte of the Index ×1 (poz. 58); Prescript-conforming Proselyte of the Index ×1 (poz. 58); Prescript-chasing Proselyte of the Index ×1 (poz. 58) (wsparcie); Prescript-chasing Proselyte of the Index ×1 (poz. 58) (wsparcie); Prescript-conforming Proselyte of the Index ×1 (poz. 58) (wsparcie); Prescript-conforming Proselyte of the Index ×1 (poz. 58) (wsparcie); Prescript-conforming Proselyte of the Index ×1 (poz. 58) (wsparcie)
 
-#### Prescript-chasing Proselyte of the Index — id 1428
+#### Prescript-chasing Proselyte of the Index
 
 *Wystąpienia: ×5 (poz. 58) · też jako wsparcie.*
 
@@ -841,7 +841,7 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 **Części (anatomia):**
 
-##### Tułów — id 142801
+##### Tułów
 
 | Parametr           | Wartość                                                           |
 | ------------------ | ----------------------------------------------------------------- |
@@ -853,19 +853,19 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 *Opis:* Część
 
-##### Umiejętność: Cel Zauważony — id 9103401
+##### Umiejętność: Cel Zauważony
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103402
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wykonaj Z-zlecenie — id 9103403
+##### Umiejętność: Wykonaj Z-zlecenie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -889,7 +889,7 @@ na koniec tury, jeżeli w tej turze nie wykonano [Nakaz], zyskuje 10 [Karma]
 przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 1 [Zatonięcie] (1 raz na turę)
 - za każde 3 [Łaska Nakazu], liczba aktywacji tego efektu na turę rośnie o 1 (maks. 2)
 
-#### Prescript-conforming Proselyte of the Index — id 1429
+#### Prescript-conforming Proselyte of the Index
 
 *Wystąpienia: ×5 (poz. 58) · też jako wsparcie.*
 
@@ -910,7 +910,7 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 **Części (anatomia):**
 
-##### Tułów — id 142901
+##### Tułów
 
 | Parametr           | Wartość                                                           |
 | ------------------ | ----------------------------------------------------------------- |
@@ -922,19 +922,19 @@ Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 
 *Opis:* Część
 
-##### Umiejętność: Cel Zauważony — id 9103501
+##### Umiejętność: Cel Zauważony
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103502
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wykonaj Z-zlecenie — id 9103503
+##### Umiejętność: Wykonaj Z-zlecenie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -962,7 +962,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 - **Fala 1:** Impulsive Fauvist Student of the Ring ×1 (poz. 60); Instinctive Fauvist Student of the Ring ×1 (poz. 60); Feral Fauvist Student of the Ring ×1 (poz. 60); Spontaneous Fauvist Student of the Ring ×1 (poz. 60); Rufo ×1 (poz. 66); Impulsive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Instinctive Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Feral Fauvist Student of the Ring ×1 (poz. 60) (wsparcie); Spontaneous Fauvist Student of the Ring ×1 (poz. 60) (wsparcie)
 
-#### Impulsive Fauvist Student of the Ring — id 1424
+#### Impulsive Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -983,7 +983,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 **Części (anatomia):**
 
-##### Korpus — id 142401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -995,25 +995,25 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Opis:* Część
 
-##### Umiejętność: Dzikie Walicie — id 9104301
+##### Umiejętność: Dzikie Walicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin — id 9104302
+##### Umiejętność: Szybki Dessin
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka — id 9104304
+##### Umiejętność: Wstawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1029,7 +1029,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 - **Remnant of Art** — przy śmierci daje +2 Zasobów E.G.O najrzadziej posiadanego Atrybutu
 
-#### Instinctive Fauvist Student of the Ring — id 1425
+#### Instinctive Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -1050,7 +1050,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 **Części (anatomia):**
 
-##### Korpus — id 142501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1062,25 +1062,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 *Opis:* Część
 
-##### Umiejętność: Dzikie Walicie — id 9104401
+##### Umiejętność: Dzikie Walicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybki Dessin — id 9104402
+##### Umiejętność: Szybki Dessin
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104403
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wstawka — id 9104404
+##### Umiejętność: Wstawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1096,7 +1096,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Rouge]] na 2 losowych wrogów
 - **Remnant of Art** — przy śmierci daje +2 Zasobów E.G.O najrzadziej posiadanego Atrybutu
 
-#### Feral Fauvist Student of the Ring — id 1426
+#### Feral Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -1117,7 +1117,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 **Części (anatomia):**
 
-##### Korpus — id 142601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1129,25 +1129,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 *Opis:* Część
 
-##### Umiejętność: Przygotowanie Dzieła — id 9104501
+##### Umiejętność: Przygotowanie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja — id 9104502
+##### Umiejętność: Szybka Ekspresja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104503
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta — id 9104504
+##### Umiejętność: Częściowa Korekta
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1164,7 +1164,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Bleu]] na 2 losowych wrogów
 - **Remnant of Art** — przy śmierci daje +2 Zasobów E.G.O najrzadziej posiadanego Atrybutu
 
-#### Spontaneous Fauvist Student of the Ring — id 1427
+#### Spontaneous Fauvist Student of the Ring
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -1185,7 +1185,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 **Części (anatomia):**
 
-##### Korpus — id 142701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1197,25 +1197,25 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 *Opis:* Część
 
-##### Umiejętność: Przygotowanie Dzieła — id 9104601
+##### Umiejętność: Przygotowanie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybka Ekspresja — id 9104602
+##### Umiejętność: Szybka Ekspresja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykończenie Dzieła — id 9104603
+##### Umiejętność: Wykończenie Dzieła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Częściowa Korekta — id 9104604
+##### Umiejętność: Częściowa Korekta
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1232,7 +1232,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - **Final Brushstroke** — gdy ta jednostka ginie, nakłada 3 [Rwana Barwa [Bleu]] na 2 losowych wrogów
 - **Remnant of Art** — przy śmierci daje +2 Zasobów E.G.O najrzadziej posiadanego Atrybutu
 
-#### Rufo — id 1422
+#### Rufo
 
 *Wystąpienia: ×1 (poz. 66).*
 
@@ -1253,7 +1253,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 **Części (anatomia):**
 
-##### Tułów — id 142201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -1265,28 +1265,26 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 *Opis:* Część
 
-##### Umiejętność: Wyraz Barw Podstawowych — id 142201
+##### Umiejętność: Wyraz Barw Podstawowych
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Gwałtowne Przemalowanie — id 142202
+##### Umiejętność: Gwałtowne Przemalowanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Le Fauvisme - Déchaînement Primal — id 142203
+##### Umiejętność: Le Fauvisme - Déchaînement Primal
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Krytyka — id 142204
+##### Umiejętność: Krytyka
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      1 |    1 |
-
-**Pasywki:** brak

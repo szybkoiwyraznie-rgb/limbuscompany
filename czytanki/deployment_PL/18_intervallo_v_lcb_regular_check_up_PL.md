@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Peccatulum Invidiae ×1 (poz. 47); Peccatulum Invidiae ×1 (poz. 47); Peccatulum Invidiae ×1 (poz. 47); Peccatulum Invidiae ×1 (poz. 47); Peccatulum Invidiae ×1 (poz. 47); Peccatulum Invidiae ×1 (poz. 47)
 
-#### Peccatulum Invidiae — id 1110
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 47).*
 
@@ -24,7 +24,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111001
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -38,9 +38,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1111
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 47).*
 
@@ -56,7 +54,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111101
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -70,9 +68,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1112
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 47).*
 
@@ -88,7 +84,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111201
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -102,9 +98,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1113
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 47).*
 
@@ -120,7 +114,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111301
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -134,9 +128,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1114
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 47).*
 
@@ -152,7 +144,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111401
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -166,9 +158,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1115
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 47).*
 
@@ -184,7 +174,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111501
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -197,8 +187,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 ##### Umiejętności
 
 *Brak danych o umiejętnościach.*
-
-**Pasywki:** brak
 
 ### Etap 4 · Hohenheim
 
@@ -206,7 +194,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Obżarstwa ×1 (poz. 45); Peccatulum Obżarstwa ×1 (poz. 45); Peccatulum Posępności ×1 (poz. 45); Peccatulum Posępności ×1 (poz. 45)
 - **Fala 3:** Peccatulum Pychy ×1 (poz. 45); Peccatulum Pychy ×1 (poz. 45); Peccatulum Pychy ×1 (poz. 45); Peccatulum Żądzy ×1 (poz. 45)
 
-#### Peccatulum Gniewu — id 1083
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 45).*
 
@@ -221,7 +209,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -233,21 +221,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae? — id 1084
+#### Peccatulum Irae?
 
 *Wystąpienia: ×2 (poz. 45).*
 
@@ -262,7 +248,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -274,33 +260,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wbicie — id 815101
+##### Umiejętność: Wbicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicz Ogonem — id 815102
+##### Umiejętność: Bicz Ogonem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 815104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 1089
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 45).*
 
@@ -315,7 +299,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -327,21 +311,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 1091
+#### Peccatulum Posępności
 
 *Wystąpienia: ×2 (poz. 45).*
 
@@ -356,7 +338,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -368,21 +350,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 1096
+#### Peccatulum Pychy
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -397,7 +377,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -409,21 +389,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 806901
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 806902
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 1094
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -438,7 +416,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -450,25 +428,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 806801
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 806802
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 5 · Asystentka
 
 - **Fala 1:** Peccatulum Gniewu ×1 (poz. 50); Peccatulum Gniewu ×1 (poz. 50); Peccatulum Irae? ×1 (poz. 50); Peccatulum Obżarstwa ×1 (poz. 50); Peccatulum Obżarstwa ×1 (poz. 50)
 
-#### Peccatulum Gniewu — id 1083
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -483,7 +459,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -495,21 +471,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae? — id 1084
+#### Peccatulum Irae?
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -524,7 +498,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -536,33 +510,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wbicie — id 815101
+##### Umiejętność: Wbicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicz Ogonem — id 815102
+##### Umiejętność: Bicz Ogonem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 815104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 1089
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -577,7 +549,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -589,19 +561,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 6 · Bezcelowy Gniew
 
@@ -609,7 +579,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Irae? ×1 (poz. 50); Peccatulum Irae? ×1 (poz. 50); Peccatulum Irae? ×1 (poz. 50)
 - **Fala 3:** Peccatulum Irae?? ×1 (poz. 50)
 
-#### Peccatulum Gniewu — id 1083
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×5 (poz. 50).*
 
@@ -624,7 +594,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -636,21 +606,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae? — id 1084
+#### Peccatulum Irae?
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -665,7 +633,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -677,33 +645,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wbicie — id 815101
+##### Umiejętność: Wbicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicz Ogonem — id 815102
+##### Umiejętność: Bicz Ogonem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 815104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae?? — id 1085
+#### Peccatulum Irae??
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -716,7 +682,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -728,31 +694,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Kolejne Sztychy — id 816101
+##### Umiejętność: Kolejne Sztychy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rąbanie — id 816102
+##### Umiejętność: Rąbanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Erupcja Wściekłości — id 816103
+##### Umiejętność: Erupcja Wściekłości
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 816104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          6 |         +4 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 7 · Bezładne Lenistwo
 
@@ -760,7 +724,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Pigritiae? ×1 (poz. 50); Peccatulum Pigritiae? ×1 (poz. 50); Peccatulum Pigritiae? ×1 (poz. 50)
 - **Fala 3:** Peccatulum Pigritiae?? ×1 (poz. 50)
 
-#### Peccatulum Lenistwa — id 1086
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×5 (poz. 50).*
 
@@ -775,7 +739,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -787,21 +751,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pigritiae? — id 1087
+#### Peccatulum Pigritiae?
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -814,7 +776,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108701
+##### Korpus
 
 | Parametr           | Wartość                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------- |
@@ -826,33 +788,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Chwyt — id 815901
+##### Umiejętność: Chwyt
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Układanie Kamieni — id 815902
+##### Umiejętność: Układanie Kamieni
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Leniwy Zgniot — id 815903
+##### Umiejętność: Leniwy Zgniot
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Garda — id 815904
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pigritiae?? — id 1088
+#### Peccatulum Pigritiae??
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -867,7 +827,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -879,31 +839,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Kamienna Kąpiel — id 108001
+##### Umiejętność: Kamienna Kąpiel
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Kamieni — id 108002
+##### Umiejętność: Zbieranie Kamieni
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wzrastające Lenistwo — id 108003
+##### Umiejętność: Wzrastające Lenistwo
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Garda — id 108004
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 8 · Dobrowolne Zatonięcie
 
@@ -911,7 +869,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Gulae? ×1 (poz. 50); Peccatulum Gulae? ×1 (poz. 50); Peccatulum Morositatis? ×1 (poz. 50); Peccatulum Morositatis? ×1 (poz. 50)
 - **Fala 3:** Peccatulum Morositatis?? ×1 (poz. 50)
 
-#### Peccatulum Obżarstwa — id 1089
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -926,7 +884,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -938,21 +896,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 1091
+#### Peccatulum Posępności
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -967,7 +923,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -979,21 +935,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Gulae? — id 1090
+#### Peccatulum Gulae?
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -1006,7 +960,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109001
+##### Korpus
 
 | Parametr           | Wartość                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------- |
@@ -1018,33 +972,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Rozszarpanie — id 816001
+##### Umiejętność: Rozszarpanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Czas Na Żarcie — id 816002
+##### Umiejętność: Czas Na Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Zarłaczna Uczta — id 816003
+##### Umiejętność: Zarłaczna Uczta
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 816004
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Morositatis? — id 1092
+#### Peccatulum Morositatis?
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -1059,7 +1011,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -1071,33 +1023,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wpadnięcie — id 815201
+##### Umiejętność: Wpadnięcie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Zgryzienie — id 815202
+##### Umiejętność: Zgryzienie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wodna Bomba — id 815203
+##### Umiejętność: Wodna Bomba
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unik — id 815204
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Morositatis?? — id 1081
+#### Peccatulum Morositatis??
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1112,7 +1062,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1124,38 +1074,36 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie Rozkładu — id 108101
+##### Umiejętność: Zderzenie Rozkładu
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Nawał Wody — id 108102
+##### Umiejętność: Nawał Wody
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Kaskada Posępności — id 108103
+##### Umiejętność: Kaskada Posępności
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 108104
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          3 |        +12 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 9 · Stępiony Harpun
 
 - **Fala 1:** Peccatulum Pychy ×1 (poz. 50); Peccatulum Pychy ×1 (poz. 50); Peccatulum Pychy ×1 (poz. 50); Peccatulum Pychy ×1 (poz. 50); Peccatulum Żądzy ×1 (poz. 50)
 - **Fala 2:** Peccatulum Luxuriae? ×1 (poz. 50); Peccatulum Luxuriae? ×1 (poz. 50); Peccatulum Superbiae? ×1 (poz. 50)
 
-#### Peccatulum Pychy — id 1096
+#### Peccatulum Pychy
 
 *Wystąpienia: ×4 (poz. 50).*
 
@@ -1170,7 +1118,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1182,21 +1130,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 806901
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 806902
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 1094
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1211,7 +1157,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1223,21 +1169,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 806801
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 806802
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Luxuriae? — id 1095
+#### Peccatulum Luxuriae?
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -1252,7 +1196,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -1264,33 +1208,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przygniecenie — id 837301
+##### Umiejętność: Przygniecenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przebite Pożądanie — id 837302
+##### Umiejętność: Przebite Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Stłumione Pożądanie — id 837303
+##### Umiejętność: Stłumione Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Garda — id 837304
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Superbiae? — id 1097
+#### Peccatulum Superbiae?
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1305,7 +1247,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -1317,38 +1259,36 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Mielenie — id 837401
+##### Umiejętność: Mielenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozgniotenie — id 837402
+##### Umiejętność: Rozgniotenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Dumny Zgniot — id 837403
+##### Umiejętność: Dumny Zgniot
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Kontra — id 837404
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 10 · Ukłucie
 
 - **Fala 1:** Peccatulum Invidiae? ×1 (poz. 50); Peccatulum Invidiae? ×1 (poz. 50)
 - **Fala 2:** Peccatulum Invidiae? ×1 (poz. 50); Peccatulum Invidiae? ×1 (poz. 50)
 
-#### Peccatulum Invidiae? — id 1124
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1364,7 +1304,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 112401
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1382,7 +1322,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
 
-#### Peccatulum Invidiae? — id 1125
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1398,7 +1338,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 112501
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1416,7 +1356,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
 
-#### Peccatulum Invidiae? — id 1098
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1432,7 +1372,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109801
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1450,7 +1390,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
 
-#### Peccatulum Invidiae? — id 1099
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1466,7 +1406,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109901
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1488,7 +1428,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Sancho ×1 (poz. 85)
 
-#### Sancho — id 1079
+#### Sancho
 
 *Wystąpienia: ×1 (poz. 85).*
 
@@ -1507,7 +1447,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 107901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1519,61 +1459,61 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Powalenie — id 107901
+##### Umiejętność: Powalenie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zadanie Rany — id 107902
+##### Umiejętność: Zadanie Rany
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering — id 107903
+##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 11 - Impaling — id 107904
+##### Umiejętność: Don Quixote Hardblood Arts 11 - Impaling
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie — id 107905
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka — id 107906
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +4 |      3 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 2 - Hardblood — id 107907
+##### Umiejętność: Don Quixote Hardblood Arts 2 - Hardblood
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +2 |      4 |    6 |
 
-##### Umiejętność: La Aventura Ha Terminado — id 107908
+##### Umiejętność: La Aventura Ha Terminado
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         10 |        +15 |      1 |    1 |
 
-##### Umiejętność: La Aventura Ha Terminado... — id 107909
+##### Umiejętność: La Aventura Ha Terminado...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         20 |        +14 |      1 |    6 |
 
-**Pasywki:** *(wpisy id: 107904 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ## Część: Część `91-24`
 
@@ -1581,7 +1521,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Peccatulum Invidiae ×1 (poz. 60); Peccatulum Invidiae ×1 (poz. 60); Peccatulum Invidiae ×1 (poz. 60); Peccatulum Invidiae ×1 (poz. 60); Peccatulum Invidiae ×1 (poz. 60); Peccatulum Invidiae ×1 (poz. 60)
 
-#### Peccatulum Invidiae — id 1110
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -1597,7 +1537,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111001
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1611,9 +1551,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1111
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -1629,7 +1567,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111101
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1643,9 +1581,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1112
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -1661,7 +1597,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111201
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1675,9 +1611,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1113
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -1693,7 +1627,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111301
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1707,9 +1641,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1114
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -1725,7 +1657,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111401
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1739,9 +1671,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Peccatulum Invidiae — id 1115
+#### Peccatulum Invidiae
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -1757,7 +1687,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 111501
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -1770,8 +1700,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 ##### Umiejętności
 
 *Brak danych o umiejętnościach.*
-
-**Pasywki:** brak
 
 ### Etap 4 · Hohenheim
 
@@ -1779,7 +1707,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Obżarstwa ×1 (poz. 60); Peccatulum Obżarstwa ×1 (poz. 60); Peccatulum Posępności ×1 (poz. 60); Peccatulum Posępności ×1 (poz. 60)
 - **Fala 3:** Peccatulum Pychy ×1 (poz. 60); Peccatulum Pychy ×1 (poz. 60); Peccatulum Pychy ×1 (poz. 60); Peccatulum Żądzy ×1 (poz. 60)
 
-#### Peccatulum Gniewu — id 1083
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -1794,7 +1722,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1806,21 +1734,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae? — id 1084
+#### Peccatulum Irae?
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -1835,7 +1761,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -1847,33 +1773,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wbicie — id 815101
+##### Umiejętność: Wbicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicz Ogonem — id 815102
+##### Umiejętność: Bicz Ogonem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 815104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 1089
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -1888,7 +1812,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1900,21 +1824,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 1091
+#### Peccatulum Posępności
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -1929,7 +1851,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1941,21 +1863,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 1096
+#### Peccatulum Pychy
 
 *Wystąpienia: ×3 (poz. 60).*
 
@@ -1970,7 +1890,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1982,21 +1902,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 806901
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 806902
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 1094
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2011,7 +1929,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2023,25 +1941,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 806801
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 806802
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 5 · Asystentka
 
 - **Fala 1:** Peccatulum Gniewu ×1 (poz. 60); Peccatulum Gniewu ×1 (poz. 60); Peccatulum Irae? ×1 (poz. 60); Peccatulum Obżarstwa ×1 (poz. 60); Peccatulum Obżarstwa ×1 (poz. 60)
 
-#### Peccatulum Gniewu — id 1083
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -2056,7 +1972,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2068,21 +1984,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae? — id 1084
+#### Peccatulum Irae?
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2097,7 +2011,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -2109,33 +2023,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wbicie — id 815101
+##### Umiejętność: Wbicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicz Ogonem — id 815102
+##### Umiejętność: Bicz Ogonem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 815104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 1089
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -2150,7 +2062,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2162,19 +2074,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 6 · Bezcelowy Gniew
 
@@ -2182,7 +2092,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Irae? ×1 (poz. 60); Peccatulum Irae? ×1 (poz. 60); Peccatulum Irae? ×1 (poz. 60)
 - **Fala 3:** Peccatulum Irae?? ×1 (poz. 60)
 
-#### Peccatulum Gniewu — id 1083
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×5 (poz. 60).*
 
@@ -2197,7 +2107,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2209,21 +2119,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae? — id 1084
+#### Peccatulum Irae?
 
 *Wystąpienia: ×3 (poz. 60).*
 
@@ -2238,7 +2146,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -2250,33 +2158,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wbicie — id 815101
+##### Umiejętność: Wbicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicz Ogonem — id 815102
+##### Umiejętność: Bicz Ogonem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 815104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae?? — id 1085
+#### Peccatulum Irae??
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2289,7 +2195,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2301,31 +2207,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Kolejne Sztychy — id 816101
+##### Umiejętność: Kolejne Sztychy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rąbanie — id 816102
+##### Umiejętność: Rąbanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Erupcja Wściekłości — id 816103
+##### Umiejętność: Erupcja Wściekłości
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 816104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          6 |         +4 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 7 · Bezładne Lenistwo
 
@@ -2333,7 +2237,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Pigritiae? ×1 (poz. 60); Peccatulum Pigritiae? ×1 (poz. 60); Peccatulum Pigritiae? ×1 (poz. 60)
 - **Fala 3:** Peccatulum Pigritiae?? ×1 (poz. 60)
 
-#### Peccatulum Lenistwa — id 1086
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×5 (poz. 60).*
 
@@ -2348,7 +2252,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2360,21 +2264,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pigritiae? — id 1087
+#### Peccatulum Pigritiae?
 
 *Wystąpienia: ×3 (poz. 60).*
 
@@ -2387,7 +2289,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108701
+##### Korpus
 
 | Parametr           | Wartość                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------- |
@@ -2399,33 +2301,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Chwyt — id 815901
+##### Umiejętność: Chwyt
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Układanie Kamieni — id 815902
+##### Umiejętność: Układanie Kamieni
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Leniwy Zgniot — id 815903
+##### Umiejętność: Leniwy Zgniot
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Garda — id 815904
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pigritiae?? — id 1088
+#### Peccatulum Pigritiae??
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2440,7 +2340,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2452,31 +2352,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Kamienna Kąpiel — id 108001
+##### Umiejętność: Kamienna Kąpiel
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Kamieni — id 108002
+##### Umiejętność: Zbieranie Kamieni
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wzrastające Lenistwo — id 108003
+##### Umiejętność: Wzrastające Lenistwo
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Garda — id 108004
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 8 · Dobrowolne Zatonięcie
 
@@ -2484,7 +2382,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Peccatulum Gulae? ×1 (poz. 60); Peccatulum Gulae? ×1 (poz. 60); Peccatulum Morositatis? ×1 (poz. 60); Peccatulum Morositatis? ×1 (poz. 60)
 - **Fala 3:** Peccatulum Morositatis?? ×1 (poz. 60)
 
-#### Peccatulum Obżarstwa — id 1089
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -2499,7 +2397,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2511,21 +2409,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 1091
+#### Peccatulum Posępności
 
 *Wystąpienia: ×3 (poz. 60).*
 
@@ -2540,7 +2436,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2552,21 +2448,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Gulae? — id 1090
+#### Peccatulum Gulae?
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -2579,7 +2473,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109001
+##### Korpus
 
 | Parametr           | Wartość                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------- |
@@ -2591,33 +2485,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Rozszarpanie — id 816001
+##### Umiejętność: Rozszarpanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Czas Na Żarcie — id 816002
+##### Umiejętność: Czas Na Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Zarłaczna Uczta — id 816003
+##### Umiejętność: Zarłaczna Uczta
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 816004
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Morositatis? — id 1092
+#### Peccatulum Morositatis?
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -2632,7 +2524,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -2644,33 +2536,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wpadnięcie — id 815201
+##### Umiejętność: Wpadnięcie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Zgryzienie — id 815202
+##### Umiejętność: Zgryzienie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wodna Bomba — id 815203
+##### Umiejętność: Wodna Bomba
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unik — id 815204
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Morositatis?? — id 1081
+#### Peccatulum Morositatis??
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2685,7 +2575,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 108101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2697,38 +2587,36 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie Rozkładu — id 108101
+##### Umiejętność: Zderzenie Rozkładu
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Nawał Wody — id 108102
+##### Umiejętność: Nawał Wody
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Kaskada Posępności — id 108103
+##### Umiejętność: Kaskada Posępności
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 108104
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          3 |        +12 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 9 · Stępiony Harpun
 
 - **Fala 1:** Peccatulum Pychy ×1 (poz. 60); Peccatulum Pychy ×1 (poz. 60); Peccatulum Pychy ×1 (poz. 60); Peccatulum Pychy ×1 (poz. 60); Peccatulum Żądzy ×1 (poz. 60)
 - **Fala 2:** Peccatulum Luxuriae? ×1 (poz. 60); Peccatulum Luxuriae? ×1 (poz. 60); Peccatulum Superbiae? ×1 (poz. 60)
 
-#### Peccatulum Pychy — id 1096
+#### Peccatulum Pychy
 
 *Wystąpienia: ×4 (poz. 60).*
 
@@ -2743,7 +2631,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2755,21 +2643,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 806901
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 806902
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 1094
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2784,7 +2670,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 109401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2796,21 +2682,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 806801
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 806802
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Luxuriae? — id 1095
+#### Peccatulum Luxuriae?
 
 *Wystąpienia: ×2 (poz. 60).*
 
@@ -2825,7 +2709,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -2837,33 +2721,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przygniecenie — id 837301
+##### Umiejętność: Przygniecenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przebite Pożądanie — id 837302
+##### Umiejętność: Przebite Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Stłumione Pożądanie — id 837303
+##### Umiejętność: Stłumione Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Garda — id 837304
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Superbiae? — id 1097
+#### Peccatulum Superbiae?
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2878,7 +2760,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -2890,38 +2772,36 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Mielenie — id 837401
+##### Umiejętność: Mielenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozgniotenie — id 837402
+##### Umiejętność: Rozgniotenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Dumny Zgniot — id 837403
+##### Umiejętność: Dumny Zgniot
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Kontra — id 837404
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 10 · Ukłucie
 
 - **Fala 1:** Peccatulum Invidiae? ×1 (poz. 60); Peccatulum Invidiae? ×1 (poz. 60)
 - **Fala 2:** Peccatulum Invidiae? ×1 (poz. 60); Peccatulum Invidiae? ×1 (poz. 60)
 
-#### Peccatulum Invidiae? — id 1124
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2937,7 +2817,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 112401
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -2955,7 +2835,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
 
-#### Peccatulum Invidiae? — id 1125
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2971,7 +2851,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 112501
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -2989,7 +2869,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
 
-#### Peccatulum Invidiae? — id 1098
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -3005,7 +2885,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109801
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -3023,7 +2903,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
 
-#### Peccatulum Invidiae? — id 1099
+#### Peccatulum Invidiae?
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -3039,7 +2919,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 109901
+##### Korpus
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -3061,7 +2941,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Sancho ×1 (poz. 85)
 
-#### Sancho — id 1389
+#### Sancho
 
 *Wystąpienia: ×1 (poz. 85).*
 
@@ -3080,7 +2960,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 138901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3092,58 +2972,58 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Powalenie — id 107901
+##### Umiejętność: Powalenie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zadanie Rany — id 107902
+##### Umiejętność: Zadanie Rany
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering — id 107903
+##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 11 - Impaling — id 107904
+##### Umiejętność: Don Quixote Hardblood Arts 11 - Impaling
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie — id 107905
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka — id 107906
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +4 |      3 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 2 - Hardblood — id 107907
+##### Umiejętność: Don Quixote Hardblood Arts 2 - Hardblood
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +2 |      4 |    6 |
 
-##### Umiejętność: La Aventura Ha Terminado — id 107908
+##### Umiejętność: La Aventura Ha Terminado
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         10 |        +15 |      1 |    1 |
 
-##### Umiejętność: La Aventura Ha Terminado... — id 107909
+##### Umiejętność: La Aventura Ha Terminado...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         20 |        +14 |      1 |    6 |
 
-**Pasywki:** *(wpisy id: 138904 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*

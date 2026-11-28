@@ -4,7 +4,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 ## Pula: zestaw wspólny (`enemy.json`)
 
-#### Zdeformowany Żołnierz Ze Wspomnień — id 90014
+#### Zdeformowany Żołnierz Ze Wspomnień
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -23,13 +23,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9001401
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blok Seryjny — id 9001402
+##### Umiejętność: Blok Seryjny
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -39,7 +39,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Rozpaczający Żołnierz Ze Wspomnień — id 90015
+#### Rozpaczający Żołnierz Ze Wspomnień
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -58,13 +58,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9001501
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 9001502
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -74,7 +74,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Skorodowany Żołnierz Ze Wspomnień — id 90016
+#### Skorodowany Żołnierz Ze Wspomnień
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -93,13 +93,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9001601
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9001602
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -109,7 +109,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Niewolnik — id 90041
+#### Niewolnik
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -128,21 +128,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ściągnięcie (×4) — id 9004101
+##### Umiejętność: Ściągnięcie (×4)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Linia Śmierci (×2) — id 9004102
+##### Umiejętność: Linia Śmierci (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wyobrażony Zbieracz 3. Klasy T Corp. — id 90070
+#### Wyobrażony Zbieracz 3. Klasy T Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -161,25 +159,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przeplatający Się Moment — id 9007001
+##### Umiejętność: Przeplatający Się Moment
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Pochłanianie Czasu — id 9007002
+##### Umiejętność: Pochłanianie Czasu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Przyspieszający Moment — id 9007003
+##### Umiejętność: Przyspieszający Moment
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          8 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wypożyczony Czas — id 9007004
+##### Umiejętność: Wypożyczony Czas
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -190,7 +188,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Golden Time** — na koniec tury, jeżeli HP wynosi między 12% a 24%, natychmiast przywraca do 65% Maks. HP i dochodzi do siebie z Oszołamienia. (tylko 1 raz)
 - **Time Reversion Retroaction** — po uaktywnieniu Golden Time, zyskuje 3 Wrażliwości na koniec tury.
 
-#### Trzęsący Się Strażnik Punktu Kontrolnego K Corp. — id 90074
+#### Trzęsący Się Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -209,25 +207,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stłumienie (×3) — id 9002901
+##### Umiejętność: Stłumienie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Szturm — id 9002801
+##### Umiejętność: Szturm
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -239,7 +237,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Pracownik Ekstrakcji 3. Klasy K Corp. — id 90082
+#### Pracownik Ekstrakcji 3. Klasy K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -258,19 +256,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Podejrzanych (×3) — id 9008201
+##### Umiejętność: Wykryto Podejrzanych (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie — id 9008202
+##### Umiejętność: Powstrzymanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Blokada Podejrzanych — id 9008203
+##### Umiejętność: Blokada Podejrzanych
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -281,7 +279,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Overloaded HP Bullet** — na początku tury, zyskuje 2 Wzrost Obrażeń i 2 Wrażliwości.
 - **HP Ampule Injection** — na początku tury: jeżeli HP jednostki nie jest pełne, przywraca 25% HP (maks. 3 razy; dochodzi do siebie z Oszołamienia, jeżeli jest Oszołamiona)
 
-#### Były Szef Wydziału G Corp. — id 91001
+#### Były Szef Wydziału G Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -300,25 +298,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Rozdźwięk (×3) — id 9100105
+##### Umiejętność: Rozdźwięk (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Rozkaz Obrony — id 9100106
+##### Umiejętność: Rozkaz Obrony
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozkaz Natarcia — id 9100109
+##### Umiejętność: Rozkaz Natarcia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wytrzymałość (×2) — id 9100108
+##### Umiejętność: Wytrzymałość (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -328,7 +326,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-#### Szef Wydziału G Corp. Ze Wspomnień — Zgniły — id 91002
+#### Szef Wydziału G Corp. Ze Wspomnień — Zgniły
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -347,31 +345,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Rozdźwięk (×3) — id 9100201
+##### Umiejętność: Rozdźwięk (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Rozkaz Natarcia (×2) — id 9100202
+##### Umiejętność: Rozkaz Natarcia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +8 |      1 |    1 |
 
-##### Umiejętność: Fala Psychiczna — id 9100203
+##### Umiejętność: Fala Psychiczna
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |        +10 |      1 |    2 |
 
-##### Umiejętność: Rozkaz Obrony — id 9100205
+##### Umiejętność: Rozkaz Obrony
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wytrzymałość (×2) — id 9100204
+##### Umiejętność: Wytrzymałość (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -381,7 +379,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Ożywione Lobotomy E.G.O::Czerwone Prześcieradło - Marile — id 91010
+#### Ożywione Lobotomy E.G.O::Czerwone Prześcieradło - Marile
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -400,43 +398,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9100901
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Klątwa Ciosów (×2) — id 9100902
+##### Umiejętność: Klątwa Ciosów (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Mnożące Się Talizmany (×2) — id 9100903
+##### Umiejętność: Mnożące Się Talizmany (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Paraliżująca Klątwa (×2) — id 9100904
+##### Umiejętność: Paraliżująca Klątwa (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Duszący Talizman Klątwy (×2) — id 9100905
+##### Umiejętność: Duszący Talizman Klątwy (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Wygasający Talizman Klątwy (×2) — id 9101001
+##### Umiejętność: Wygasający Talizman Klątwy (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Przenoszący Się Talizman Klątwy (×2) — id 9100907
+##### Umiejętność: Przenoszący Się Talizman Klątwy (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -451,7 +449,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Podły Rozbity Żołnierz — id 97101
+#### Podły Rozbity Żołnierz
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -470,7 +468,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9001101
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -480,7 +478,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Injured Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.
 
-#### Brudnojęzyczny Rozbity Żołnierz — id 97102
+#### Brudnojęzyczny Rozbity Żołnierz
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -499,13 +497,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9001201
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 9001202
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -515,7 +513,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Injured Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.
 
-#### Naostrzony Rozbity Żołnierz — id 97103
+#### Naostrzony Rozbity Żołnierz
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -534,13 +532,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9001301
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9001302
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -550,7 +548,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Injured Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.
 
-#### Umocniony Rozbity Żołnierz — id 97104
+#### Umocniony Rozbity Żołnierz
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -569,13 +567,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9000103
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9000104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -585,7 +583,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-#### Zmroczony Rozbity Żołnierz — id 97105
+#### Zmroczony Rozbity Żołnierz
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -604,13 +602,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9000203
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 9000204
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -620,7 +618,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-#### Zacięty Rozbity Żołnierz — id 97106
+#### Zacięty Rozbity Żołnierz
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -639,13 +637,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9000303
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9000304
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -655,7 +653,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-#### Zdeformowany Żołnierz Ze Wspomnień — id 97107
+#### Zdeformowany Żołnierz Ze Wspomnień
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -674,13 +672,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9001401
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blok Seryjny — id 9001402
+##### Umiejętność: Blok Seryjny
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -690,7 +688,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Rozpaczający Żołnierz Ze Wspomnień — id 97108
+#### Rozpaczający Żołnierz Ze Wspomnień
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -709,13 +707,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9001501
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 9001502
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -725,7 +723,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Skorodowany Żołnierz Ze Wspomnień — id 97109
+#### Skorodowany Żołnierz Ze Wspomnień
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -744,13 +742,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9001601
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9001602
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -760,7 +758,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Były Szef Wydziału G Corp. — id 97151
+#### Były Szef Wydziału G Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -779,25 +777,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Rozdźwięk (×3) — id 9100105
+##### Umiejętność: Rozdźwięk (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Rozkaz Obrony — id 9100106
+##### Umiejętność: Rozkaz Obrony
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozkaz Natarcia — id 9100109
+##### Umiejętność: Rozkaz Natarcia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wytrzymałość (×2) — id 9100108
+##### Umiejętność: Wytrzymałość (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -807,7 +805,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-#### Szef Wydziału G Corp. Ze Wspomnień — Zgniły — id 97152
+#### Szef Wydziału G Corp. Ze Wspomnień — Zgniły
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -826,31 +824,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Rozdźwięk (×3) — id 9100201
+##### Umiejętność: Rozdźwięk (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Rozkaz Natarcia (×2) — id 9100202
+##### Umiejętność: Rozkaz Natarcia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +8 |      1 |    1 |
 
-##### Umiejętność: Fala Psychiczna — id 9100203
+##### Umiejętność: Fala Psychiczna
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |        +10 |      1 |    2 |
 
-##### Umiejętność: Rozkaz Obrony — id 9100205
+##### Umiejętność: Rozkaz Obrony
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wytrzymałość (×2) — id 9100204
+##### Umiejętność: Wytrzymałość (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -860,7 +858,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Corroded Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.
 
-#### Sztywny Ochroniarz Kasyna — id 97201
+#### Sztywny Ochroniarz Kasyna
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -879,27 +877,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ni z ruszenia! (×2) — id 9002002
+##### Umiejętność: Ni z ruszenia! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Pewny Siebie Ochroniarz Kasyna — id 97202
+#### Pewny Siebie Ochroniarz Kasyna
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -918,27 +914,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ani kroku! (×2) — id 9002003
+##### Umiejętność: Ani kroku! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Będzie Boleć! — id 9002101
+##### Umiejętność: Będzie Boleć!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Skupiony Ochroniarz Kasyna — id 97203
+#### Skupiony Ochroniarz Kasyna
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -957,21 +951,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
+##### Umiejętność: Wykryto Intruza! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Będzie Boleć! (×2) — id 9002101
+##### Umiejętność: Będzie Boleć! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Wesoły Członek Gangu Mariachi — id 97204
+#### Wesoły Członek Gangu Mariachi
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -990,33 +982,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Pokoju (×2) — id 9002402
+##### Umiejętność: Taniec Pokoju (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: ¡Olé! (×2) — id 9002405
+##### Umiejętność: ¡Olé! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny — id 9002403
+##### Umiejętność: Pojedynek Taneczny
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Ożywiony Członek Gangu Mariachi — id 97205
+#### Ożywiony Członek Gangu Mariachi
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1035,33 +1025,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zatańczmy~ (×2) — id 9002401
+##### Umiejętność: Zatańczmy~ (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Taniec Namiętności (×2) — id 9002502
+##### Umiejętność: Taniec Namiętności (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pojedynek Taneczny (×2) — id 9002403
+##### Umiejętność: Pojedynek Taneczny (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wesołe Pchnięcia — id 9002404
+##### Umiejętność: Wesołe Pchnięcia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
 
-**Pasywki:** brak
-
-#### Zagrażający Członek Gangu Tieqiu — id 97206
+#### Zagrażający Członek Gangu Tieqiu
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1080,33 +1068,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Krwawe Powitanie (×2) — id 9002602
+##### Umiejętność: Krwawe Powitanie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          9 |         −4 |      1 |    1 |
 
-##### Umiejętność: Porozrywam Cię na Strzępy (×3) — id 9002601
+##### Umiejętność: Porozrywam Cię na Strzępy (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Na Co Patrzysz, Gało? (×2) — id 9002607
+##### Umiejętność: Na Co Patrzysz, Gało? (×2)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: No! — id 9002604
+##### Umiejętność: No!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Rozgrzewający Się Członek Gangu Tieqiu — id 97207
+#### Rozgrzewający Się Członek Gangu Tieqiu
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1125,33 +1111,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Deszcz Obelg (×2) — id 9002603
+##### Umiejętność: Deszcz Obelg (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         −1 |      2 |    1 |
 
-##### Umiejętność: Rozłupię Ci Ten Łeb (×3) — id 9002701
+##### Umiejętność: Rozłupię Ci Ten Łeb (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Na Co Patrzysz, Gało? (×2) — id 9002607
+##### Umiejętność: Na Co Patrzysz, Gało? (×2)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: No! — id 9002604
+##### Umiejętność: No!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Szef Ochroniarzy Kasyna — id 97251
+#### Szef Ochroniarzy Kasyna
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1170,33 +1154,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Intruz Namierzony (×2) — id 9002301
+##### Umiejętność: Intruz Namierzony (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Wykluczone (×2) — id 9002304
+##### Umiejętność: Wykluczone (×2)
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Uważne Powstrzymywanie — id 9002302
+##### Umiejętność: Uważne Powstrzymywanie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Aresztowanie na Oślep — id 9002303
+##### Umiejętność: Aresztowanie na Oślep
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +2 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Ayed — id 97252
+#### Ayed
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1215,37 +1197,37 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Żarliwy Krok Taneczny (×2) — id 9100401
+##### Umiejętność: Żarliwy Krok Taneczny (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +1 |      4 |    1 |
 
-##### Umiejętność: To Wszystko, Co Masz? (×2) — id 9100402
+##### Umiejętność: To Wszystko, Co Masz? (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: ¡Excelente! (×2) — id 9100406
+##### Umiejętność: ¡Excelente! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          2 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ostro! — id 9100403
+##### Umiejętność: Ostro!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zwinnie~ — id 9100404
+##### Umiejętność: Zwinnie~
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pañata Party~! — id 9100405
+##### Umiejętność: Pañata Party~!
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1257,7 +1239,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na początku tury.
 - **Se Acabó la Fiesta** — gdy ta jednostka zostaje pokonana, wszyscy jej sojusznicy tracą 45 Poczytalności.
 
-#### Hołdujący Inkwizytor N Corp. — id 97301
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1276,19 +1258,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1298,7 +1280,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Uległy Inkwizytor N Corp. — id 97302
+#### Uległy Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1317,19 +1299,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stukanie (×3) — id 9003301
+##### Umiejętność: Stukanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1339,7 +1321,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Służący Inkwizytor N Corp. — id 97303
+#### Służący Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1358,19 +1340,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1380,7 +1362,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 97304
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1399,25 +1381,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1428,7 +1410,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Przesłuchujący Inkwizytor N Corp. — id 97305
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1447,25 +1429,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1476,7 +1458,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Sadystyczny Inkwizytor N Corp. — id 97306
+#### Sadystyczny Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1495,25 +1477,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1524,7 +1506,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Obsesyjny Inkwizytor N Corp. — id 97307
+#### Obsesyjny Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1543,25 +1525,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1572,7 +1554,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Najwyższej Radości Inkwizytor N Corp. — id 97308
+#### Najwyższej Radości Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1591,25 +1573,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Jedność — id 9003903
+##### Umiejętność: Jedność
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1620,7 +1602,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Nieustraszony Inkwizytor N Corp. — id 97309
+#### Nieustraszony Inkwizytor N Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1639,25 +1621,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1668,7 +1650,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Guido Wytrwały — id 97351
+#### Guido Wytrwały
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1687,49 +1669,49 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie Gwoździ (×3) — id 9100601
+##### Umiejętność: Wbicie Gwoździ (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +1 |      3 |    1 |
 
-##### Umiejętność: Pchnięcie (×2) — id 9100602
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Niezłomna Wiara (×2) — id 9100505
+##### Umiejętność: Niezłomna Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         12 |         +4 |      1 |    1 |
 
-##### Umiejętność: Głupota...! — id 9100606
+##### Umiejętność: Głupota...!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          8 |         −4 |      1 |    1 |
 
-##### Umiejętność: Młoty, Słuchajcie Mnie…! — id 9100503
+##### Umiejętność: Młoty, Słuchajcie Mnie…!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wielkie Dzieło Zostanie Spełnione…! — id 9100603
+##### Umiejętność: Wielkie Dzieło Zostanie Spełnione…!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Oczyść Się… z Grzechu! — id 9100604
+##### Umiejętność: Oczyść Się… z Grzechu!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zagłada Heretyków — id 9100605
+##### Umiejętność: Zagłada Heretyków
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1744,7 +1726,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Thou Shalt Hammer** — jeżeli ta jednostka ma Fanatyzm, zadaje +50% obrażeń.
 - **Persistence** — gdy HP spadnie poniżej 50%, w następnej turze usuwa wszystkie negatywne efekty statusowe, a następnie co turę zyskuje 4 Fanatyzmu, 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony.
 
-#### Wygłodniały Chuligan — id 99004
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1761,15 +1743,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9900401
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan Liczący Liczby — id 99005
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1786,15 +1766,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9900501
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99006
+#### Ostry Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1811,15 +1789,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9900601
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan Liczący Liczby — id 99007
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1836,15 +1812,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9900701
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         −1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99008
+#### Ostry Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1861,15 +1835,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9900801
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99009
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1887,15 +1859,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9900901
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         −3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan Liczący Liczby — id 99010
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1913,15 +1883,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9901001
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99011
+#### Ostry Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1939,15 +1907,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9901101
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         −2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan Liczący Liczby — id 99012
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1965,15 +1931,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9901201
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99013
+#### Ostry Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1991,15 +1955,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9901301
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan Liczący Liczby — id 99014
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2017,15 +1979,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9901401
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         −2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99015
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2043,15 +2003,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9901501
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan Liczący Liczby — id 99016
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2069,15 +2027,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9901601
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99017
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2095,15 +2051,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9901701
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan z Wielkim Łbem — id 99018
+#### Chuligan z Wielkim Łbem
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2121,21 +2075,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Obuch (×3) — id 9901801
+##### Umiejętność: Obuch (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ciężki Cios — id 9901802
+##### Umiejętność: Ciężki Cios
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan Liczący Liczby — id 99019
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2153,15 +2105,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9901901
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99020
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2179,15 +2129,13 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9902001
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99021
+#### Ostry Chuligan
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2205,10 +2153,8 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9902101
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +1 |      2 |    1 |
-
-**Pasywki:** brak

@@ -254,12 +254,14 @@ powtarzają między etapami):
 * fale: `battle-story` (walka fabularna; 457 stage'ów z `waveList`, w tym
   `stage_Tutorial` = Prolog), uzupełniająco `battle-ab` (walki z Anomaliami;
   walka fabularna wygrywa kolizje);
-* karty: statystyki (poziom, HP z przyrostem, szybkość, sloty akcji, progi
-  oszołomienia, poczytalność z progami Niskiego Morale/Paniki, typ paniki
-  wg `PanicInfo`, odporności), efekty Niskiego Morale i Paniki, opis,
-  umiejętności (grzech/typ/moc bazowa/moc monety/monety/cele per poziom;
-  nazwy PL po E-022, także z `Skills_Tutorial`), pasywki z jawnym
-  „**Pasywki:** brak”, gdy jednostka nie ma pasywek; Anomalie z częściami
+* karty bez technicznych identyfikatorów (E-023): nagłówki „Nazwa” zamiast
+  „Nazwa — id NNN”; statystyki (poziom, HP z przyrostem, szybkość, sloty
+  akcji, progi oszołomienia, poczytalność z progami Niskiego
+  Morale/Paniki, typ paniki wg `PanicInfo`, odporności), efekty Niskiego
+  Morale i Paniki, opis, umiejętności (grzech/typ/moc bazowa/moc
+  monety/monety/cele per poziom; nazwy PL po E-022, także z
+  `Skills_Tutorial`; „(bez nazwy)” gdy danych brak), pasywki wymieniane
+  tylko gdy istnieją (bez pustych sekcji); Anomalie z częściami
   (per część HP/odporności/opis/umiejętności);
 * pule jednostek: tabele StaticData `enemy` i `abnormality-unit` poza
   proceduralnymi Lustrzanymi Lochami (`mirrordungeon*`, `schema-craft`,

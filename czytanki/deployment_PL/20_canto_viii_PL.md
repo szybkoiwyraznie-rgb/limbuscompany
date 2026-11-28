@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Swift Ambushing Stranger ×1 (poz. 45); Swift Ambushing Stranger ×1 (poz. 45); Swift Ambushing Stranger ×1 (poz. 45); Swift Ambushing Stranger ×1 (poz. 45); Swift Ambushing Stranger ×1 (poz. 45); Swift Ambushing Stranger ×1 (poz. 45) (wsparcie); Swift Ambushing Stranger ×1 (poz. 45) (wsparcie); Swift Pursuing Stranger ×1 (poz. 45) (wsparcie); Swift Pursuing Stranger ×1 (poz. 45) (wsparcie); Swift Pursuing Stranger ×1 (poz. 45) (wsparcie)
 
-#### Swift Ambushing Stranger — id 90203
+#### Swift Ambushing Stranger
 
 *Wystąpienia: ×7 (poz. 45) · też jako wsparcie.*
 
@@ -27,25 +27,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Przebicie Punktu Witalnego (×4) — id 9020301
+##### Umiejętność: Przebicie Punktu Witalnego (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zgniot Punktu Witalnego (×2) — id 9020302
+##### Umiejętność: Zgniot Punktu Witalnego (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zgniot Lektyki — id 9020303
+##### Umiejętność: Zgniot Lektyki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Garda (×2) — id 9020304
+##### Umiejętność: Garda (×2)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -58,7 +58,7 @@ jeżeli celem jest Hong Lu, dodatkowo zyskuje 1 [Wzrost Mocy Starcia] i 1 [Wzros
 - **oh no** — po przegranej w Starciu traci 5 SP
 w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
-#### Swift Pursuing Stranger — id 90204
+#### Swift Pursuing Stranger
 
 *Wystąpienia: ×3 (poz. 45) · też jako wsparcie.*
 
@@ -77,25 +77,25 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Sztych Punktu Witalnego (×4) — id 9020401
+##### Umiejętność: Sztych Punktu Witalnego (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Punktu Witalnego (×2) — id 9020402
+##### Umiejętność: Uderzenie Punktu Witalnego (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozbit Lektyki — id 9020403
+##### Umiejętność: Rozbit Lektyki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Garda (×2) — id 9020404
+##### Umiejętność: Garda (×2)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -112,7 +112,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 - **Fala 1:** Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46)
 
-#### Peccatulum Obżarstwa — id 1089
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 46).*
 
@@ -127,7 +127,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Części (anatomia):**
 
-##### Korpus — id 108901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -139,21 +139,19 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 1096
+#### Peccatulum Pychy
 
 *Wystąpienia: ×2 (poz. 46).*
 
@@ -168,7 +166,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Części (anatomia):**
 
-##### Tułów — id 109601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -180,25 +178,23 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 806901
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 806902
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 8-3 · Zakłócenie
 
 - **Fala 1:** Swift Ambushing Stranger ×1 (poz. 47); Swift Ambushing Stranger ×1 (poz. 47); Swift Ambushing Stranger ×1 (poz. 47); Swift Pursuing Stranger ×1 (poz. 47); Swift Pursuing Stranger ×1 (poz. 47); Swift Ambushing Stranger ×1 (poz. 47) (wsparcie); Swift Ambushing Stranger ×1 (poz. 47) (wsparcie); Swift Ambushing Stranger ×1 (poz. 47) (wsparcie); Swift Pursuing Stranger ×1 (poz. 47) (wsparcie); Swift Pursuing Stranger ×1 (poz. 47) (wsparcie)
 
-#### Swift Ambushing Stranger — id 90203
+#### Swift Ambushing Stranger
 
 *Wystąpienia: ×6 (poz. 47) · też jako wsparcie.*
 
@@ -217,25 +213,25 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Przebicie Punktu Witalnego (×4) — id 9020301
+##### Umiejętność: Przebicie Punktu Witalnego (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zgniot Punktu Witalnego (×2) — id 9020302
+##### Umiejętność: Zgniot Punktu Witalnego (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zgniot Lektyki — id 9020303
+##### Umiejętność: Zgniot Lektyki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Garda (×2) — id 9020304
+##### Umiejętność: Garda (×2)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -248,7 +244,7 @@ jeżeli celem jest Hong Lu, dodatkowo zyskuje 1 [Wzrost Mocy Starcia] i 1 [Wzros
 - **oh no** — po przegranej w Starciu traci 5 SP
 w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
-#### Swift Pursuing Stranger — id 90204
+#### Swift Pursuing Stranger
 
 *Wystąpienia: ×4 (poz. 47) · też jako wsparcie.*
 
@@ -267,25 +263,25 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Sztych Punktu Witalnego (×4) — id 9020401
+##### Umiejętność: Sztych Punktu Witalnego (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Punktu Witalnego (×2) — id 9020402
+##### Umiejętność: Uderzenie Punktu Witalnego (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozbit Lektyki — id 9020403
+##### Umiejętność: Rozbit Lektyki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Garda (×2) — id 9020404
+##### Umiejętność: Garda (×2)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -302,7 +298,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 - **Fala 1:** Swift Ambushing Stranger ×1 (poz. 47); Swift Ambushing Stranger ×1 (poz. 47); Swift Pursuing Stranger ×1 (poz. 47); Swift Pursuing Stranger ×1 (poz. 47); Swift Pursuing Stranger ×1 (poz. 47); Swift Ambushing Stranger ×1 (poz. 47) (wsparcie); Swift Ambushing Stranger ×1 (poz. 47) (wsparcie); Swift Pursuing Stranger ×1 (poz. 47) (wsparcie); Swift Pursuing Stranger ×1 (poz. 47) (wsparcie); Swift Pursuing Stranger ×1 (poz. 47) (wsparcie); Swift Pursuing Stranger ×1 (poz. 47) (wsparcie)
 
-#### Swift Ambushing Stranger — id 90203
+#### Swift Ambushing Stranger
 
 *Wystąpienia: ×4 (poz. 47) · też jako wsparcie.*
 
@@ -321,25 +317,25 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Przebicie Punktu Witalnego (×4) — id 9020301
+##### Umiejętność: Przebicie Punktu Witalnego (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zgniot Punktu Witalnego (×2) — id 9020302
+##### Umiejętność: Zgniot Punktu Witalnego (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zgniot Lektyki — id 9020303
+##### Umiejętność: Zgniot Lektyki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Garda (×2) — id 9020304
+##### Umiejętność: Garda (×2)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -352,7 +348,7 @@ jeżeli celem jest Hong Lu, dodatkowo zyskuje 1 [Wzrost Mocy Starcia] i 1 [Wzros
 - **oh no** — po przegranej w Starciu traci 5 SP
 w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
-#### Swift Pursuing Stranger — id 90204
+#### Swift Pursuing Stranger
 
 *Wystąpienia: ×7 (poz. 47) · też jako wsparcie.*
 
@@ -371,25 +367,25 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Sztych Punktu Witalnego (×4) — id 9020401
+##### Umiejętność: Sztych Punktu Witalnego (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Punktu Witalnego (×2) — id 9020402
+##### Umiejętność: Uderzenie Punktu Witalnego (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozbit Lektyki — id 9020403
+##### Umiejętność: Rozbit Lektyki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Garda (×2) — id 9020404
+##### Umiejętność: Garda (×2)
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -406,7 +402,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 - **Fala 1:** Peccatulum Lenistwa ×1 (poz. 48); Peccatulum Pigritiae? ×1 (poz. 48); Peccatulum Posępności ×1 (poz. 48); Peccatulum Morositatis? ×1 (poz. 48)
 
-#### Peccatulum Lenistwa — id 1086
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×1 (poz. 48).*
 
@@ -421,7 +417,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Części (anatomia):**
 
-##### Korpus — id 108601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -433,21 +429,19 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pigritiae? — id 1087
+#### Peccatulum Pigritiae?
 
 *Wystąpienia: ×1 (poz. 48).*
 
@@ -460,7 +454,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Części (anatomia):**
 
-##### Korpus — id 108701
+##### Korpus
 
 | Parametr           | Wartość                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------- |
@@ -472,33 +466,31 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 *Opis:* Część
 
-##### Umiejętność: Chwyt — id 815901
+##### Umiejętność: Chwyt
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Układanie Kamieni — id 815902
+##### Umiejętność: Układanie Kamieni
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Leniwy Zgniot — id 815903
+##### Umiejętność: Leniwy Zgniot
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Garda — id 815904
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 1091
+#### Peccatulum Posępności
 
 *Wystąpienia: ×1 (poz. 48).*
 
@@ -513,7 +505,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Części (anatomia):**
 
-##### Korpus — id 109101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -525,21 +517,19 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Morositatis? — id 1092
+#### Peccatulum Morositatis?
 
 *Wystąpienia: ×1 (poz. 48).*
 
@@ -554,7 +544,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Części (anatomia):**
 
-##### Korpus — id 109201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -566,37 +556,35 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 *Opis:* Część
 
-##### Umiejętność: Wpadnięcie — id 815201
+##### Umiejętność: Wpadnięcie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Zgryzienie — id 815202
+##### Umiejętność: Zgryzienie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wodna Bomba — id 815203
+##### Umiejętność: Wodna Bomba
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unik — id 815204
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 8-8 · Yihongyuan
 
 - **Fala 1:** Bandaged Wooden Dummy ×1 (poz. 48); Bandaged Wooden Dummy ×1 (poz. 48); Bandaged Wooden Dummy ×1 (poz. 48); Bandaged Wooden Dummy ×1 (poz. 48); Bandaged Wooden Dummy ×1 (poz. 48); Bandaged Wooden Dummy ×1 (poz. 48) (wsparcie); Bandaged Wooden Dummy ×1 (poz. 48) (wsparcie); Bandaged Wooden Dummy ×1 (poz. 48) (wsparcie); Bandaged Wooden Dummy ×1 (poz. 48) (wsparcie); Bandaged Wooden Dummy ×1 (poz. 48) (wsparcie); Bandaged Wooden Dummy ×1 (poz. 48) (wsparcie)
 
-#### Bandaged Wooden Dummy — id 90201
+#### Bandaged Wooden Dummy
 
 *Wystąpienia: ×11 (poz. 48) · też jako wsparcie.*
 
@@ -611,25 +599,25 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 *Opis:* jednostka
 
-##### Umiejętność: Punktowe Uderzenie — id 9020101
+##### Umiejętność: Punktowe Uderzenie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Okrężne Punktowe Kopnięcie — id 9020102
+##### Umiejętność: Okrężne Punktowe Kopnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Okrężne Kopnięcie — id 9020103
+##### Umiejętność: Okrężne Kopnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9020104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -646,7 +634,7 @@ jeżeli otrzymała trafienia od 3 lub mniej Umiejętności ataku, powyższa licz
 
 - **Fala 1:** Spiked Wooden Dummy ×1 (poz. 48); Spiked Wooden Dummy ×1 (poz. 48); Spiked Wooden Dummy ×1 (poz. 48); Spiked Wooden Dummy ×1 (poz. 48); Spiked Wooden Dummy ×1 (poz. 48); Spiked Wooden Dummy ×1 (poz. 48) (wsparcie); Spiked Wooden Dummy ×1 (poz. 48) (wsparcie); Spiked Wooden Dummy ×1 (poz. 48) (wsparcie); Spiked Wooden Dummy ×1 (poz. 48) (wsparcie); Spiked Wooden Dummy ×1 (poz. 48) (wsparcie); Spiked Wooden Dummy ×1 (poz. 48) (wsparcie)
 
-#### Spiked Wooden Dummy — id 90202
+#### Spiked Wooden Dummy
 
 *Wystąpienia: ×11 (poz. 48) · też jako wsparcie.*
 
@@ -661,25 +649,25 @@ jeżeli otrzymała trafienia od 3 lub mniej Umiejętności ataku, powyższa licz
 
 *Opis:* jednostka
 
-##### Umiejętność: Cios w Środek — id 9020201
+##### Umiejętność: Cios w Środek
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Półokrężne Punktowe Kopnięcie — id 9020202
+##### Umiejętność: Półokrężne Punktowe Kopnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Półokrężne Kopnięcie — id 9020203
+##### Umiejętność: Półokrężne Kopnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9020204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -696,7 +684,7 @@ jeżeli otrzymała trafienia od 3 lub mniej Umiejętności ataku, powyższa licz
 
 - **Fala 1:** Talisman Jar Monster ×1 (poz. 50); Talisman Jar Monster ×1 (poz. 50); Talisman Jar Monster ×1 (poz. 50); Nailed Jar Monster ×1 (poz. 50); Nailed Jar Monster ×1 (poz. 50); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 50); Talisman Jar Monster ×1 (poz. 50) (wsparcie); Talisman Jar Monster ×1 (poz. 50) (wsparcie); Nailed Jar Monster ×1 (poz. 50) (wsparcie); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 50) (wsparcie); Entangled Jar Monster ×1 (poz. 50) (wsparcie); Entangled Jar Monster ×1 (poz. 50) (wsparcie)
 
-#### Talisman Jar Monster — id 90195
+#### Talisman Jar Monster
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
@@ -711,25 +699,25 @@ jeżeli otrzymała trafienia od 3 lub mniej Umiejętności ataku, powyższa licz
 
 *Opis:* jednostka
 
-##### Umiejętność: Drapanie — id 9019501
+##### Umiejętność: Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Drapanie — id 9019502
+##### Umiejętność: Dzikie Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zdarcie — id 9019503
+##### Umiejętność: Zdarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -741,7 +729,7 @@ jeżeli otrzymała trafienia od 3 lub mniej Umiejętności ataku, powyższa licz
 - **Jar-haunting Curse** — Koniec tury: jeżeli ta jednostka trafiła cel w tej turze, zyskuje 1 [Wzrost Mocy Ataku] w następnej turze
 jeżeli zabije się sama, nakłada 1 [Wzrost Mocy Ataku] wszystkim sojusznikom
 
-#### Nailed Jar Monster — id 90196
+#### Nailed Jar Monster
 
 *Wystąpienia: ×3 (poz. 50) · też jako wsparcie.*
 
@@ -756,25 +744,25 @@ jeżeli zabije się sama, nakłada 1 [Wzrost Mocy Ataku] wszystkim sojusznikom
 
 *Opis:* jednostka
 
-##### Umiejętność: Grzebanie Paznokciami — id 9019601
+##### Umiejętność: Grzebanie Paznokciami
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Rypanie — id 9019602
+##### Umiejętność: Dzikie Rypanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Oblepienie — id 9019603
+##### Umiejętność: Oblepienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -787,7 +775,7 @@ jeżeli zabije się sama, nakłada 1 [Wzrost Mocy Ataku] wszystkim sojusznikom
 przy trafieniu: jeżeli cel ma 1 pozostałe [Rozdarcie], nakłada 2 [Rozdarcie] (2 razy na turę)
 jeżeli jednostka zabije się sama, nakłada 2 [Rozdarcie] i 1 Licznika [Rozdarcie] wszystkim wrogom
 
-#### Monster from the Gorged and Devoured Jar of Loneliness — id 91022
+#### Monster from the Gorged and Devoured Jar of Loneliness
 
 *Wystąpienia: ×2 (poz. 50) · też jako wsparcie.*
 
@@ -802,25 +790,25 @@ jeżeli jednostka zabije się sama, nakłada 2 [Rozdarcie] i 1 Licznika [Rozdarc
 
 *Opis:* jednostka
 
-##### Umiejętność: Drapanie Ran — id 9102201
+##### Umiejętność: Drapanie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      2 |    1 |
 
-##### Umiejętność: Dzieranie Mięsa — id 9102202
+##### Umiejętność: Dzieranie Mięsa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Miętołenie w Samotności — id 9102203
+##### Umiejętność: Miętołenie w Samotności
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9102204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -833,7 +821,7 @@ jeżeli jednostka zabije się sama, nakłada 2 [Rozdarcie] i 1 Licznika [Rozdarc
 - **Jar-haunting Curse** — Koniec tury: nakłada [Trucizna] wszystkim wrogom równy liczbie tur od dołączenia tej jednostki do walki (maks. 5)
 jeżeli jednostka zabije się sama, nakłada (liczba tur x 5) [Trucizna] wszystkim wrogom w następnej turze (maks. 25) oraz 2 Licznika [Rozdarcie]
 
-#### Entangled Jar Monster — id 90197
+#### Entangled Jar Monster
 
 *Wystąpienia: ×2 (poz. 50) · też jako wsparcie.*
 
@@ -848,25 +836,25 @@ jeżeli jednostka zabije się sama, nakłada (liczba tur x 5) [Trucizna] wszystk
 
 *Opis:* jednostka
 
-##### Umiejętność: Grzebanie w Ranach — id 9019701
+##### Umiejętność: Grzebanie w Ranach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Grzebanie — id 9019702
+##### Umiejętność: Dzikie Grzebanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Grzebanie w Mięsie — id 9019703
+##### Umiejętność: Grzebanie w Mięsie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -882,7 +870,7 @@ jeżeli jednostka zabije się sama, nakłada 3 [Spadek Poziomu Obrony] wszystkim
 
 - **Fala 1:** Talisman Jar Monster ×1 (poz. 51); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 51); Nailed Jar Monster ×1 (poz. 51); Entangled Jar Monster ×1 (poz. 51); Entangled Jar Monster ×1 (poz. 51); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 51) (wsparcie); Talisman Jar Monster ×1 (poz. 51) (wsparcie); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 51) (wsparcie); Nailed Jar Monster ×1 (poz. 51) (wsparcie); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 51) (wsparcie)
 
-#### Talisman Jar Monster — id 90195
+#### Talisman Jar Monster
 
 *Wystąpienia: ×2 (poz. 51) · też jako wsparcie.*
 
@@ -897,25 +885,25 @@ jeżeli jednostka zabije się sama, nakłada 3 [Spadek Poziomu Obrony] wszystkim
 
 *Opis:* jednostka
 
-##### Umiejętność: Drapanie — id 9019501
+##### Umiejętność: Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Drapanie — id 9019502
+##### Umiejętność: Dzikie Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zdarcie — id 9019503
+##### Umiejętność: Zdarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -927,7 +915,7 @@ jeżeli jednostka zabije się sama, nakłada 3 [Spadek Poziomu Obrony] wszystkim
 - **Jar-haunting Curse** — Koniec tury: jeżeli ta jednostka trafiła cel w tej turze, zyskuje 1 [Wzrost Mocy Ataku] w następnej turze
 jeżeli zabije się sama, nakłada 1 [Wzrost Mocy Ataku] wszystkim sojusznikom
 
-#### Monster from the Gorged and Devoured Jar of Loneliness — id 91022
+#### Monster from the Gorged and Devoured Jar of Loneliness
 
 *Wystąpienia: ×4 (poz. 51) · też jako wsparcie.*
 
@@ -942,25 +930,25 @@ jeżeli zabije się sama, nakłada 1 [Wzrost Mocy Ataku] wszystkim sojusznikom
 
 *Opis:* jednostka
 
-##### Umiejętność: Drapanie Ran — id 9102201
+##### Umiejętność: Drapanie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      2 |    1 |
 
-##### Umiejętność: Dzieranie Mięsa — id 9102202
+##### Umiejętność: Dzieranie Mięsa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Miętołenie w Samotności — id 9102203
+##### Umiejętność: Miętołenie w Samotności
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9102204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -973,7 +961,7 @@ jeżeli zabije się sama, nakłada 1 [Wzrost Mocy Ataku] wszystkim sojusznikom
 - **Jar-haunting Curse** — Koniec tury: nakłada [Trucizna] wszystkim wrogom równy liczbie tur od dołączenia tej jednostki do walki (maks. 5)
 jeżeli jednostka zabije się sama, nakłada (liczba tur x 5) [Trucizna] wszystkim wrogom w następnej turze (maks. 25) oraz 2 Licznika [Rozdarcie]
 
-#### Nailed Jar Monster — id 90196
+#### Nailed Jar Monster
 
 *Wystąpienia: ×2 (poz. 51) · też jako wsparcie.*
 
@@ -988,25 +976,25 @@ jeżeli jednostka zabije się sama, nakłada (liczba tur x 5) [Trucizna] wszystk
 
 *Opis:* jednostka
 
-##### Umiejętność: Grzebanie Paznokciami — id 9019601
+##### Umiejętność: Grzebanie Paznokciami
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Rypanie — id 9019602
+##### Umiejętność: Dzikie Rypanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Oblepienie — id 9019603
+##### Umiejętność: Oblepienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1019,7 +1007,7 @@ jeżeli jednostka zabije się sama, nakłada (liczba tur x 5) [Trucizna] wszystk
 przy trafieniu: jeżeli cel ma 1 pozostałe [Rozdarcie], nakłada 2 [Rozdarcie] (2 razy na turę)
 jeżeli jednostka zabije się sama, nakłada 2 [Rozdarcie] i 1 Licznika [Rozdarcie] wszystkim wrogom
 
-#### Entangled Jar Monster — id 90197
+#### Entangled Jar Monster
 
 *Wystąpienia: ×2 (poz. 51).*
 
@@ -1034,25 +1022,25 @@ jeżeli jednostka zabije się sama, nakłada 2 [Rozdarcie] i 1 Licznika [Rozdarc
 
 *Opis:* jednostka
 
-##### Umiejętność: Grzebanie w Ranach — id 9019701
+##### Umiejętność: Grzebanie w Ranach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Grzebanie — id 9019702
+##### Umiejętność: Dzikie Grzebanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Grzebanie w Mięsie — id 9019703
+##### Umiejętność: Grzebanie w Mięsie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1068,7 +1056,7 @@ jeżeli jednostka zabije się sama, nakłada 3 [Spadek Poziomu Obrony] wszystkim
 
 - **Fala 1:** Furtive Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52) (wsparcie); Furtive Podao Assailant ×1 (poz. 52) (wsparcie); Swift Podao Assailant ×1 (poz. 52) (wsparcie); Swift Podao Assailant ×1 (poz. 52) (wsparcie); Swift Podao Assailant ×1 (poz. 52) (wsparcie); Swift Podao Assailant ×1 (poz. 52) (wsparcie)
 
-#### Furtive Podao Assailant — id 90198
+#### Furtive Podao Assailant
 
 *Wystąpienia: ×8 (poz. 52) · też jako wsparcie.*
 
@@ -1087,25 +1075,25 @@ jeżeli jednostka zabije się sama, nakłada 3 [Spadek Poziomu Obrony] wszystkim
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamach — id 9019801
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Docisk — id 9019802
+##### Umiejętność: Docisk
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekucja Pękniętego Obrazu — id 9019803
+##### Umiejętność: Egzekucja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019804
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1119,7 +1107,7 @@ przy otrzymaniu trafienia podczas fazy walki: po wygranej w Starciu +20% obraże
 - **Focusing on Target** — przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Spadek Mocy Ataku] w następnej turze
 poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 
-#### Swift Podao Assailant — id 90199
+#### Swift Podao Assailant
 
 *Wystąpienia: ×4 (poz. 52) · też jako wsparcie.*
 
@@ -1138,25 +1126,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamiatanie — id 9019901
+##### Umiejętność: Zamiatanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przyściganie — id 9019902
+##### Umiejętność: Przyściganie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Utylizacja Pękniętego Obrazu — id 9019903
+##### Umiejętność: Utylizacja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1174,7 +1162,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 - **Fala 1:** Furtive Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52); Large Podao Assailant ×1 (poz. 52); Swift Podao Assailant ×1 (poz. 52); Large Podao Assailant ×1 (poz. 52); Large Podao Assailant ×1 (poz. 52); Furtive Podao Assailant ×1 (poz. 52) (wsparcie); Furtive Podao Assailant ×1 (poz. 52) (wsparcie); Large Podao Assailant ×1 (poz. 52) (wsparcie); Swift Podao Assailant ×1 (poz. 52) (wsparcie); Large Podao Assailant ×1 (poz. 52) (wsparcie); Large Podao Assailant ×1 (poz. 52) (wsparcie)
 
-#### Furtive Podao Assailant — id 90198
+#### Furtive Podao Assailant
 
 *Wystąpienia: ×4 (poz. 52) · też jako wsparcie.*
 
@@ -1193,25 +1181,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamach — id 9019801
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Docisk — id 9019802
+##### Umiejętność: Docisk
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekucja Pękniętego Obrazu — id 9019803
+##### Umiejętność: Egzekucja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019804
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1225,7 +1213,7 @@ przy otrzymaniu trafienia podczas fazy walki: po wygranej w Starciu +20% obraże
 - **Focusing on Target** — przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Spadek Mocy Ataku] w następnej turze
 poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 
-#### Large Podao Assailant — id 90200
+#### Large Podao Assailant
 
 *Wystąpienia: ×6 (poz. 52) · też jako wsparcie.*
 
@@ -1244,31 +1232,31 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Odbijające Cięcie — id 9020001
+##### Umiejętność: Odbijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Cięcie z Dociskiem — id 9020002
+##### Umiejętność: Cięcie z Dociskiem
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Fal — id 9020003
+##### Umiejętność: Cięcie Fal
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ukojenie Zagubionego Wierzchowca — id 9020004
+##### Umiejętność: Ukojenie Zagubionego Wierzchowca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9020005
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1285,7 +1273,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 - nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Swift Podao Assailant — id 90199
+#### Swift Podao Assailant
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
 
@@ -1304,25 +1292,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamiatanie — id 9019901
+##### Umiejętność: Zamiatanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przyściganie — id 9019902
+##### Umiejętność: Przyściganie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Utylizacja Pękniętego Obrazu — id 9019903
+##### Umiejętność: Utylizacja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1340,7 +1328,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 - **Fala 1:** Large Podao Assailant ×1 (poz. 53); Large Podao Assailant ×1 (poz. 53); Large Podao Assailant ×1 (poz. 53); Night Drifter of the Drunken Palm ×1 (poz. 53)
 
-#### Large Podao Assailant — id 1138
+#### Large Podao Assailant
 
 *Wystąpienia: ×3 (poz. 53).*
 
@@ -1359,7 +1347,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Części (anatomia):**
 
-##### Korpus — id 113801
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -1371,31 +1359,31 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 *Opis:* Część
 
-##### Umiejętność: Odbijające Cięcie — id 9020001
+##### Umiejętność: Odbijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Cięcie z Dociskiem — id 9020002
+##### Umiejętność: Cięcie z Dociskiem
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Fal — id 9020003
+##### Umiejętność: Cięcie Fal
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ukojenie Zagubionego Wierzchowca — id 9020004
+##### Umiejętność: Ukojenie Zagubionego Wierzchowca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9020005
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1405,7 +1393,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Night Drifter of the Drunken Palm — id 1134
+#### Night Drifter of the Drunken Palm
 
 *Wystąpienia: ×1 (poz. 53).*
 
@@ -1424,7 +1412,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Części (anatomia):**
 
-##### Korpus — id 113401
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -1436,43 +1424,43 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 *Opis:* Część
 
-##### Umiejętność: Przednie Wirowanie — id 9102101
+##### Umiejętność: Przednie Wirowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wino na Otwarte Gardło — id 9102102
+##### Umiejętność: Wino na Otwarte Gardło
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wodospad — id 9102103
+##### Umiejętność: Wodospad
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Drunklaim — id 9102104
+##### Umiejętność: Drunklaim
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Pijacki Cios Powrotny — id 9102105
+##### Umiejętność: Pijacki Cios Powrotny
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Prawdziwa Dekapitacja — id 9102106
+##### Umiejętność: Prawdziwa Dekapitacja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |        +20 |      1 |    1 |
 
-##### Umiejętność: Pochył pijaka — id 9102107
+##### Umiejętność: Pochył pijaka
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1489,7 +1477,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 - **Fala 1:** Peccatulum Morositatis?? ×1 (poz. 50); Peccatulum Morositatis? ×1 (poz. 50); Peccatulum Posępności ×1 (poz. 50); Peccatulum Posępności ×1 (poz. 50)
 
-#### Peccatulum Morositatis?? — id 1093
+#### Peccatulum Morositatis??
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1504,7 +1492,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Części (anatomia):**
 
-##### Korpus — id 109301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1516,33 +1504,31 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Zderzenie Rozkładu — id 108101
+##### Umiejętność: Zderzenie Rozkładu
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Nawał Wody — id 108102
+##### Umiejętność: Nawał Wody
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Kaskada Posępności — id 108103
+##### Umiejętność: Kaskada Posępności
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Unik — id 108104
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          3 |        +12 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Morositatis? — id 1092
+#### Peccatulum Morositatis?
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -1557,7 +1543,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Części (anatomia):**
 
-##### Korpus — id 109201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -1569,33 +1555,31 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Wpadnięcie — id 815201
+##### Umiejętność: Wpadnięcie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Zgryzienie — id 815202
+##### Umiejętność: Zgryzienie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wodna Bomba — id 815203
+##### Umiejętność: Wodna Bomba
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unik — id 815204
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 1091
+#### Peccatulum Posępności
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -1610,7 +1594,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Części (anatomia):**
 
-##### Korpus — id 109101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1622,23 +1606,21 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
 ## Pula Canto VIII · część 1 (`a1c8p1`) — jednostki bez przypisanego etapu
 
-#### Night Drifter of the Drunken Palm — id 91021
+#### Night Drifter of the Drunken Palm
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -1657,43 +1639,43 @@ Szybkość w następnej turze jest ustalona na 10
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Przednie Wirowanie — id 9102101
+##### Umiejętność: Przednie Wirowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wino na Otwarte Gardło — id 9102102
+##### Umiejętność: Wino na Otwarte Gardło
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wodospad — id 9102103
+##### Umiejętność: Wodospad
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Drunklaim — id 9102104
+##### Umiejętność: Drunklaim
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Pijacki Cios Powrotny — id 9102105
+##### Umiejętność: Pijacki Cios Powrotny
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Prawdziwa Dekapitacja — id 9102106
+##### Umiejętność: Prawdziwa Dekapitacja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |        +20 |      1 |    1 |
 
-##### Umiejętność: Pochył pijaka — id 9102107
+##### Umiejętność: Pochył pijaka
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1718,7 +1700,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 - **Fala 1:** Shi Hua... something? ×1 (poz. 52); Swift Shi Family Mercenary ×2 (poz. 52); Veteran Shi Family Mercenary ×2 (poz. 52); Heavy Shi Family Mercenary ×1 (poz. 52)
 
-#### Shi Hua... something? — id 1167
+#### Shi Hua... something?
 
 *Wystąpienia: ×1 (poz. 52).*
 
@@ -1735,7 +1717,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116701
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -1747,25 +1729,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 *Opis:* Część
 
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Góry — id 116701
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Góry
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Zamachem — id 116702
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Zamachem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Zgniatające Cięcie (×2) — id 116703
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Zgniatające Cięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +4 |      3 |    1 |
 
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Płynne Cięcie — id 116704
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Płynne Cięcie
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1778,7 +1760,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Swift Shi Family Mercenary — id 1168
+#### Swift Shi Family Mercenary
 
 *Wystąpienia: ×2 (poz. 52).*
 
@@ -1795,7 +1777,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116801
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -1807,25 +1789,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116801 (×2) — id 116801
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116802 (×2) — id 116802
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116803 (×2) — id 116803
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116804 — id 116804
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1836,7 +1818,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 - **Rival Candidate** — zadaje +10% obrażeń Hong Lu
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 
-#### Veteran Shi Family Mercenary — id 1169
+#### Veteran Shi Family Mercenary
 
 *Wystąpienia: ×2 (poz. 52).*
 
@@ -1853,7 +1835,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116901
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -1865,25 +1847,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116901 (×2) — id 116901
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116902 (×2) — id 116902
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116903 (×2) — id 116903
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116904 — id 116904
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1894,7 +1876,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 - **Rival Candidate** — zadaje +10% obrażeń Hong Lu
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 
-#### Heavy Shi Family Mercenary — id 1170
+#### Heavy Shi Family Mercenary
 
 *Wystąpienia: ×1 (poz. 52).*
 
@@ -1911,7 +1893,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 117001
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -1923,25 +1905,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 117001 — id 117001
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 117002 (×2) — id 117002
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: umiejętność 117003 (×2) — id 117003
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: umiejętność 117004 — id 117004
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1956,7 +1938,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 - **Fala 1:** Wang Qingshan ×1 (poz. 53); Wicked Deathrite Monk ×2 (poz. 53); Evil-possessed Deathrite Monk ×2 (poz. 53); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Evil-possessed Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie)
 
-#### Wang Qingshan — id 1159
+#### Wang Qingshan
 
 *Wystąpienia: ×1 (poz. 53).*
 
@@ -1975,7 +1957,7 @@ Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 **Części (anatomia):**
 
-##### Korpus — id 115901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1985,25 +1967,25 @@ Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 | Progi oszołomienia | 60% / 0%                                                                                                                                   |
 | Odporności         | Cięcie ×1,25; Obuch ×0,5; Żądza ×0,5 (Ineff.); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem — id 115901
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu — id 115902
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci — id 115903
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetna Wściekłość — id 115904
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetna Wściekłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2023,7 +2005,7 @@ jeżeli nie ma już wrogów do zastąpienia albo jest ich za mało (tzn. jeżeli
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Wicked Deathrite Monk — id 1165
+#### Wicked Deathrite Monk
 
 *Wystąpienia: ×6 (poz. 53) · też jako wsparcie.*
 
@@ -2044,7 +2026,7 @@ Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 **Części (anatomia):**
 
-##### Korpus — id 116501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2056,25 +2038,25 @@ Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116501 — id 116501
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116502 — id 116502
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116503 — id 116503
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116504 — id 116504
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2089,7 +2071,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 - jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
 - **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa 1–2 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
 
-#### Evil-possessed Deathrite Monk — id 1166
+#### Evil-possessed Deathrite Monk
 
 *Wystąpienia: ×3 (poz. 53) · też jako wsparcie.*
 
@@ -2110,7 +2092,7 @@ Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 **Części (anatomia):**
 
-##### Korpus — id 116601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2122,31 +2104,31 @@ Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116601 — id 116601
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116602 — id 116602
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116603 — id 116603
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
 
-##### Umiejętność: umiejętność 116604 — id 116604
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116605 — id 116605
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2164,7 +2146,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 - **Fala 1:** Shi Sijing ×1 (poz. 55); Swift Shi Family Mercenary ×2 (poz. 53); Veteran Shi Family Mercenary ×2 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie)
 
-#### Shi Sijing — id 1160
+#### Shi Sijing
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -2181,7 +2163,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------------------------- |
@@ -2193,25 +2175,25 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Konfrontacja (×2) — id 116001
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Konfrontacja (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Cios Okrężny (×2) — id 116002
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Cios Okrężny (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Rozbijanie — id 116003
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Rozbijanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Trzymanie Rytmu — id 116004
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Trzymanie Rytmu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2224,7 +2206,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 - **The Battle's End** — gdy Shi Sijing traci w tej walce całe HP, walka się kończy
 
-#### Swift Shi Family Mercenary — id 1168
+#### Swift Shi Family Mercenary
 
 *Wystąpienia: ×4 (poz. 53) · też jako wsparcie.*
 
@@ -2241,7 +2223,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116801
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -2253,25 +2235,25 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116801 (×2) — id 116801
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116802 (×2) — id 116802
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116803 (×2) — id 116803
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116804 — id 116804
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2282,7 +2264,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 - **Rival Candidate** — zadaje +10% obrażeń Hong Lu
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 
-#### Veteran Shi Family Mercenary — id 1169
+#### Veteran Shi Family Mercenary
 
 *Wystąpienia: ×4 (poz. 53) · też jako wsparcie.*
 
@@ -2299,7 +2281,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116901
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -2311,25 +2293,25 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116901 (×2) — id 116901
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116902 (×2) — id 116902
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116903 (×2) — id 116903
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116904 — id 116904
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2344,7 +2326,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 - **Fala 1:** Xue Pan ×1 (poz. 58); Talisman Jar Monster ×1 (poz. 55); Nailed Jar Monster ×1 (poz. 55); Entangled Jar Monster ×1 (poz. 55); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 55); Talisman Jar Monster ×1 (poz. 55) (wsparcie); Nailed Jar Monster ×1 (poz. 55) (wsparcie); Entangled Jar Monster ×1 (poz. 55) (wsparcie)
 
-#### Xue Pan — id 1157
+#### Xue Pan
 
 *Wystąpienia: ×1 (poz. 58).*
 
@@ -2361,7 +2343,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wrażliwość] i nałóż 2 [Wzrost Obrażeń] na wszystkich sojuszników
 **Części (anatomia):**
 
-##### Korpus — id 115701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2373,39 +2355,39 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Słabeusze... — id 115701
+##### Umiejętność: Słabeusze...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Gapie... — id 115702
+##### Umiejętność: Gapie...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zabiję Cię! — id 115703
+##### Umiejętność: Zabiję Cię!
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wpadnij!! — id 115704
+##### Umiejętność: Wpadnij!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ten Spektakl Warto Oglądać Wszyscy! — id 115705
+##### Umiejętność: Ten Spektakl Warto Oglądać Wszyscy!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9999995 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Talisman Jar Monster — id 1161
+#### Talisman Jar Monster
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -2420,7 +2402,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Części (anatomia):**
 
-##### Korpus — id 116101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2432,33 +2414,31 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Drapanie — id 9019501
+##### Umiejętność: Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Drapanie — id 9019502
+##### Umiejętność: Dzikie Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zdarcie — id 9019503
+##### Umiejętność: Zdarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019504
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Nailed Jar Monster — id 1162
+#### Nailed Jar Monster
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -2473,7 +2453,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Części (anatomia):**
 
-##### Korpus — id 116201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2485,33 +2465,31 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Grzebanie Paznokciami — id 9019601
+##### Umiejętność: Grzebanie Paznokciami
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Rypanie — id 9019602
+##### Umiejętność: Dzikie Rypanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Oblepienie — id 9019603
+##### Umiejętność: Oblepienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019604
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Entangled Jar Monster — id 1163
+#### Entangled Jar Monster
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -2526,7 +2504,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Części (anatomia):**
 
-##### Korpus — id 116301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2538,33 +2516,31 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Grzebanie w Ranach — id 9019701
+##### Umiejętność: Grzebanie w Ranach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Grzebanie — id 9019702
+##### Umiejętność: Dzikie Grzebanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Grzebanie w Mięsie — id 9019703
+##### Umiejętność: Grzebanie w Mięsie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9019704
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Monster from the Gorged and Devoured Jar of Loneliness — id 1164
+#### Monster from the Gorged and Devoured Jar of Loneliness
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -2579,7 +2555,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Części (anatomia):**
 
-##### Korpus — id 116401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2591,37 +2567,35 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Drapanie Ran — id 9102201
+##### Umiejętność: Drapanie Ran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      2 |    1 |
 
-##### Umiejętność: Dzieranie Mięsa — id 9102202
+##### Umiejętność: Dzieranie Mięsa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Miętołenie w Samotności — id 9102203
+##### Umiejętność: Miętołenie w Samotności
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Kontra — id 9102204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          3 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 8-39
 
 - **Fala 1:** Shi Yihua ×1 (poz. 60); Swift Shi Family Mercenary ×1 (poz. 55); Veteran Shi Family Mercenary ×1 (poz. 55); Wicked Deathrite Monk ×1 (poz. 55); Evil-possessed Deathrite Monk ×1 (poz. 55)
 
-#### Shi Yihua — id 1158
+#### Shi Yihua
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -2638,7 +2612,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wrażliwości i 2 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia
 **Części (anatomia):**
 
-##### Korpus — id 115801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2650,37 +2624,37 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Bierz To! — id 115801
+##### Umiejętność: Bierz To!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Padnij na Kolana! — id 115802
+##### Umiejętność: Padnij na Kolana!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    5 |
 
-##### Umiejętność: Popatrzcie na Siebie, Dziecinady! — id 115803
+##### Umiejętność: Popatrzcie na Siebie, Dziecinady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +5 |      2 |    3 |
 
-##### Umiejętność: Znaj Swoje Miejsce! — id 115804
+##### Umiejętność: Znaj Swoje Miejsce!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +3 |      3 |    3 |
 
-##### Umiejętność: Padnijcie Na Twarze! — id 115805
+##### Umiejętność: Padnijcie Na Twarze!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +3 |      2 |   10 |
 
-##### Umiejętność: Dam Ci Szansę — id 115806
+##### Umiejętność: Dam Ci Szansę
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2698,7 +2672,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Swift Shi Family Mercenary — id 1168
+#### Swift Shi Family Mercenary
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -2715,7 +2689,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116801
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -2727,25 +2701,25 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116801 (×2) — id 116801
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116802 (×2) — id 116802
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116803 (×2) — id 116803
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116804 — id 116804
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2756,7 +2730,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 - **Rival Candidate** — zadaje +10% obrażeń Hong Lu
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 
-#### Veteran Shi Family Mercenary — id 1169
+#### Veteran Shi Family Mercenary
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -2773,7 +2747,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
 **Części (anatomia):**
 
-##### Korpus — id 116901
+##### Korpus
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -2785,25 +2759,25 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116901 (×2) — id 116901
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116902 (×2) — id 116902
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116903 (×2) — id 116903
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116904 — id 116904
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2814,7 +2788,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 - **Rival Candidate** — zadaje +10% obrażeń Hong Lu
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 
-#### Wicked Deathrite Monk — id 1165
+#### Wicked Deathrite Monk
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -2835,7 +2809,7 @@ Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 **Części (anatomia):**
 
-##### Korpus — id 116501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2847,25 +2821,25 @@ Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116501 — id 116501
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116502 — id 116502
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116503 — id 116503
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116504 — id 116504
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2880,7 +2854,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 - jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
 - **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa 1–2 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
 
-#### Evil-possessed Deathrite Monk — id 1166
+#### Evil-possessed Deathrite Monk
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -2901,7 +2875,7 @@ Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 **Części (anatomia):**
 
-##### Korpus — id 116601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2913,31 +2887,31 @@ Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 116601 — id 116601
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 116602 — id 116602
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116603 — id 116603
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
 
-##### Umiejętność: umiejętność 116604 — id 116604
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 116605 — id 116605
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2953,7 +2927,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 ## Pula Canto VIII · część 2 (`a1c8p2`) — jednostki bez przypisanego etapu
 
-#### Heishou Pack - Mao: Featherstriker — id 1131
+#### Heishou Pack - Mao: Featherstriker
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2972,7 +2946,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Części (anatomia):**
 
-##### Korpus — id 113101
+##### Korpus
 
 | Parametr           | Wartość                                                      |
 | ------------------ | ------------------------------------------------------------ |
@@ -2984,25 +2958,25 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 *Opis:* Część
 
-##### Umiejętność: Niespodziewane Uderzenie (×5) — id 113101
+##### Umiejętność: Niespodziewane Uderzenie (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×4) — id 113102
+##### Umiejętność: Powstrzymanie (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Strzał Piór (×3) — id 113103
+##### Umiejętność: Strzał Piór (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Zamachnięcie — id 113104
+##### Umiejętność: Zamachnięcie
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3013,7 +2987,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 - **Jia Qiu's Test** — Początek 1. tury: zyskuje [Skryta Krwiożerczość]
 kończy walkę, gdy Hong Lu ginie
 
-#### Heishou Pack - Mao: Umbrastriker — id 1132
+#### Heishou Pack - Mao: Umbrastriker
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3032,7 +3006,7 @@ kończy walkę, gdy Hong Lu ginie
 
 **Części (anatomia):**
 
-##### Korpus — id 113201
+##### Korpus
 
 | Parametr           | Wartość                                                      |
 | ------------------ | ------------------------------------------------------------ |
@@ -3044,25 +3018,25 @@ kończy walkę, gdy Hong Lu ginie
 
 *Opis:* Część
 
-##### Umiejętność: Pościg (×5) — id 113201
+##### Umiejętność: Pościg (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przytłoczenie (×4) — id 113202
+##### Umiejętność: Przytłoczenie (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Cios z Cienia (×3) — id 113203
+##### Umiejętność: Cios z Cienia (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Zamachnięcie — id 113204
+##### Umiejętność: Zamachnięcie
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3073,7 +3047,7 @@ kończy walkę, gdy Hong Lu ginie
 - **Jia Qiu's Test** — Początek 1. tury: zyskuje [Skryta Krwiożerczość]
 kończy walkę, gdy Hong Lu ginie
 
-#### Zilu — id 1133
+#### Zilu
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3090,7 +3064,7 @@ kończy walkę, gdy Hong Lu ginie
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
 **Części (anatomia):**
 
-##### Korpus — id 113301
+##### Korpus
 
 | Parametr           | Wartość                  |
 | ------------------ | ------------------------ |
@@ -3102,49 +3076,49 @@ kończy walkę, gdy Hong Lu ginie
 
 *Opis:* Część
 
-##### Umiejętność: Niespodziewane Uderzenie — id 113301
+##### Umiejętność: Niespodziewane Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zabójcze Wiercenie — id 113302
+##### Umiejętność: Zabójcze Wiercenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Grawerem — id 113303
+##### Umiejętność: Uderzenie Grawerem
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig — id 113304
+##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Klętwopis — id 113305
+##### Umiejętność: Klętwopis
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu> — id 113306
+##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu>
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      3 |    1 |
 
-##### Umiejętność: Ochrona Zwinnych Stóp — id 113307
+##### Umiejętność: Ochrona Zwinnych Stóp
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur — id 113308
+##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3158,7 +3132,7 @@ na Początku tury przy 60% HP lub mniej zyskuje 500 Tarczy
 - po uruchomieniu tego efektu HP jednostki nie spada poniżej 1
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Jia Qiu — id 1137
+#### Jia Qiu
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3175,7 +3149,7 @@ na Początku tury przy 60% HP lub mniej zyskuje 500 Tarczy
 **Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
 **Części (anatomia):**
 
-##### Korpus — id 113701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -3187,49 +3161,49 @@ na Początku tury przy 60% HP lub mniej zyskuje 500 Tarczy
 
 *Opis:* Część
 
-##### Umiejętność: Pytanie (問) — id 113701
+##### Umiejętność: Pytanie (問)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Odpowiedź (答) — id 113702
+##### Umiejętność: Odpowiedź (答)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動) — id 113703
+##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 113704
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Gromobójcze Miażdżenie — id 113705
+##### Umiejętność: Gromobójcze Miażdżenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ścinaj, Mao — id 113706
+##### Umiejętność: Ścinaj, Mao
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Muszę Was Napierać Mocniej — id 113707
+##### Umiejętność: Muszę Was Napierać Mocniej
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +5 |      4 |    1 |
 
-##### Umiejętność: Nie Mieszajcie Się — id 113708
+##### Umiejętność: Nie Mieszajcie Się
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3245,7 +3219,7 @@ przy 60% HP przechodzi do nowej Fazy
 przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruchomiony Deathrite
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Jia Qiu — id 1141
+#### Jia Qiu
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3262,7 +3236,7 @@ przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruc
 **Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
 **Części (anatomia):**
 
-##### Korpus — id 114101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -3274,61 +3248,61 @@ przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruc
 
 *Opis:* Część
 
-##### Umiejętność: Zapytam Jeszcze Raz — id 114101
+##### Umiejętność: Zapytam Jeszcze Raz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動) — id 114102
+##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nie Wypada Się Wtrącać — id 114103
+##### Umiejętność: Nie Wypada Się Wtrącać
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Gromobójcze Miażdżenie - Fala (波) — id 114104
+##### Umiejętność: Gromobójcze Miażdżenie - Fala (波)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          7 |        +13 |      1 |    3 |
 
-##### Umiejętność: Heishou - Mao Linkstrike - Bladestorm — id 114105
+##### Umiejętność: Heishou - Mao Linkstrike - Bladestorm
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Usłuchaj, Zilu — id 114106
+##### Umiejętność: Usłuchaj, Zilu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Powódź Obrzędu Śmierci — id 114107
+##### Umiejętność: Powódź Obrzędu Śmierci
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |        +13 |      1 |    1 |
 
-##### Umiejętność: Odpowiedz Mi, Jia Baoyu — id 114108
+##### Umiejętność: Odpowiedz Mi, Jia Baoyu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: Gwiazda Tiangan - Forma (格) — id 114109
+##### Umiejętność: Gwiazda Tiangan - Forma (格)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +8 |      4 |    7 |
 
-##### Umiejętność: Jak Rycząca Burza — id 114110
+##### Umiejętność: Jak Rycząca Burza
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3346,7 +3320,7 @@ przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruc
 - jeżeli Hong Lu ma 3+ [Dialogi], ta jednostka nie zyskuje Tarczy do końca walki
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Zilu — id 1144
+#### Zilu
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3363,7 +3337,7 @@ przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruc
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
 **Części (anatomia):**
 
-##### Korpus — id 114401
+##### Korpus
 
 | Parametr           | Wartość                  |
 | ------------------ | ------------------------ |
@@ -3375,49 +3349,49 @@ przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruc
 
 *Opis:* Część
 
-##### Umiejętność: Niespodziewane Uderzenie — id 113301
+##### Umiejętność: Niespodziewane Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zabójcze Wiercenie — id 113302
+##### Umiejętność: Zabójcze Wiercenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Grawerem — id 113303
+##### Umiejętność: Uderzenie Grawerem
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig — id 113304
+##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Klętwopis — id 113305
+##### Umiejętność: Klętwopis
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu> — id 113306
+##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu>
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      3 |    1 |
 
-##### Umiejętność: Ochrona Zwinnych Stóp — id 113307
+##### Umiejętność: Ochrona Zwinnych Stóp
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur — id 113308
+##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3430,7 +3404,7 @@ na Początku tury zyskuje do 500 Tarczy
 - HP jednostki nie spada poniżej 1
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Impaled Failure — id 90205
+#### Impaled Failure
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3449,25 +3423,25 @@ na Początku tury zyskuje do 500 Tarczy
 **Efekt Paniki:** Zyskaj 2 [Wzrost Obrażeń], 2 [Wrażliwość] oraz 2 [Wrażliwość na Rozdarcie]
 *Opis:* jednostka
 
-##### Umiejętność: Zderzenie — id 9020501
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Robienie Zamieszania — id 9020502
+##### Umiejętność: Robienie Zamieszania
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Desperackie Bicie — id 9020503
+##### Umiejętność: Desperackie Bicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kucnięcie — id 9020504
+##### Umiejętność: Kucnięcie
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3479,7 +3453,7 @@ na Początku tury zyskuje do 500 Tarczy
 
 po pierwszym przejściu w Oszołamienie efekt ten znika, a na Początku tury od następnej tury zyskuje 10 [Spadek Poziomu Obrony]
 
-#### Blooming Failure — id 90206
+#### Blooming Failure
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3498,25 +3472,25 @@ po pierwszym przejściu w Oszołamienie efekt ten znika, a na Początku tury od 
 **Efekt Paniki:** Zyskaj 2 [Wzrost Obrażeń], 2 [Wrażliwość] oraz 2 [Wrażliwość na Rozdarcie]
 *Opis:* jednostka
 
-##### Umiejętność: Zderzenie — id 9020601
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Robienie Zamieszania — id 9020602
+##### Umiejętność: Robienie Zamieszania
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Desperacka Salwa — id 9020603
+##### Umiejętność: Desperacka Salwa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kucnięcie — id 9020604
+##### Umiejętność: Kucnięcie
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3530,7 +3504,7 @@ po pierwszym przejściu w Oszołamienie efekt ten znika, a na Początku tury od 
 
 po pierwszym przejściu w Oszołamienie albo po spadnięciu efektu przywracania do minimum zyskuje 3 [Wrażliwość] na każdym Początku tury
 
-#### Entangled Failure — id 90207
+#### Entangled Failure
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3549,25 +3523,25 @@ po pierwszym przejściu w Oszołamienie albo po spadnięciu efektu przywracania 
 **Efekt Paniki:** Zyskaj 2 [Wzrost Obrażeń], 2 [Wrażliwość] oraz 2 [Wrażliwość na Rozdarcie]
 *Opis:* jednostka
 
-##### Umiejętność: Zderzenie — id 9020701
+##### Umiejętność: Zderzenie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Robienie Zamieszania — id 9020702
+##### Umiejętność: Robienie Zamieszania
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Desperackie Machanie — id 9020703
+##### Umiejętność: Desperackie Machanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kucnięcie — id 9020704
+##### Umiejętność: Kucnięcie
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3579,7 +3553,7 @@ po pierwszym przejściu w Oszołamienie albo po spadnięciu efektu przywracania 
 
 nie uruchamia się w Oszołamieniu
 
-#### Wicked Deathrite Monk — id 90208
+#### Wicked Deathrite Monk
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3600,25 +3574,25 @@ Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 *Opis:* jednostka
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem — id 9020801
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu — id 9020802
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci — id 9020803
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona — id 9020804
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3632,7 +3606,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 - **Proliferating Misfortune** — przy śmierci nakłada 10 [Złowieszczy Talizman] losowemu wrogowi bez [Złowieszczy Talizman]
 - jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
 
-#### Evil-possessed Deathrite Monk — id 90209
+#### Evil-possessed Deathrite Monk
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3653,31 +3627,31 @@ Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
 Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 *Opis:* jednostka
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem — id 9020901
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu — id 9020902
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Egzekucja — id 9020903
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Egzekucja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetny Wybuch — id 9020904
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetny Wybuch
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona — id 9020905
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3690,7 +3664,7 @@ Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (maks. 50%, min. 0%)
 - **Soul Siphon Technique** — na Początku tury, przy HP równym 50% lub mniej, poświęca losowego Wicked Deathrite Monk, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
 
-#### Heavy Shi Family Mercenary — id 90212
+#### Heavy Shi Family Mercenary
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3707,25 +3681,25 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie i Zgniot (×2) — id 9021201
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie i Zgniot (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Zgniatający Zamach (×2) — id 9021202
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Zgniatający Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Roztrzaskanie (×2) — id 9021203
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Roztrzaskanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Trzymanie Rytmu — id 9021204
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Trzymanie Rytmu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3739,7 +3713,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 - **Severe Overload** — Koniec tury: przy 5+ [Ładowanie], zyskuje 4 [Spadek Poziomu Obrony] i 3 [Wzrost Obrażeń] w następnej turze
 
-#### Furtive Podao Assailant — id 97801
+#### Furtive Podao Assailant
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3758,25 +3732,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamach — id 9019801
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Docisk — id 9019802
+##### Umiejętność: Docisk
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekucja Pękniętego Obrazu — id 9019803
+##### Umiejętność: Egzekucja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019804
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3790,7 +3764,7 @@ przy otrzymaniu trafienia podczas fazy walki: po wygranej w Starciu +20% obraże
 - **Focusing on Target** — przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Spadek Mocy Ataku] w następnej turze
 poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 
-#### Swift Podao Assailant — id 97802
+#### Swift Podao Assailant
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3809,25 +3783,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamiatanie — id 9019901
+##### Umiejętność: Zamiatanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przyściganie — id 9019902
+##### Umiejętność: Przyściganie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Utylizacja Pękniętego Obrazu — id 9019903
+##### Umiejętność: Utylizacja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3841,7 +3815,7 @@ przy otrzymaniu trafienia podczas fazy walki: po wygranej w Starciu +20% obraże
 - **Focusing on Target** — przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Spadek Mocy Ataku] w następnej turze
 poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 
-#### Large Podao Assailant — id 97803
+#### Large Podao Assailant
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3860,31 +3834,31 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Odbijające Cięcie — id 9020001
+##### Umiejętność: Odbijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Cięcie z Dociskiem — id 9020002
+##### Umiejętność: Cięcie z Dociskiem
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Fal — id 9020003
+##### Umiejętność: Cięcie Fal
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ukojenie Zagubionego Wierzchowca — id 9020004
+##### Umiejętność: Ukojenie Zagubionego Wierzchowca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9020005
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3901,7 +3875,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 - nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Wicked Deathrite Monk — id 97804
+#### Wicked Deathrite Monk
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3922,25 +3896,25 @@ Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
 *Opis:* jednostka
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem — id 9020801
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu — id 9020802
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci — id 9020803
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona — id 9020804
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3954,7 +3928,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 - **Proliferating Misfortune** — przy śmierci nakłada 10 [Złowieszczy Talizman] losowemu wrogowi bez [Złowieszczy Talizman]
 - jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
 
-#### Evil-possessed Deathrite Monk — id 97805
+#### Evil-possessed Deathrite Monk
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3975,31 +3949,31 @@ Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
 Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 *Opis:* jednostka
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem — id 9020901
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu — id 9020902
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Egzekucja — id 9020903
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Egzekucja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetny Wybuch — id 9020904
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetny Wybuch
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
 
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona — id 9020905
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Obrona
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4012,7 +3986,7 @@ Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
 wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (maks. 50%, min. 0%)
 - **Soul Siphon Technique** — na Początku tury, przy HP równym 50% lub mniej, poświęca losowego Wicked Deathrite Monk, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
 
-#### Swift Shi Family Mercenary — id 97806
+#### Swift Shi Family Mercenary
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -4029,25 +4003,25 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2) — id 9021001
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Machnięcie (×2) — id 9021002
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Machnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozgniotenie (×2) — id 9021003
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozgniotenie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm — id 9021004
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4061,7 +4035,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 - **Overload** — Koniec tury: przy 3+ [Ładowanie], zyskuje 3 [Spadek Poziomu Obrony] i 1 [Wzrost Obrażeń] w następnej turze
 
-#### Veteran Shi Family Mercenary — id 97807
+#### Veteran Shi Family Mercenary
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -4078,25 +4052,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2) — id 9021101
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Owinięcie (×2) — id 9021102
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Owinięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Wybuch (×2) — id 9021103
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Wybuch (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm — id 9021104
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4110,7 +4084,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 - **Overload** — Koniec tury: przy 3+ [Ładowanie], zyskuje 3 [Spadek Poziomu Obrony] i 1 [Wzrost Obrażeń] w następnej turze
 
-#### Heavy Shi Family Mercenary — id 97808
+#### Heavy Shi Family Mercenary
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -4127,25 +4101,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie i Zgniot — id 9021201
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie i Zgniot
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Zgniatający Zamach (×2) — id 9021202
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Zgniatający Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Roztrzaskanie (×2) — id 9021203
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Roztrzaskanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Trzymanie Rytmu — id 9021204
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Trzymanie Rytmu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4165,7 +4139,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 - **Fala 1:** Peccatulum Pigritiae?? ×1 (poz. 51); Peccatulum Pigritiae?? ×1 (poz. 51)
 
-#### Peccatulum Pigritiae?? — id 1080
+#### Peccatulum Pigritiae??
 
 *Wystąpienia: ×2 (poz. 51).*
 
@@ -4180,7 +4154,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Części (anatomia):**
 
-##### Korpus — id 108001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4192,37 +4166,35 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 *Opis:* Część
 
-##### Umiejętność: Kamienna Kąpiel — id 108001
+##### Umiejętność: Kamienna Kąpiel
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zbieranie Kamieni — id 108002
+##### Umiejętność: Zbieranie Kamieni
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wzrastające Lenistwo — id 108003
+##### Umiejętność: Wzrastające Lenistwo
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Garda — id 108004
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 8-23 · Cudza Sprawiedliwość
 
 - **Fala 1:** Peccatulum Pigritiae? ×1 (poz. 52); Peccatulum Pigritiae? ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52)
 
-#### Peccatulum Pigritiae? — id 1087
+#### Peccatulum Pigritiae?
 
 *Wystąpienia: ×2 (poz. 52).*
 
@@ -4235,7 +4207,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Części (anatomia):**
 
-##### Korpus — id 108701
+##### Korpus
 
 | Parametr           | Wartość                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------- |
@@ -4247,33 +4219,31 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 *Opis:* Część
 
-##### Umiejętność: Chwyt — id 815901
+##### Umiejętność: Chwyt
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Układanie Kamieni — id 815902
+##### Umiejętność: Układanie Kamieni
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Leniwy Zgniot — id 815903
+##### Umiejętność: Leniwy Zgniot
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Garda — id 815904
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Lenistwa — id 1086
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×3 (poz. 52).*
 
@@ -4288,7 +4258,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Części (anatomia):**
 
-##### Korpus — id 108601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4300,25 +4270,23 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 8-24 · Postępek Złodzieja
 
 - **Fala 1:** Swift Shi Family Mercenary ×1 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53); Veteran Shi Family Mercenary ×1 (poz. 53); Veteran Shi Family Mercenary ×1 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie)
 
-#### Swift Shi Family Mercenary — id 90210
+#### Swift Shi Family Mercenary
 
 *Wystąpienia: ×6 (poz. 53) · też jako wsparcie.*
 
@@ -4335,25 +4303,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2) — id 9021001
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Machnięcie (×2) — id 9021002
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Machnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozgniotenie (×2) — id 9021003
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozgniotenie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm — id 9021004
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4367,7 +4335,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 - **Overload** — Koniec tury: przy 3+ [Ładowanie], zyskuje 3 [Spadek Poziomu Obrony] i 1 [Wzrost Obrażeń] w następnej turze
 
-#### Veteran Shi Family Mercenary — id 90211
+#### Veteran Shi Family Mercenary
 
 *Wystąpienia: ×5 (poz. 53) · też jako wsparcie.*
 
@@ -4384,25 +4352,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2) — id 9021101
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Owinięcie (×2) — id 9021102
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Owinięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Wybuch (×2) — id 9021103
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Wybuch (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm — id 9021104
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4420,7 +4388,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 - **Fala 1:** Swift Shi Family Mercenary ×1 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53); Veteran Shi Family Mercenary ×1 (poz. 53); Veteran Shi Family Mercenary ×1 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie)
 
-#### Swift Shi Family Mercenary — id 90210
+#### Swift Shi Family Mercenary
 
 *Wystąpienia: ×6 (poz. 53) · też jako wsparcie.*
 
@@ -4437,25 +4405,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2) — id 9021001
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Machnięcie (×2) — id 9021002
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Machnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozgniotenie (×2) — id 9021003
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozgniotenie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm — id 9021004
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4469,7 +4437,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 - **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
 - **Overload** — Koniec tury: przy 3+ [Ładowanie], zyskuje 3 [Spadek Poziomu Obrony] i 1 [Wzrost Obrażeń] w następnej turze
 
-#### Veteran Shi Family Mercenary — id 90211
+#### Veteran Shi Family Mercenary
 
 *Wystąpienia: ×5 (poz. 53) · też jako wsparcie.*
 
@@ -4486,25 +4454,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2) — id 9021101
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Owinięcie (×2) — id 9021102
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Owinięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Wybuch (×2) — id 9021103
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Wybuch (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm — id 9021104
+##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rytm
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4522,7 +4490,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 - **Fala 1:** Furtive Podao Assailant ×1 (poz. 53); Furtive Podao Assailant ×1 (poz. 53); Furtive Podao Assailant ×1 (poz. 53); Swift Podao Assailant ×1 (poz. 53); Swift Podao Assailant ×1 (poz. 53); Furtive Podao Assailant ×1 (poz. 53) (wsparcie); Furtive Podao Assailant ×1 (poz. 53) (wsparcie); Furtive Podao Assailant ×1 (poz. 53) (wsparcie); Swift Podao Assailant ×1 (poz. 53) (wsparcie); Swift Podao Assailant ×1 (poz. 53) (wsparcie); Swift Podao Assailant ×1 (poz. 53) (wsparcie)
 
-#### Furtive Podao Assailant — id 90198
+#### Furtive Podao Assailant
 
 *Wystąpienia: ×6 (poz. 53) · też jako wsparcie.*
 
@@ -4541,25 +4509,25 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamach — id 9019801
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Docisk — id 9019802
+##### Umiejętność: Docisk
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekucja Pękniętego Obrazu — id 9019803
+##### Umiejętność: Egzekucja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019804
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4573,7 +4541,7 @@ przy otrzymaniu trafienia podczas fazy walki: po wygranej w Starciu +20% obraże
 - **Focusing on Target** — przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Spadek Mocy Ataku] w następnej turze
 poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 
-#### Swift Podao Assailant — id 90199
+#### Swift Podao Assailant
 
 *Wystąpienia: ×5 (poz. 53) · też jako wsparcie.*
 
@@ -4592,25 +4560,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamiatanie — id 9019901
+##### Umiejętność: Zamiatanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przyściganie — id 9019902
+##### Umiejętność: Przyściganie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Utylizacja Pękniętego Obrazu — id 9019903
+##### Umiejętność: Utylizacja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4628,7 +4596,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 - **Fala 1:** Furtive Podao Assailant ×1 (poz. 53); Furtive Podao Assailant ×1 (poz. 53); Furtive Podao Assailant ×1 (poz. 53); Swift Podao Assailant ×1 (poz. 53); Swift Podao Assailant ×1 (poz. 53); Furtive Podao Assailant ×1 (poz. 53) (wsparcie); Furtive Podao Assailant ×1 (poz. 53) (wsparcie); Furtive Podao Assailant ×1 (poz. 53) (wsparcie); Swift Podao Assailant ×1 (poz. 53) (wsparcie); Swift Podao Assailant ×1 (poz. 53) (wsparcie); Swift Podao Assailant ×1 (poz. 53) (wsparcie)
 
-#### Furtive Podao Assailant — id 90198
+#### Furtive Podao Assailant
 
 *Wystąpienia: ×6 (poz. 53) · też jako wsparcie.*
 
@@ -4647,25 +4615,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamach — id 9019801
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Docisk — id 9019802
+##### Umiejętność: Docisk
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Egzekucja Pękniętego Obrazu — id 9019803
+##### Umiejętność: Egzekucja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019804
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4679,7 +4647,7 @@ przy otrzymaniu trafienia podczas fazy walki: po wygranej w Starciu +20% obraże
 - **Focusing on Target** — przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Spadek Mocy Ataku] w następnej turze
 poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, nakłada w następnej turze o 1 więcej Siły [Krwawienie] i Licznika [Krwawienie]
 
-#### Swift Podao Assailant — id 90199
+#### Swift Podao Assailant
 
 *Wystąpienia: ×5 (poz. 53) · też jako wsparcie.*
 
@@ -4698,25 +4666,25 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* jednostka
 
-##### Umiejętność: Zamiatanie — id 9019901
+##### Umiejętność: Zamiatanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przyściganie — id 9019902
+##### Umiejętność: Przyściganie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Utylizacja Pękniętego Obrazu — id 9019903
+##### Umiejętność: Utylizacja Pękniętego Obrazu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9019904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4734,7 +4702,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 - **Fala 1:** Stern Soldato of the Thumb ×1 (poz. 54); Stern Soldato of the Thumb ×1 (poz. 54); Stern Soldato of the Thumb ×1 (poz. 54); Rigid Soldato of the Thumb ×1 (poz. 54); Rigid Soldato of the Thumb ×1 (poz. 54); Rigid Soldato of the Thumb ×1 (poz. 54); Stern Soldato of the Thumb ×1 (poz. 54) (wsparcie); Stern Soldato of the Thumb ×1 (poz. 54) (wsparcie); Stern Soldato of the Thumb ×1 (poz. 54) (wsparcie); Rigid Soldato of the Thumb ×1 (poz. 54) (wsparcie); Rigid Soldato of the Thumb ×1 (poz. 54) (wsparcie); Rigid Soldato of the Thumb ×1 (poz. 54) (wsparcie)
 
-#### Stern Soldato of the Thumb — id 90217
+#### Stern Soldato of the Thumb
 
 *Wystąpienia: ×6 (poz. 54) · też jako wsparcie.*
 
@@ -4755,19 +4723,19 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
-##### Umiejętność: Głuszący Sztych (×2) — id 9021701
+##### Umiejętność: Głuszący Sztych (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Płonący Sztych (×2) — id 9021702
+##### Umiejętność: Płonący Sztych (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Cięcie na Napędzie — id 9021703
+##### Umiejętność: Cięcie na Napędzie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4780,7 +4748,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
 jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następnej turze nakłada 2 [Wstrząs] przy trafieniu Umiejętnością po wygranej w Starciu (2 razy na turę)
 - **Regola Infranta** — jeżeli został pokonany co najmniej 1 sojusznik, zyskuje 1 [Wzrost Mocy Starcia] od następnej tury
 
-#### Rigid Soldato of the Thumb — id 90218
+#### Rigid Soldato of the Thumb
 
 *Wystąpienia: ×6 (poz. 54) · też jako wsparcie.*
 
@@ -4801,19 +4769,19 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
-##### Umiejętność: Głuszące Przebicie (×2) — id 9021801
+##### Umiejętność: Głuszące Przebicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Płonące Przebicie (×2) — id 9021802
+##### Umiejętność: Płonące Przebicie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie na Napędzie — id 9021803
+##### Umiejętność: Rozcięcie na Napędzie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4830,7 +4798,7 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 - **Fala 1:** Stern Soldato of the Thumb ×1 (poz. 54); Stern Soldato of the Thumb ×1 (poz. 54); Stern Soldato of the Thumb ×1 (poz. 54); Rigid Soldato of the Thumb ×1 (poz. 54); Rigid Soldato of the Thumb ×1 (poz. 54); Rigid Soldato of the Thumb ×1 (poz. 54); Stern Soldato of the Thumb ×1 (poz. 54) (wsparcie); Stern Soldato of the Thumb ×1 (poz. 54) (wsparcie); Stern Soldato of the Thumb ×1 (poz. 54) (wsparcie); Rigid Soldato of the Thumb ×1 (poz. 54) (wsparcie); Rigid Soldato of the Thumb ×1 (poz. 54) (wsparcie); Rigid Soldato of the Thumb ×1 (poz. 54) (wsparcie)
 
-#### Stern Soldato of the Thumb — id 90217
+#### Stern Soldato of the Thumb
 
 *Wystąpienia: ×6 (poz. 54) · też jako wsparcie.*
 
@@ -4851,19 +4819,19 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
-##### Umiejętność: Głuszący Sztych (×2) — id 9021701
+##### Umiejętność: Głuszący Sztych (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Płonący Sztych (×2) — id 9021702
+##### Umiejętność: Płonący Sztych (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Cięcie na Napędzie — id 9021703
+##### Umiejętność: Cięcie na Napędzie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4876,7 +4844,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
 jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następnej turze nakłada 2 [Wstrząs] przy trafieniu Umiejętnością po wygranej w Starciu (2 razy na turę)
 - **Regola Infranta** — jeżeli został pokonany co najmniej 1 sojusznik, zyskuje 1 [Wzrost Mocy Starcia] od następnej tury
 
-#### Rigid Soldato of the Thumb — id 90218
+#### Rigid Soldato of the Thumb
 
 *Wystąpienia: ×6 (poz. 54) · też jako wsparcie.*
 
@@ -4897,19 +4865,19 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
-##### Umiejętność: Głuszące Przebicie (×2) — id 9021801
+##### Umiejętność: Głuszące Przebicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Płonące Przebicie (×2) — id 9021802
+##### Umiejętność: Płonące Przebicie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie na Napędzie — id 9021803
+##### Umiejętność: Rozcięcie na Napędzie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4926,7 +4894,7 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 - **Fala 1:** Lei Heng ×1 (poz. 83); Stern Soldato of the Thumb ×2 (poz. 55) (wsparcie)
 
-#### Lei Heng — id 1145
+#### Lei Heng
 
 *Wystąpienia: ×1 (poz. 83).*
 
@@ -4947,7 +4915,7 @@ Początek Tury: zyskaj 1 [Wzmocnienie Monet Plus], 2 [Wzrost Obrażeń] i 2 [Wra
 
 **Części (anatomia):**
 
-##### Korpus — id 114501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                            |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -4959,49 +4927,49 @@ Początek Tury: zyskaj 1 [Wzmocnienie Monet Plus], 2 [Wzrost Obrażeń] i 2 [Wra
 
 *Opis:* Część
 
-##### Umiejętność: Podwójne Cięcie — id 114501
+##### Umiejętność: Podwójne Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Potrójne Cięcie — id 114502
+##### Umiejętność: Potrójne Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Podwójne Cięcie - Wybuch [爆] — id 114503
+##### Umiejętność: Podwójne Cięcie - Wybuch [爆]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Potrójne Cięcie - Wybuch [爆] — id 114504
+##### Umiejętność: Potrójne Cięcie - Wybuch [爆]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wybuchowe Cięcie Roztrzaskujące [爆碎斬] — id 114505
+##### Umiejętność: Wybuchowe Cięcie Roztrzaskujące [爆碎斬]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Tanglecleaver [快刀亂麻] — id 114506
+##### Umiejętność: Tanglecleaver [快刀亂麻]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          8 |        +12 |      1 |    1 |
 
-##### Umiejętność: Najdziksze Wybuchowe Szaleństwo Rzeźnika Tygrysów [超絕猛虎殺擊亂斬] — id 114507
+##### Umiejętność: Najdziksze Wybuchowe Szaleństwo Rzeźnika Tygrysów [超絕猛虎殺擊亂斬]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      6 |    3 |
 
-##### Umiejętność: Przeładowanie Ostrza Gwiazdy Tianhui — id 114508
+##### Umiejętność: Przeładowanie Ostrza Gwiazdy Tianhui
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5055,7 +5023,7 @@ na Początku walki, jeżeli ta jednostka ma 3+ [Spętanie], powyższy efekt nie 
 - [Gwiazda Tianhui [天退星]] zmienia się w [Shin (心) - Gwiazda Tiantui [天退星]]
 - jeżeli jest w Oszołamieniu, dochodzi do siebie z Oszołamienia
 
-#### Stern Soldato of the Thumb — id 1171
+#### Stern Soldato of the Thumb
 
 *Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
 
@@ -5078,7 +5046,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
 
 **Części (anatomia):**
 
-##### Korpus — id 117101
+##### Korpus
 
 | Parametr           | Wartość                                                           |
 | ------------------ | ----------------------------------------------------------------- |
@@ -5090,7 +5058,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
 
 *Opis:* Część
 
-##### Umiejętność: Wsparcie Znaku Wściekłego Tygrysa — id 117101
+##### Umiejętność: Wsparcie Znaku Wściekłego Tygrysa
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5107,7 +5075,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 - **Fala 1:** N Corp. E.G.O::Contempt, Awe Jia Huan ×1 (poz. 70); N Corp. E.G.O::Fell Bullet Gubo ×1 (poz. 58); Swift N Corp. E.G.O::Sticking ×1 (poz. 50); Nimble N Corp. E.G.O::Sticking ×1 (poz. 50); Nimble N Corp. E.G.O::Sticking ×1 (poz. 50)
 
-#### N Corp. E.G.O::Contempt, Awe Jia Huan — id 1135
+#### N Corp. E.G.O::Contempt, Awe Jia Huan
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -5124,7 +5092,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 2 [Wrażliwość]
 **Części (anatomia):**
 
-##### Korpus — id 113501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                            |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -5136,49 +5104,49 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 *Opis:* Część
 
-##### Umiejętność: Pogarda — id 113501
+##### Umiejętność: Pogarda
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uwielbienie — id 113502
+##### Umiejętność: Uwielbienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Pogarda, Uwielbienie 【Uwolnienie】 — id 113503
+##### Umiejętność: Pogarda, Uwielbienie 【Uwolnienie】
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Rzecz Pełna Pogardy — id 113504
+##### Umiejętność: Rzecz Pełna Pogardy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Oddaj Cześć — id 113505
+##### Umiejętność: Oddaj Cześć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         14 |         −4 |      2 |    1 |
 
-##### Umiejętność: Musisz To Przyjąć — id 113506
+##### Umiejętność: Musisz To Przyjąć
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Uwielbienie, Pogarda 【Uwolnienie】 — id 113507
+##### Umiejętność: Uwielbienie, Pogarda 【Uwolnienie】
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +9 |      1 |    1 |
 
-##### Umiejętność: Spiralne Pole Zawinięcia — id 113508
+##### Umiejętność: Spiralne Pole Zawinięcia
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5189,7 +5157,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 - **E.G.O Corrosion - N Corp.** — po dołączeniu do tej walki zyskuje 1 [Korozja E.G.O - Korporacja N] z każdym upływającym końcem tury
 - na koniec tury, jeżeli HP jest niższe niż 50% Maks. HP albo SP wynosi -20 lub mniej, zyskuje dodatkowe 1 [Korozja E.G.O - Korporacja N]
 
-#### N Corp. E.G.O::Fell Bullet Gubo — id 1136
+#### N Corp. E.G.O::Fell Bullet Gubo
 
 *Wystąpienia: ×1 (poz. 58).*
 
@@ -5206,7 +5174,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 **Efekt Paniki:** Przy Trafieniu: nałóż 3 [Zatonięcie] i zyskaj 1 [Zatonięcie]
 **Części (anatomia):**
 
-##### Korpus — id 113601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5218,37 +5186,37 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 *Opis:* Część
 
-##### Umiejętność: Ostrzał z Przodu — id 113601
+##### Umiejętność: Ostrzał z Przodu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ostrzał z Tyłu — id 113602
+##### Umiejętność: Ostrzał z Tyłu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pocisk Rozszczepiony Sigilami — id 113603
+##### Umiejętność: Pocisk Rozszczepiony Sigilami
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |         15 |         −4 |      2 |    2 |
 
-##### Umiejętność: Pocisk Skąpany we Krwi Towarzysza — id 113604
+##### Umiejętność: Pocisk Skąpany we Krwi Towarzysza
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |         16 |         −4 |      2 |    5 |
 
-##### Umiejętność: Pocisk Rozbijający Wspomnienia — id 113605
+##### Umiejętność: Pocisk Rozbijający Wspomnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +3 |      4 |    5 |
 
-##### Umiejętność: Walka Wręcz — id 113606
+##### Umiejętność: Walka Wręcz
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5259,7 +5227,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 - **E.G.O Corrosion - N Corp.** — po dołączeniu do tej walki zyskuje 1 [Korozja E.G.O - Korporacja N] z każdym upływającym końcem tury
 - na koniec tury, jeżeli HP jest niższe niż 50% Maks. HP albo SP wynosi -20 lub mniej, zyskuje dodatkowe 1 [Korozja E.G.O - Korporacja N]
 
-#### Swift N Corp. E.G.O::Sticking — id 1139
+#### Swift N Corp. E.G.O::Sticking
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -5278,7 +5246,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 **Części (anatomia):**
 
-##### Korpus — id 113901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5290,25 +5258,25 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 *Opis:* Część
 
-##### Umiejętność: Wybuch Ran — id 9021301
+##### Umiejętność: Wybuch Ran
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zaplecenie Ran — id 9021302
+##### Umiejętność: Zaplecenie Ran
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Roztapianie Mięsa — id 9021303
+##### Umiejętność: Roztapianie Mięsa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rzucający Cień — id 9021304
+##### Umiejętność: Rzucający Cień
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5319,7 +5287,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 - **E.G.O Corrosion - N Corp.** — po dołączeniu do tej walki zyskuje 1 [Korozja E.G.O - Korporacja N] z każdym upływającym końcem tury
 - na koniec tury, jeżeli HP jest niższe niż 50% Maks. HP albo SP wynosi -20 lub mniej, zyskuje dodatkowe 1 [Korozja E.G.O - Korporacja N]
 
-#### Nimble N Corp. E.G.O::Sticking — id 1140
+#### Nimble N Corp. E.G.O::Sticking
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -5338,7 +5306,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 **Części (anatomia):**
 
-##### Korpus — id 114001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5350,25 +5318,25 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 *Opis:* Część
 
-##### Umiejętność: Rozdzieranie Ran — id 9021401
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Brush Wounds — id 9021402
+##### Umiejętność: Brush Wounds
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Dzieranie Mięsa — id 9021403
+##### Umiejętność: Dzieranie Mięsa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rzucający Cień — id 9021404
+##### Umiejętność: Rzucający Cień
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5383,7 +5351,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 - **Fala 1:** Jia Mu ×1 (poz. 55); Muddled Heishou of the Corpse Palanquin [混覺轀輬黑獸] ×1 (poz. 55) (wsparcie); Baoyu, the Precious Jade ×1 (poz. 55) (wsparcie); Heavenly Elder ×1 (poz. 55) (wsparcie); Earthly Elder ×1 (poz. 55) (wsparcie); Brain Elder ×1 (poz. 55) (wsparcie)
 
-#### Jia Mu — id 1146
+#### Jia Mu
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -5402,7 +5370,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 - Gdy Korpus przegra Starcie z Hong Lu: w następnej turze Korpus zyskuje 2 [Wzrost Obrażeń] i 2 [Wrażliwość] (raz na turę)
 **Części (anatomia):**
 
-##### Korpus — id 114601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5414,37 +5382,37 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 *Opis:* Część
 
-##### Umiejętność: Completed Heixian Bolus - Wei [未] — id 114601
+##### Umiejętność: Completed Heixian Bolus - Wei [未]
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Completed Heixian Bolus - Yin [寅] — id 114602
+##### Umiejętność: Completed Heixian Bolus - Yin [寅]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Completed Heixian Bolus - Si [巳] — id 114603
+##### Umiejętność: Completed Heixian Bolus - Si [巳]
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +4 |      2 |    2 |
 
-##### Umiejętność: Completed Heixian Bolus - You [酉] — id 114604
+##### Umiejętność: Completed Heixian Bolus - You [酉]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Completed Heixian Bolus - Hun [混] — id 114605
+##### Umiejętność: Completed Heixian Bolus - Hun [混]
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +4 |      3 |    4 |
 
-##### Umiejętność: Completed Heixian Bolus - You [酉] - Defense — id 114606
+##### Umiejętność: Completed Heixian Bolus - You [酉] - Defense
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5459,7 +5427,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 przy dochodzeniu do siebie z Paniki zyskuje 2 [Wzrost Mocy Ataku] i 2 [Wzrost Mocy Obrony] w następnej turze; jeżeli Hong Lu ma [Puste Uposłuszeństwo], przywraca 15 SP
 
-#### Muddled Heishou of the Corpse Palanquin [混覺轀輬黑獸] — id 1152
+#### Muddled Heishou of the Corpse Palanquin [混覺轀輬黑獸]
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5480,7 +5448,7 @@ Jednostki stworzone przez tę jednostkę zyskują 6 [Spadek Poziomu Obrony]
 Zadawane obrażenia +30%. Jeśli PŻ Lektyki spadną do 0, zamiast tego zadawane obrażenia -15%
 **Części (anatomia):**
 
-##### Korpus — id 115201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5492,7 +5460,7 @@ Zadawane obrażenia +30%. Jeśli PŻ Lektyki spadną do 0, zamiast tego zadawane
 
 *Opis:* Część
 
-##### Palanquin — id 115202
+##### Palanquin
 
 | Parametr           | Wartość                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5502,85 +5470,85 @@ Zadawane obrażenia +30%. Jeśli PŻ Lektyki spadną do 0, zamiast tego zadawane
 | Progi oszołomienia | 30% / 0%                                                                                                                                                                 |
 | Odporności         | Cięcie ×1,2; Kłucie ×1,2; Obuch ×1,2; Żądza ×1,2; Lenistwo ×0,75 (Endured); Obżar. ×1,25; Posępność ×0,75 (Endured); Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Kołyska z Klejnotów [寶玉搖籃] — id 115201
+##### Umiejętność: Kołyska z Klejnotów [寶玉搖籃]
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Nadprzyrodzona Siła, Chaos i Duchy - Yin Si You [寅巳酉] — id 115202
+##### Umiejętność: Nadprzyrodzona Siła, Chaos i Duchy - Yin Si You [寅巳酉]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wciąż nie znacie otchłani mocy tego oka, jego wyjątkowości — id 115203
+##### Umiejętność: Wciąż nie znacie otchłani mocy tego oka, jego wyjątkowości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    3 |
 
-##### Umiejętność: Proszę, Bądźcie mi świadkami, O Xianren...! — id 115204
+##### Umiejętność: Proszę, Bądźcie mi świadkami, O Xianren...!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: You do not know the fate of a Hierarch without the Xianren's care! — id 115205
+##### Umiejętność: You do not know the fate of a Hierarch without the Xianren's care!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +5 |      3 |    7 |
 
-##### Umiejętność: Nadaremny Wysiłek...! — id 115206
+##### Umiejętność: Nadaremny Wysiłek...!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: I tak nie możesz nic zrobić — id 115207
+##### Umiejętność: I tak nie możesz nic zrobić
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |        +12 |      1 |    1 |
 
-##### Umiejętność: Hierarchini bez błogosławieństwa Xianren to tylko imię; umrze śmiercią robaka!!! — id 115208
+##### Umiejętność: Hierarchini bez błogosławieństwa Xianren to tylko imię; umrze śmiercią robaka!!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      2 |    3 |
 
-##### Umiejętność: Bądź Wyróżniony moją Audiencją — id 115209
+##### Umiejętność: Bądź Wyróżniony moją Audiencją
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |        +10 |      1 |    7 |
 
-##### Umiejętność: Bądź z tą dziewczynką, O Xianren — id 115210
+##### Umiejętność: Bądź z tą dziewczynką, O Xianren
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: O Xianren...! — id 115211
+##### Umiejętność: O Xianren...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |        +10 |      1 |    7 |
 
-##### Umiejętność: Proszę, dodajcie mi sił, Shi Miyin! — id 115212
+##### Umiejętność: Proszę, dodajcie mi sił, Shi Miyin!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ofiara z Ekstremalnie Wyciśniętej Nieśmiertelności [極仙榨滴供養] — id 115213
+##### Umiejętność: Ofiara z Ekstremalnie Wyciśniętej Nieśmiertelności [極仙榨滴供養]
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         12 |        +10 |      1 |   13 |
 
-##### Umiejętność: Nadaremny Wysiłek...! — id 115214
+##### Umiejętność: Nadaremny Wysiłek...!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5602,7 +5570,7 @@ przy dochodzeniu do siebie z Paniki:
 - **-** — HP nie spada poniżej 50%
 - **-** — HP nie spada poniżej 20%
 
-#### Baoyu, the Precious Jade — id 1153
+#### Baoyu, the Precious Jade
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5615,7 +5583,7 @@ przy dochodzeniu do siebie z Paniki:
 
 **Części (anatomia):**
 
-##### Jade — id 115301
+##### Jade
 
 | Parametr   | Wartość                                                                      |
 | ---------- | ---------------------------------------------------------------------------- |
@@ -5624,19 +5592,19 @@ przy dochodzeniu do siebie z Paniki:
 | Szybkość   | 2–4                                                                          |
 | Odporności | Żądza ×1,5 (Weak); Obżar. ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Składam Uczciwe Pozdrowienia — id 115301
+##### Umiejętność: Składam Uczciwe Pozdrowienia
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Będę grzeczna — id 115302
+##### Umiejętność: Będę grzeczna
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Dostarczę Wam Rozrywki — id 115303
+##### Umiejętność: Dostarczę Wam Rozrywki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5655,7 +5623,7 @@ przy dochodzeniu do siebie z Paniki:
 - postać uwięziona w tej jednostce przywraca SP do 45. przy powrocie zyskuje 2 [Wzrost Mocy Ataku]
 - zyskuje po 3 zasobów E.G.O każdej Afinności
 
-#### Heavenly Elder — id 1154
+#### Heavenly Elder
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5668,7 +5636,7 @@ przy dochodzeniu do siebie z Paniki:
 
 **Części (anatomia):**
 
-##### Korpus — id 115401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5680,13 +5648,13 @@ przy dochodzeniu do siebie z Paniki:
 
 *Opis:* Część
 
-##### Umiejętność: Spraw mi Przyjemność (×2) — id 115402
+##### Umiejętność: Spraw mi Przyjemność (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Potrzebuję więcej wigoru... — id 115405
+##### Umiejętność: Potrzebuję więcej wigoru...
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5700,7 +5668,7 @@ przy dochodzeniu do siebie z Paniki:
 przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Nieśmiertelność]
 - **Knowledge of Immortality** — jeżeli przy otrzymaniu trafienia HP tej jednostki spadnie do 1, przywraca 10 SP Grzesznikowi, który ją zaatakował; następnie zyskuje 3 losowe zasoby E.G.O najsłabiej posiadanych Afinności Grzechu (uruchamia się 1 raz, dopóki ta jednostka żyje)
 
-#### Earthly Elder — id 1155
+#### Earthly Elder
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5713,7 +5681,7 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 
 **Części (anatomia):**
 
-##### Korpus — id 115401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5725,19 +5693,19 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 
 *Opis:* Część
 
-##### Umiejętność: Daj mi swój wigor (×2) — id 115401
+##### Umiejętność: Daj mi swój wigor (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Mądra Rada Xianren — id 115403
+##### Umiejętność: Mądra Rada Xianren
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Potrzebuję więcej wigoru... — id 115405
+##### Umiejętność: Potrzebuję więcej wigoru...
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5751,7 +5719,7 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Nieśmiertelność]
 - **Knowledge of Immortality** — jeżeli przy otrzymaniu trafienia HP tej jednostki spadnie do 1, przywraca 10 SP Grzesznikowi, który ją zaatakował; następnie zyskuje 3 losowe zasoby E.G.O najsłabiej posiadanych Afinności Grzechu (uruchamia się 1 raz, dopóki ta jednostka żyje)
 
-#### Brain Elder — id 1156
+#### Brain Elder
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -5764,7 +5732,7 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 
 **Części (anatomia):**
 
-##### Korpus — id 115401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5776,19 +5744,19 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 
 *Opis:* Część
 
-##### Umiejętność: Daj mi swój wigor — id 115401
+##### Umiejętność: Daj mi swój wigor
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Prawdziwa Rada Xianren — id 115404
+##### Umiejętność: Prawdziwa Rada Xianren
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +8 |      1 |    1 |
 
-##### Umiejętność: Potrzebuję więcej wigoru... — id 115405
+##### Umiejętność: Potrzebuję więcej wigoru...
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5804,7 +5772,7 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 
 ## Pula Canto VIII · część 3 (`a1c8p3`) — jednostki bez przypisanego etapu
 
-#### Swift N Corp. E.G.O::Sticking — id 90213
+#### Swift N Corp. E.G.O::Sticking
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5823,25 +5791,25 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 **Efekt Paniki:** Początek Tury: zyskaj 10 [Krwawienie] i 2 [Wzrost Mocy Ataku].
 *Opis:* Korpus
 
-##### Umiejętność: Wybuch Ran (×2) — id 9021301
+##### Umiejętność: Wybuch Ran (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zaplecenie Ran (×2) — id 9021302
+##### Umiejętność: Zaplecenie Ran (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Roztapianie Mięsa — id 9021303
+##### Umiejętność: Roztapianie Mięsa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rzucający Cień (×3) — id 9021304
+##### Umiejętność: Rzucający Cień (×3)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5853,7 +5821,7 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 na etapie początku walki, jeżeli sojusznik z [Oddech] zada wrogowi trafienie krytyczne Umiejętnością, na następnym Początku tury nakłada losowemu sojusznikowi 5 Siły [Oddech] i 2 Licznika [Oddech]. (uruchamia się 1 raz na turę)
 - **Tasty Flesh** — przy 50% HP lub mniej: przy trafieniu wrogów z [Krwawienie], przywraca 1% całkowitego HP za każdy [Krwawienie] celu (maks. 10%; 1 raz na walkę)
 
-#### Nimble N Corp. E.G.O::Sticking — id 90214
+#### Nimble N Corp. E.G.O::Sticking
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5872,25 +5840,25 @@ na etapie początku walki, jeżeli sojusznik z [Oddech] zada wrogowi trafienie k
 **Efekt Paniki:** Początek Tury: zyskaj 10 [Krwawienie] i 2 [Wzrost Mocy Ataku].
 *Opis:* Część
 
-##### Umiejętność: Rozdzieranie Ran (×2) — id 9021401
+##### Umiejętność: Rozdzieranie Ran (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Brush Wounds (×2) — id 9021402
+##### Umiejętność: Brush Wounds (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Dzieranie Mięsa — id 9021403
+##### Umiejętność: Dzieranie Mięsa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rzucający Cień (×3) — id 9021404
+##### Umiejętność: Rzucający Cień (×3)
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |

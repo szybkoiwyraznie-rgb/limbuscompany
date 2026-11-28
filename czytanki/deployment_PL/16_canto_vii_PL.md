@@ -9,7 +9,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 1:** Peccatulum Pychy ×2 (poz. 46); Peccatulum Żądzy ×2 (poz. 46)
 - **Fala 2:** Peccatulum Luxuriae? ×2 (poz. 46); Peccatulum Superbiae? ×2 (poz. 46)
 
-#### Peccatulum Pychy — id 8393
+#### Peccatulum Pychy
 
 *Wystąpienia: ×2 (poz. 46).*
 
@@ -24,7 +24,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 839301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -36,21 +36,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 806901
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 806902
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 8392
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×2 (poz. 46).*
 
@@ -65,7 +63,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 839201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -77,21 +75,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 806801
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 806802
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Luxuriae? — id 8373
+#### Peccatulum Luxuriae?
 
 *Wystąpienia: ×2 (poz. 46).*
 
@@ -106,7 +102,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 837301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -118,33 +114,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przygniecenie — id 837301
+##### Umiejętność: Przygniecenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przebite Pożądanie — id 837302
+##### Umiejętność: Przebite Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Stłumione Pożądanie — id 837303
+##### Umiejętność: Stłumione Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Garda — id 837304
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Superbiae? — id 8374
+#### Peccatulum Superbiae?
 
 *Wystąpienia: ×2 (poz. 46).*
 
@@ -159,7 +153,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 837401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -171,37 +165,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Mielenie — id 837401
+##### Umiejętność: Mielenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozgniotenie — id 837402
+##### Umiejętność: Rozgniotenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Dumny Zgniot — id 837403
+##### Umiejętność: Dumny Zgniot
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Kontra — id 837404
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 7-2 · O TYM, JAK LIMBUS COMPANY PO RAZ NIEZUPEŁNIE PIERWSZY ZE SKRZYDŁEM WSPÓŁPRACUJE
 
 - **Fala 1:** Hurting Teddy Bear ×1 (poz. 48)
 
-#### Hurting Teddy Bear — id 8379
+#### Hurting Teddy Bear
 
 *Wystąpienia: ×1 (poz. 48).*
 
@@ -216,7 +208,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 837901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                           |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -228,55 +220,53 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wyrażenie Miłości — id 837901
+##### Umiejętność: Wyrażenie Miłości
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Drapanie — id 837902
+##### Umiejętność: Drapanie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dzikie Drapanie — id 837903
+##### Umiejętność: Dzikie Drapanie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nieśmiałe Wyrażenie Miłości — id 837904
+##### Umiejętność: Nieśmiałe Wyrażenie Miłości
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Brutalne Wyrażenie Miłości — id 837905
+##### Umiejętność: Brutalne Wyrażenie Miłości
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Smutny Uścisk — id 837906
+##### Umiejętność: Smutny Uścisk
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Tęskniony Uścisk Dawnych Czasów — id 837907
+##### Umiejętność: Tęskniony Uścisk Dawnych Czasów
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    6 |
 
-**Pasywki:** brak
-
 ### Etap 7-3 · O TYM, JAK GRZESZNICY OBYCZAJEM MIASTA UZNANIE WŚRÓD FIKSERÓW ZDOBYWAJĄ
 
 - **Fala 1:** Combative Fanghunt Office Fixer ×3 (poz. 40); Prideful Fanghunt Office Fixer ×1 (poz. 40); Combative Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Prideful Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Combative Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Combative Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Prideful Fanghunt Office Fixer ×1 (poz. 40) (wsparcie)
 
-#### Combative Fanghunt Office Fixer — id 90156
+#### Combative Fanghunt Office Fixer
 
 *Wystąpienia: ×6 (poz. 40) · też jako wsparcie.*
 
@@ -295,25 +285,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Rozbicie — id 9015601
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zgniot Ran — id 9015602
+##### Umiejętność: Zgniot Ran
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Dzikie Machanie — id 9015603
+##### Umiejętność: Dzikie Machanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zastopowanie Krwawienia — id 9015604
+##### Umiejętność: Zastopowanie Krwawienia
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -327,7 +317,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Styptics** — Koniec tury: jeżeli ta jednostka ma [Krwawienie], traci 1 Licznika [Krwawienie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Prideful Fanghunt Office Fixer — id 90157
+#### Prideful Fanghunt Office Fixer
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -346,25 +336,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Rozbicie — id 9015701
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zgniot Ran — id 9015702
+##### Umiejętność: Zgniot Ran
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Dzikie Machanie — id 9015703
+##### Umiejętność: Dzikie Machanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zastopowanie Krwawienia — id 9015704
+##### Umiejętność: Zastopowanie Krwawienia
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -382,7 +372,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Combative Fanghunt Office Fixer ×3 (poz. 40); Prideful Fanghunt Office Fixer ×1 (poz. 40); Combative Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Prideful Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Combative Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Combative Fanghunt Office Fixer ×1 (poz. 40) (wsparcie); Prideful Fanghunt Office Fixer ×1 (poz. 40) (wsparcie)
 
-#### Combative Fanghunt Office Fixer — id 90156
+#### Combative Fanghunt Office Fixer
 
 *Wystąpienia: ×6 (poz. 40) · też jako wsparcie.*
 
@@ -401,25 +391,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Rozbicie — id 9015601
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zgniot Ran — id 9015602
+##### Umiejętność: Zgniot Ran
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Dzikie Machanie — id 9015603
+##### Umiejętność: Dzikie Machanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zastopowanie Krwawienia — id 9015604
+##### Umiejętność: Zastopowanie Krwawienia
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -433,7 +423,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Styptics** — Koniec tury: jeżeli ta jednostka ma [Krwawienie], traci 1 Licznika [Krwawienie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Prideful Fanghunt Office Fixer — id 90157
+#### Prideful Fanghunt Office Fixer
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -452,25 +442,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Rozbicie — id 9015701
+##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zgniot Ran — id 9015702
+##### Umiejętność: Zgniot Ran
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Dzikie Machanie — id 9015703
+##### Umiejętność: Dzikie Machanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zastopowanie Krwawienia — id 9015704
+##### Umiejętność: Zastopowanie Krwawienia
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -488,7 +478,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Cinq West Section 3 Camille ×1 (poz. 45)
 
-#### Cinq West Section 3 Camille — id 8371
+#### Cinq West Section 3 Camille
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -507,7 +497,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 837101
+##### Korpus
 
 | Parametr           | Wartość                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -519,49 +509,47 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Allez — id 837101
+##### Umiejętność: Allez
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Coup Droit — id 837102
+##### Umiejętność: Coup Droit
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Fente — id 837103
+##### Umiejętność: Fente
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Salut — id 837104
+##### Umiejętność: Salut
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      4 |    1 |
 
-##### Umiejętność: Paryzacja — id 837105
+##### Umiejętność: Paryzacja
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Défensive — id 837106
+##### Umiejętność: Défensive
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          3 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 7-8 · O WESOŁEJ OBIETNICY MIĘDZY KIEROWCĄ AUTOBUSU A KIEROWNIKIEM W SPRAWIE WESOŁEGO MIASTECZKA
 
 - **Fala 1:** The Priest ×1 (poz. 70); The Barber ×1 (poz. 70); Dulcinea ×1 (poz. 85)
 
-#### The Priest — id 8378
+#### The Priest
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -580,7 +568,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 837801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -592,49 +580,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grzech, którego Nie Wybaczą... — id 837801
+##### Umiejętność: Grzech, którego Nie Wybaczą...
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zasłużona Pokuta... — id 837802
+##### Umiejętność: Zasłużona Pokuta...
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Myślałeś Dziś o Krwi? — id 837803
+##### Umiejętność: Myślałeś Dziś o Krwi?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wciąż myślisz o krwi? — id 837804
+##### Umiejętność: Wciąż myślisz o krwi?
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Więcej, więcej krwi...! — id 837805
+##### Umiejętność: Więcej, więcej krwi...!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Jakże Obfita... — id 837806
+##### Umiejętność: Jakże Obfita...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Pojednanie dla Rodziny — id 837807
+##### Umiejętność: Pojednanie dla Rodziny
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |         10 |         +4 |      1 |    1 |
 
-##### Umiejętność: Krwi... — id 837808
+##### Umiejętność: Krwi...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -646,7 +634,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Bloodfeast** — jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [Krwawa Uczta] rośnie o łączną wartość obrażeń [Krwawienie] otrzymanych przez wszystkie jednostki.
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wypływa na powierzchnię.
 
-#### The Barber — id 8395
+#### The Barber
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -665,7 +653,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 839501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -677,37 +665,37 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Poszatkuję Cię Pięknie! — id 837201
+##### Umiejętność: Poszatkuję Cię Pięknie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Jeszcze Ostrościej — id 837202
+##### Umiejętność: Jeszcze Ostrościej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: CIACH!! — id 837203
+##### Umiejętność: CIACH!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Teraz Twoja Kolej — id 837205
+##### Umiejętność: Teraz Twoja Kolej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Poszatkuję Was Wspólnie! — id 837206
+##### Umiejętność: Poszatkuję Was Wspólnie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      4 |    1 |
 
-##### Umiejętność: Brzydkie Rzeczy Mi Niepotrzebne!! — id 837208
+##### Umiejętność: Brzydkie Rzeczy Mi Niepotrzebne!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -727,7 +715,7 @@ po zmianie wzorca zyskuje co turę 10 [Krwawienie] i 2 [Zakrwawione Ostrza Noży
 - **Bloodfeast** — jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [Krwawa Uczta] rośnie o łączną wartość obrażeń [Krwawienie] otrzymanych przez wszystkie jednostki.
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wypływa na powierzchnię.
 
-#### Dulcinea — id 8396
+#### Dulcinea
 
 *Wystąpienia: ×1 (poz. 85).*
 
@@ -746,7 +734,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 839601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -758,43 +746,43 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Z gracją... — id 839601
+##### Umiejętność: Z gracją...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Krok Pełen Gracji... — id 838101
+##### Umiejętność: Krok Pełen Gracji...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ruch z Pięknem... — id 838102
+##### Umiejętność: Ruch z Pięknem...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przywołaj Widownię Bliżej... — id 838103
+##### Umiejętność: Przywołaj Widownię Bliżej...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Parada Cudów — id 838104
+##### Umiejętność: Parada Cudów
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    6 |
 
-##### Umiejętność: I to wszystko, co robi... — id 838106
+##### Umiejętność: I to wszystko, co robi...
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finale — id 838107
+##### Umiejętność: Finale
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -822,7 +810,7 @@ po zmianie wzorca:
 
 - **Fala 1:** Well-dressed Bloodbag ×3 (poz. 41); Embellished Bloodbag ×1 (poz. 41); Well-dressed Bloodbag ×1 (poz. 41) (wsparcie); Well-dressed Bloodbag ×1 (poz. 41) (wsparcie); Well-dressed Bloodbag ×1 (poz. 41) (wsparcie); Embellished Bloodbag ×1 (poz. 41) (wsparcie)
 
-#### Well-dressed Bloodbag — id 90152
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×6 (poz. 41) · też jako wsparcie.*
 
@@ -841,25 +829,25 @@ po zmianie wzorca:
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -876,7 +864,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Embellished Bloodbag — id 90153
+#### Embellished Bloodbag
 
 *Wystąpienia: ×2 (poz. 41) · też jako wsparcie.*
 
@@ -895,25 +883,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -934,7 +922,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 - **Fala 1:** Well-dressed Bloodbag ×2 (poz. 42); Embellished Bloodbag ×2 (poz. 42); Well-dressed Bloodbag ×1 (poz. 42) (wsparcie); Well-dressed Bloodbag ×1 (poz. 42) (wsparcie); Embellished Bloodbag ×1 (poz. 42) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie)
 
-#### Well-dressed Bloodbag — id 90152
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×4 (poz. 42) · też jako wsparcie.*
 
@@ -953,25 +941,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -988,7 +976,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Embellished Bloodbag — id 90153
+#### Embellished Bloodbag
 
 *Wystąpienia: ×3 (poz. 42) · też jako wsparcie.*
 
@@ -1007,25 +995,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1042,7 +1030,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Insane Fashionista Bloodfiend — id 90154
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -1061,31 +1049,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1108,7 +1096,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Well-dressed Bloodbag ×2 (poz. 43); Embellished Bloodbag ×1 (poz. 43); Insane Fashionista Bloodfiend ×1 (poz. 60); Well-dressed Bloodbag ×1 (poz. 43) (wsparcie); Embellished Bloodbag ×1 (poz. 43) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie)
 
-#### Well-dressed Bloodbag — id 90152
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×3 (poz. 43) · też jako wsparcie.*
 
@@ -1127,25 +1115,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1162,7 +1150,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Embellished Bloodbag — id 90153
+#### Embellished Bloodbag
 
 *Wystąpienia: ×2 (poz. 43) · też jako wsparcie.*
 
@@ -1181,25 +1169,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1216,7 +1204,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Insane Fashionista Bloodfiend — id 90154
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×3 (poz. 60) · też jako wsparcie.*
 
@@ -1235,31 +1223,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1278,7 +1266,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Mad Fashionista Bloodfiend — id 90155
+#### Mad Fashionista Bloodfiend
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -1297,31 +1285,31 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Więcej, Przybywajcie! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Raj w Ustach! — id 9015503
+##### Umiejętność: Raj w Ustach!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015505
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1344,7 +1332,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Well-dressed Bloodbag ×1 (poz. 44); Embellished Bloodbag ×2 (poz. 44); Mad Fashionista Bloodfiend ×1 (poz. 60); Embellished Bloodbag ×1 (poz. 44) (wsparcie); Embellished Bloodbag ×1 (poz. 44) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie)
 
-#### Well-dressed Bloodbag — id 90152
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×1 (poz. 44).*
 
@@ -1363,25 +1351,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1398,7 +1386,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Embellished Bloodbag — id 90153
+#### Embellished Bloodbag
 
 *Wystąpienia: ×4 (poz. 44) · też jako wsparcie.*
 
@@ -1417,25 +1405,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1452,7 +1440,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Mad Fashionista Bloodfiend — id 90155
+#### Mad Fashionista Bloodfiend
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -1471,31 +1459,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Więcej, Przybywajcie! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Raj w Ustach! — id 9015503
+##### Umiejętność: Raj w Ustach!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015505
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1514,7 +1502,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Insane Fashionista Bloodfiend — id 90154
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -1533,31 +1521,31 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1580,7 +1568,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Well-dressed Bloodbag ×2 (poz. 45); Embellished Bloodbag ×2 (poz. 45); Insane Fashionista Bloodfiend ×2 (poz. 60); Well-dressed Bloodbag ×1 (poz. 45) (wsparcie); Embellished Bloodbag ×1 (poz. 45) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Embellished Bloodbag ×1 (poz. 45) (wsparcie); Well-dressed Bloodbag ×1 (poz. 45) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie)
 
-#### Well-dressed Bloodbag — id 90152
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×4 (poz. 45) · też jako wsparcie.*
 
@@ -1599,25 +1587,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1634,7 +1622,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Embellished Bloodbag — id 90153
+#### Embellished Bloodbag
 
 *Wystąpienia: ×4 (poz. 45) · też jako wsparcie.*
 
@@ -1653,25 +1641,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1688,7 +1676,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Insane Fashionista Bloodfiend — id 90154
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×4 (poz. 60) · też jako wsparcie.*
 
@@ -1707,31 +1695,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1750,7 +1738,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Mad Fashionista Bloodfiend — id 90155
+#### Mad Fashionista Bloodfiend
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -1769,31 +1757,31 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Więcej, Przybywajcie! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Raj w Ustach! — id 9015503
+##### Umiejętność: Raj w Ustach!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015505
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1816,7 +1804,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Well-dressed Bloodbag ×2 (poz. 46); Embellished Bloodbag ×1 (poz. 46); Insane Fashionista Bloodfiend ×3 (poz. 60); Well-dressed Bloodbag ×1 (poz. 46) (wsparcie); Embellished Bloodbag ×1 (poz. 46) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Embellished Bloodbag ×1 (poz. 46) (wsparcie); Well-dressed Bloodbag ×1 (poz. 46) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie)
 
-#### Well-dressed Bloodbag — id 90152
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×4 (poz. 46) · też jako wsparcie.*
 
@@ -1835,25 +1823,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1870,7 +1858,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Embellished Bloodbag — id 90153
+#### Embellished Bloodbag
 
 *Wystąpienia: ×3 (poz. 46) · też jako wsparcie.*
 
@@ -1889,25 +1877,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1924,7 +1912,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Insane Fashionista Bloodfiend — id 90154
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×5 (poz. 60) · też jako wsparcie.*
 
@@ -1943,31 +1931,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1986,7 +1974,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Mad Fashionista Bloodfiend — id 90155
+#### Mad Fashionista Bloodfiend
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -2005,31 +1993,31 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Więcej, Przybywajcie! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Raj w Ustach! — id 9015503
+##### Umiejętność: Raj w Ustach!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015505
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2052,7 +2040,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Well-dressed Bloodbag ×2 (poz. 47); Insane Fashionista Bloodfiend ×2 (poz. 60); Mad Fashionista Bloodfiend ×2 (poz. 60); Well-dressed Bloodbag ×1 (poz. 47) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Well-dressed Bloodbag ×1 (poz. 47) (wsparcie); Embellished Bloodbag ×1 (poz. 47) (wsparcie); Embellished Bloodbag ×1 (poz. 47) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Insane Fashionista Bloodfiend ×1 (poz. 60) (wsparcie); Mad Fashionista Bloodfiend ×1 (poz. 60) (wsparcie)
 
-#### Well-dressed Bloodbag — id 90152
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×4 (poz. 47) · też jako wsparcie.*
 
@@ -2071,25 +2059,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2106,7 +2094,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Insane Fashionista Bloodfiend — id 90154
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×5 (poz. 60) · też jako wsparcie.*
 
@@ -2125,31 +2113,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2168,7 +2156,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Mad Fashionista Bloodfiend — id 90155
+#### Mad Fashionista Bloodfiend
 
 *Wystąpienia: ×5 (poz. 60) · też jako wsparcie.*
 
@@ -2187,31 +2175,31 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Więcej, Przybywajcie! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Raj w Ustach! — id 9015503
+##### Umiejętność: Raj w Ustach!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015505
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2230,7 +2218,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Embellished Bloodbag — id 90153
+#### Embellished Bloodbag
 
 *Wystąpienia: ×2 (poz. 47) · też jako wsparcie.*
 
@@ -2249,25 +2237,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2288,7 +2276,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 - **Fala 1:** ??? ×1 (poz. 70)
 
-#### ??? — id 8372
+#### ???
 
 *Wystąpienia: ×1 (poz. 70).*
 
@@ -2307,7 +2295,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Części (anatomia):**
 
-##### Korpus — id 837201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2319,49 +2307,49 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Poszatkuję Cię Pięknie! — id 837201
+##### Umiejętność: Poszatkuję Cię Pięknie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Jeszcze Ostrościej — id 837202
+##### Umiejętność: Jeszcze Ostrościej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: CIACH!! — id 837203
+##### Umiejętność: CIACH!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Ciebie Też Poszatkuję! — id 837204
+##### Umiejętność: Ciebie Też Poszatkuję!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      2 |    1 |
 
-##### Umiejętność: Teraz Twoja Kolej — id 837205
+##### Umiejętność: Teraz Twoja Kolej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Poszatkuję Was Wspólnie! — id 837206
+##### Umiejętność: Poszatkuję Was Wspólnie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      4 |    1 |
 
-##### Umiejętność: To Niewypada! — id 837207
+##### Umiejętność: To Niewypada!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Brzydkie Rzeczy Mi Niepotrzebne!! — id 837208
+##### Umiejętność: Brzydkie Rzeczy Mi Niepotrzebne!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2385,7 +2373,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** No-good Bandit ×6 (poz. 44); No-good Bandit ×1 (poz. 44) (wsparcie); No-good Bandit ×1 (poz. 44) (wsparcie); No-good Bandit ×1 (poz. 44) (wsparcie); No-good Bandit ×1 (poz. 44) (wsparcie); No-good Bandit ×1 (poz. 44) (wsparcie); No-good Bandit ×1 (poz. 44) (wsparcie)
 
-#### No-good Bandit — id 90160
+#### No-good Bandit
 
 *Wystąpienia: ×12 (poz. 44) · też jako wsparcie.*
 
@@ -2401,13 +2389,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: Czysty Chuliganizm — id 9016001
+##### Umiejętność: Czysty Chuliganizm
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Prześladowanie — id 9016002
+##### Umiejętność: Prześladowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2423,7 +2411,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Big, Scary Bear ×1 (poz. 46)
 
-#### Big, Scary Bear — id 90161
+#### Big, Scary Bear
 
 *Wystąpienia: ×1 (poz. 46).*
 
@@ -2439,31 +2427,31 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: "Grrr..." — id 9016101
+##### Umiejętność: "Grrr..."
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: "Krrr..." — id 9016102
+##### Umiejętność: "Krrr..."
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Słuchaj, ty łobuzie. To— „Wrrrr.” — id 9016103
+##### Umiejętność: Słuchaj, ty łobuzie. To— „Wrrrr.”
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: ... — id 9016104
+##### Umiejętność: ...
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |         +4 |      1 |    1 |
 
-##### Umiejętność: Hej, mam to dalej robić? — id 9016105
+##### Umiejętność: Hej, mam to dalej robić?
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2481,7 +2469,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Eerie Bloodbag ×3 (poz. 44); Sinister Bloodbag ×1 (poz. 44); Eerie Bloodbag ×1 (poz. 44) (wsparcie); Sinister Bloodbag ×1 (poz. 44) (wsparcie); "Ghost" Bloodfiend of Failed Penitence ×1 (poz. 60) (wsparcie); Eerie Bloodbag ×1 (poz. 44) (wsparcie); Eerie Bloodbag ×1 (poz. 44) (wsparcie)
 
-#### Eerie Bloodbag — id 90169
+#### Eerie Bloodbag
 
 *Wystąpienia: ×6 (poz. 44) · też jako wsparcie.*
 
@@ -2500,19 +2488,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9016901
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9016902
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9016904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2528,7 +2516,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Sinister Bloodbag — id 90170
+#### Sinister Bloodbag
 
 *Wystąpienia: ×2 (poz. 44) · też jako wsparcie.*
 
@@ -2547,19 +2535,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9017001
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9017002
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9017004
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2575,7 +2563,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### "Ghost" Bloodfiend of Failed Penitence — id 90171
+#### "Ghost" Bloodfiend of Failed Penitence
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -2594,25 +2582,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017103
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017105
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2634,7 +2622,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Eerie Bloodbag ×3 (poz. 45); Sinister Bloodbag ×1 (poz. 45); Sinister Bloodbag ×1 (poz. 45) (wsparcie); "Ghost" Bloodfiend of Failed Penitence ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Failed Penitence ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Prayers ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Prayers ×1 (poz. 60) (wsparcie)
 
-#### Eerie Bloodbag — id 90169
+#### Eerie Bloodbag
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -2653,19 +2641,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9016901
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9016902
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9016904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2681,7 +2669,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Sinister Bloodbag — id 90170
+#### Sinister Bloodbag
 
 *Wystąpienia: ×2 (poz. 45) · też jako wsparcie.*
 
@@ -2700,19 +2688,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9017001
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9017002
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9017004
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2728,7 +2716,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### "Ghost" Bloodfiend of Failed Penitence — id 90171
+#### "Ghost" Bloodfiend of Failed Penitence
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -2747,25 +2735,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017103
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017105
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2783,7 +2771,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### "Ghost" Bloodfiend of Prayers — id 90172
+#### "Ghost" Bloodfiend of Prayers
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -2802,25 +2790,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017203
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017205
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2842,7 +2830,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Eerie Bloodbag ×2 (poz. 46); Sinister Bloodbag ×1 (poz. 46); "Ghost" Bloodfiend of Failed Penitence ×1 (poz. 60); Sinister Bloodbag ×1 (poz. 46) (wsparcie); Sinister Bloodbag ×1 (poz. 46) (wsparcie); "Ghost" Bloodfiend of Failed Penitence ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Prayers ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Prayers ×1 (poz. 60) (wsparcie)
 
-#### Eerie Bloodbag — id 90169
+#### Eerie Bloodbag
 
 *Wystąpienia: ×2 (poz. 46).*
 
@@ -2861,19 +2849,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9016901
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9016902
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9016904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2889,7 +2877,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Sinister Bloodbag — id 90170
+#### Sinister Bloodbag
 
 *Wystąpienia: ×3 (poz. 46) · też jako wsparcie.*
 
@@ -2908,19 +2896,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9017001
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9017002
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9017004
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2936,7 +2924,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### "Ghost" Bloodfiend of Failed Penitence — id 90171
+#### "Ghost" Bloodfiend of Failed Penitence
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -2955,25 +2943,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017103
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017105
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2991,7 +2979,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### "Ghost" Bloodfiend of Prayers — id 90172
+#### "Ghost" Bloodfiend of Prayers
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -3010,25 +2998,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017203
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017205
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3050,7 +3038,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Eerie Bloodbag ×1 (poz. 47); Sinister Bloodbag ×1 (poz. 47); "Ghost" Bloodfiend of Failed Penitence ×1 (poz. 60); "Ghost" Bloodfiend of Prayers ×2 (poz. 60); Sinister Bloodbag ×1 (poz. 47) (wsparcie); Sinister Bloodbag ×1 (poz. 47) (wsparcie); "Ghost" Bloodfiend of Failed Penitence ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Prayers ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Prayers ×1 (poz. 60) (wsparcie); "Ghost" Bloodfiend of Prayers ×1 (poz. 60) (wsparcie)
 
-#### Eerie Bloodbag — id 90169
+#### Eerie Bloodbag
 
 *Wystąpienia: ×1 (poz. 47).*
 
@@ -3069,19 +3057,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9016901
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9016902
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9016904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3097,7 +3085,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Sinister Bloodbag — id 90170
+#### Sinister Bloodbag
 
 *Wystąpienia: ×3 (poz. 47) · też jako wsparcie.*
 
@@ -3116,19 +3104,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9017001
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9017002
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9017004
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3144,7 +3132,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### "Ghost" Bloodfiend of Failed Penitence — id 90171
+#### "Ghost" Bloodfiend of Failed Penitence
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -3163,25 +3151,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017103
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017105
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3199,7 +3187,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### "Ghost" Bloodfiend of Prayers — id 90172
+#### "Ghost" Bloodfiend of Prayers
 
 *Wystąpienia: ×5 (poz. 60) · też jako wsparcie.*
 
@@ -3218,25 +3206,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017203
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017205
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3258,7 +3246,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** The Knight of the White Moon ×1 (poz. 50)
 
-#### The Knight of the White Moon — id 8389
+#### The Knight of the White Moon
 
 *Wystąpienia: ×1 (poz. 50).*
 
@@ -3276,7 +3264,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 838901
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -3288,67 +3276,65 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Smok ze Źródła — id 838901
+##### Umiejętność: Smok ze Źródła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         11 |         +8 |      2 |    1 |
 
-##### Umiejętność: Lotos Jesieni — id 838902
+##### Umiejętność: Lotos Jesieni
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         11 |         +8 |      2 |    1 |
 
-##### Umiejętność: Zwiewny Ślad — id 838903
+##### Umiejętność: Zwiewny Ślad
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          8 |        +11 |      2 |    1 |
 
-##### Umiejętność: Blady Ślad — id 838904
+##### Umiejętność: Blady Ślad
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |        +10 |      2 |    1 |
 
-##### Umiejętność: Red Arwe — id 838905
+##### Umiejętność: Red Arwe
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          7 |        +12 |      2 |    1 |
 
-##### Umiejętność: Blak Arwe — id 838906
+##### Umiejętność: Blak Arwe
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          7 |        +12 |      2 |    1 |
 
-##### Umiejętność: Lustro Wody — id 838907
+##### Umiejętność: Lustro Wody
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |         15 |        +15 |      1 |    1 |
 
-##### Umiejętność: Aktywacja Szyny Akceleratora Elektronów — id 838908
+##### Umiejętność: Aktywacja Szyny Akceleratora Elektronów
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |         20 |        +10 |      1 |    1 |
 
-##### Umiejętność: Arwe — id 838909
+##### Umiejętność: Arwe
 
 | Poz. | Grzech  | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | Kłucie |         15 |        +18 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 7-31 · O WALKACH GRZESZNIKÓW W DRODZE NA CZOŁO PARADY
 
 - **Fala 1:** Bloodbag of the Painful Parade ×2 (poz. 46); Bloodbag of the Rear Parade ×2 (poz. 46); Bloodfiend of the Happy Parade ×1 (poz. 63); Bloodfiend of the Joyful Parade ×1 (poz. 63); Bloodbag of the Painful Parade ×1 (poz. 46) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 46) (wsparcie); Bloodbag of the Painful Parade ×1 (poz. 46) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 46) (wsparcie)
 
-#### Bloodbag of the Painful Parade — id 90173
+#### Bloodbag of the Painful Parade
 
 *Wystąpienia: ×4 (poz. 46) · też jako wsparcie.*
 
@@ -3367,19 +3353,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Downward Cut — id 9017301
+##### Umiejętność: Hardblood Downward Cut
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Carve — id 9017302
+##### Umiejętność: Hardblood Carve
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017304
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3401,7 +3387,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodbag of the Rear Parade — id 90174
+#### Bloodbag of the Rear Parade
 
 *Wystąpienia: ×4 (poz. 46) · też jako wsparcie.*
 
@@ -3420,19 +3406,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Lash — id 9017401
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Wild Jag — id 9017402
+##### Umiejętność: Hardblood Wild Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017404
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3454,7 +3440,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodfiend of the Happy Parade — id 90175
+#### Bloodfiend of the Happy Parade
 
 *Wystąpienia: ×1 (poz. 63).*
 
@@ -3473,25 +3459,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3516,7 +3502,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Bloodfiend of the Joyful Parade — id 90176
+#### Bloodfiend of the Joyful Parade
 
 *Wystąpienia: ×1 (poz. 63).*
 
@@ -3535,25 +3521,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017605
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3582,7 +3568,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Bloodbag of the Painful Parade ×2 (poz. 47); Bloodbag of the Rear Parade ×2 (poz. 47); Bloodfiend of the Happy Parade ×1 (poz. 63); Bloodfiend of the Joyful Parade ×1 (poz. 63); Bloodbag of the Painful Parade ×1 (poz. 47) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 47) (wsparcie); Bloodfiend of the Happy Parade ×1 (poz. 63) (wsparcie); Bloodfiend of the Joyful Parade ×1 (poz. 63) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 47) (wsparcie); Bloodbag of the Painful Parade ×1 (poz. 47) (wsparcie)
 
-#### Bloodbag of the Painful Parade — id 90173
+#### Bloodbag of the Painful Parade
 
 *Wystąpienia: ×4 (poz. 47) · też jako wsparcie.*
 
@@ -3601,19 +3587,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Downward Cut — id 9017301
+##### Umiejętność: Hardblood Downward Cut
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Carve — id 9017302
+##### Umiejętność: Hardblood Carve
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017304
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3635,7 +3621,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodbag of the Rear Parade — id 90174
+#### Bloodbag of the Rear Parade
 
 *Wystąpienia: ×4 (poz. 47) · też jako wsparcie.*
 
@@ -3654,19 +3640,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Lash — id 9017401
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Wild Jag — id 9017402
+##### Umiejętność: Hardblood Wild Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017404
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3688,7 +3674,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodfiend of the Happy Parade — id 90175
+#### Bloodfiend of the Happy Parade
 
 *Wystąpienia: ×2 (poz. 63) · też jako wsparcie.*
 
@@ -3707,25 +3693,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3750,7 +3736,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Bloodfiend of the Joyful Parade — id 90176
+#### Bloodfiend of the Joyful Parade
 
 *Wystąpienia: ×2 (poz. 63) · też jako wsparcie.*
 
@@ -3769,25 +3755,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017605
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3816,7 +3802,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Bloodbag of the Painful Parade ×1 (poz. 48); Bloodbag of the Rear Parade ×2 (poz. 48); Bloodfiend of the Happy Parade ×1 (poz. 63); Bloodfiend of the Joyful Parade ×2 (poz. 63); Bloodbag of the Painful Parade ×1 (poz. 48) (wsparcie); Bloodbag of the Painful Parade ×1 (poz. 48) (wsparcie); Bloodfiend of the Happy Parade ×1 (poz. 63) (wsparcie); Bloodfiend of the Joyful Parade ×1 (poz. 63) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 48) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 48) (wsparcie); Bloodfiend of the Joyful Parade ×1 (poz. 63) (wsparcie); Bloodfiend of the Happy Parade ×1 (poz. 63) (wsparcie)
 
-#### Bloodbag of the Painful Parade — id 90173
+#### Bloodbag of the Painful Parade
 
 *Wystąpienia: ×3 (poz. 48) · też jako wsparcie.*
 
@@ -3835,19 +3821,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Downward Cut — id 9017301
+##### Umiejętność: Hardblood Downward Cut
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Carve — id 9017302
+##### Umiejętność: Hardblood Carve
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017304
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3869,7 +3855,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodbag of the Rear Parade — id 90174
+#### Bloodbag of the Rear Parade
 
 *Wystąpienia: ×4 (poz. 48) · też jako wsparcie.*
 
@@ -3888,19 +3874,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Lash — id 9017401
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Wild Jag — id 9017402
+##### Umiejętność: Hardblood Wild Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017404
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3922,7 +3908,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodfiend of the Happy Parade — id 90175
+#### Bloodfiend of the Happy Parade
 
 *Wystąpienia: ×3 (poz. 63) · też jako wsparcie.*
 
@@ -3941,25 +3927,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3984,7 +3970,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Bloodfiend of the Joyful Parade — id 90176
+#### Bloodfiend of the Joyful Parade
 
 *Wystąpienia: ×4 (poz. 63) · też jako wsparcie.*
 
@@ -4003,25 +3989,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017605
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4050,7 +4036,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Bloodbag of the Painful Parade ×1 (poz. 49); Bloodbag of the Rear Parade ×1 (poz. 49); Bloodfiend of the Happy Parade ×2 (poz. 63); Bloodfiend of the Joyful Parade ×2 (poz. 63); Bloodfiend of the Happy Parade ×1 (poz. 63) (wsparcie); Bloodfiend of the Joyful Parade ×1 (poz. 63) (wsparcie); Bloodbag of the Painful Parade ×1 (poz. 49) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 49) (wsparcie); Bloodfiend of the Joyful Parade ×1 (poz. 63) (wsparcie); Bloodfiend of the Happy Parade ×1 (poz. 63) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 49) (wsparcie); Bloodbag of the Painful Parade ×1 (poz. 49) (wsparcie); Bloodfiend of the Happy Parade ×1 (poz. 63) (wsparcie); Bloodfiend of the Joyful Parade ×1 (poz. 63) (wsparcie)
 
-#### Bloodbag of the Painful Parade — id 90173
+#### Bloodbag of the Painful Parade
 
 *Wystąpienia: ×3 (poz. 49) · też jako wsparcie.*
 
@@ -4069,19 +4055,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Downward Cut — id 9017301
+##### Umiejętność: Hardblood Downward Cut
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Carve — id 9017302
+##### Umiejętność: Hardblood Carve
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017304
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4103,7 +4089,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodbag of the Rear Parade — id 90174
+#### Bloodbag of the Rear Parade
 
 *Wystąpienia: ×3 (poz. 49) · też jako wsparcie.*
 
@@ -4122,19 +4108,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Lash — id 9017401
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Wild Jag — id 9017402
+##### Umiejętność: Hardblood Wild Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017404
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4156,7 +4142,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodfiend of the Happy Parade — id 90175
+#### Bloodfiend of the Happy Parade
 
 *Wystąpienia: ×5 (poz. 63) · też jako wsparcie.*
 
@@ -4175,25 +4161,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4218,7 +4204,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Bloodfiend of the Joyful Parade — id 90176
+#### Bloodfiend of the Joyful Parade
 
 *Wystąpienia: ×5 (poz. 63) · też jako wsparcie.*
 
@@ -4237,25 +4223,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017605
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4284,7 +4270,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Fala 1:** Dulcinea ×1 (poz. 85); Bloodfiend of the Joyful Parade ×1 (poz. 63); Disgraced Bloodbag ×1 (poz. 50); Bloodbag of the Painful Parade ×1 (poz. 50); Disgraced Bloodbag ×1 (poz. 50) (wsparcie); Despairing Bloodbag ×1 (poz. 50) (wsparcie); Bloodbag of the Painful Parade ×1 (poz. 50) (wsparcie); Bloodbag of the Rear Parade ×1 (poz. 50) (wsparcie); Bloodfiend of the Happy Parade ×1 (poz. 63) (wsparcie); Bloodfiend of the Joyful Parade ×1 (poz. 63) (wsparcie)
 
-#### Dulcinea — id 8381
+#### Dulcinea
 
 *Wystąpienia: ×1 (poz. 85).*
 
@@ -4303,7 +4289,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 838101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4315,43 +4301,43 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Krok Pełen Gracji... — id 838101
+##### Umiejętność: Krok Pełen Gracji...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ruch z Pięknem... — id 838102
+##### Umiejętność: Ruch z Pięknem...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przywołaj Widownię Bliżej... — id 838103
+##### Umiejętność: Przywołaj Widownię Bliżej...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Parada Cudów — id 838104
+##### Umiejętność: Parada Cudów
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    6 |
 
-##### Umiejętność: Parada Powtarza się Wiecznie — id 838105
+##### Umiejętność: Parada Powtarza się Wiecznie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    6 |
 
-##### Umiejętność: I to wszystko, co robi... — id 838106
+##### Umiejętność: I to wszystko, co robi...
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finale — id 838107
+##### Umiejętność: Finale
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4382,7 +4368,7 @@ w turze po Oszołamieniu przywołuje 2 Kindred Bloodfiends
 - **Bloodfeast** — jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [Krwawa Uczta] rośnie o łączną wartość obrażeń [Krwawienie] otrzymanych przez wszystkie jednostki. gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wypełnia powierzchnię.
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 
-#### Bloodfiend of the Joyful Parade — id 8387
+#### Bloodfiend of the Joyful Parade
 
 *Wystąpienia: ×2 (poz. 63) · też jako wsparcie.*
 
@@ -4400,7 +4386,7 @@ w turze po Oszołamieniu przywołuje 2 Kindred Bloodfiends
 
 **Części (anatomia):**
 
-##### Korpus — id 838701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4412,25 +4398,25 @@ w turze po Oszołamieniu przywołuje 2 Kindred Bloodfiends
 
 *Opis:* Część
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017605
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4452,7 +4438,7 @@ Koniec tury: przy 8+ [Gorączka Święta] używa w następnej turze potężnej U
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 
-#### Disgraced Bloodbag — id 8382
+#### Disgraced Bloodbag
 
 *Wystąpienia: ×2 (poz. 50) · też jako wsparcie.*
 
@@ -4470,7 +4456,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 838201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -4482,25 +4468,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Hardblood Slam — id 9015801
+##### Umiejętność: Hardblood Slam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezcelowa Wściekłość — id 9015802
+##### Umiejętność: Bezcelowa Wściekłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Niepohamowane Zbicie — id 9015803
+##### Umiejętność: Niepohamowane Zbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Garda — id 9015804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4511,7 +4497,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Thirst for Blood** — cel: jednostki z [Krwawienie]
 Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wrażliwość] i 2 [Wzrost Poziomu Ataku] w następnej turze
 
-#### Bloodbag of the Painful Parade — id 8384
+#### Bloodbag of the Painful Parade
 
 *Wystąpienia: ×2 (poz. 50) · też jako wsparcie.*
 
@@ -4529,7 +4515,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 **Części (anatomia):**
 
-##### Korpus — id 838401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                 |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4541,19 +4527,19 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 *Opis:* Część
 
-##### Umiejętność: Hardblood Downward Cut — id 9017301
+##### Umiejętność: Hardblood Downward Cut
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Carve — id 9017302
+##### Umiejętność: Hardblood Carve
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017304
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4573,7 +4559,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Despairing Bloodbag — id 8383
+#### Despairing Bloodbag
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
@@ -4591,7 +4577,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Części (anatomia):**
 
-##### Korpus — id 838301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -4603,25 +4589,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Hardblood Slam — id 9015901
+##### Umiejętność: Hardblood Slam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezcelowa Wściekłość — id 9015902
+##### Umiejętność: Bezcelowa Wściekłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Niepohamowane Zbicie — id 9015903
+##### Umiejętność: Niepohamowane Zbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Garda — id 9015904
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4632,7 +4618,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 - **Thirst for Blood** — cel: jednostki z [Krwawienie]
 Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wrażliwość] i 2 [Wzrost Poziomu Ataku] w następnej turze
 
-#### Bloodbag of the Rear Parade — id 8385
+#### Bloodbag of the Rear Parade
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
@@ -4650,7 +4636,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 **Części (anatomia):**
 
-##### Korpus — id 838501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                 |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4662,19 +4648,19 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 *Opis:* Część
 
-##### Umiejętność: Hardblood Lash — id 9017401
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Wild Jag — id 9017402
+##### Umiejętność: Hardblood Wild Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017404
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4694,7 +4680,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodfiend of the Happy Parade — id 8386
+#### Bloodfiend of the Happy Parade
 
 *Wystąpienia: ×1 (poz. 63) · też jako wsparcie.*
 
@@ -4712,7 +4698,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Części (anatomia):**
 
-##### Korpus — id 838601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4724,25 +4710,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4766,7 +4752,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 ## Pula Canto VII · część 2 (`a1c7p2`) — jednostki bez przypisanego etapu
 
-#### By Nikt Nie Płakał — id 8752
+#### By Nikt Nie Płakał
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -4781,7 +4767,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 875201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4794,7 +4780,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Prawe Ramię — id 875202
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4807,39 +4793,37 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874101 — id 874101
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874102 — id 874102
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: umiejętność 874103 — id 874103
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      5 |    1 |
 
-##### Umiejętność: umiejętność 874104 — id 874104
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874105 — id 874105
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Błędny Lis — id 8753
+#### Błędny Lis
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -4854,7 +4838,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 875301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4867,7 +4851,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Głowa — id 875302
+##### Głowa
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4880,37 +4864,37 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874201 — id 874201
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874202 — id 874202
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874203 — id 874203
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874204 — id 874204
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874205 — id 874205
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         12 |         +8 |      1 |    5 |
 
-##### Umiejętność: umiejętność 874206 — id 874206
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4921,7 +4905,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Last Struggle** — przy 15% HP Szybkość jednostki zostaje ustalona na 1 i zyskuje 1 Spadek Mocy Ataku.
 nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries Seeking Something'.
 
-#### Stary Parasol — id 8754
+#### Stary Parasol
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -4936,7 +4920,7 @@ nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries S
 
 **Części (anatomia):**
 
-##### Parasol — id 875401
+##### Parasol
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4949,7 +4933,7 @@ nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries S
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874301 (×2) — id 874301
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -4960,7 +4944,7 @@ nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries S
 - **Old and Abandoned** — gdy ta jednostka zostaje pokonana, pokonujący ją Grzesznik zyskuje 2 Pośpiechu w następnej turze.
 wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
-#### Wróżkowy Dżentelmen — id 8755
+#### Wróżkowy Dżentelmen
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -4975,7 +4959,7 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
 **Części (anatomia):**
 
-##### Korpus — id 875501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4988,7 +4972,7 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
 *Opis:* Część
 
-##### Lewe Ramię — id 875502
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5001,43 +4985,43 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874401 — id 874401
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874402 — id 874402
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874403 — id 874403
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874404 — id 874404
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874405 — id 874405
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874406 — id 874406
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874407 — id 874407
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5049,7 +5033,7 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 - **Stimulating Smell, Isn't It?** — tajemniczy zapach wydobywający się z wnętrza podnosi na duchu.
 na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
-#### Wino Wróżek — id 8756
+#### Wino Wróżek
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5064,7 +5048,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Beczka Wina — id 875601
+##### Beczka Wina
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5075,15 +5059,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874501 (×2) — id 874501
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +0 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Długonoga Wróżka — id 8757
+#### Długonoga Wróżka
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5098,7 +5080,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 875701
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5109,7 +5091,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Lewe Ramię — id 875702
+##### Lewe Ramię
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5120,7 +5102,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Głowa — id 875703
+##### Głowa
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5131,31 +5113,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874601 — id 874601
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874602 — id 874602
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874603 — id 874603
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874604 — id 874604
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874605 — id 874605
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5166,7 +5148,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Utracone Środki** — gdy ramię zostaje zniszczone, co turę zyskuje 2 Spadek Mocy Ataku
 - **Uszkodzony Cień** — gdy głowa zostaje zniszczona, co turę zyskuje 4 Spadek Poziomu Obrony i 1 Wrażliwości
 
-#### Wielki Liść — id 8758
+#### Wielki Liść
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5181,7 +5163,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 875801
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5200,7 +5182,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Skażające Liście** — na początku tury nakłada 1 HP Healing Boost i 1 Wzrost Mocy Ataku na Fairy-Long-Legs.
 
-#### Spiżowy Byk — Łzawiący — id 8759
+#### Spiżowy Byk — Łzawiący
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5215,7 +5197,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 875901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5228,37 +5210,37 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874801 — id 874801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874802 — id 874802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874803 — id 874803
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: umiejętność 874804 — id 874804
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874805 — id 874805
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874806 — id 874806
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5268,7 +5250,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Downed by the Horns** — gdy głowa zostaje zniszczona, wszystkie Części przechodzą w stan Oszołamienia w następnej turze. później, przez resztę walki wszystkie Części mają 3 Spadek Mocy Ataku.
 
-#### Kqe-1j-23 — id 8760
+#### Kqe-1j-23
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5283,7 +5265,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 876001
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5294,55 +5276,55 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874901 (×2) — id 874901
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874902 (×2) — id 874902
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874903 (×2) — id 874903
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874904 (×2) — id 874904
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         16 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874905 (×2) — id 874905
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874906 (×2) — id 874906
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +7 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874907 (×2) — id 874907
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +2 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874908 (×2) — id 874908
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874909 (×2) — id 874909
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5352,7 +5334,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Initiating Town Tour** — na początku tury, jeżeli ma 10+ Liczników Ładowania, zmienia wzór zachowania.
 
-#### Serce Mieszkańca Miasteczka — id 8761
+#### Serce Mieszkańca Miasteczka
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5367,7 +5349,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Serce — id 876101
+##### Serce
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5389,7 +5371,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Damage Detected!** — gdy ta jednostka zostaje pokonana, Kqe-1j-23 otrzymuje 100 obrażeń i w następnej turze przechodzi w stan Oszołamienia.
 później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
-#### Szlochająca Ropucha — id 8762
+#### Szlochająca Ropucha
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5404,7 +5386,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 **Części (anatomia):**
 
-##### Korpus — id 876201
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5415,7 +5397,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 *Opis:* Część
 
-##### Lewe Oko — id 876202
+##### Lewe Oko
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5428,7 +5410,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 *Opis:* Part
 
-##### Prawe Oko — id 876203
+##### Prawe Oko
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5441,45 +5423,43 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 *Opis:* Part
 
-##### Umiejętność: umiejętność 875101 (×2) — id 875101
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 875102 (×2) — id 875102
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 875103 (×2) — id 875103
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 875104 (×2) — id 875104
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: umiejętność 875105 (×2) — id 875105
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +7 |      1 |    3 |
 
-##### Umiejętność: umiejętność 875108 (×2) — id 875108
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          7 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Disgraced Bloodbag — id 90158
+#### Disgraced Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5498,25 +5478,25 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Slam — id 9015801
+##### Umiejętność: Hardblood Slam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezcelowa Wściekłość — id 9015802
+##### Umiejętność: Bezcelowa Wściekłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Niepohamowane Zbicie — id 9015803
+##### Umiejętność: Niepohamowane Zbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Garda — id 9015804
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5530,7 +5510,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wrażliwość] i 2 [Wzrost Poziomu Ataku] w następnej turze
 - **Anti-Bloodfiend Hammer** — przy użyciu Umiejętności, jeżeli cel ma 10+ [Rozdarcie], zamiast nakładać [Rozdarcie] zadaje +30% obrażeń
 
-#### Despairing Bloodbag — id 90159
+#### Despairing Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5549,25 +5529,25 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Slam — id 9015901
+##### Umiejętność: Hardblood Slam
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezcelowa Wściekłość — id 9015902
+##### Umiejętność: Bezcelowa Wściekłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Niepohamowane Zbicie — id 9015903
+##### Umiejętność: Niepohamowane Zbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Garda — id 9015904
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5581,7 +5561,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wrażliwość] i 2 [Wzrost Poziomu Ataku] w następnej turze
 - **Anti-Bloodfiend Hammer** — przy użyciu Umiejętności, jeżeli cel ma 10+ [Rozdarcie], zamiast nakładać [Rozdarcie] zadaje +30% obrażeń
 
-#### Well-dressed Bloodbag — id 97701
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5600,25 +5580,25 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5635,7 +5615,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Embellished Bloodbag — id 97702
+#### Embellished Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5654,25 +5634,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Wedge — id 9015301
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Chop — id 9015302
+##### Umiejętność: Hardblood Chop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powerchop — id 9015303
+##### Umiejętność: Hardblood Powerchop
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015304
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5689,7 +5669,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Insane Fashionista Bloodfiend — id 97703
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5708,31 +5688,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5751,7 +5731,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Mad Fashionista Bloodfiend — id 97704
+#### Mad Fashionista Bloodfiend
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5770,31 +5750,31 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Więcej, Przybywajcie! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Raj w Ustach! — id 9015503
+##### Umiejętność: Raj w Ustach!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015505
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5813,7 +5793,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Blood-tinged Scissorblades** — przy 2+ [Zakrwawione Ostrza Nożyc], ostrza nożyc są wzmocnione.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Bloodbag of the Painful Parade — id 97705
+#### Bloodbag of the Painful Parade
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5832,19 +5812,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Downward Cut — id 9017301
+##### Umiejętność: Hardblood Downward Cut
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Carve — id 9017302
+##### Umiejętność: Hardblood Carve
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017304
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5866,7 +5846,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodbag of the Rear Parade — id 97706
+#### Bloodbag of the Rear Parade
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5885,19 +5865,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Lash — id 9017401
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Wild Jag — id 9017402
+##### Umiejętność: Hardblood Wild Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017404
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5919,7 +5899,7 @@ Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Wra�
 zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Bloodfiend of the Happy Parade — id 97707
+#### Bloodfiend of the Happy Parade
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5938,25 +5918,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5981,7 +5961,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Bloodfiend of the Joyful Parade — id 97708
+#### Bloodfiend of the Joyful Parade
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6000,25 +5980,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017605
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6043,7 +6023,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Starved and Withered** — Początek walki: zyskuje [Zwiędnięcie]
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### Eerie Bloodbag — id 97709
+#### Eerie Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6062,19 +6042,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9016901
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9016902
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9016904
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6090,7 +6070,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Sinister Bloodbag — id 97710
+#### Sinister Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6109,19 +6089,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Thrash — id 9017001
+##### Umiejętność: Hardblood Thrash
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9017002
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9017004
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6137,7 +6117,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### "Ghost" Bloodfiend of Failed Penitence — id 97711
+#### "Ghost" Bloodfiend of Failed Penitence
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6156,25 +6136,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017103
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017105
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6192,7 +6172,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
-#### "Ghost" Bloodfiend of Prayers — id 97712
+#### "Ghost" Bloodfiend of Prayers
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6211,25 +6191,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017203
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017205
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6251,7 +6231,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 ## Pula Canto VII · część 3 (`a1c7p3`) — jednostki bez przypisanego etapu
 
-#### Budding Cinq West Fixer — id 8375
+#### Budding Cinq West Fixer
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6270,7 +6250,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 837501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6282,45 +6262,43 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Ksssh — id 837501
+##### Umiejętność: Ksssh
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Hnnnhhhhhh — id 837502
+##### Umiejętność: Hnnnhhhhhh
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Kihh — id 837503
+##### Umiejętność: Kihh
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |        +12 |      1 |    1 |
 
-##### Umiejętność: Ksssh — id 837504
+##### Umiejętność: Ksssh
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      4 |    1 |
 
-##### Umiejętność: Knnh — id 837505
+##### Umiejętność: Knnh
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Knhhh — id 837506
+##### Umiejętność: Knhhh
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          3 |        +13 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Rose Hunter — id 8376
+#### Rose Hunter
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6335,7 +6313,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 837601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                         |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6347,43 +6325,43 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Kolczasty Bicz — id 837601
+##### Umiejętność: Kolczasty Bicz
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Machnięcie Biczem — id 837602
+##### Umiejętność: Machnięcie Biczem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dusząca Korona Cierni — id 837603
+##### Umiejętność: Dusząca Korona Cierni
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Cofnięcie Bicza — id 837604
+##### Umiejętność: Cofnięcie Bicza
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +3 |      4 |    3 |
 
-##### Umiejętność: Kolczaste Lasso — id 837605
+##### Umiejętność: Kolczaste Lasso
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      4 |    5 |
 
-##### Umiejętność: Owinięcie Biczem — id 837606
+##### Umiejętność: Owinięcie Biczem
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Lasso Chwytające — id 837607
+##### Umiejętność: Lasso Chwytające
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6397,7 +6375,7 @@ co turę nakłada [Rozdarcie] każdemu wrogowi w wysokości jego Szybkości
 nakłada 2 [Kolczaste Lasso]
 z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Poziomu Obrony] (maks. 12)
 
-#### Barbed Lasso — id 8377
+#### Barbed Lasso
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6412,7 +6390,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 **Części (anatomia):**
 
-##### Korpus — id 837701
+##### Korpus
 
 | Parametr           | Wartość                                                               |
 | ------------------ | --------------------------------------------------------------------- |
@@ -6424,7 +6402,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 *Opis:* Część
 
-##### Umiejętność: Cierń — id 837701
+##### Umiejętność: Cierń
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6434,7 +6412,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 - **Barbed Lasso** — przy śmierci [Kolczaste Lasso] wroga związanego z tą jednostką znika
 
-#### Sancho — id 8380
+#### Sancho
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6453,7 +6431,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 **Części (anatomia):**
 
-##### Korpus — id 838001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6465,67 +6443,67 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 *Opis:* Część
 
-##### Umiejętność: Powalenie — id 838001
+##### Umiejętność: Powalenie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zadanie Rany — id 838002
+##### Umiejętność: Zadanie Rany
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krwawa Radość — id 838003
+##### Umiejętność: Krwawa Radość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Ekstaza Krwi — id 838004
+##### Umiejętność: Ekstaza Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering — id 838005
+##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 11 - Impaling — id 838006
+##### Umiejętność: Don Quixote Hardblood Arts 11 - Impaling
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 2 - Hardblood — id 838007
+##### Umiejętność: Don Quixote Hardblood Arts 2 - Hardblood
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      4 |    6 |
 
-##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie — id 838008
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka — id 838009
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +4 |      3 |    1 |
 
-##### Umiejętność: Wariant Don Quixote: Sancho Arts 2 - La Sangre — id 838010
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 2 - La Sangre
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         12 |        +14 |      1 |    1 |
 
-##### Umiejętność: La Aventura Ha Terminado — id 838011
+##### Umiejętność: La Aventura Ha Terminado
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6538,7 +6516,7 @@ po zmianie wzorca dochodzi do siebie z Oszołamienia, a Szybkość w następnej 
 - **In Dreams** — Początek walki: zyskuje [Senne Wahanie].
 Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększając [Krwawa Uczta] o 400.
 
-#### Don Quixote — id 8390
+#### Don Quixote
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6553,7 +6531,7 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 **Części (anatomia):**
 
-##### The Wheel of La Manchaland — id 839001
+##### The Wheel of La Manchaland
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -6564,13 +6542,13 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 *Opis:* Boss
 
-##### Umiejętność: Nieskończony Festiwal — id 839001
+##### Umiejętność: Nieskończony Festiwal
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         10 |         +5 |      1 |    7 |
 
-##### Umiejętność: Wieczny Festiwal — id 839002
+##### Umiejętność: Wieczny Festiwal
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6584,7 +6562,7 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 - **La Manchaland, Abandoned and Festering** — generuje Gondole wypełnione Bloodfiendami i Bloodbagami w stałych odstępach. gdy Gondola się generuje, określona liczba Bloodfiendów i Bloodbagów może pojawić się na polu bitwy.
 - **Here we go... another lap.** — jeżeli [Wieczny Diabelski Młyn] wynosi 0 i nie ma wrogów do pojawienia się w następnej turze — na koniec tury lub podczas fazy walki — przechodzi do następnej Fazy.
 
-#### Budding Zwei Fixer — id 8394
+#### Budding Zwei Fixer
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6603,7 +6581,7 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 **Części (anatomia):**
 
-##### Korpus — id 839401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6615,33 +6593,31 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 *Opis:* Część
 
-##### Umiejętność: Keeehhhhnnhhh — id 839401
+##### Umiejętność: Keeehhhhnnhhh
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Knnhgh nhhnnh — id 839402
+##### Umiejętność: Knnhgh nhhnnh
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Knngghh — id 839403
+##### Umiejętność: Knngghh
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Knnh — id 839404
+##### Umiejętność: Knnh
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Well-dressed Bloodbag — id 8397
+#### Well-dressed Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6659,7 +6635,7 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 **Części (anatomia):**
 
-##### Korpus — id 839701
+##### Korpus
 
 | Parametr           | Wartość                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------- |
@@ -6671,25 +6647,25 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 *Opis:* Część
 
-##### Umiejętność: Hardblood Stab (×2) — id 9015201
+##### Umiejętność: Hardblood Stab (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Fanfary! — id 840303
+##### Umiejętność: Fanfary!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6707,7 +6683,7 @@ zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 - **This Explosive Insanity!** — jeżeli na koniec tury jeszcze żyje, w następnej turze używa samodetonującej Umiejętności. jeżeli na koniec tury, w której użyła samodetonującej Umiejętności, nadal żyje — ginie.
 
-#### Insane Fashionista Bloodfiend — id 8398
+#### Insane Fashionista Bloodfiend
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6725,7 +6701,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Części (anatomia):**
 
-##### Korpus — id 839801
+##### Korpus
 
 | Parametr           | Wartość                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------- |
@@ -6737,31 +6713,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Festiwal, Festiwal! (×2) — id 9015401
+##### Umiejętność: Festiwal, Festiwal! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Fanfary! — id 840303
+##### Umiejętność: Fanfary!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6779,7 +6755,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.
 - **This Explosive Insanity!** — jeżeli na koniec tury jeszcze żyje, w następnej turze używa samodetonującej Umiejętności. jeżeli na koniec tury, w której użyła samodetonującej Umiejętności, nadal żyje — ginie.
 
-#### Sinister Bloodbag — id 8399
+#### Sinister Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6797,7 +6773,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 839901
+##### Korpus
 
 | Parametr           | Wartość                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------- |
@@ -6809,25 +6785,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Hardblood Thrash (×2) — id 9017001
+##### Umiejętność: Hardblood Thrash (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Lash — id 9017002
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Strike — id 9017003
+##### Umiejętność: Hardblood Strike
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Fanfary! — id 840303
+##### Umiejętność: Fanfary!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6844,7 +6820,7 @@ zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 - **This Explosive Insanity!** — jeżeli na koniec tury jeszcze żyje, w następnej turze używa samodetonującej Umiejętności. jeżeli na koniec tury, w której użyła samodetonującej Umiejętności, nadal żyje — ginie.
 
-#### "Ghost" Bloodfiend of Prayers — id 8400
+#### "Ghost" Bloodfiend of Prayers
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6862,7 +6838,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Części (anatomia):**
 
-##### Korpus — id 840001
+##### Korpus
 
 | Parametr           | Wartość                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------- |
@@ -6874,31 +6850,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. (×2) — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę. (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017203
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017205
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Fanfary! — id 840303
+##### Umiejętność: Fanfary!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6914,7 +6890,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 - Koniec tury: jeżeli zadała obrażenia w tej turze, przywraca 5 SP
 - **This Explosive Insanity!** — jeżeli na koniec tury jeszcze żyje, w następnej turze używa samodetonującej Umiejętności. jeżeli na koniec tury, w której użyła samodetonującej Umiejętności, nadal żyje — ginie.
 
-#### Bloodbag of the Rear Parade — id 8401
+#### Bloodbag of the Rear Parade
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6932,7 +6908,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Części (anatomia):**
 
-##### Korpus — id 840101
+##### Korpus
 
 | Parametr           | Wartość                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------- |
@@ -6944,25 +6920,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Hardblood Lash — id 9017401
+##### Umiejętność: Hardblood Lash
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hardblood Wild Jag — id 9017402
+##### Umiejętność: Hardblood Wild Jag
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9017404
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Fanfary! — id 840303
+##### Umiejętność: Fanfary!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6985,7 +6961,7 @@ zyskuje 1 [Skrzepnięta Krew] i 2 [Kwitnące Ciernie] za każdym razem, gdy trac
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 - **This Explosive Insanity!** — jeżeli na koniec tury jeszcze żyje, w następnej turze używa samodetonującej Umiejętności. jeżeli na koniec tury, w której użyła samodetonującej Umiejętności, nadal żyje — ginie.
 
-#### Bloodfiend of the Happy Parade — id 8402
+#### Bloodfiend of the Happy Parade
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7003,7 +6979,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Części (anatomia):**
 
-##### Korpus — id 840201
+##### Korpus
 
 | Parametr           | Wartość                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------- |
@@ -7015,31 +6991,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Fanfary! — id 840303
+##### Umiejętność: Fanfary!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7064,7 +7040,7 @@ Koniec tury: przy 8+ [Gorączka Święta] używa w następnej turze potężnej U
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.
 - **This Explosive Insanity!** — jeżeli na koniec tury jeszcze żyje, w następnej turze używa samodetonującej Umiejętności. jeżeli na koniec tury, w której użyła samodetonującej Umiejętności, nadal żyje — ginie.
 
-#### Gondola — id 8403
+#### Gondola
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7079,7 +7055,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Gondola — id 840301
+##### Gondola
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -7090,13 +7066,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7106,7 +7082,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Shattering, Scattering Hardblood** — gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [Krwawa Uczta] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.
 
-#### Gondola — id 8404
+#### Gondola
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7121,7 +7097,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Gondola — id 840401
+##### Gondola
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -7132,13 +7108,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7148,7 +7124,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Shattering, Scattering Hardblood** — gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [Krwawa Uczta] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.
 
-#### Gondola — id 8405
+#### Gondola
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7163,7 +7139,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Gondola — id 840501
+##### Gondola
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -7174,13 +7150,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7190,7 +7166,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Shattering, Scattering Hardblood** — gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [Krwawa Uczta] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.
 
-#### Gondola — id 8406
+#### Gondola
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7205,7 +7181,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Gondola — id 840601
+##### Gondola
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -7216,13 +7192,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7232,7 +7208,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Shattering, Scattering Hardblood** — gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [Krwawa Uczta] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.
 
-#### Gondola — id 8407
+#### Gondola
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7247,7 +7223,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Gondola — id 840701
+##### Gondola
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -7258,13 +7234,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7274,7 +7250,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Shattering, Scattering Hardblood** — gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [Krwawa Uczta] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.
 
-#### Gondola — id 8408
+#### Gondola
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7289,7 +7265,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Gondola — id 840801
+##### Gondola
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -7300,13 +7276,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7316,7 +7292,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Shattering, Scattering Hardblood** — gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [Krwawa Uczta] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.
 
-#### Gondola — id 8409
+#### Gondola
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7331,7 +7307,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Gondola — id 840901
+##### Gondola
 
 | Parametr   | Wartość                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -7342,13 +7318,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!!
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7358,7 +7334,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 - **Shattering, Scattering Hardblood** — gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [Krwawa Uczta] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.
 
-#### Don Quixote — id 8410
+#### Don Quixote
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7381,7 +7357,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Korpus — id 841001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                           |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7393,79 +7369,79 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Palące Pragnienie — id 841001
+##### Umiejętność: Palące Pragnienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bądź Nadziany — id 841002
+##### Umiejętność: Bądź Nadziany
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 2 - Stake — id 841003
+##### Umiejętność: Don Quixote Hardblood Arts 2 - Stake
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Wedge — id 841004
+##### Umiejętność: Hardblood Wedge
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      3 |    2 |
 
-##### Umiejętność: Żądza Krwi — id 841005
+##### Umiejętność: Żądza Krwi
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      4 |    7 |
 
-##### Umiejętność: Czas Uczty Krwi — id 841006
+##### Umiejętność: Czas Uczty Krwi
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |   12 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering — id 841007
+##### Umiejętność: Don Quixote Hardblood Arts 4 - Sundering
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         10 |         +3 |      1 |    7 |
 
-##### Umiejętność: Don Quixote Hardblood Arts 14: Mantle — id 841008
+##### Umiejętność: Don Quixote Hardblood Arts 14: Mantle
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Słaby, Ach Słaby — id 841009
+##### Umiejętność: Słaby, Ach Słaby
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |         16 |         −6 |      2 |    1 |
 
-##### Umiejętność: Bloody-Merry-Go-Round — id 841010
+##### Umiejętność: Bloody-Merry-Go-Round
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +2 |      4 |    7 |
 
-##### Umiejętność: Bądź Nadziany — id 841011
+##### Umiejętność: Bądź Nadziany
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ascendant Don Quixote Hardblood Arts - The Sphere — id 841012
+##### Umiejętność: Ascendant Don Quixote Hardblood Arts - The Sphere
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         26 |         +2 |      2 |   12 |
 
-##### Umiejętność: Ascendant Don Quixote Hardblood Arts - La Sangre — id 841013
+##### Umiejętność: Ascendant Don Quixote Hardblood Arts - La Sangre
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -7485,7 +7461,7 @@ przy dochodzeniu do siebie z Paniki:
 - **Bloodfeast** — jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [Krwawa Uczta] rośnie o łączną wartość obrażeń [Krwawienie] otrzymanych przez wszystkie jednostki.
 gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wypełnia powierzchnię po brzegi.
 
-#### Coagulated Dream — id 8411
+#### Coagulated Dream
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7500,7 +7476,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Części (anatomia):**
 
-##### Dreamshard — id 841101
+##### Dreamshard
 
 | Parametr           | Wartość                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------- |
@@ -7526,7 +7502,7 @@ przy pokonaniu przez Grzesznika tworzy Memories of the Dreaming Adventure
 - **I never should've dreamed this irresponsible dream** — jeżeli ta jednostka ma [Nieodpowiedzialny Sen], Memories of the Dreaming Adventure nie zostaną utworzone przy śmierci
 - **The adventure ends here.** — Don Quixote zyskuje Tarczę na każdym Początku tury.
 
-#### Impaling Spear — id 8412
+#### Impaling Spear
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7541,7 +7517,7 @@ przy pokonaniu przez Grzesznika tworzy Memories of the Dreaming Adventure
 
 **Części (anatomia):**
 
-##### Hardblood Fragment — id 841201
+##### Hardblood Fragment
 
 | Parametr           | Wartość                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------- |
@@ -7565,7 +7541,7 @@ przy pokonaniu przez Grzesznika tworzy Memories of the Dreaming Adventure
 następnie sojusznik przebit przez tę jednostkę otrzymuje stałe obrażenia równe 30% Maks. HP i zyskuje 10 Siły [Krwawienie] oraz 5 Licznika [Krwawienie].
 - **Total Blood Coagulation** — gdy zostaje pokonana przez prawdziwego Don Quixote, uruchamia efekt przy śmierci, a sojusznik przebit przez tę jednostkę ginie.
 
-#### Memories of the Dreaming Adventure — id 8413
+#### Memories of the Dreaming Adventure
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7580,7 +7556,7 @@ następnie sojusznik przebit przez tę jednostkę otrzymuje stałe obrażenia r�
 
 **Części (anatomia):**
 
-##### Memories of the Adventure — id 841301
+##### Memories of the Adventure
 
 | Parametr   | Wartość                                                                                 |
 | ---------- | --------------------------------------------------------------------------------------- |
@@ -7591,7 +7567,7 @@ następnie sojusznik przebit przez tę jednostkę otrzymuje stałe obrażenia r�
 
 *Opis:* jednostka
 
-##### Umiejętność: Błyszczące Wspomnienia Przygody — id 841301
+##### Umiejętność: Błyszczące Wspomnienia Przygody
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -7603,7 +7579,7 @@ następnie sojusznik przebit przez tę jednostkę otrzymuje stałe obrażenia r�
 nakłada specjalny efekt na Grzesznika Don Quixote
 - **Reminders of Determination** — gdy zostaje pokonana przez Don Quixote: Don Quixote zyskuje 3 [Spadek Mocy Ataku] w tej turze i następnej.
 
-#### Budding Bloodbag — id 90162
+#### Budding Bloodbag
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7622,25 +7598,25 @@ nakłada specjalny efekt na Grzesznika Don Quixote
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
-##### Umiejętność: Hardblood Stab — id 9015201
+##### Umiejętność: Hardblood Stab
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hardblood Cleave — id 9015202
+##### Umiejętność: Hardblood Cleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Hardblood Powercleave — id 9015203
+##### Umiejętność: Hardblood Powercleave
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9015204
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -7667,7 +7643,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 zyskuje 1 [Skrzepnięta Krew] za każdym razem, gdy traci 20% HP.
 jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [Krwawa Uczta] o 30
 
-#### Budding Bloodfiend — id 90166
+#### Budding Bloodfiend
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7686,31 +7662,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
-##### Umiejętność: Festiwal, Festiwal! — id 9015401
+##### Umiejętność: Festiwal, Festiwal!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przebiorę Cię — id 9015402
+##### Umiejętność: Przebiorę Cię
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mamy dla Was Event! — id 9015403
+##### Umiejętność: Mamy dla Was Event!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nie Pędź Mnie — id 9015404
+##### Umiejętność: Nie Pędź Mnie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 9015405
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -7740,7 +7716,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Blossomed Bloodfiend — id 90167
+#### Blossomed Bloodfiend
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7759,25 +7735,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
-##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę.
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zblakła Cierpliwość — id 9017103
+##### Umiejętność: Zblakła Cierpliwość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 9017105
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -7806,7 +7782,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Bloomed Bloodfiend — id 90168
+#### Bloomed Bloodfiend
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -7825,25 +7801,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
-##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9017505
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |

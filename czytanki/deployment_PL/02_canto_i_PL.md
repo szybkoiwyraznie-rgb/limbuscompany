@@ -9,7 +9,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 1); Ostry Chuligan ×1 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 - **Fala 2:** Chuligan Liczący Liczby ×2 (poz. 1); Ostry Chuligan ×2 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 
-#### Chuligan Liczący Liczby — id 90004
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×4 (poz. 1).*
 
@@ -28,15 +28,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9000401
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 90005
+#### Ostry Chuligan
 
 *Wystąpienia: ×3 (poz. 1).*
 
@@ -55,15 +53,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9000501
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 90006
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×2 (poz. 1).*
 
@@ -82,19 +78,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9000601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 1-2 · Pora tańca
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 1); Ostry Chuligan ×1 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 
-#### Chuligan Liczący Liczby — id 99022
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -111,15 +105,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Nieudolna Rąbanka — id 9902201
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99023
+#### Ostry Chuligan
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -136,15 +128,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Skolcone Pchnięcie — id 9902301
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99026
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -161,20 +151,18 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Słabiutkie Uderzenie — id 9902601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 1-3 · Pokład autobusu
 
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 - **Fala 2:** Wygłodniały Chuligan ×2 (poz. 1); Chuligan Liczący Liczby ×1 (poz. 1)
 
-#### Chuligan Liczący Liczby — id 90004
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×3 (poz. 1).*
 
@@ -193,15 +181,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9000401
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 90006
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×3 (poz. 1).*
 
@@ -220,20 +206,18 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9000601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 1-4 · Enkefalina
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 2); Ostry Chuligan ×1 (poz. 2); Wygłodniały Chuligan ×1 (poz. 2)
 - **Fala 2:** Chuligan Liczący Liczby ×1 (poz. 2); Ostry Chuligan ×1 (poz. 2); Wygłodniały Chuligan ×1 (poz. 2); Chuligan z Wielkim Łbem ×1 (poz. 2)
 
-#### Chuligan Liczący Liczby — id 90004
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×2 (poz. 2).*
 
@@ -252,15 +236,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9000401
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 90005
+#### Ostry Chuligan
 
 *Wystąpienia: ×2 (poz. 2).*
 
@@ -279,15 +261,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9000501
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 90006
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×2 (poz. 2).*
 
@@ -306,15 +286,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9000601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan z Wielkim Łbem — id 90007
+#### Chuligan z Wielkim Łbem
 
 *Wystąpienia: ×1 (poz. 2).*
 
@@ -333,32 +311,30 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Obuch (×3) — id 9000701
+##### Umiejętność: Obuch (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Ciężki Cios — id 9000702
+##### Umiejętność: Ciężki Cios
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blok — id 9000703
+##### Umiejętność: Blok
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 1-5 · Yuri
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 3); Ostry Chuligan ×1 (poz. 3); Wygłodniały Chuligan ×1 (poz. 3)
 - **Fala 2:** Chuligan z Wielkim Łbem ×2 (poz. 3); Obdarty Rozbity Żołnierz ×1 (poz. 3)
 
-#### Chuligan Liczący Liczby — id 90004
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -377,15 +353,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9000401
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 90005
+#### Ostry Chuligan
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -404,15 +378,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9000501
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 90006
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -431,15 +403,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9000601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan z Wielkim Łbem — id 90007
+#### Chuligan z Wielkim Łbem
 
 *Wystąpienia: ×2 (poz. 3).*
 
@@ -458,27 +428,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Obuch (×3) — id 9000701
+##### Umiejętność: Obuch (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Ciężki Cios — id 9000702
+##### Umiejętność: Ciężki Cios
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blok — id 9000703
+##### Umiejętność: Blok
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Obdarty Rozbity Żołnierz — id 90010
+#### Obdarty Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -497,26 +465,24 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9001001
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9001002
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 1-6 · Mapa
 
 - **Fala 1:** Ostry Chuligan ×1 (poz. 3); Wygłodniały Chuligan ×1 (poz. 3); Chuligan z Wielkim Łbem ×1 (poz. 3)
 - **Fala 2:** Chuligan z Wielkim Łbem ×2 (poz. 3); Zakłopotany Rozbity Żołnierz ×1 (poz. 3); Obdarty Rozbity Żołnierz ×1 (poz. 3)
 
-#### Ostry Chuligan — id 90005
+#### Ostry Chuligan
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -535,15 +501,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9000501
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 90006
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -562,15 +526,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9000601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan z Wielkim Łbem — id 90007
+#### Chuligan z Wielkim Łbem
 
 *Wystąpienia: ×3 (poz. 3).*
 
@@ -589,27 +551,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Obuch (×3) — id 9000701
+##### Umiejętność: Obuch (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Ciężki Cios — id 9000702
+##### Umiejętność: Ciężki Cios
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blok — id 9000703
+##### Umiejętność: Blok
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Zakłopotany Rozbity Żołnierz — id 90009
+#### Zakłopotany Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -628,15 +588,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9000901
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Obdarty Rozbity Żołnierz — id 90010
+#### Obdarty Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 3).*
 
@@ -655,25 +613,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9001001
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9001002
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 1-7 · Trójka
 
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 4); Ostry Chuligan ×1 (poz. 4); Chuligan z Wielkim Łbem ×1 (poz. 4); Wygłodniały Chuligan ×1 (poz. 4)
 
-#### Chuligan Liczący Liczby — id 99022
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×2 (poz. 4).*
 
@@ -690,15 +646,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Nieudolna Rąbanka — id 9902201
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99023
+#### Ostry Chuligan
 
 *Wystąpienia: ×1 (poz. 4).*
 
@@ -715,15 +669,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Skolcone Pchnięcie — id 9902301
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan z Wielkim Łbem — id 99024
+#### Chuligan z Wielkim Łbem
 
 *Wystąpienia: ×1 (poz. 4).*
 
@@ -740,15 +692,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Ciężkie Uderzenie — id 9902401
+##### Umiejętność: Ciężkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         13 |         +0 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99026
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×1 (poz. 4).*
 
@@ -765,19 +715,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Słabiutkie Uderzenie — id 9902601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 1-8 · Szkodniki
 
 - **Fala 1:** Zakłopotany Rozbity Żołnierz ×2 (poz. 4); Obdarty Rozbity Żołnierz ×2 (poz. 4); Zakłopotany Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Zakłopotany Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Obdarty Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Obdarty Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 4) (wsparcie)
 
-#### Zakłopotany Rozbity Żołnierz — id 90009
+#### Zakłopotany Rozbity Żołnierz
 
 *Wystąpienia: ×4 (poz. 4) · też jako wsparcie.*
 
@@ -796,15 +744,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9000901
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Obdarty Rozbity Żołnierz — id 90010
+#### Obdarty Rozbity Żołnierz
 
 *Wystąpienia: ×4 (poz. 4) · też jako wsparcie.*
 
@@ -823,21 +769,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9001001
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9001002
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Podły Rozbity Żołnierz — id 90011
+#### Podły Rozbity Żołnierz
 
 *Wystąpienia: ×3 (poz. 4) · też jako wsparcie.*
 
@@ -856,7 +800,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9001101
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -870,7 +814,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Rozgniewany Rozbity Żołnierz ×1 (poz. 5); Zakłopotany Rozbity Żołnierz ×1 (poz. 5); Brudnojęzyczny Rozbity Żołnierz ×1 (poz. 5); Naostrzony Rozbity Żołnierz ×1 (poz. 5); Podły Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Umocniony Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Zmroczony Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Zacięty Rozbity Żołnierz ×1 (poz. 5) (wsparcie)
 
-#### Rozgniewany Rozbity Żołnierz — id 90008
+#### Rozgniewany Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 5).*
 
@@ -889,15 +833,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9000801
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Zakłopotany Rozbity Żołnierz — id 90009
+#### Zakłopotany Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 5).*
 
@@ -916,15 +858,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9000901
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Brudnojęzyczny Rozbity Żołnierz — id 90012
+#### Brudnojęzyczny Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 5).*
 
@@ -943,13 +883,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9001201
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 9001202
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -959,7 +899,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Injured Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.
 
-#### Naostrzony Rozbity Żołnierz — id 90013
+#### Naostrzony Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 5).*
 
@@ -978,13 +918,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9001301
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9001302
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -994,7 +934,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Injured Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.
 
-#### Podły Rozbity Żołnierz — id 90011
+#### Podły Rozbity Żołnierz
 
 *Wystąpienia: ×2 (poz. 5) · też jako wsparcie.*
 
@@ -1013,7 +953,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9001101
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1023,7 +963,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Injured Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.
 
-#### Umocniony Rozbity Żołnierz — id 90001
+#### Umocniony Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 5) · też jako wsparcie.*
 
@@ -1042,13 +982,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zmiatanie (×3) — id 9000103
+##### Umiejętność: Zmiatanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9000104
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1058,7 +998,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-#### Zmroczony Rozbity Żołnierz — id 90002
+#### Zmroczony Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 5) · też jako wsparcie.*
 
@@ -1077,13 +1017,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pchnięcie (×3) — id 9000203
+##### Umiejętność: Pchnięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Seria Pchnięć — id 9000204
+##### Umiejętność: Seria Pchnięć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1093,7 +1033,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-#### Zacięty Rozbity Żołnierz — id 90003
+#### Zacięty Rozbity Żołnierz
 
 *Wystąpienia: ×1 (poz. 5) · też jako wsparcie.*
 
@@ -1112,13 +1052,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamach (×2) — id 9000303
+##### Umiejętność: Zamach (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9000304
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1133,7 +1073,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 1:** Peccatulum Obżarstwa ×4 (poz. 5)
 - **Fala 2:** Peccatulum Obżarstwa ×2 (poz. 5); Peccatulum Obżarstwa ×2 (poz. 5)
 
-#### Peccatulum Obżarstwa — id 1142
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×4 (poz. 5).*
 
@@ -1148,7 +1088,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1160,15 +1100,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite — id 800501
+##### Umiejętność: Bite
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 1143
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 5).*
 
@@ -1183,7 +1121,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 114301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1195,15 +1133,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Gonicie i Gryzienie — id 114301
+##### Umiejętność: Gonicie i Gryzienie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 8005
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 5).*
 
@@ -1218,7 +1154,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1230,25 +1166,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100102
 
 - **Fala 1:** Peccatulum Lenistwa ×2 (poz. 4); Peccatulum Obżarstwa ×2 (poz. 4)
 
-#### Peccatulum Lenistwa — id 8006
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×2 (poz. 4).*
 
@@ -1263,7 +1197,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1275,21 +1209,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 8005
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 4).*
 
@@ -1304,7 +1236,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1316,25 +1248,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100103
 
 - **Fala 1:** Peccatulum Gniewu ×2 (poz. 4); Peccatulum Obżarstwa ×2 (poz. 4)
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 4).*
 
@@ -1349,7 +1279,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1361,21 +1291,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 8005
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 4).*
 
@@ -1390,7 +1318,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1402,25 +1330,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 100104
 
 - **Fala 1:** Peccatulum Obżarstwa ×2 (poz. 6); Peccatulum Lenistwa ×2 (poz. 6); Peccatulum Gniewu ×1 (poz. 6)
 
-#### Peccatulum Obżarstwa — id 8005
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 6).*
 
@@ -1435,7 +1361,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1447,21 +1373,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Lenistwa — id 8006
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×2 (poz. 6).*
 
@@ -1476,7 +1400,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1488,21 +1412,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×1 (poz. 6).*
 
@@ -1517,7 +1439,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1529,25 +1451,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100105
 
 - **Fala 1:** Lalka z Gliny Zagłady ×3 (poz. 5)
 
-#### Lalka z Gliny Zagłady — id 8003
+#### Lalka z Gliny Zagłady
 
 *Wystąpienia: ×3 (poz. 5).*
 
@@ -1562,7 +1482,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Głowa — id 800301
+##### Głowa
 
 | Parametr   | Wartość                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1573,25 +1493,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pchnięcie (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Clawing — id 800302
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100106
 
 - **Fala 1:** Lalka z Gliny Zagłady ×2 (poz. 5); Peccatulum Gniewu ×2 (poz. 5)
 
-#### Lalka z Gliny Zagłady — id 8003
+#### Lalka z Gliny Zagłady
 
 *Wystąpienia: ×2 (poz. 5).*
 
@@ -1606,7 +1524,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Głowa — id 800301
+##### Głowa
 
 | Parametr   | Wartość                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1617,21 +1535,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pchnięcie (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Clawing — id 800302
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 5).*
 
@@ -1646,7 +1562,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1658,25 +1574,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100107
 
 - **Fala 1:** Jabłko Hebanowej Królowej ×1 (poz. 6)
 
-#### Jabłko Hebanowej Królowej — id 8001
+#### Jabłko Hebanowej Królowej
 
 *Wystąpienia: ×1 (poz. 6).*
 
@@ -1690,7 +1604,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Owoc — id 800101
+##### Owoc
 
 | Parametr   | Wartość                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1701,7 +1615,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Lewa Łodyga — id 800102
+##### Lewa Łodyga
 
 | Parametr   | Wartość                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1712,7 +1626,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Prawa Łodyga — id 800103
+##### Prawa Łodyga
 
 | Parametr           | Wartość                                                                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1724,7 +1638,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Korzenie — id 800104
+##### Korzenie
 
 | Parametr           | Wartość                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1736,49 +1650,47 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nieufność — id 8001001
+##### Umiejętność: Nieufność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Blady Pęd (×3) — id 8001002
+##### Umiejętność: Blady Pęd (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blady Pęd (×3) — id 8001003
+##### Umiejętność: Blady Pęd (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Korzeniowy Kolec (×2) — id 8001004
+##### Umiejętność: Korzeniowy Kolec (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Wspólny Ból — id 8001005
+##### Umiejętność: Wspólny Ból
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +2 |      1 |    5 |
 
-##### Umiejętność: Owoc Marności — id 8001006
+##### Umiejętność: Owoc Marności
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100108
 
 - **Fala 1:** Kalendarz Zagłady ×1 (poz. 6); Lalka z Gliny Zagłady ×2 (poz. 6); Lalka z Gliny Zagłady ×3 (poz. 6) (wsparcie); Płonąca Lalka z Gliny Zagłady ×4 (poz. 6) (wsparcie); Płonąca Lalka z Gliny Zagłady ×4 (poz. 6) (wsparcie)
 
-#### Kalendarz Zagłady — id 8002
+#### Kalendarz Zagłady
 
 *Wystąpienia: ×1 (poz. 6).*
 
@@ -1798,7 +1710,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Let the Blood Festival Flow** — Bitwa przechodzi do następnej fazy po pokonaniu wszystkich Clay Dollów.
 
-#### Lalka z Gliny Zagłady — id 8003
+#### Lalka z Gliny Zagłady
 
 *Wystąpienia: ×5 (poz. 6) · też jako wsparcie.*
 
@@ -1813,7 +1725,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Głowa — id 800301
+##### Głowa
 
 | Parametr   | Wartość                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1824,21 +1736,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pchnięcie (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Clawing — id 800302
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Płonąca Lalka z Gliny Zagłady — id 8004
+#### Płonąca Lalka z Gliny Zagłady
 
 *Wystąpienia: ×8 (poz. 6) · też jako wsparcie.*
 
@@ -1853,7 +1763,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Głowa — id 800401
+##### Głowa
 
 | Parametr   | Wartość                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1864,31 +1774,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ziajanie Ogniem (×2) — id 800401
+##### Umiejętność: Ziajanie Ogniem (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Brutalny Sztych — id 800402
+##### Umiejętność: Brutalny Sztych
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Bolesne Drapanie — id 800403
+##### Umiejętność: Bolesne Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +4 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100109
 
 - **Fala 1:** Złociste Jabłko ×1 (poz. 8)
 
-#### Złociste Jabłko — id 8008
+#### Złociste Jabłko
 
 *Wystąpienia: ×1 (poz. 8).*
 
@@ -1902,7 +1810,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1914,19 +1822,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Kiełkowanie — id 800801
+##### Umiejętność: Kiełkowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Złoty Owoc — id 800802
+##### Umiejętność: Złoty Owoc
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Lite Złoto — id 800803
+##### Umiejętność: Lite Złoto
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1940,7 +1848,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Peccatulum Gniewu ×3 (poz. 6); Peccatulum Obżarstwa ×2 (poz. 6)
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×3 (poz. 6).*
 
@@ -1955,7 +1863,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1967,21 +1875,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Obżarstwa — id 8005
+#### Peccatulum Obżarstwa
 
 *Wystąpienia: ×2 (poz. 6).*
 
@@ -1996,7 +1902,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2008,25 +1914,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bite (×3) — id 800501
+##### Umiejętność: Bite (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Chciwe Żarcie — id 800502
+##### Umiejętność: Chciwe Żarcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100111
 
 - **Fala 1:** Peccatulum Lenistwa ×3 (poz. 6); Peccatulum Gniewu ×2 (poz. 6)
 
-#### Peccatulum Lenistwa — id 8006
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×3 (poz. 6).*
 
@@ -2041,7 +1945,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2053,21 +1957,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 6).*
 
@@ -2082,7 +1984,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2094,25 +1996,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 100112
 
 - **Fala 1:** Lalka z Gliny Zagłady ×3 (poz. 7)
 
-#### Lalka z Gliny Zagłady — id 8003
+#### Lalka z Gliny Zagłady
 
 *Wystąpienia: ×3 (poz. 7).*
 
@@ -2127,7 +2027,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Głowa — id 800301
+##### Głowa
 
 | Parametr   | Wartość                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2138,16 +2038,14 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pchnięcie (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Clawing — id 800302
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
-
-**Pasywki:** brak

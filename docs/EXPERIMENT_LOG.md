@@ -862,3 +862,27 @@ oraz jawne „Pasywki: brak”.
   Czytanki v5) przeniesione do kosza (odzyskiwalne).
 - **Testy:** `76/76` po przebudowach. `docs/CZYTANKI.md` (opis kart) i
   `docs/STATUS.md` (odnośnik do v6) zaktualizowane.
+
+## E-023 · 2026-11-28 · Karty deploymentów bez technicznych identyfikatorów (uwagi właściciela) — Czytanki v7
+
+Reakcja na dwie uwagi właściciela do serii `deployment_PL`:
+
+- **(a) Usunięte identyfikatory „czysto techniczne”:** nagłówki kart
+  umiejętności, części i jednostek tracą sufiks „ — id NNN” (10 818
+  wystąpień); fallback nazwy umiejętności „umiejętność NNN” → „(bez nazwy)”
+  (381), fallback części „część id NNN” → „(bez nazwy)” (4); Typ paniki bez
+  danych → „(brak danych)” zamiast „id NNNN (brak danych)”; nota o pasywkach
+  bez lokalizacji bez listy id (164). Celowo **zostawiono** fallback
+  „jednostka NNN” (23 karty, m.in. bestie Prologu 99001–99003) — to jedyne
+  rozróżnienie tych jednostek, także w liniach fal etapów.
+- **(b) Pasywki tylko gdy istnieją:** sekcja „**Pasywki:**” renderowana
+  wyłącznie przy rzeczywistych wpisach (1325 kart); usunięte puste
+  „**Pasywki:** brak” (510 kart); przy przypisanych pasywkach bez danych
+  lokalizacji krótka nota „*(przypisane pasywki bez danych
+  lokalizacji)*” (164 kart).
+- **Czytanki v7:** `dist/LCB_Czytanki_PL_2026-11-28_v7.zip` = 99 plików MD,
+  2 562 532 B, SHA-256
+  `cc183faf658974f7618f5827c57d09899f2f9aef99cd3d5527ea0228576b1500`;
+  Drive `1oLAqhxvgNFKv0ExCjkxMZLbTu_X96awU`; v6 w koszu. Patch v6 bez zmian.
+- **Testy:** `76/76`. `docs/CZYTANKI.md` (opis kart) i `docs/STATUS.md`
+  zaktualizowane.

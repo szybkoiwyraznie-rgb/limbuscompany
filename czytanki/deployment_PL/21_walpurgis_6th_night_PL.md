@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Rycerz Rozpaczy ×1 (poz. 55); Sword of a Forgotten Knight ×1 (poz. 55) (wsparcie); Sword of a Forgotten Knight ×1 (poz. 55) (wsparcie); Sword of a Forgotten Knight ×1 (poz. 55) (wsparcie)
 
-#### Rycerz Rozpaczy — id 1223
+#### Rycerz Rozpaczy
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -23,7 +23,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 122301
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -35,37 +35,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* KoD Part
 
-##### Umiejętność: Kaskada Rozpaczy — id 122301
+##### Umiejętność: Kaskada Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ostre Łzy — id 122302
+##### Umiejętność: Ostre Łzy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arkan: Łza i Przebicie — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -84,7 +84,7 @@ przy 3 [Pokruszona Duma] jednostka przestaje zyskiwać [Ochrona] i Tarczę co tu
 na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zimne, Czarne Łzy], zyskuje w następnej turze [Błogosławieństwo Rozpaczy]
 - **One Last Justice** — gdy ta jednostka zostanie trafiona ARCANA SLAVE mając [Zwietczały Rycerz]: nie traci HP poniżej 5%, a na koniec tury unicestwia się
 
-#### Sword of a Forgotten Knight — id 1224
+#### Sword of a Forgotten Knight
 
 *Wystąpienia: ×3 (poz. 55) · też jako wsparcie.*
 
@@ -99,7 +99,7 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 **Części (anatomia):**
 
-##### Korpus — id 122401
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -110,31 +110,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122401
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122402
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122403
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122404
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122405
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -152,7 +152,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 - **Fala 1:** Rycerz Rozpaczy ×1 (poz. 55); Heart-breaking Sword ×1 (poz. 55) (wsparcie); Heart-tearing Sword ×1 (poz. 55) (wsparcie); Heart-piercing Sword ×1 (poz. 55) (wsparcie)
 
-#### Rycerz Rozpaczy — id 1232
+#### Rycerz Rozpaczy
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -167,7 +167,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 **Części (anatomia):**
 
-##### Korpus — id 122301
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -179,37 +179,37 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Part
 
-##### Umiejętność: Kaskada Rozpaczy — id 122301
+##### Umiejętność: Kaskada Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ostre Łzy — id 122302
+##### Umiejętność: Ostre Łzy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arkan: Łza i Przebicie — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -228,7 +228,7 @@ przy 3 [Pokruszona Duma] jednostka przestaje zyskiwać [Ochrona] i Tarczę co tu
 na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zimne, Czarne Łzy], zyskuje w następnej turze [Błogosławieństwo Rozpaczy]
 - **One Last Justice** — gdy ta jednostka zostanie trafiona ARCANA SLAVE mając [Zwietczały Rycerz] i mniej niż 600 HP: nie traci HP poniżej 5%, a na koniec tury unicestwia się
 
-#### Heart-breaking Sword — id 1225
+#### Heart-breaking Sword
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -243,7 +243,7 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 **Części (anatomia):**
 
-##### Korpus — id 122501
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -254,31 +254,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122501
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122502
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122503
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122504
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122505
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -292,7 +292,7 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 - **Respite** — HP tej jednostki nie spada poniżej 1, gdy nie ma [Bezsilne Łzy]
 na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy], przywraca HP do maksimum
 
-#### Heart-tearing Sword — id 1226
+#### Heart-tearing Sword
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -307,7 +307,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 **Części (anatomia):**
 
-##### Korpus — id 122601
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -318,31 +318,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122601
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122602
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122603
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122604
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122605
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -356,7 +356,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 - **Respite** — HP tej jednostki nie spada poniżej 1, gdy nie ma [Bezsilne Łzy]
 na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy], przywraca HP do maksimum
 
-#### Heart-piercing Sword — id 1227
+#### Heart-piercing Sword
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -371,7 +371,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 **Części (anatomia):**
 
-##### Korpus — id 122701
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -382,31 +382,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122701
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122702
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122703
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122704
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122705
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -424,7 +424,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 - **Fala 1:** Rycerz Rozpaczy ×1 (poz. 55); Sword of a Forgotten Knight ×1 (poz. 55) (wsparcie); Sword of a Forgotten Knight ×1 (poz. 55) (wsparcie); Sword of a Forgotten Knight ×1 (poz. 55) (wsparcie)
 
-#### Rycerz Rozpaczy — id 1223
+#### Rycerz Rozpaczy
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -439,7 +439,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 **Części (anatomia):**
 
-##### Korpus — id 122301
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -451,37 +451,37 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Part
 
-##### Umiejętność: Kaskada Rozpaczy — id 122301
+##### Umiejętność: Kaskada Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ostre Łzy — id 122302
+##### Umiejętność: Ostre Łzy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arkan: Łza i Przebicie — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -500,7 +500,7 @@ przy 3 [Pokruszona Duma] jednostka przestaje zyskiwać [Ochrona] i Tarczę co tu
 na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zimne, Czarne Łzy], zyskuje w następnej turze [Błogosławieństwo Rozpaczy]
 - **One Last Justice** — gdy ta jednostka zostanie trafiona ARCANA SLAVE mając [Zwietczały Rycerz]: nie traci HP poniżej 5%, a na koniec tury unicestwia się
 
-#### Sword of a Forgotten Knight — id 1224
+#### Sword of a Forgotten Knight
 
 *Wystąpienia: ×3 (poz. 55) · też jako wsparcie.*
 
@@ -515,7 +515,7 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 **Części (anatomia):**
 
-##### Korpus — id 122401
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -526,31 +526,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122401
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122402
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122403
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122404
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122405
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -568,7 +568,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 - **Fala 1:** Rycerz Rozpaczy ×1 (poz. 55); Heart-breaking Sword ×1 (poz. 55) (wsparcie); Heart-tearing Sword ×1 (poz. 55) (wsparcie); Heart-piercing Sword ×1 (poz. 55) (wsparcie)
 
-#### Rycerz Rozpaczy — id 1232
+#### Rycerz Rozpaczy
 
 *Wystąpienia: ×1 (poz. 55).*
 
@@ -583,7 +583,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 **Części (anatomia):**
 
-##### Korpus — id 122301
+##### Korpus
 
 | Parametr           | Wartość                               |
 | ------------------ | ------------------------------------- |
@@ -595,37 +595,37 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Part
 
-##### Umiejętność: Kaskada Rozpaczy — id 122301
+##### Umiejętność: Kaskada Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ostre Łzy — id 122302
+##### Umiejętność: Ostre Łzy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arkan: Łza i Przebicie — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -644,7 +644,7 @@ przy 3 [Pokruszona Duma] jednostka przestaje zyskiwać [Ochrona] i Tarczę co tu
 na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zimne, Czarne Łzy], zyskuje w następnej turze [Błogosławieństwo Rozpaczy]
 - **One Last Justice** — gdy ta jednostka zostanie trafiona ARCANA SLAVE mając [Zwietczały Rycerz] i mniej niż 600 HP: nie traci HP poniżej 5%, a na koniec tury unicestwia się
 
-#### Heart-breaking Sword — id 1225
+#### Heart-breaking Sword
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -659,7 +659,7 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 **Części (anatomia):**
 
-##### Korpus — id 122501
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -670,31 +670,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122501
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122502
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122503
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122504
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122505
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -708,7 +708,7 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 - **Respite** — HP tej jednostki nie spada poniżej 1, gdy nie ma [Bezsilne Łzy]
 na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy], przywraca HP do maksimum
 
-#### Heart-tearing Sword — id 1226
+#### Heart-tearing Sword
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -723,7 +723,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 **Części (anatomia):**
 
-##### Korpus — id 122601
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -734,31 +734,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122601
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122602
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122603
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122604
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122605
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -772,7 +772,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 - **Respite** — HP tej jednostki nie spada poniżej 1, gdy nie ma [Bezsilne Łzy]
 na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy], przywraca HP do maksimum
 
-#### Heart-piercing Sword — id 1227
+#### Heart-piercing Sword
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
@@ -787,7 +787,7 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 **Części (anatomia):**
 
-##### Korpus — id 122701
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -798,31 +798,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Wyblakła Wiara — id 122701
+##### Umiejętność: Wyblakła Wiara
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zwietrzała Duma — id 122702
+##### Umiejętność: Zwietrzała Duma
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Nieskończona Rozpacz — id 122703
+##### Umiejętność: Nieskończona Rozpacz
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Miecz Zaostrzony Łzami — id 122704
+##### Umiejętność: Miecz Zaostrzony Łzami
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122705
+##### Umiejętność: Klinga Przesiąknięta Żałobą
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |

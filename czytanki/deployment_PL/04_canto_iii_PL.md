@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Peccatulum Gniewu ×2 (poz. 23); Peccatulum Pychy ×1 (poz. 23)
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 23).*
 
@@ -23,7 +23,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,21 +35,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 8018
+#### Peccatulum Pychy
 
 *Wystąpienia: ×1 (poz. 23).*
 
@@ -64,7 +62,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 801801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -76,26 +74,24 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 801801
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 801802
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 3-2 · Kontrola
 
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 16); Ostry Chuligan ×1 (poz. 16); Chuligan z Wielkim Łbem ×1 (poz. 16)
 - **Fala 2:** Chuligan Liczący Liczby ×1 (poz. 16); Ostry Chuligan ×1 (poz. 16); Wygłodniały Chuligan ×1 (poz. 16); Chuligan z Wielkim Łbem ×1 (poz. 16)
 
-#### Chuligan Liczący Liczby — id 90004
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×3 (poz. 16).*
 
@@ -114,15 +110,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Nieudolna Rąbanka — id 9000401
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 90005
+#### Ostry Chuligan
 
 *Wystąpienia: ×2 (poz. 16).*
 
@@ -141,15 +135,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skolcone Pchnięcie — id 9000501
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Chuligan z Wielkim Łbem — id 90007
+#### Chuligan z Wielkim Łbem
 
 *Wystąpienia: ×2 (poz. 16).*
 
@@ -168,27 +160,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Obuch (×3) — id 9000701
+##### Umiejętność: Obuch (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Ciężki Cios — id 9000702
+##### Umiejętność: Ciężki Cios
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blok — id 9000703
+##### Umiejętność: Blok
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 90006
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×1 (poz. 16).*
 
@@ -207,19 +197,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Słabiutkie Uderzenie — id 9000601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-4 · Tabu
 
 - **Fala 1:** Spokojny Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 20); Cichy Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 20); Spokojny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 20) (wsparcie); Cichy Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 20) (wsparcie); Spokojny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 20) (wsparcie); Cichy Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 20) (wsparcie)
 
-#### Spokojny Strażnik Punktu Kontrolnego K Corp. — id 90028
+#### Spokojny Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×4 (poz. 20) · też jako wsparcie.*
 
@@ -238,25 +226,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Stłumienie — id 9002901
+##### Umiejętność: Stłumienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -267,7 +255,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Cichy Strażnik Punktu Kontrolnego K Corp. — id 90029
+#### Cichy Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×4 (poz. 20) · też jako wsparcie.*
 
@@ -286,25 +274,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stłumienie (×3) — id 9002901
+##### Umiejętność: Stłumienie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Szturm — id 9002801
+##### Umiejętność: Szturm
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -319,7 +307,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Spokojny Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 18); Cichy Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 18); Spokojny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 18) (wsparcie); Cichy Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 18) (wsparcie); Prostolinijny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 18) (wsparcie); Solidny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 18) (wsparcie)
 
-#### Spokojny Strażnik Punktu Kontrolnego K Corp. — id 90028
+#### Spokojny Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×3 (poz. 18) · też jako wsparcie.*
 
@@ -338,25 +326,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Stłumienie — id 9002901
+##### Umiejętność: Stłumienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -367,7 +355,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Cichy Strażnik Punktu Kontrolnego K Corp. — id 90029
+#### Cichy Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×3 (poz. 18) · też jako wsparcie.*
 
@@ -386,25 +374,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stłumienie (×3) — id 9002901
+##### Umiejętność: Stłumienie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Szturm — id 9002801
+##### Umiejętność: Szturm
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -415,7 +403,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Prostolinijny Strażnik Punktu Kontrolnego K Corp. — id 90030
+#### Prostolinijny Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×1 (poz. 18) · też jako wsparcie.*
 
@@ -434,19 +422,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×3)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Defend — id 9003001
+##### Umiejętność: Defend
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Osłona — id 9003101
+##### Umiejętność: Osłona
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -457,7 +445,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Solidny Strażnik Punktu Kontrolnego K Corp. — id 90031
+#### Solidny Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×1 (poz. 18) · też jako wsparcie.*
 
@@ -476,19 +464,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×2) — id 9003002
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -503,7 +491,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Spokojny Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 19); Cichy Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19); Prostolinijny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19); Solidny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19); Spokojny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19) (wsparcie); Cichy Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19) (wsparcie); Cichy Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19) (wsparcie); Prostolinijny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19) (wsparcie); Solidny Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 19) (wsparcie)
 
-#### Spokojny Strażnik Punktu Kontrolnego K Corp. — id 90028
+#### Spokojny Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×3 (poz. 19) · też jako wsparcie.*
 
@@ -522,25 +510,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Stłumienie — id 9002901
+##### Umiejętność: Stłumienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -551,7 +539,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Cichy Strażnik Punktu Kontrolnego K Corp. — id 90029
+#### Cichy Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×3 (poz. 19) · też jako wsparcie.*
 
@@ -570,25 +558,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stłumienie (×3) — id 9002901
+##### Umiejętność: Stłumienie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Szturm — id 9002801
+##### Umiejętność: Szturm
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -599,7 +587,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Prostolinijny Strażnik Punktu Kontrolnego K Corp. — id 90030
+#### Prostolinijny Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 19) · też jako wsparcie.*
 
@@ -618,19 +606,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×3)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Defend — id 9003001
+##### Umiejętność: Defend
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Osłona — id 9003101
+##### Umiejętność: Osłona
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -641,7 +629,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Solidny Strażnik Punktu Kontrolnego K Corp. — id 90031
+#### Solidny Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 19) · też jako wsparcie.*
 
@@ -660,19 +648,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×2) — id 9003002
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -687,7 +675,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Inkwizytor Idący Naprzód ×1 (poz. 24); Inkwizytor Mający Wszystko ×1 (poz. 24)
 
-#### Inkwizytor Idący Naprzód — id 8024
+#### Inkwizytor Idący Naprzód
 
 *Wystąpienia: ×1 (poz. 24).*
 
@@ -701,7 +689,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Prawe Ramię — id 802401
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -713,25 +701,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -745,7 +733,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-#### Inkwizytor Mający Wszystko — id 8026
+#### Inkwizytor Mający Wszystko
 
 *Wystąpienia: ×1 (poz. 24).*
 
@@ -759,7 +747,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 802601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -771,25 +759,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -807,7 +795,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 - **Fala 1:** Peccatulum Żądzy ×1 (poz. 24); Peccatulum Pychy ×2 (poz. 24)
 
-#### Peccatulum Żądzy — id 8017
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×1 (poz. 24).*
 
@@ -822,7 +810,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 801701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -834,21 +822,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 801701
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 801702
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 8018
+#### Peccatulum Pychy
 
 *Wystąpienia: ×2 (poz. 24).*
 
@@ -863,7 +849,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 801801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -875,25 +861,23 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 801801
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 801802
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-9 · Umowa z tamtego dnia
 
 - **Fala 1:** Pełzający Inkwizytor ×1 (poz. 24); Peccatulum Gniewu ×2 (poz. 24)
 
-#### Pełzający Inkwizytor — id 8027
+#### Pełzający Inkwizytor
 
 *Wystąpienia: ×1 (poz. 24).*
 
@@ -908,7 +892,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 802701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -920,19 +904,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Clawing — id 802701
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Wypatrywanie — id 802702
+##### Umiejętność: Wypatrywanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szturm — id 802703
+##### Umiejętność: Ślepy Szturm
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -944,7 +928,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 24).*
 
@@ -959,7 +943,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -971,25 +955,23 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-10 · Inkwizytorzy
 
 - **Fala 1:** Hołdujący Inkwizytor N Corp. ×3 (poz. 22); Hołdujący Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Hołdujący Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Hołdujący Inkwizytor N Corp. ×1 (poz. 22) (wsparcie)
 
-#### Hołdujący Inkwizytor N Corp. — id 90032
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×6 (poz. 22) · też jako wsparcie.*
 
@@ -1008,19 +990,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1035,7 +1017,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Fala 1:** Hołdujący Inkwizytor N Corp. ×3 (poz. 20)
 - **Fala 2:** Hołdujący Inkwizytor N Corp. ×2 (poz. 20); Uległy Inkwizytor N Corp. ×2 (poz. 20)
 
-#### Hołdujący Inkwizytor N Corp. — id 90032
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×5 (poz. 20).*
 
@@ -1054,19 +1036,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1076,7 +1058,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Uległy Inkwizytor N Corp. — id 90033
+#### Uległy Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 20).*
 
@@ -1095,19 +1077,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stukanie (×3) — id 9003301
+##### Umiejętność: Stukanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1121,7 +1103,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Fala 1:** Hołdujący Inkwizytor N Corp. ×2 (poz. 21); Uległy Inkwizytor N Corp. ×2 (poz. 21); Hołdujący Inkwizytor N Corp. ×1 (poz. 21) (wsparcie); Uległy Inkwizytor N Corp. ×1 (poz. 21) (wsparcie); Służący Inkwizytor N Corp. ×1 (poz. 21) (wsparcie); Hołdujący Inkwizytor N Corp. ×1 (poz. 21) (wsparcie); Uległy Inkwizytor N Corp. ×1 (poz. 21) (wsparcie)
 
-#### Hołdujący Inkwizytor N Corp. — id 90032
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×4 (poz. 21) · też jako wsparcie.*
 
@@ -1140,19 +1122,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1162,7 +1144,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Uległy Inkwizytor N Corp. — id 90033
+#### Uległy Inkwizytor N Corp.
 
 *Wystąpienia: ×4 (poz. 21) · też jako wsparcie.*
 
@@ -1181,19 +1163,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stukanie (×3) — id 9003301
+##### Umiejętność: Stukanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1203,7 +1185,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Służący Inkwizytor N Corp. — id 90034
+#### Służący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 21) · też jako wsparcie.*
 
@@ -1222,19 +1204,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1248,7 +1230,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Fala 1:** Hołdujący Inkwizytor N Corp. ×2 (poz. 22); Uległy Inkwizytor N Corp. ×2 (poz. 22); Hołdujący Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Uległy Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Torturujący Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Obsesyjny Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Najwyższej Radości Inkwizytor N Corp. ×1 (poz. 22) (wsparcie); Guido Wytrwały ×1 (poz. 22) (wsparcie)
 
-#### Hołdujący Inkwizytor N Corp. — id 90032
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 22) · też jako wsparcie.*
 
@@ -1267,19 +1249,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1289,7 +1271,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Uległy Inkwizytor N Corp. — id 90033
+#### Uległy Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 22) · też jako wsparcie.*
 
@@ -1308,19 +1290,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stukanie (×3) — id 9003301
+##### Umiejętność: Stukanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1330,7 +1312,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 90035
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 22) · też jako wsparcie.*
 
@@ -1349,25 +1331,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1378,7 +1360,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Przesłuchujący Inkwizytor N Corp. — id 90036
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 22) · też jako wsparcie.*
 
@@ -1397,25 +1379,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1426,7 +1408,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Obsesyjny Inkwizytor N Corp. — id 90038
+#### Obsesyjny Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 22) · też jako wsparcie.*
 
@@ -1445,25 +1427,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1474,7 +1456,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Najwyższej Radości Inkwizytor N Corp. — id 90039
+#### Najwyższej Radości Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 22) · też jako wsparcie.*
 
@@ -1493,25 +1475,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Jedność — id 9003903
+##### Umiejętność: Jedność
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1522,7 +1504,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Guido Wytrwały — id 91005
+#### Guido Wytrwały
 
 *Wystąpienia: ×1 (poz. 22) · też jako wsparcie.*
 
@@ -1541,31 +1523,31 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie Gwoździ (×3) — id 9100501
+##### Umiejętność: Wbicie Gwoździ (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +1 |      3 |    1 |
 
-##### Umiejętność: Pchnięcie (×2) — id 9100502
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Niezłomna Wiara (×2) — id 9100505
+##### Umiejętność: Niezłomna Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         12 |         +4 |      1 |    1 |
 
-##### Umiejętność: Młoty, Słuchajcie Mnie…! — id 9100503
+##### Umiejętność: Młoty, Słuchajcie Mnie…!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zostajesz Oczyszczony z Grzechu — id 9100504
+##### Umiejętność: Zostajesz Oczyszczony z Grzechu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1583,7 +1565,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Fala 1:** Hołdujący Inkwizytor N Corp. ×2 (poz. 25); Uległy Inkwizytor N Corp. ×2 (poz. 25); Hołdujący Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Uległy Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Torturujący Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 25) (wsparcie)
 
-#### Hołdujący Inkwizytor N Corp. — id 90032
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -1602,19 +1584,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1624,7 +1606,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Uległy Inkwizytor N Corp. — id 90033
+#### Uległy Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -1643,19 +1625,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stukanie (×3) — id 9003301
+##### Umiejętność: Stukanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1665,7 +1647,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 90035
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 25) · też jako wsparcie.*
 
@@ -1684,25 +1666,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1713,7 +1695,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Przesłuchujący Inkwizytor N Corp. — id 90036
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 25) · też jako wsparcie.*
 
@@ -1732,25 +1714,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1765,7 +1747,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Fala 1:** Hołdujący Inkwizytor N Corp. ×2 (poz. 23); Uległy Inkwizytor N Corp. ×2 (poz. 23)
 
-#### Hołdujący Inkwizytor N Corp. — id 90032
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 23).*
 
@@ -1784,19 +1766,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1806,7 +1788,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Uległy Inkwizytor N Corp. — id 90033
+#### Uległy Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 23).*
 
@@ -1825,19 +1807,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stukanie (×3) — id 9003301
+##### Umiejętność: Stukanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1851,7 +1833,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Fala 1:** Służący Inkwizytor N Corp. ×2 (poz. 24); Torturujący Inkwizytor N Corp. ×1 (poz. 24); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 24); Torturujący Inkwizytor N Corp. ×1 (poz. 24) (wsparcie); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 24) (wsparcie); Sadystyczny Inkwizytor N Corp. ×1 (poz. 24) (wsparcie); Obsesyjny Inkwizytor N Corp. ×1 (poz. 24) (wsparcie); Najwyższej Radości Inkwizytor N Corp. ×1 (poz. 24) (wsparcie)
 
-#### Służący Inkwizytor N Corp. — id 90034
+#### Służący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 24).*
 
@@ -1870,19 +1852,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1892,7 +1874,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 90035
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 24) · też jako wsparcie.*
 
@@ -1911,25 +1893,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1940,7 +1922,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Przesłuchujący Inkwizytor N Corp. — id 90036
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 24) · też jako wsparcie.*
 
@@ -1959,25 +1941,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1988,7 +1970,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Sadystyczny Inkwizytor N Corp. — id 90037
+#### Sadystyczny Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 24) · też jako wsparcie.*
 
@@ -2007,25 +1989,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2036,7 +2018,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Obsesyjny Inkwizytor N Corp. — id 90038
+#### Obsesyjny Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 24) · też jako wsparcie.*
 
@@ -2055,25 +2037,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2084,7 +2066,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Najwyższej Radości Inkwizytor N Corp. — id 90039
+#### Najwyższej Radości Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 24) · też jako wsparcie.*
 
@@ -2103,25 +2085,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Jedność — id 9003903
+##### Umiejętność: Jedność
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2136,7 +2118,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Fala 1:** Służący Inkwizytor N Corp. ×2 (poz. 25); Torturujący Inkwizytor N Corp. ×1 (poz. 25); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 25); Służący Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Torturujący Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Obsesyjny Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Najwyższej Radości Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Sadystyczny Inkwizytor N Corp. ×2 (poz. 25) (wsparcie); Obsesyjny Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Najwyższej Radości Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Nieustraszony Inkwizytor N Corp. ×1 (poz. 25) (wsparcie)
 
-#### Służący Inkwizytor N Corp. — id 90034
+#### Służący Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -2155,19 +2137,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2177,7 +2159,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 90035
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -2196,25 +2178,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2225,7 +2207,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Przesłuchujący Inkwizytor N Corp. — id 90036
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -2244,25 +2226,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2273,7 +2255,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Obsesyjny Inkwizytor N Corp. — id 90038
+#### Obsesyjny Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -2292,25 +2274,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2321,7 +2303,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Najwyższej Radości Inkwizytor N Corp. — id 90039
+#### Najwyższej Radości Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -2340,25 +2322,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Jedność — id 9003903
+##### Umiejętność: Jedność
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2369,7 +2351,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Sadystyczny Inkwizytor N Corp. — id 90037
+#### Sadystyczny Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -2388,25 +2370,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2417,7 +2399,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Nieustraszony Inkwizytor N Corp. — id 90040
+#### Nieustraszony Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 25) · też jako wsparcie.*
 
@@ -2436,25 +2418,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2469,7 +2451,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Fala 1:** Hołdujący Inkwizytor N Corp. ×1 (poz. 27); Uległy Inkwizytor N Corp. ×1 (poz. 27); Torturujący Inkwizytor N Corp. ×1 (poz. 27); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 27); Sadystyczny Inkwizytor N Corp. ×1 (poz. 27) (wsparcie); Obsesyjny Inkwizytor N Corp. ×1 (poz. 27) (wsparcie); Najwyższej Radości Inkwizytor N Corp. ×1 (poz. 27) (wsparcie); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 27) (wsparcie); Obsesyjny Inkwizytor N Corp. ×1 (poz. 27) (wsparcie); Najwyższej Radości Inkwizytor N Corp. ×1 (poz. 27) (wsparcie); Guido Wytrwały ×1 (poz. 27) (wsparcie)
 
-#### Hołdujący Inkwizytor N Corp. — id 90032
+#### Hołdujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -2488,19 +2470,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie (×3) — id 9003201
+##### Umiejętność: Wbicie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2510,7 +2492,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Uległy Inkwizytor N Corp. — id 90033
+#### Uległy Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -2529,19 +2511,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Stukanie (×3) — id 9003301
+##### Umiejętność: Stukanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2551,7 +2533,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 90035
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -2570,25 +2552,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2599,7 +2581,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Przesłuchujący Inkwizytor N Corp. — id 90036
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 27) · też jako wsparcie.*
 
@@ -2618,25 +2600,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2647,7 +2629,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Sadystyczny Inkwizytor N Corp. — id 90037
+#### Sadystyczny Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 27) · też jako wsparcie.*
 
@@ -2666,25 +2648,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2695,7 +2677,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Obsesyjny Inkwizytor N Corp. — id 90038
+#### Obsesyjny Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 27) · też jako wsparcie.*
 
@@ -2714,25 +2696,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2743,7 +2725,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Najwyższej Radości Inkwizytor N Corp. — id 90039
+#### Najwyższej Radości Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 27) · też jako wsparcie.*
 
@@ -2762,25 +2744,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Jedność — id 9003903
+##### Umiejętność: Jedność
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2791,7 +2773,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Guido Wytrwały — id 91006
+#### Guido Wytrwały
 
 *Wystąpienia: ×1 (poz. 27) · też jako wsparcie.*
 
@@ -2810,49 +2792,49 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wbicie Gwoździ (×3) — id 9100601
+##### Umiejętność: Wbicie Gwoździ (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +1 |      3 |    1 |
 
-##### Umiejętność: Pchnięcie (×2) — id 9100602
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Niezłomna Wiara (×2) — id 9100505
+##### Umiejętność: Niezłomna Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         12 |         +4 |      1 |    1 |
 
-##### Umiejętność: Głupota...! — id 9100606
+##### Umiejętność: Głupota...!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          8 |         −4 |      1 |    1 |
 
-##### Umiejętność: Młoty, Słuchajcie Mnie…! — id 9100503
+##### Umiejętność: Młoty, Słuchajcie Mnie…!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wielkie Dzieło Zostanie Spełnione…! — id 9100603
+##### Umiejętność: Wielkie Dzieło Zostanie Spełnione…!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Oczyść Się… z Grzechu! — id 9100604
+##### Umiejętność: Oczyść Się… z Grzechu!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Zagłada Heretyków — id 9100605
+##### Umiejętność: Zagłada Heretyków
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2871,7 +2853,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Fala 1:** Służący Inkwizytor N Corp. ×3 (poz. 25); Sadystyczny Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Sadystyczny Inkwizytor N Corp. ×1 (poz. 25) (wsparcie); Sadystyczny Inkwizytor N Corp. ×1 (poz. 25) (wsparcie)
 
-#### Służący Inkwizytor N Corp. — id 90034
+#### Służący Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 25).*
 
@@ -2890,19 +2872,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2912,7 +2894,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Sadystyczny Inkwizytor N Corp. — id 90037
+#### Sadystyczny Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -2931,25 +2913,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2965,7 +2947,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Fala 1:** Służący Inkwizytor N Corp. ×2 (poz. 26); Przesłuchujący Inkwizytor N Corp. ×1 (poz. 26); Torturujący Inkwizytor N Corp. ×1 (poz. 26)
 - **Fala 2:** Sadystyczny Inkwizytor N Corp. ×2 (poz. 26); Obsesyjny Inkwizytor N Corp. ×1 (poz. 26); Najwyższej Radości Inkwizytor N Corp. ×1 (poz. 26)
 
-#### Służący Inkwizytor N Corp. — id 90034
+#### Służący Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 26).*
 
@@ -2984,19 +2966,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwoździowanie (×2) — id 9003202
+##### Umiejętność: Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Młotowanie (×2) — id 9003302
+##### Umiejętność: Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Inkwizycja — id 9003401
+##### Umiejętność: Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3006,7 +2988,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 
-#### Przesłuchujący Inkwizytor N Corp. — id 90036
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -3025,25 +3007,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3054,7 +3036,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 90035
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -3073,25 +3055,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3102,7 +3084,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Sadystyczny Inkwizytor N Corp. — id 90037
+#### Sadystyczny Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 26).*
 
@@ -3121,25 +3103,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3150,7 +3132,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Obsesyjny Inkwizytor N Corp. — id 90038
+#### Obsesyjny Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -3169,25 +3151,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3198,7 +3180,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Najwyższej Radości Inkwizytor N Corp. — id 90039
+#### Najwyższej Radości Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -3217,25 +3199,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Jedność — id 9003903
+##### Umiejętność: Jedność
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3251,7 +3233,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Fala 1:** Przesłuchujący Inkwizytor N Corp. ×1 (poz. 25); Torturujący Inkwizytor N Corp. ×1 (poz. 27); Sadystyczny Inkwizytor N Corp. ×3 (poz. 27)
 - **Fala 2:** Obsesyjny Inkwizytor N Corp. ×2 (poz. 27); Najwyższej Radości Inkwizytor N Corp. ×2 (poz. 27); Nieustraszony Inkwizytor N Corp. ×1 (poz. 27)
 
-#### Przesłuchujący Inkwizytor N Corp. — id 90036
+#### Przesłuchujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -3270,25 +3252,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3299,7 +3281,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Torturujący Inkwizytor N Corp. — id 90035
+#### Torturujący Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -3318,25 +3300,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ośmielasz Się! (×2) — id 9003504
+##### Umiejętność: Ośmielasz Się! (×2)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Agresywne Kazanie — id 9003503
+##### Umiejętność: Agresywne Kazanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3347,7 +3329,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Sadystyczny Inkwizytor N Corp. — id 90037
+#### Sadystyczny Inkwizytor N Corp.
 
 *Wystąpienia: ×3 (poz. 27).*
 
@@ -3366,25 +3348,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
+##### Umiejętność: Surowe Gwoździowanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
+##### Umiejętność: Zamaszyste Młotowanie (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przytłaczające Kazanie — id 9003603
+##### Umiejętność: Przytłaczające Kazanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bezwzględna Inkwizycja — id 9003701
+##### Umiejętność: Bezwzględna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3395,7 +3377,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Obsesyjny Inkwizytor N Corp. — id 90038
+#### Obsesyjny Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 27).*
 
@@ -3414,25 +3396,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3443,7 +3425,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Najwyższej Radości Inkwizytor N Corp. — id 90039
+#### Najwyższej Radości Inkwizytor N Corp.
 
 *Wystąpienia: ×2 (poz. 27).*
 
@@ -3462,25 +3444,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Twarda Wiara (×2) — id 9003804
+##### Umiejętność: Twarda Wiara (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Jedność — id 9003903
+##### Umiejętność: Jedność
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3491,7 +3473,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-#### Nieustraszony Inkwizytor N Corp. — id 90040
+#### Nieustraszony Inkwizytor N Corp.
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -3510,25 +3492,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
+##### Umiejętność: Przebijający Gwóźdź (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Panujący Młot (×2) — id 9003901
+##### Umiejętność: Panujący Młot (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Zbiórka — id 9003803
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Masywna Inkwizycja — id 9004001
+##### Umiejętność: Masywna Inkwizycja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3543,7 +3525,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 - **Fala 1:** Peccatulum Gniewu ×1 (poz. 25); Peccatulum Żądzy ×2 (poz. 25); Peccatulum Pychy ×1 (poz. 25)
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -3558,7 +3540,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3570,21 +3552,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 8017
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×2 (poz. 25).*
 
@@ -3599,7 +3579,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Części (anatomia):**
 
-##### Tułów — id 801701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3611,21 +3591,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 801701
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 801702
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 8018
+#### Peccatulum Pychy
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -3640,7 +3618,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Części (anatomia):**
 
-##### Tułów — id 801801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3652,25 +3630,23 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 801801
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 801802
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-25
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×1 (poz. 25); Peccatulum Żądzy ×3 (poz. 25)
 
-#### Inkwizytor Mający Wszystko — id 8026
+#### Inkwizytor Mający Wszystko
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -3684,7 +3660,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Części (anatomia):**
 
-##### Tułów — id 802601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3696,25 +3672,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3728,7 +3704,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-#### Peccatulum Żądzy — id 8017
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×3 (poz. 25).*
 
@@ -3743,7 +3719,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 801701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3755,25 +3731,23 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 801701
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 801702
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-27
 
 - **Fala 1:** Wijąca Się Bestia ×2 (poz. 24); Inkwizytor Idący Naprzód ×2 (poz. 24)
 
-#### Wijąca Się Bestia — id 8033
+#### Wijąca Się Bestia
 
 *Wystąpienia: ×2 (poz. 24).*
 
@@ -3788,7 +3762,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Prawe Ramię — id 803302
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                  |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3800,39 +3774,37 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Owijające Ramiona (×2) — id 803301
+##### Umiejętność: Owijające Ramiona (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Garda (×4) — id 803304
+##### Umiejętność: Garda (×4)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Zamach — id 803302
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Walicie — id 803303
+##### Umiejętność: Walicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
 
-##### Umiejętność: Wyplucie Jady — id 803305
+##### Umiejętność: Wyplucie Jady
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         −2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Inkwizytor Idący Naprzód — id 8024
+#### Inkwizytor Idący Naprzód
 
 *Wystąpienia: ×2 (poz. 24).*
 
@@ -3846,7 +3818,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Prawe Ramię — id 802401
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3858,25 +3830,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3894,7 +3866,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 - **Fala 1:** Pełzający Inkwizytor ×1 (poz. 26); Peccatulum Pychy ×2 (poz. 26); Peccatulum Żądzy ×1 (poz. 26)
 
-#### Pełzający Inkwizytor — id 8027
+#### Pełzający Inkwizytor
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -3909,7 +3881,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 802701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3921,19 +3893,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Clawing — id 802701
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Wypatrywanie — id 802702
+##### Umiejętność: Wypatrywanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szturm — id 802703
+##### Umiejętność: Ślepy Szturm
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3945,7 +3917,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
 
-#### Peccatulum Pychy — id 8018
+#### Peccatulum Pychy
 
 *Wystąpienia: ×2 (poz. 26).*
 
@@ -3960,7 +3932,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 801801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3972,21 +3944,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 801801
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 801802
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 8017
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -4001,7 +3971,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 801701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4013,25 +3983,23 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 801701
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 801702
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-29
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×2 (poz. 26); Inkwizytor Idący Naprzód ×2 (poz. 26)
 
-#### Inkwizytor Mający Wszystko — id 8026
+#### Inkwizytor Mający Wszystko
 
 *Wystąpienia: ×2 (poz. 26).*
 
@@ -4045,7 +4013,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 802601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4057,25 +4025,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4089,7 +4057,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-#### Inkwizytor Idący Naprzód — id 8024
+#### Inkwizytor Idący Naprzód
 
 *Wystąpienia: ×2 (poz. 26).*
 
@@ -4103,7 +4071,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Prawe Ramię — id 802401
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4115,25 +4083,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4151,7 +4119,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 - **Fala 1:** Peccatulum Gniewu ×1 (poz. 26); Peccatulum Żądzy ×1 (poz. 26); Peccatulum Pychy ×1 (poz. 26)
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -4166,7 +4134,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4178,21 +4146,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Żądzy — id 8017
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -4207,7 +4173,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 801701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4219,21 +4185,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 801701
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 801702
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 8018
+#### Peccatulum Pychy
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -4248,7 +4212,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 801801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4260,25 +4224,23 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 801801
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 801802
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-36
 
 - **Fala 1:** Wijący Się Inkwizytor ×1 (poz. 26)
 
-#### Wijący Się Inkwizytor — id 8028
+#### Wijący Się Inkwizytor
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -4293,7 +4255,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Lewe Ramię — id 802802
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4305,7 +4267,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Prawe Ramię — id 802803
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4317,43 +4279,43 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Owijające Ramiona — id 802801
+##### Umiejętność: Owijające Ramiona
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Zwinięcie w Kłębek — id 802802
+##### Umiejętność: Zwinięcie w Kłębek
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Machanie Ramionami — id 802803
+##### Umiejętność: Machanie Ramionami
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Walicie Ramionami — id 802804
+##### Umiejętność: Walicie Ramionami
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zatrzymany Oddech — id 802805
+##### Umiejętność: Zatrzymany Oddech
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Bolesne Miętołenie — id 802807
+##### Umiejętność: Bolesne Miętołenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         −1 |      3 |    1 |
 
-##### Umiejętność: Bolesny Opor — id 802808
+##### Umiejętność: Bolesny Opor
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4368,7 +4330,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 0 — defensywnych
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×1 (poz. 26); Inkwizytor Idący Naprzód ×1 (poz. 26)
 
-#### Inkwizytor Mający Wszystko — id 8026
+#### Inkwizytor Mający Wszystko
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -4382,7 +4344,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 0 — defensywnych
 
 **Części (anatomia):**
 
-##### Tułów — id 802601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4394,25 +4356,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 0 — defensywnych
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4426,7 +4388,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 0 — defensywnych
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-#### Inkwizytor Idący Naprzód — id 8024
+#### Inkwizytor Idący Naprzód
 
 *Wystąpienia: ×1 (poz. 26).*
 
@@ -4440,7 +4402,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Prawe Ramię — id 802401
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4452,25 +4414,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4488,7 +4450,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 - **Fala 1:** Czteronoga Bestia ×1 (poz. 27); Pełzający Inkwizytor ×2 (poz. 27)
 
-#### Czteronoga Bestia — id 8025
+#### Czteronoga Bestia
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -4503,7 +4465,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 802501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4515,31 +4477,31 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Gwałtowne Drapanie — id 802501
+##### Umiejętność: Gwałtowne Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Wściekły Taran — id 802502
+##### Umiejętność: Wściekły Taran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Poszarpanie — id 802503
+##### Umiejętność: Poszarpanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      4 |    1 |
 
-##### Umiejętność: Wściekły Pościg — id 802504
+##### Umiejętność: Wściekły Pościg
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         13 |        −10 |      1 |    1 |
 
-##### Umiejętność: Ostra Czujność — id 802505
+##### Umiejętność: Ostra Czujność
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4552,7 +4514,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
 - **Shimmering Rage** — przy mniej niż 50% HP wchodzi w stan Szału co turę.
 
-#### Pełzający Inkwizytor — id 8027
+#### Pełzający Inkwizytor
 
 *Wystąpienia: ×2 (poz. 27).*
 
@@ -4567,7 +4529,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 802701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4579,19 +4541,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Clawing — id 802701
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Wypatrywanie — id 802702
+##### Umiejętność: Wypatrywanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szturm — id 802703
+##### Umiejętność: Ślepy Szturm
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4607,7 +4569,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Fala 1:** Peccatulum Żądzy ×1 (poz. 28); Peccatulum Gniewu ×2 (poz. 28); Peccatulum Żądzy ×1 (poz. 28) (wsparcie); Peccatulum Pychy ×1 (poz. 28) (wsparcie); Peccatulum Pychy ×1 (poz. 28) (wsparcie)
 
-#### Peccatulum Żądzy — id 8017
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×2 (poz. 28) · też jako wsparcie.*
 
@@ -4622,7 +4584,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 801701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4634,21 +4596,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 801701
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 801702
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×2 (poz. 28).*
 
@@ -4663,7 +4623,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4675,21 +4635,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 8018
+#### Peccatulum Pychy
 
 *Wystąpienia: ×2 (poz. 28) · też jako wsparcie.*
 
@@ -4704,7 +4662,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 801801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4716,25 +4674,23 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 801801
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 801802
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-44
 
 - **Fala 1:** Czteronoga Bestia ×1 (poz. 28); Pełzający Inkwizytor ×1 (poz. 28)
 
-#### Czteronoga Bestia — id 8025
+#### Czteronoga Bestia
 
 *Wystąpienia: ×1 (poz. 28).*
 
@@ -4749,7 +4705,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 802501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4761,31 +4717,31 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Gwałtowne Drapanie — id 802501
+##### Umiejętność: Gwałtowne Drapanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Wściekły Taran — id 802502
+##### Umiejętność: Wściekły Taran
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Poszarpanie — id 802503
+##### Umiejętność: Poszarpanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      4 |    1 |
 
-##### Umiejętność: Wściekły Pościg — id 802504
+##### Umiejętność: Wściekły Pościg
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         13 |        −10 |      1 |    1 |
 
-##### Umiejętność: Ostra Czujność — id 802505
+##### Umiejętność: Ostra Czujność
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4798,7 +4754,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
 - **Shimmering Rage** — przy mniej niż 50% HP wchodzi w stan Szału co turę.
 
-#### Pełzający Inkwizytor — id 8027
+#### Pełzający Inkwizytor
 
 *Wystąpienia: ×1 (poz. 28).*
 
@@ -4813,7 +4769,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 802701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4825,19 +4781,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Clawing — id 802701
+##### Umiejętność: Clawing
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Wypatrywanie — id 802702
+##### Umiejętność: Wypatrywanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Ślepy Szturm — id 802703
+##### Umiejętność: Ślepy Szturm
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4853,7 +4809,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×1 (poz. 29); Peccatulum Żądzy ×3 (poz. 29)
 
-#### Inkwizytor Mający Wszystko — id 8026
+#### Inkwizytor Mający Wszystko
 
 *Wystąpienia: ×1 (poz. 29).*
 
@@ -4867,7 +4823,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Części (anatomia):**
 
-##### Tułów — id 802601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4879,25 +4835,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Dziwne Oczy — id 802401
+##### Umiejętność: Dziwne Oczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Niedoskonała Imitacja — id 802402
+##### Umiejętność: Niedoskonała Imitacja
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poprawa Skorupy — id 802403
+##### Umiejętność: Poprawa Skorupy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wybuch Kości — id 802404
+##### Umiejętność: Wybuch Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4911,7 +4867,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-#### Peccatulum Żądzy — id 8017
+#### Peccatulum Żądzy
 
 *Wystąpienia: ×3 (poz. 29).*
 
@@ -4926,7 +4882,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 801701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4938,25 +4894,23 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Ściągnięcie — id 801701
+##### Umiejętność: Ściągnięcie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przebijające Pożądanie — id 801702
+##### Umiejętność: Przebijające Pożądanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-47
 
 - **Fala 1:** Wijąca Się Bestia ×3 (poz. 29)
 
-#### Wijąca Się Bestia — id 8033
+#### Wijąca Się Bestia
 
 *Wystąpienia: ×3 (poz. 29).*
 
@@ -4971,7 +4925,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Prawe Ramię — id 803302
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                  |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4983,43 +4937,41 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Owijające Ramiona (×2) — id 803301
+##### Umiejętność: Owijające Ramiona (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Garda (×4) — id 803304
+##### Umiejętność: Garda (×4)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Zamach — id 803302
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Walicie — id 803303
+##### Umiejętność: Walicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
 
-##### Umiejętność: Wyplucie Jady — id 803305
+##### Umiejętność: Wyplucie Jady
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         −2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 3-48
 
 - **Fala 1:** Kromer ×1 (poz. 30)
 
-#### Kromer — id 8029
+#### Kromer
 
 *Wystąpienia: ×1 (poz. 30).*
 
@@ -5034,7 +4986,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 **Części (anatomia):**
 
-##### Tułów — id 802901
+##### Tułów
 
 | Parametr           | Wartość                                                                |
 | ------------------ | ---------------------------------------------------------------------- |
@@ -5046,43 +4998,43 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Głębokie Przebicie — id 802902
+##### Umiejętność: Głębokie Przebicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ściskanie — id 802903
+##### Umiejętność: Ściskanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Chichot — id 802904
+##### Umiejętność: Chichot
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Gwóźdź Nadziający Grzechy — id 802905
+##### Umiejętność: Gwóźdź Nadziający Grzechy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Oczyszczenie — id 802906
+##### Umiejętność: Oczyszczenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Odbiorę Wam Życie! — id 802908
+##### Umiejętność: Odbiorę Wam Życie!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         12 |         +5 |      1 |    1 |
 
-##### Umiejętność: Jesteście Niczym — id 802910
+##### Umiejętność: Jesteście Niczym
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

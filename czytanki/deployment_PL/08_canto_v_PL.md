@@ -9,7 +9,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 1:** Moustachioed Twinhooks Pirate ×3 (poz. 32); Bandana-wearing Twinhooks Pirate ×2 (poz. 32)
 - **Fala 2:** Moustachioed Twinhooks Pirate ×3 (poz. 32); Bandana-wearing Twinhooks Pirate ×2 (poz. 32)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×6 (poz. 32).*
 
@@ -28,25 +28,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -58,7 +58,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 32).*
 
@@ -77,25 +77,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -112,7 +112,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 33); Bandana-wearing Twinhooks Pirate ×3 (poz. 33)
 - **Fala 2:** Moustachioed Twinhooks Pirate ×2 (poz. 33); Bandana-wearing Twinhooks Pirate ×3 (poz. 33)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 33).*
 
@@ -131,25 +131,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -161,7 +161,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×6 (poz. 33).*
 
@@ -180,25 +180,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -214,7 +214,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 34); Bandana-wearing Twinhooks Pirate ×3 (poz. 34); Moustachioed Twinhooks Pirate ×1 (poz. 34) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 34) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 34) (wsparcie); Moustachioed Twinhooks Pirate ×1 (poz. 34) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 34) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 34) (wsparcie)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 34) · też jako wsparcie.*
 
@@ -233,25 +233,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -263,7 +263,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×5 (poz. 34) · też jako wsparcie.*
 
@@ -282,25 +282,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -312,7 +312,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×2 (poz. 34) · też jako wsparcie.*
 
@@ -331,31 +331,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -373,7 +373,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 35); Bandana-wearing Twinhooks Pirate ×3 (poz. 35)
 - **Fala 2:** Moustachioed Twinhooks Pirate ×1 (poz. 35); Bandana-wearing Twinhooks Pirate ×3 (poz. 35); Tough Twinhooks Pirate ×2 (poz. 35)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -392,25 +392,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -422,7 +422,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×6 (poz. 35).*
 
@@ -441,25 +441,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -471,7 +471,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×2 (poz. 35).*
 
@@ -490,31 +490,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -533,7 +533,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 36); Bandana-wearing Twinhooks Pirate ×2 (poz. 36); Agile Twinhooks Pirate ×1 (poz. 36)
 - **Fala 2:** Moustachioed Twinhooks Pirate ×2 (poz. 36); Bandana-wearing Twinhooks Pirate ×2 (poz. 36); Agile Twinhooks Pirate ×1 (poz. 36); Tough Twinhooks Pirate ×1 (poz. 36)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 36).*
 
@@ -552,25 +552,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -582,7 +582,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 36).*
 
@@ -601,25 +601,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -631,7 +631,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×2 (poz. 36).*
 
@@ -650,31 +650,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -687,7 +687,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×1 (poz. 36).*
 
@@ -706,31 +706,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -749,7 +749,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 36); Bandana-wearing Twinhooks Pirate ×1 (poz. 36); Agile Twinhooks Pirate ×1 (poz. 36); Tough Twinhooks Pirate ×1 (poz. 36)
 - **Fala 2:** Moustachioed Twinhooks Pirate ×1 (poz. 36); Bandana-wearing Twinhooks Pirate ×3 (poz. 36); Tough Twinhooks Pirate ×2 (poz. 36)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×3 (poz. 36).*
 
@@ -768,25 +768,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -798,7 +798,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 36).*
 
@@ -817,25 +817,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -847,7 +847,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×1 (poz. 36).*
 
@@ -866,31 +866,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -903,7 +903,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×3 (poz. 36).*
 
@@ -922,31 +922,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -964,7 +964,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 37); Bandana-wearing Twinhooks Pirate ×2 (poz. 37); Moustachioed Twinhooks Pirate ×1 (poz. 37) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 37) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 37) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 37) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 37) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 37) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 37) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 37) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 37) (wsparcie); Twinhook Pirates First Mate Smee ×1 (poz. 37) (wsparcie)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×3 (poz. 37) · też jako wsparcie.*
 
@@ -983,25 +983,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1013,7 +1013,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×3 (poz. 37) · też jako wsparcie.*
 
@@ -1032,25 +1032,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1062,7 +1062,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×3 (poz. 37) · też jako wsparcie.*
 
@@ -1081,31 +1081,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1118,7 +1118,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 37) · też jako wsparcie.*
 
@@ -1137,31 +1137,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1175,7 +1175,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **To the Front Lines!!** — zyskując Ochronę, przy Szybkości 1 zyskuje dodatkowo 1 Ochrony.
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Twinhook Pirates First Mate Smee — id 91012
+#### Twinhook Pirates First Mate Smee
 
 *Wystąpienia: ×1 (poz. 37) · też jako wsparcie.*
 
@@ -1194,37 +1194,37 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tam, tam ich widzę (×3) — id 9101201
+##### Umiejętność: Tam, tam ich widzę (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chłopaki, mamy gościa (×2) — id 9101202
+##### Umiejętność: Chłopaki, mamy gościa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozkaz Bitewny — id 9101203
+##### Umiejętność: Rozkaz Bitewny
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wyszukana Słabość! Ogień! — id 9101204
+##### Umiejętność: Wyszukana Słabość! Ogień!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +7 |      2 |    1 |
 
-##### Umiejętność: Unik — id 9101205
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9101206
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1247,7 +1247,7 @@ pozostali sojusznicy przywracają 10 SP
 
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 36); Bandana-wearing Twinhooks Pirate ×3 (poz. 36); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 36) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 36) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 36) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 36) (wsparcie)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×3 (poz. 36) · też jako wsparcie.*
 
@@ -1266,25 +1266,25 @@ pozostali sojusznicy przywracają 10 SP
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1296,7 +1296,7 @@ pozostali sojusznicy przywracają 10 SP
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×6 (poz. 36) · też jako wsparcie.*
 
@@ -1315,25 +1315,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1345,7 +1345,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×1 (poz. 36) · też jako wsparcie.*
 
@@ -1364,31 +1364,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1405,7 +1405,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 36); Bandana-wearing Twinhooks Pirate ×2 (poz. 36); Agile Twinhooks Pirate ×1 (poz. 36); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 36) (wsparcie); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 36) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 36) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 36) (wsparcie)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 36) · też jako wsparcie.*
 
@@ -1424,25 +1424,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1454,7 +1454,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×2 (poz. 36).*
 
@@ -1473,25 +1473,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1503,7 +1503,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×1 (poz. 36).*
 
@@ -1522,31 +1522,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1559,7 +1559,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 36) · też jako wsparcie.*
 
@@ -1578,31 +1578,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1620,7 +1620,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Fala 1:** Peccatulum Lenistwa ×2 (poz. 39); Peccatulum Posępności ×1 (poz. 39); Peccatulum Pychy ×2 (poz. 39)
 
-#### Peccatulum Lenistwa — id 8065
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×2 (poz. 39).*
 
@@ -1635,7 +1635,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Tułów — id 806501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1647,21 +1647,19 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 806501
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 806502
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 8067
+#### Peccatulum Posępności
 
 *Wystąpienia: ×1 (poz. 39).*
 
@@ -1676,7 +1674,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Tułów — id 806701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1688,21 +1686,19 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 806701
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 806702
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Pychy — id 8069
+#### Peccatulum Pychy
 
 *Wystąpienia: ×2 (poz. 39).*
 
@@ -1717,7 +1713,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Tułów — id 806901
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1729,25 +1725,23 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 806901
+##### Umiejętność: Grinding
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Dumne Miażdżenie — id 806902
+##### Umiejętność: Dumne Miażdżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 5-14 · Pilot 2
 
 - **Fala 1:** Dream-Devouring Siltcurrent ×1 (poz. 40); Flotsam ×1 (poz. 40) (wsparcie)
 
-#### Dream-Devouring Siltcurrent — id 8102
+#### Dream-Devouring Siltcurrent
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1761,7 +1755,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Korpus — id 810201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1773,7 +1767,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Fluorescence — id 810202
+##### Fluorescence
 
 | Parametr           | Wartość                                                                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1785,49 +1779,49 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Bodnięcie Głową — id 810201
+##### Umiejętność: Bodnięcie Głową
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Waliszenie — id 810202
+##### Umiejętność: Waliszenie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Ugniatanie — id 810203
+##### Umiejętność: Ugniatanie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zaślepiona Obsesja — id 810204
+##### Umiejętność: Zaślepiona Obsesja
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         15 |         +2 |      4 |    1 |
 
-##### Umiejętność: Uderzający Prąd Mułu — id 810205
+##### Umiejętność: Uderzający Prąd Mułu
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +1 |      2 |    6 |
 
-##### Umiejętność: Zabłąkana Zaślepota — id 810206
+##### Umiejętność: Zabłąkana Zaślepota
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zamiatanie — id 810207
+##### Umiejętność: Zamiatanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wiercenie — id 810208
+##### Umiejętność: Wiercenie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1841,7 +1835,7 @@ część Fluorescence odrasta po 2 turach.
 zwiększa Licznik Oddechu o 3. od 2. tury, jeżeli część Fluorescence jest zniszczona, zyskuje w tej turze 2 Paraliżu i 2 Spadek Obrażeń.
 - **Siltcurrent** — od 2. tury nakłada 1 Wiązania i 1 Paraliżu Tożsamościom bez [Odłamek Świetlówki]; Tożsamości bez [Odłamek Świetlówki] tracą 3 SP.
 
-#### Flotsam — id 8108
+#### Flotsam
 
 *Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
 
@@ -1855,7 +1849,7 @@ zwiększa Licznik Oddechu o 3. od 2. tury, jeżeli część Fluorescence jest zn
 
 **Części (anatomia):**
 
-##### Flotsam — id 810801
+##### Flotsam
 
 | Parametr   | Wartość                                                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1882,7 +1876,7 @@ staje się Destroyed Flotsam.
 
 - **Fala 1:** Ahab ×1 (poz. 40); Queequeg ×1 (poz. 40); Starbuck ×1 (poz. 40)
 
-#### Ahab — id 8105
+#### Ahab
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1901,7 +1895,7 @@ staje się Destroyed Flotsam.
 
 **Części (anatomia):**
 
-##### Korpus — id 810501
+##### Korpus
 
 | Parametr           | Wartość                 |
 | ------------------ | ----------------------- |
@@ -1913,49 +1907,49 @@ staje się Destroyed Flotsam.
 
 *Opis:* Część
 
-##### Umiejętność: Słuchaj Moich Rozkazów — id 810501
+##### Umiejętność: Słuchaj Moich Rozkazów
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Do mnie! — id 810502
+##### Umiejętność: Do mnie!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Gonicie Ich Do Końca! — id 810503
+##### Umiejętność: Gonicie Ich Do Końca!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Harpun Weterana — id 810504
+##### Umiejętność: Harpun Weterana
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płonący Harpun — id 810505
+##### Umiejętność: Płonący Harpun
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Głupstwo! — id 810506
+##### Umiejętność: Głupstwo!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wydal Tchnienie! — id 810507
+##### Umiejętność: Wydal Tchnienie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hartowanie Śmierci — id 810509
+##### Umiejętność: Hartowanie Śmierci
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1969,7 +1963,7 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 - **Muddled Orders** — gdy ta jednostka przechodzi w Oszołamienie, na koniec tury, jeżeli SP wszystkich pozostałych sojuszników jest poniżej 0, ich SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Queequeg — id 8112
+#### Queequeg
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1989,7 +1983,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 **Części (anatomia):**
 
-##### Korpus — id 811201
+##### Korpus
 
 | Parametr           | Wartość                  |
 | ------------------ | ------------------------ |
@@ -2001,49 +1995,49 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 *Opis:* Część
 
-##### Umiejętność: Harpunowanie — id 810302
+##### Umiejętność: Harpunowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijający Harpun — id 810303
+##### Umiejętność: Przebijający Harpun
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Tropienie Zdobyczy — id 810306
+##### Umiejętność: Tropienie Zdobyczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Przecięcie Gardła — id 810307
+##### Umiejętność: Przecięcie Gardła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
 
-##### Umiejętność: Głęboki Oddech — id 810308
+##### Umiejętność: Głęboki Oddech
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |          8 |         +1 |      1 |    1 |
 
-##### Umiejętność: Muszę... Chronić — id 810310
+##### Umiejętność: Muszę... Chronić
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Harpun Uporu — id 810311
+##### Umiejętność: Harpun Uporu
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         14 |         −3 |      3 |    1 |
 
-##### Umiejętność: Trzeba Skończyć Polowanie... — id 810312
+##### Umiejętność: Trzeba Skończyć Polowanie...
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2060,7 +2054,7 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 - **Engraved Hatred and Animosity** — przy 1 HP przywraca HP do 50% Maks. HP i zyskuje 2 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Starbuck — id 8104
+#### Starbuck
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -2080,7 +2074,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 **Części (anatomia):**
 
-##### Korpus — id 810401
+##### Korpus
 
 | Parametr           | Wartość                   |
 | ------------------ | ------------------------- |
@@ -2092,49 +2086,49 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 *Opis:* Część
 
-##### Umiejętność: Przebicie na Wylot — id 810401
+##### Umiejętność: Przebicie na Wylot
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Przebijające Dzierżenie — id 810402
+##### Umiejętność: Przebijające Dzierżenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wykonuję Rozkazy... — id 810403
+##### Umiejętność: Wykonuję Rozkazy...
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zasadzka — id 810404
+##### Umiejętność: Zasadzka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +9 |      1 |    1 |
 
-##### Umiejętność: Westchnienie Strachu — id 810405
+##### Umiejętność: Westchnienie Strachu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |         12 |         −3 |      3 |    1 |
 
-##### Umiejętność: Harpun Determinacji — id 810406
+##### Umiejętność: Harpun Determinacji
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         16 |         −5 |      2 |    1 |
 
-##### Umiejętność: Aby Się Stąd Wyrwać... — id 810407
+##### Umiejętność: Aby Się Stąd Wyrwać...
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |         20 |        −10 |      1 |    1 |
 
-##### Umiejętność: umiejętność 810408 — id 810408
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2154,7 +2148,7 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 36); Bandana-wearing Twinhooks Pirate ×4 (poz. 36); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 36) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 36) (wsparcie)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×6 (poz. 36) · też jako wsparcie.*
 
@@ -2173,25 +2167,25 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2203,7 +2197,7 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 36).*
 
@@ -2222,25 +2216,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2252,7 +2246,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×1 (poz. 36) · też jako wsparcie.*
 
@@ -2271,31 +2265,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2308,7 +2302,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×1 (poz. 36) · też jako wsparcie.*
 
@@ -2327,31 +2321,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2369,7 +2363,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 36); Bandana-wearing Twinhooks Pirate ×3 (poz. 36); Tough Twinhooks Pirate ×1 (poz. 36); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 36) (wsparcie); Moustachioed Twinhooks Pirate ×1 (poz. 36) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 36) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 36) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 36) (wsparcie)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 36) · też jako wsparcie.*
 
@@ -2388,25 +2382,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2418,7 +2412,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×5 (poz. 36) · też jako wsparcie.*
 
@@ -2437,25 +2431,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2467,7 +2461,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×2 (poz. 36) · też jako wsparcie.*
 
@@ -2486,31 +2480,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2524,7 +2518,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **To the Front Lines!!** — zyskując Ochronę, przy Szybkości 1 zyskuje dodatkowo 1 Ochrony.
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×1 (poz. 36) · też jako wsparcie.*
 
@@ -2543,31 +2537,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2585,7 +2579,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Fala 1:** Whale of the Porous Hand Mermaid ×5 (poz. 37)
 - **Fala 2:** Whale of the Porous Hand Mermaid ×5 (poz. 37); Whale of the Porous Hand Soldier Mermaid ×1 (poz. 37)
 
-#### Whale of the Porous Hand Mermaid — id 90083
+#### Whale of the Porous Hand Mermaid
 
 *Wystąpienia: ×10 (poz. 37).*
 
@@ -2601,25 +2595,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zwracanie Piany (×3) — id 9008301
+##### Umiejętność: Zwracanie Piany (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Clawing (×2) — id 9008302
+##### Umiejętność: Clawing (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Strumień Wody — id 9008303
+##### Umiejętność: Strumień Wody
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Śliski Naskórek — id 9008304
+##### Umiejętność: Śliski Naskórek
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2631,7 +2625,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Connected Pain** — po śmierci zadaje połączonym Syrenom 10 obrażeń i nakłada im 2 Wzrost Obrażeń w następnej turze.
 powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
-#### Whale of the Porous Hand Soldier Mermaid — id 91011
+#### Whale of the Porous Hand Soldier Mermaid
 
 *Wystąpienia: ×1 (poz. 37).*
 
@@ -2647,31 +2641,31 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Strumień Wody (×3) — id 9101101
+##### Umiejętność: Strumień Wody (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wilgotne Uderzenie (×2) — id 9101102
+##### Umiejętność: Wilgotne Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +9 |      1 |    1 |
 
-##### Umiejętność: Uścisk Fal — id 9101103
+##### Umiejętność: Uścisk Fal
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Szlochające Fale — id 9101104
+##### Umiejętność: Szlochające Fale
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         12 |         +4 |      1 |    1 |
 
-##### Umiejętność: Śliski Naskórek — id 9101105
+##### Umiejętność: Śliski Naskórek
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2690,7 +2684,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 - **Fala 3:** Whale of the Porous Hand Mermaid ×3 (poz. 38); Whale of the Porous Hand Soldier Mermaid ×2 (poz. 38)
 - **Fala 4:** Whale of the Porous Hand Mermaid ×3 (poz. 38); Whale of the Porous Hand Soldier Mermaid ×3 (poz. 38)
 
-#### Whale of the Porous Hand Mermaid — id 90083
+#### Whale of the Porous Hand Mermaid
 
 *Wystąpienia: ×15 (poz. 38).*
 
@@ -2706,25 +2700,25 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zwracanie Piany (×3) — id 9008301
+##### Umiejętność: Zwracanie Piany (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Clawing (×2) — id 9008302
+##### Umiejętność: Clawing (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Strumień Wody — id 9008303
+##### Umiejętność: Strumień Wody
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Śliski Naskórek — id 9008304
+##### Umiejętność: Śliski Naskórek
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2736,7 +2730,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 - **Connected Pain** — po śmierci zadaje połączonym Syrenom 10 obrażeń i nakłada im 2 Wzrost Obrażeń w następnej turze.
 powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
-#### Whale of the Porous Hand Soldier Mermaid — id 91011
+#### Whale of the Porous Hand Soldier Mermaid
 
 *Wystąpienia: ×6 (poz. 38).*
 
@@ -2752,31 +2746,31 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Strumień Wody (×3) — id 9101101
+##### Umiejętność: Strumień Wody (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wilgotne Uderzenie (×2) — id 9101102
+##### Umiejętność: Wilgotne Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +9 |      1 |    1 |
 
-##### Umiejętność: Uścisk Fal — id 9101103
+##### Umiejętność: Uścisk Fal
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Szlochające Fale — id 9101104
+##### Umiejętność: Szlochające Fale
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         12 |         +4 |      1 |    1 |
 
-##### Umiejętność: Śliski Naskórek — id 9101105
+##### Umiejętność: Śliski Naskórek
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2790,7 +2784,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 ## Pula Canto V · część 1 (`a1c5p1`) — jednostki bez przypisanego etapu
 
-#### By Nikt Nie Płakał — id 8741
+#### By Nikt Nie Płakał
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2805,7 +2799,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 **Części (anatomia):**
 
-##### Korpus — id 874101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2818,7 +2812,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 *Opis:* Część
 
-##### Prawe Ramię — id 874102
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2831,39 +2825,37 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874101 — id 874101
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874102 — id 874102
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: umiejętność 874103 — id 874103
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      5 |    1 |
 
-##### Umiejętność: umiejętność 874104 — id 874104
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874105 — id 874105
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Błędny Lis — id 8742
+#### Błędny Lis
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2878,7 +2870,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 **Części (anatomia):**
 
-##### Korpus — id 874201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2891,7 +2883,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 *Opis:* Część
 
-##### Głowa — id 874202
+##### Głowa
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2904,37 +2896,37 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874201 — id 874201
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874202 — id 874202
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874203 — id 874203
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874204 — id 874204
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874205 — id 874205
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         12 |         +8 |      1 |    5 |
 
-##### Umiejętność: umiejętność 874206 — id 874206
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2945,7 +2937,7 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 - **Last Struggle** — przy 15% HP Szybkość jednostki zostaje ustalona na 1 i zyskuje 1 Spadek Mocy Ataku.
 nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries Seeking Something'.
 
-#### Stary Parasol — id 8743
+#### Stary Parasol
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2960,7 +2952,7 @@ nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries S
 
 **Części (anatomia):**
 
-##### Parasol — id 874301
+##### Parasol
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2973,7 +2965,7 @@ nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries S
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874301 (×2) — id 874301
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2984,7 +2976,7 @@ nowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries S
 - **Old and Abandoned** — gdy ta jednostka zostaje pokonana, pokonujący ją Grzesznik zyskuje 2 Pośpiechu w następnej turze.
 wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
-#### Wróżkowy Dżentelmen — id 8744
+#### Wróżkowy Dżentelmen
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -2999,7 +2991,7 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
 **Części (anatomia):**
 
-##### Korpus — id 874401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3012,7 +3004,7 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
 *Opis:* Część
 
-##### Lewe Ramię — id 874402
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3025,43 +3017,43 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874401 — id 874401
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874402 — id 874402
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874403 — id 874403
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874404 — id 874404
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874405 — id 874405
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874406 — id 874406
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874407 — id 874407
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3073,7 +3065,7 @@ wszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.
 - **Stimulating Smell, Isn't It?** — tajemniczy zapach wydobywający się z wnętrza podnosi na duchu.
 na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
-#### Wino Wróżek — id 8745
+#### Wino Wróżek
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3088,7 +3080,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Beczka Wina — id 874501
+##### Beczka Wina
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3099,15 +3091,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874501 (×2) — id 874501
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +0 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Długonoga Wróżka — id 8746
+#### Długonoga Wróżka
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3122,7 +3112,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 874601
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3133,7 +3123,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Lewe Ramię — id 874602
+##### Lewe Ramię
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3144,7 +3134,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Głowa — id 874603
+##### Głowa
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3155,31 +3145,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874601 — id 874601
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874602 — id 874602
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874603 — id 874603
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874604 — id 874604
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874605 — id 874605
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3190,7 +3180,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Utracone Środki** — gdy ramię zostaje zniszczone, co turę zyskuje 2 Spadek Mocy Ataku
 - **Uszkodzony Cień** — gdy głowa zostaje zniszczona, co turę zyskuje 4 Spadek Poziomu Obrony i 1 Wrażliwości
 
-#### Wielki Liść — id 8747
+#### Wielki Liść
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3205,7 +3195,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 874701
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3224,7 +3214,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Skażające Liście** — na początku tury nakłada 1 HP Healing Boost i 1 Wzrost Mocy Ataku na Fairy-Long-Legs.
 
-#### Spiżowy Byk — Łzawiący — id 8748
+#### Spiżowy Byk — Łzawiący
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3239,7 +3229,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 874801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3252,37 +3242,37 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874801 — id 874801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874802 — id 874802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874803 — id 874803
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: umiejętność 874804 — id 874804
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874805 — id 874805
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874806 — id 874806
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3292,7 +3282,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Downed by the Horns** — gdy głowa zostaje zniszczona, wszystkie Części przechodzą w stan Oszołamienia w następnej turze. później, przez resztę walki wszystkie Części mają 3 Spadek Mocy Ataku.
 
-#### kqe-1j-23 — id 8749
+#### kqe-1j-23
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3307,7 +3297,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Korpus — id 874901
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3318,55 +3308,55 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 874901 (×2) — id 874901
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874902 (×2) — id 874902
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874903 (×2) — id 874903
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874904 (×2) — id 874904
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         16 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874905 (×2) — id 874905
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874906 (×2) — id 874906
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +7 |      2 |    1 |
 
-##### Umiejętność: umiejętność 874907 (×2) — id 874907
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +2 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874908 (×2) — id 874908
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 874909 (×2) — id 874909
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3376,7 +3366,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Initiating Town Tour** — na początku tury, jeżeli ma 10+ Liczników Ładowania, zmienia wzór zachowania.
 
-#### Serce Mieszkańca Miasteczka — id 8750
+#### Serce Mieszkańca Miasteczka
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3391,7 +3381,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Serce — id 875001
+##### Serce
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3413,7 +3403,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Damage Detected!** — gdy ta jednostka zostaje pokonana, Kqe-1j-23 otrzymuje 100 obrażeń i w następnej turze przechodzi w stan Oszołamienia.
 później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
-#### Szlochająca Ropucha — id 8751
+#### Szlochająca Ropucha
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3428,7 +3418,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 **Części (anatomia):**
 
-##### Korpus — id 875101
+##### Korpus
 
 | Parametr   | Wartość                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3439,7 +3429,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 *Opis:* Część
 
-##### Lewe Oko — id 875102
+##### Lewe Oko
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3452,7 +3442,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 *Opis:* Część
 
-##### Prawe Oko — id 875103
+##### Prawe Oko
 
 | Parametr           | Wartość                                                                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3465,45 +3455,43 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 875101 (×2) — id 875101
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 875102 (×2) — id 875102
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 875103 (×2) — id 875103
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 875104 (×2) — id 875104
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: umiejętność 875105 (×2) — id 875105
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +7 |      1 |    3 |
 
-##### Umiejętność: umiejętność 875108 (×2) — id 875108
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          7 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Przerażony Strażnik Punktu Kontrolnego K Corp. — id 97401
+#### Przerażony Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3522,25 +3510,25 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740101 (×3) — id 9740101
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: umiejętność 9740102 — id 9740102
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: umiejętność 9740103 — id 9740103
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         20 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740104 — id 9740104
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3552,7 +3540,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Skamieniały Strażnik Punktu Kontrolnego K Corp. — id 97402
+#### Skamieniały Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3571,19 +3559,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740201 (×3) — id 9740201
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740202 — id 9740202
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740103 — id 9740103
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3595,7 +3583,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zastraszony Pracownik 1. Klasy K Corp. — id 97403
+#### Zastraszony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3614,25 +3602,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740301 (×3) — id 9740301
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740302 — id 9740302
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740303 — id 9740303
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9740304 — id 9740304
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3644,7 +3632,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 97404
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3663,25 +3651,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740401 (×3) — id 9740401
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740402 — id 9740402
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9740403 — id 9740403
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740404 — id 9740404
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3693,7 +3681,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 97405
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3709,43 +3697,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740501 (×2) — id 9740501
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740502 (×2) — id 9740502
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740503 (×2) — id 9740503
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740504 (×2) — id 9740504
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: umiejętność 9740505 (×2) — id 9740505
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740506 (×2) — id 9740506
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740507 (×2) — id 9740507
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3757,7 +3745,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Ożywiony Strażnik K Corp. — id 97406
+#### Ożywiony Strażnik K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3776,19 +3764,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740601 (×3) — id 9740601
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: umiejętność 9740602 (×3) — id 9740602
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: umiejętność 9740603 — id 9740603
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3801,7 +3789,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Strażnik K Corp. — id 97407
+#### Ożywiony Strażnik K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3820,19 +3808,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740701 (×3) — id 9740701
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740702 (×3) — id 9740702
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9740703 — id 9740703
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3845,7 +3833,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 1. Klasy K Corp. — id 97408
+#### Ożywiony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3864,25 +3852,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740801 (×3) — id 9740801
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740802 — id 9740802
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740803 — id 9740803
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9740804 — id 9740804
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3895,7 +3883,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 1. Klasy K Corp. — id 97409
+#### Ożywiony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3914,25 +3902,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9740901 (×3) — id 9740901
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740902 — id 9740902
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9740903 — id 9740903
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9740904 — id 9740904
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3945,7 +3933,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony — id 97410
+#### Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -3963,19 +3951,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9741001 (×5) — id 9741001
+##### Umiejętność: (bez nazwy) (×5)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9741002 (×3) — id 9741002
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9741003 (×2) — id 9741003
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3996,7 +3984,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Fala 1:** Whale of the Thousand Strands Mermaid ×5 (poz. 35)
 - **Fala 2:** Whale of the Thousand Strands Mermaid ×5 (poz. 35)
 
-#### Whale of the Thousand Strands Mermaid — id 90088
+#### Whale of the Thousand Strands Mermaid
 
 *Wystąpienia: ×10 (poz. 35).*
 
@@ -4007,30 +3995,30 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                                 |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                              |
 | Progi oszołomienia | 45% / 0%                                                                                            |
-| Typ paniki         | id 9998 (brak danych)                                                                               |
+| Typ paniki         | (brak danych)                                                                                       |
 | Odporności         | Kłucie ×1,5; Obżar. ×0,8; Posępność ×0,8; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Sianie Strachu (×3) — id 9008801
+##### Umiejętność: Sianie Strachu (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Wyrycie Grozy (×2) — id 9008802
+##### Umiejętność: Wyrycie Grozy (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: Żniwa Grozy — id 9008803
+##### Umiejętność: Żniwa Grozy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Paraliż Umysłu — id 9008804
+##### Umiejętność: Paraliż Umysłu
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -4045,7 +4033,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Fala 1:** Whale of the Thousand Strands Mermaid ×5 (poz. 35)
 - **Fala 2:** Whale of the Thousand Strands Mermaid ×5 (poz. 35)
 
-#### Whale of the Thousand Strands Mermaid — id 90088
+#### Whale of the Thousand Strands Mermaid
 
 *Wystąpienia: ×10 (poz. 35).*
 
@@ -4056,30 +4044,30 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                                 |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                              |
 | Progi oszołomienia | 45% / 0%                                                                                            |
-| Typ paniki         | id 9998 (brak danych)                                                                               |
+| Typ paniki         | (brak danych)                                                                                       |
 | Odporności         | Kłucie ×1,5; Obżar. ×0,8; Posępność ×0,8; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Sianie Strachu (×3) — id 9008801
+##### Umiejętność: Sianie Strachu (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Wyrycie Grozy (×2) — id 9008802
+##### Umiejętność: Wyrycie Grozy (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: Żniwa Grozy — id 9008803
+##### Umiejętność: Żniwa Grozy
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Paraliż Umysłu — id 9008804
+##### Umiejętność: Paraliż Umysłu
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -4093,7 +4081,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Pallidified Thing-Pirate ×3 (poz. 36); Pallidified Thing-Hook ×2 (poz. 36); Pallidified Thing-Pirate ×1 (poz. 36) (wsparcie); Pallidified Thing-Hook ×1 (poz. 36) (wsparcie); Pallid White Mermaid ×1 (poz. 36) (wsparcie); Pallidified Thing-Hook ×1 (poz. 36) (wsparcie); Pallid White Mermaid ×1 (poz. 36) (wsparcie); Pallid White Mermaid ×1 (poz. 36) (wsparcie)
 
-#### Pallidified Thing-Pirate — id 90094
+#### Pallidified Thing-Pirate
 
 *Wystąpienia: ×4 (poz. 36) · też jako wsparcie.*
 
@@ -4112,25 +4100,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: --. . ...- (×3) — id 9009401
+##### Umiejętność: --. . ...- (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         −4 |      1 |    1 |
 
-##### Umiejętność: ...- … (×2) — id 9009402
+##### Umiejętność: ...- … (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         11 |         −5 |      2 |    1 |
 
-##### Umiejętność: .--. .... - — id 9009403
+##### Umiejętność: .--. .... -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         13 |         −6 |      2 |    1 |
 
-##### Umiejętność: -.- - — id 9009404
+##### Umiejętność: -.- -
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4142,7 +4130,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Organic Breathing** — jeżeli to ta jednostka zadała cios kończący, nakłada 5 Oddechu wszystkim Zbielałym sojusznikom. Nakłada 1 Licznika Oddechu
 
-#### Pallidified Thing-Hook — id 90095
+#### Pallidified Thing-Hook
 
 *Wystąpienia: ×4 (poz. 36) · też jako wsparcie.*
 
@@ -4161,25 +4149,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: .--. - (×3) — id 9009501
+##### Umiejętność: .--. - (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         −4 |      1 |    1 |
 
-##### Umiejętność: .-.. - ..- (×2) — id 9009502
+##### Umiejętność: .-.. - ..- (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         12 |         −5 |      2 |    1 |
 
-##### Umiejętność: -- .... - — id 9009503
+##### Umiejętność: -- .... -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         14 |         −6 |      2 |    1 |
 
-##### Umiejętność: -.- .. — id 9009504
+##### Umiejętność: -.- ..
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4191,7 +4179,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Organic Hardening** — jeżeli to ta jednostka zadała cios kończący, nakłada 1 Ochrony i 2 Wzrost Poziomu Obrony wszystkim sojusznikom.
 
-#### Pallid White Mermaid — id 90089
+#### Pallid White Mermaid
 
 *Wystąpienia: ×3 (poz. 36) · też jako wsparcie.*
 
@@ -4202,24 +4190,24 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
-| Typ paniki         | id 9998 (brak danych)                                                                       |
+| Typ paniki         | (brak danych)                                                                               |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: -... - ..- (×3) — id 9008901
+##### Umiejętność: -... - ..- (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         −2 |      2 |    1 |
 
-##### Umiejętność: -- ... -.- (×2) — id 9008902
+##### Umiejętność: -- ... -.- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: ...- . — id 9008903
+##### Umiejętność: ...- .
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4235,7 +4223,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Pallidified Thing-Shield ×3 (poz. 36); Pallid White Mermaid ×2 (poz. 36); Pallidified Thing-Shield ×1 (poz. 36) (wsparcie); Pallidified Thing-Club ×1 (poz. 36) (wsparcie); Pallid White Mermaid ×1 (poz. 36) (wsparcie); Pallidified Thing-Shield ×1 (poz. 36) (wsparcie); Pallidified Thing-Club ×1 (poz. 36) (wsparcie); Pallid White Mermaid ×1 (poz. 36) (wsparcie)
 
-#### Pallidified Thing-Shield — id 90092
+#### Pallidified Thing-Shield
 
 *Wystąpienia: ×5 (poz. 36) · też jako wsparcie.*
 
@@ -4254,25 +4242,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: -- . -.- (×3) — id 9009201
+##### Umiejętność: -- . -.- (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: -... .- (×2) — id 9009202
+##### Umiejętność: -... .- (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −7 |      1 |    1 |
 
-##### Umiejętność: -.-. ..- — id 9009203
+##### Umiejętność: -.-. ..-
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −5 |      2 |    1 |
 
-##### Umiejętność: .--. . — id 9009204
+##### Umiejętność: .--. .
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4285,7 +4273,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Cumulating Organic Material** — Poziom Obrony +1 za każdego żyjącego sojusznika (nie licząc tej jednostki)
 - **Disintegrating Inorganic Material** — jeżeli ginie sojusznik, zyskuje 1 Kruchości w następnej turze
 
-#### Pallid White Mermaid — id 90089
+#### Pallid White Mermaid
 
 *Wystąpienia: ×4 (poz. 36) · też jako wsparcie.*
 
@@ -4296,24 +4284,24 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
-| Typ paniki         | id 9998 (brak danych)                                                                       |
+| Typ paniki         | (brak danych)                                                                               |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: -... - ..- (×3) — id 9008901
+##### Umiejętność: -... - ..- (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         −2 |      2 |    1 |
 
-##### Umiejętność: -- ... -.- (×2) — id 9008902
+##### Umiejętność: -- ... -.- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: ...- . — id 9008903
+##### Umiejętność: ...- .
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4325,7 +4313,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Spreading Flames** — Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)
 
-#### Pallidified Thing-Club — id 90093
+#### Pallidified Thing-Club
 
 *Wystąpienia: ×2 (poz. 36) · też jako wsparcie.*
 
@@ -4344,19 +4332,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: ..-. . (×3) — id 9009301
+##### Umiejętność: ..-. . (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: .-.. . (×2) — id 9009302
+##### Umiejętność: .-.. . (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         13 |         −8 |      1 |    1 |
 
-##### Umiejętność: .-.. .- — id 9009303
+##### Umiejętność: .-.. .-
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4373,7 +4361,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Pallid White Mermaid ×3 (poz. 37); Pallid Entwined Mermaid ×2 (poz. 37); Pallid White Mermaid ×1 (poz. 37) (wsparcie); Pallid Entwined Mermaid ×1 (poz. 37) (wsparcie); Pallid White Mermaid ×1 (poz. 37) (wsparcie); Pallid Entwined Mermaid ×1 (poz. 37) (wsparcie); Pallid White Mermaid ×1 (poz. 37) (wsparcie)
 
-#### Pallid White Mermaid — id 90089
+#### Pallid White Mermaid
 
 *Wystąpienia: ×6 (poz. 37) · też jako wsparcie.*
 
@@ -4384,24 +4372,24 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
-| Typ paniki         | id 9998 (brak danych)                                                                       |
+| Typ paniki         | (brak danych)                                                                               |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: -... - ..- (×3) — id 9008901
+##### Umiejętność: -... - ..- (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         −2 |      2 |    1 |
 
-##### Umiejętność: -- ... -.- (×2) — id 9008902
+##### Umiejętność: -- ... -.- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: ...- . — id 9008903
+##### Umiejętność: ...- .
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4413,7 +4401,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Spreading Flames** — Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)
 
-#### Pallid Entwined Mermaid — id 90091
+#### Pallid Entwined Mermaid
 
 *Wystąpienia: ×4 (poz. 37) · też jako wsparcie.*
 
@@ -4424,24 +4412,24 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                     |
 | Progi oszołomienia | 80% / 40% / 0%                                                                             |
-| Typ paniki         | id 9998 (brak danych)                                                                      |
+| Typ paniki         | (brak danych)                                                                              |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Pycha ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: -... .… (×3) — id 9009101
+##### Umiejętność: -... .… (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: .--- . (×2) — id 9009102
+##### Umiejętność: .--- . (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         11 |         −7 |      1 |    1 |
 
-##### Umiejętność: -. .… — id 9009103
+##### Umiejętność: -. .…
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4457,7 +4445,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Pallidified Thing-Shield ×2 (poz. 37); Pallidified Thing-Pirate ×2 (poz. 37); Pallidified Thing-Club ×1 (poz. 37) (wsparcie); Pallidified Thing-Hook ×1 (poz. 37) (wsparcie); Pallidified Thing-Club ×1 (poz. 37) (wsparcie); Pallidified Thing-Hook ×1 (poz. 37) (wsparcie); Pallidified Thing-Hook ×1 (poz. 37) (wsparcie); Pallidified Thing-Shield ×1 (poz. 37) (wsparcie); Pallidified Thing-Club ×1 (poz. 37) (wsparcie); Pallidified Thing-Pirate ×1 (poz. 37) (wsparcie); Pallid White Mermaid ×1 (poz. 37) (wsparcie); Pallid White Mermaid ×1 (poz. 37) (wsparcie); Pallid Entwined Mermaid ×1 (poz. 37) (wsparcie); Pallidified Thing-Hook ×1 (poz. 37) (wsparcie); Pallid White Mermaid ×1 (poz. 37) (wsparcie); Pallid Entwined Mermaid ×1 (poz. 37) (wsparcie); Pallidified Thing-Hook ×1 (poz. 37) (wsparcie); Pallid White Mermaid ×1 (poz. 37) (wsparcie); Pallid Entwined Mermaid ×1 (poz. 37) (wsparcie)
 
-#### Pallidified Thing-Shield — id 90092
+#### Pallidified Thing-Shield
 
 *Wystąpienia: ×3 (poz. 37) · też jako wsparcie.*
 
@@ -4476,25 +4464,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: -- . -.- (×3) — id 9009201
+##### Umiejętność: -- . -.- (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: -... .- (×2) — id 9009202
+##### Umiejętność: -... .- (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −7 |      1 |    1 |
 
-##### Umiejętność: -.-. ..- — id 9009203
+##### Umiejętność: -.-. ..-
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −5 |      2 |    1 |
 
-##### Umiejętność: .--. . — id 9009204
+##### Umiejętność: .--. .
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4507,7 +4495,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Cumulating Organic Material** — Poziom Obrony +1 za każdego żyjącego sojusznika (nie licząc tej jednostki)
 - **Disintegrating Inorganic Material** — jeżeli ginie sojusznik, zyskuje 1 Kruchości w następnej turze
 
-#### Pallidified Thing-Pirate — id 90094
+#### Pallidified Thing-Pirate
 
 *Wystąpienia: ×3 (poz. 37) · też jako wsparcie.*
 
@@ -4526,25 +4514,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: --. . ...- (×3) — id 9009401
+##### Umiejętność: --. . ...- (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         −4 |      1 |    1 |
 
-##### Umiejętność: ...- … (×2) — id 9009402
+##### Umiejętność: ...- … (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         11 |         −5 |      2 |    1 |
 
-##### Umiejętność: .--. .... - — id 9009403
+##### Umiejętność: .--. .... -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         13 |         −6 |      2 |    1 |
 
-##### Umiejętność: -.- - — id 9009404
+##### Umiejętność: -.- -
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4556,7 +4544,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Organic Breathing** — jeżeli to ta jednostka zadała cios kończący, nakłada 5 Oddechu wszystkim Zbielałym sojusznikom. Nakłada 1 Licznika Oddechu
 
-#### Pallidified Thing-Club — id 90093
+#### Pallidified Thing-Club
 
 *Wystąpienia: ×3 (poz. 37) · też jako wsparcie.*
 
@@ -4575,19 +4563,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: ..-. . (×3) — id 9009301
+##### Umiejętność: ..-. . (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: .-.. . (×2) — id 9009302
+##### Umiejętność: .-.. . (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         13 |         −8 |      1 |    1 |
 
-##### Umiejętność: .-.. .- — id 9009303
+##### Umiejętność: .-.. .-
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4600,7 +4588,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Intertwined Organic Material** — Poziom Ataku +1 za każdego żyjącego sojusznika (nie licząc tej jednostki)
 - **Scattered Inorganic Material** — jeżeli ginie sojusznik, zyskuje 1 Spadek Mocy Ataku w następnej turze
 
-#### Pallidified Thing-Hook — id 90095
+#### Pallidified Thing-Hook
 
 *Wystąpienia: ×5 (poz. 37) · też jako wsparcie.*
 
@@ -4619,25 +4607,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: .--. - (×3) — id 9009501
+##### Umiejętność: .--. - (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         −4 |      1 |    1 |
 
-##### Umiejętność: .-.. - ..- (×2) — id 9009502
+##### Umiejętność: .-.. - ..- (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         12 |         −5 |      2 |    1 |
 
-##### Umiejętność: -- .... - — id 9009503
+##### Umiejętność: -- .... -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         14 |         −6 |      2 |    1 |
 
-##### Umiejętność: -.- .. — id 9009504
+##### Umiejętność: -.- ..
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4649,7 +4637,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Organic Hardening** — jeżeli to ta jednostka zadała cios kończący, nakłada 1 Ochrony i 2 Wzrost Poziomu Obrony wszystkim sojusznikom.
 
-#### Pallid White Mermaid — id 90089
+#### Pallid White Mermaid
 
 *Wystąpienia: ×4 (poz. 37) · też jako wsparcie.*
 
@@ -4660,24 +4648,24 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
-| Typ paniki         | id 9998 (brak danych)                                                                       |
+| Typ paniki         | (brak danych)                                                                               |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: -... - ..- (×3) — id 9008901
+##### Umiejętność: -... - ..- (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         −2 |      2 |    1 |
 
-##### Umiejętność: -- ... -.- (×2) — id 9008902
+##### Umiejętność: -- ... -.- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: ...- . — id 9008903
+##### Umiejętność: ...- .
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4689,7 +4677,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Spreading Flames** — Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)
 
-#### Pallid Entwined Mermaid — id 90091
+#### Pallid Entwined Mermaid
 
 *Wystąpienia: ×3 (poz. 37) · też jako wsparcie.*
 
@@ -4700,24 +4688,24 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                     |
 | Progi oszołomienia | 80% / 40% / 0%                                                                             |
-| Typ paniki         | id 9998 (brak danych)                                                                      |
+| Typ paniki         | (brak danych)                                                                              |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Pycha ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: -... .… (×3) — id 9009101
+##### Umiejętność: -... .… (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: .--- . (×2) — id 9009102
+##### Umiejętność: .--- . (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         11 |         −7 |      1 |    1 |
 
-##### Umiejętność: -. .… — id 9009103
+##### Umiejętność: -. .…
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4733,7 +4721,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Moustachioed Twinhooks Pirate ×2 (poz. 38); Bandana-wearing Twinhooks Pirate ×1 (poz. 38); Agile Twinhooks Pirate ×1 (poz. 38); Tough Twinhooks Pirate ×1 (poz. 38); Moustachioed Twinhooks Pirate ×1 (poz. 38) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 38) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 38) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 38) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 38) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 38) (wsparcie); Moustachioed Twinhooks Pirate ×1 (poz. 38) (wsparcie); Bandana-wearing Twinhooks Pirate ×1 (poz. 38) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 38) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 38) (wsparcie); Agile Twinhooks Pirate ×1 (poz. 38) (wsparcie); Tough Twinhooks Pirate ×1 (poz. 38) (wsparcie)
 
-#### Moustachioed Twinhooks Pirate — id 90084
+#### Moustachioed Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 38) · też jako wsparcie.*
 
@@ -4752,25 +4740,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Cięcie (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008403
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008404
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4782,7 +4770,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Bandana-wearing Twinhooks Pirate — id 90085
+#### Bandana-wearing Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 38) · też jako wsparcie.*
 
@@ -4801,25 +4789,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008503
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Szarp Szparę — id 9008504
+##### Umiejętność: Szarp Szparę
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4831,7 +4819,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Two Sides Of a Coin** — w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 
-#### Agile Twinhooks Pirate — id 90086
+#### Agile Twinhooks Pirate
 
 *Wystąpienia: ×5 (poz. 38) · też jako wsparcie.*
 
@@ -4850,31 +4838,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wdzieram się (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Szybciej — id 9008603
+##### Umiejętność: Szybciej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Bitewny Okrzyk — id 9008604
+##### Umiejętność: Bitewny Okrzyk
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008605
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4887,7 +4875,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
 
-#### Tough Twinhooks Pirate — id 90087
+#### Tough Twinhooks Pirate
 
 *Wystąpienia: ×4 (poz. 38) · też jako wsparcie.*
 
@@ -4906,31 +4894,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Jeszcze Twardziej — id 9008703
+##### Umiejętność: Jeszcze Twardziej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9008704
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Grabież — id 9008705
+##### Umiejętność: Grabież
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4950,7 +4938,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Fala 2:** Sturdy Little Brother of the Middle ×3 (poz. 40); Stern Little Brother of the Middle ×2 (poz. 40)
 - **Fala 3:** Ricardo ×1 (poz. 60); Sturdy Little Brother of the Middle ×1 (poz. 40); Stern Little Brother of the Middle ×1 (poz. 40); Sturdy Little Brother of the Middle ×1 (poz. 40) (wsparcie); Stern Little Brother of the Middle ×1 (poz. 40) (wsparcie)
 
-#### Sturdy Little Brother of the Middle — id 8097
+#### Sturdy Little Brother of the Middle
 
 *Wystąpienia: ×7 (poz. 40) · też jako wsparcie.*
 
@@ -4968,7 +4956,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Korpus — id 809701
+##### Korpus
 
 | Parametr           | Wartość               |
 | ------------------ | --------------------- |
@@ -4980,31 +4968,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 809701 — id 809701
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 809703 — id 809703
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: umiejętność 809704 — id 809704
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 809705 — id 809705
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         12 |         −2 |      2 |    1 |
 
-##### Umiejętność: umiejętność 809706 — id 809706
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5016,7 +5004,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Little Vengeance** — po przegranej w Starciu zyskuje 1 Wzmocnienia Monet Minus w następnej turze (2 razy na turę)
 - **Chains of Loyalty** — gdy ginie sojusznik Środkowego, zyskuje 1 Wzmocnienia Monet Plus w następnej turze.
 
-#### Stern Little Brother of the Middle — id 8098
+#### Stern Little Brother of the Middle
 
 *Wystąpienia: ×7 (poz. 40) · też jako wsparcie.*
 
@@ -5034,7 +5022,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Korpus — id 809801
+##### Korpus
 
 | Parametr           | Wartość               |
 | ------------------ | --------------------- |
@@ -5046,31 +5034,31 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: umiejętność 809801 — id 809801
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 809803 — id 809803
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +7 |      2 |    1 |
 
-##### Umiejętność: umiejętność 809704 — id 809704
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 809705 — id 809705
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         12 |         −2 |      2 |    1 |
 
-##### Umiejętność: umiejętność 809706 — id 809706
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5082,7 +5070,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Little Vengeance** — po przegranej w Starciu zyskuje 1 Wzmocnienia Monet Minus w następnej turze (2 razy na turę)
 - **Chains of Loyalty** — gdy ginie sojusznik Środkowego, zyskuje 1 Wzmocnienia Monet Plus w następnej turze.
 
-#### Ricardo — id 8099
+#### Ricardo
 
 *Wystąpienia: ×1 (poz. 60).*
 
@@ -5102,7 +5090,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Korpus — id 809901
+##### Korpus
 
 | Parametr           | Wartość                |
 | ------------------ | ---------------------- |
@@ -5114,55 +5102,55 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Uderzenia Pięścią — id 809901
+##### Umiejętność: Uderzenia Pięścią
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Kopniak — id 809902
+##### Umiejętność: Kopniak
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Odwet — id 809903
+##### Umiejętność: Odwet
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Przytłaczanie — id 809904
+##### Umiejętność: Przytłaczanie
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Wyryj To w Pamięci — id 809905
+##### Umiejętność: Wyryj To w Pamięci
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |         10 |         +2 |      1 |    1 |
 
-##### Umiejętność: Uważaj na Kark! — id 809906
+##### Umiejętność: Uważaj na Kark!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         10 |         +6 |      2 |    1 |
 
-##### Umiejętność: Zbiórka — id 809907
+##### Umiejętność: Zbiórka
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Przeżuwanie Zemsty — id 809908
+##### Umiejętność: Przeżuwanie Zemsty
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |         15 |         +2 |      1 |    1 |
 
-##### Umiejętność: MOJE KUPONY NA WŁOSYYYYY!!! — id 809909
+##### Umiejętność: MOJE KUPONY NA WŁOSYYYYY!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5182,7 +5170,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Fala 1:** Pallid Blue Mermaid ×4 (poz. 37); Pallid Blue Mermaid ×1 (poz. 37) (wsparcie); Pallid Blue Mermaid ×1 (poz. 37) (wsparcie); Pallid Blue Mermaid ×1 (poz. 37) (wsparcie); Pallid Blue Mermaid ×1 (poz. 37) (wsparcie); Pallid and Blue Mermaid ×1 (poz. 37) (wsparcie)
 
-#### Pallid Blue Mermaid — id 90090
+#### Pallid Blue Mermaid
 
 *Wystąpienia: ×8 (poz. 37) · też jako wsparcie.*
 
@@ -5193,24 +5181,24 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                                                  |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                               |
 | Progi oszołomienia | 80% / 45% / 0%                                                                       |
-| Typ paniki         | id 9998 (brak danych)                                                                |
+| Typ paniki         | (brak danych)                                                                        |
 | Odporności         | Posępność ×0,8; Pycha ×1,6; Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: ..-. . (×3) — id 9009001
+##### Umiejętność: ..-. . (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: ..-. . -- (×2) — id 9009002
+##### Umiejętność: ..-. . -- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −5 |      1 |    1 |
 
-##### Umiejętność: .-.. - — id 9009003
+##### Umiejętność: .-.. -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5222,7 +5210,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Spreading Flames** — Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)
 
-#### Pallid and Blue Mermaid — id 90100
+#### Pallid and Blue Mermaid
 
 *Wystąpienia: ×1 (poz. 37) · też jako wsparcie.*
 
@@ -5233,24 +5221,24 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–5                                                                                     |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                  |
 | Progi oszołomienia | 60% / 0%                                                                                |
-| Typ paniki         | id 9998 (brak danych)                                                                   |
+| Typ paniki         | (brak danych)                                                                           |
 | Odporności         | Posępność ×0,5 (Ineff.); Pycha ×1,2; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: ..-. . (×3) — id 9009001
+##### Umiejętność: ..-. . (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: ..-. . -- (×2) — id 9009002
+##### Umiejętność: ..-. . -- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −5 |      1 |    1 |
 
-##### Umiejętność: .-.. - — id 9009003
+##### Umiejętność: .-.. -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5266,7 +5254,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Fala 1:** Pallid Blue Mermaid ×4 (poz. 39); Pallid and Blue Mermaid ×1 (poz. 39); Pallid Blue Mermaid ×1 (poz. 39) (wsparcie); Pallid and Blue Mermaid ×1 (poz. 39) (wsparcie); Pallid Blue Mermaid ×1 (poz. 39) (wsparcie); Pallid and Blue Mermaid ×1 (poz. 39) (wsparcie); Pallid Blue Mermaid ×1 (poz. 39) (wsparcie)
 
-#### Pallid Blue Mermaid — id 90090
+#### Pallid Blue Mermaid
 
 *Wystąpienia: ×7 (poz. 39) · też jako wsparcie.*
 
@@ -5277,24 +5265,24 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                                                  |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                               |
 | Progi oszołomienia | 80% / 45% / 0%                                                                       |
-| Typ paniki         | id 9998 (brak danych)                                                                |
+| Typ paniki         | (brak danych)                                                                        |
 | Odporności         | Posępność ×0,8; Pycha ×1,6; Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: ..-. . (×3) — id 9009001
+##### Umiejętność: ..-. . (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: ..-. . -- (×2) — id 9009002
+##### Umiejętność: ..-. . -- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −5 |      1 |    1 |
 
-##### Umiejętność: .-.. - — id 9009003
+##### Umiejętność: .-.. -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5306,7 +5294,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Spreading Flames** — Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)
 
-#### Pallid and Blue Mermaid — id 90100
+#### Pallid and Blue Mermaid
 
 *Wystąpienia: ×3 (poz. 39) · też jako wsparcie.*
 
@@ -5317,24 +5305,24 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–5                                                                                     |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                  |
 | Progi oszołomienia | 60% / 0%                                                                                |
-| Typ paniki         | id 9998 (brak danych)                                                                   |
+| Typ paniki         | (brak danych)                                                                           |
 | Odporności         | Posępność ×0,5 (Ineff.); Pycha ×1,2; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: ..-. . (×3) — id 9009001
+##### Umiejętność: ..-. . (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: ..-. . -- (×2) — id 9009002
+##### Umiejętność: ..-. . -- (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −5 |      1 |    1 |
 
-##### Umiejętność: .-.. - — id 9009003
+##### Umiejętność: .-.. -
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5348,7 +5336,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 ## Pula Canto V · część 2 (`a1c5p2`) — jednostki bez przypisanego etapu
 
-#### Sturdy Little Brother of the Middle — id 90096
+#### Sturdy Little Brother of the Middle
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5367,37 +5355,37 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Prosto w Solarny Splot — id 9009601
+##### Umiejętność: Prosto w Solarny Splot
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pamiętamy! — id 9009602
+##### Umiejętność: Pamiętamy!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbicie Czaszki — id 9009603
+##### Umiejętność: Rozbicie Czaszki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Gotów do Zapisu — id 9009604
+##### Umiejętność: Gotów do Zapisu
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Zemsta — id 9009605
+##### Umiejętność: Zemsta
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         15 |         −3 |      2 |    1 |
 
-##### Umiejętność: Wielokrotna Zemsta — id 9009606
+##### Umiejętność: Wielokrotna Zemsta
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5409,7 +5397,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Little Vengeance** — po przegranej w Starciu zyskuje 1 Wzmocnienia Monet Minus w następnej turze (2 razy na turę)
 - **Chains of Loyalty** — gdy ginie sojusznik Środkowego, zyskuje 1 Wzmocnienia Monet Plus w następnej turze.
 
-#### Stern Little Brother of the Middle — id 90097
+#### Stern Little Brother of the Middle
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5428,37 +5416,37 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Prosto w Solarny Splot — id 9009701
+##### Umiejętność: Prosto w Solarny Splot
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wyryj Ich Grzechy! — id 9009702
+##### Umiejętność: Wyryj Ich Grzechy!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozbijanie Czaszki — id 9009703
+##### Umiejętność: Rozbijanie Czaszki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +7 |      2 |    1 |
 
-##### Umiejętność: Gotów do Zapisu — id 9009704
+##### Umiejętność: Gotów do Zapisu
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Zemsta — id 9009705
+##### Umiejętność: Zemsta
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         14 |         −2 |      2 |    1 |
 
-##### Umiejętność: Wielokrotna Zemsta — id 9009706
+##### Umiejętność: Wielokrotna Zemsta
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5470,7 +5458,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Little Vengeance** — po przegranej w Starciu zyskuje 1 Wzmocnienia Monet Minus w następnej turze (2 razy na turę)
 - **Chains of Loyalty** — gdy ginie sojusznik Środkowego, zyskuje 1 Wzmocnienia Monet Plus w następnej turze.
 
-#### Pallidified Thing-Club — id 97501
+#### Pallidified Thing-Club
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5489,19 +5477,19 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9750101 (×3) — id 9750101
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750102 (×2) — id 9750102
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         13 |         −8 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750103 — id 9750103
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5514,7 +5502,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Intertwined Organic Material** — Poziom Ataku +1 za każdego żyjącego sojusznika (nie licząc tej jednostki)
 - **Scattered Inorganic Material** — jeżeli ginie sojusznik, zyskuje 1 Spadek Mocy Ataku w następnej turze
 
-#### Pallidified Thing-Shield — id 97502
+#### Pallidified Thing-Shield
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5533,25 +5521,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9750201 (×3) — id 9750201
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750202 (×2) — id 9750202
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750203 — id 9750203
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750204 — id 9750204
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5564,7 +5552,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Cumulating Organic Material** — Poziom Obrony +1 za każdego żyjącego sojusznika (nie licząc tej jednostki)
 - **Disintegrating Inorganic Material** — jeżeli ginie sojusznik, zyskuje 1 Kruchości w następnej turze
 
-#### Pallidified Thing-Hook — id 97503
+#### Pallidified Thing-Hook
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5583,25 +5571,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9750301 (×3) — id 9750301
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         −4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750302 (×2) — id 9750302
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         11 |         −5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750303 — id 9750303
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         13 |         −6 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750304 — id 9750304
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5613,7 +5601,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Organic Breathing** — jeżeli to ta jednostka zadała cios kończący, nakłada 5 Oddechu wszystkim Zbielałym sojusznikom. Nakłada 1 Licznika Oddechu
 
-#### Pallidified Thing-Pirate — id 97504
+#### Pallidified Thing-Pirate
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5632,25 +5620,25 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9750401 (×3) — id 9750401
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         −4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750402 (×2) — id 9750402
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         12 |         −5 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750403 — id 9750403
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         14 |         −6 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750404 — id 9750404
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5662,7 +5650,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Organic Hardening** — jeżeli to ta jednostka zadała cios kończący, nakłada 1 Ochrony i 2 Wzrost Poziomu Obrony wszystkim sojusznikom.
 
-#### Pallid White Mermaid — id 97505
+#### Pallid White Mermaid
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5673,24 +5661,24 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–2                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 60% / 0%                                                             |
-| Typ paniki         | id 9998 (brak danych)                                                      |
+| Typ paniki         | (brak danych)                                                              |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9750501 (×3) — id 9750501
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         −2 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750502 (×2) — id 9750502
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          7 |         −4 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750503 — id 9750503
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5702,7 +5690,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Spreading Flames** — Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)
 
-#### Pallid Blue Mermaid — id 97506
+#### Pallid Blue Mermaid
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5713,24 +5701,24 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 45% / 0%                                                             |
-| Typ paniki         | id 9998 (brak danych)                                                      |
+| Typ paniki         | (brak danych)                                                              |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9750601 (×3) — id 9750601
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750602 (×2) — id 9750602
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −5 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750603 — id 9750603
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5742,7 +5730,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 - **Crashing Filth** — przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.
 - **Spreading Flames** — Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)
 
-#### Pallid Entwined Mermaid — id 97507
+#### Pallid Entwined Mermaid
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5753,24 +5741,24 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 40% / 0%                                                             |
-| Typ paniki         | id 9998 (brak danych)                                                      |
+| Typ paniki         | (brak danych)                                                              |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: umiejętność 9750701 (×3) — id 9750701
+##### Umiejętność: (bez nazwy) (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         −4 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9750702 (×2) — id 9750702
+##### Umiejętność: (bez nazwy) (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         11 |         −7 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9750703 — id 9750703
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5786,7 +5774,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 ## Pula Canto V · część 3 (`a1c5p3`) — jednostki bez przypisanego etapu
 
-#### Skin Prophet — id 8100
+#### Skin Prophet
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5800,7 +5788,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Korpus — id 810001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                              |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5812,43 +5800,43 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Wszystko Się Rozpadnie — id 810001
+##### Umiejętność: Wszystko Się Rozpadnie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tęsknota... — id 810002
+##### Umiejętność: Tęsknota...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: 9:2 — id 810003
+##### Umiejętność: 9:2
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         20 |         −4 |      2 |    7 |
 
-##### Umiejętność: 6:5 — id 810004
+##### Umiejętność: 6:5
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         20 |         −4 |      2 |    1 |
 
-##### Umiejętność: Wszystko Będzie Wyjawione — id 810005
+##### Umiejętność: Wszystko Będzie Wyjawione
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: Wszystko Spłonie — id 810006
+##### Umiejętność: Wszystko Spłonie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: Nie Pogardzaj Przepowiednią — id 810007
+##### Umiejętność: Nie Pogardzaj Przepowiednią
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5858,7 +5846,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 - **Darkness Deterred** — co 4 tury od zgaszenia światła, jeżeli są zgaszone Candle, zapala je sama. HP wszystkich Candle spada do 1.
 
-#### Ambling Pearl — id 8101
+#### Ambling Pearl
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5872,7 +5860,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Części (anatomia):**
 
-##### Muszla — id 810101
+##### Muszla
 
 | Parametr           | Wartość                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5884,7 +5872,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Pearl — id 810102
+##### Pearl
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -5896,43 +5884,43 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Toksykiczny Śluz — id 810101
+##### Umiejętność: Toksykiczny Śluz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Korozyjny Śluz — id 810102
+##### Umiejętność: Korozyjny Śluz
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Płyn Porażający — id 810103
+##### Umiejętność: Płyn Porażający
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Płyn Podżerający — id 810104
+##### Umiejętność: Płyn Podżerający
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Wrzący Zielony Śluz — id 810105
+##### Umiejętność: Wrzący Zielony Śluz
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |         15 |        +10 |      1 |    5 |
 
-##### Umiejętność: Drapieżność — id 810106
+##### Umiejętność: Drapieżność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         50 |         +1 |      1 |    1 |
 
-##### Umiejętność: Przepełniająca Trucizna — id 810107
+##### Umiejętność: Przepełniająca Trucizna
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5944,7 +5932,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.
 - **Zbierający Się Śluz** — w turze użycia Devouring Fluid Szybkość tej części wynosi 1.
 
-#### ??? — id 8103
+#### ???
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -5964,7 +5952,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 **Części (anatomia):**
 
-##### Korpus — id 810301
+##### Korpus
 
 | Parametr           | Wartość             |
 | ------------------ | ------------------- |
@@ -5976,43 +5964,43 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 *Opis:* Część
 
-##### Umiejętność: Początek Polowania — id 810301
+##### Umiejętność: Początek Polowania
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Harpunowanie — id 810302
+##### Umiejętność: Harpunowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijający Harpun — id 810303
+##### Umiejętność: Przebijający Harpun
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Głęboki Wdech — id 810304
+##### Umiejętność: Głęboki Wdech
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 810305
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tropienie Zdobyczy — id 810306
+##### Umiejętność: Tropienie Zdobyczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Przecięcie Gardła — id 810307
+##### Umiejętność: Przecięcie Gardła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6030,7 +6018,7 @@ do rozpoczęcia Fazy 2 jej HP nie spada poniżej 1.
 Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na początku każdej tury nakłada [Piętno Zdobyczy] na 1 wroga z najniższym procentem aktualnego HP.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Effloresced E.G.O::GasHarpoon — id 8106
+#### Effloresced E.G.O::GasHarpoon
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6049,7 +6037,7 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 **Części (anatomia):**
 
-##### Korpus — id 810601
+##### Korpus
 
 | Parametr           | Wartość                                                        |
 | ------------------ | -------------------------------------------------------------- |
@@ -6061,31 +6049,31 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 *Opis:* Część
 
-##### Umiejętność: Spróbuj Mnie Dobić! — id 810601
+##### Umiejętność: Spróbuj Mnie Dobić!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sztych na Śmierć — id 810602
+##### Umiejętność: Sztych na Śmierć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nieśmiertelna Dusza — id 810603
+##### Umiejętność: Nieśmiertelna Dusza
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Poblakła Niewinność — id 810604
+##### Umiejętność: Poblakła Niewinność
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ciężar Poczucia Winy — id 810605
+##### Umiejętność: Ciężar Poczucia Winy
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -6102,7 +6090,7 @@ Koniec tury: przywraca 3 SP za każde 1 Pipy.
 Koniec tury: jeżeli [Ego Pipa] wynosi 0, przechodzi w Oszołamienie w następnej turze.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Candle — id 8107
+#### Candle
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6116,7 +6104,7 @@ Koniec tury: jeżeli [Ego Pipa] wynosi 0, przechodzi w Oszołamienie w następne
 
 **Części (anatomia):**
 
-##### Candle — id 810701
+##### Candle
 
 | Parametr   | Wartość                                                                                                                                     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6127,13 +6115,13 @@ Koniec tury: jeżeli [Ego Pipa] wynosi 0, przechodzi w Oszołamienie w następne
 
 *Opis:* Część
 
-##### Umiejętność: Rozpalony Żar — id 810701
+##### Umiejętność: Rozpalony Żar
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Aby Nie Zgasło — id 810702
+##### Umiejętność: Aby Nie Zgasło
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6146,7 +6134,7 @@ przy 1 HP zapala Candle i używa Umiejętności ataku.
 - **Sinking Darkness** — gdy wszystkie Candle są zapalone, używa Umiejętności obrony.
 gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
-#### Green Slime — id 8109
+#### Green Slime
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6160,7 +6148,7 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
 **Części (anatomia):**
 
-##### Green Slime — id 810901
+##### Green Slime
 
 | Parametr   | Wartość                                                       |
 | ---------- | ------------------------------------------------------------- |
@@ -6180,7 +6168,7 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 - **Green Slime** — gdy zostaje pokonana przez Ambling Pearl, Ambling Pearl zyskuje 3 Green Slime.
 - **Skażający Śluz** — Koniec tury: nakłada (2 + liczba żyjących Green Slime) Zatrucia wszystkim wrogom.
 
-#### Blinded Pequod Town Villager — id 8110
+#### Blinded Pequod Town Villager
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6200,7 +6188,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 **Części (anatomia):**
 
-##### Korpus — id 811001
+##### Korpus
 
 | Parametr           | Wartość              |
 | ------------------ | -------------------- |
@@ -6212,31 +6200,31 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 *Opis:* Część
 
-##### Umiejętność: Pchnięcie (×2) — id 811001
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 811002
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Chrońcie Miasteczko! — id 811003
+##### Umiejętność: Chrońcie Miasteczko!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
 
-##### Umiejętność: Oszczep Splatujący — id 811004
+##### Umiejętność: Oszczep Splatujący
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Garda — id 811005
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6249,7 +6237,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 - **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
 - **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
 
-#### Gagged Pequod Town Villager — id 8111
+#### Gagged Pequod Town Villager
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6269,7 +6257,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 **Części (anatomia):**
 
-##### Korpus — id 811101
+##### Korpus
 
 | Parametr           | Wartość              |
 | ------------------ | -------------------- |
@@ -6281,31 +6269,31 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 *Opis:* Część
 
-##### Umiejętność: Seria Pchnięć (×2) — id 811101
+##### Umiejętność: Seria Pchnięć (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wyzłobienie Rany — id 811102
+##### Umiejętność: Wyzłobienie Rany
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Chrońcie Miasteczko! — id 811103
+##### Umiejętność: Chrońcie Miasteczko!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
 
-##### Umiejętność: Włócznia Pojmująca — id 811104
+##### Umiejętność: Włócznia Pojmująca
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Unik — id 811105
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6318,7 +6306,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 - **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
 - **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
 
-#### ??? — id 81032
+#### ???
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6338,7 +6326,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 **Części (anatomia):**
 
-##### Korpus — id 810301
+##### Korpus
 
 | Parametr           | Wartość             |
 | ------------------ | ------------------- |
@@ -6350,43 +6338,43 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 
 *Opis:* Część
 
-##### Umiejętność: Harpunowanie — id 810302
+##### Umiejętność: Harpunowanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Przebijający Harpun — id 810303
+##### Umiejętność: Przebijający Harpun
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kontra — id 810305
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tropienie Zdobyczy — id 810306
+##### Umiejętność: Tropienie Zdobyczy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Przecięcie Gardła — id 810307
+##### Umiejętność: Przecięcie Gardła
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
 
-##### Umiejętność: Głęboki Oddech — id 810308
+##### Umiejętność: Głęboki Oddech
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |          8 |         +1 |      1 |    1 |
 
-##### Umiejętność: Pragnienie Przetrwania — id 810309
+##### Umiejętność: Pragnienie Przetrwania
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6404,7 +6392,7 @@ do rozpoczęcia Fazy 2 jej HP nie spada poniżej 1.
 Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na początku każdej tury nakłada [Piętno Zdobyczy] na 1 wroga z najniższym procentem aktualnego HP.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Ahab — id 81052
+#### Ahab
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6423,7 +6411,7 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 **Części (anatomia):**
 
-##### Korpus — id 810501
+##### Korpus
 
 | Parametr           | Wartość                 |
 | ------------------ | ----------------------- |
@@ -6435,49 +6423,49 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 *Opis:* Część
 
-##### Umiejętność: Do mnie! — id 810502
+##### Umiejętność: Do mnie!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Gonicie Ich Do Końca! — id 810503
+##### Umiejętność: Gonicie Ich Do Końca!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Harpun Weterana — id 810504
+##### Umiejętność: Harpun Weterana
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płonący Harpun — id 810505
+##### Umiejętność: Płonący Harpun
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Głupstwo! — id 810506
+##### Umiejętność: Głupstwo!
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wydal Tchnienie! — id 810507
+##### Umiejętność: Wydal Tchnienie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Niech Ostatni Strach Zniknie! — id 810508
+##### Umiejętność: Niech Ostatni Strach Zniknie!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Hartowanie Śmierci — id 810509
+##### Umiejętność: Hartowanie Śmierci
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6492,7 +6480,7 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 - **Coldhearted Decision** — Początek Fazy 2: przywraca HP do maksimum; Queequeg i Starbuck nie uruchamiają już pasywki Captain's Orders. Ponadto Queequeg nie przechodzi w Oszołamienie, nawet gdy wartość jej Bariery Wsparcia osiągnie 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Effloresced E.G.O::GasHarpoon — id 81062
+#### Effloresced E.G.O::GasHarpoon
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6511,7 +6499,7 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 
 **Części (anatomia):**
 
-##### Korpus — id 810601
+##### Korpus
 
 | Parametr           | Wartość                                                        |
 | ------------------ | -------------------------------------------------------------- |
@@ -6523,31 +6511,31 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 
 *Opis:* Część
 
-##### Umiejętność: Spróbuj Mnie Dobić! — id 810601
+##### Umiejętność: Spróbuj Mnie Dobić!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sztych na Śmierć — id 810602
+##### Umiejętność: Sztych na Śmierć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Owinięty Strach — id 810607
+##### Umiejętność: Owinięty Strach
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przebita Słabość — id 810608
+##### Umiejętność: Przebita Słabość
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ech Jęku — id 810609
+##### Umiejętność: Ech Jęku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6566,7 +6554,7 @@ Koniec tury: jeżeli [Ego Starbucka] wynosi 0, przechodzi w Oszołamienie w nast
 - **Puncturing Harpoon** — w tej fazie, przy trafieniu krytycznym, nakłada o 1 więcej negatywnych Efektów efektami Umiejętności.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Effloresced E.G.O::GasHarpoon — id 81063
+#### Effloresced E.G.O::GasHarpoon
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6585,7 +6573,7 @@ Koniec tury: jeżeli [Ego Starbucka] wynosi 0, przechodzi w Oszołamienie w nast
 
 **Części (anatomia):**
 
-##### Korpus — id 810601
+##### Korpus
 
 | Parametr           | Wartość                                                        |
 | ------------------ | -------------------------------------------------------------- |
@@ -6597,31 +6585,31 @@ Koniec tury: jeżeli [Ego Starbucka] wynosi 0, przechodzi w Oszołamienie w nast
 
 *Opis:* Część
 
-##### Umiejętność: Spróbuj Mnie Dobić! — id 810601
+##### Umiejętność: Spróbuj Mnie Dobić!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sztych na Śmierć — id 810602
+##### Umiejętność: Sztych na Śmierć
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zmącony Tor — id 810610
+##### Umiejętność: Zmącony Tor
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wyblakła Pokuta — id 810611
+##### Umiejętność: Wyblakła Pokuta
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Skradające się Pobladienie — id 810612
+##### Umiejętność: Skradające się Pobladienie
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6641,7 +6629,7 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 (maks. 100%; maksimum przy 25% HP)
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### jednostka 81064 — id 81064
+#### jednostka 81064
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6654,7 +6642,7 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 
 **Części (anatomia):**
 
-##### część id 810602 — id 810602
+##### (bez nazwy)
 
 | Parametr   | Wartość               |
 | ---------- | --------------------- |
@@ -6667,9 +6655,7 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 
 *Brak danych o umiejętnościach.*
 
-**Pasywki:** brak
-
-#### Blinded Pequod Town Villager — id 90098
+#### Blinded Pequod Town Villager
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6689,31 +6675,31 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pchnięcie (×2) — id 9009801
+##### Umiejętność: Pchnięcie (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozdzieranie Ran — id 9009802
+##### Umiejętność: Rozdzieranie Ran
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Chrońcie Miasteczko! — id 9009803
+##### Umiejętność: Chrońcie Miasteczko!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         12 |         −2 |      4 |    1 |
 
-##### Umiejętność: Włócznia — id 9009804
+##### Umiejętność: Włócznia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Garda — id 9009805
+##### Umiejętność: Garda
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6726,7 +6712,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 - **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
 - **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
 
-#### Gagged Pequod Town Villager — id 90099
+#### Gagged Pequod Town Villager
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -6746,31 +6732,31 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
-##### Umiejętność: Seria Pchnięć (×2) — id 9009901
+##### Umiejętność: Seria Pchnięć (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wyzłobienie Rany — id 9009902
+##### Umiejętność: Wyzłobienie Rany
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: Chrońcie Miasteczko! — id 9009903
+##### Umiejętność: Chrońcie Miasteczko!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         12 |         −2 |      4 |    1 |
 
-##### Umiejętność: Włócznia — id 9009904
+##### Umiejętność: Włócznia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Unik — id 9009905
+##### Umiejętność: Unik
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |

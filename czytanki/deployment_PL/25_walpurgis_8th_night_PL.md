@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** BongBong [Orange] ×2 (poz. 45); BongBong [Orange] ×2 (poz. 45); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60) (wsparcie)
 
-#### BongBong [Orange] — id 1366
+#### BongBong [Orange]
 
 *Wystąpienia: ×8 (poz. 45, 60) · też jako wsparcie.*
 
@@ -23,7 +23,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 136601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,25 +35,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -69,7 +69,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1367
+#### BongBong [Orange]
 
 *Wystąpienia: ×9 (poz. 45, 60) · też jako wsparcie.*
 
@@ -84,7 +84,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 136701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,25 +96,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -130,7 +130,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1368
+#### BongBong [Orange]
 
 *Wystąpienia: ×6 (poz. 45, 60) · też jako wsparcie.*
 
@@ -145,7 +145,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 136801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -157,25 +157,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -191,7 +191,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BunBun [Juicy Squeezer - Orange] — id 1369
+#### BunBun [Juicy Squeezer - Orange]
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -206,7 +206,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 136901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -218,25 +218,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chrupanie z Połykaniem — id 136901
+##### Umiejętność: Chrupanie z Połykaniem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bardziej Gęste i Więcej — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -261,7 +261,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 - **Fala 1:** BongBong [Orange] ×2 (poz. 45); BongBong [Orange] ×1 (poz. 45); BongBong [Orange] ×1 (poz. 45); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 51) (wsparcie); BongBong [Orange] ×1 (poz. 51) (wsparcie); BongBong [Orange] ×1 (poz. 51) (wsparcie); BongBong [Orange] ×1 (poz. 54) (wsparcie); BongBong [Orange] ×1 (poz. 54) (wsparcie); BongBong [Orange] ×1 (poz. 54) (wsparcie); BongBong [Orange] ×1 (poz. 57) (wsparcie); BongBong [Orange] ×1 (poz. 57) (wsparcie); BongBong [Orange] ×1 (poz. 57) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie)
 
-#### BongBong [Orange] — id 1374
+#### BongBong [Orange]
 
 *Wystąpienia: ×8 (poz. 45, 48, 54, 60) · też jako wsparcie.*
 
@@ -276,7 +276,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Części (anatomia):**
 
-##### Korpus — id 137401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -288,25 +288,25 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -322,7 +322,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1375
+#### BongBong [Orange]
 
 *Wystąpienia: ×9 (poz. 45, 48, 51, 54, 57, 60) · też jako wsparcie.*
 
@@ -337,7 +337,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 137501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -349,25 +349,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -383,7 +383,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1376
+#### BongBong [Orange]
 
 *Wystąpienia: ×6 (poz. 45, 51, 57, 60) · też jako wsparcie.*
 
@@ -398,7 +398,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 137601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -410,25 +410,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -444,7 +444,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BunBun [Juicy Squeezer - Orange] — id 1377
+#### BunBun [Juicy Squeezer - Orange]
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -459,7 +459,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 137701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -471,25 +471,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chrupanie z Połykaniem — id 136901
+##### Umiejętność: Chrupanie z Połykaniem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bardziej Gęste i Więcej — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -514,7 +514,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 - **Fala 1:** BongBong [Orange] ×2 (poz. 45); BongBong [Orange] ×2 (poz. 45); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BongBong [Orange] ×1 (poz. 45) (wsparcie); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60) (wsparcie)
 
-#### BongBong [Orange] — id 1366
+#### BongBong [Orange]
 
 *Wystąpienia: ×8 (poz. 45, 60) · też jako wsparcie.*
 
@@ -529,7 +529,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Części (anatomia):**
 
-##### Korpus — id 136601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -541,25 +541,25 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -575,7 +575,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1367
+#### BongBong [Orange]
 
 *Wystąpienia: ×9 (poz. 45, 60) · też jako wsparcie.*
 
@@ -590,7 +590,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 136701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -602,25 +602,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -636,7 +636,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1368
+#### BongBong [Orange]
 
 *Wystąpienia: ×6 (poz. 45, 60) · też jako wsparcie.*
 
@@ -651,7 +651,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 136801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -663,25 +663,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -697,7 +697,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BunBun [Juicy Squeezer - Orange] — id 1369
+#### BunBun [Juicy Squeezer - Orange]
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -712,7 +712,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 136901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -724,25 +724,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chrupanie z Połykaniem — id 136901
+##### Umiejętność: Chrupanie z Połykaniem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bardziej Gęste i Więcej — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -767,7 +767,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 - **Fala 1:** BongBong [Orange] ×2 (poz. 45); BongBong [Orange] ×1 (poz. 45); BongBong [Orange] ×1 (poz. 45); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BunBun [Juicy Squeezer - Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 48) (wsparcie); BongBong [Orange] ×1 (poz. 51) (wsparcie); BongBong [Orange] ×1 (poz. 51) (wsparcie); BongBong [Orange] ×1 (poz. 51) (wsparcie); BongBong [Orange] ×1 (poz. 54) (wsparcie); BongBong [Orange] ×1 (poz. 54) (wsparcie); BongBong [Orange] ×1 (poz. 54) (wsparcie); BongBong [Orange] ×1 (poz. 57) (wsparcie); BongBong [Orange] ×1 (poz. 57) (wsparcie); BongBong [Orange] ×1 (poz. 57) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie); BongBong [Orange] ×1 (poz. 60) (wsparcie)
 
-#### BongBong [Orange] — id 1374
+#### BongBong [Orange]
 
 *Wystąpienia: ×8 (poz. 45, 48, 54, 60) · też jako wsparcie.*
 
@@ -782,7 +782,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Części (anatomia):**
 
-##### Korpus — id 137401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -794,25 +794,25 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -828,7 +828,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1375
+#### BongBong [Orange]
 
 *Wystąpienia: ×9 (poz. 45, 48, 51, 54, 57, 60) · też jako wsparcie.*
 
@@ -843,7 +843,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 137501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -855,25 +855,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -889,7 +889,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BongBong [Orange] — id 1376
+#### BongBong [Orange]
 
 *Wystąpienia: ×6 (poz. 45, 51, 57, 60) · też jako wsparcie.*
 
@@ -904,7 +904,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 137601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -916,25 +916,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Natarcie (×2) — id 136601
+##### Umiejętność: Natarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -950,7 +950,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 - **Tailored for the Palate** — przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby" lub „Fatal" (Odporność > 1), nakłada 1 [Spętanie] w następnej turze (1 raz na Umiejętność)
 - **The Secret of Taste** — nakłada 1 [Pomarańczowy BongBong] na cel, który pokonał tę jednostkę
 
-#### BunBun [Juicy Squeezer - Orange] — id 1377
+#### BunBun [Juicy Squeezer - Orange]
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
@@ -965,7 +965,7 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 **Części (anatomia):**
 
-##### Korpus — id 137701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -977,25 +977,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chrupanie z Połykaniem — id 136901
+##### Umiejętność: Chrupanie z Połykaniem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bardziej Gęste i Więcej — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |

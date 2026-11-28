@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** jednostka 99001 ×1 (poz. 1); jednostka 99002 ×1 (poz. 1); jednostka 99003 ×1 (poz. 1)
 
-#### jednostka 99001 — id 99001
+#### jednostka 99001
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -25,27 +25,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: umiejętność 9900101 — id 9900101
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |         10 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9900102 — id 9900102
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          8 |         +1 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9900103 — id 9900103
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### jednostka 99002 — id 99002
+#### jednostka 99002
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -62,27 +60,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: umiejętność 9900201 — id 9900201
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9900202 — id 9900202
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      2 |    1 |
 
-##### Umiejętność: umiejętność 9900203 — id 9900203
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +1 |      3 |    1 |
 
-**Pasywki:** brak
-
-#### jednostka 99003 — id 99003
+#### jednostka 99003
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -99,31 +95,29 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: umiejętność 9900301 — id 9900301
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      1 |    1 |
 
-##### Umiejętność: umiejętność 9900303 — id 9900303
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: umiejętność 9900302 — id 9900302
+##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +1 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 0-2 · Prezentacja
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 1); Ostry Chuligan ×2 (poz. 1); Wygłodniały Chuligan ×2 (poz. 1)
 
-#### Chuligan Liczący Liczby — id 99022
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -140,15 +134,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Nieudolna Rąbanka — id 9902201
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99023
+#### Ostry Chuligan
 
 *Wystąpienia: ×2 (poz. 1).*
 
@@ -165,15 +157,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Skolcone Pchnięcie — id 9902301
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99026
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×2 (poz. 1).*
 
@@ -190,19 +180,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Słabiutkie Uderzenie — id 9902601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 0-3 · W drogę
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 1); Ostry Chuligan ×2 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 
-#### Chuligan Liczący Liczby — id 99022
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -219,15 +207,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Nieudolna Rąbanka — id 9902201
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99023
+#### Ostry Chuligan
 
 *Wystąpienia: ×2 (poz. 1).*
 
@@ -244,15 +230,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Skolcone Pchnięcie — id 9902301
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99025
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -269,15 +253,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Obuch — id 9902501
+##### Umiejętność: Obuch
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99026
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -294,19 +276,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Słabiutkie Uderzenie — id 9902601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 0-4 · Możliwości
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 1); Ostry Chuligan ×2 (poz. 1); Wygłodniały Chuligan ×2 (poz. 1)
 
-#### Chuligan Liczący Liczby — id 99022
+#### Chuligan Liczący Liczby
 
 *Wystąpienia: ×1 (poz. 1).*
 
@@ -323,15 +303,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Nieudolna Rąbanka — id 9902201
+##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Ostry Chuligan — id 99023
+#### Ostry Chuligan
 
 *Wystąpienia: ×2 (poz. 1).*
 
@@ -348,15 +326,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Skolcone Pchnięcie — id 9902301
+##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Wygłodniały Chuligan — id 99026
+#### Wygłodniały Chuligan
 
 *Wystąpienia: ×2 (poz. 1).*
 
@@ -373,10 +349,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
-##### Umiejętność: Słabiutkie Uderzenie — id 9902601
+##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
-
-**Pasywki:** brak

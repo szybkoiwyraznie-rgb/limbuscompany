@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Ch'unokkun - Incapacitate ×2 (poz. 50); Ch'unokkun - Bind ×3 (poz. 50); Ch'unokkun - Incapacitate ×1 (poz. 50) (wsparcie); Ch'unokkun - Bind ×1 (poz. 50) (wsparcie); Ch'unokkun - Incapacitate ×1 (poz. 50) (wsparcie); Ch'unokkun - Bind ×1 (poz. 50) (wsparcie); Ch'unokkun - Incapacitate ×1 (poz. 50) (wsparcie)
 
-#### Ch'unokkun - Incapacitate — id 1448
+#### Ch'unokkun - Incapacitate
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
@@ -27,7 +27,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,31 +39,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie — id 144803
+##### Umiejętność: Rozdzierające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144804
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -73,7 +73,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Undertake Orders** — zyskuje [Rozkaz Konwoju] na czas tej walki
 
-#### Ch'unokkun - Bind — id 1449
+#### Ch'unokkun - Bind
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
@@ -92,7 +92,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -104,31 +104,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Powstrzymanie (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ucisk na Gardle (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zmiatanie Łowcy — id 144903
+##### Umiejętność: Zmiatanie Łowcy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144904
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -142,7 +142,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Ch'unokkun - Incapacitate ×2 (poz. 50); Ch'unokkun - Bind ×3 (poz. 50); Ch'unokkun - Incapacitate ×1 (poz. 50) (wsparcie); Ch'unokkun - Bind ×1 (poz. 50) (wsparcie); Ch'unokkun - Incapacitate ×1 (poz. 50) (wsparcie); Ch'unokkun - Bind ×1 (poz. 50) (wsparcie); Ch'unokkun - Incapacitate ×1 (poz. 50) (wsparcie)
 
-#### Ch'unokkun - Incapacitate — id 1448
+#### Ch'unokkun - Incapacitate
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
@@ -161,7 +161,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -173,31 +173,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie — id 144803
+##### Umiejętność: Rozdzierające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144804
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -207,7 +207,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Undertake Orders** — zyskuje [Rozkaz Konwoju] na czas tej walki
 
-#### Ch'unokkun - Bind — id 1449
+#### Ch'unokkun - Bind
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
@@ -226,7 +226,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -238,31 +238,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Powstrzymanie (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ucisk na Gardle (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zmiatanie Łowcy — id 144903
+##### Umiejętność: Zmiatanie Łowcy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144904
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -276,7 +276,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Ch'unokkun - Incapacitate ×3 (poz. 50); Ch'unokkun - Bind ×3 (poz. 50)
 
-#### Ch'unokkun - Incapacitate — id 1448
+#### Ch'unokkun - Incapacitate
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -295,7 +295,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -307,31 +307,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie — id 144803
+##### Umiejętność: Rozdzierające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144804
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -341,7 +341,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Undertake Orders** — zyskuje [Rozkaz Konwoju] na czas tej walki
 
-#### Ch'unokkun - Bind — id 1449
+#### Ch'unokkun - Bind
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -360,7 +360,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -372,31 +372,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Powstrzymanie (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ucisk na Gardle (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zmiatanie Łowcy — id 144903
+##### Umiejętność: Zmiatanie Łowcy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144904
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -410,7 +410,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Ch'unokkun - Incapacitate ×3 (poz. 50); Ch'unokkun - Bind ×3 (poz. 50)
 
-#### Ch'unokkun - Incapacitate — id 1448
+#### Ch'unokkun - Incapacitate
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -429,7 +429,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -441,31 +441,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie — id 144803
+##### Umiejętność: Rozdzierające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144804
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -475,7 +475,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Undertake Orders** — zyskuje [Rozkaz Konwoju] na czas tej walki
 
-#### Ch'unokkun - Bind — id 1449
+#### Ch'unokkun - Bind
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -494,7 +494,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 144901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -506,31 +506,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Powstrzymanie (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ucisk na Gardle (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zmiatanie Łowcy — id 144903
+##### Umiejętność: Zmiatanie Łowcy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144904
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -544,7 +544,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Icy N Corp. Class 2 Staff ×3 (poz. 50); Reticent N Corp. Class 2 Staff ×2 (poz. 50); Reticent N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Icy N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Reticent N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Icy N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Reticent N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie)
 
-#### Icy N Corp. Class 2 Staff — id 1452
+#### Icy N Corp. Class 2 Staff
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
@@ -565,7 +565,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 145201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -577,25 +577,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Uderzenie Narożnikiem Walizki (×2) — id 145201
+##### Umiejętność: Uderzenie Narożnikiem Walizki (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uderzenie z Ciężarem (×2) — id 145202
+##### Umiejętność: Uderzenie z Ciężarem (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ujęcie Motywu — id 145203
+##### Umiejętność: Ujęcie Motywu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Migawka — id 145204
+##### Umiejętność: Migawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -605,7 +605,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Undertake Orders** — zyskuje [Rozkaz Śledztwa] na czas tej walki
 
-#### Reticent N Corp. Class 2 Staff — id 1453
+#### Reticent N Corp. Class 2 Staff
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
@@ -626,7 +626,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 145301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -638,25 +638,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Uderzenie Blachą (×2) — id 145301
+##### Umiejętność: Uderzenie Blachą (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uderzenie w Łeb Gwoździa (×2) — id 145302
+##### Umiejętność: Uderzenie w Łeb Gwoździa (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Korekta Ostrości — id 145303
+##### Umiejętność: Korekta Ostrości
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Migawka — id 145304
+##### Umiejętność: Migawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -670,7 +670,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Icy N Corp. Class 2 Staff ×3 (poz. 50); Reticent N Corp. Class 2 Staff ×3 (poz. 50); Icy N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Reticent N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Icy N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Reticent N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Icy N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Reticent N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie)
 
-#### Icy N Corp. Class 2 Staff — id 1452
+#### Icy N Corp. Class 2 Staff
 
 *Wystąpienia: ×6 (poz. 50) · też jako wsparcie.*
 
@@ -691,7 +691,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 145201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -703,25 +703,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Uderzenie Narożnikiem Walizki (×2) — id 145201
+##### Umiejętność: Uderzenie Narożnikiem Walizki (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uderzenie z Ciężarem (×2) — id 145202
+##### Umiejętność: Uderzenie z Ciężarem (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ujęcie Motywu — id 145203
+##### Umiejętność: Ujęcie Motywu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Migawka — id 145204
+##### Umiejętność: Migawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -731,7 +731,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Undertake Orders** — zyskuje [Rozkaz Śledztwa] na czas tej walki
 
-#### Reticent N Corp. Class 2 Staff — id 1453
+#### Reticent N Corp. Class 2 Staff
 
 *Wystąpienia: ×6 (poz. 50) · też jako wsparcie.*
 
@@ -752,7 +752,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 145301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -764,25 +764,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Uderzenie Blachą (×2) — id 145301
+##### Umiejętność: Uderzenie Blachą (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uderzenie w Łeb Gwoździa (×2) — id 145302
+##### Umiejętność: Uderzenie w Łeb Gwoździa (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Korekta Ostrości — id 145303
+##### Umiejętność: Korekta Ostrości
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Migawka — id 145304
+##### Umiejętność: Migawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -796,7 +796,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Flash Phenomenon - Im Gyeong-eop ×1 (poz. 66); Ch'unokkun - Incapacitate ×2 (poz. 50); Ch'unokkun - Bind ×2 (poz. 50); jednostka 1460 ×1 (poz. 60) (wsparcie); Icy N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie); Reticent N Corp. Class 2 Staff ×1 (poz. 50) (wsparcie)
 
-#### Flash Phenomenon - Im Gyeong-eop — id 1450
+#### Flash Phenomenon - Im Gyeong-eop
 
 *Wystąpienia: ×1 (poz. 66).*
 
@@ -815,7 +815,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 145001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                           |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -827,67 +827,67 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Przecięcie Wołu — id 145001
+##### Umiejętność: Przecięcie Wołu
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          7 |         +3 |      1 |    1 |
 
-##### Umiejętność: Przecięcie Niedźwiedzia — id 145002
+##### Umiejętność: Przecięcie Niedźwiedzia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Łamanie Kręgosłupa Niedźwiedzia — id 145003
+##### Umiejętność: Łamanie Kręgosłupa Niedźwiedzia
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |         11 |         +4 |      1 |    1 |
 
-##### Umiejętność: Forma Miecza Ojczyzny - Rozłam Sal — id 145005
+##### Umiejętność: Forma Miecza Ojczyzny - Rozłam Sal
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Polowanie na Tygrysa — id 145006
+##### Umiejętność: Polowanie na Tygrysa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Przecięcie Tygrysa — id 145007
+##### Umiejętność: Przecięcie Tygrysa
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Miecz Ojczyzny [Sal] - Powrót do Postawy — id 145009
+##### Umiejętność: Miecz Ojczyzny [Sal] - Powrót do Postawy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +2 |      1 |    1 |
 
-##### Umiejętność: Miecz Ojczyzny [Sal] - Naostrzenie — id 145010
+##### Umiejętność: Miecz Ojczyzny [Sal] - Naostrzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      1 |    1 |
 
-##### Umiejętność: Łuk Ojczyzny [Sal] - Wypuszczenie Strzały — id 145011
+##### Umiejętność: Łuk Ojczyzny [Sal] - Wypuszczenie Strzały
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Garda — id 145012
+##### Umiejętność: Garda
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         10 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kontra — id 145013
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -927,7 +927,7 @@ przy spełnieniu poniższych warunków używa wzorca zawierającego Umiejętnoś
 jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niższa niż 5, na koniec Ataku nakłada 1 [Krwawienie] i +2 Licznika [Krwawienie] (1 raz na Umiejętność, 2 razy na turę, priorytet: główny cel)
 - **Headsplitting Memory** — po przegranej w Starciu zyskuje 1 [Kolące w Skroniach Wspomnienie] (1 raz na turę)
 
-#### Ch'unokkun - Incapacitate — id 1463
+#### Ch'unokkun - Incapacitate
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -946,7 +946,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Części (anatomia):**
 
-##### Korpus — id 146301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -958,31 +958,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie — id 144803
+##### Umiejętność: Rozdzierające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144804
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -993,7 +993,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 - **Scattering Memories** — przy śmierci daje +1 zasób E.G.O Afinności, której ma najmniej
 - **Undertake Orders** — zyskuje [Rozkaz Konwoju] na czas tej walki
 
-#### Ch'unokkun - Bind — id 1464
+#### Ch'unokkun - Bind
 
 *Wystąpienia: ×2 (poz. 50).*
 
@@ -1012,7 +1012,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Części (anatomia):**
 
-##### Korpus — id 146401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1024,31 +1024,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Powstrzymanie (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ucisk na Gardle (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zmiatanie Łowcy — id 144903
+##### Umiejętność: Zmiatanie Łowcy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144904
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1059,7 +1059,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 - **Scattering Memories** — przy śmierci daje +1 zasób E.G.O Afinności, której ma najmniej
 - **Undertake Orders** — zyskuje [Rozkaz Konwoju] na czas tej walki
 
-#### jednostka 1460 — id 1460
+#### jednostka 1460
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
@@ -1071,7 +1071,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Części (anatomia):**
 
-##### Korpus — id 146001
+##### Korpus
 
 | Parametr   | Wartość                                                         |
 | ---------- | --------------------------------------------------------------- |
@@ -1090,7 +1090,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 - **From Memory to Record** — Początek walki: jeżeli pole bitwy wróciło w tej turze z korporacji S do korporacji N, wszystkie Grzeszniki przywracają 15 SP
 
-#### Icy N Corp. Class 2 Staff — id 1461
+#### Icy N Corp. Class 2 Staff
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
@@ -1111,7 +1111,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Części (anatomia):**
 
-##### Korpus — id 146101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1123,25 +1123,25 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Uderzenie Narożnikiem Walizki (×2) — id 145201
+##### Umiejętność: Uderzenie Narożnikiem Walizki (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uderzenie z Ciężarem (×2) — id 145202
+##### Umiejętność: Uderzenie z Ciężarem (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ujęcie Motywu — id 145203
+##### Umiejętność: Ujęcie Motywu
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Migawka — id 145204
+##### Umiejętność: Migawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1152,7 +1152,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 - **Scattering Memories** — przy śmierci daje +1 zasób E.G.O Afinności, której ma najmniej
 - **Undertake Orders** — zyskuje [Rozkaz Śledztwa] na czas tej walki
 
-#### Reticent N Corp. Class 2 Staff — id 1462
+#### Reticent N Corp. Class 2 Staff
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
@@ -1173,7 +1173,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Części (anatomia):**
 
-##### Korpus — id 146201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1185,25 +1185,25 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Uderzenie Blachą (×2) — id 145301
+##### Umiejętność: Uderzenie Blachą (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Uderzenie w Łeb Gwoździa (×2) — id 145302
+##### Umiejętność: Uderzenie w Łeb Gwoździa (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Korekta Ostrości — id 145303
+##### Umiejętność: Korekta Ostrości
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Migawka — id 145304
+##### Umiejętność: Migawka
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1218,7 +1218,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 - **Fala 1:** Ch'unokkun - Incapacitate ×3 (poz. 50); Ch'unokkun - Bind ×3 (poz. 50)
 
-#### Ch'unokkun - Incapacitate — id 1448
+#### Ch'unokkun - Incapacitate
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -1237,7 +1237,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Części (anatomia):**
 
-##### Korpus — id 144801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1249,31 +1249,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozdzierające Cięcie — id 144803
+##### Umiejętność: Rozdzierające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144804
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1283,7 +1283,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 - **Undertake Orders** — zyskuje [Rozkaz Konwoju] na czas tej walki
 
-#### Ch'unokkun - Bind — id 1449
+#### Ch'unokkun - Bind
 
 *Wystąpienia: ×3 (poz. 50).*
 
@@ -1302,7 +1302,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Części (anatomia):**
 
-##### Korpus — id 144901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1314,31 +1314,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Powstrzymanie (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ucisk na Gardle (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Zmiatanie Łowcy — id 144903
+##### Umiejętność: Zmiatanie Łowcy
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wypalanie Znaku — id 144904
+##### Umiejętność: Wypalanie Znaku
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |

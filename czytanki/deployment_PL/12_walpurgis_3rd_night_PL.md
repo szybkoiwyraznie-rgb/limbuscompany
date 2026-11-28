@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Królowa Wróżek ×1 (poz. 45); Zbitka Wróżek ×3 (poz. 45)
 
-#### Królowa Wróżek — id 8263
+#### Królowa Wróżek
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -22,7 +22,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 826301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Prawe Ramię — id 826302
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Lewe Ramię — id 826303
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,37 +58,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Dekret Królowej — id 826301
+##### Umiejętność: Dekret Królowej
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Skrzydłami — id 826302
+##### Umiejętność: Uderzenie Skrzydłami
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Drapieżność — id 826303
+##### Umiejętność: Drapieżność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Głodne Trzepotanie — id 826304
+##### Umiejętność: Głodne Trzepotanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zarłaczny Głód — id 826305
+##### Umiejętność: Zarłaczny Głód
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wytchnienie — id 826306
+##### Umiejętność: Wytchnienie
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -103,7 +103,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 - **Torn Arm** — gdy Ramię zostaje zniszczone, co turę na początku tury Korpus zyskuje 5 Krwawienia.
 - **Invitation to a Meal** — na koniec tury: wszyscy Grzesznicy przywracają 10 Poczytalności i zyskują +1 zasobu E.G.O każdego Atrybutu
 
-#### Zbitka Wróżek — id 8264
+#### Zbitka Wróżek
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -117,7 +117,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 **Części (anatomia):**
 
-##### Tułów — id 826401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,25 +129,25 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Umiejętność: Chrup Chrup — id 826401
+##### Umiejętność: Chrup Chrup
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Żarłoczność — id 826402
+##### Umiejętność: Żarłoczność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Małe Trzepotanie — id 826403
+##### Umiejętność: Małe Trzepotanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wytchnienie — id 826404
+##### Umiejętność: Wytchnienie
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -162,7 +162,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 - **Fala 1:** Królowa Wróżek ×1 (poz. 45); Zbitka Wróżek ×3 (poz. 45); Zbitka Wróżek ×1 (poz. 45) (wsparcie)
 
-#### Królowa Wróżek — id 8265
+#### Królowa Wróżek
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -176,7 +176,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 **Części (anatomia):**
 
-##### Tułów — id 826501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -188,7 +188,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Prawe Ramię — id 826502
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -200,7 +200,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Lewe Ramię — id 826503
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -212,43 +212,43 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Umiejętność: Dekret Królowej — id 826301
+##### Umiejętność: Dekret Królowej
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Skrzydłami — id 826302
+##### Umiejętność: Uderzenie Skrzydłami
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Drapieżność — id 826303
+##### Umiejętność: Drapieżność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Głodne Trzepotanie — id 826304
+##### Umiejętność: Głodne Trzepotanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zarłaczny Głód — id 826305
+##### Umiejętność: Zarłaczny Głód
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wytchnienie — id 826306
+##### Umiejętność: Wytchnienie
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Czas Zapłacić za Moją Opiekę — id 826307
+##### Umiejętność: Czas Zapłacić za Moją Opiekę
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -265,7 +265,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 - **Ravening Hunger** — na koniec tury: przy 4 [Głód], zmienia wzór na silniejszy.
 - **Invitation to a Meal** — na koniec tury: wszyscy Grzesznicy przywracają 10 Poczytalności i zyskują +1 zasobu E.G.O każdego Atrybutu
 
-#### Zbitka Wróżek — id 8266
+#### Zbitka Wróżek
 
 *Wystąpienia: ×4 (poz. 45) · też jako wsparcie.*
 
@@ -279,7 +279,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 **Części (anatomia):**
 
-##### Tułów — id 826601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -291,25 +291,25 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 *Opis:* Część
 
-##### Umiejętność: Chrup Chrup — id 826401
+##### Umiejętność: Chrup Chrup
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Żarłoczność — id 826402
+##### Umiejętność: Żarłoczność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Małe Trzepotanie — id 826403
+##### Umiejętność: Małe Trzepotanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wytchnienie — id 826404
+##### Umiejętność: Wytchnienie
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -323,7 +323,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 - **Fala 1:** Królowa Wróżek ×1 (poz. 45); Zbitka Wróżek ×3 (poz. 45)
 
-#### Królowa Wróżek — id 8263
+#### Królowa Wróżek
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -337,7 +337,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 **Części (anatomia):**
 
-##### Tułów — id 826301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -349,7 +349,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 *Opis:* Część
 
-##### Prawe Ramię — id 826302
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -361,7 +361,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 *Opis:* Część
 
-##### Lewe Ramię — id 826303
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -373,37 +373,37 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 *Opis:* Część
 
-##### Umiejętność: Dekret Królowej — id 826301
+##### Umiejętność: Dekret Królowej
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Uderzenie Skrzydłami — id 826302
+##### Umiejętność: Uderzenie Skrzydłami
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Drapieżność — id 826303
+##### Umiejętność: Drapieżność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Głodne Trzepotanie — id 826304
+##### Umiejętność: Głodne Trzepotanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zarłaczny Głód — id 826305
+##### Umiejętność: Zarłaczny Głód
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wytchnienie — id 826306
+##### Umiejętność: Wytchnienie
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -418,7 +418,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 - **Torn Arm** — gdy Ramię zostaje zniszczone, co turę na początku tury Korpus zyskuje 5 Krwawienia.
 - **Invitation to a Meal** — na koniec tury: wszyscy Grzesznicy przywracają 10 Poczytalności i zyskują +1 zasobu E.G.O każdego Atrybutu
 
-#### Zbitka Wróżek — id 8264
+#### Zbitka Wróżek
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -432,7 +432,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 **Części (anatomia):**
 
-##### Tułów — id 826401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -444,25 +444,25 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Umiejętność: Chrup Chrup — id 826401
+##### Umiejętność: Chrup Chrup
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +1 |      2 |    1 |
 
-##### Umiejętność: Żarłoczność — id 826402
+##### Umiejętność: Żarłoczność
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Małe Trzepotanie — id 826403
+##### Umiejętność: Małe Trzepotanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Wytchnienie — id 826404
+##### Umiejętność: Wytchnienie
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |

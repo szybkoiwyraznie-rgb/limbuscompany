@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Ostry Krab ×1 (poz. 35); Kolczasty Krab ×1 (poz. 35); Twardy Krab ×1 (poz. 35); Ostry Krab ×1 (poz. 35) (wsparcie); Kolczasty Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie)
 
-#### Ostry Krab — id 90077
+#### Ostry Krab
 
 *Wystąpienia: ×2 (poz. 35) · też jako wsparcie.*
 
@@ -24,31 +24,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007701
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007703
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007704
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007705
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -60,7 +60,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Kolczasty Krab — id 90078
+#### Kolczasty Krab
 
 *Wystąpienia: ×2 (poz. 35) · też jako wsparcie.*
 
@@ -76,31 +76,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007801
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007803
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007804
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007805
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -112,7 +112,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Twardy Krab — id 90079
+#### Twardy Krab
 
 *Wystąpienia: ×2 (poz. 35) · też jako wsparcie.*
 
@@ -128,31 +128,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007901
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007903
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007904
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007905
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -168,7 +168,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 - **Fala 1:** Ostry Krab ×2 (poz. 35); Twardy Krab ×1 (poz. 35); Ostry Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie); Ostry Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie)
 
-#### Ostry Krab — id 90077
+#### Ostry Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -184,31 +184,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007701
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007703
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007704
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007705
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -220,7 +220,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Twardy Krab — id 90079
+#### Twardy Krab
 
 *Wystąpienia: ×3 (poz. 35) · też jako wsparcie.*
 
@@ -236,31 +236,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007901
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007903
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007904
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007905
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -276,7 +276,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 - **Fala 1:** Ostry Krab ×2 (poz. 35); Twardy Krab ×1 (poz. 35); Twardy Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie); Krab z Pociskami ×1 (poz. 35) (wsparcie)
 
-#### Ostry Krab — id 90077
+#### Ostry Krab
 
 *Wystąpienia: ×2 (poz. 35).*
 
@@ -292,31 +292,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007701
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007703
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007704
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007705
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -328,7 +328,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Twardy Krab — id 90079
+#### Twardy Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -344,31 +344,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007901
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007903
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007904
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007905
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -380,7 +380,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Krab z Pociskami — id 90080
+#### Krab z Pociskami
 
 *Wystąpienia: ×1 (poz. 35) · też jako wsparcie.*
 
@@ -396,31 +396,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Bęc (×3) — id 9008001
+##### Umiejętność: Bęc (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008002
+##### Umiejętność: Bęc Bęc Bęc (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9008003
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    2 |
 
-##### Umiejętność: Ostrzał Krabiem! — id 9008004
+##### Umiejętność: Ostrzał Krabiem!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    3 |
 
-##### Umiejętność: GUOH! — id 9008005
+##### Umiejętność: GUOH!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -436,7 +436,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 - **Fala 1:** Ostry Krab ×2 (poz. 35); Kolczasty Krab ×1 (poz. 35); Ostry Krab ×1 (poz. 35) (wsparcie); Kolczasty Krab ×1 (poz. 35) (wsparcie); Ostry Krab ×1 (poz. 35) (wsparcie); Kolczasty Krab ×1 (poz. 35) (wsparcie)
 
-#### Ostry Krab — id 90077
+#### Ostry Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -452,31 +452,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007701
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007703
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007704
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007705
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -488,7 +488,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Kolczasty Krab — id 90078
+#### Kolczasty Krab
 
 *Wystąpienia: ×3 (poz. 35) · też jako wsparcie.*
 
@@ -504,31 +504,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007801
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007803
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007804
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007805
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -544,7 +544,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 - **Fala 1:** Kolczasty Krab ×2 (poz. 35); Twardy Krab ×2 (poz. 35); Kolczasty Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie); Kolczasty Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie)
 
-#### Kolczasty Krab — id 90078
+#### Kolczasty Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -560,31 +560,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007801
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007803
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007804
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007805
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -596,7 +596,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Twardy Krab — id 90079
+#### Twardy Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -612,31 +612,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007901
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007903
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007904
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007905
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -652,7 +652,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 - **Fala 1:** Kolczasty Krab ×2 (poz. 35); Twardy Krab ×2 (poz. 35); Kolczasty Krab ×1 (poz. 35) (wsparcie); Kolczasty Krab ×1 (poz. 35) (wsparcie); Krab z Bagnetem ×1 (poz. 35) (wsparcie)
 
-#### Kolczasty Krab — id 90078
+#### Kolczasty Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -668,31 +668,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007801
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007803
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007804
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007805
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -704,7 +704,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Twardy Krab — id 90079
+#### Twardy Krab
 
 *Wystąpienia: ×2 (poz. 35).*
 
@@ -720,31 +720,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Gwah (×3) — id 9007901
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007903
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007904
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007905
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -756,7 +756,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Krab z Bagnetem — id 90081
+#### Krab z Bagnetem
 
 *Wystąpienia: ×1 (poz. 35) · też jako wsparcie.*
 
@@ -772,37 +772,37 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Bęc (×3) — id 9008101
+##### Umiejętność: Bęc (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008102
+##### Umiejętność: Bęc Bęc Bęc (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9008103
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    2 |
 
-##### Umiejętność: Pancerne Tarany!!! — id 9008104
+##### Umiejętność: Pancerne Tarany!!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Strzał Wylinki — id 9008105
+##### Umiejętność: Strzał Wylinki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |        +10 |      1 |    5 |
 
-##### Umiejętność: GUOH! — id 9008106
+##### Umiejętność: GUOH!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -821,7 +821,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 - **Fala 2:** Krab z Bagnetem ×1 (poz. 35); Ostry Krab ×1 (poz. 35); Kolczasty Krab ×2 (poz. 35); Ostry Krab ×1 (poz. 35)
 - **Fala 3:** King Krab ×1 (poz. 35); Ostry Krab ×1 (poz. 35); Kolczasty Krab ×1 (poz. 35); Twardy Krab ×1 (poz. 35); Ostry Krab ×1 (poz. 35) (wsparcie); Kolczasty Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie); Krab z Pociskami ×1 (poz. 35) (wsparcie); Krab z Bagnetem ×1 (poz. 35) (wsparcie)
 
-#### Krab z Pociskami — id 8073
+#### Krab z Pociskami
 
 *Wystąpienia: ×2 (poz. 35) · też jako wsparcie.*
 
@@ -836,7 +836,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -848,31 +848,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Bęc (×3) — id 9008001
+##### Umiejętność: Bęc (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008002
+##### Umiejętność: Bęc Bęc Bęc (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9008003
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    2 |
 
-##### Umiejętność: Ostrzał Krabiem! — id 9008004
+##### Umiejętność: Ostrzał Krabiem!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    3 |
 
-##### Umiejętność: GUOH! — id 9008005
+##### Umiejętność: GUOH!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -884,7 +884,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Ostry Krab — id 8070
+#### Ostry Krab
 
 *Wystąpienia: ×6 (poz. 35) · też jako wsparcie.*
 
@@ -899,7 +899,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -911,31 +911,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Gwah (×3) — id 9007701
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007703
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007704
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007705
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -947,7 +947,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Twardy Krab — id 8072
+#### Twardy Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -962,7 +962,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -974,31 +974,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Gwah (×3) — id 9007901
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007903
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007904
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007905
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1010,7 +1010,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Krab z Bagnetem — id 8074
+#### Krab z Bagnetem
 
 *Wystąpienia: ×2 (poz. 35) · też jako wsparcie.*
 
@@ -1025,7 +1025,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1037,37 +1037,37 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Bęc (×3) — id 9008101
+##### Umiejętność: Bęc (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008102
+##### Umiejętność: Bęc Bęc Bęc (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9008103
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    2 |
 
-##### Umiejętność: Pancerne Tarany!!! — id 9008104
+##### Umiejętność: Pancerne Tarany!!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Strzał Wylinki — id 9008105
+##### Umiejętność: Strzał Wylinki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |        +10 |      1 |    5 |
 
-##### Umiejętność: GUOH! — id 9008106
+##### Umiejętność: GUOH!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1080,7 +1080,7 @@ atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 - **Molted Shell Shot** — na początku walki: zyskuje 1 Molted Shell Shot
 
-#### Kolczasty Krab — id 8071
+#### Kolczasty Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -1095,7 +1095,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1107,31 +1107,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Gwah (×3) — id 9007801
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007803
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007804
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007805
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1143,7 +1143,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### King Krab — id 8063
+#### King Krab
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -1158,7 +1158,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Głowa — id 806301
+##### Głowa
 
 | Parametr           | Wartość                                                                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1170,7 +1170,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Muszla — id 806302
+##### Muszla
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1182,43 +1182,43 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Brutalne Walicie — id 806301
+##### Umiejętność: Brutalne Walicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Mocne! Bicie — id 806302
+##### Umiejętność: Mocne! Bicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +7 |      1 |    3 |
 
-##### Umiejętność: Pienienie — id 806303
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    5 |
 
-##### Umiejętność: Atak Pancerzem!!! — id 806304
+##### Umiejętność: Atak Pancerzem!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +10 |      1 |    5 |
 
-##### Umiejętność: Krabia Balanga — id 806305
+##### Umiejętność: Krabia Balanga
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +11 |      1 |    5 |
 
-##### Umiejętność: Pancerz z Piany — id 806306
+##### Umiejętność: Pancerz z Piany
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Pancerz z Piany — id 806307
+##### Umiejętność: Pancerz z Piany
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1238,7 +1238,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 - **Fala 2:** Krab z Bagnetem ×1 (poz. 35); Ostry Krab ×1 (poz. 35); Kolczasty Krab ×2 (poz. 35); Ostry Krab ×1 (poz. 35)
 - **Fala 3:** King Krab ×1 (poz. 35); Ostry Krab ×1 (poz. 35); Kolczasty Krab ×1 (poz. 35); Twardy Krab ×1 (poz. 35); Ostry Krab ×1 (poz. 35) (wsparcie); Kolczasty Krab ×1 (poz. 35) (wsparcie); Twardy Krab ×1 (poz. 35) (wsparcie); Krab z Pociskami ×1 (poz. 35) (wsparcie); Krab z Bagnetem ×1 (poz. 35) (wsparcie)
 
-#### Krab z Pociskami — id 8073
+#### Krab z Pociskami
 
 *Wystąpienia: ×2 (poz. 35) · też jako wsparcie.*
 
@@ -1253,7 +1253,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1265,31 +1265,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Bęc (×3) — id 9008001
+##### Umiejętność: Bęc (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008002
+##### Umiejętność: Bęc Bęc Bęc (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9008003
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    2 |
 
-##### Umiejętność: Ostrzał Krabiem! — id 9008004
+##### Umiejętność: Ostrzał Krabiem!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    3 |
 
-##### Umiejętność: GUOH! — id 9008005
+##### Umiejętność: GUOH!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1301,7 +1301,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Ostry Krab — id 8070
+#### Ostry Krab
 
 *Wystąpienia: ×6 (poz. 35) · też jako wsparcie.*
 
@@ -1316,7 +1316,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1328,31 +1328,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Gwah (×3) — id 9007701
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007703
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007704
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007705
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1364,7 +1364,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Twardy Krab — id 8072
+#### Twardy Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -1379,7 +1379,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807201
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1391,31 +1391,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Gwah (×3) — id 9007901
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007903
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007904
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007905
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1427,7 +1427,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### Krab z Bagnetem — id 8074
+#### Krab z Bagnetem
 
 *Wystąpienia: ×2 (poz. 35) · też jako wsparcie.*
 
@@ -1442,7 +1442,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1454,37 +1454,37 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Bęc (×3) — id 9008101
+##### Umiejętność: Bęc (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008102
+##### Umiejętność: Bęc Bęc Bęc (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9008103
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    2 |
 
-##### Umiejętność: Pancerne Tarany!!! — id 9008104
+##### Umiejętność: Pancerne Tarany!!!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Strzał Wylinki — id 9008105
+##### Umiejętność: Strzał Wylinki
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |        +10 |      1 |    5 |
 
-##### Umiejętność: GUOH! — id 9008106
+##### Umiejętność: GUOH!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1497,7 +1497,7 @@ atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 - **Molted Shell Shot** — na początku walki: zyskuje 1 Molted Shell Shot
 
-#### Kolczasty Krab — id 8071
+#### Kolczasty Krab
 
 *Wystąpienia: ×4 (poz. 35) · też jako wsparcie.*
 
@@ -1512,7 +1512,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Tułów — id 807101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1524,31 +1524,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Gwah (×3) — id 9007801
+##### Umiejętność: Gwah (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gwaaah! — id 9007803
+##### Umiejętność: Gwaaah!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Pienienie — id 9007804
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Pustelnik — id 9007805
+##### Umiejętność: Pustelnik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1560,7 +1560,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 atakując sojusznika, przywraca HP równe zadanym obrażeniom.
 zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
-#### King Krab — id 8063
+#### King Krab
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -1575,7 +1575,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 **Części (anatomia):**
 
-##### Głowa — id 806301
+##### Głowa
 
 | Parametr           | Wartość                                                                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1587,7 +1587,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Muszla — id 806302
+##### Muszla
 
 | Parametr           | Wartość                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1599,43 +1599,43 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Brutalne Walicie — id 806301
+##### Umiejętność: Brutalne Walicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Mocne! Bicie — id 806302
+##### Umiejętność: Mocne! Bicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +7 |      1 |    3 |
 
-##### Umiejętność: Pienienie — id 806303
+##### Umiejętność: Pienienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    5 |
 
-##### Umiejętność: Atak Pancerzem!!! — id 806304
+##### Umiejętność: Atak Pancerzem!!!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +10 |      1 |    5 |
 
-##### Umiejętność: Krabia Balanga — id 806305
+##### Umiejętność: Krabia Balanga
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +11 |      1 |    5 |
 
-##### Umiejętność: Pancerz z Piany — id 806306
+##### Umiejętność: Pancerz z Piany
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Pancerz z Piany — id 806307
+##### Umiejętność: Pancerz z Piany
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

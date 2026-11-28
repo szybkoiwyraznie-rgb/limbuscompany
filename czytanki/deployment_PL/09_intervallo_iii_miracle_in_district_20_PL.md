@@ -11,7 +11,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 3:** Leafy Gnome ×1 (poz. 40); Leafy Gnome ×1 (poz. 40); Cherry Gnome ×1 (poz. 40); Shadowy Gnome ×1 (poz. 40)
 - **Fala 4:** Leafy Gnome ×1 (poz. 40); Cherry Gnome ×1 (poz. 40); Shadowy Gnome ×1 (poz. 40); Dodoru ×1 (poz. 40)
 
-#### Leafy Gnome — id 90101
+#### Leafy Gnome
 
 *Wystąpienia: ×6 (poz. 40).*
 
@@ -30,19 +30,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Człowiek-om! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! — id 9010102
+##### Umiejętność: Złapać Ich-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -53,7 +53,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×4 (poz. 40).*
 
@@ -72,19 +72,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -95,7 +95,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Shadowy Gnome — id 90103
+#### Shadowy Gnome
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -114,19 +114,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! — id 9010302
+##### Umiejętność: Ruchy z Tym-om!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -137,7 +137,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Dodoru — id 90105
+#### Dodoru
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -156,25 +156,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Porwę Was-om! (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Złoto Znalezione-om! — id 9010402
+##### Umiejętność: Złoto Znalezione-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Materiał Lokalny-om! — id 9010403
+##### Umiejętność: Materiał Lokalny-om!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -189,7 +189,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Leafy Gnome ×3 (poz. 40); Cherry Gnome ×2 (poz. 40); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie)
 
-#### Leafy Gnome — id 90101
+#### Leafy Gnome
 
 *Wystąpienia: ×5 (poz. 40) · też jako wsparcie.*
 
@@ -208,19 +208,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Człowiek-om! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! — id 9010102
+##### Umiejętność: Złapać Ich-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -231,7 +231,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×5 (poz. 40) · też jako wsparcie.*
 
@@ -250,19 +250,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -277,7 +277,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Cherry Gnome ×3 (poz. 40); Shadowy Gnome ×2 (poz. 40); Cherry Gnome ×1 (poz. 40) (wsparcie); Shadowy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Shadowy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie)
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×6 (poz. 40) · też jako wsparcie.*
 
@@ -296,19 +296,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -319,7 +319,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Shadowy Gnome — id 90103
+#### Shadowy Gnome
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -338,19 +338,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! — id 9010302
+##### Umiejętność: Ruchy z Tym-om!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -365,7 +365,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Leafy Gnome ×3 (poz. 40); Shadowy Gnome ×2 (poz. 40); Cherry Gnome ×1 (poz. 40) (wsparcie); Shadowy Gnome ×1 (poz. 40) (wsparcie); Shadowy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie)
 
-#### Leafy Gnome — id 90101
+#### Leafy Gnome
 
 *Wystąpienia: ×3 (poz. 40).*
 
@@ -384,19 +384,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Człowiek-om! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! — id 9010102
+##### Umiejętność: Złapać Ich-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -407,7 +407,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Shadowy Gnome — id 90103
+#### Shadowy Gnome
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -426,19 +426,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! — id 9010302
+##### Umiejętność: Ruchy z Tym-om!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -449,7 +449,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -468,19 +468,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -495,7 +495,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Cherry Gnome ×3 (poz. 40); Shadowy Gnome ×2 (poz. 40); Leafy Gnome ×1 (poz. 40) (wsparcie); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Shadowy Gnome ×1 (poz. 40) (wsparcie); Manager Gnome ×1 (poz. 40) (wsparcie)
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -514,19 +514,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -537,7 +537,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Shadowy Gnome — id 90103
+#### Shadowy Gnome
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -556,19 +556,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! — id 9010302
+##### Umiejętność: Ruchy z Tym-om!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -579,7 +579,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Leafy Gnome — id 90101
+#### Leafy Gnome
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -598,19 +598,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Człowiek-om! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! — id 9010102
+##### Umiejętność: Złapać Ich-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -621,7 +621,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Manager Gnome — id 90104
+#### Manager Gnome
 
 *Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
 
@@ -640,25 +640,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Porwę Was-om! (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Złoto Znalezione-om! — id 9010402
+##### Umiejętność: Złoto Znalezione-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Materiał Lokalny-om! — id 9010403
+##### Umiejętność: Materiał Lokalny-om!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -673,7 +673,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Leafy Gnome ×2 (poz. 40); Cherry Gnome ×2 (poz. 40); Shadowy Gnome ×1 (poz. 40); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Manager Gnome ×1 (poz. 40) (wsparcie)
 
-#### Leafy Gnome — id 90101
+#### Leafy Gnome
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -692,19 +692,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Człowiek-om! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! — id 9010102
+##### Umiejętność: Złapać Ich-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -715,7 +715,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -734,19 +734,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -757,7 +757,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Shadowy Gnome — id 90103
+#### Shadowy Gnome
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -776,19 +776,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! — id 9010302
+##### Umiejętność: Ruchy z Tym-om!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -799,7 +799,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Manager Gnome — id 90104
+#### Manager Gnome
 
 *Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
 
@@ -818,25 +818,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Porwę Was-om! (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Złoto Znalezione-om! — id 9010402
+##### Umiejętność: Złoto Znalezione-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Materiał Lokalny-om! — id 9010403
+##### Umiejętność: Materiał Lokalny-om!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -851,7 +851,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Leafy Gnome ×2 (poz. 40); Cherry Gnome ×1 (poz. 40); Shadowy Gnome ×1 (poz. 40); Manager Gnome ×1 (poz. 40); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Manager Gnome ×1 (poz. 40) (wsparcie)
 
-#### Leafy Gnome — id 90101
+#### Leafy Gnome
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -870,19 +870,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Człowiek-om! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! — id 9010102
+##### Umiejętność: Złapać Ich-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -893,7 +893,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -912,19 +912,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -935,7 +935,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Shadowy Gnome — id 90103
+#### Shadowy Gnome
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -954,19 +954,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! — id 9010302
+##### Umiejętność: Ruchy z Tym-om!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -977,7 +977,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Manager Gnome — id 90104
+#### Manager Gnome
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -996,25 +996,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Porwę Was-om! (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Złoto Znalezione-om! — id 9010402
+##### Umiejętność: Złoto Znalezione-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Materiał Lokalny-om! — id 9010403
+##### Umiejętność: Materiał Lokalny-om!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1029,7 +1029,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Leafy Gnome ×2 (poz. 40); Cherry Gnome ×1 (poz. 40); Shadowy Gnome ×1 (poz. 40); Manager Gnome ×1 (poz. 40); Leafy Gnome ×1 (poz. 40) (wsparcie); Leafy Gnome ×1 (poz. 40) (wsparcie); Cherry Gnome ×1 (poz. 40) (wsparcie); Manager Gnome ×1 (poz. 40) (wsparcie); Manager Gnome ×1 (poz. 40) (wsparcie)
 
-#### Leafy Gnome — id 90101
+#### Leafy Gnome
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -1048,19 +1048,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Człowiek-om! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! — id 9010102
+##### Umiejętność: Złapać Ich-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1071,7 +1071,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Cherry Gnome — id 90102
+#### Cherry Gnome
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -1090,19 +1090,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1113,7 +1113,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Shadowy Gnome — id 90103
+#### Shadowy Gnome
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1132,19 +1132,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! — id 9010302
+##### Umiejętność: Ruchy z Tym-om!
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1155,7 +1155,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fresh Human-omes!** — każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)
 - **Mine-omes** — Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Pośpiech] i 1 [Wzrost Mocy Ataku] w następnej turze.
 
-#### Manager Gnome — id 90104
+#### Manager Gnome
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -1174,25 +1174,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Porwę Was-om! (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Złoto Znalezione-om! — id 9010402
+##### Umiejętność: Złoto Znalezione-om!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Materiał Lokalny-om! — id 9010403
+##### Umiejętność: Materiał Lokalny-om!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1209,7 +1209,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Leafy Gnome ×1 (poz. 40); Cherry Gnome ×1 (poz. 40); Manager Gnome ×2 (poz. 40)
 - **Fala 3:** Santata ×1 (poz. 40)
 
-#### Leafy Gnome — id 8114
+#### Leafy Gnome
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1228,7 +1228,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 811401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1240,27 +1240,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Człowiek-om! (×3) — id 9010101
+##### Umiejętność: Człowiek-om! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! (×2) — id 9010102
+##### Umiejętność: Złapać Ich-om! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Cherry Gnome — id 8115
+#### Cherry Gnome
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1279,7 +1277,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 811501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1291,27 +1289,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×3) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! (×2) — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Shadowy Gnome — id 8116
+#### Shadowy Gnome
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1330,7 +1326,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 811601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1342,27 +1338,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×3) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! (×2) — id 9010302
+##### Umiejętność: Ruchy z Tym-om! (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          5 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Manager Gnome — id 8135
+#### Manager Gnome
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1381,7 +1375,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 813501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1393,33 +1387,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Porwę Was-om! (×3) — id 9010401
+##### Umiejętność: Porwę Was-om! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Złoto Znalezione-om! (×2) — id 9010402
+##### Umiejętność: Złoto Znalezione-om! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Materiał Lokalny-om! — id 9010403
+##### Umiejętność: Materiał Lokalny-om!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Santata — id 8113
+#### Santata
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1438,7 +1430,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 811301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1450,7 +1442,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Gift Sack — id 811302
+##### Gift Sack
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1462,31 +1454,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Bądź Radością — id 811301
+##### Umiejętność: Bądź Radością
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Bądź Ukojeniem — id 811302
+##### Umiejętność: Bądź Ukojeniem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Prezent od Mnie — id 811303
+##### Umiejętność: Prezent od Mnie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Pakuję — id 811304
+##### Umiejętność: Pakuję
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          9 |         +3 |      3 |    1 |
 
-##### Umiejętność: Czas Zapakować Prezent — id 811305
+##### Umiejętność: Czas Zapakować Prezent
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1506,7 +1498,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 - **Fala 2:** Leafy Gnome ×1 (poz. 40); Cherry Gnome ×1 (poz. 40); Manager Gnome ×2 (poz. 40)
 - **Fala 3:** Santata ×1 (poz. 40)
 
-#### Leafy Gnome — id 8114
+#### Leafy Gnome
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1525,7 +1517,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Części (anatomia):**
 
-##### Korpus — id 811401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1537,27 +1529,25 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Człowiek-om! (×3) — id 9010101
+##### Umiejętność: Człowiek-om! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Złapać Ich-om! (×2) — id 9010102
+##### Umiejętność: Złapać Ich-om! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Om, Om!! — id 9010103
+##### Umiejętność: Om, Om!!
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
-**Pasywki:** brak
-
-#### Cherry Gnome — id 8115
+#### Cherry Gnome
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1576,7 +1566,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Części (anatomia):**
 
-##### Korpus — id 811501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1588,27 +1578,25 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Świeżuteńkie Mięsko-om (×3) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Żwawy Jak Trzeba-om! (×2) — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +7 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Shadowy Gnome — id 8116
+#### Shadowy Gnome
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1627,7 +1615,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Części (anatomia):**
 
-##### Korpus — id 811601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1639,27 +1627,25 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Zrobię z Was Mebel-om! (×3) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Ruchy z Tym-om! (×2) — id 9010302
+##### Umiejętność: Ruchy z Tym-om! (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hoom Hoom~ — id 9010303
+##### Umiejętność: Hoom Hoom~
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          5 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Manager Gnome — id 8135
+#### Manager Gnome
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1678,7 +1664,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Części (anatomia):**
 
-##### Korpus — id 813501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1690,33 +1676,31 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Porwę Was-om! (×3) — id 9010401
+##### Umiejętność: Porwę Was-om! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Złoto Znalezione-om! (×2) — id 9010402
+##### Umiejętność: Złoto Znalezione-om! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Materiał Lokalny-om! — id 9010403
+##### Umiejętność: Materiał Lokalny-om!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Santata — id 8113
+#### Santata
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1735,7 +1719,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Części (anatomia):**
 
-##### Korpus — id 811301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1747,7 +1731,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Gift Sack — id 811302
+##### Gift Sack
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1759,31 +1743,31 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Bądź Radością — id 811301
+##### Umiejętność: Bądź Radością
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Bądź Ukojeniem — id 811302
+##### Umiejętność: Bądź Ukojeniem
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Prezent od Mnie — id 811303
+##### Umiejętność: Prezent od Mnie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Pakuję — id 811304
+##### Umiejętność: Pakuję
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          9 |         +3 |      3 |    1 |
 
-##### Umiejętność: Czas Zapakować Prezent — id 811305
+##### Umiejętność: Czas Zapakować Prezent
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

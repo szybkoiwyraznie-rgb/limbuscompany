@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Skonfundowany Strażnik Punktu Kontrolnego K Corp. ×4 (poz. 28)
 
-#### Skonfundowany Strażnik Punktu Kontrolnego K Corp. — id 90042
+#### Skonfundowany Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×4 (poz. 28).*
 
@@ -27,19 +27,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skrii (×4) — id 9004201
+##### Umiejętność: Skrii (×4)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skriik (×2) — id 9004202
+##### Umiejętność: Skriik (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9004203
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -54,7 +54,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Skonfundowany Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 28); Przytłoczony Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 28); Oszołomiony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 28); Przytłoczony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 28) (wsparcie); Oszołomiony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 28) (wsparcie); Oślepiony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 28) (wsparcie); Przytłoczony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 28) (wsparcie); Oszołomiony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 28) (wsparcie)
 
-#### Skonfundowany Strażnik Punktu Kontrolnego K Corp. — id 90042
+#### Skonfundowany Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 28).*
 
@@ -73,19 +73,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skrii (×4) — id 9004201
+##### Umiejętność: Skrii (×4)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skriik (×2) — id 9004202
+##### Umiejętność: Skriik (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9004203
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -96,7 +96,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Przytłoczony Strażnik Punktu Kontrolnego K Corp. — id 90043
+#### Przytłoczony Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×4 (poz. 28) · też jako wsparcie.*
 
@@ -115,19 +115,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skriik (×4) — id 9004301
+##### Umiejętność: Skriik (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +9 |      1 |    1 |
 
-##### Umiejętność: Skriiiek (×2) — id 9004302
+##### Umiejętność: Skriiiek (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9004303
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -138,7 +138,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Oszołomiony Strażnik Punktu Kontrolnego K Corp. — id 90044
+#### Oszołomiony Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×3 (poz. 28) · też jako wsparcie.*
 
@@ -157,19 +157,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skrik! (×4) — id 9004401
+##### Umiejętność: Skrik! (×4)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skiek! (×2) — id 9004402
+##### Umiejętność: Skiek! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9004403
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -180,7 +180,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
-#### Oślepiony Strażnik Punktu Kontrolnego K Corp. — id 90045
+#### Oślepiony Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×1 (poz. 28) · też jako wsparcie.*
 
@@ -199,25 +199,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Skrikiik (×4) — id 9004501
+##### Umiejętność: Skrikiik (×4)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skrikiik (×2) — id 9004502
+##### Umiejętność: Skrikiik (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skriikki (×2) — id 9004503
+##### Umiejętność: Skriikki (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Garda — id 9004504
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -232,7 +232,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Głowokurczak a.k.a. Bongy ×4 (poz. 28); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie)
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×6 (poz. 28) · też jako wsparcie.*
 
@@ -247,7 +247,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -259,19 +259,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -281,7 +281,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8035
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 28) · też jako wsparcie.*
 
@@ -296,7 +296,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -308,19 +308,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Baaawkbawk (×6) — id 803501
+##### Umiejętność: Baaawkbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Bawkbabawk (×2) — id 803502
+##### Umiejętność: Bawkbabawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khgh (×2) — id 803503
+##### Umiejętność: Khgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -334,7 +334,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Głowokurczak a.k.a. Bongy ×2 (poz. 28); Głowokurczak a.k.a. Bongy ×2 (poz. 28); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 28) (wsparcie)
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×3 (poz. 28) · też jako wsparcie.*
 
@@ -349,7 +349,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -361,19 +361,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -383,7 +383,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8035
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×4 (poz. 28) · też jako wsparcie.*
 
@@ -398,7 +398,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -410,19 +410,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Baaawkbawk (×6) — id 803501
+##### Umiejętność: Baaawkbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Bawkbabawk (×2) — id 803502
+##### Umiejętność: Bawkbabawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khgh (×2) — id 803503
+##### Umiejętność: Khgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -432,7 +432,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8036
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 28) · też jako wsparcie.*
 
@@ -447,7 +447,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -459,19 +459,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khghgh! (×6) — id 803601
+##### Umiejętność: Khghgh! (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kawkbaawk! (×2) — id 803602
+##### Umiejętność: Kawkbaawk! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krgh! (×2) — id 803603
+##### Umiejętność: Krgh! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -486,7 +486,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Fala 1:** Głowokurczak a.k.a. Bongy ×1 (poz. 28); Głowokurczak a.k.a. Bongy ×2 (poz. 28); Głowokurczak a.k.a. Bongy ×2 (poz. 28)
 - **Fala 2:** Tata Bongy ×1 (poz. 28); Głowokurczak a.k.a. Bongy ×1 (poz. 28); Głowokurczak a.k.a. Bongy ×1 (poz. 28)
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 28).*
 
@@ -501,7 +501,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -513,19 +513,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -535,7 +535,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8035
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 28).*
 
@@ -550,7 +550,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -562,19 +562,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Baaawkbawk (×6) — id 803501
+##### Umiejętność: Baaawkbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Bawkbabawk (×2) — id 803502
+##### Umiejętność: Bawkbabawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khgh (×2) — id 803503
+##### Umiejętność: Khgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -584,7 +584,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8036
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×3 (poz. 28).*
 
@@ -599,7 +599,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -611,19 +611,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khghgh! (×6) — id 803601
+##### Umiejętność: Khghgh! (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kawkbaawk! (×2) — id 803602
+##### Umiejętność: Kawkbaawk! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krgh! (×2) — id 803603
+##### Umiejętność: Krgh! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -633,7 +633,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Tata Bongy — id 8039
+#### Tata Bongy
 
 *Wystąpienia: ×1 (poz. 28).*
 
@@ -648,7 +648,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803901
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                     |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -660,7 +660,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Kubeł Kurczaka — id 803902
+##### Kubeł Kurczaka
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -672,25 +672,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Kgh! (×4) — id 803901
+##### Umiejętność: Kgh! (×4)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk (×2) — id 803902
+##### Umiejętność: Khk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +2 |      4 |    1 |
 
-##### Umiejętność: Keghgh! (×2) — id 803903
+##### Umiejętność: Keghgh! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         +6 |      1 |    1 |
 
-##### Umiejętność: Keghgh… (×2) — id 803905
+##### Umiejętność: Keghgh… (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -706,7 +706,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Głowokurczak a.k.a. Bongy ×3 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie)
 
-#### Głowokurczak a.k.a. Bongy — id 8035
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×4 (poz. 25) · też jako wsparcie.*
 
@@ -721,7 +721,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -733,19 +733,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Baaawkbawk (×6) — id 803501
+##### Umiejętność: Baaawkbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Bawkbabawk (×2) — id 803502
+##### Umiejętność: Bawkbabawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khgh (×2) — id 803503
+##### Umiejętność: Khgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -755,7 +755,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8036
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -770,7 +770,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -782,19 +782,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khghgh! (×6) — id 803601
+##### Umiejętność: Khghgh! (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kawkbaawk! (×2) — id 803602
+##### Umiejętność: Kawkbaawk! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krgh! (×2) — id 803603
+##### Umiejętność: Krgh! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -804,7 +804,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8037
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -819,7 +819,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -831,19 +831,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khgh (×6) — id 803701
+##### Umiejętność: Khgh (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Khgaawahk (×2) — id 803702
+##### Umiejętność: Khgaawahk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk! (×2) — id 803703
+##### Umiejętność: Khk! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -854,7 +854,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 - **Bongy Chicken Beefs Up** — na koniec tury, nakłada 2 Wzrost Obrażeń i 2 Ochrony wszystkim sojusznikom w następnej turze.
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×1 (poz. 25) · też jako wsparcie.*
 
@@ -869,7 +869,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -881,19 +881,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -907,7 +907,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Głowokurczak a.k.a. Bongy ×4 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie)
 
-#### Głowokurczak a.k.a. Bongy — id 8036
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×6 (poz. 25) · też jako wsparcie.*
 
@@ -922,7 +922,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -934,19 +934,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khghgh! (×6) — id 803601
+##### Umiejętność: Khghgh! (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kawkbaawk! (×2) — id 803602
+##### Umiejętność: Kawkbaawk! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krgh! (×2) — id 803603
+##### Umiejętność: Krgh! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -956,7 +956,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8037
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -971,7 +971,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -983,19 +983,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khgh (×6) — id 803701
+##### Umiejętność: Khgh (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Khgaawahk (×2) — id 803702
+##### Umiejętność: Khgaawahk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk! (×2) — id 803703
+##### Umiejętność: Khk! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1006,7 +1006,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 - **Bongy Chicken Beefs Up** — na koniec tury, nakłada 2 Wzrost Obrażeń i 2 Ochrony wszystkim sojusznikom w następnej turze.
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×1 (poz. 25) · też jako wsparcie.*
 
@@ -1021,7 +1021,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1033,19 +1033,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1059,7 +1059,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×2 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie)
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1074,7 +1074,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1086,19 +1086,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1108,7 +1108,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8035
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -1123,7 +1123,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1135,19 +1135,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Baaawkbawk (×6) — id 803501
+##### Umiejętność: Baaawkbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Bawkbabawk (×2) — id 803502
+##### Umiejętność: Bawkbabawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khgh (×2) — id 803503
+##### Umiejętność: Khgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1157,7 +1157,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8036
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1172,7 +1172,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1184,19 +1184,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khghgh! (×6) — id 803601
+##### Umiejętność: Khghgh! (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kawkbaawk! (×2) — id 803602
+##### Umiejętność: Kawkbaawk! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krgh! (×2) — id 803603
+##### Umiejętność: Krgh! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1206,7 +1206,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8037
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×3 (poz. 25) · też jako wsparcie.*
 
@@ -1221,7 +1221,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1233,19 +1233,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khgh (×6) — id 803701
+##### Umiejętność: Khgh (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Khgaawahk (×2) — id 803702
+##### Umiejętność: Khgaawahk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk! (×2) — id 803703
+##### Umiejętność: Khk! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1260,7 +1260,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Tata Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie)
 
-#### Tata Bongy — id 8039
+#### Tata Bongy
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -1275,7 +1275,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803901
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                     |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1287,7 +1287,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Kubeł Kurczaka — id 803902
+##### Kubeł Kurczaka
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1299,25 +1299,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Kgh! (×4) — id 803901
+##### Umiejętność: Kgh! (×4)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk (×2) — id 803902
+##### Umiejętność: Khk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +2 |      4 |    1 |
 
-##### Umiejętność: Keghgh! (×2) — id 803903
+##### Umiejętność: Keghgh! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         +6 |      1 |    1 |
 
-##### Umiejętność: Keghgh… (×2) — id 803905
+##### Umiejętność: Keghgh… (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1329,7 +1329,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Fragile Fowl** — gdy Część zostaje zniszczona, co turę zyskuje 1 Wrażliwości za każdą Raw Chicken, która padła przed zniszczeniem tej Części.
 - **Powerful Poussin** — jeżeli Część nie jest zniszczona, co turę zyskuje 1 Wzrost Obrażeń za każdą żywą Raw Chicken.
 
-#### Głowokurczak a.k.a. Bongy — id 8035
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1344,7 +1344,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1356,19 +1356,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Baaawkbawk (×6) — id 803501
+##### Umiejętność: Baaawkbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Bawkbabawk (×2) — id 803502
+##### Umiejętność: Bawkbabawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khgh (×2) — id 803503
+##### Umiejętność: Khgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1378,7 +1378,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8036
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1393,7 +1393,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1405,19 +1405,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khghgh! (×6) — id 803601
+##### Umiejętność: Khghgh! (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kawkbaawk! (×2) — id 803602
+##### Umiejętność: Kawkbaawk! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krgh! (×2) — id 803603
+##### Umiejętność: Krgh! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1427,7 +1427,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8037
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1442,7 +1442,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1454,19 +1454,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khgh (×6) — id 803701
+##### Umiejętność: Khgh (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Khgaawahk (×2) — id 803702
+##### Umiejętność: Khgaawahk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk! (×2) — id 803703
+##### Umiejętność: Khk! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1477,7 +1477,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 - **Bongy Chicken Beefs Up** — na koniec tury, nakłada 2 Wzrost Obrażeń i 2 Ochrony wszystkim sojusznikom w następnej turze.
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×1 (poz. 25) · też jako wsparcie.*
 
@@ -1492,7 +1492,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1504,19 +1504,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1530,7 +1530,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Przyprawiony Tata Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie); Głowokurczak a.k.a. Bongy ×1 (poz. 25) (wsparcie)
 
-#### Przyprawiony Tata Bongy — id 8040
+#### Przyprawiony Tata Bongy
 
 *Wystąpienia: ×1 (poz. 25).*
 
@@ -1545,7 +1545,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 804001
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                     |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1557,7 +1557,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Kubeł Kurczaka — id 804002
+##### Kubeł Kurczaka
 
 | Parametr           | Wartość                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1569,25 +1569,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Kgh! (×4) — id 803901
+##### Umiejętność: Kgh! (×4)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk (×2) — id 803902
+##### Umiejętność: Khk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +2 |      4 |    1 |
 
-##### Umiejętność: Keghgh! (×2) — id 803903
+##### Umiejętność: Keghgh! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          8 |         +6 |      1 |    1 |
 
-##### Umiejętność: Keghgh… (×2) — id 803905
+##### Umiejętność: Keghgh… (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1600,7 +1600,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Fragile Fowl** — gdy Część zostaje zniszczona, co turę zyskuje 1 Wrażliwości za każdą Raw Chicken, która padła przed zniszczeniem tej Części.
 - **Powerful Poussin** — jeżeli Część nie jest zniszczona, co turę zyskuje 1 Wzrost Obrażeń za każdą żywą Raw Chicken.
 
-#### Głowokurczak a.k.a. Bongy — id 8035
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1615,7 +1615,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803501
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1627,19 +1627,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Baaawkbawk (×6) — id 803501
+##### Umiejętność: Baaawkbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Bawkbabawk (×2) — id 803502
+##### Umiejętność: Bawkbabawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khgh (×2) — id 803503
+##### Umiejętność: Khgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1649,7 +1649,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8036
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1664,7 +1664,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1676,19 +1676,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khghgh! (×6) — id 803601
+##### Umiejętność: Khghgh! (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Kawkbaawk! (×2) — id 803602
+##### Umiejętność: Kawkbaawk! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krgh! (×2) — id 803603
+##### Umiejętność: Krgh! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1698,7 +1698,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 
-#### Głowokurczak a.k.a. Bongy — id 8037
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×2 (poz. 25) · też jako wsparcie.*
 
@@ -1713,7 +1713,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1725,19 +1725,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Khgh (×6) — id 803701
+##### Umiejętność: Khgh (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Khgaawahk (×2) — id 803702
+##### Umiejętność: Khgaawahk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Khk! (×2) — id 803703
+##### Umiejętność: Khk! (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1748,7 +1748,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Bongy Chicken Struts** — na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.
 - **Bongy Chicken Beefs Up** — na koniec tury, nakłada 2 Wzrost Obrażeń i 2 Ochrony wszystkim sojusznikom w następnej turze.
 
-#### Głowokurczak a.k.a. Bongy — id 8034
+#### Głowokurczak a.k.a. Bongy
 
 *Wystąpienia: ×1 (poz. 25) · też jako wsparcie.*
 
@@ -1763,7 +1763,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 803401
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1775,19 +1775,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Bawkbawbawbawk (×6) — id 803401
+##### Umiejętność: Bawkbawbawbawk (×6)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Babawbawk (×2) — id 803402
+##### Umiejętność: Babawbawk (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Keghgh (×2) — id 803403
+##### Umiejętność: Keghgh (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

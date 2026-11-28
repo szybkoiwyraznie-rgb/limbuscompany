@@ -10,7 +10,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×1 (poz. 45)
 - **Fala 3:** Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×2 (poz. 45)
 
-#### Fruit of Understanding — id 8363
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -25,7 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -37,19 +37,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Percepcja (×2) — id 836302
+##### Umiejętność: Percepcja (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -59,7 +59,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8364
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -74,7 +74,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -86,25 +86,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zbawienie — id 836303
+##### Umiejętność: Zbawienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -114,7 +114,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8365
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -129,7 +129,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -141,19 +141,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -170,7 +170,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 3:** Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×2 (poz. 45)
 - **Fala 4:** Grant Us Love ×1 (poz. 45)
 
-#### Fruit of Understanding — id 8363
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -185,7 +185,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -197,19 +197,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Percepcja (×2) — id 836302
+##### Umiejętność: Percepcja (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -219,7 +219,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8364
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -234,7 +234,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -246,25 +246,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zbawienie — id 836303
+##### Umiejętność: Zbawienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -274,7 +274,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8365
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -289,7 +289,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -301,19 +301,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -323,7 +323,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Grant Us Love — id 8366
+#### Grant Us Love
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -337,7 +337,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -349,7 +349,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Lewe Ramię — id 836602
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -361,7 +361,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Prawe Ramię — id 836603
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -373,31 +373,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Łaska — id 836601
+##### Umiejętność: Łaska
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Miłość — id 836602
+##### Umiejętność: Miłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +5 |      2 |    3 |
 
-##### Umiejętność: Migoczące Glify Zrozumienia — id 836604
+##### Umiejętność: Migoczące Glify Zrozumienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    6 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836605
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Pędzące Ramiona Odpoczynku — id 836606
+##### Umiejętność: Pędzące Ramiona Odpoczynku
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -414,7 +414,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 2:** Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×1 (poz. 45)
 - **Fala 3:** Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×2 (poz. 45)
 
-#### Fruit of Understanding — id 8363
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -429,7 +429,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -441,19 +441,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Percepcja (×2) — id 836302
+##### Umiejętność: Percepcja (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -463,7 +463,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8364
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -478,7 +478,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -490,25 +490,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zbawienie — id 836303
+##### Umiejętność: Zbawienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -518,7 +518,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8365
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -533,7 +533,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -545,19 +545,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -574,7 +574,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Fala 3:** Fruit of Understanding ×1 (poz. 45); Fruit of Understanding ×2 (poz. 45)
 - **Fala 4:** Grant Us Love ×1 (poz. 45)
 
-#### Fruit of Understanding — id 8363
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -589,7 +589,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -601,19 +601,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Percepcja (×2) — id 836302
+##### Umiejętność: Percepcja (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -623,7 +623,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8364
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -638,7 +638,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836401
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -650,25 +650,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zbawienie — id 836303
+##### Umiejętność: Zbawienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -678,7 +678,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8365
+#### Fruit of Understanding
 
 *Wystąpienia: ×3 (poz. 45).*
 
@@ -693,7 +693,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836501
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -705,19 +705,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -727,7 +727,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Grant Us Love — id 8366
+#### Grant Us Love
 
 *Wystąpienia: ×1 (poz. 45).*
 
@@ -741,7 +741,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836601
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -753,7 +753,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Lewe Ramię — id 836602
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -765,7 +765,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Prawe Ramię — id 836603
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -777,31 +777,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Łaska — id 836601
+##### Umiejętność: Łaska
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Miłość — id 836602
+##### Umiejętność: Miłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +5 |      2 |    3 |
 
-##### Umiejętność: Migoczące Glify Zrozumienia — id 836604
+##### Umiejętność: Migoczące Glify Zrozumienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    6 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836605
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Pędzące Ramiona Odpoczynku — id 836606
+##### Umiejętność: Pędzące Ramiona Odpoczynku
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -814,7 +814,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 ## Pula Część `wp4` — jednostki bez przypisanego etapu
 
-#### Fruit of Understanding — id 8367
+#### Fruit of Understanding
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -829,7 +829,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836701
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -841,19 +841,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Percepcja (×2) — id 836302
+##### Umiejętność: Percepcja (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -863,7 +863,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8368
+#### Fruit of Understanding
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -878,7 +878,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836801
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -890,25 +890,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zbawienie — id 836303
+##### Umiejętność: Zbawienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -918,7 +918,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Fruit of Understanding — id 8369
+#### Fruit of Understanding
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -933,7 +933,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 836901
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -945,19 +945,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Zrozumienie — id 836301
+##### Umiejętność: Zrozumienie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozkład — id 836305
+##### Umiejętność: Rozkład
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -967,7 +967,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Imminent Decay** — ta jednostka unicestwia się po upływie określonej liczby tur
 
-#### Grant Us Love — id 8370
+#### Grant Us Love
 
 *Wystąpienia: ×0 (poz. —).*
 
@@ -981,7 +981,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 837001
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -993,7 +993,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Lewe Ramię — id 837002
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -1005,7 +1005,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Prawe Ramię — id 837003
+##### Prawe Ramię
 
 | Parametr           | Wartość                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -1017,31 +1017,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Łaska — id 836601
+##### Umiejętność: Łaska
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Miłość — id 836602
+##### Umiejętność: Miłość
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +5 |      2 |    3 |
 
-##### Umiejętność: Migoczące Glify Zrozumienia — id 836604
+##### Umiejętność: Migoczące Glify Zrozumienia
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    6 |
 
-##### Umiejętność: To, Czego Nie Zrozumieć — id 836605
+##### Umiejętność: To, Czego Nie Zrozumieć
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Pędzące Ramiona Odpoczynku — id 836606
+##### Umiejętność: Pędzące Ramiona Odpoczynku
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |

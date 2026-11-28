@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Determined Kurokumo Henchman ×2 (poz. 40); Tense Kurokumo Henchman ×3 (poz. 40); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie)
 
-#### Determined Kurokumo Henchman — id 90110
+#### Determined Kurokumo Henchman
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -27,33 +27,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozcięcie — id 9011001
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011002
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpadająca się Chmura — id 9011003
+##### Umiejętność: Rozpadająca się Chmura
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011004
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×7 (poz. 40) · też jako wsparcie.*
 
@@ -72,37 +72,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 3 · Ród Władający Ostrzem
 
 - **Fala 1:** Tense Kurokumo Henchman ×3 (poz. 40); Adept Kurokumo Henchwoman ×2 (poz. 40); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie)
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×6 (poz. 40) · też jako wsparcie.*
 
@@ -121,33 +121,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Adept Kurokumo Henchwoman — id 90112
+#### Adept Kurokumo Henchwoman
 
 *Wystąpienia: ×5 (poz. 40) · też jako wsparcie.*
 
@@ -166,37 +166,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cięcie w Dół — id 9011201
+##### Umiejętność: Cięcie w Dół
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odbite Cięcie — id 9011202
+##### Umiejętność: Odbite Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011203
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011204
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 4 · Nieproszony Gość
 
 - **Fala 1:** Tense Kurokumo Henchman ×3 (poz. 40); Tired Kurokumo Henchwoman ×2 (poz. 40); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie)
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×6 (poz. 40) · też jako wsparcie.*
 
@@ -215,33 +215,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tired Kurokumo Henchwoman — id 90113
+#### Tired Kurokumo Henchwoman
 
 *Wystąpienia: ×5 (poz. 40) · też jako wsparcie.*
 
@@ -260,37 +260,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przebijające Cięcie — id 9011301
+##### Umiejętność: Przebijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wyostrzony Cios — id 9011302
+##### Umiejętność: Wyostrzony Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011303
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011304
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 5 · W Stronę Budynku Yong-jin
 
 - **Fala 1:** Tense Kurokumo Henchman ×3 (poz. 40); Adept Kurokumo Henchwoman ×2 (poz. 40); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie)
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -309,33 +309,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Adept Kurokumo Henchwoman — id 90112
+#### Adept Kurokumo Henchwoman
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -354,33 +354,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cięcie w Dół — id 9011201
+##### Umiejętność: Cięcie w Dół
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odbite Cięcie — id 9011202
+##### Umiejętność: Odbite Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011203
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011204
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Determined Kurokumo Henchman — id 90110
+#### Determined Kurokumo Henchman
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -399,33 +399,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozcięcie — id 9011001
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011002
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpadająca się Chmura — id 9011003
+##### Umiejętność: Rozpadająca się Chmura
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011004
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tired Kurokumo Henchwoman — id 90113
+#### Tired Kurokumo Henchwoman
 
 *Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
 
@@ -444,37 +444,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przebijające Cięcie — id 9011301
+##### Umiejętność: Przebijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wyostrzony Cios — id 9011302
+##### Umiejętność: Wyostrzony Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011303
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011304
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 6 · W Stronę Budynku Yong-jin 2
 
 - **Fala 1:** Determined Kurokumo Henchman ×2 (poz. 40); Tense Kurokumo Henchman ×2 (poz. 40); Adept Kurokumo Henchwoman ×1 (poz. 40); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie)
 
-#### Determined Kurokumo Henchman — id 90110
+#### Determined Kurokumo Henchman
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -493,33 +493,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozcięcie — id 9011001
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011002
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpadająca się Chmura — id 9011003
+##### Umiejętność: Rozpadająca się Chmura
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011004
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -538,33 +538,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Adept Kurokumo Henchwoman — id 90112
+#### Adept Kurokumo Henchwoman
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -583,33 +583,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cięcie w Dół — id 9011201
+##### Umiejętność: Cięcie w Dół
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odbite Cięcie — id 9011202
+##### Umiejętność: Odbite Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011203
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011204
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tired Kurokumo Henchwoman — id 90113
+#### Tired Kurokumo Henchwoman
 
 *Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
 
@@ -628,37 +628,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przebijające Cięcie — id 9011301
+##### Umiejętność: Przebijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wyostrzony Cios — id 9011302
+##### Umiejętność: Wyostrzony Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011303
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011304
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 7 · Kim w Słomkowym Kapeluszu i Towarzysze
 
 - **Fala 1:** Determined Kurokumo Henchman ×2 (poz. 40); Tense Kurokumo Henchman ×1 (poz. 40); Adept Kurokumo Henchwoman ×1 (poz. 40); Tired Kurokumo Henchwoman ×1 (poz. 40); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie)
 
-#### Determined Kurokumo Henchman — id 90110
+#### Determined Kurokumo Henchman
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -677,33 +677,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozcięcie — id 9011001
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011002
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpadająca się Chmura — id 9011003
+##### Umiejętność: Rozpadająca się Chmura
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011004
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -722,33 +722,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Adept Kurokumo Henchwoman — id 90112
+#### Adept Kurokumo Henchwoman
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -767,33 +767,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cięcie w Dół — id 9011201
+##### Umiejętność: Cięcie w Dół
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odbite Cięcie — id 9011202
+##### Umiejętność: Odbite Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011203
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011204
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tired Kurokumo Henchwoman — id 90113
+#### Tired Kurokumo Henchwoman
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -812,37 +812,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przebijające Cięcie — id 9011301
+##### Umiejętność: Przebijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wyostrzony Cios — id 9011302
+##### Umiejętność: Wyostrzony Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011303
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011304
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 8 · Kim w Słomkowym Kapeluszu i Towarzysze 2
 
 - **Fala 1:** Determined Kurokumo Henchman ×2 (poz. 40); Tense Kurokumo Henchman ×1 (poz. 40); Adept Kurokumo Henchwoman ×1 (poz. 40); Tired Kurokumo Henchwoman ×1 (poz. 40); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie)
 
-#### Determined Kurokumo Henchman — id 90110
+#### Determined Kurokumo Henchman
 
 *Wystąpienia: ×4 (poz. 40) · też jako wsparcie.*
 
@@ -861,33 +861,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozcięcie — id 9011001
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011002
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpadająca się Chmura — id 9011003
+##### Umiejętność: Rozpadająca się Chmura
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011004
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -906,33 +906,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Adept Kurokumo Henchwoman — id 90112
+#### Adept Kurokumo Henchwoman
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -951,33 +951,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cięcie w Dół — id 9011201
+##### Umiejętność: Cięcie w Dół
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odbite Cięcie — id 9011202
+##### Umiejętność: Odbite Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011203
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011204
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tired Kurokumo Henchwoman — id 90113
+#### Tired Kurokumo Henchwoman
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -996,38 +996,38 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przebijające Cięcie — id 9011301
+##### Umiejętność: Przebijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wyostrzony Cios — id 9011302
+##### Umiejętność: Wyostrzony Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011303
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011304
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 9 · Źródło Grzechu
 
 - **Fala 1:** Peccatulum Gniewu ×2 (poz. 40); Peccatulum Posępności ×2 (poz. 40)
 - **Fala 2:** Peccatulum Gniewu ×1 (poz. 40); Peccatulum Posępności ×1 (poz. 40); Peccatulum Irae? ×2 (poz. 40); Peccatulum Morositatis? ×2 (poz. 40)
 
-#### Peccatulum Gniewu — id 8007
+#### Peccatulum Gniewu
 
 *Wystąpienia: ×3 (poz. 40).*
 
@@ -1042,7 +1042,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 800701
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1054,21 +1054,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wypalanie (×3) — id 800701
+##### Umiejętność: Wypalanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wybuchowy Gniew — id 800702
+##### Umiejętność: Wybuchowy Gniew
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 8016
+#### Peccatulum Posępności
 
 *Wystąpienia: ×3 (poz. 40).*
 
@@ -1083,7 +1081,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 801601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1095,21 +1093,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Irae? — id 8151
+#### Peccatulum Irae?
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1124,7 +1120,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 815101
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -1136,33 +1132,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wbicie — id 815101
+##### Umiejętność: Wbicie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Bicz Ogonem — id 815102
+##### Umiejętność: Bicz Ogonem
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Kontra — id 815104
+##### Umiejętność: Kontra
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Morositatis? — id 8152
+#### Peccatulum Morositatis?
 
 *Wystąpienia: ×2 (poz. 40).*
 
@@ -1177,7 +1171,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 815201
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                       |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -1189,37 +1183,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wpadnięcie — id 815201
+##### Umiejętność: Wpadnięcie
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Zgryzienie — id 815202
+##### Umiejętność: Zgryzienie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wodna Bomba — id 815203
+##### Umiejętność: Wodna Bomba
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unik — id 815204
+##### Umiejętność: Unik
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 10 · Czarna Chmura
 
 - **Fala 1:** Determined Kurokumo Henchman ×2 (poz. 40); Tense Kurokumo Henchman ×1 (poz. 40); Adept Kurokumo Henchwoman ×1 (poz. 40); Tired Kurokumo Henchwoman ×1 (poz. 40); Determined Kurokumo Henchman ×1 (poz. 40) (wsparcie); Tense Kurokumo Henchman ×1 (poz. 40) (wsparcie); Adept Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Tired Kurokumo Henchwoman ×1 (poz. 40) (wsparcie); Jun, Kapitan Klanu Kurokumo ×1 (poz. 40) (wsparcie)
 
-#### Determined Kurokumo Henchman — id 90110
+#### Determined Kurokumo Henchman
 
 *Wystąpienia: ×3 (poz. 40) · też jako wsparcie.*
 
@@ -1238,33 +1230,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rozcięcie — id 9011001
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011002
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpadająca się Chmura — id 9011003
+##### Umiejętność: Rozpadająca się Chmura
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011004
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tense Kurokumo Henchman — id 90111
+#### Tense Kurokumo Henchman
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -1283,33 +1275,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Zamach — id 9011101
+##### Umiejętność: Zamach
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rozcięcie — id 9011102
+##### Umiejętność: Rozcięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ostre Cięcie — id 9011103
+##### Umiejętność: Ostre Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unik — id 9011104
+##### Umiejętność: Unik
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Adept Kurokumo Henchwoman — id 90112
+#### Adept Kurokumo Henchwoman
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -1328,33 +1320,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cięcie w Dół — id 9011201
+##### Umiejętność: Cięcie w Dół
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Odbite Cięcie — id 9011202
+##### Umiejętność: Odbite Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011203
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011204
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Tired Kurokumo Henchwoman — id 90113
+#### Tired Kurokumo Henchwoman
 
 *Wystąpienia: ×2 (poz. 40) · też jako wsparcie.*
 
@@ -1373,33 +1365,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Przebijające Cięcie — id 9011301
+##### Umiejętność: Przebijające Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wyostrzony Cios — id 9011302
+##### Umiejętność: Wyostrzony Cios
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Skupione Uderzenie — id 9011303
+##### Umiejętność: Skupione Uderzenie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Garda — id 9011304
+##### Umiejętność: Garda
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
-#### Jun, Kapitan Klanu Kurokumo — id 91013
+#### Jun, Kapitan Klanu Kurokumo
 
 *Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
 
@@ -1418,49 +1410,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Chmura Cienia — id 9101301
+##### Umiejętność: Chmura Cienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Posprzątanie — id 9101302
+##### Umiejętność: Posprzątanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Soczewkowate Cięcie — id 9101303
+##### Umiejętność: Soczewkowate Cięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ostra Krawędź — id 9101304
+##### Umiejętność: Ostra Krawędź
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Przecinak Rozpogadzający — id 9101305
+##### Umiejętność: Przecinak Rozpogadzający
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |         +4 |      3 |    1 |
 
-##### Umiejętność: Zasady Zauloków — id 9101306
+##### Umiejętność: Zasady Zauloków
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          4 |         +2 |      1 |    1 |
 
-**Pasywki:** *(wpisy id: 9011001, 9011301, 9101301, 9101302 — brak danych lokalizacji)*
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
 
 ### Etap 11 · Kim w Słomkowym Kapeluszu
 
 - **Fala 1:** Wypaczający Kim w Bambusowym Kapeluszu ×1 (poz. 40)
 
-#### Wypaczający Kim w Bambusowym Kapeluszu — id 8153
+#### Wypaczający Kim w Bambusowym Kapeluszu
 
 *Wystąpienia: ×1 (poz. 40).*
 
@@ -1478,7 +1470,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Korpus — id 815301
+##### Korpus
 
 | Parametr           | Wartość                                                                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1490,43 +1482,43 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Dobycie Ostrza — id 815301
+##### Umiejętność: Dobycie Ostrza
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Paraliżer — id 815302
+##### Umiejętność: Paraliżer
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         11 |         −3 |      3 |    1 |
 
-##### Umiejętność: Egzekucja — id 815303
+##### Umiejętność: Egzekucja
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Obalenie — id 815304
+##### Umiejętność: Obalenie
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |         14 |         −4 |      3 |    1 |
 
-##### Umiejętność: Łamanie Kości — id 815305
+##### Umiejętność: Łamanie Kości
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         25 |         −8 |      3 |    3 |
 
-##### Umiejętność: Unik — id 815306
+##### Umiejętność: Unik
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: unik |         12 |         −8 |      1 |    1 |
 
-##### Umiejętność: Oddam Ciało — id 815307
+##### Umiejętność: Oddam Ciało
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |

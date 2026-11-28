@@ -8,7 +8,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Filmujący Dron K Corp. ×3 (poz. 27); Dron Zatrzymań K Corp. ×1 (poz. 27); Filmujący Dron K Corp. ×1 (poz. 27)
 
-#### Filmujący Dron K Corp. — id 90046
+#### Filmujący Dron K Corp.
 
 *Wystąpienia: ×3 (poz. 27).*
 
@@ -24,13 +24,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Początek Filmowania z Bliska (×2) — id 9004601
+##### Umiejętność: Początek Filmowania z Bliska (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9004602
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -41,7 +41,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Mechanical Mentality** — Poczytalność jest ustalona na 0.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Dron Zatrzymań K Corp. — id 90071
+#### Dron Zatrzymań K Corp.
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -57,25 +57,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Początek Filmowania z Bliska (×2) — id 9007101
+##### Umiejętność: Początek Filmowania z Bliska (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9007102
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Błysk; Błysk; (×2) — id 9007103
+##### Umiejętność: Błysk; Błysk; (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zatrzymuję. (×2) — id 9007104
+##### Umiejętność: Zatrzymuję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -86,7 +86,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Mechanical Mentality** — Poczytalność jest ustalona na 0.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Filmujący Dron K Corp. — id 90072
+#### Filmujący Dron K Corp.
 
 *Wystąpienia: ×1 (poz. 27).*
 
@@ -102,31 +102,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Początek Filmowania z Bliska (×2) — id 9004603
+##### Umiejętność: Początek Filmowania z Bliska (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9004604
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Błysk; Błysk; (×2) — id 9004605
+##### Umiejętność: Błysk; Błysk; (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poszukuję słabości. (×2) — id 9004606
+##### Umiejętność: Poszukuję słabości. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zatrzymuję ruch. (×2) — id 9004607
+##### Umiejętność: Zatrzymuję ruch. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -141,7 +141,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Filmujący Dron K Corp. ×3 (poz. 29); Spiżowy Byk — Łzawiący ×1 (poz. 29)
 
-#### Filmujący Dron K Corp. — id 8042
+#### Filmujący Dron K Corp.
 
 *Wystąpienia: ×3 (poz. 29).*
 
@@ -156,7 +156,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 804201
+##### Tułów
 
 | Parametr           | Wartość                                                       |
 | ------------------ | ------------------------------------------------------------- |
@@ -168,39 +168,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Początek Filmowania z Bliska (×3) — id 9004603
+##### Umiejętność: Początek Filmowania z Bliska (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9004604
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Błysk; Błysk; — id 9004605
+##### Umiejętność: Błysk; Błysk;
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poszukuję słabości. — id 9004606
+##### Umiejętność: Poszukuję słabości.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zatrzymuję ruch. — id 9004607
+##### Umiejętność: Zatrzymuję ruch.
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Spiżowy Byk — Łzawiący — id 8041
+#### Spiżowy Byk — Łzawiący
 
 *Wystąpienia: ×1 (poz. 29).*
 
@@ -215,7 +213,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 804101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -227,37 +225,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Taranowanie — id 804101
+##### Umiejętność: Taranowanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przygniecenie — id 804102
+##### Umiejętność: Przygniecenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Onrush — id 804103
+##### Umiejętność: Onrush
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Rozlewający się Smutek — id 804104
+##### Umiejętność: Rozlewający się Smutek
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozgrzany Płacz — id 804105
+##### Umiejętność: Rozgrzany Płacz
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozgrzane Krzyki — id 804106
+##### Umiejętność: Rozgrzane Krzyki
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -271,7 +269,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Dron Zatrzymań K Corp. ×3 (poz. 27); Filmujący Dron K Corp. ×2 (poz. 27)
 
-#### Dron Zatrzymań K Corp. — id 90071
+#### Dron Zatrzymań K Corp.
 
 *Wystąpienia: ×3 (poz. 27).*
 
@@ -287,25 +285,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Początek Filmowania z Bliska (×2) — id 9007101
+##### Umiejętność: Początek Filmowania z Bliska (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9007102
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Błysk; Błysk; (×2) — id 9007103
+##### Umiejętność: Błysk; Błysk; (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zatrzymuję. (×2) — id 9007104
+##### Umiejętność: Zatrzymuję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -316,7 +314,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Mechanical Mentality** — Poczytalność jest ustalona na 0.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Filmujący Dron K Corp. — id 90072
+#### Filmujący Dron K Corp.
 
 *Wystąpienia: ×2 (poz. 27).*
 
@@ -332,31 +330,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Początek Filmowania z Bliska (×2) — id 9004603
+##### Umiejętność: Początek Filmowania z Bliska (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9004604
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Błysk; Błysk; (×2) — id 9004605
+##### Umiejętność: Błysk; Błysk; (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poszukuję słabości. (×2) — id 9004606
+##### Umiejętność: Poszukuję słabości. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zatrzymuję ruch. (×2) — id 9004607
+##### Umiejętność: Zatrzymuję ruch. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -371,7 +369,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Dron Zatrzymań K Corp. ×4 (poz. 28); Filmujący Dron K Corp. ×1 (poz. 28)
 
-#### Dron Zatrzymań K Corp. — id 90071
+#### Dron Zatrzymań K Corp.
 
 *Wystąpienia: ×4 (poz. 28).*
 
@@ -387,25 +385,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Początek Filmowania z Bliska (×2) — id 9007101
+##### Umiejętność: Początek Filmowania z Bliska (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9007102
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Błysk; Błysk; (×2) — id 9007103
+##### Umiejętność: Błysk; Błysk; (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zatrzymuję. (×2) — id 9007104
+##### Umiejętność: Zatrzymuję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -416,7 +414,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Mechanical Mentality** — Poczytalność jest ustalona na 0.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Filmujący Dron K Corp. — id 90072
+#### Filmujący Dron K Corp.
 
 *Wystąpienia: ×1 (poz. 28).*
 
@@ -432,31 +430,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Początek Filmowania z Bliska (×2) — id 9004603
+##### Umiejętność: Początek Filmowania z Bliska (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Odwrot; Odwrot; (×2) — id 9004604
+##### Umiejętność: Odwrot; Odwrot; (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Błysk; Błysk; (×2) — id 9004605
+##### Umiejętność: Błysk; Błysk; (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Poszukuję słabości. (×2) — id 9004606
+##### Umiejętność: Poszukuję słabości. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zatrzymuję ruch. (×2) — id 9004607
+##### Umiejętność: Zatrzymuję ruch. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -471,7 +469,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Spiżowy Byk — Łzawiący ×1 (poz. 30)
 
-#### Spiżowy Byk — Łzawiący — id 8041
+#### Spiżowy Byk — Łzawiący
 
 *Wystąpienia: ×1 (poz. 30).*
 
@@ -486,7 +484,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 804101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -498,37 +496,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Taranowanie — id 804101
+##### Umiejętność: Taranowanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przygniecenie — id 804102
+##### Umiejętność: Przygniecenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Onrush — id 804103
+##### Umiejętność: Onrush
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Rozlewający się Smutek — id 804104
+##### Umiejętność: Rozlewający się Smutek
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozgrzany Płacz — id 804105
+##### Umiejętność: Rozgrzany Płacz
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozgrzane Krzyki — id 804106
+##### Umiejętność: Rozgrzane Krzyki
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -542,7 +540,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Fala 1:** Wróżkowy Dżentelmen ×1 (poz. 33); Wino Wróżek ×1 (poz. 33) (wsparcie)
 
-#### Wróżkowy Dżentelmen — id 8048
+#### Wróżkowy Dżentelmen
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -557,7 +555,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Części (anatomia):**
 
-##### Tułów — id 804801
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                                 |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -569,7 +567,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Lewe Ramię — id 804802
+##### Lewe Ramię
 
 | Parametr           | Wartość                                                                                                                                                                 |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -581,43 +579,43 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Chcesz się Zapić? — id 804801
+##### Umiejętność: Chcesz się Zapić?
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Podzielmy się Napitkiem! — id 804802
+##### Umiejętność: Podzielmy się Napitkiem!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Mam tylko To! — id 804803
+##### Umiejętność: Mam tylko To!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: To Ja To Zjem! — id 804804
+##### Umiejętność: To Ja To Zjem!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: To Ja To Zjem! — id 804805
+##### Umiejętność: To Ja To Zjem!
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Nie Tym Razem! — id 804806
+##### Umiejętność: Nie Tym Razem!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Smakuje Wam ten Winiak? — id 804807
+##### Umiejętność: Smakuje Wam ten Winiak?
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -629,7 +627,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - **Stimulating Smell, Isn't It?** — tajemniczy zapach wydobywający się z wnętrza podnosi na duchu.
 na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
-#### Wino Wróżek — id 8051
+#### Wino Wróżek
 
 *Wystąpienia: ×1 (poz. 33) · też jako wsparcie.*
 
@@ -644,7 +642,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Beczka Wina — id 805101
+##### Beczka Wina
 
 | Parametr   | Wartość                                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -655,19 +653,17 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: Wino Wróżek (×2) — id 805101
+##### Umiejętność: Wino Wróżek (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +0 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-10 · Organizacja Terrorystyczna
 
 - **Fala 1:** Prymitywny Robot z Piłą ×2 (poz. 28); Prymitywny Robot z Kulą Rozbiórkową ×3 (poz. 28)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×2 (poz. 28).*
 
@@ -683,13 +679,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -701,7 +697,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×3 (poz. 28).*
 
@@ -717,13 +713,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -739,7 +735,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Prymitywny Robot z Piłą ×2 (poz. 29); Prymitywny Robot z Kulą Rozbiórkową ×3 (poz. 29)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×2 (poz. 29).*
 
@@ -755,13 +751,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -773,7 +769,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×3 (poz. 29).*
 
@@ -789,13 +785,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -811,7 +807,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Prymitywny Robot z Piłą ×2 (poz. 29); Prymitywny Robot z Kulą Rozbiórkową ×1 (poz. 29); Ukończony Robot z Piłą ×2 (poz. 29)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×2 (poz. 29).*
 
@@ -827,13 +823,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -845,7 +841,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×1 (poz. 29).*
 
@@ -861,13 +857,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -879,7 +875,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Ukończony Robot z Piłą — id 90049
+#### Ukończony Robot z Piłą
 
 *Wystąpienia: ×2 (poz. 29).*
 
@@ -895,25 +891,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004901
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004902
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Piła… przygniata. (×2) — id 9004903
+##### Umiejętność: Piła… przygniata. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9004904
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -930,7 +926,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Prymitywny Robot z Piłą ×1 (poz. 30); Prymitywny Robot z Kulą Rozbiórkową ×2 (poz. 30); Ukończony Robot z Kulą Rozbiórkową ×2 (poz. 30)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×1 (poz. 30).*
 
@@ -946,13 +942,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -964,7 +960,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×2 (poz. 30).*
 
@@ -980,13 +976,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -998,7 +994,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Ukończony Robot z Kulą Rozbiórkową — id 90050
+#### Ukończony Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×2 (poz. 30).*
 
@@ -1014,25 +1010,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9005001
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9005002
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2) — id 9005003
+##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9005004
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1050,7 +1046,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Fala 1:** Prymitywny Robot z Piłą ×2 (poz. 32); Prymitywny Robot z Kulą Rozbiórkową ×2 (poz. 32)
 - **Fala 2:** Prymitywny Robot z Piłą ×2 (poz. 32); Prymitywny Robot z Kulą Rozbiórkową ×2 (poz. 32); Solidny Robot Zespolony ×1 (poz. 32)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×4 (poz. 32).*
 
@@ -1066,13 +1062,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1084,7 +1080,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×4 (poz. 32).*
 
@@ -1100,13 +1096,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1118,7 +1114,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Solidny Robot Zespolony — id 91007
+#### Solidny Robot Zespolony
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -1134,49 +1130,49 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Ranię. (×2) — id 9100701
+##### Umiejętność: Ranię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wykryto, Wykryto: Rana (×2) — id 9100702
+##### Umiejętność: Wykryto, Wykryto: Rana (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wzmocnienie Drgnięć (×2) — id 9100703
+##### Umiejętność: Wzmocnienie Drgnięć (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zwalam. (×2) — id 9100704
+##### Umiejętność: Zwalam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +9 |      1 |    1 |
 
-##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2) — id 9100705
+##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wykryto Słabość (×2) — id 9100706
+##### Umiejętność: Wykryto Słabość (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         −5 |      1 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9100707
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Oddaję przysługę. (×2) — id 9100708
+##### Umiejętność: Oddaję przysługę. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1194,7 +1190,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Prymitywny Robot z Piłą ×1 (poz. 30); Prymitywny Robot z Kulą Rozbiórkową ×4 (poz. 30)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×1 (poz. 30).*
 
@@ -1210,13 +1206,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1228,7 +1224,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×4 (poz. 30).*
 
@@ -1244,13 +1240,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1266,7 +1262,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Prymitywny Robot z Piłą ×1 (poz. 31); Prymitywny Robot z Kulą Rozbiórkową ×1 (poz. 31); Ukończony Robot z Piłą ×2 (poz. 31); Ukończony Robot z Kulą Rozbiórkową ×1 (poz. 31)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -1282,13 +1278,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1300,7 +1296,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -1316,13 +1312,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1334,7 +1330,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Ukończony Robot z Piłą — id 90049
+#### Ukończony Robot z Piłą
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -1350,25 +1346,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004901
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004902
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Piła… przygniata. (×2) — id 9004903
+##### Umiejętność: Piła… przygniata. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9004904
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1381,7 +1377,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 - **Damageable Disuniter** — po przejściu w stan Oszołamienia, nakłada o 1 mniej Rozdarcia i Liczników Rozdarcia
 
-#### Ukończony Robot z Kulą Rozbiórkową — id 90050
+#### Ukończony Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -1397,25 +1393,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9005001
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9005002
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2) — id 9005003
+##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9005004
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1432,7 +1428,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Prymitywny Robot z Piłą ×1 (poz. 31); Prymitywny Robot z Kulą Rozbiórkową ×1 (poz. 31); Ukończony Robot z Piłą ×1 (poz. 31); Ukończony Robot z Kulą Rozbiórkową ×2 (poz. 31)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -1448,13 +1444,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1466,7 +1462,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -1482,13 +1478,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1500,7 +1496,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Ukończony Robot z Piłą — id 90049
+#### Ukończony Robot z Piłą
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -1516,25 +1512,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004901
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004902
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Piła… przygniata. (×2) — id 9004903
+##### Umiejętność: Piła… przygniata. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9004904
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1547,7 +1543,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 - **Damageable Disuniter** — po przejściu w stan Oszołamienia, nakłada o 1 mniej Rozdarcia i Liczników Rozdarcia
 
-#### Ukończony Robot z Kulą Rozbiórkową — id 90050
+#### Ukończony Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -1563,25 +1559,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9005001
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9005002
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2) — id 9005003
+##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9005004
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1598,7 +1594,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Prymitywny Robot z Piłą ×1 (poz. 32); Ukończony Robot z Piłą ×1 (poz. 32); Ukończony Robot z Kulą Rozbiórkową ×2 (poz. 32); Solidny Robot Zespolony ×1 (poz. 32)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -1614,13 +1610,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1632,7 +1628,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Ukończony Robot z Piłą — id 90049
+#### Ukończony Robot z Piłą
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -1648,25 +1644,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004901
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004902
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Piła… przygniata. (×2) — id 9004903
+##### Umiejętność: Piła… przygniata. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9004904
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1679,7 +1675,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 - **Damageable Disuniter** — po przejściu w stan Oszołamienia, nakłada o 1 mniej Rozdarcia i Liczników Rozdarcia
 
-#### Ukończony Robot z Kulą Rozbiórkową — id 90050
+#### Ukończony Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -1695,25 +1691,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9005001
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9005002
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2) — id 9005003
+##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9005004
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1726,7 +1722,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 - **Damageable Thumper** — po przejściu w stan Oszołamienia, nakłada o 1 mniej Wstrząsu i Liczników Wstrząsu
 
-#### Solidny Robot Zespolony — id 91007
+#### Solidny Robot Zespolony
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -1742,49 +1738,49 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Ranię. (×2) — id 9100701
+##### Umiejętność: Ranię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wykryto, Wykryto: Rana (×2) — id 9100702
+##### Umiejętność: Wykryto, Wykryto: Rana (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wzmocnienie Drgnięć (×2) — id 9100703
+##### Umiejętność: Wzmocnienie Drgnięć (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zwalam. (×2) — id 9100704
+##### Umiejętność: Zwalam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +9 |      1 |    1 |
 
-##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2) — id 9100705
+##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wykryto Słabość (×2) — id 9100706
+##### Umiejętność: Wykryto Słabość (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         −5 |      1 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9100707
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Oddaję przysługę. (×2) — id 9100708
+##### Umiejętność: Oddaję przysługę. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1803,7 +1799,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Fala 1:** Prymitywny Robot z Piłą ×2 (poz. 32); Prymitywny Robot z Kulą Rozbiórkową ×2 (poz. 32)
 - **Fala 2:** Ukończony Robot z Piłą ×2 (poz. 32); Ukończony Robot z Kulą Rozbiórkową ×1 (poz. 32); Solidny Robot Zespolony ×1 (poz. 32); Solidny Robot Zespolony ×1 (poz. 32)
 
-#### Prymitywny Robot z Piłą — id 90047
+#### Prymitywny Robot z Piłą
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -1819,13 +1815,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004701
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004702
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1837,7 +1833,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Prymitywny Robot z Kulą Rozbiórkową — id 90048
+#### Prymitywny Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -1853,13 +1849,13 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9004801
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9004802
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1871,7 +1867,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Ukończony Robot z Piłą — id 90049
+#### Ukończony Robot z Piłą
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -1887,25 +1883,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Kroję. (×2) — id 9004901
+##### Umiejętność: Kroję. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Skrobię. (×2) — id 9004902
+##### Umiejętność: Skrobię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Piła… przygniata. (×2) — id 9004903
+##### Umiejętność: Piła… przygniata. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9004904
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1918,7 +1914,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 - **Damageable Disuniter** — po przejściu w stan Oszołamienia, nakłada o 1 mniej Rozdarcia i Liczników Rozdarcia
 
-#### Ukończony Robot z Kulą Rozbiórkową — id 90050
+#### Ukończony Robot z Kulą Rozbiórkową
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -1934,25 +1930,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Ładuję… i strzelam (×2) — id 9005001
+##### Umiejętność: Ładuję… i strzelam (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Przygniatam. (×2) — id 9005002
+##### Umiejętność: Przygniatam. (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2) — id 9005003
+##### Umiejętność: UWAGA, UWAGA: Niestabilność (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9005004
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1965,7 +1961,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 - **Damageable Thumper** — po przejściu w stan Oszołamienia, nakłada o 1 mniej Wstrząsu i Liczników Wstrząsu
 
-#### Solidny Robot Zespolony — id 91007
+#### Solidny Robot Zespolony
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -1981,49 +1977,49 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Ranię. (×2) — id 9100701
+##### Umiejętność: Ranię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wykryto, Wykryto: Rana (×2) — id 9100702
+##### Umiejętność: Wykryto, Wykryto: Rana (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wzmocnienie Drgnięć (×2) — id 9100703
+##### Umiejętność: Wzmocnienie Drgnięć (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zwalam. (×2) — id 9100704
+##### Umiejętność: Zwalam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +9 |      1 |    1 |
 
-##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2) — id 9100705
+##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wykryto Słabość (×2) — id 9100706
+##### Umiejętność: Wykryto Słabość (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         −5 |      1 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9100707
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Oddaję przysługę. (×2) — id 9100708
+##### Umiejętność: Oddaję przysługę. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2041,7 +2037,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Dumny Fikser Warsztatu Rosespanner ×1 (poz. 33); Trzęsący Się Fikser Warsztatu Rosespanner ×1 (poz. 33); Trzęsący Się Fikser Warsztatu Rosespanner ×1 (poz. 33); Rep Warsztatu Rosespanner Niko ×1 (poz. 33)
 
-#### Dumny Fikser Warsztatu Rosespanner — id 90052
+#### Dumny Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -2060,33 +2056,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zjedz To! (×2) — id 9005201
+##### Umiejętność: Zjedz To! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wzmocnienie Wibracji (×2) — id 9005202
+##### Umiejętność: Wzmocnienie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Koniec! (×2) — id 9005203
+##### Umiejętność: Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005204
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
+#### Trzęsący Się Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -2105,33 +2099,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Narastające Tarcie (×2) — id 9005301
+##### Umiejętność: Narastające Tarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zmielę Cię! (×2) — id 9005302
+##### Umiejętność: Zmielę Cię! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Trzęs-Trzęs (×2) — id 9005303
+##### Umiejętność: Trzęs-Trzęs (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa |        Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ----------------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 | +1 / +1 / +1 / +2 |      4 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005304
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Rep Warsztatu Rosespanner Niko — id 91008
+#### Rep Warsztatu Rosespanner Niko
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -2150,43 +2142,43 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Proszę Się Odsunąć! (×2) — id 9100801
+##### Umiejętność: Proszę Się Odsunąć! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Będzie Chwiejnie! (×2) — id 9100802
+##### Umiejętność: Będzie Chwiejnie! (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Mocne Wzmocnienie (×2) — id 9100803
+##### Umiejętność: Mocne Wzmocnienie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Konwersja Wibracji — id 9100804
+##### Umiejętność: Konwersja Wibracji
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kompresja Wibracji — id 9100805
+##### Umiejętność: Kompresja Wibracji
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +2 |      3 |    1 |
 
-##### Umiejętność: Podbijmy Stawkę — id 9100806
+##### Umiejętność: Podbijmy Stawkę
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         −8 |      1 |    1 |
 
-##### Umiejętność: Ostatnie Rozgrzanie — id 9100807
+##### Umiejętność: Ostatnie Rozgrzanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2203,7 +2195,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Dumny Fikser Warsztatu Rosespanner ×2 (poz. 31); Trzęsący Się Fikser Warsztatu Rosespanner ×2 (poz. 31)
 
-#### Dumny Fikser Warsztatu Rosespanner — id 90052
+#### Dumny Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -2222,33 +2214,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zjedz To! (×2) — id 9005201
+##### Umiejętność: Zjedz To! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wzmocnienie Wibracji (×2) — id 9005202
+##### Umiejętność: Wzmocnienie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Koniec! (×2) — id 9005203
+##### Umiejętność: Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005204
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
+#### Trzęsący Się Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -2267,37 +2257,35 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Narastające Tarcie (×2) — id 9005301
+##### Umiejętność: Narastające Tarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zmielę Cię! (×2) — id 9005302
+##### Umiejętność: Zmielę Cię! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Trzęs-Trzęs (×2) — id 9005303
+##### Umiejętność: Trzęs-Trzęs (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa |        Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ----------------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 | +1 / +1 / +1 / +2 |      4 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005304
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-23 · Zdrajca 3
 
 - **Fala 1:** Pewny Siebie Fikser Warsztatu Rosespanner ×1 (poz. 31); Dumny Fikser Warsztatu Rosespanner ×1 (poz. 31); Trzęsący Się Fikser Warsztatu Rosespanner ×1 (poz. 31); Dumny Fikser Warsztatu Rosespanner ×1 (poz. 31); Trzęsący Się Fikser Warsztatu Rosespanner ×1 (poz. 31)
 
-#### Pewny Siebie Fikser Warsztatu Rosespanner — id 90051
+#### Pewny Siebie Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -2316,33 +2304,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zakręci Ci w Głowie (×2) — id 9005101
+##### Umiejętność: Zakręci Ci w Głowie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Przyspieszenie Wibracji (×2) — id 9005102
+##### Umiejętność: Przyspieszenie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To Koniec! (×2) — id 9005103
+##### Umiejętność: To Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005104
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Dumny Fikser Warsztatu Rosespanner — id 90052
+#### Dumny Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -2361,33 +2347,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zjedz To! (×2) — id 9005201
+##### Umiejętność: Zjedz To! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wzmocnienie Wibracji (×2) — id 9005202
+##### Umiejętność: Wzmocnienie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Koniec! (×2) — id 9005203
+##### Umiejętność: Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005204
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
+#### Trzęsący Się Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -2406,37 +2390,35 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Narastające Tarcie (×2) — id 9005301
+##### Umiejętność: Narastające Tarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zmielę Cię! (×2) — id 9005302
+##### Umiejętność: Zmielę Cię! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Trzęs-Trzęs (×2) — id 9005303
+##### Umiejętność: Trzęs-Trzęs (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa |        Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ----------------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 | +1 / +1 / +1 / +2 |      4 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005304
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-24 · Zdrajca 4
 
 - **Fala 1:** Pewny Siebie Fikser Warsztatu Rosespanner ×1 (poz. 32); Dumny Fikser Warsztatu Rosespanner ×1 (poz. 32); Trzęsący Się Fikser Warsztatu Rosespanner ×1 (poz. 32); Solidny Robot Zespolony ×1 (poz. 32)
 
-#### Pewny Siebie Fikser Warsztatu Rosespanner — id 90051
+#### Pewny Siebie Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -2455,33 +2437,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zakręci Ci w Głowie (×2) — id 9005101
+##### Umiejętność: Zakręci Ci w Głowie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Przyspieszenie Wibracji (×2) — id 9005102
+##### Umiejętność: Przyspieszenie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To Koniec! (×2) — id 9005103
+##### Umiejętność: To Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005104
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Dumny Fikser Warsztatu Rosespanner — id 90052
+#### Dumny Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -2500,33 +2480,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zjedz To! (×2) — id 9005201
+##### Umiejętność: Zjedz To! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wzmocnienie Wibracji (×2) — id 9005202
+##### Umiejętność: Wzmocnienie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Koniec! (×2) — id 9005203
+##### Umiejętność: Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005204
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
+#### Trzęsący Się Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -2545,33 +2523,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Narastające Tarcie (×2) — id 9005301
+##### Umiejętność: Narastające Tarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zmielę Cię! (×2) — id 9005302
+##### Umiejętność: Zmielę Cię! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Trzęs-Trzęs (×2) — id 9005303
+##### Umiejętność: Trzęs-Trzęs (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa |        Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ----------------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 | +1 / +1 / +1 / +2 |      4 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005304
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Solidny Robot Zespolony — id 91007
+#### Solidny Robot Zespolony
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -2587,49 +2563,49 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Ranię. (×2) — id 9100701
+##### Umiejętność: Ranię. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Wykryto, Wykryto: Rana (×2) — id 9100702
+##### Umiejętność: Wykryto, Wykryto: Rana (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Wzmocnienie Drgnięć (×2) — id 9100703
+##### Umiejętność: Wzmocnienie Drgnięć (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Zwalam. (×2) — id 9100704
+##### Umiejętność: Zwalam. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +9 |      1 |    1 |
 
-##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2) — id 9100705
+##### Umiejętność: Ostrzegam, Ostrzegam: Drgnięcia (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |         +7 |      1 |    1 |
 
-##### Umiejętność: Wykryto Słabość (×2) — id 9100706
+##### Umiejętność: Wykryto Słabość (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         −5 |      1 |    1 |
 
-##### Umiejętność: Wejście w Tryb Obrony (×2) — id 9100707
+##### Umiejętność: Wejście w Tryb Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Oddaję przysługę. (×2) — id 9100708
+##### Umiejętność: Oddaję przysługę. (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2647,7 +2623,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Pewny Siebie Fikser Warsztatu Rosespanner ×2 (poz. 33); Dumny Fikser Warsztatu Rosespanner ×1 (poz. 33); Trzęsący Się Fikser Warsztatu Rosespanner ×1 (poz. 33); Pewny Siebie Fikser Warsztatu Rosespanner ×1 (poz. 33) (wsparcie); Dumny Fikser Warsztatu Rosespanner ×1 (poz. 33) (wsparcie); Trzęsący Się Fikser Warsztatu Rosespanner ×1 (poz. 33) (wsparcie); Rep Warsztatu Rosespanner Niko ×1 (poz. 33) (wsparcie)
 
-#### Pewny Siebie Fikser Warsztatu Rosespanner — id 90051
+#### Pewny Siebie Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×3 (poz. 33) · też jako wsparcie.*
 
@@ -2666,33 +2642,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zakręci Ci w Głowie (×2) — id 9005101
+##### Umiejętność: Zakręci Ci w Głowie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Przyspieszenie Wibracji (×2) — id 9005102
+##### Umiejętność: Przyspieszenie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: To Koniec! (×2) — id 9005103
+##### Umiejętność: To Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005104
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Dumny Fikser Warsztatu Rosespanner — id 90052
+#### Dumny Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
 
@@ -2711,33 +2685,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Zjedz To! (×2) — id 9005201
+##### Umiejętność: Zjedz To! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wzmocnienie Wibracji (×2) — id 9005202
+##### Umiejętność: Wzmocnienie Wibracji (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Koniec! (×2) — id 9005203
+##### Umiejętność: Koniec! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005204
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
+#### Trzęsący Się Fikser Warsztatu Rosespanner
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
 
@@ -2756,33 +2728,31 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Narastające Tarcie (×2) — id 9005301
+##### Umiejętność: Narastające Tarcie (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Zmielę Cię! (×2) — id 9005302
+##### Umiejętność: Zmielę Cię! (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Trzęs-Trzęs (×2) — id 9005303
+##### Umiejętność: Trzęs-Trzęs (×2)
 
 | Poz. | Grzech   | Typ    | Moc bazowa |        Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ----------------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 | +1 / +1 / +1 / +2 |      4 |    1 |
 
-##### Umiejętność: Rozkręcanie — id 9005304
+##### Umiejętność: Rozkręcanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Rep Warsztatu Rosespanner Niko — id 91008
+#### Rep Warsztatu Rosespanner Niko
 
 *Wystąpienia: ×1 (poz. 33) · też jako wsparcie.*
 
@@ -2801,43 +2771,43 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Proszę Się Odsunąć! (×2) — id 9100801
+##### Umiejętność: Proszę Się Odsunąć! (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Będzie Chwiejnie! (×2) — id 9100802
+##### Umiejętność: Będzie Chwiejnie! (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Mocne Wzmocnienie (×2) — id 9100803
+##### Umiejętność: Mocne Wzmocnienie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Konwersja Wibracji — id 9100804
+##### Umiejętność: Konwersja Wibracji
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Kompresja Wibracji — id 9100805
+##### Umiejętność: Kompresja Wibracji
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +2 |      3 |    1 |
 
-##### Umiejętność: Podbijmy Stawkę — id 9100806
+##### Umiejętność: Podbijmy Stawkę
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         20 |         −8 |      1 |    1 |
 
-##### Umiejętność: Ostatnie Rozgrzanie — id 9100807
+##### Umiejętność: Ostatnie Rozgrzanie
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2854,7 +2824,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 - **Fala 1:** Peccatulum Lenistwa ×2 (poz. 33); Peccatulum Posępności ×3 (poz. 33)
 
-#### Peccatulum Lenistwa — id 8006
+#### Peccatulum Lenistwa
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -2869,7 +2839,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Tułów — id 800601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2881,21 +2851,19 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: Przetaczanie (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Leniwy Uścisk — id 800602
+##### Umiejętność: Leniwy Uścisk
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Peccatulum Posępności — id 8016
+#### Peccatulum Posępności
 
 *Wystąpienia: ×3 (poz. 33).*
 
@@ -2910,7 +2878,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Części (anatomia):**
 
-##### Tułów — id 801601
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2922,25 +2890,23 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: Strzelanie Serią — id 801601
+##### Umiejętność: Strzelanie Serią
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Wybuchająca Posępność — id 801602
+##### Umiejętność: Wybuchająca Posępność
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-30 · Gwiazdozbiory
 
 - **Fala 1:** Przerażony Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 29); Skamieniały Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 29); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 29)
 
-#### Przerażony Strażnik Punktu Kontrolnego K Corp. — id 90073
+#### Przerażony Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 29).*
 
@@ -2959,25 +2925,25 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Stłumienie — id 9002901
+##### Umiejętność: Stłumienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2989,7 +2955,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Skamieniały Strażnik Punktu Kontrolnego K Corp. — id 90075
+#### Skamieniały Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×1 (poz. 29).*
 
@@ -3008,19 +2974,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×3)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Defend — id 9003001
+##### Umiejętność: Defend
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Osłona — id 9003101
+##### Umiejętność: Osłona
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3032,7 +2998,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90056
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 29).*
 
@@ -3048,25 +3014,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2) — id 9005603
+##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpoczynam manewr uniku. (×2) — id 9005604
+##### Umiejętność: Rozpoczynam manewr uniku. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3082,7 +3048,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Przerażony Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 30); Zaniepokojony Pracownik 1. Klasy K Corp. ×1 (poz. 30); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 30)
 
-#### Przerażony Strażnik Punktu Kontrolnego K Corp. — id 90073
+#### Przerażony Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 30).*
 
@@ -3101,25 +3067,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Stłumienie — id 9002901
+##### Umiejętność: Stłumienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3131,7 +3097,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×1 (poz. 30).*
 
@@ -3150,25 +3116,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3180,7 +3146,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90056
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 30).*
 
@@ -3196,25 +3162,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2) — id 9005603
+##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpoczynam manewr uniku. (×2) — id 9005604
+##### Umiejętność: Rozpoczynam manewr uniku. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3230,7 +3196,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Zastraszony Pracownik 1. Klasy K Corp. ×4 (poz. 30); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 30)
 
-#### Zastraszony Pracownik 1. Klasy K Corp. — id 90054
+#### Zastraszony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×4 (poz. 30).*
 
@@ -3249,25 +3215,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
+##### Umiejętność: Powstrzymać Intruza (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wstęp Wzbroniony — id 9005402
+##### Umiejętność: Wstęp Wzbroniony
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blokada Wejścia — id 9005403
+##### Umiejętność: Blokada Wejścia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krycie, Krycie! — id 9005404
+##### Umiejętność: Krycie, Krycie!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3279,7 +3245,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90056
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 30).*
 
@@ -3295,25 +3261,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2) — id 9005603
+##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpoczynam manewr uniku. (×2) — id 9005604
+##### Umiejętność: Rozpoczynam manewr uniku. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3329,7 +3295,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×1 (poz. 31); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 31); Lobotomy E.G.O::Chlupotanie ×1 (poz. 31); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 31); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 31)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90058
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -3349,33 +3315,31 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9005802
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9005803
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona (×2) — id 9005804
+##### Umiejętność: Płynna Osłona (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×3 (poz. 31).*
 
@@ -3394,37 +3358,35 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9005902
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozwarta Rana (×2) — id 9005903
+##### Umiejętność: Rozwarta Rana (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Talizman Obrony (×2) — id 9005904
+##### Umiejętność: Talizman Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 4-34 · Bystrzy Złoczyńcy 2
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×1 (poz. 31); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 31); Lobotomy E.G.O::Chlupotanie ×1 (poz. 31); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 31); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 31)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90058
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -3444,33 +3406,31 @@ Po zakończeniu 3. tury ucieka z walki
 Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9005802
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9005803
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona (×2) — id 9005804
+##### Umiejętność: Płynna Osłona (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×3 (poz. 31).*
 
@@ -3489,37 +3449,35 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9005902
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozwarta Rana (×2) — id 9005903
+##### Umiejętność: Rozwarta Rana (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Talizman Obrony (×2) — id 9005904
+##### Umiejętność: Talizman Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-35 · Pilne Wezwanie
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 32); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 32); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 32)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90058
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -3539,33 +3497,31 @@ Po zakończeniu 3. tury ucieka z walki
 Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9005802
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9005803
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona (×2) — id 9005804
+##### Umiejętność: Płynna Osłona (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -3584,33 +3540,31 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9005902
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozwarta Rana (×2) — id 9005903
+##### Umiejętność: Rozwarta Rana (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Talizman Obrony (×2) — id 9005904
+##### Umiejętność: Talizman Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -3629,43 +3583,41 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Talizman Obrony — id 9006105
+##### Umiejętność: Talizman Obrony
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-36 · Pilne Wezwanie 2
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90058
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -3685,33 +3637,31 @@ Po zakończeniu 3. tury ucieka z walki
 Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9005802
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9005803
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona (×2) — id 9005804
+##### Umiejętność: Płynna Osłona (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -3730,33 +3680,31 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9005902
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rozwarta Rana (×2) — id 9005903
+##### Umiejętność: Rozwarta Rana (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Talizman Obrony (×2) — id 9005904
+##### Umiejętność: Talizman Obrony (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Lobotomy E.G.O::Chlupotanie — id 90060
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -3775,25 +3723,25 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona — id 9006004
+##### Umiejętność: Płynna Osłona
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3808,7 +3756,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×2 (poz. 33); Lobotomy E.G.O::Czerwone Prześcieradło ×3 (poz. 33)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90060
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -3827,25 +3775,25 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona — id 9006004
+##### Umiejętność: Płynna Osłona
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3856,7 +3804,7 @@ Po zakończeniu 3. tury ucieka z walki
 - **Intoxication** — przy 5 Uniesienia, zyskuje 5 Pijackiego Nastroju.
 - **Hangover Cure** — przy 5 Pijackiego Nastroju, używa Umiejętności obrony.
 
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×3 (poz. 33).*
 
@@ -3875,43 +3823,41 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Talizman Obrony — id 9006105
+##### Umiejętność: Talizman Obrony
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-38 · Świetlana Przeszłość
 
 - **Fala 1:** Skrępowany Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 31); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 31); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 31)
 
-#### Skrępowany Strażnik Punktu Kontrolnego K Corp. — id 90076
+#### Skrępowany Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -3930,19 +3876,19 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×2) — id 9003002
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3954,7 +3900,7 @@ Po zakończeniu 3. tury ucieka z walki
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -3973,25 +3919,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4003,7 +3949,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90056
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -4019,25 +3965,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2) — id 9005603
+##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpoczynam manewr uniku. (×2) — id 9005604
+##### Umiejętność: Rozpoczynam manewr uniku. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4053,7 +3999,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Skrępowany Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 31); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 31); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 31)
 
-#### Skrępowany Strażnik Punktu Kontrolnego K Corp. — id 90076
+#### Skrępowany Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -4072,19 +4018,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×2) — id 9003002
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -4096,7 +4042,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 31).*
 
@@ -4115,25 +4061,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4145,7 +4091,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90056
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 31).*
 
@@ -4161,25 +4107,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2) — id 9005603
+##### Umiejętność: Wystrzał Ampułki Rozpadu, Wystrzał (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rozpoczynam manewr uniku. (×2) — id 9005604
+##### Umiejętność: Rozpoczynam manewr uniku. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4195,7 +4141,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Skrępowany Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 32); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 32); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 32)
 
-#### Skrępowany Strażnik Punktu Kontrolnego K Corp. — id 90076
+#### Skrępowany Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -4214,19 +4160,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×2) — id 9003002
+##### Umiejętność: Powstrzymanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -4238,7 +4184,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -4257,25 +4203,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4287,7 +4233,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90057
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -4303,43 +4249,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2) — id 9005701
+##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ujawniam słabość, słabość. (×2) — id 9005702
+##### Umiejętność: Ujawniam słabość, słabość. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: Proszę dalej walczyć. (×2) — id 9005703
+##### Umiejętność: Proszę dalej walczyć. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Proszę nie żałować sił. (×2) — id 9005704
+##### Umiejętność: Proszę nie żałować sił. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Odstępuję. (×2) — id 9005705
+##### Umiejętność: Odstępuję. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4355,7 +4301,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Zastraszony Pracownik 1. Klasy K Corp. ×2 (poz. 33); Zaniepokojony Pracownik 1. Klasy K Corp. ×1 (poz. 33); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 33); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie)
 
-#### Zastraszony Pracownik 1. Klasy K Corp. — id 90054
+#### Zastraszony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -4374,25 +4320,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
+##### Umiejętność: Powstrzymać Intruza (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wstęp Wzbroniony — id 9005402
+##### Umiejętność: Wstęp Wzbroniony
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blokada Wejścia — id 9005403
+##### Umiejętność: Blokada Wejścia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krycie, Krycie! — id 9005404
+##### Umiejętność: Krycie, Krycie!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4404,7 +4350,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -4423,25 +4369,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4453,7 +4399,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90057
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -4469,43 +4415,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2) — id 9005701
+##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ujawniam słabość, słabość. (×2) — id 9005702
+##### Umiejętność: Ujawniam słabość, słabość. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: Proszę dalej walczyć. (×2) — id 9005703
+##### Umiejętność: Proszę dalej walczyć. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Proszę nie żałować sił. (×2) — id 9005704
+##### Umiejętność: Proszę nie żałować sił. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Odstępuję. (×2) — id 9005705
+##### Umiejętność: Odstępuję. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4517,7 +4463,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90060
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
 
@@ -4536,25 +4482,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona — id 9006004
+##### Umiejętność: Płynna Osłona
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4565,7 +4511,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Intoxication** — przy 5 Uniesienia, zyskuje 5 Pijackiego Nastroju.
 - **Hangover Cure** — przy 5 Pijackiego Nastroju, używa Umiejętności obrony.
 
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
 
@@ -4584,43 +4530,41 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Talizman Obrony — id 9006105
+##### Umiejętność: Talizman Obrony
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-42 · Klasa 1. 2
 
 - **Fala 1:** Zastraszony Pracownik 1. Klasy K Corp. ×2 (poz. 33); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 33); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie)
 
-#### Zastraszony Pracownik 1. Klasy K Corp. — id 90054
+#### Zastraszony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -4639,25 +4583,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
+##### Umiejętność: Powstrzymać Intruza (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wstęp Wzbroniony — id 9005402
+##### Umiejętność: Wstęp Wzbroniony
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blokada Wejścia — id 9005403
+##### Umiejętność: Blokada Wejścia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krycie, Krycie! — id 9005404
+##### Umiejętność: Krycie, Krycie!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4669,7 +4613,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -4688,25 +4632,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4718,7 +4662,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Lobotomy E.G.O::Chlupotanie — id 90060
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
 
@@ -4737,25 +4681,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona — id 9006004
+##### Umiejętność: Płynna Osłona
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4766,7 +4710,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Intoxication** — przy 5 Uniesienia, zyskuje 5 Pijackiego Nastroju.
 - **Hangover Cure** — przy 5 Pijackiego Nastroju, używa Umiejętności obrony.
 
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
 
@@ -4785,43 +4729,41 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Talizman Obrony — id 9006105
+##### Umiejętność: Talizman Obrony
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
-
-**Pasywki:** brak
 
 ### Etap 4-43 · Epoka bez Technologii
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×3 (poz. 34); Lobotomy E.G.O::Czerwone Prześcieradło ×2 (poz. 34); Lobotomy E.G.O::Chlupotanie ×1 (poz. 34) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 34) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 34) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło - Marile ×1 (poz. 34) (wsparcie)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90060
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×4 (poz. 34) · też jako wsparcie.*
 
@@ -4840,25 +4782,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona — id 9006004
+##### Umiejętność: Płynna Osłona
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4869,7 +4811,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Intoxication** — przy 5 Uniesienia, zyskuje 5 Pijackiego Nastroju.
 - **Hangover Cure** — przy 5 Pijackiego Nastroju, używa Umiejętności obrony.
 
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×4 (poz. 34) · też jako wsparcie.*
 
@@ -4888,39 +4830,37 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Talizman Obrony — id 9006105
+##### Umiejętność: Talizman Obrony
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
-#### Lobotomy E.G.O::Czerwone Prześcieradło - Marile — id 91009
+#### Lobotomy E.G.O::Czerwone Prześcieradło - Marile
 
 *Wystąpienia: ×1 (poz. 34) · też jako wsparcie.*
 
@@ -4939,43 +4879,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9100901
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Klątwa Ciosów (×2) — id 9100902
+##### Umiejętność: Klątwa Ciosów (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Mnożące Się Talizmany (×2) — id 9100903
+##### Umiejętność: Mnożące Się Talizmany (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Paraliżująca Klątwa (×2) — id 9100904
+##### Umiejętność: Paraliżująca Klątwa (×2)
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Duszący Talizman Klątwy (×2) — id 9100905
+##### Umiejętność: Duszący Talizman Klątwy (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Wygasający Talizman Klątwy (×2) — id 9100906
+##### Umiejętność: Wygasający Talizman Klątwy (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Przenoszący Się Talizman Klątwy (×2) — id 9100907
+##### Umiejętność: Przenoszący Się Talizman Klątwy (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4992,7 +4932,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Zastraszony Pracownik 1. Klasy K Corp. ×2 (poz. 32); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 32); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 32)
 
-#### Zastraszony Pracownik 1. Klasy K Corp. — id 90054
+#### Zastraszony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -5011,25 +4951,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
+##### Umiejętność: Powstrzymać Intruza (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wstęp Wzbroniony — id 9005402
+##### Umiejętność: Wstęp Wzbroniony
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blokada Wejścia — id 9005403
+##### Umiejętność: Blokada Wejścia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krycie, Krycie! — id 9005404
+##### Umiejętność: Krycie, Krycie!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5041,7 +4981,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -5060,25 +5000,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5090,7 +5030,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90057
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -5106,43 +5046,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2) — id 9005701
+##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ujawniam słabość, słabość. (×2) — id 9005702
+##### Umiejętność: Ujawniam słabość, słabość. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: Proszę dalej walczyć. (×2) — id 9005703
+##### Umiejętność: Proszę dalej walczyć. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Proszę nie żałować sił. (×2) — id 9005704
+##### Umiejętność: Proszę nie żałować sił. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Odstępuję. (×2) — id 9005705
+##### Umiejętność: Odstępuję. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5158,7 +5098,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90060
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×3 (poz. 32).*
 
@@ -5177,25 +5117,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona — id 9006004
+##### Umiejętność: Płynna Osłona
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5206,7 +5146,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Intoxication** — przy 5 Uniesienia, zyskuje 5 Pijackiego Nastroju.
 - **Hangover Cure** — przy 5 Pijackiego Nastroju, używa Umiejętności obrony.
 
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×2 (poz. 32).*
 
@@ -5225,43 +5165,41 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Talizman Obrony — id 9006105
+##### Umiejętność: Talizman Obrony
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-46 · Propozycja Pracy 2
 
 - **Fala 1:** Przerażony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 33); Skamieniały Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 33); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 33); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 33); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie)
 
-#### Przerażony Strażnik Punktu Kontrolnego K Corp. — id 90073
+#### Przerażony Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -5280,25 +5218,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Stłumienie — id 9002901
+##### Umiejętność: Stłumienie
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5310,7 +5248,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Skamieniały Strażnik Punktu Kontrolnego K Corp. — id 90075
+#### Skamieniały Strażnik Punktu Kontrolnego K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -5329,19 +5267,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP (×3)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Defend — id 9003001
+##### Umiejętność: Defend
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Osłona — id 9003101
+##### Umiejętność: Osłona
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5353,7 +5291,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zaniepokojony Pracownik 1. Klasy K Corp. — id 90055
+#### Zaniepokojony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -5372,25 +5310,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5402,7 +5340,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Terror Device** — gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności
 
-#### Zhakowany Dron Regeneracyjny K Corp. — id 90057
+#### Zhakowany Dron Regeneracyjny K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -5418,43 +5356,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Podaję Ampułkę HP. (×2) — id 9005601
+##### Umiejętność: Podaję Ampułkę HP. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Podaję Ampułkę Obrony. (×2) — id 9005602
+##### Umiejętność: Podaję Ampułkę Obrony. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2) — id 9005701
+##### Umiejętność: Awaryjny Wystrzał Ampułki Rozpadu (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ujawniam słabość, słabość. (×2) — id 9005702
+##### Umiejętność: Ujawniam słabość, słabość. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: Proszę dalej walczyć. (×2) — id 9005703
+##### Umiejętność: Proszę dalej walczyć. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Proszę nie żałować sił. (×2) — id 9005704
+##### Umiejętność: Proszę nie żałować sił. (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Odstępuję. (×2) — id 9005705
+##### Umiejętność: Odstępuję. (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5466,7 +5404,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Caution: Unsteady** — Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst
 - **Caution: Delicate** — Otrzymuje +30% obrażeń od Rozdarcia (zaokrąglone w dół)
 
-#### Lobotomy E.G.O::Chlupotanie — id 90060
+#### Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×3 (poz. 33) · też jako wsparcie.*
 
@@ -5485,25 +5423,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona — id 9006004
+##### Umiejętność: Płynna Osłona
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5514,7 +5452,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Intoxication** — przy 5 Uniesienia, zyskuje 5 Pijackiego Nastroju.
 - **Hangover Cure** — przy 5 Pijackiego Nastroju, używa Umiejętności obrony.
 
-#### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
+#### Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
 
@@ -5533,43 +5471,41 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Talizman Obrony — id 9006105
+##### Umiejętność: Talizman Obrony
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-47 · Sala Projekcyjna
 
 - **Fala 1:** Lobotomy E.G.O::Mżawka - Dongbaek ×1 (poz. 35); Stary Parasol ×4 (poz. 34) (wsparcie)
 
-#### Lobotomy E.G.O::Mżawka - Dongbaek — id 8043
+#### Lobotomy E.G.O::Mżawka - Dongbaek
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -5588,7 +5524,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 804301
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5600,43 +5536,43 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Kolące Wspomnienia — id 804301
+##### Umiejętność: Kolące Wspomnienia
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Kolczaste Wspomnienia — id 804302
+##### Umiejętność: Kolczaste Wspomnienia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Obrona Własna — id 804303
+##### Umiejętność: Obrona Własna
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         −5 |      1 |    1 |
 
-##### Umiejętność: Bolące Serce — id 804304
+##### Umiejętność: Bolące Serce
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         13 |         −4 |      2 |    1 |
 
-##### Umiejętność: Zatopcie Wszystko — id 804305
+##### Umiejętność: Zatopcie Wszystko
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         26 |        −10 |      1 |    7 |
 
-##### Umiejętność: Zabierz to Stąd — id 804306
+##### Umiejętność: Zabierz to Stąd
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          8 |         −5 |      1 |    1 |
 
-##### Umiejętność: Don’t Touch Me...! — id 804307
+##### Umiejętność: Don’t Touch Me...!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5651,7 +5587,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Determination** — powracając z Paniki, w pełni przywraca Poczytalność i zyskuje 2 Pośpiechu oraz 2 Wzrost Mocy Ataku
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Stary Parasol — id 8053
+#### Stary Parasol
 
 *Wystąpienia: ×4 (poz. 34) · też jako wsparcie.*
 
@@ -5666,7 +5602,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Parasol — id 805301
+##### Parasol
 
 | Parametr           | Wartość                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5690,7 +5626,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Dongbaek E.G.O::Kamelia ×1 (poz. 35); Kwiat, Który Wkrótce Zakwitnie ×1 (poz. 35) (wsparcie); W Pełni Rozkwitły Kwiat ×1 (poz. 35) (wsparcie)
 
-#### Dongbaek E.G.O::Kamelia — id 8044
+#### Dongbaek E.G.O::Kamelia
 
 *Wystąpienia: ×1 (poz. 35).*
 
@@ -5709,7 +5645,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 804401
+##### Tułów
 
 | Parametr   | Wartość                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -5720,61 +5656,61 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Niosąca się Won — id 804401
+##### Umiejętność: Niosąca się Won
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Koląca Won — id 804402
+##### Umiejętność: Koląca Won
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +1 |      2 |    3 |
 
-##### Umiejętność: Kwitnące Pąki — id 804403
+##### Umiejętność: Kwitnące Pąki
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Jak Kwiaty w Pełnym Rozkwicie... — id 804404
+##### Umiejętność: Jak Kwiaty w Pełnym Rozkwicie...
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          8 |         +1 |      3 |    1 |
 
-##### Umiejętność: Wspaniała Wiosenna Bryza — id 804405
+##### Umiejętność: Wspaniała Wiosenna Bryza
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         16 |         +4 |      1 |    7 |
 
-##### Umiejętność: Trzeba Zasypać Ziemią — id 804406
+##### Umiejętność: Trzeba Zasypać Ziemią
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Usychający Kwiat — id 804408
+##### Umiejętność: Usychający Kwiat
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          8 |         +1 |      3 |    1 |
 
-##### Umiejętność: Won Kulminacji — id 804409
+##### Umiejętność: Won Kulminacji
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         20 |         +5 |      3 |   15 |
 
-##### Umiejętność: Kolący Refleks Woniu — id 804410
+##### Umiejętność: Kolący Refleks Woniu
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Czekając na Tę Chwilę — id 804411
+##### Umiejętność: Czekając na Tę Chwilę
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5791,7 +5727,7 @@ jeżeli Yi Sang wygra pojedynek, wszyscy sojusznicy zyskują 3 Wzrost Obrażeń 
 jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-#### Kwiat, Który Wkrótce Zakwitnie — id 8054
+#### Kwiat, Który Wkrótce Zakwitnie
 
 *Wystąpienia: ×1 (poz. 35) · też jako wsparcie.*
 
@@ -5806,7 +5742,7 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 
 **Części (anatomia):**
 
-##### Pąk — id 805401
+##### Pąk
 
 | Parametr           | Wartość                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -5818,31 +5754,31 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 
 *Opis:* Część
 
-##### Umiejętność: Wiosienko Kwiatów — id 805401
+##### Umiejętność: Wiosienko Kwiatów
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Wonny Wiatr — id 805402
+##### Umiejętność: Wonny Wiatr
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Koląca Bryza — id 805403
+##### Umiejętność: Koląca Bryza
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +1 |      3 |    2 |
 
-##### Umiejętność: Nasiąknięta Won — id 805404
+##### Umiejętność: Nasiąknięta Won
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Pełen Rozkwit — id 805405
+##### Umiejętność: Pełen Rozkwit
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5852,7 +5788,7 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 
 - **Growing Flower** — powstaje z 1 Growing
 
-#### W Pełni Rozkwitły Kwiat — id 8055
+#### W Pełni Rozkwitły Kwiat
 
 *Wystąpienia: ×1 (poz. 35) · też jako wsparcie.*
 
@@ -5867,7 +5803,7 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 
 **Części (anatomia):**
 
-##### Pąk — id 805501
+##### Pąk
 
 | Parametr           | Wartość                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -5879,19 +5815,17 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 
 *Opis:* Część
 
-##### Umiejętność: Pełen Rozkwit — id 805501
+##### Umiejętność: Pełen Rozkwit
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-**Pasywki:** brak
-
 ### Etap 4-49 · Nic
 
 - **Fala 1:** Ożywiony Strażnik K Corp. ×1 (poz. 32); Ożywiony Strażnik K Corp. ×1 (poz. 32); Ożywiony Pracownik 1. Klasy K Corp. ×1 (poz. 32); Ożywiony Pracownik 1. Klasy K Corp. ×1 (poz. 32)
 
-#### Ożywiony Strażnik K Corp. — id 90064
+#### Ożywiony Strażnik K Corp.
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -5910,19 +5844,19 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu (×3) — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5935,7 +5869,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Strażnik K Corp. — id 90065
+#### Ożywiony Strażnik K Corp.
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -5954,19 +5888,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Defend (×3) — id 9003001
+##### Umiejętność: Defend (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×3) — id 9003002
+##### Umiejętność: Powstrzymanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: Osłona — id 9003101
+##### Umiejętność: Osłona
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5979,7 +5913,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 1. Klasy K Corp. — id 90066
+#### Ożywiony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -5998,25 +5932,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
+##### Umiejętność: Powstrzymać Intruza (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wstęp Wzbroniony — id 9005402
+##### Umiejętność: Wstęp Wzbroniony
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blokada Wejścia — id 9005403
+##### Umiejętność: Blokada Wejścia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krycie, Krycie! — id 9005404
+##### Umiejętność: Krycie, Krycie!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6029,7 +5963,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 1. Klasy K Corp. — id 90067
+#### Ożywiony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×1 (poz. 32).*
 
@@ -6048,25 +5982,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6083,7 +6017,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Ożywiony Strażnik K Corp. ×1 (poz. 33); Ożywiony Strażnik K Corp. ×1 (poz. 33); Ożywiony Pracownik 1. Klasy K Corp. ×1 (poz. 33); Ożywiony Pracownik 1. Klasy K Corp. ×1 (poz. 33)
 
-#### Ożywiony Strażnik K Corp. — id 90064
+#### Ożywiony Strażnik K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -6102,19 +6036,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Szturm (×3) — id 9002801
+##### Umiejętność: Szturm (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Unieszkodliwienie Celu (×3) — id 9002803
+##### Umiejętność: Unieszkodliwienie Celu (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aktywacja Pocisków HP — id 9002804
+##### Umiejętność: Aktywacja Pocisków HP
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6127,7 +6061,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Strażnik K Corp. — id 90065
+#### Ożywiony Strażnik K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -6146,19 +6080,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Defend (×3) — id 9003001
+##### Umiejętność: Defend (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×3) — id 9003002
+##### Umiejętność: Powstrzymanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +2 |      2 |    1 |
 
-##### Umiejętność: Osłona — id 9003101
+##### Umiejętność: Osłona
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6171,7 +6105,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 1. Klasy K Corp. — id 90066
+#### Ożywiony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -6190,25 +6124,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
+##### Umiejętność: Powstrzymać Intruza (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Wstęp Wzbroniony — id 9005402
+##### Umiejętność: Wstęp Wzbroniony
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Blokada Wejścia — id 9005403
+##### Umiejętność: Blokada Wejścia
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Krycie, Krycie! — id 9005404
+##### Umiejętność: Krycie, Krycie!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6221,7 +6155,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 1. Klasy K Corp. — id 90067
+#### Ożywiony Pracownik 1. Klasy K Corp.
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -6240,25 +6174,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Pauza! Stój! (×3) — id 9005501
+##### Umiejętność: Pauza! Stój! (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Proszę Zatrzymać Się! — id 9005502
+##### Umiejętność: Proszę Zatrzymać Się!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Zatrzymuję! — id 9005503
+##### Umiejętność: Zatrzymuję!
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Zajmuję Osłonę! — id 9005504
+##### Umiejętność: Zajmuję Osłonę!
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6275,7 +6209,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Ożywione Lobotomy E.G.O::Chlupotanie ×1 (poz. 33); Ożywione Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33); Ożywione Lobotomy E.G.O::Chlupotanie ×1 (poz. 33); Ożywione Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33)
 
-#### Ożywione Lobotomy E.G.O::Chlupotanie — id 90062
+#### Ożywione Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -6294,25 +6228,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona (×2) — id 9006004
+##### Umiejętność: Płynna Osłona (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6325,7 +6259,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywione Lobotomy E.G.O::Czerwone Prześcieradło — id 90063
+#### Ożywione Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×2 (poz. 33).*
 
@@ -6344,25 +6278,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6377,7 +6311,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Ożywione Lobotomy E.G.O::Chlupotanie ×1 (poz. 34); Ożywione Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 34); Ożywione Lobotomy E.G.O::Chlupotanie ×1 (poz. 34); Ożywione Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 34)
 
-#### Ożywione Lobotomy E.G.O::Chlupotanie — id 90062
+#### Ożywione Lobotomy E.G.O::Chlupotanie
 
 *Wystąpienia: ×2 (poz. 34).*
 
@@ -6396,25 +6330,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
+##### Umiejętność: Płyn Stłumienia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Płyn Wybuchowy (×2) — id 9006002
+##### Umiejętność: Płyn Wybuchowy (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Chwiejny Płyn (×2) — id 9006003
+##### Umiejętność: Chwiejny Płyn (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Płynna Osłona (×2) — id 9006004
+##### Umiejętność: Płynna Osłona (×2)
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6427,7 +6361,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywione Lobotomy E.G.O::Czerwone Prześcieradło — id 90063
+#### Ożywione Lobotomy E.G.O::Czerwone Prześcieradło
 
 *Wystąpienia: ×2 (poz. 34).*
 
@@ -6446,25 +6380,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
+##### Umiejętność: Raniąca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Rozrastająca Się Klątwa (×2) — id 9006102
+##### Umiejętność: Rozrastająca Się Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Spętająca Klątwa (×2) — id 9006103
+##### Umiejętność: Spętająca Klątwa (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         +3 |      2 |    1 |
 
-##### Umiejętność: Wyeksponowana Rana — id 9006104
+##### Umiejętność: Wyeksponowana Rana
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6479,7 +6413,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Ożywiony Pracownik 3. Klasy K Corp. ×3 (poz. 35); Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony ×1 (poz. 35) (wsparcie); Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony ×1 (poz. 35) (wsparcie); Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony ×1 (poz. 35) (wsparcie)
 
-#### Ożywiony Pracownik 3. Klasy K Corp. — id 90068
+#### Ożywiony Pracownik 3. Klasy K Corp.
 
 *Wystąpienia: ×3 (poz. 35).*
 
@@ -6498,19 +6432,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: No Entry (×5) — id 852101
+##### Umiejętność: No Entry (×5)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Stłumienie (×3) — id 852102
+##### Umiejętność: Stłumienie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Blokada Wejścia (×2) — id 852103
+##### Umiejętność: Blokada Wejścia (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6522,7 +6456,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 - **Floods of Sorrow** — przy trafieniu Rewersem, nakłada 2 Zatonięcia
 - **Overflowing Sorrow** — na koniec tury, traci 5 Poczytalności
 
-#### Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony — id 90069
+#### Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony
 
 *Wystąpienia: ×3 (poz. 35) · też jako wsparcie.*
 
@@ -6540,19 +6474,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Wykryto Podejrzanych (×5) — id 9006801
+##### Umiejętność: Wykryto Podejrzanych (×5)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Powstrzymanie (×3) — id 9006802
+##### Umiejętność: Powstrzymanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blokada Podejrzanych (×2) — id 9006803
+##### Umiejętność: Blokada Podejrzanych (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6570,7 +6504,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **Fala 1:** Spiżowy Byk — Łzawiący ×1 (poz. 33)
 
-#### Spiżowy Byk — Łzawiący — id 8041
+#### Spiżowy Byk — Łzawiący
 
 *Wystąpienia: ×1 (poz. 33).*
 
@@ -6585,7 +6519,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Części (anatomia):**
 
-##### Tułów — id 804101
+##### Tułów
 
 | Parametr           | Wartość                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6597,37 +6531,37 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Taranowanie — id 804101
+##### Umiejętność: Taranowanie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Przygniecenie — id 804102
+##### Umiejętność: Przygniecenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Onrush — id 804103
+##### Umiejętność: Onrush
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Rozlewający się Smutek — id 804104
+##### Umiejętność: Rozlewający się Smutek
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Rozgrzany Płacz — id 804105
+##### Umiejętność: Rozgrzany Płacz
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rozgrzane Krzyki — id 804106
+##### Umiejętność: Rozgrzane Krzyki
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
