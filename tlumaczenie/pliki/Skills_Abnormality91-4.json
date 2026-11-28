@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=806301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=806301].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=806301].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=806301].levelList[level=1].name": {
+      "pl": "Brutal Pummelling",
+      "kr_sha256": "b4333229a6d7d1fdaa0e73c6770e426bd2cce6b3f08245d9e4ee9c87a1a815ac",
+      "en_sha256": "de4a60d7a6e7be9ea5bf8521f7f3715939f28ad1656c4717c8addc0a1fbdaecd",
+      "origin": "ai"
+    },
+    "dataList[id=806302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 4",
+      "kr_sha256": "2dd1a37762b3cfdc1c2b5a16a3b249900eef1e7050e4e332e7ba32b1d360a9a8",
+      "en_sha256": "28f6520b8e509e30db97fafc9a2a7aab5fdc3a23615349abbb803b764196b627",
+      "origin": "ai"
+    },
+    "dataList[id=806302].levelList[level=1].name": {
+      "pl": "Powerful! Pummel",
+      "kr_sha256": "67de902e8c93535d72c2fe7440ce41790a76e3b62a479a66f330b6a937c64313",
+      "en_sha256": "ca56ab7ea0104862c3558d42439836617582fc1d38ff7aea96300256c736a54a",
+      "origin": "ai"
+    },
+    "dataList[id=806303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=806303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=806303].levelList[level=1].desc": {
+      "pl": "[CantIdentify]",
+      "kr_sha256": "4e263349561c6da8ce0b3b37dd70fcd7623fcacd46e3058889c14bba49e06113",
+      "en_sha256": "4e263349561c6da8ce0b3b37dd70fcd7623fcacd46e3058889c14bba49e06113",
+      "origin": "ai"
+    },
+    "dataList[id=806303].levelList[level=1].name": {
+      "pl": "Foaming",
+      "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
+      "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
+      "origin": "ai"
+    },
+    "dataList[id=806304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 Rozdarcia",
+      "kr_sha256": "0046413a5ff94d30beb99377d089ce31abc0c67ed22f2ac349e5c92a60ba4ffe",
+      "en_sha256": "ca3f75d9d2e530bd68b93b695ed43f0ca077b58b163ff2775763a723048605c3",
+      "origin": "ai"
+    },
+    "dataList[id=806304].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=806304].levelList[level=1].desc": {
+      "pl": "[CantIdentify] \nzadaje +20% obrażeń za każde 5 Licznika Rozdarcia celu",
+      "kr_sha256": "ba0bc6c3161fc2396a2d0d5d5eb3b9dfc05fd516bab9706b84670042f4cc782e",
+      "en_sha256": "38b5d185e9b396e11180b260e80bea5b047caa06c83d99f52929bbc4fd6b0ca7",
+      "origin": "ai"
+    },
+    "dataList[id=806304].levelList[level=1].name": {
+      "pl": "Shell Attack!!!",
+      "kr_sha256": "bd86199ef7f35b63e6e4bba21ce8493a83ef93a3cf7f1de83c078958c7e51ac4",
+      "en_sha256": "169e4a0e47758b5bb07131ca189163e2091f4ed57887fcbbc8cb4941b2ccc23a",
+      "origin": "ai"
+    },
+    "dataList[id=806305].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 Rozdarcia",
+      "kr_sha256": "0046413a5ff94d30beb99377d089ce31abc0c67ed22f2ac349e5c92a60ba4ffe",
+      "en_sha256": "ca3f75d9d2e530bd68b93b695ed43f0ca077b58b163ff2775763a723048605c3",
+      "origin": "ai"
+    },
+    "dataList[id=806305].levelList[level=1].desc": {
+      "pl": "[CantIdentify] zadaje +20% obrażeń za każde 5 Licznika Rozdarcia celu\n[EndSkill] przywołuje 3 Kraby, jeżeli na koniec tury jest na polu mniej niż 5 innych Krabów (maks. 5)",
+      "kr_sha256": "2e0a2c7442c92197ae7d8a1a08bf6205c7e2c25e3a6e1e9ea422aceb285b42c5",
+      "en_sha256": "ab7b7d006d751ff658a03a5073aedcf057bced3365e1566b0cc5fd94a94e68df",
+      "origin": "ai"
+    },
+    "dataList[id=806305].levelList[level=1].name": {
+      "pl": "Crab Rave",
+      "kr_sha256": "f9a5a72146e1285f644aaf5e3b61ede82ef041a3fc83af9ebe65671e7cc157bb",
+      "en_sha256": "1393394d53b1169248b60025c7ee4876d0b0d5f58a8fca17e5dd5c7407d3982c",
+      "origin": "ai"
+    },
+    "dataList[id=806306].levelList[level=1].desc": {
+      "pl": "[StartBattle] przy trafieniu, gdy jednostka ma Tarczę, odbija 7 obrażeń na atakującego\nnakłada 1 Rozdarcia",
+      "kr_sha256": "9874604c4151dac37061e72b5c10327fd2d8d57c659f9381f39e3f9273b6489a",
+      "en_sha256": "6fd6516bc2757ca32d2a6ad0da1849544e457e6ade10cdaf43f50c3f8f4d5c74",
+      "origin": "ai"
+    },
+    "dataList[id=806306].levelList[level=1].name": {
+      "pl": "Foam Armor",
+      "kr_sha256": "d68de4842b4b7206317bf46c34851e1468e59cb4d53d932290d58dec283c5da2",
+      "en_sha256": "cfa9140dae6835e3de719f2982cd4fceef77e557cc18862e461255e5c2a4067d",
+      "origin": "ai"
+    },
+    "dataList[id=806307].levelList[level=1].desc": {
+      "pl": "[StartBattle] przy trafieniu, gdy jednostka ma Tarczę, odbija 7 obrażeń na atakującego\nnakłada 1 Rozdarcia",
+      "kr_sha256": "9874604c4151dac37061e72b5c10327fd2d8d57c659f9381f39e3f9273b6489a",
+      "en_sha256": "6fd6516bc2757ca32d2a6ad0da1849544e457e6ade10cdaf43f50c3f8f4d5c74",
+      "origin": "ai"
+    },
+    "dataList[id=806307].levelList[level=1].name": {
+      "pl": "Foam Armor",
+      "kr_sha256": "d68de4842b4b7206317bf46c34851e1468e59cb4d53d932290d58dec283c5da2",
+      "en_sha256": "cfa9140dae6835e3de719f2982cd4fceef77e557cc18862e461255e5c2a4067d",
+      "origin": "ai"
+    }
+  }
+}

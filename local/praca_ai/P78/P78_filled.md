@@ -5677,7 +5677,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P78_3c_przeciwnicy_i_anomalie_cz14.
    tokeny: zachowaj dokładnie: [OnSucceedAttackHead]
    znaczenie tagów: [OnSucceedAttackHead] = [앞면 적중시] / [Heads Hit]
    EN: [OnSucceedAttackHead] Inflict 1 Fragile next turn
-   PL: [OnSucceedAttackHead] nakłada 1 Kruchości w następnej turze
+   PL: [OnSucceedAttackHead] nakłada 1 Wrażliwości w następnej turze
 1469. [Umiejętność wroga [8001006] (ulepszenie 1) — nazwa] 허무의 열매
    źródło: Skills_Abnormality.json :: dataList[id=8001006].levelList[level=1].name
    limit: do 40 znaków
@@ -5905,7 +5905,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P78_3c_przeciwnicy_i_anomalie_cz14.
    tokeny: zachowaj dokładnie: [OnSucceedAttack]
    znaczenie tagów: [OnSucceedAttack] = [적중시] / [On Hit]
    EN: [OnSucceedAttack] Inflict 2 Fragile next turn
-   PL: [OnSucceedAttack] nakłada 2 Kruchości w następnej turze
+   PL: [OnSucceedAttack] nakłada 2 Wrażliwości w następnej turze
 1513. [Umiejętność wroga [800903] (ulepszenie 1) — nazwa] 포획
    źródło: Skills_Abnormality.json :: dataList[id=800903].levelList[level=1].name
    limit: do 40 znaków
@@ -5979,7 +5979,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P78_3c_przeciwnicy_i_anomalie_cz14.
    tokeny: zachowaj dokładnie: [OnSucceedAttack]
    znaczenie tagów: [OnSucceedAttack] = [적중시] / [On Hit]
    EN: [OnSucceedAttack] Gain 2 Haste next turn
-   PL: [OnSucceedAttack] zyskuje 2 Haste w następnej turze
+   PL: [OnSucceedAttack] zyskuje 2 Pośpiechu w następnej turze
 1527. [Umiejętność wroga [801203] (ulepszenie 1) — nazwa] 신난다!!
    źródło: Skills_Abnormality.json :: dataList[id=801203].levelList[level=1].name
    limit: do 40 znaków

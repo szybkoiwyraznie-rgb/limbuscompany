@@ -1,0 +1,131 @@
+194||Umiejętność wroga [803901] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed
+195||Umiejętność wroga [803901] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 진동 3 부여|[OnSucceedAttackHead] Inflict 3 Tremor
+196||Umiejętność wroga [803902] (ulepszenie 1) — nazwa] 끅|Khk
+199||Umiejętność wroga [803902] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 마비 1, 진동 5 부여|[OnSucceedAttackHead] Inflict 1 Paralyze and 5 Tremor
+200||Umiejętność wroga [803902] (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 진동 폭발|[OnSucceedAttack] Trigger Tremor Burst
+201||Umiejętność wroga [803903] (ulepszenie 1) — nazwa] 끄그극!|Keghgh!
+202||Umiejętność wroga [803903] (ulepszenie 1) — opis] 정신력이 가장 낮은 대상 우선 공격\n적중 시 생닭 생산|Targets the unit with the least SP\n[OnSucceedAttack] Spawn a Raw Chicken
+203||Umiejętność wroga [803903] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 5 부여|[OnSucceedAttack] Inflict 5 Sinking
+204||Umiejętność wroga [803904] (ulepszenie 1) — nazwa] 끄그그그극|Khghghghgk
+205||Umiejętność wroga [803904] (ulepszenie 1) — opis] [WinDuel] 최종 위력 + 1|[WinDuel] Final Power +1
+208||Umiejętność wroga [803905] (ulepszenie 1) — nazwa] 끄그극...|Keghgh…
+209||Umiejętność wroga [804101] (ulepszenie 1) — nazwa] 들이받기|Ram
+210||Umiejętność wroga [804101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 3 부여|[OnSucceedAttack] Inflict 3 Burn
+212||Umiejętność wroga [804102] (ulepszenie 1) — nazwa] 찍어누르기|Pin Down
+213||Umiejętność wroga [804102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 횟수 3 증가|[OnSucceedAttack] Inflict +3 Burn Count
+214||Umiejętność wroga [804103] (ulepszenie 1) — nazwa] 돌진|Charge In
+215||Umiejętność wroga [804103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 2 부여|[OnSucceedAttack] Inflict 2 Burn
+216||Umiejętność wroga [804103] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 피해량의 20%만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt
+221||Umiejętność wroga [804104] (ulepszenie 1) — nazwa] 넘쳐흐르는 슬픔|Overflowing Sorrow
+222||Umiejętność wroga [804104] (ulepszenie 1) — opis] [DefeatDuel] 해소되지 않은 슬픔 1을 얻음|[DefeatDuel] Gain 1 Unresolved Sorrow
+223||Umiejętność wroga [804104] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 15 감소|[OnSucceedAttack] Target loses 15 SP
+224||Umiejętność wroga [804104] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 피해량의 50%만큼 대상의 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt
+225||Umiejętność wroga [804105] (ulepszenie 1) — nazwa] 뜨거운 울음소리|Heated Cries
+226||Umiejętność wroga [804105] (ulepszenie 1) — opis] [WinDuel] 다음 턴에 신속, 공격 위력 증가 1을 얻음|[WinDuel] Gain 1 Haste and 1 Attack Power Up next turn
+227||Umiejętność wroga [804105] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 울렁이는 감정 1 부여|[OnSucceedAttack] Inflict 1 Wavering Emotions
+228||Umiejętność wroga [804105] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 침잠 횟수 3 증가|[OnSucceedAttack] Inflict +3 Sinking Count
+229||Umiejętność wroga [804106] (ulepszenie 1) — nazwa] 뜨거운 비명소리|Heated Screams
+232||Umiejętność wroga [804106] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 침잠 2 부여|[OnSucceedAttack] Inflict 2 Sinking
+235||Umiejętność wroga [804201] (ulepszenie 1) — nazwa] 섬광 섬광|Flash; Flash;
+236||Umiejętność wroga [804202] (ulepszenie 1) — nazwa] 스캔합니다|Scanning . . .
+237||Umiejętność wroga [804203] (ulepszenie 1) — nazwa] 근접 촬영 시작|Proximity Shooting
+238||Umiejętność wroga [804501] (ulepszenie 1) — nazwa] 물어뜯기|Bite
+239||Umiejętność wroga [804501] (ulepszenie 1) — opis] [WhenUse] 자가 충전 2 얻음\n[DefeatDuel] 자가 충전 1 소모|[WhenUse] Gain 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge
+240||Umiejętność wroga [804501] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여, 출혈 횟수 2 증가|[OnSucceedAttack] Inflict 3 Bleed and +2 Bleed Count
+241||Umiejętność wroga [804502] (ulepszenie 1) — nazwa] 꼬리찌르기|Tail Poke
+245||Umiejętność wroga [804503] (ulepszenie 1) — nazwa] 감아 조이기|Wrapping Coil
+247||Umiejętność wroga [804503] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 취약 2 부여|[OnSucceedAttack] Inflict 2 Fragile
+248||Umiejętność wroga [804503] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 속박 2 부여|[OnSucceedAttackHead] Inflict 2 Bind next turn
+249||Umiejętność wroga [804504] (ulepszenie 1) — nazwa] 전류 주입|Electric Load
+250||Umiejętność wroga [804504] (ulepszenie 1) — opis] [WhenUse] 자가 충전 1 얻음\n대상에게 마비가 있다면 피해량 +10%|[WhenUse] Gain 1 Self-charge\nDeal +10% damage to targets with Paralyze
+252||Umiejętność wroga [804505] (ulepszenie 1) — nazwa] 전기 방류|Electric Release
+255||Umiejętność wroga [804506] (ulepszenie 1) — nazwa] 전기 방출|Electric Discharge
+256||Umiejętność wroga [804506] (ulepszenie 1) — opis] [WhenUse] 자가 충전 1 얻음\n대상에게 마비가 있다면 피해량 +20%|[WhenUse] Gain 1 Self-charge\nDeal +20% damage to targets with Paralyze
+258||Umiejętność wroga [804506] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 마비 5 부여|[OnSucceedAttack] Inflict 5 Paralyze
+259||Umiejętność wroga [804507] (ulepszenie 1) — nazwa] 초고압 전기 방출|High-voltage Electric Discharge
+260||Umiejętność wroga [804507] (ulepszenie 1) — opis] 가지고 있는 자가 충전 전부 소모|Spend all Self-charge
+262||Umiejętność wroga [804507] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상이 축전 상태일 때, 최종 피해량의 40%만큼 고정 피해|[OnSucceedAttack] If target has Capacitor, deal 40% of damage dealt as fixed damage
+263||Umiejętność wroga [804507] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 마비 3, 축전 1 부여|[OnSucceedAttack] Inflict 3 Paralyze and 1 Capacitor
+264||Umiejętność wroga [804508] (ulepszenie 1) — nazwa] 똬리틀기|Coil Up
+265||Umiejętność wroga [804508] (ulepszenie 1) — opis] 이 스킬이 슬롯에 있을 때 머리 부위 현재 체력만큼 보호막 얻음.|If this skill is on a slot, gain shield by the head's current HP
+266||Umiejętność wroga [804509] (ulepszenie 1) — nazwa] 꿈틀거리는 머리|Wriggling Head
+267||Umiejętność wroga [804509] (ulepszenie 1) — opis] 체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 2 소모\n[DefeatDuel] 자가 충전 2 소모|Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge
+269||Umiejętność wroga [804510] (ulepszenie 1) — nazwa] 꿈틀거리는 꼬리|Wriggling Tail
+270||Umiejętność wroga [804510] (ulepszenie 1) — opis] 체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 2 소모\n[DefeatDuel] 자가 충전 3 소모|Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge
+272||Umiejętność wroga [804601] (ulepszenie 1) — nazwa] 침울한 신음|Gloomy Moan
+273||Umiejętność wroga [804601] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 3 부여|[OnSucceedAttack] Inflict 3 Sinking
+274||Umiejętność wroga [804602] (ulepszenie 1) — nazwa] 몰아치는 침잠|Raging Withdrawal
+275||Umiejętność wroga [804602] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 횟수 2 증가|[OnSucceedAttack] Inflict +2 Sinking Count
+277||Umiejętność wroga [804603] (ulepszenie 1) — nazwa] 슬픔의 반동|Sorrowful Recoil
+278||Umiejętność wroga [804603] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 3 증가|[OnSucceedAttack] Inflict +3 Rupture Count
+279||Umiejętność wroga [804603] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 2 부여|[OnSucceedAttack] Inflict 2 Rupture
+280||Umiejętność wroga [804604] (ulepszenie 1) — nazwa] 슬픔의 격류|Sorrowful Torrent
+281||Umiejętność wroga [804604] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|[OnSucceedAttack] Inflict +2 Rupture Count
+283||Umiejętność wroga [804604] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 파열 2 부여|[OnSucceedAttackHead] Inflict 2 Rupture
+284||Umiejętność wroga [804605] (ulepszenie 1) — nazwa] 무언가를 찾는 울음소리|Cries Seeking Something
+285||Umiejętność wroga [804605] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 낡은 우산 소환|[WhenUse] Spawn an Old Umbrella next turn
+287||Umiejętność wroga [804605] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 낡은 우산 수만큼 가하는 피해량 +15%|[OnSucceedAttackHead] Deal +15% damage for each Old Umbrella
+288||Umiejętność wroga [804606] (ulepszenie 1) — nazwa] 기다림|Waiting
+289||Umiejętność wroga [804606] (ulepszenie 1) — opis] [StartBattle] 모든 적 정신력 -20|[StartBattle] All enemies lose 20 SP
+290||Umiejętność wroga [804701] (ulepszenie 1) — nazwa] 얽혀가는 부적|Entangling Talisman
+291||Umiejętność wroga [804701] (ulepszenie 1) — opis] [WhenUse] 대상에게 얽혀온 저주 부적 2 부여|[WhenUse] Inflict 2 Entangled Curse Talisman
+292||Umiejętność wroga [804701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 2 부여. 파열 횟수 2 증가|[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn
+293||Umiejętność wroga [804702] (ulepszenie 1) — nazwa] 쌓여가는 저주|Cumulating Curse
+294||Umiejętność wroga [804702] (ulepszenie 1) — opis] [WhenUse] 대상에게 얽혀온 저주 부적 1 부여|[WhenUse] Inflict 1 Entangled Curse Talisman
+295||Umiejętność wroga [804702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 가지고 있는 얽혀온 저주 부적 만큼 얽혀온 저주 부적 부여|[OnSucceedAttack] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman
+296||Umiejętność wroga [804702] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 5 부여|[OnSucceedAttackHead] Inflict 5 Rupture next turn
+297||Umiejętność wroga [804702] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 2 부여. 다음 턴에 파열 횟수 2 증가|[OnSucceedAttackHead] Inflict 2 Rupture and +2 Rupture Count next turn
+298||Umiejętność wroga [804703] (ulepszenie 1) — nazwa] 누구도 울지 않도록|So That No One Will Cry
+299||Umiejętność wroga [804703] (ulepszenie 1) — opis] [EndBattle] 다시 붙여진 저주 부적 전부 소멸|[EndBattle] Remove all Reattached Curse Talisman
+300||Umiejętność wroga [804703] (ulepszenie 1) — moneta 5, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 5 부여|[OnSucceedAttack] Inflict 5 Paralyze next turn
+301||Umiejętność wroga [804703] (ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 속박 5 부여|[OnSucceedAttackHead] Inflict 5 Bind next turn
+302||Umiejętność wroga [804704] (ulepszenie 1) — nazwa] 이전하는 부적|Transferring Talisman
+303||Umiejętność wroga [804704] (ulepszenie 1) — opis] [WhenUse] 대상의 얽혀온 저주 부적 을 전부 소멸. 소멸시킨만큼 다시 붙여진 저주 부적 얻음|[WhenUse] Remove all Entangled Curse Talisman from target; Gain the same amount of Reattached Curse Talisman
+304||Umiejętność wroga [804705] (ulepszenie 1) — nazwa] 복제되는 저주|Proliferating Curse
+305||Umiejętność wroga [804705] (ulepszenie 1) — opis] [WhenUse] 대상이 가지고 있는 얽혀온 저주 부적 만큼 얽혀온 저주 부적 부여|[WhenUse] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman
+306||Umiejętność wroga [804801] (ulepszenie 1) — nazwa] 취하고 싶나?|Wanna Get Drunk?
+307||Umiejętność wroga [804801] (ulepszenie 1) — opis] 합 진행 시 고양 1 부여|In a clash, give 1 Morale Boost
+308||Umiejętność wroga [804801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 5 부여, 진동 횟수 2 증가|[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count
+309||Umiejętność wroga [804802] (ulepszenie 1) — nazwa] 나눠 마시자!|Let's Share the Drink!
+310||Umiejętność wroga [804802] (ulepszenie 1) — opis] 합 진행 시 고양 1 부여\n[WhenUse] 체력 5% 회복|In a clash, give 1 Morale Boost\n[WhenUse] Heal 5% HP
+312||Umiejętność wroga [804803] (ulepszenie 1) — nazwa] 남은건 이것 뿐이네!|This is All I Got!
+313||Umiejętność wroga [804803] (ulepszenie 1) — opis] 합 진행 시 고양 2 부여\n진동을 가진 대상 우선 공격|In a Clash, give 2 Morale Boost\nPrioritizes enemies with Tremor
+314||Umiejętność wroga [804803] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 진동 횟수만큼 진동 폭발|[OnSucceedAttack] Trigger Tremor Burst by target's Tremor Count
+315||Umiejętność wroga [804804] (ulepszenie 1) — nazwa] 이건 내가 먹어야지!|I'll Have This!
+316||Umiejętność wroga [804804] (ulepszenie 1) — opis] [CantDuel]\n대상 변경 불가.\n고양 을 가진 대상 우선 공격\n대상에게 취기 가 없다면, 합 위력 +5|[CantDuel]\nCannot be redirected\nPrioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5
+317||Umiejętność wroga [804804] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 고양을 가지고 있다면, 고양 만큼 피해량 +10%|[OnSucceedAttack] If target has Morale Boost, deal +10% damage for each Count
+318||Umiejętność wroga [804804] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 취기 를 가지고 있다면, 주는 피해가 0이 되고 자신의 체력 -50|[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP
+319||Umiejętność wroga [804804] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 고양 혹은 취기 전부 소모 시킴|[OnSucceedAttack] Remove all Morale Boost or Tipsy
+321||Umiejętność wroga [804805] (ulepszenie 1) — opis] 고양을 가진 대상 우선 공격\n대상에게 취기 가 없다면, 합 위력 +5|Prioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5
+322||Umiejętność wroga [804805] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 고양 을 가지고 있다면, 고양 만큼 피해량 +100%|[OnSucceedAttack] If target has Morale Boost, deal +100% damage for each Count
+325||Umiejętność wroga [804806] (ulepszenie 1) — nazwa] 이번에는 안돼!|Not This Time!
+326||Umiejętność wroga [804806] (ulepszenie 1) — opis] 요정주 우선 대상 공격|Prioritizes Fairy Wine
+327||Umiejętność wroga [804806] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 요정주를 공격했다면, 다음 턴에 체력 10% 회복, 공격 위력 증가 2, 신속 2, 보호 2를 얻음.|[OnSucceedAttack] If this attacks Fairy Wine, heal 10% HP next turn, and gain 2 Attack Power Up, 2 Haste, and 2 Protection
+328||Umiejętność wroga [804807] (ulepszenie 1) — nazwa] 이 요정주가 좋나?|You Like This Brew?
+329||Umiejętność wroga [804807] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 속박 1 얻음|[WhenUse] Gain 1 Bind next turn
+330||Umiejętność wroga [805101] (ulepszenie 1) — nazwa] 요정주|Fairy Wine
+331||Umiejętność wroga [805101] (ulepszenie 1) — opis] [WhenUse] 상대의 고양을 수치만큼 취기로 변환|[WhenUse] Convert opponent's Morale Boost into Tipsy
+332||Umiejętność wroga [805201] (ulepszenie 1) — nazwa] 흩뿌려지는 슬픔|Scattering Sorrow
+333||Umiejętność wroga [805201] (ulepszenie 1) — opis] [EndSkill] 모든 적의 파열 횟수 2, 침잠 횟수 2 증가|[EndSkill] Inflict +2 Rupture Count and +2 Sinking Count to all enemies
+334||Umiejętność wroga [804301] (ulepszenie 1) — nazwa] 아릿한 기억|Stinging Memories
+335||Umiejętność wroga [804301] (ulepszenie 1) — opis] [WinDuel] 정신력 8 회복\n[DefeatDuel] 정신력 5 감소|[WinDuel] Heal 8 SP\n[DefeatDuel] Lose 5 SP
+336||Umiejętność wroga [804301] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 2, 파열 2 부여|[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture
+339||Umiejętność wroga [804302] (ulepszenie 1) — nazwa] 가시 돋친 추억|Thorny Memories
+343||Umiejętność wroga [804303] (ulepszenie 1) — nazwa] 자기 방어|Self-defense
+344||Umiejętność wroga [804303] (ulepszenie 1) — opis] [DefeatDuel] 자신의 정신력 8 감소, 침잠 3을 얻음|[DefeatDuel] Lose 8 SP and gain 3 Sinking
+345||Umiejętność wroga [804303] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2, 공격 위력 감소 2 부여|[OnSucceedAttack] Inflict 2 Bind and 2 Attack Power Down next turn
+346||Umiejętność wroga [804304] (ulepszenie 1) — nazwa] 아려오는 마음|Aching Heart
+348||Umiejętność wroga [804304] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 3 증가.|[OnSucceedAttack] Inflict +3 Rupture Count.
+350||Umiejętność wroga [804305] (ulepszenie 1) — nazwa] 전부 잠겨버려|Sink It All
+351||Umiejętność wroga [804305] (ulepszenie 1) — opis] [WhenUse] 정신력 30 감소, 침잠 5를 얻음. 다음 턴에 침식되는 마음을 얻음|[WhenUse] Lose 30 SP and gain 5 Sinking; Gain Corroding Heart next turn
+352||Umiejętność wroga [804305] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 15 감소.|[OnSucceedAttack] Target loses 15 SP.
+353||Umiejętność wroga [804305] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 침잠 8, 독 8 부여|[OnSucceedAttack] Inflict 8 Sinking and 8 Poison next turn
+354||Umiejętność wroga [804306] (ulepszenie 1) — nazwa] 저리 치워|Get It Away
+355||Umiejętność wroga [804306] (ulepszenie 1) — opis] [OnDefeatEvade] 정신력 8 감소|[OnDefeatEvade] Lose 8 SP
+356||Umiejętność wroga [804307] (ulepszenie 1) — nazwa] 건드리지마...!|Don't Touch Me...!
+357||Umiejętność wroga [804307] (ulepszenie 1) — opis] [StartBattle] 가시 를 얻음|[StartBattle] Gain Thorns
+358||Umiejętność wroga [804401] (ulepszenie 1) — nazwa] 흩날리는 향기|Scattering Fragrance
+360||Umiejętność wroga [804401] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 개화 1 부여|[OnSucceedAttack] Inflict 1 Blooming
+363||Umiejętność wroga [804402] (ulepszenie 1) — nazwa] 아릿한 향기|Pungent Fragrance
+364||Umiejętność wroga [804402] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 개화 2 부여|[OnSucceedAttack] Inflict 2 Blooming
+366||Umiejętność wroga [804403] (ulepszenie 1) — nazwa] 피어나는 봉우리|Flowering Buds
