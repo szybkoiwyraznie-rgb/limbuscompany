@@ -1,0 +1,131 @@
+356||[refraction2] Pasywka wroga [854501] — opis] 팔 부위 파괴 시, 매 턴마다 공격 위력 감소 1 얻음|When the arm is broken, the unit gains 1 Attack Power Down every turn.
+357||[refraction2] Pasywka wroga [854502] — nazwa] 훼손된 그늘|Damaged Shade
+358||[refraction2] Pasywka wroga [854502] — opis] 머리 부위 파괴 시, 매 턴마다 방어 레벨 감소 2 얻음|When the head is broken, the unit gains 2 Defense Level Down every turn.
+363||[refraction2] Pasywka wroga [854601] — nazwa] 오염시키는 잎사귀|Contaminating Leaf
+364||[refraction2] Pasywka wroga [854601] — opis] 매 턴 시작 시 키다리 요정과 신사 요정이 체력 회복 증가 3, 공격 위력 증가 1을 얻음.\n4턴 이상 클로버가 생존해 있다면, 추가로 공격 위력 증가 1, 피해량 증가 2를 얻음.|Apply the following effects on Fairy-Long-Legs and Fairy Gentleman:\n- Turn Start: Gain 3 HP Healing Boost and 1 Attack Power Up\n- If the Clover survives for 4+ Turns, gain an additional 1 Attack Power Up and 2 Damage Up
+366||[refraction2] Pasywka wroga [854701] — opis] 팔 부위 파괴 시, 매 턴마다 공격 위력 감소 1 얻음.|When the arm is broken, the unit gains 1 Attack Power Down every turn.
+368||[refraction2] Pasywka wroga [854702] — opis] 요정주가 있을 때, <sprite name="Binding"><color=#e30000><u><link="Binding">속박</color></link></u>을 5 얻음.|When Fairy Wine is on the field, all Parts gain 5 <sprite name="Binding"><color=#e30000><u><link="Binding">Bind</color></link></u>
+375||[refraction2] Pasywka wroga [854901] — nazwa] 매혹|Charmed
+376||[refraction2] Pasywka wroga [854901] — opis] 속도가 가장 낮은 적에게 매혹 부여.\n순환 횟수에 따라 매혹 인원 증가.\n요정 부위 재생 시 매혹 인원 증가.|Inflict Charmed to the enemy with the slowest Speed\nNumber of targets increases with every Cycle Count\nNumber of targets increases when Fairy is restored
+378||[refraction2] Pasywka wroga [854902] — opis] 요정 부위 파괴 시, 몸통이 드러남.\n몸통이 다시 숨을 때, 가지고 있는 버프 및 디버프 전부 삭제.|Reveal Body when Fairy is broken\nAll Buffs and Debuffs expire when the Body hides again
+379||[refraction2] Pasywka wroga [854903] — nazwa] 앞선 미끼|Leading Lure
+380||[refraction2] Pasywka wroga [854903] — opis] 요정 부위를 공격 당해도 본체 체력이 소모되지 않음.\n<sprite name="FairyCharm"><color=#a16a3b><u><link="FairyCharm">매혹</color></link></u>된 인원 수에 따라 공격 슬롯이 증가함.|Cannot damage Core by damaging the Fairy.\nTargets more slots based on the number of <sprite name="FairyCharm"><color=#a16a3b><u><link="FairyCharm">Charmed</color></link></u> units.
+381||[refraction2] Pasywka wroga [854904] — nazwa] 파괴된 밑동|Broken Stump
+382||[refraction2] Pasywka wroga [854904] — opis] 몸통 부위가 파괴되면, 요정 재생 시 체력이 60%로 재생함.\n몸통 부위가 파괴되면, 스킬에 의한 본체 체력 회복 +20|When the Body is broken:\n- Fairy will have 60% of its max HP upon restoration\n- Core heals +20 more HP from Skill effects
+383||[refraction2] Pasywka wroga [854905] — nazwa] 진화하는 미끼|Evolving Lure
+384||[refraction2] Pasywka wroga [854905] — opis] 요정 부위 재생 시 최대 체력이 20% 증가.|Fairy gains 20% increased Max HP when restored.
+387||[refraction2] Pasywka wroga [854907] — nazwa] 요정 가루|Fairy Dust
+388||[refraction2] Pasywka wroga [854907] — opis] 요정이 죽었을 때, 모든 인격이 다음 턴에 호흡 5, 호흡 횟수 2 얻음|When the Fairy is killed, all Identities gain 5 Poise and 2 Poise Count next turn
+389||[refraction2] Pasywka wroga [855001] — nazwa] 차원 도주|Dimensional Escape
+390||[refraction2] Pasywka wroga [855001] — opis] 2턴부터 일정 턴마다 차원으로 숨음.\n모든 부위가 흐트러짐 상태이면, 다음 턴에 숨음.\n차원으로 숨었을 때에는, 흐트러짐 상태가 되지 않음.\n본체 체력이 최대 체력의 30% 이하면, 차원으로 숨지 않음.|Starting from turn 2, escape to a 'Dimensional Rift' every few turns.\nWhen all parts are Staggered, escape to a 'Dimensional Rift' next turn.\nCannot be Staggered while inside a 'Dimensional Rift'.\nWhen Core is at 30% or less HP, does not escape to a 'Dimensional Rift'.
+391||[refraction2] Pasywka wroga [855002] — nazwa] 갇혀버린 차원 탈출|Trapped Dimensional Escape
+392||[refraction2] Pasywka wroga [855002] — opis] 모든 차원이 생성된 턴에 파괴되면, 다음 턴에 스스로 차원을 찢고 나옴.\n이후 충전 횟수 5를 잃고, 모든 부위가 흐트러짐 손상 30을 입음.|When all 'Dimensional Rifts' are broken on the same turn they are created, voluntarily emerge from a 'Dimensional Rift' next turn.\nAfterward, lose 5 Charge Count and raise Stagger Threshold by 30 on all parts.
+393||[refraction2] Pasywka wroga [855003] — nazwa] 차원 굴절 칼날 수복|Regenerate Dimensional Refraction Blade
+394||[refraction2] Pasywka wroga [855003] — opis] 칼날 부위가 파괴되면, 충전 횟수 5를 잃고,\n다음 턴 종료 시 충전 횟수 2를 소모하여 칼날 부위를 회복함.\n칼날 부위가 파괴된 상태면, 매 턴 시작 시 공격 레벨 감소 2를 얻음.|When the blade part is broken, lose 5 Charge Count,\nand at the end of the next turn, recover blade part by spending 2 Charge Count.\nWhen the blade part is broken, gain 2 Offense Level Down at the start of every turn.
+395||[refraction2] Pasywka wroga [855004] — nazwa] 굴절된 화상과 파열|Refracted Burn and Rupture
+396||[refraction2] Pasywka wroga [855004] — opis] <sprite name="Combustion"><color=#e30000><u><link="Combustion">화상</color></link></u>과 <sprite name="Burst"><color=#e30000><u><link="Burst">파열</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name="Combustion"><color=#e30000><u><link="Combustion">화상</color></link></u>과 <sprite name="Burst"><color=#e30000><u><link="Burst">파열</color></link></u>의 횟수가 5까지만 누적됨.|<sprite name="Combustion"><color=#e30000><u><link="Combustion">Burn</color></link></u> and <sprite name="Burst"><color=#e30000><u><link="Burst">Rupture</color></link></u> Potency maxes out at 30.\n<sprite name="Combustion"><color=#e30000><u><link="Combustion">Burn</color></link></u> and <sprite name="Burst"><color=#e30000><u><link="Burst">Rupture</color></link></u> Count maxes out at 5.
+397||[refraction2] Pasywka wroga [855005] — nazwa] 굴절 진동 부과|Apply Refracted Tremor
+398||[refraction2] Pasywka wroga [855005] — opis] <sprite name="Vibration"><color=#e30000><u><link="Vibration">진동</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음. (순환[TabExplain] 버프는 해당하지 않음)|When gaining <sprite name="Vibration"><color=#e30000><u><link="Vibration">Tremor</color></link></u>, gain 1 additional Potency and Count (does not apply on Cycle[TabExplain]-related buffs)
+399||[refraction2] Pasywka wroga [856001] — nazwa] 피가 흐르는 차원|Hemorrhaging Dimension
+400||[refraction2] Pasywka wroga [856001] — opis] 피가 흐르는 차원을 통과했다면, 피해량 +10%|Deal +10% damage after passing through the Hemorrhaging Dimension[TabExplain]
+401||[refraction2] Pasywka wroga [856101] — nazwa] 독이 들끓는 차원|Poisonous Dimension
+402||[refraction2] Pasywka wroga [856101] — opis] 독이 들끓는 차원을 통과했다면, 본체 최대 체력 +20%|Core gains +20% max HP after passing through the Poisonous Dimension[TabExplain]
+403||[refraction2] Pasywka wroga [856201] — nazwa] 끊임없이 진동하는 차원|Tremoring Dimension
+404||[refraction2] Pasywka wroga [856201] — opis] 끊임없이 진동하는 차원을 통과했다면, 속도 최솟값 +1, 속도 최댓값 +1|Min & Max Speed +1 after passing through the Tremoring Dimension[TabExplain]
+405||[refraction2] Pasywka wroga [856301] — nazwa] 전류를 뿜어내는 차원|Electrifying Dimension
+406||[refraction2] Pasywka wroga [856301] — opis] 전류를 뿜어내는 차원을 통과했다면, 코인 위력 +1|Gain +1 Coin Power after passing through the Electrifying Dimension[TabExplain]
+407||[refraction2] Pasywka wroga [855101] — nazwa] 황금 시간|Golden Time
+408||[refraction2] Pasywka wroga [855101] — opis] 턴 종료 시 체력이 6% ~ 24%사이로 남았을 때, 전체 체력의 80%만큼 본체와 부위체력 즉시 회복. 흐트러짐 상태 해제. (최대 1회)|At the end of the turn, if the HP is between 6% and 24%, Core parts instantly heal up to 80% of Max HP, and recover from stagger. (One-time only)
+409||[refraction2] Pasywka wroga [855102] — nazwa] 시간 역행 반동|Time Reversion Retroaction
+410||[refraction2] Pasywka wroga [855102] — opis] 황금 시간 발동 이후, 턴 시작 시 취약 2 얻음|After activating Golden Time, gain 2 Fragile at the start of the turn.
+411||[refraction2] Pasywka wroga [855103] — nazwa] 과충전|Overcharge
+412||[refraction2] Pasywka wroga [855103] — opis] 턴 종료 시 충전 횟수가 5이상이면, 다음 턴에 피해량 증가 3 얻음|If at 5+ Charge Count at the end of the turn, gain 3 Damage Up next turn
+415||[refraction2] Pasywka wroga [855105] — nazwa] 굴절 화상 부과|Apply Refracted Burn
+416||[refraction2] Pasywka wroga [855105] — opis] <sprite name="Combustion"><color=#e30000><u><link="Combustion">화상</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음. (순환[TabExplain] 버프는 해당하지 않음)|When gaining <sprite name="Combustion"><color=#e30000><u><link="Combustion">Burn</color></link></u>, gain 1 additional Potency and Count (does not apply on Cycle[TabExplain]-related buffs)
+417||[refraction2] Pasywka wroga [855501] — nazwa] 돌아오는 과거|Returning Past
+418||[refraction2] Pasywka wroga [855501] — opis] <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">축적된 과거</color></link></u>가 50 이상이면, 본체 체력이 80% 이하일 때 턴 종료 시 <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">축적된 과거</color></link></u>를 50 소모하여 본체 체력을 200 회복함.|If at 50+ <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">Accumulated Past</color></link></u>, and if Core's HP is less than or equal to 80%, Core gains 200 HP by spending 50 <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">Accumulated Past</color></link></u>.
+419||[refraction2] Pasywka wroga [855502] — nazwa] 소실된 과거|Misplaced Past
+420||[refraction2] Pasywka wroga [855502] — opis] 몸통 부위 파괴 시, <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">축적된 과거</color></link></u> 전부 소모.\n몸통 부위 파괴 시, 다음 턴부터 이번 전투동안 몸통 부위가 모든 속성과 공격 유형에 대하여 내성(0.5)이 됨.|When the body is broken, spend all <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">Accumulated Past</color></link></u>.\nWhen the body is broken, all Attack Types and Affinities become ineffective(0.5) against the body starting next turn until the end of this encounter.
+421||[refraction2] Pasywka wroga [855503] — nazwa] 파괴된 배연 기관|Broken Exhaust Port
+422||[refraction2] Pasywka wroga [855503] — opis] 증기총 부위 파괴 시, 모든 부위의 호흡 전부 소모.\n증기총 부위가 파괴된 이후, <sprite name="Breath"><color=#f8c200><u><link="Breath">호흡</color></link></u>을 얻을 때마다 <sprite name="Vulnerable"><color=#e30000><u><link="Vulnerable">취약</color></link></u>을 <sprite name="Breath"><color=#f8c200><u><link="Breath">호흡</color></link></u>만큼 얻음.\n증기총 부위가 파괴된 이후, 매 공격 스킬 사용 시 호흡 1을 잃음.|When the Steam Blaster is broken, completely spend all parts' Poise.\nAfter the Steam Blaster is broken, gain <sprite name="Vulnerable"><color=#f8c200><u><link="Vulnerable">Fragile</color></link></u> equal to the number of <sprite name="Breath"><color=#e30000><u><link="Breath">Poise</color></link></u> every time this unit gains <sprite name="Breath"><color=#f8c200><u><link="Breath">Poise</color></link></u>.\nAfter the Steam Blaster is broken, lose 1 Poise every time this unit uses an Attack Skill.
+423||[refraction2] Pasywka wroga [855504] — nazwa] 굴절된 화상과 출혈|Refracted Burn and Bleed
+424||[refraction2] Pasywka wroga [855504] — opis] <sprite name="Combustion"><color=#e30000><u><link="Combustion">화상</color></link></u>과 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name="Combustion"><color=#e30000><u><link="Combustion">화상</color></link></u>과 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>의 횟수가 5까지만 누적됨.|<sprite name="Combustion"><color=#e30000><u><link="Combustion">Burn</color></link></u> and <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> Potency maxes out at 30.\n<sprite name="Combustion"><color=#e30000><u><link="Combustion">Burn</color></link></u> and <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> Count maxes out at 5.
+427||[refraction2] Pasywka wroga [855506] — nazwa] 새어나오는 증기|Leaking Steam
+428||[refraction2] Pasywka wroga [855506] — opis] 증기총 부위 피격 시, <sprite name="Breath"><color=#f8c200><u><link="Breath">호흡</color></link></u>과 호흡 횟수 1 감소|When the Steam Blaster is hit, lose 1 <sprite name="Breath"><color=#f8c200><u><link="Breath">Poise</color></link></u> and 1 Poise Count
+429||[refraction2] Pasywka wroga [855507] — nazwa] 겹쳐지는 과거|Overlapping Past
+430||[refraction2] Pasywka wroga [855507] — opis] 매 턴마다 축적된 과거 80당 공격 위력 증가 1 얻음.\n<sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">축적된 과거</color></link></u>가 80을 넘었다면, 슬롯 1개 추가.|Gain 1 Attack Power Up for every 80 Accumulated Past every turn.\nAt 80+ <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">Accumulated Past</color></link></u>, gain +1 Slot.
+431||[refraction2] Pasywka wroga [855508] — nazwa] 메트로놈|Metronome
+432||[refraction2] Pasywka wroga [855508] — opis] <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">축적된 과거</color></link></u>가 홀수이면 [Vulnerable]과 [AttackDmgUp]를 3 얻음\n짝수이면, [Protection]와 [AttackDmgDown]를 3 얻음|If the <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPastMirror">Accumulated Past</color></link></u> is an odd number, gain 3 [Vulnerable] and [AttackDmgUp]\nIf it is an even number, gain 3 [Protection] and [AttackDmgDown]
+433||[refraction2] Pasywka wroga [855601] — nazwa] 영원한 굴레|Eternal Yoke
+434||[refraction2] Pasywka wroga [855601] — opis] 최대 체력이 (순환 횟수 X 5)%만큼 증가.\n가하는 피해량이 (순환 횟수 X 5)%만큼 감소|Max HP increases by (Cycle Count X 5)%.\nDeal (Cycle Count X 5)% less damage
+435||[refraction2] Pasywka wroga [855602] — nazwa] 부서진 표지판|Broken Sign
+436||[refraction2] Pasywka wroga [855602] — opis] 표지판 부위가 파괴되면 장미의 최대 체력 감소|When the Sign is broken, Rose loses Max HP
+437||[refraction2] Pasywka wroga [855603] — nazwa] 흩어진 살점|Scattered Flesh
+438||[refraction2] Pasywka wroga [855603] — opis] 살 부위가 파괴되면 본체의 최대 체력 감소|When the flesh is broken, Core loses Max HP
+439||[refraction2] Pasywka wroga [855604] — nazwa] 하나의 덩쿨|Singular Vine
+440||[refraction2] Pasywka wroga [855604] — opis] 장미를 처치하면 본체와 살 부위의 체력이 30 감소.\n이후 이번 전투 동안 해당 죄악 속성의 내성이 0.1 증가함 (중첩 가능)|When a Rose is defeated, Core and Flesh lose 30 HP\nGain 0.1 Resistance to the corresponding Sin Affinity during this encounter (Stackable)
+441||[refraction2] Pasywka wroga [856401] — nazwa] 증오|Hatred
+442||[refraction2] Pasywka wroga [856401] — opis] 피격 시 마다 다음 턴에 공격 레벨 증가 1, 방어 레벨 감소 1을 얻음|When hit, gain 1 Offense Level Up and 1 Defense Level Down next turn
+443||[refraction2] Pasywka wroga [856402] — nazwa] 잔화|Embers
+444||[refraction2] Pasywka wroga [856402] — opis] 피격으로 사망 시 대상에게 받은 피해량만큼 피해를 주고, 화상 5 부여|When defeated by a direct hit, return the damage to the attacker and inflict 5 Burn
+445||[refraction2] Pasywka wroga [856403] — nazwa] 활짝 핀 죄악|Blossoming Sins
+446||[refraction2] Pasywka wroga [856403] — opis] 피어나는 죄 가 4가 되면 이번 전투동안 강화 상태가 됨|If at 4 Blooming Sin, enter Power-up state for this encounter
+447||[refraction2] Pasywka wroga [856404] — nazwa] 끓어오르는 분노|Boiling Wrath
+448||[refraction2] Pasywka wroga [856404] — opis] 강화 상태일 때 스킬의 효과로 부여하는 화상 +1.\n강화 상태에서 사망 시 모든 아군에게 화상 횟수 4 부여|During Power-up state, inflict +1 more Burn with Skill effects\nIf killed during Power-up state, inflict 4 Burn Count to all allies
+449||[refraction2] Pasywka wroga [856405] — nazwa] 덩쿨에 핀 장미|Rose on a Vine
+450||[refraction2] Pasywka wroga [856405] — opis] 장미 표지판 본체 잡으면 사망|Dies when the Core of Sign of Roses is killed
+451||[refraction2] Pasywka wroga [856501] — nazwa] 일방적 욕망|One-sided Desire
+452||[refraction2] Pasywka wroga [856501] — opis] 합 진행 시 최종 위력 -2, 일방 공격 시 최종 위력 +2|In a clash, Final Power -2; In an unopposed attack, Final Power +2
+455||[refraction2] Pasywka wroga [856503] — nazwa] 일렁이는 색욕|Shimmering Lust
+456||[refraction2] Pasywka wroga [856503] — opis] 강화 상태일 때 스킬의 효과로 부여하는 출혈 +1.\n강화 상태에서 사망 시 모든 아군에게 출혈 횟수 4 부여|During Power-up state, inflict +1 more Bleed with Skill effects\nIf killed during Power-up state, inflict 4 Bleed Count to all allies
+459||[refraction2] Pasywka wroga [856601] — nazwa] 무기력|Powerless
+460||[refraction2] Pasywka wroga [856601] — opis] 피격 시 다음 턴에 흐트러짐 상태가 아니면 보호 5를 얻음|When hit, gain 5 Protection next turn unless Staggered
+461||[refraction2] Pasywka wroga [856602] — nazwa] 노란 장미 2|Yellow Rose 2
+462||[refraction2] Pasywka wroga [856602] — opis] 피어남이 4가 되면 이번 전투동안 강화 상태가 됨|If at 4 Blooming Sin, enter Power-up state for this encounter
+463||[refraction2] Pasywka wroga [856603] — nazwa] 짓누르는 나태|Crushing Sloth
+464||[refraction2] Pasywka wroga [856603] — opis] 강화 상태일 때 스킬의 효과로 부여하는 진동 +1.\n강화 상태에서 사망 시 모든 아군에게 진동 횟수 4 부여|During Power-up state, inflict +1 more Tremor with Skill effects\nIf killed during Power-up state, inflict 4 Tremor Count to all allies
+465||[refraction2] Pasywka wroga [856604] — nazwa] 노란 장미 4|Yellow Rose 4
+467||[refraction2] Pasywka wroga [856701] — nazwa] 허기|Hunger
+468||[refraction2] Pasywka wroga [856701] — opis] 턴 종료 시 이번 턴에 피해를 주지 못한 경우 파열 취약 2를 얻음|If this unit fails to deal damage in a turn, gain 2 Rupture Fragility
+469||[refraction2] Pasywka wroga [856702] — nazwa] 초록 장미 2|Green Rose 2
+471||[refraction2] Pasywka wroga [856703] — nazwa] 자라나는 탐식|Growing Gluttony
+472||[refraction2] Pasywka wroga [856703] — opis] 강화 상태일 때 스킬의 효과로 부여하는 파열 +1.\n강화 상태에서 사망 시 모든 아군에게 파열 횟수 4 부여|During Power-up state, inflict +1 more Rupture with Skill effects\nIf killed during Power-up state, inflict 4 Rupture Count to all allies
+473||[refraction2] Pasywka wroga [856704] — nazwa] 초록 장미 4|Green Rose 4
+475||[refraction2] Pasywka wroga [856801] — nazwa] 불안|Anxiety
+476||[refraction2] Pasywka wroga [856801] — opis] 합 진행 시 최종 위력 +2, 일방 공격 시 최종 위력 -2|In a clash, Final Power +2; In an unopposed attack, Final Power -2
+477||[refraction2] Pasywka wroga [856802] — nazwa] 자기 파괴|Self Destruction
+478||[refraction2] Pasywka wroga [856802] — opis] 피격 시 다음 턴에 우울 내성이 약점(1.5)으로 변경되고, 보호 5 를 얻음|When hit, Gloom Resist turns into Gloom Weak(1.5) and gain 5 Protection
+479||[refraction2] Pasywka wroga [856803] — nazwa] 파란 장미 3|Blue Rose 3
+481||[refraction2] Pasywka wroga [856804] — nazwa] 일렁이는 우울|Shimmering Gloom
+482||[refraction2] Pasywka wroga [856804] — opis] 강화 상태일 때 스킬의 효과로 부여하는 침잠 +1.\n강화 상태에서 사망 시 모든 아군에게 침잠 횟수 4 부여|During Power-up state, inflict +1 more Sinking with Skill effects\nIf killed during Power-up state, inflict 4 Sinking Count to all allies
+483||[refraction2] Pasywka wroga [856805] — nazwa] 파란 장미 5|Blue Rose 5
+485||[refraction2] Pasywka wroga [856901] — nazwa] 비난|Outlash
+486||[refraction2] Pasywka wroga [856901] — opis] 매 턴 시작 시 아군에게 호흡 1, 호흡 횟수 1 부여|At the start of every turn, apply 1 Poise and 1 Poise count to allies
+487||[refraction2] Pasywka wroga [856902] — nazwa] 우월함|Superiority
+488||[refraction2] Pasywka wroga [856902] — opis] 이 유닛이 생존해있으면, 각 아군이 자신의 호흡 1 당 크리티컬 피해량 +5%|If this unit is alive, every ally gains +5% Critical Damage per Poise on self
+489||[refraction2] Pasywka wroga [856903] — nazwa] 남색 장미 3|Azure Rose 3
+491||[refraction2] Pasywka wroga [856904] — nazwa] 부풀어오른 오만|Overinflated Pride
+492||[refraction2] Pasywka wroga [856904] — opis] 강화 상태일 때 턴 시작 시, 스킬의 효과로 부여하는 호흡 +1.\n강화 상태에서 사망 시 모든 적에게 호흡 횟수 4 부여|If starting a turn in a Power-up state, gain +1 more Poise with Skill effects\nIf killed during Power-up state, apply 4 Poise Count to all enemies
+493||[refraction2] Pasywka wroga [856905] — nazwa] 남색 장미 5|Azure Rose 5
+495||[refraction2] Pasywka wroga [857001] — nazwa] 시기|Jealousness
+496||[refraction2] Pasywka wroga [857001] — opis] 매 턴 시작 시 무작위 아군 2명에게 충전 횟수 1 부여|At the start of the turn, apply 1 Charge Count to 2 random allies
+497||[refraction2] Pasywka wroga [857002] — nazwa] 열등감|Inferiority Complex
+498||[refraction2] Pasywka wroga [857002] — opis] 이 유닛이 생존해있으면, 각 아군이 자신의 충전 횟수 1 당 피해량 +5%|If this unit is alive, each ally gains +5% Critical Damage per Charge Count on self
+499||[refraction2] Pasywka wroga [857003] — nazwa] 보란 장미 3|Purple Rose 3
+501||[refraction2] Pasywka wroga [857004] — nazwa] 번뜩이는 질투|Glaring Envy
+502||[refraction2] Pasywka wroga [857004] — opis] 강화 상태일 때 턴 시작 시, 스킬의 효과로 부여하는 충전 횟수 +1.\n강화 상태에서 사망 시 모든 적에게 충전 횟수 4 부여|If starting a turn in a Power-up state, inflict +1 more Charge Count with Skill effects\nIf killed during Power-up state, apply 4 Charge Count to all enemies
+503||[refraction2] Pasywka wroga [857005] — nazwa] 보란 장미 5|Purple Rose 5
+508||[refraction2] Pasywka wroga [855606] — opis] 장미 표지판이 제압되면 함께 제압됨|Dies when Sign of Roses is defeated
+509||[refraction2] Pasywka wroga [854403] — nazwa] 옮겨붙는 불씨|Spreading Ember
+510||[refraction2] Pasywka wroga [854403] — opis] 턴 종료 시 자신에게 <sprite name="Combustion"><color=#e30000><u><link="Combustion">화상</color></link></u>이 있다면, <sprite name="WrappedCurseTagRe"><color=#a16a3b><u><link="WrappedCurseTagRe">얽혀온 저주 부적</color></link></u>을 가지고 있는 모든 대상에게 가지고 있는 <sprite name="Combustion"><color=#e30000><u><link="Combustion">화상</color></link></u>만큼 다음 턴에 화상 부여|At the end of the turn, if this unit has <sprite name="Combustion"><color=#e30000><u><link="Combustion">Burn</color></link></u>, inflict the same amount of <sprite name="Combustion"><color=#e30000><u><link="Combustion">Burn</color></link></u> to all units with <sprite name="WrappedCurseTagRe"><color=#a16a3b><u><link="WrappedCurseTagRe">Entangled Curse Talisman</color></link></u> next turn
+511||[refraction2] Pasywka wroga [855607] — nazwa] 죄를 머금은 가시 덩쿨|Sin-drenched Brambles
+512||[refraction2] Pasywka wroga [855607] — opis] 매 턴마다 모든 부위가 면류관 효과를 가진 수감자 수만큼 보호 를 얻음|Every turn, all parts gain Protection equal to the number of Sinners with the Crown of Thorns effect
+514||Umiejętność wroga [962201] (ulepszenie 1) — opis] [WhenUse] 대상에게 [WrappedCurseTagRe] 3 부여\n[DefeatDuel]\n- 이 스킬의 피해로 대상이 흐트러지지 않음\n- 대상의 [Burst]을 발동 시키지 않음|[WhenUse] Inflict 3 [WrappedCurseTagRe] on target\n\n[DefeatDuel]\n- Damage dealt by this Skill cannot Stagger the target\n- Does not activate [Burst] on target
+515||Umiejętność wroga [962201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+516||Umiejętność wroga [962201] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Burst] 2 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count
+518||Umiejętność wroga [962202] (ulepszenie 1) — opis] [WhenUse] 대상이 가지고 있는 [WrappedCurseTagRe]만큼 [WrappedCurseTagRe] 부여\n- 대상에게 [WrappedCurseTagRe]이 없으면 3 부여|[WhenUse] Inflict [WrappedCurseTagRe] equal to [WrappedCurseTagRe] on target\n- If target does not have [WrappedCurseTagRe], inflict 3 [WrappedCurseTagRe]
+519||Umiejętność wroga [962202] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Burst] and +2 [Burst] Count
+522||Umiejętność wroga [962203] (ulepszenie 1) — opis] [WhenUse] 가지고 있는 [ReattachedCurseTag_Re]이 10개 이상이면, 코인 위력 -1\n[WhenUse] 대상의 [WrappedCurseTagRe]이 3 이상이면, 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel]\n- 최종 위력 -10, 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음\n- 대상의 [Burst]을 발동 시키지 않음\n[EndBattle] [ReattachedCurseTag_Re] 전부 소멸|[WhenUse] At 10+ [ReattachedCurseTag_Re], Coin Power -1\n[WhenUse] If target has 3+ [WrappedCurseTagRe], convert all Coins on this Skill into [SuperCoin]s\n\n[DefeatDuel]\n- Final Power -10, deal -80% damage\n- Damage dealt by this Skill cannot Stagger the target\n- Does not activate [Burst] on target\n[EndBattle] All [ReattachedCurseTag_Re] expires
+523||Umiejętność wroga [962203] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 2 부여, [Burst] 횟수 1 증가|[OnSucceedAttack] Inflict 2 [Burst] and +1 [Burst] Count
+527||Umiejętność wroga [962203] (ulepszenie 1) — moneta 5, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 5 부여|[OnSucceedAttack] Inflict 5 [Paralysis] next turn
+528||Umiejętność wroga [962203] (ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 5 부여|[OnSucceedAttack] Inflict 5 [Binding] next turn

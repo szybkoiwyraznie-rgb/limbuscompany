@@ -1,0 +1,131 @@
+187||Umiejętność wroga [855101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 맞물리는 시간 1 부여|[OnSucceedAttack] Inflict 1 Interlocking Time
+188||Umiejętność wroga [855101] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 마비 3 부여|[OnSucceedAttackHead] Inflict 3 Paralyze
+189||Umiejętność wroga [855102] (ulepszenie 1) — nazwa] 시간 흡수|Siphon Time
+190||Umiejętność wroga [855102] (ulepszenie 1) — opis] 충전 횟수가 3당 스킬 위력 +1\n[WhenUse] 자신의 충전 횟수 4 증가|Skill Power +1 for every 3 Charge Count\n[WhenUse] Gain +4 Charge Count
+191||Umiejętność wroga [855102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 시간 대여 3 얻음|[OnSucceedAttack] Gain 3 Borrowed Time next turn
+192||Umiejętność wroga [855102] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 속박 3 부여|[OnSucceedAttack] Inflict 3 Bind next turn
+193||Umiejętność wroga [855103] (ulepszenie 1) — nazwa] 가속되는 순간|Accelerating Moment
+194||Umiejętność wroga [855103] (ulepszenie 1) — opis] <sprite name="TimeRental"><color=#f8c200><u><link="TimeRental">시간 대여</color></link></u>당 스킬 위력 +1\n[DefeatDuel] 자신의 충전 횟수 3 소모|Skill Power +1 for every <sprite name="TimeRental"><color=#f8c200><u><link="TimeRental">Borrowed Time</color></link></u>\n[DefeatDuel] Spend 3 Charge Count
+195||Umiejętność wroga [855103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 맞물리는 시간 2 부여|[OnSucceedAttack] Inflict 2 Interlocking Time
+197||Umiejętność wroga [855103] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] <sprite name="TimeRental"><color=#f8c200><u><link="TimeRental">시간 대여</color></link></u>당 피해량 +20%|[OnSucceedAttack] Deal +20% damage for every <sprite name="TimeRental"><color=#f8c200><u><link="TimeRental">Borrowed Time</color></link></u>
+198||Umiejętność wroga [855103] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신의 충전 횟수 4 증가|[OnSucceedAttack] Gain +4 Charge Count
+199||Umiejętność wroga [855104] (ulepszenie 1) — nazwa] 충전 방어|Charged Defense
+200||Umiejętność wroga [855104] (ulepszenie 1) — opis] [StartBattle] 자신의 충전 횟수 1 얻음|[StartBattle] Gain +1 Charge Count
+201||Umiejętność wroga [855501] (ulepszenie 1) — nazwa] 6463|6463
+202||Umiejętność wroga [855501] (ulepszenie 1) — opis] <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">축적된 과거</color></link></u> 50당 피해량 +10%|Deal +10% damage for every 50 <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">Accumulated Past</color></link></u>
+204||Umiejętność wroga [855502] (ulepszenie 1) — nazwa] 6753|6753
+206||Umiejętność wroga [855502] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여|[OnSucceedAttack] Inflict 3 [Paralysis] next turn
+207||Umiejętność wroga [855503] (ulepszenie 1) — nazwa] 853|853
+208||Umiejętność wroga [855503] (ulepszenie 1) — opis] [Breath]이 5이상이면, 합 위력 +1|At 5+ [Breath], Clash Power +1
+210||Umiejętność wroga [855503] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 피해량의 50%만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt
+211||Umiejętność wroga [855503] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">축적된 과거</color></link></u>당 피해량 +1% (최대 50%)|[OnSucceedAttack] Deal +1% damage for every <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">Accumulated Past</color></link></u> (Max 50%)
+212||Umiejętność wroga [855504] (ulepszenie 1) — nazwa] 5384|5384
+213||Umiejętność wroga [855504] (ulepszenie 1) — opis] [WhenUse] 모든 부위에 [Breath] 3, [Breath] 횟수 3을 얻음|[WhenUse] All parts gain 3 [Breath] and +3 [Breath] Count
+214||Umiejętność wroga [855504] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath]만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold equal to [Breath]
+215||Umiejętność wroga [855504] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 3당 피해량 +20% (최대 100%)|[OnSucceedAttack] Deal +20% damage per 3 [Breath] (Max 100%)
+216||Umiejętność wroga [855504] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 모든 부위에 [Breath] 4를 얻음|[OnSucceedAttack] Gain 4 [Breath] to all Parts
+217||Umiejętność wroga [855505] (ulepszenie 1) — nazwa] 6475384|6475384
+218||Umiejętność wroga [855505] (ulepszenie 1) — opis] [Breath]이 7이상이면, 코인 위력 +1|At 7+ [Breath], Coin Power +1
+219||Umiejętność wroga [855505] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath]이 5이상이면, 피해량의 50%만큼 흐트러짐 손상|[OnSucceedAttack] At 5+ [Breath], raise Stagger Threshold by 50% of damage dealt
+220||Umiejętność wroga [855505] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 모든 부위에 [Breath] 8, [Breath] 횟수 4를 얻음|[OnSucceedAttack] All Parts gain 8 [Breath] and +4 [Breath] Count
+221||Umiejętność wroga [855506] (ulepszenie 1) — nazwa] 974569A|974569A
+222||Umiejętność wroga [855506] (ulepszenie 1) — opis] [Breath]이 10이상이면, 스킬 위력 +2|At 10+ [Breath], Skill Power +2
+223||Umiejętność wroga [855506] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">축적된 과거</color></link></u>당 피해량 +1% (최대 200%)|[OnSucceedAttack] Deal +1% damage for every <sprite name="AccumulatedPast"><color=#a16a3b><u><link="AccumulatedPast">Accumulated Past</color></link></u> (Max 200%)
+224||Umiejętność wroga [855601] (ulepszenie 1) — nazwa] 영겁의 정원으로|To the Garden of Infinity
+225||Umiejętność wroga [855601] (ulepszenie 1) — opis] [CantDuel]\n[WhenUse] 면류관 부여. 자신에게 부여된 모든 효과 제거\n자신의 본체 체력이 40% 미만이면 다음 턴에 장미 유닛이 강화 상태 로 생성됨|[CantDuel]\n[WhenUse] Apply Crown of Thorns and eliminate all effects on self\nIf Core has less than 40% HP, Roses will spawn in Power-up States next turn
+226||Umiejętność wroga [855602] (ulepszenie 1) — nazwa] 정지|Stop
+227||Umiejętność wroga [855602] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 2, 진동 2 부여|[OnSucceedAttack] Inflict 2 Burn and 2 Tremor
+228||Umiejętność wroga [855602] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 마비 1 부여|[OnSucceedAttack] Inflict 1 Paralyze next turn
+231||Umiejętność wroga [855603] (ulepszenie 1) — nazwa] 구속|Captivity
+233||Umiejętność wroga [855603] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 3, 파열 3 부여|[OnSucceedAttack] Inflict 3 Bleed and 3 Rupture
+234||Umiejętność wroga [855603] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 체력이 가장 낮은 장미 유닛의 체력 10 회복|[OnSucceedAttack] Heal the Rose with the lowest HP percentages for 10 HP
+235||Umiejętność wroga [855604] (ulepszenie 1) — nazwa] 끝없는 피어남|Endless Blooming
+236||Umiejętność wroga [855604] (ulepszenie 1) — opis] 면류관이 없는 대상 우선 공격|Prioritizes enemies without Crown of Thorns
+237||Umiejętność wroga [855604] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 1, 속박 1 부여|[OnSucceedAttack] Inflict 1 Paralyze and 1 Bind next turn
+238||Umiejętność wroga [855604] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 면류관 부여|[OnSucceedAttack] Apply Crown of Thorns
+239||Umiejętność wroga [855604] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 본체의 체력 30 회복|[OnSucceedAttack] Core heals 30 HP
+240||Umiejętność wroga [855605] (ulepszenie 1) — nazwa] 단절의 벽|Wall Of Separation
+241||Umiejętność wroga [855605] (ulepszenie 1) — opis] 생존한 장미 유닛 당 위력 +2\n생존한 장미가 없으면 다음 턴에 취약 2를 얻음|Power +2 for each surviving Rose\nIf there are no surviving Roses, gain 2 Fragile next turn
+243||Umiejętność wroga [855606] (ulepszenie 1) — nazwa] 영원을 바라며|Wishing for Eternity
+244||Umiejętność wroga [855606] (ulepszenie 1) — opis] [StartBattle] 다음 턴에 무작위 장미 1개에게 공격 위력 증가 1 부여\n보호막이 있는동안 피격 시 공격자에게 침잠 1 부여|[StartBattle] Apply 1 Attack Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker
+245||Umiejętność wroga [855607] (ulepszenie 1) — nazwa] 함께 이 곳에서|Here, With You
+246||Umiejętność wroga [855607] (ulepszenie 1) — opis] [StartBattle] 다음 턴에 무작위 장미 1개에게 수비 위력 증가 1 부여\n보호막이 있는동안 피격 시 공격자에게 침잠 1 부여|[StartBattle] Apply 1 Defense Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker
+247||Umiejętność wroga [856401] (ulepszenie 1) — nazwa] 타오르는 분노|Burning Wrath
+248||Umiejętność wroga [856401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 2 부여|[OnSucceedAttack] Inflict 2 Burn
+251||Umiejętność wroga [856402] (ulepszenie 1) — nazwa] 흩날리는 분노|Scattering Wrath
+252||Umiejętność wroga [856402] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 횟수 2 증가|[OnSucceedAttack] Inflict +2 Burn Count
+254||Umiejętność wroga [856501] (ulepszenie 1) — nazwa] 다가오는 색욕|Approaching Lust
+255||Umiejętność wroga [856501] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 2 부여|[OnSucceedAttack] Inflict 2 Bleed
+256||Umiejętność wroga [856501] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 피해량의 50%만큼 흐트러짐 회복|[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt
+261||Umiejętność wroga [856502] (ulepszenie 1) — nazwa] 파고드는 색욕|Burrowing Lust
+262||Umiejętność wroga [856502] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 2 증가|[OnSucceedAttack] Inflict +2 Bleed Count
+265||Umiejętność wroga [856601] (ulepszenie 1) — nazwa] 굳어진 나태|Petrified Sloth
+266||Umiejętność wroga [856601] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 8 부여|[OnSucceedAttack] Inflict 8 Tremor
+267||Umiejętność wroga [856602] (ulepszenie 1) — nazwa] 완고한 나태|Stubborn Sloth
+269||Umiejętność wroga [856602] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 진동 폭발|[OnSucceedAttackHead] Trigger Tremor Burst
+270||Umiejętność wroga [856603] (ulepszenie 1) — nazwa] 잠든 나태|Slumbering Sloth
+271||Umiejętność wroga [856603] (ulepszenie 1) — opis] 보호막이 있는동안 피격 시 자신과 대상에게 진동 폭발|If attacked while Shielded, trigger Tremor Burst on self and the attacker
+272||Umiejętność wroga [856701] (ulepszenie 1) — nazwa] 게걸스런 탐식|Voracious Gluttony
+274||Umiejętność wroga [856702] (ulepszenie 1) — nazwa] 무성한 탐식|Prevalent Gluttony
+275||Umiejętność wroga [856702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 4 증가|[OnSucceedAttack] Inflict +4 Rupture Count
+276||Umiejętność wroga [856703] (ulepszenie 1) — nazwa] 쉼 없는 탐식|Restless Gluttony
+277||Umiejętność wroga [856703] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 피해량의 25%만큼 체력 회복|[OnSucceedAttack] Heal by 25% of damage dealt
+281||Umiejętność wroga [856801] (ulepszenie 1) — nazwa] 넘치는 우울|Overflowing Gloom
+282||Umiejętność wroga [856801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 6 부여|[OnSucceedAttack] Inflict 6 Sinking
+283||Umiejętność wroga [856802] (ulepszenie 1) — nazwa] 차오르는 우울|Rising Gloom
+284||Umiejętność wroga [856802] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 횟수 3 증가|[OnSucceedAttack] Inflict +3 Sinking Count
+286||Umiejętność wroga [856803] (ulepszenie 1) — nazwa] 감싼 우울|Embracing Gloom
+287||Umiejętność wroga [856803] (ulepszenie 1) — opis] 보호막이 있는동안 피격 시 자신과 대상에게 침잠 횟수 1 증가|If attacked while Shielded, inflict +1 Sinking Count on self and the attacker
+288||Umiejętność wroga [856901] (ulepszenie 1) — nazwa] 내뱉은 오만|Spouting Pride
+289||Umiejętność wroga [856901] (ulepszenie 1) — opis] [WhenUse] 모든 아군에게 호흡 3 부여|[WhenUse] Apply 3 Poise to all allies
+290||Umiejętność wroga [856902] (ulepszenie 1) — nazwa] 치켜든 오만|Erect Pride
+291||Umiejętność wroga [856902] (ulepszenie 1) — opis] [WhenUse] 모든 아군의 호흡 횟수 2 증가|[WhenUse] All allies gain +2 Poise Count
+292||Umiejętność wroga [856902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 호흡 횟수 1 증가|[OnSucceedAttack] Gain +1 Poise Count
+294||Umiejętność wroga [856903] (ulepszenie 1) — nazwa] 날 선 오만|Touchy Pride
+295||Umiejętność wroga [857001] (ulepszenie 1) — nazwa] 쌓이는 질투|Heaping Envy
+296||Umiejętność wroga [857001] (ulepszenie 1) — opis] [WhenUse] 자신의 충전 횟수 3 증가\n[DefeatDuel] 자신의 충전 횟수 3 소모|[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 3 Charge Count
+297||Umiejętność wroga [857001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 충전 횟수 1 증가|[OnSucceedAttack] Gain +1 Charge Count
+299||Umiejętność wroga [857002] (ulepszenie 1) — nazwa] 뻗어가는 질투|Spreading Envy
+300||Umiejętność wroga [857002] (ulepszenie 1) — opis] [WhenUse] 충전 횟수를 10 소모하여 코인 위력 +4|[WhenUse] Spend 10 Charge to gain +4 Coin Power
+301||Umiejętność wroga [856001] (ulepszenie 1) — nazwa] 차원 이동|Dimensional Leap
+302||Umiejętność wroga [856001] (ulepszenie 1) — opis] 이 차원이 남아있다면, 피해량이 10% 증가|If this 'Dimensional Rift' remains, deal +10% damage
+304||Umiejętność wroga [856101] (ulepszenie 1) — opis] 이 차원이 남아있다면, 최대 체력이 20% 증가|If this 'Dimensional Rift' remains, max HP +20%
+306||Umiejętność wroga [856201] (ulepszenie 1) — opis] 이 차원이 남아있다면, 속도 1 증가|If this 'Dimensional Rift' remains, gain 1 Speed
+308||Umiejętność wroga [856301] (ulepszenie 1) — opis] 이 차원이 남아있다면, 코인 위력 +1|If this 'Dimensional Rift' remains, Coin Power +1
+317||[refraction2] Pasywka wroga [853901] — nazwa] 부서진 우산|Broken Umbrella
+318||[refraction2] Pasywka wroga [853901] — opis] 몸통 부위 파괴 시, 매 턴마다 몸통 부위 피해량 감소 1 얻음|When the Body is broken, the Body gains 1 Damage Down every turn
+319||[refraction2] Pasywka wroga [853902] — nazwa] 다해진 우산|Ragged Umbrella
+320||[refraction2] Pasywka wroga [853902] — opis] 머리 부위 파괴 시, 매 턴마다 피해량 감소 1 얻음|When the Head is broken, gain 1 Damage Down every turn
+321||[refraction2] Pasywka wroga [853903] — nazwa] 마지막 발버둥|Last Struggle
+322||[refraction2] Pasywka wroga [853903] — opis] 체력이 전체 체력의 15%만큼 남았다면, 매 턴마다 속박 10, 공격 위력 감소 1 얻음\n새로 소환된 낡은 우산 체력 30% 증가. 매 턴마다 무언가를 찾는 울음소리 사용|At 15% HP, this unit gains 10 Bind and 1 Attack Power Down every turn\nNewly spawned Old Umbrellas have 30% more HP. Uses 'Cries Seeking Something' every turn.
+323||[refraction2] Pasywka wroga [853904] — nazwa] 허영된 마음|Vain Heart
+324||[refraction2] Pasywka wroga [853904] — opis] 1턴 시작 시 <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">보호 우산</color></link></u>을 2 얻음. (최대 6)\n<sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">보호 우산</color></link></u>을 얻을 때 "순환 횟수"만큼 추가로 얻음.\n보유중인 <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">보호 우산</color></link></u>만큼 <sprite name="Protection"><color=#f8c200><u><link="Protection">보호</color></link></u>를 얻음\n기다림 스킬이 슬롯에 있다면, 낡은 우산을 <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">보호 우산</color></link></u>만큼 소환|Gain 2 <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">Protection Umbrella</color></link></u> at the start of Turn 1 (max 6)\nGain additional <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">Protection Umbrella</color></link></u> equal to the number of "Cycle Counts"\nGain <sprite name="Protection"><color=#f8c200><u><link="Protection">Protection</color></link></u> equal to <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">Protection Umbrella</color></link></u>\nIf "Waiting Skill" is slotted, summon Old Umbrella equal to <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">Protection Umbrella</color></link></u>
+325||[refraction2] Pasywka wroga [853905] — nazwa] 굴절된 파열과 침잠|Refracted Rupture and Sinking
+326||[refraction2] Pasywka wroga [853905] — opis] <sprite name="Burst"><color=#e30000><u><link="Burst">파열</color></link></u>과 <sprite name="Sinking"><color=#e30000><u><link="Sinking">침잠</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name="Burst"><color=#e30000><u><link="Burst">파열</color></link></u>과 <sprite name="Sinking"><color=#e30000><u><link="Sinking">침잠</color></link></u>의 횟수가 5까지만 누적됨.|<sprite name="Burst"><color=#e30000><u><link="Burst">Rupture</color></link></u> and <sprite name="Sinking"><color=#e30000><u><link="Sinking">Sinking</color></link></u> Potency maxes out at 30.\n<sprite name="Burst"><color=#e30000><u><link="Burst">Rupture</color></link></u> and <sprite name="Sinking"><color=#e30000><u><link="Sinking">Sinking</color></link></u> Count maxes out at 5.
+327||[refraction2] Pasywka wroga [853906] — nazwa] 굴절 출혈 부과|Apply Refracted Bleed
+328||[refraction2] Pasywka wroga [853906] — opis] <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음. (순환[TabExplain] 버프는 해당하지 않음)|When gaining <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u>, gain 1 additional Potency and Count (does not apply on Cycle[TabExplain]-related buffs)
+329||[refraction2] Pasywka wroga [854001] — nazwa] 버려진 낡은 우산|Old and Abandoned
+330||[refraction2] Pasywka wroga [854001] — opis] 이 유닛이 인격에 의해 처치되면 다음 턴에 처치한 캐릭터 신속 2 얻음.\n떠돌이 여우 모든 부위에 속박 2 부여.\n떠돌이 여우에게 우산 파편 1 부여.|When this unit is defeated, the unit that defeated it gains 2 Haste next turn.\nAll Drifting Fox parts are inflicted with 2 Bind.\nApply 1 Umbrella Splinters to Drifting Fox.
+331||[refraction2] Pasywka wroga [854101] — nazwa] 쇠퇴한 생명력|Deteriorated Persistence
+332||[refraction2] Pasywka wroga [854101] — opis] 방어 스킬 사용 후 보호막 체력이 전부 소모되었다면, 다음 턴에 공격 레벨 감소 3, 취약 3을 얻음.|If Shield HP is fully depleted after using a Defense Skill, gain 3 Offense Level Down and 3 Fragile next turn
+333||[refraction2] Pasywka wroga [854102] — nazwa] 단단한 갑각|Solid Exoskeleton
+334||[refraction2] Pasywka wroga [854102] — opis] 머리가 부위 파괴 상태가 아니라면\n매 턴마다 몸통이 보호 3을 얻음.|If Head is not broken, the Body gains 3 Protection every turn
+335||[refraction2] Pasywka wroga [854104] — nazwa] 굴절된 충전|Refracted Charge
+336||[refraction2] Pasywka wroga [854104] — opis] 대상에게 충전이 있다면, 공격 적중 시 대상의 충전 횟수를 1 감소시키고 자가 충전 1을 얻음. (턴 당 3번)|On Hit: If target has Charge, reduce target's Charge Count by 1 and gain 1 Self-charge (3 times per turn)
+337||[refraction2] Pasywka wroga [854103] — nazwa] 굴절된 출혈과 진동|Refracted Bleed and Tremor
+338||[refraction2] Pasywka wroga [854103] — opis] <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>과 <sprite name="Vibration"><color=#e30000><u><link="Vibration">진동</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>과 <sprite name="Vibration"><color=#e30000><u><link="Vibration">진동</color></link></u>의 횟수가 5까지만 누적됨.|<sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> and <sprite name="Vibration"><color=#e30000><u><link="Vibration">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> and <sprite name="Vibration"><color=#e30000><u><link="Vibration">Tremor</color></link></u> Count maxes out at 5.
+339||[refraction2] Pasywka wroga [854105] — nazwa] 자가 충전|Self-charge
+340||[refraction2] Pasywka wroga [854105] — opis] 1턴 시작 시, 자가 충전 3을 얻음\n순환 횟수가 늘어날수록 얻는 자가 충전이 1씩 증가함. (최대 8)|Gain 3 Self-charge at the start of Turn 1\nGain 1 additional Self-charge for each Cycle Count (max 8)
+341||[refraction2] Pasywka wroga [854201] — nazwa] 세포 분열|Mitosis
+342||[refraction2] Pasywka wroga [854201] — opis] 팔 부위 파괴 시, 모든 부위 매 턴마다 공격 위력 감소 1 얻음.|When the arm is broken, all parts gain 1 Attack Power Down every turn.
+343||[refraction2] Pasywka wroga [854202] — nazwa] 눈독 들인 요정주|Enticing Fairy Wine
+344||[refraction2] Pasywka wroga [854202] — opis] 요정주가 있을 때, 모든 부위 <sprite name="Binding"><color=#e30000><u><link="Binding">속박</color></link></u>을 5 얻음.|When Fairy Wine is on the field, all Parts gain 5 <sprite name="Binding"><color=#e30000><u><link="Binding">Bind</color></link></u>
+347||[refraction2] Pasywka wroga [854204] — nazwa] 굴절 파열 부과|Apply Refracted Rupture
+348||[refraction2] Pasywka wroga [854204] — opis] <sprite name="Burst"><color=#e30000><u><link="Burst">파열</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음. (순환[TabExplain] 버프는 해당하지 않음)|When gaining <sprite name="Burst"><color=#e30000><u><link="Burst">Rupture</color></link></u>, gain 1 additional Potency and Count (does not apply on Cycle[TabExplain]-related buffs)
+349||[refraction2] Pasywka wroga [854301] — nazwa] 요정주|Fairy Wine
+350||[refraction2] Pasywka wroga [854301] — opis] 인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5를 부여.\n죽지 않았을 때, 신사 요정에게 다음 턴에 체력 10% 회복, 공격 위력 증가 2, 신속 2, 보호 2를 부여함.\n턴 종료 시 소멸|When defeated by an Identity, inflict 5 Tipsy on all Identities next turn\nIf not defeated, Fairy Gentleman heals 10% HP and gains 2 Attack Power Up, 2 Haste, and 2 Protection next turn\nExpires at Turn End
+351||[refraction2] Pasywka wroga [854401] — nazwa] 부서진 수단|Broken Means
+352||[refraction2] Pasywka wroga [854401] — opis] 팔 부위 파괴 시, 매 턴마다 팔 부위에 공격 위력 감소 1 얻음|When the Arm is broken, the Arm gains 1 Attack Power Down every turn
+353||[refraction2] Pasywka wroga [854402] — nazwa] 굴절 침잠 부과|Apply Refracted Sinking
+354||[refraction2] Pasywka wroga [854402] — opis] <sprite name="Sinking"><color=#e30000><u><link="Sinking">침잠</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음. (순환[TabExplain] 버프는 해당하지 않음)|When gaining <sprite name="Sinking"><color=#e30000><u><link="Sinking">Sinking</color></link></u>, gain 1 additional Potency and Count (does not apply on Cycle[TabExplain]-related buffs)
+355||[refraction2] Pasywka wroga [854501] — nazwa] 잃어버린 수단|Lost Means

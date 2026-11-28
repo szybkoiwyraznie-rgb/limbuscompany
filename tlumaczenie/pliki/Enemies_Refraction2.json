@@ -803,6 +803,30 @@
       "kr_sha256": "5f8b0265f73aa4ae3d62b734339f4e1b3d31c4bd922066e7d28bbf01e1ae19e6",
       "en_sha256": "466bb02f52d94eaf94caf6b4e3cff382cedaa83b82dc0b201298f518ba48ff7b",
       "origin": "ai"
+    },
+    "dataList[id=857001].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=857001].name": {
+      "pl": "Flower",
+      "kr_sha256": "1543c99e8fd9f44ded8ed7f857cbe972fb95d2e236d6f160c41083a149d650a6",
+      "en_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "origin": "ai"
+    },
+    "dataList[id=8570].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8570].name": {
+      "pl": "Refracted Envy-drenched Rose",
+      "kr_sha256": "6d5f2615aea647980df82e17e29ba531529f575d474598381945d9c921f0f1e8",
+      "en_sha256": "baa977b4a2bef55abc6f3b2c70e166a7047fe3d90344dcf34bb9f83591f3a74c",
+      "origin": "ai"
     }
   }
 }

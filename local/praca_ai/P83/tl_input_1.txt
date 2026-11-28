@@ -1,0 +1,131 @@
+1||[refraction2] Wróg / część [8570] — nazwa] 굴절된 질투를 머금은 장미|Refracted Envy-drenched Rose
+2||[refraction2] Wróg / część [8570] — opis] 본체|Core
+3||[refraction2] Wróg / część [857001] — nazwa] 꽃|Flower
+4||[refraction2] Wróg / część [857001] — opis] 부위|Part
+5||Umiejętność wroga [853901] (ulepszenie 1) — nazwa] 침울한 신음|Gloomy Moan
+6||Umiejętność wroga [853901] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 3 부여|[OnSucceedAttack] Inflict 3 Sinking
+7||Umiejętność wroga [853902] (ulepszenie 1) — nazwa] 몰아치는 침잠|Unrelenting Sinking
+8||Umiejętność wroga [853902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 횟수 2 증가|[OnSucceedAttack] Inflict +2 Sinking Count
+10||Umiejętność wroga [853903] (ulepszenie 1) — nazwa] 슬픔의 반동|Sorrowful Recoil
+11||Umiejętność wroga [853903] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 3 증가|[OnSucceedAttack] Inflict +3 Rupture Count
+12||Umiejętność wroga [853903] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 2 부여|[OnSucceedAttack] Inflict 2 Rupture
+13||Umiejętność wroga [853904] (ulepszenie 1) — nazwa] 슬픔의 격류|Sorrowful Torrent
+14||Umiejętność wroga [853904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|[OnSucceedAttack] Inflict +2 Rupture Count
+15||Umiejętność wroga [853904] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여|[OnSucceedAttack] Inflict 3 Rupture
+16||Umiejętność wroga [853904] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 파열 2 부여|[OnSucceedAttackHead] Inflict 2 Rupture
+17||Umiejętność wroga [853905] (ulepszenie 1) — nazwa] 무언가를 찾는 울음소리|Cries Seeking Something
+18||Umiejętność wroga [853905] (ulepszenie 1) — opis] 합 진행 시 살아있는 낡은 우산당 합 위력 +2\n낡은 우산당 피해량 +25%\n턴 종료 시 낡은 우산 모두 소멸\n턴 종료 시 1턴에 얻은 <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">보호 우산</color></link></u>만큼 <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">보호 우산</color></link></u>을 얻음|Clash Power +2 for every surviving Old Umbrella\nDeal +25% damage for every Old Umbrella\nAt the end of the turn, all Old Umbrella expire\nAt the end of the turn, gain <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">Protection Umbrella</color></link></u> equal to the number of <sprite name="WaveFoxUmbrella"><color=#f8c200><u><link="WaveFoxUmbrella">Protection Umbrella</color></link></u> gained in the first turn
+19||Umiejętność wroga [853905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 5 부여|[OnSucceedAttack] Inflict 5 Sinking
+20||Umiejętność wroga [853906] (ulepszenie 1) — nazwa] 기다림|Waiting
+21||Umiejętność wroga [853906] (ulepszenie 1) — opis] [StartBattle] 모든 적 정신력 -20|[StartBattle] All enemies lose 20 SP
+22||Umiejętność wroga [853907] (ulepszenie 1) — nazwa] 날카로운 반응|Volatile Response
+23||Umiejętność wroga [853907] (ulepszenie 1) — opis] [StartBattle] <sprite name="Thorn"><color=#a16a3b><u><link="Thorn">가시</color></link></u>를 얻음|[StartBattle] Gain <sprite name="Thorn"><color=#a16a3b><u><link="Thorn">Thorns</color></link></u>
+24||Umiejętność wroga [853908] (ulepszenie 1) — nazwa] 날카로운 반응|Volatile Reaction
+26||Umiejętność wroga [853909] (ulepszenie 1) — nazwa] 애원하는 울음소리|Pleading Cries
+27||Umiejętność wroga [853909] (ulepszenie 1) — opis] 합 진행 시 살아있는 낡은 우산당 합 위력 +2\n낡은 우산당 피해량 +25%|Clash Power +2 for every surviving Old Umbrella\nDeal +25% for every Old Umbrella
+29||Umiejętność wroga [854001] (ulepszenie 1) — nazwa] 흩뿌려지는 슬픔|Scattering Sorrow
+30||Umiejętność wroga [854001] (ulepszenie 1) — opis] [EndSkill] 모든 적의 파열 횟수 3, 침잠 횟수 3 증가|[EndSkill] Inflict +3 Rupture Count and +3 Sinking Count to all enemies
+31||Umiejętność wroga [854101] (ulepszenie 1) — nazwa] 전류 주입|Electric Load
+32||Umiejętność wroga [854101] (ulepszenie 1) — opis] [StartBattle] 자가 충전 2 얻음\n[DefeatDuel] 자가 충전 2 소모\n대상에게 <sprite name="Paralysis"><color=#e30000><u><link="Paralysis">마비</color></link></u>가 있다면 피해량 +10%|[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name="Paralysis"><color=#e30000><u><link="Paralysis">Paralyze</color></link></u>
+33||Umiejętność wroga [854101] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze next turn
+34||Umiejętność wroga [854102] (ulepszenie 1) — nazwa] 전기 방류|Electric Release
+37||Umiejętność wroga [854103] (ulepszenie 1) — nazwa] 전기 방출|Electric Discharge
+39||Umiejętność wroga [854103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 취약 2 부여|[OnSucceedAttack] Inflict 2 Fragile next turn
+40||Umiejętność wroga [854103] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 속박 2 부여|[OnSucceedAttackHead] Inflict 2 Bind next turn
+42||Umiejętność wroga [854104] (ulepszenie 1) — nazwa] 초고압 전기 방출|High-voltage Electric Discharge
+43||Umiejętność wroga [854104] (ulepszenie 1) — opis] [WhenUse] <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">자가 충전</color></link></u>이 5 이상이면, 초과된 <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">자가 충전</color></link></u>마다 피해량 +20%\n[WhenUse] <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">자가 충전</color></link></u>당 합 위력 +1\n[WhenUse] 자가 충전 전부 소모|[WhenUse] At 5+ <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">Self-charge</color></link></u>, deal +20% damage for each Count of <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">Self-charge</color></link></u> over 5\n[WhenUse] Clash Power +1 for every <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">Self-charge</color></link></u>\n[WhenUse] Spend all Self-charge
+44||Umiejętność wroga [854104] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 취약 3 부여|[OnSucceedAttack] Inflict 3 Fragile next turn
+45||Umiejętność wroga [854104] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 5 부여|[OnSucceedAttack] Inflict 5 Paralyze next turn
+46||Umiejętność wroga [854105] (ulepszenie 1) — nazwa] 똬리틀기|Coil Up
+47||Umiejętność wroga [854105] (ulepszenie 1) — opis] 이 스킬이 슬롯에 있을 때 머리 부위가 <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">자가 충전</color></link></u>당 50의 보호막 체력을 얻음.\n머리 부위가 파괴된 상태라면, <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">자가 충전</color></link></u>당 25의 보호막 체력을 얻음.\n자가 충전 1당 얻은 보호막 체력만큼 잃으면, 자가 충전 1씩 소모.|If this Skill is on a slot, head gains 50 Shield HP for every <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">Self-charge</color></link></u>.\nIf the head is broken, gain 25 Shield HP for every <sprite name="SelfCharge"><color=#a16a3b><u><link="SelfCharge">Self-charge instead.</color></link></u>\nSpend 1 Self-charge for every amount of Shield HP lost equal to the Shield HP gained for every Self-charge
+48||Umiejętność wroga [854106] (ulepszenie 1) — nazwa] 꿈틀거리는 머리|Wriggling Head
+49||Umiejętność wroga [854106] (ulepszenie 1) — opis] 체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 1 소모\n[DefeatDuel] 자가 충전 1 소모|Targets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 1 Self-charge
+51||Umiejętność wroga [854107] (ulepszenie 1) — nazwa] 꿈틀거리는 꼬리|Wriggling Tail
+52||Umiejętność wroga [854107] (ulepszenie 1) — opis] 체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 1 소모\n[DefeatDuel] 자가 충전 2 소모|Targets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 2 Self-charge
+54||Umiejętność wroga [854201] (ulepszenie 1) — nazwa] 취하고 싶나?|Wanna Get Drunk?
+55||Umiejętność wroga [854201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 5 부여, 진동 횟수 2 증가|[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count
+56||Umiejętność wroga [854202] (ulepszenie 1) — nazwa] 나눠 마시자!|Let's Share the Drink!
+57||Umiejętność wroga [854202] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여|[OnSucceedAttack] Inflict 2 Bind next turn
+58||Umiejętność wroga [854202] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 체력 5% 회복|[OnSucceedAttack] Heal 5% of Max HP
+59||Umiejętność wroga [854203] (ulepszenie 1) — nazwa] 남은건 이것 뿐이네!|This is All I Got!
+60||Umiejętność wroga [854203] (ulepszenie 1) — opis] <sprite name="Vibration"><color=#e30000><u><link="Vibration">진동</color></link></u>을 가진 대상 우선 공격|Prioritizes enemies with <sprite name="Vibration"><color=#e30000><u><link="Vibration">Tremor</color></link></u>
+61||Umiejętność wroga [854203] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 5 부여|[OnSucceedAttack] Inflict 5 Tremor
+62||Umiejętność wroga [854203] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 진동 횟수만큼 [VibrationExplosion]|[OnSucceedAttack] Trigger [VibrationExplosion] by target's Tremor Count
+63||Umiejętność wroga [854203] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 진동 횟수 전부 소모|[OnSucceedAttack] Spend all of target's Tremor Count
+64||Umiejętność wroga [854204] (ulepszenie 1) — nazwa] 이건 내가 먹어야지!|I'll Have This!
+65||Umiejętność wroga [854204] (ulepszenie 1) — opis] 대상에게 <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">취기</color></link></u>가 없다면, 합 위력 +8\n[WhenUse] 대상이 <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">취기</color></link></u>가 없다면, 피해량 +150%|If target has no <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">Tipsy</color></link></u>, Clash Power +8 \n[WhenUse] If target has no <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">Tipsy</color></link></u>, deal +150% damage
+66||Umiejętność wroga [854204] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">취기</color></link></u>가 5 이상이라면, 가하는 피해가 0이 됨.\n신사 요정이 다음 턴에 흐트러짐 상태가 됨.|[OnSucceedAttack] If target has 5+ <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">Tipsy</color></link></u>, deal 0 damage.\nFairy Gentleman will be Staggered next turn.
+67||Umiejętność wroga [854204] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">취기</color></link></u>를 전부 소모 시킴.|[OnSucceedAttack] Remove all <sprite name="Tipsiness"><color=#a16a3b><u><link="TipsinessRail">Tipsy</color></link></u>.
+68||Umiejętność wroga [854205] (ulepszenie 1) — nazwa] 이 요정주가 좋나?|You Like This Brew?
+69||Umiejętność wroga [854205] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 속박 3 얻음|[WhenUse] Gain 3 Bind next turn
+70||Umiejętność wroga [854206] (ulepszenie 1) — nazwa] 한 잔 할텐가?|Have a Swig!
+71||Umiejętność wroga [854206] (ulepszenie 1) — opis] [StartBattle] 다음 턴에 요정주 소환\n[DefeatDuel] 요정주 체력 70%로 소환됨|[StartBattle] Summon Fairy Wine next turn\n[DefeatDuel] Fairy Wine summoned at 70% HP
+73||Umiejętność wroga [854206] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 진동 폭발|[OnSucceedAttack] Trigger Tremor Burst
+74||Umiejętność wroga [854301] (ulepszenie 1) — nazwa] 달콤한 요정주|Sweet Fairy Wine
+75||Umiejętność wroga [854301] (ulepszenie 1) — opis] 인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5 부여|When killed by an Identity, apply 5 Tipsy to all Identities next turn
+76||Umiejętność wroga [854401] (ulepszenie 1) — nazwa] 얽혀가는 부적|Entangling Talisman
+77||Umiejętność wroga [854401] (ulepszenie 1) — opis] [WhenUse] 대상에게 얽혀온 저주 부적 3 부여|[WhenUse] Inflict 3 Entangled Curse Talisman
+78||Umiejętność wroga [854401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 2 부여. 파열 횟수 2 증가|[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn
+79||Umiejętność wroga [854402] (ulepszenie 1) — nazwa] 쌓여가는 저주|Cumulating Curse
+80||Umiejętność wroga [854402] (ulepszenie 1) — opis] [WhenUse] 대상이 가지고 있는 <sprite name="WrappedCurseTag"><color=#a16a3b><u><link="WrappedCurseTag">얽혀온 저주 부적</color></link></u>만큼 얽혀온 저주 부적 부여|[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name="WrappedCurseTag"><color=#a16a3b><u><link="WrappedCurseTag">Entangling Talisman</color></link></u> on target
+81||Umiejętność wroga [854402] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 5 부여. 파열 횟수 2 증가|[OnSucceedAttack] Inflict 5 Rupture and +2 Rupture Count next turn
+83||Umiejętność wroga [854403] (ulepszenie 1) — nazwa] 누구도 울지 않도록|So That No One Will Cry
+84||Umiejętność wroga [854403] (ulepszenie 1) — opis] [EndBattle] 다시 붙여진 저주 부적 전부 소멸\n[WhenUse] 가지고 있는 <sprite name="ReattachedCurseTag"><color=#a16a3b><u><link="ReattachedCurseTag">다시 붙여진 저주 부적</color></link></u>이 10개 이상이면, 코인 위력 -1|[EndBattle] Remove all Reattached Curse Talisman\n[WhenUse] If at 10+ <sprite name="ReattachedCurseTag"><color=#a16a3b><u><link="ReattachedCurseTag">Reattached Curse Talisman</color></link></u>, -1 Coin Power
+85||Umiejętność wroga [854403] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 2 부여|[OnSucceedAttack] Inflict 2 Rupture next turn
+90||Umiejętność wroga [854403] (ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 속박 5 부여|[OnSucceedAttack] Inflict 5 Bind next turn
+91||Umiejętność wroga [854404] (ulepszenie 1) — nazwa] 이전하는 부적|Transferring Talisman
+92||Umiejętność wroga [854404] (ulepszenie 1) — opis] [WhenUse] 대상의 <sprite name="WrappedCurseTag"><color=#a16a3b><u><link="WrappedCurseTag">얽혀온 저주 부적</color></link></u>을 전부 소멸.\n소멸시킨만큼 다시 붙여진 저주 부적 얻음\n[StartBattle] 모든 부위에 보호 3 얻음|[WhenUse] Remove all <sprite name="WrappedCurseTag"><color=#a16a3b><u><link="WrappedCurseTag">Entangled Curse Talisman</color></link></u> from target.\nGain Reattached Curse Talisman equal to number of Entangled Curse removed\n[StartBattle] All parts gain 3 Protection
+93||Umiejętność wroga [854405] (ulepszenie 1) — nazwa] 복제되는 저주|Proliferating Curse
+95||Umiejętność wroga [854501] (ulepszenie 1) — nazwa] 상처 훑기|Skim Wounds
+96||Umiejętność wroga [854501] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 출혈 횟수가 2이상일 때, 출혈 5 부여|[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed
+97||Umiejętność wroga [854501] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 출혈 횟수가 2이상일 때, 마비 1 부여|[OnSucceedAttack] If target has 2+ Bleed Count, inflict 1 Paralyze
+98||Umiejętność wroga [854501] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 출혈 횟수 4 증가|[OnSucceedAttack] Apply +4 Bleed Count
+99||Umiejętność wroga [854502] (ulepszenie 1) — nazwa] 옭아매인 상처|Entangled Injury
+100||Umiejętność wroga [854502] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed
+101||Umiejętność wroga [854503] (ulepszenie 1) — nazwa] 묻어오는 살점|Smeared Flesh
+103||Umiejętność wroga [854503] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>을 가지고 있다면, 체력 25 회복|[OnSucceedAttack] If target has <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u>, heal 25 HP
+104||Umiejętność wroga [854503] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 출혈 횟수가 2이상일 때 출혈 5 부여.|[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed
+106||Umiejętność wroga [854504] (ulepszenie 1) — nazwa] 드리우는 그늘|Casting Shade
+107||Umiejętność wroga [854504] (ulepszenie 1) — opis] [StartBattle] 다음 턴에 굴절된 클로버 생성.\n[DefeatDuel] 굴절된 클로버의 체력이 50%인 상태로 생성됨.|[StartBattle] Spawn a Refracted Clover next turn.\n[DefeatDuel] The Refracted Clover spawns with 50% HP.
+108||Umiejętność wroga [854504] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>당 피해량 +5%|[OnSucceedAttack] Deal +5% damage for every <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> on target
+109||Umiejętność wroga [854504] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 출혈 전부 소모|[OnSucceedAttack] Spend all of target's Bleed
+110||Umiejętność wroga [854505] (ulepszenie 1) — nazwa] 소화|Churning
+111||Umiejętność wroga [854505] (ulepszenie 1) — opis] [StartBattle] 모든 부위 보호 3 얻음.|[StartBattle] All parts gain 3 Protection.
+112||Umiejętność wroga [854505] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>당 자신의 전체 체력의 1%만큼 회복|[OnSucceedAttack] Heal 1% of Max HP for every <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> on target
+113||Umiejętność wroga [854505] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 출혈 횟수 1 소모|[OnSucceedAttack] Spend 1 Bleed Count from target
+131||Umiejętność wroga [854706] (ulepszenie 1) — opis] [StartBattle] 다음 턴에 요정주 소환\n[DefeatDuel] 요정주 체력 50%로 소환됨|[StartBattle] Summon Fairy Wine next turn\n[DefeatDuel] Fairy Wine summoned at 50% HP
+136||Umiejętność wroga [854901] (ulepszenie 1) — nazwa] 걸려든 미끼|Snagged Lure
+137||Umiejętność wroga [854901] (ulepszenie 1) — opis] [CantDuel] 요정이 살아있는 턴만큼 공격 가중치가 증가함.\n<sprite name="FairyCharm"><color=#a16a3b><u><link="FairyCharm">매혹</color></link></u>에 걸린 인격 우선 공격.|[CantDuel] +1 Atk Weight for every turn Fairy is alive.\nPrioritizes Identities with <sprite name="FairyCharm"><color=#a16a3b><u><link="FairyCharm">Charmed</color></link></u>.
+140||Umiejętność wroga [854901] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 본체, 몸통 체력 15 회복|[OnSucceedAttack] Core, Body heals 15 HP
+141||Umiejętność wroga [854902] (ulepszenie 1) — nazwa] 파고드는 뿌리|Burrowing Roots
+143||Umiejętność wroga [854902] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count
+144||Umiejętność wroga [854903] (ulepszenie 1) — nazwa] 확산하는 뿌리|Expanding Roots
+145||Umiejętność wroga [854903] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 5 부여|[OnSucceedAttack] Inflict 5 Rupture
+146||Umiejętność wroga [854903] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed
+147||Umiejętność wroga [854904] (ulepszenie 1) — nazwa] 잠식하는 줄기|Encroaching Stems
+148||Umiejętność wroga [854904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 파열 수치당 피해량 +5%|[OnSucceedAttack] Deal +5% damage for every Rupture on target
+149||Umiejętność wroga [854905] (ulepszenie 1) — nazwa] 드러난 심연|Uncovered Abyss
+150||Umiejętność wroga [854905] (ulepszenie 1) — opis] 대상에게 <sprite name="Burst"><color=#e30000><u><link="Burst">파열</color></link></u>이 5이상 있다면 피해량 +100%|Deal +100% damage to targets with 5+ <sprite name="Burst"><color=#e30000><u><link="Burst">Rupture</color></link></u>
+151||Umiejętność wroga [854906] (ulepszenie 1) — nazwa] 매혹된 자아|Charmed Consciousness
+152||Umiejętność wroga [854906] (ulepszenie 1) — opis] 요정초롱을 공격할 때 피해가 0이 된다.|Attacking Faelantern deals 0 damage.
+153||Umiejętność wroga [855001] (ulepszenie 1) — nazwa] 차원 베기|Dimensional Slice
+154||Umiejętność wroga [855001] (ulepszenie 1) — opis] [WhenUse] 자신의 충전 횟수 3 증가\n[DefeatDuel] 자신의 충전 횟수 2 소모|[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 2 Charge Count
+156||Umiejętność wroga [855002] (ulepszenie 1) — nazwa] 연속 차원 베기|Consecutive Dimensional Slice
+158||Umiejętność wroga [855002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 차원 균열 3 부여|[OnSucceedAttack] Inflict 3 Dimensional Rift
+160||Umiejętność wroga [855003] (ulepszenie 1) — nazwa] 부산물 뱉기|Discharge Byproducts
+161||Umiejętność wroga [855003] (ulepszenie 1) — opis] [DefeatDuel] 자신의 충전 횟수 2 소모|[DefeatDuel] Spend 2 Charge Count
+163||Umiejętność wroga [855004] (ulepszenie 1) — nazwa] 공간 절단|Rip Space
+164||Umiejętność wroga [855004] (ulepszenie 1) — opis] 충전 횟수가 10 이상이면, 충전 횟수 10을 소모하고 합 위력 +5, 피해량 +100%\n충전 횟수가 10 미만이면, 본체 체력 100을 소모함. 피해량 +80%\n이 스킬로는 체력이 0이 되지 않음.|At 10+ Charge Count, spend 10 Charge Count and gain Clash Power +5 and deal +100% damage\nAt 10- Charge Count, spend 100 Core HP and deal +80% damage\nThis skill does not reduce the unit's HP to 0.
+165||Umiejętność wroga [855004] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 자신의 충전 횟수 2 증가|[OnSucceedAttackHead] Gain +2 Charge Count
+169||Umiejętność wroga [855005] (ulepszenie 1) — nazwa] 준비된 반격|Prepared Retribution
+170||Umiejętność wroga [855005] (ulepszenie 1) — opis] [WhenUse] 자신의 충전 횟수 1 증가|[WhenUse] Gain +1 Charge Count
+173||Umiejętność wroga [855006] (ulepszenie 1) — nazwa] 부산물 토하기|Vomit Byproducts
+174||Umiejętność wroga [855006] (ulepszenie 1) — opis] [WhenUse] 대상에게 차원 균열이 있다면, 피해량 +10%\n[DefeatDuel] 자신의 충전 횟수 2 소모|[WhenUse] If target has Dimensional Rift, deal +10% damage\n[DefeatDuel] Spend 2 Charge Count
+175||Umiejętność wroga [855006] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 차원 균열 5 부여|[OnSucceedAttack] Inflict 5 Dimensional Rift
+176||Umiejętność wroga [855007] (ulepszenie 1) — nazwa] 고속 공간 절단|High-speed Rip Space
+177||Umiejętność wroga [855007] (ulepszenie 1) — opis] 가장 많이 가지고 있는 차원 효과만큼 합 위력이 증가\n자신이 가지고 있는 차원 효과만큼 피해량 +10%|Gain Clash Power equal to the number of Dimensional Rift effect with the highest stack\nDeal +10% damage for every Dimensional Rift effect on self
+179||Umiejętność wroga [855008] (ulepszenie 1) — nazwa] 기회 포착|Opportunity Spotted
+180||Umiejętność wroga [855008] (ulepszenie 1) — opis] [WhenUse] 대상에게 차원 균열이 있다면, 피해량 +20%|[WhenUse] If target has Dimensional Rift, +20% Damage
+182||Umiejętność wroga [855009] (ulepszenie 1) — nazwa] 틈새 공격|Rift Attack
+183||Umiejętność wroga [855009] (ulepszenie 1) — opis] [WhenUse] 대상에게 차원 균열이 있다면, 피해량 +10%|[WhenUse] If target has Dimensional Rift, +10% Damage
+185||Umiejętność wroga [855101] (ulepszenie 1) — nazwa] 맞물리는 순간|Interlocking Moment

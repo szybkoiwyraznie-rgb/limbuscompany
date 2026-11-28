@@ -1,0 +1,1180 @@
+{
+  "entries": {
+    "dataList[id=853901].desc": {
+      "pl": "gdy Korpus zostaje zniszczony, co turę Korpus zyskuje 1 Spadek Obrażeń",
+      "kr_sha256": "6af8c6bccf1fd3066c9ae9c80d29da039ce1d33325c1d409d27737d851dd0b45",
+      "en_sha256": "d173d53aac5ea14091fec781f8b3708be9d422903137280cc1ae057b4bb86ef8",
+      "origin": "ai"
+    },
+    "dataList[id=853901].name": {
+      "pl": "Broken Umbrella",
+      "kr_sha256": "d6bac045009b23b926fe5320813bb1fdef02c3435c192b71d05225d4f34e2884",
+      "en_sha256": "d53237529bdd6fe8c0e87117007a0a6f505986a38101dfe54d0f14057605cf88",
+      "origin": "ai"
+    },
+    "dataList[id=853902].desc": {
+      "pl": "gdy głowa zostaje zniszczona, co turę zyskuje 1 Spadek Obrażeń",
+      "kr_sha256": "12709a3fd3e1c772448142544d06233556c8a87250d6229238536416062940cc",
+      "en_sha256": "8ebd48d383adae3b64d750aea6c8ca4b4a1d5102463f811d370a2dad4263e90a",
+      "origin": "ai"
+    },
+    "dataList[id=853902].name": {
+      "pl": "Ragged Umbrella",
+      "kr_sha256": "afca826ff8816febf634ac8cbed4c56085817a47cb08bdf11897791f1a2f405e",
+      "en_sha256": "19df7709f86eda17ce94eafac5cf3b505ce70890b14b2dcb0d8447780e2f6e24",
+      "origin": "ai"
+    },
+    "dataList[id=853903].desc": {
+      "pl": "przy 15% HP, co turę zyskuje 10 Spętania i 1 Spadek Mocy Ataku\nnowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries Seeking Something'.",
+      "kr_sha256": "bd1f053e77fc4b9292cef031ef34561e2879dcbe59ee9e3005df620b01c2bd20",
+      "en_sha256": "3e6c3c499547c2514bd6a7f3abcc108b91a6f96677b727b8b68b16858498e645",
+      "origin": "ai"
+    },
+    "dataList[id=853903].name": {
+      "pl": "Last Struggle",
+      "kr_sha256": "2f0bbe9fed0e72c20037ab2fbd2013d3b5571c906b273699f5119219174b7288",
+      "en_sha256": "ab9ff22d9dabc95c46337b890b473e4c19a1afc1d72eb1d9f070d696599aefa5",
+      "origin": "ai"
+    },
+    "dataList[id=853904].desc": {
+      "pl": "na początku 1. tury zyskuje 2 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Ochronne Parasole</link></u></color>. (maks. 6)\nprzy zyskiwaniu <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Ochronne Parasole</link></u></color>, zyskuje dodatkowe w liczbie „Liczników Cycle”.\nprzy posiadaniu <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Ochronne Parasole</link></u></color>, zyskuje <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Ochrony</link></u></color> w tej samej liczbie\njeżeli Umiejętność „Waiting” jest na slocie, przywołuje Stare Parasole w liczbie <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Ochronne Parasole</link></u></color>",
+      "kr_sha256": "cb42dfcac253bdf7f9f363447eaeae90d2533266abbbd81a20fa595a0b1e57a6",
+      "en_sha256": "425dced322c1e117c68abc70a41d2cda71a51ca6dc82a6fc2de690f60fae6554",
+      "origin": "ai"
+    },
+    "dataList[id=853904].name": {
+      "pl": "Vain Heart",
+      "kr_sha256": "03b4b10a5bebd1ac6ee1f4322e029df413d5cc89057ded5dadd5f8e4660fe112",
+      "en_sha256": "fa66c1c527512667fc1257ed448c1c1f2587464232da7a0d49bddb1155b86ec4",
+      "origin": "ai"
+    },
+    "dataList[id=853905].desc": {
+      "pl": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> i <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcie</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> i <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcie</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "df455a4c0ec33faf50b9be9dd0a11bd6a59524f9be18b3a3353a02bb7b41c80e",
+      "en_sha256": "0b1c427f268aeb7fcd282710a0cd674b7fda2a7b24c45269c5fbe38c8caf2d13",
+      "origin": "ai"
+    },
+    "dataList[id=853905].name": {
+      "pl": "Refracted Rupture and Sinking",
+      "kr_sha256": "0b413e77c0b2aff4bb419d4329c98dbd4668d9a7752a1bcba2e87949190c1ad8",
+      "en_sha256": "49c8c2ee1bc37279d0ca75bb25029e002a9e03636b10f718d3e31aeb6ae9a949",
+      "origin": "ai"
+    },
+    "dataList[id=853906].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "f1332a3e97974057c8cf2fc234df932558345d73f39cfbd6da9b2b2a3a98e17b",
+      "en_sha256": "6ce12d38abffdbc4563842c71fb78243e9ced0b4f7fdaa8509016e3585029ce0",
+      "origin": "ai"
+    },
+    "dataList[id=853906].name": {
+      "pl": "Apply Refracted Bleed",
+      "kr_sha256": "d209ac6ea417ab0015d98cd0c7fdd8aa7dbbe17cc35255aca6ae5e01b98b5f6e",
+      "en_sha256": "90750fb8cf15e330cd17981a072538dc2e5c2d9022eef42c7a2d082329652225",
+      "origin": "ai"
+    },
+    "dataList[id=854001].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, pokonująca ją jednostka zyskuje 2 Pośpiechu w następnej turze.\nwszystkie Części Drifting Fox otrzymują 2 Spętania.\nnakłada 1 Odłamki Parasola na Drifting Fox.",
+      "kr_sha256": "70391ebd9889ed384d40173be7c1bf99c4d9ee38ce984cf30d87df7dbc852f2a",
+      "en_sha256": "ae4a9f5066bfd273e629f4589fb3adc909d4f815337bf05b03df1ef48a7755b4",
+      "origin": "ai"
+    },
+    "dataList[id=854001].name": {
+      "pl": "Old and Abandoned",
+      "kr_sha256": "ea8d5ac7f251c1d0f5bd406611f2725f181fa9a57d2ed60891e1da4274979178",
+      "en_sha256": "0f2c0b248dea247131aac23f8a2fe2a78171715381fbe6969a7e8525558f5598",
+      "origin": "ai"
+    },
+    "dataList[id=854101].desc": {
+      "pl": "jeżeli po użyciu Umiejętności obrony HP Tarczy zostało całkowicie zużyte, zyskuje 3 Spadek Poziomu Ataku i 3 Wrażliwości w następnej turze",
+      "kr_sha256": "c40e364ab6d7ee95a439fd947e20d17542ac5179fe8fcef5f7c08c3b2c201060",
+      "en_sha256": "22a53a9a7927518e42265add888aa83541437e96c1d751055a05cf9caf218cdd",
+      "origin": "ai"
+    },
+    "dataList[id=854101].name": {
+      "pl": "Deteriorated Persistence",
+      "kr_sha256": "4da9054b0e49ac742efb6e92ac35a5301d9b9b3c3619c6b12381e11b88bb02ef",
+      "en_sha256": "d3c6679bf0c8c560e3e94328490e5b11eb72aacd1fc1c1b55fc3731a14e33a06",
+      "origin": "ai"
+    },
+    "dataList[id=854102].desc": {
+      "pl": "jeżeli głowa nie jest zniszczona\nco turę Korpus zyskuje 3 Ochrony",
+      "kr_sha256": "00306d6f2600ae3ab0c0cb0c8e33b266f341b9175a98e79cf7ee29024c2e1941",
+      "en_sha256": "23a0c995b6032f9d46403d520627fa523e36c7ce4dd2150da7ed43b293da0391",
+      "origin": "ai"
+    },
+    "dataList[id=854102].name": {
+      "pl": "Solid Exoskeleton",
+      "kr_sha256": "12b14dc1fdf3ad229ae599419e247ec01cd27c1a02e33267ecc8f6e6b6f5571f",
+      "en_sha256": "c65ace31b45dd5f726a480da17ad2bdb012d5aa2cd4abb13c3a71bf96c8a738c",
+      "origin": "ai"
+    },
+    "dataList[id=854103].desc": {
+      "pl": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "14d096d88b47eb684354c02aadb909238f36853532b11e6879dcd4847797b7de",
+      "en_sha256": "45068235f635f1f7a7c4ce93921672d668436859293d03e41320092b1862c384",
+      "origin": "ai"
+    },
+    "dataList[id=854103].name": {
+      "pl": "Refracted Bleed and Tremor",
+      "kr_sha256": "10ac3510139b5dd0a23850de56f5cf8e0fd0af7650438971a7a1f2e232bb727c",
+      "en_sha256": "f7ceb9224629e0c0577bb5428a0902c84fba08f08ed637e6b4850a86d3876dbd",
+      "origin": "ai"
+    },
+    "dataList[id=854104].desc": {
+      "pl": "przy trafieniu: jeżeli cel ma Ładowanie, zmniejsza Licznik Ładowania celu o 1 i zyskuje 1 Samoładowania (3 razy na turę)",
+      "kr_sha256": "c5371ced87c49eee5f43978d31e835abff9eddb5163c1746f59536778064ed3c",
+      "en_sha256": "0319d3008057893aeb143225e347e141f5d6d0b26b183ebbeb803c000bddbd05",
+      "origin": "ai"
+    },
+    "dataList[id=854104].name": {
+      "pl": "Refracted Charge",
+      "kr_sha256": "2677cb5917acb76ec51778a016defc85f2e106576f017049dc3e0f58b2d6b785",
+      "en_sha256": "069e19ade65719bf6edc78d85221c644c6caad4347c1c3ffc9ca903ae2d32bc6",
+      "origin": "ai"
+    },
+    "dataList[id=854105].desc": {
+      "pl": "na początku 1. tury zyskuje 3 Samoładowania\nprzy każdej kolejnej Liczniku Cycle, zyskiwane Samoładowanie rośnie o 1. (maks. 8)",
+      "kr_sha256": "7a0bd92c22e135a61882c5a637764196c9f68d060f0fc803e5488fb68455f725",
+      "en_sha256": "35af0450f11ed3dbcc26611e7f3f6afefc5ec3a06e86279e59301708c1ad699b",
+      "origin": "ai"
+    },
+    "dataList[id=854105].name": {
+      "pl": "Self-charge",
+      "kr_sha256": "556815cf214eeb99bca075aa6394ba534acacbd71e41823a1e6d2144afd141cd",
+      "en_sha256": "90cba5698c17eb50c6d2ea1ead13c36960e63dcf74088336678d7dd1fa0712fd",
+      "origin": "ai"
+    },
+    "dataList[id=854201].desc": {
+      "pl": "gdy ramię zostaje zniszczone, wszystkie Części co turę zyskują 1 Spadek Mocy Ataku.",
+      "kr_sha256": "7437db5d6f1be08f19516ceb6a195dd571745d2381988401abebf087f2d310af",
+      "en_sha256": "f68fa2a955e64a086cbd34534cf37eef3c8b31919634beec41a7a0d0c68ba0b1",
+      "origin": "ai"
+    },
+    "dataList[id=854201].name": {
+      "pl": "Mitosis",
+      "kr_sha256": "4448afdcfca485bd92c61713db9760aa7518df6ceea2eee33ce2a4f2bcac8e8d",
+      "en_sha256": "e377f59b8e8953cadbb3a4c5b25c091835fad161c67ff4b6004358c1ff1325f2",
+      "origin": "ai"
+    },
+    "dataList[id=854202].desc": {
+      "pl": "gdy Fairy Wine jest na polu, wszystkie Części zyskują 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>",
+      "kr_sha256": "6869b1a2ac632f2f282b0919119c10f714812fe8ba6f544e522d686e74562196",
+      "en_sha256": "c4f2f276fccb76b65bcaed9ba8ed1f1d40c1ca6d8962a707cba594fcb4da3cd6",
+      "origin": "ai"
+    },
+    "dataList[id=854202].name": {
+      "pl": "Enticing Fairy Wine",
+      "kr_sha256": "90c17ff7950cf86f3be57c56e7964a3dd27852c2c3e10a931fb1ccdaec8251d4",
+      "en_sha256": "720509af750cc4a2b36b7687af0a4c50b745e9a69898f7cfbdbe9304089d6343",
+      "origin": "ai"
+    },
+    "dataList[id=854203].desc": {
+      "pl": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "14d096d88b47eb684354c02aadb909238f36853532b11e6879dcd4847797b7de",
+      "en_sha256": "45068235f635f1f7a7c4ce93921672d668436859293d03e41320092b1862c384",
+      "origin": "ai"
+    },
+    "dataList[id=854203].name": {
+      "pl": "Refracted Bleed and Tremor",
+      "kr_sha256": "10ac3510139b5dd0a23850de56f5cf8e0fd0af7650438971a7a1f2e232bb727c",
+      "en_sha256": "f7ceb9224629e0c0577bb5428a0902c84fba08f08ed637e6b4850a86d3876dbd",
+      "origin": "ai"
+    },
+    "dataList[id=854204].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcia</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "e924ffcc395e0b234c47a9534ec2a71caf2cdae3c2ef5786a77a78534068e84c",
+      "en_sha256": "db8c6254293fa2d5bce9836105202108064d34f298e70fdc8e3e585d4fbfb03e",
+      "origin": "ai"
+    },
+    "dataList[id=854204].name": {
+      "pl": "Apply Refracted Rupture",
+      "kr_sha256": "f994e7c2e1cc5ae579a3b0e8f964a659a484007405b9d3603318b29489fe8434",
+      "en_sha256": "de1aa17c7ff1365cee2aa62e1514277f271eafeef445cd7a3ea195ee4f78eed4",
+      "origin": "ai"
+    },
+    "dataList[id=854301].desc": {
+      "pl": "gdy pokonane przez Osobowość, nakłada 5 Pijackiego Nastroju wszystkim Osobowościom w następnej turze.\njeżeli nie pokonane, Fairy Gentleman przywraca 10% HP i zyskuje 2 Wzrost Mocy Ataku, 2 Pośpiechu i 2 Ochrony w następnej turze.\nwygasa na koniec tury",
+      "kr_sha256": "0256bc6d6173e32736e1ce84ad0e8efa60d25db7dcbd882eda0148226f64dd5c",
+      "en_sha256": "7a2ab0344c8c76686cfb1f8c39a2937a72bcfee49baa973e7ba9e4ac9e24555e",
+      "origin": "ai"
+    },
+    "dataList[id=854301].name": {
+      "pl": "Fairy Wine",
+      "kr_sha256": "8e8b5db1eb126bda14ac0a45ab8cb41439071c8dc247c42dac6f9a2ed0adb9e5",
+      "en_sha256": "7241d6136a309ddf6a1099ed2d7d8486868743cd3f8b2731e062e8e0a13ad2ff",
+      "origin": "ai"
+    },
+    "dataList[id=854401].desc": {
+      "pl": "gdy Ramię zostaje zniszczone, co turę Ramię zyskuje 1 Spadek Mocy Ataku",
+      "kr_sha256": "6bcc61ff5824b9c7341b19f554954e5af5672a9ce46ef56c6721f6e3e860300b",
+      "en_sha256": "6b650ccbbbe9ae326e8db7b48f2fcdf7b2884839a31f99516993f8574a15d04f",
+      "origin": "ai"
+    },
+    "dataList[id=854401].name": {
+      "pl": "Broken Means",
+      "kr_sha256": "cb05a1aef90fc448c30312189832f98227074646bc2d93f2bd156a6ef9e188af",
+      "en_sha256": "3e8b05cbf461d81c02fe086931ea10b6296431432c3803f2c5ecca031371893d",
+      "origin": "ai"
+    },
+    "dataList[id=854402].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcia</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "256faa4bd9f8d2c44b0fe40a1f152fb43b6ea2ef7962156e34bb2537ee3e24a3",
+      "en_sha256": "591942c4ae1f94e7ddb38b99a02557cf67700bd5042aaa45ce12422f9c90d61f",
+      "origin": "ai"
+    },
+    "dataList[id=854402].name": {
+      "pl": "Apply Refracted Sinking",
+      "kr_sha256": "ab8cdf2b80a1c5bf6d1fb158b0bac39f15ec1749dd9d37e38169deaea7d64eee",
+      "en_sha256": "04e58a16f82023b390ed1169e528b207db99de4557a42e44a05a8b83d23af847",
+      "origin": "ai"
+    },
+    "dataList[id=854403].desc": {
+      "pl": "na koniec tury, jeżeli ta jednostka ma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenie</link></u></color>, nakłada tyle samo <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> wszystkim jednostkom z <sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">Splątanym Talizmanem Przekleństwa</link></u></color> w następnej turze",
+      "kr_sha256": "57400e0bcd544bb97a49f0178ce673fb5bd048e54f17c519ef54277f841ce680",
+      "en_sha256": "dead90650734a98d2bb21adaa5ec5db76266413b98f2a1fc11ee785ab1c71cc8",
+      "origin": "ai"
+    },
+    "dataList[id=854403].name": {
+      "pl": "Spreading Ember",
+      "kr_sha256": "6fe888d5ac24950434a01f6203b67d336eb515e37577220a9074eeb8aedf1a47",
+      "en_sha256": "35a19f25bcf95b0f1c74dcb5cbfdf9fac895ee6bbfd79d8a2a27a57654a70e4b",
+      "origin": "ai"
+    },
+    "dataList[id=854501].desc": {
+      "pl": "gdy ramię zostaje zniszczone, jednostka co turę zyskuje 1 Spadek Mocy Ataku.",
+      "kr_sha256": "89ed6c4af914c6957f607441ac8aaf8aeb7a475a5ba356241c5aa40d1f9921e8",
+      "en_sha256": "795b9a104f4b0c949f34dfb66a32275f7ba53f439cd81688225606b34c727ffb",
+      "origin": "ai"
+    },
+    "dataList[id=854501].name": {
+      "pl": "Lost Means",
+      "kr_sha256": "e2b52848637b528a43d1f6623328a122db2c474f9668791dce95392af14c1599",
+      "en_sha256": "17ff7eafa69133324457add165ff7beb444733fe33e4b574d7b9df20611fa3c4",
+      "origin": "ai"
+    },
+    "dataList[id=854502].desc": {
+      "pl": "gdy głowa zostaje zniszczona, jednostka co turę zyskuje 2 Spadek Poziomu Obrony.",
+      "kr_sha256": "ba5a76ea604ad9a73f8187f67f1545b4c191237b8656be61ddb8f852293498fe",
+      "en_sha256": "15a8f714b1d5c2a4e8696d1c24ec1ebe76942c486729eea0b76e8b369a93b2f7",
+      "origin": "ai"
+    },
+    "dataList[id=854502].name": {
+      "pl": "Damaged Shade",
+      "kr_sha256": "4eaa70c8a4dc7247792c2a03da6177cb6174c5c742e5ab5f229c329540ff52e8",
+      "en_sha256": "37a0b8771236f4e3b1172c37c7831e58305bb2f4caee25feca45a9b96ad15caf",
+      "origin": "ai"
+    },
+    "dataList[id=854503].desc": {
+      "pl": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "14d096d88b47eb684354c02aadb909238f36853532b11e6879dcd4847797b7de",
+      "en_sha256": "45068235f635f1f7a7c4ce93921672d668436859293d03e41320092b1862c384",
+      "origin": "ai"
+    },
+    "dataList[id=854503].name": {
+      "pl": "Refracted Bleed and Tremor",
+      "kr_sha256": "10ac3510139b5dd0a23850de56f5cf8e0fd0af7650438971a7a1f2e232bb727c",
+      "en_sha256": "f7ceb9224629e0c0577bb5428a0902c84fba08f08ed637e6b4850a86d3876dbd",
+      "origin": "ai"
+    },
+    "dataList[id=854504].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcia</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "e924ffcc395e0b234c47a9534ec2a71caf2cdae3c2ef5786a77a78534068e84c",
+      "en_sha256": "db8c6254293fa2d5bce9836105202108064d34f298e70fdc8e3e585d4fbfb03e",
+      "origin": "ai"
+    },
+    "dataList[id=854504].name": {
+      "pl": "Apply Refracted Rupture",
+      "kr_sha256": "f994e7c2e1cc5ae579a3b0e8f964a659a484007405b9d3603318b29489fe8434",
+      "en_sha256": "de1aa17c7ff1365cee2aa62e1514277f271eafeef445cd7a3ea195ee4f78eed4",
+      "origin": "ai"
+    },
+    "dataList[id=854601].desc": {
+      "pl": "stosuje następujące efekty na Fairy-Long-Legs i Fairy Gentleman:\n- na początku tury: zyskuje 3 HP Healing Boost i 1 Wzrost Mocy Ataku\n- jeżeli Clover przetrwa 4+ tury, dodatkowo zyskuje 1 Wzrost Mocy Ataku i 2 Wzrost Obrażeń",
+      "kr_sha256": "cdc6af03c038f6dbf3a4dcecbd1a8cb368e5694d6b4f685d2c3cd82e55a41483",
+      "en_sha256": "bab71e04267c46bc0940f29d64da93a1a46c99a051aa7b063b818516986ab2b0",
+      "origin": "ai"
+    },
+    "dataList[id=854601].name": {
+      "pl": "Contaminating Leaf",
+      "kr_sha256": "a27d61ec6a55946d172f5f8a397c9d5f262d8ffbc69c6197bc9833b8a49bdf34",
+      "en_sha256": "eac64bf1ffd8334d0f7571ef0f57f7fce78100a5448a70207654f5119f84f549",
+      "origin": "ai"
+    },
+    "dataList[id=854701].desc": {
+      "pl": "gdy ramię zostaje zniszczone, jednostka co turę zyskuje 1 Spadek Mocy Ataku.",
+      "kr_sha256": "42d8ec543663b0bd23ce91bfec696a08cb16c97f904bdc50ef88eeff2c97a894",
+      "en_sha256": "795b9a104f4b0c949f34dfb66a32275f7ba53f439cd81688225606b34c727ffb",
+      "origin": "ai"
+    },
+    "dataList[id=854701].name": {
+      "pl": "Mitosis",
+      "kr_sha256": "4448afdcfca485bd92c61713db9760aa7518df6ceea2eee33ce2a4f2bcac8e8d",
+      "en_sha256": "e377f59b8e8953cadbb3a4c5b25c091835fad161c67ff4b6004358c1ff1325f2",
+      "origin": "ai"
+    },
+    "dataList[id=854702].desc": {
+      "pl": "gdy Fairy Wine jest na polu, wszystkie Części zyskują 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>",
+      "kr_sha256": "d6a6b5303a9f3dea111dbdf3279beb9d07e5d8fdb72ec31d96b5f5af227dfe46",
+      "en_sha256": "c4f2f276fccb76b65bcaed9ba8ed1f1d40c1ca6d8962a707cba594fcb4da3cd6",
+      "origin": "ai"
+    },
+    "dataList[id=854702].name": {
+      "pl": "Enticing Fairy Wine",
+      "kr_sha256": "90c17ff7950cf86f3be57c56e7964a3dd27852c2c3e10a931fb1ccdaec8251d4",
+      "en_sha256": "720509af750cc4a2b36b7687af0a4c50b745e9a69898f7cfbdbe9304089d6343",
+      "origin": "ai"
+    },
+    "dataList[id=854703].desc": {
+      "pl": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząs</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "14d096d88b47eb684354c02aadb909238f36853532b11e6879dcd4847797b7de",
+      "en_sha256": "45068235f635f1f7a7c4ce93921672d668436859293d03e41320092b1862c384",
+      "origin": "ai"
+    },
+    "dataList[id=854703].name": {
+      "pl": "Refracted Bleed and Tremor",
+      "kr_sha256": "10ac3510139b5dd0a23850de56f5cf8e0fd0af7650438971a7a1f2e232bb727c",
+      "en_sha256": "f7ceb9224629e0c0577bb5428a0902c84fba08f08ed637e6b4850a86d3876dbd",
+      "origin": "ai"
+    },
+    "dataList[id=854704].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcia</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "e924ffcc395e0b234c47a9534ec2a71caf2cdae3c2ef5786a77a78534068e84c",
+      "en_sha256": "db8c6254293fa2d5bce9836105202108064d34f298e70fdc8e3e585d4fbfb03e",
+      "origin": "ai"
+    },
+    "dataList[id=854704].name": {
+      "pl": "Apply Refracted Rupture",
+      "kr_sha256": "f994e7c2e1cc5ae579a3b0e8f964a659a484007405b9d3603318b29489fe8434",
+      "en_sha256": "de1aa17c7ff1365cee2aa62e1514277f271eafeef445cd7a3ea195ee4f78eed4",
+      "origin": "ai"
+    },
+    "dataList[id=854801].desc": {
+      "pl": "gdy pokonane przez Osobowość, nakłada 5 Pijackiego Nastroju wszystkim Osobowościom w następnej turze.\njeżeli nie pokonane, Fairy Gentleman przywraca 10% HP i zyskuje 2 Wzrost Mocy Ataku, 2 Pośpiechu i 2 Ochrony w następnej turze.\nwygasa na koniec tury",
+      "kr_sha256": "0256bc6d6173e32736e1ce84ad0e8efa60d25db7dcbd882eda0148226f64dd5c",
+      "en_sha256": "7a2ab0344c8c76686cfb1f8c39a2937a72bcfee49baa973e7ba9e4ac9e24555e",
+      "origin": "ai"
+    },
+    "dataList[id=854801].name": {
+      "pl": "Fairy Wine",
+      "kr_sha256": "8e8b5db1eb126bda14ac0a45ab8cb41439071c8dc247c42dac6f9a2ed0adb9e5",
+      "en_sha256": "7241d6136a309ddf6a1099ed2d7d8486868743cd3f8b2731e062e8e0a13ad2ff",
+      "origin": "ai"
+    },
+    "dataList[id=854901].desc": {
+      "pl": "nakłada Charmed na wroga z najniższą Szybkością\nliczba celów rośnie z każdym Licznikiem Cycle\nliczba celów rośnie, gdy Wróżka odrasta",
+      "kr_sha256": "70a736b5c5dd0bb2b6ea91793dc4ecc63a4f4d6674fbecd6faed0a5e3ecec869",
+      "en_sha256": "c640a88ada3c7947ef6953ba4fa70ebf08399c128a7fc6ca94de164d200c4076",
+      "origin": "ai"
+    },
+    "dataList[id=854901].name": {
+      "pl": "Charmed",
+      "kr_sha256": "097f1aa8be5b256c267bd6ff581b405d5d6f9c74c37207bd6c82001e7bb87dc4",
+      "en_sha256": "50eab20d532813f1032dc98d75780da077915e0d1ea23287152cbdbb04e3123d",
+      "origin": "ai"
+    },
+    "dataList[id=854902].desc": {
+      "pl": "odkrywa Korpus, gdy Wróżka zostaje zniszczona\nwszystkie Buffy i Debuffy wygasają, gdy Korpus ponownie się ukryje",
+      "kr_sha256": "ded413575237c70cf549bf498198e486e207f6902cdd1576eee4a50c5f3e8dc2",
+      "en_sha256": "7c05a715fa1f041dfaa12d2ee807bea1765cd2c0ed3ac6a3eeae9a46b91307f7",
+      "origin": "ai"
+    },
+    "dataList[id=854902].name": {
+      "pl": "Uncovered Abyss",
+      "kr_sha256": "0e7ceb54804ad594cb69763af3b5813f1bf3221d1321fa80c72ef557317b8405",
+      "en_sha256": "6707a4fc853592d6b7ce2c8b7e966596463360cae58382f311dcfb4b7278e554",
+      "origin": "ai"
+    },
+    "dataList[id=854903].desc": {
+      "pl": "atakowanie Wróżki nie zużywa HP Core.\nzwiększa liczbę slotów ataku w zależności od liczby jednostek z <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Charmed</link></u></color>.",
+      "kr_sha256": "b8b4b7e4c6dbc3e3747ee07356c121e3282e1e977079acdb93db8cf6febdbea4",
+      "en_sha256": "5b9b85201cf52d5dbe5bae716494aaf43a507a8d80508a5fbfda2fc6fefe7ce7",
+      "origin": "ai"
+    },
+    "dataList[id=854903].name": {
+      "pl": "Leading Lure",
+      "kr_sha256": "bd14e67dedddccce0a3a18c6f90345862c4f9f88fde29b10d5950c6e15678ee4",
+      "en_sha256": "21eec32ac748cc668d82c5da7c335c688e20ca8b142b6b1254f9cd2ed917c954",
+      "origin": "ai"
+    },
+    "dataList[id=854904].desc": {
+      "pl": "gdy Korpus zostaje zniszczony:\n- Wróżka będzie miała 60% Maks. HP po odrośnięciu\n- Core przywraca o 20 więcej HP z efektów Umiejętności",
+      "kr_sha256": "fb072dc59dd04d2de1da77b98eb9cf5e5b6707eec1c178a65b40a892865aafff",
+      "en_sha256": "f4303f5478337be53015600a880ca2d18426301ac6c0aa25eb659f44c74f8401",
+      "origin": "ai"
+    },
+    "dataList[id=854904].name": {
+      "pl": "Broken Stump",
+      "kr_sha256": "18d051611245676c89083ce5741b33861f295133f155e58860491bcdd190d968",
+      "en_sha256": "414669f7869733e506126a4ed743a76c14b5e1141eacc74bdfb237d4a6d1f1e4",
+      "origin": "ai"
+    },
+    "dataList[id=854905].desc": {
+      "pl": "Wróżka zyskuje +20% Maks. HP po odrośnięciu.",
+      "kr_sha256": "ef91199debd85752b84bf80ab7b390f769513071a5f3bb57dde9435cc93c6bf5",
+      "en_sha256": "7f4af83593f2c7a86a05bbdbc1b26c61d6091acc1869328be85d854dec9933ff",
+      "origin": "ai"
+    },
+    "dataList[id=854905].name": {
+      "pl": "Evolving Lure",
+      "kr_sha256": "6a75ab50eefcc2ab8a71c5d27f4bc3a4d8a8bb9355e6da9c7f3ee2a5c99f4926",
+      "en_sha256": "55e3a7e57862951c0df008d71c6d4014dc344f253547aad0e3260a3510d98cc3",
+      "origin": "ai"
+    },
+    "dataList[id=854906].desc": {
+      "pl": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> i <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcie</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> i <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcie</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "df455a4c0ec33faf50b9be9dd0a11bd6a59524f9be18b3a3353a02bb7b41c80e",
+      "en_sha256": "0b1c427f268aeb7fcd282710a0cd674b7fda2a7b24c45269c5fbe38c8caf2d13",
+      "origin": "ai"
+    },
+    "dataList[id=854906].name": {
+      "pl": "Refracted Rupture and Sinking",
+      "kr_sha256": "0b413e77c0b2aff4bb419d4329c98dbd4668d9a7752a1bcba2e87949190c1ad8",
+      "en_sha256": "49c8c2ee1bc37279d0ca75bb25029e002a9e03636b10f718d3e31aeb6ae9a949",
+      "origin": "ai"
+    },
+    "dataList[id=854907].desc": {
+      "pl": "gdy Wróżka ginie, wszystkie Osobowości zyskują 5 Poise i 2 Liczniki Poise w następnej turze",
+      "kr_sha256": "7faf6abb707af7a90eb2ddffb715a731a65db23d8202fe68be05d7b502a1a7e5",
+      "en_sha256": "512a2d921fdc8137cbde47d0ebd1e776d843d02b80062857f181007b899f3db5",
+      "origin": "ai"
+    },
+    "dataList[id=854907].name": {
+      "pl": "Fairy Dust",
+      "kr_sha256": "ed3744540f1e200974811a3554b475e324abbaae477408675fc68725343a587e",
+      "en_sha256": "787b5e39da68c74739a33e66612f54d332e51d88fc8af37c24b27d9e77057981",
+      "origin": "ai"
+    },
+    "dataList[id=855001].desc": {
+      "pl": "od 2. tury, co kilka tur ucieka do 'Dimensional Rift'.\ngdy wszystkie Części są Oszołamione, ucieka do 'Dimensional Rift' w następnej turze.\npo ukryciu się w 'Dimensional Rift' nie może być Oszołamiona.\ngdy HP Core wynosi 30% lub mniej, nie ucieka do 'Dimensional Rift'.",
+      "kr_sha256": "1da70a830c68d532740148cb06ad77c55b8e24f318c3a9e68ab483a9f260d2dc",
+      "en_sha256": "1b3872782bef3bde51d96b09e3c6b985125cd550959edc3cbe94fe3984608f93",
+      "origin": "ai"
+    },
+    "dataList[id=855001].name": {
+      "pl": "Dimensional Escape",
+      "kr_sha256": "f794395f7b24303e4d9cb3c802846787debadf467117e80a1f3d0ba4178b9798",
+      "en_sha256": "f38d7e02d1486d2602c739fd6280e00ee48e456aef2a56058341dbfd3182b8bf",
+      "origin": "ai"
+    },
+    "dataList[id=855002].desc": {
+      "pl": "gdy wszystkie 'Dimensional Rifts' zostaną zniszczone w tej samej turze, w której powstały, dobrowolnie wychodzi z 'Dimensional Rift' w następnej turze.\npóźniej traci 5 Liczników Ładowania i podnosi Próg Oszołomienia o 30 na wszystkich Częściach.",
+      "kr_sha256": "bfaaccc6471e7956238537a20144a948c605250aa344343be74fec7a2d8433e3",
+      "en_sha256": "e63d0ea52416af891b6a6b0c7b987feb6a33bbd0a3a073b1c163005219286811",
+      "origin": "ai"
+    },
+    "dataList[id=855002].name": {
+      "pl": "Trapped Dimensional Escape",
+      "kr_sha256": "040cc9c6d835fd9c4b831531b9a06b5008c768b199822d0c725d6fa2c7dcc82e",
+      "en_sha256": "c2d6322eade19675e1fc01d29cf554df9a74843881b7bf67dded8753df82a292",
+      "origin": "ai"
+    },
+    "dataList[id=855003].desc": {
+      "pl": "gdy Część-Ostrze zostaje zniszczona, traci 5 Liczników Ładowania,\na na koniec następnej tury odnawia Część-Ostrze, zużywając 2 Liczniki Ładowania.\ngdy Część-Ostrze jest zniszczona, co turę na początku tury zyskuje 2 Spadek Poziomu Ataku.",
+      "kr_sha256": "12dd5ec43dc9be50dcf950f2724ba546f3067ef6a55bd3da328ed83a15299829",
+      "en_sha256": "748c00b2de20c865e14ff9f5351e87a3b88f229fe109418dbcc0e034b10327f0",
+      "origin": "ai"
+    },
+    "dataList[id=855003].name": {
+      "pl": "Regenerate Dimensional Refraction Blade",
+      "kr_sha256": "2a10d1487644b4a846ca6399a604d8bb00d6fa3fa3690740e2735cfd77773485",
+      "en_sha256": "11c86b14fec53c1a92d625f8496d8e24310696782be3d8c435c27b9fdb0cb22e",
+      "origin": "ai"
+    },
+    "dataList[id=855004].desc": {
+      "pl": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenie</link></u></color> i <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenie</link></u></color> i <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "a1f71873bca501a7c1a17dfa24edef677e88a92c962de0eec05811ddd10fb42d",
+      "en_sha256": "b6cb2292bbedc61338308d4396d85afdeea82c392c3db18f954d1708847080dd",
+      "origin": "ai"
+    },
+    "dataList[id=855004].name": {
+      "pl": "Refracted Burn and Rupture",
+      "kr_sha256": "feb1bc2bbe9d0627c1536486f75277c72775a7192f35714df0e321d9324e578d",
+      "en_sha256": "e0e755fecb430db742a5ab2245b176982604558dd53bb72bb7fd27d11d96bf1a",
+      "origin": "ai"
+    },
+    "dataList[id=855005].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Wstrząsu</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "69268c5576e7c67b2c4a183bbb519cee222fd0096e4e16b5900c5ac196cd6b1b",
+      "en_sha256": "aac16ac45eb390823ed49e9906f2376b0491a271f2a8b5cf0ee0360454c1f4cf",
+      "origin": "ai"
+    },
+    "dataList[id=855005].name": {
+      "pl": "Apply Refracted Tremor",
+      "kr_sha256": "2bd288b9df403f28ae588ffb7857a450b16661532366f282a1a5fbb3bab22c71",
+      "en_sha256": "9b45ee6daa860d029cd7c1a232b5f50d14b48095f02bc833a8b558fe6bebd1cd",
+      "origin": "ai"
+    },
+    "dataList[id=855101].desc": {
+      "pl": "na koniec tury, jeżeli HP wynosi między 6% a 24%, Core i Części natychmiast przywracają do 80% Maks. HP i dochodzą do siebie z Oszołamienia. (tylko 1 raz)",
+      "kr_sha256": "5d45eacd312b5a64573f8033f76e7cbc187728e2cbc83f104783ea6cd423c77e",
+      "en_sha256": "5242817772b855b88c9c18fe7a6ab4206a587560145c9544a4fe9b1a46fd0e0b",
+      "origin": "ai"
+    },
+    "dataList[id=855101].name": {
+      "pl": "Golden Time",
+      "kr_sha256": "395b4602b213a676728c9a37e44a39747ba23614e4353bec0a6fe379777b18c0",
+      "en_sha256": "242f54ec1a96418ad1600ff385153cf43cbd14d0ab31b4f3f849aeac6c33f70c",
+      "origin": "ai"
+    },
+    "dataList[id=855102].desc": {
+      "pl": "po uaktywnieniu Golden Time, zyskuje 2 Wrażliwości na początku tury.",
+      "kr_sha256": "e693fbe5f057563593784394c216306c828e28157095ead7eeb54d2d9387a572",
+      "en_sha256": "790333e14c2b19f962a7d1c662d08f628373a70817966fa19c00856ad7c80231",
+      "origin": "ai"
+    },
+    "dataList[id=855102].name": {
+      "pl": "Time Reversion Retroaction",
+      "kr_sha256": "28ba094342628d7ac6e1abd3e08aca67586907216c7887806c233a846b13c20f",
+      "en_sha256": "cac6e83835dcec8854be5252cd7a02b99ded71ef8c63abfa393092663b2ea09b",
+      "origin": "ai"
+    },
+    "dataList[id=855103].desc": {
+      "pl": "jeżeli na koniec tury ma 5+ Liczników Ładowania, zyskuje 3 Wzrost Obrażeń w następnej turze",
+      "kr_sha256": "9381ffd70d6bc4de0f12e8a154477617e0d3c5e555332ff67d6a11c64abf19de",
+      "en_sha256": "426aed3662e132e57d7308ab5bc192920666ad6c3f5a0ace98414f58d530f7f1",
+      "origin": "ai"
+    },
+    "dataList[id=855103].name": {
+      "pl": "Overcharge",
+      "kr_sha256": "165b42ad8d5c4f0497c8270c9c5ef5f7a9ca03687e842577efa47bc1b7c3cd4f",
+      "en_sha256": "4482985c50f6c74d3357d8e0ffbcf1b5a90a90b65fe386b7594ec73f8c32fcde",
+      "origin": "ai"
+    },
+    "dataList[id=855104].desc": {
+      "pl": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> i <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcie</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rozdarcie</link></u></color> i <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcie</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "df455a4c0ec33faf50b9be9dd0a11bd6a59524f9be18b3a3353a02bb7b41c80e",
+      "en_sha256": "0b1c427f268aeb7fcd282710a0cd674b7fda2a7b24c45269c5fbe38c8caf2d13",
+      "origin": "ai"
+    },
+    "dataList[id=855104].name": {
+      "pl": "Refracted Rupture and Sinking",
+      "kr_sha256": "0b413e77c0b2aff4bb419d4329c98dbd4668d9a7752a1bcba2e87949190c1ad8",
+      "en_sha256": "49c8c2ee1bc37279d0ca75bb25029e002a9e03636b10f718d3e31aeb6ae9a949",
+      "origin": "ai"
+    },
+    "dataList[id=855105].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "ca2f64aca7bbba81e98f69f12d6f78d1cb8f040f7bd8cbbde419ceb92ee10885",
+      "en_sha256": "905bd4ffd1454db4449d59846f63e6b74a32d307a7b0f8add9880a52d70f1ae3",
+      "origin": "ai"
+    },
+    "dataList[id=855105].name": {
+      "pl": "Apply Refracted Burn",
+      "kr_sha256": "fb58613626b05b19c1ec5714f4ce75af829c6f94ff5379454cc43cca920d84c0",
+      "en_sha256": "7dab709a8ff7aab54682d6607bed81553fd2cb1eab48a864c53e12e1cdff240b",
+      "origin": "ai"
+    },
+    "dataList[id=855501].desc": {
+      "pl": "jeżeli jest 50+ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Zakumulowanej Przeszłości</link></u></color>, a HP Core wynosi 80%- lub mniej, Core zyskuje 200 HP, wydając 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Zakumulowanej Przeszłości</link></u></color> na koniec tury.",
+      "kr_sha256": "6d0b309040cae823915e09abb1e8a2e9ee52869f56336fa48acefc9d6e56a138",
+      "en_sha256": "01e6202b81fbc17da073660a71bd16009677b2826fb60bec0500862ec970b4e1",
+      "origin": "ai"
+    },
+    "dataList[id=855501].name": {
+      "pl": "Returning Past",
+      "kr_sha256": "1bab7148a7867b94a160a9b9cfd2fa585d0c15053fda0a15a36eb6c02f192a40",
+      "en_sha256": "63db7c9f852bd9403bb39905c3266feb093e25913e119110870fe23020f188c1",
+      "origin": "ai"
+    },
+    "dataList[id=855502].desc": {
+      "pl": "gdy Korpus zostaje zniszczony, zużywa całą <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Zakumulowaną Przeszłość</link></u></color>.\ngdy Korpus zostaje zniszczony, od następnej tury do końca walki wszystkie Typy Ataku i Atrybuty stają się wobec Korpusa nieskuteczne (0,5).",
+      "kr_sha256": "26522fcb622d7511937a0e2aa06b196dacdaf196759a0bce6e6fbca36ceaac13",
+      "en_sha256": "ed5f176c3adcc5225b543cb1288671381d69be3131c1e64992083accd59e2861",
+      "origin": "ai"
+    },
+    "dataList[id=855502].name": {
+      "pl": "Misplaced Past",
+      "kr_sha256": "26c33cdbda2c30243389df54fe4226dd72a62a32829ae15d2b74a28dcd82fa2a",
+      "en_sha256": "9aca948cbd6a7360624a0a031dc82af509d9c479d855e7b9ddd883dc6c0d8c3b",
+      "origin": "ai"
+    },
+    "dataList[id=855503].desc": {
+      "pl": "gdy Steam Blaster zostaje zniszczony, całkowicie zużywa Oddech wszystkich Części.\npo zniszczeniu Steam Blastera, za każdym razem, gdy jednostka zyskuje <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddech</link></u></color>, zyskuje <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Wrażliwość</link></u></color> w liczbie równej zyskanemu <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddechowi</link></u></color>.\npo zniszczeniu Steam Blastera, traci 1 Oddech przy każdym użyciu Umiejętności ataku.",
+      "kr_sha256": "171f0917a987324bb170490476667ad79cc83b2a1dbf05da94f257609e7f2246",
+      "en_sha256": "2ae7c5d4dcf243a966f9bcda801c60d407b0e26f62e02758400758dd17ba312d",
+      "origin": "ai"
+    },
+    "dataList[id=855503].name": {
+      "pl": "Broken Exhaust Port",
+      "kr_sha256": "29793e8d1bd3cd5bee77a1d82aa19194012c4d1eb04ed04f11070e8d6eeb655a",
+      "en_sha256": "0f29f5b3543476a222621e38044f417995941effa94fdf98d9e91ffde7940342",
+      "origin": "ai"
+    },
+    "dataList[id=855504].desc": {
+      "pl": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenie</link></u></color> i <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> kumuluje Siłę do maks. 30.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenie</link></u></color> i <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> kumuluje Licznik do maks. 5.",
+      "kr_sha256": "a06bd3285433475069a4e9dfcc4851bf62343a163029cc020589b83a54e3b618",
+      "en_sha256": "aa2d3f87c906b96ec3ec57092bc30f224020cc7e4482b55e2f6108a201b9e88d",
+      "origin": "ai"
+    },
+    "dataList[id=855504].name": {
+      "pl": "Refracted Burn and Bleed",
+      "kr_sha256": "399dee69e13f26e476114daef60ea2d378d0294228770f1ba7a15e6404a7b1e0",
+      "en_sha256": "5cb56456f308cbdb0b6eedab38cddf0f069f680648d4b06d318666f065f39543",
+      "origin": "ai"
+    },
+    "dataList[id=855505].desc": {
+      "pl": "przy zyskiwaniu <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zatonięcia</link></u></color>, zyskuje 1 dodatkowo Siły i Licznika (nie dotyczy buffów powiązanych z Cycle[TabExplain])",
+      "kr_sha256": "256faa4bd9f8d2c44b0fe40a1f152fb43b6ea2ef7962156e34bb2537ee3e24a3",
+      "en_sha256": "591942c4ae1f94e7ddb38b99a02557cf67700bd5042aaa45ce12422f9c90d61f",
+      "origin": "ai"
+    },
+    "dataList[id=855505].name": {
+      "pl": "Apply Refracted Sinking",
+      "kr_sha256": "ab8cdf2b80a1c5bf6d1fb158b0bac39f15ec1749dd9d37e38169deaea7d64eee",
+      "en_sha256": "04e58a16f82023b390ed1169e528b207db99de4557a42e44a05a8b83d23af847",
+      "origin": "ai"
+    },
+    "dataList[id=855506].desc": {
+      "pl": "gdy Steam Blaster zostanie trafiony, traci 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddechu</link></u></color> i 1 Licznika Oddechu",
+      "kr_sha256": "507813691c4862852ebcbc29ec75b871416e20ffa84e220feed8346eca69cd07",
+      "en_sha256": "81518e1628e400d224ea522fc1c3493502fc52eff7abccdb25485628a326c0f7",
+      "origin": "ai"
+    },
+    "dataList[id=855506].name": {
+      "pl": "Leaking Steam",
+      "kr_sha256": "cdda12966abd6a008d8459fa774ba35ae1757c8849a3269a9670c9f7af27e881",
+      "en_sha256": "a2c2055124f562b56ba64c1fe05658b835e61572a1f3a0ec1f79a4da5b87ead6",
+      "origin": "ai"
+    },
+    "dataList[id=855507].desc": {
+      "pl": "co turę zyskuje 1 Wzrost Mocy Ataku za każde 80 Zakumulowanej Przeszłości.\nprzy 80+ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Zakumulowanej Przeszłości</link></u></color>, zyskuje +1 Slot.",
+      "kr_sha256": "cbea7ca0767311cd146c23685aef0a2ebbd834d058fcafb17ab1ad016242e34f",
+      "en_sha256": "252d664cf46c6ba8da3bfe6a92cd0960f75bbe241cb5ac78234f72411af2e6af",
+      "origin": "ai"
+    },
+    "dataList[id=855507].name": {
+      "pl": "Overlapping Past",
+      "kr_sha256": "d967ab99bca4949744f4b5162980bd073dfe605d30177cf9fe3f2bdb45d8aca6",
+      "en_sha256": "ab75b22067d6c8a5f968223d895e7368abfe88642b13a28efe49357859525b6f",
+      "origin": "ai"
+    },
+    "dataList[id=855508].desc": {
+      "pl": "jeżeli <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Zakumulowana Przeszłość</link></u></color> jest liczbą nieparzystą, zyskuje 3 [Vulnerable] i [AttackDmgUp]\njeżeli jest liczbą parzystą, zyskuje 3 [Protection] i [AttackDmgDown]",
+      "kr_sha256": "6b2bd17b21461793c47fed79e2aa3fd8f194d860c68e2b10308afccd3990f62d",
+      "en_sha256": "c88fcbfb332fce6e8d2db60edd216b064509ca7ae2b16d57b81f78403ae8e34d",
+      "origin": "ai"
+    },
+    "dataList[id=855508].name": {
+      "pl": "Metronome",
+      "kr_sha256": "b0e9ccda247047ada33d11b2010810d7ef472469ab451988dbe2595167a58e96",
+      "en_sha256": "3634f1227eddd94bde97ddff138a4d7dde0e0774468f81cde68afcab6f9a6c6d",
+      "origin": "ai"
+    },
+    "dataList[id=855601].desc": {
+      "pl": "Maks. HP rośnie o (Licznik Cycle X 5)%.\nzadaje o (Licznik Cycle X 5)% mniej obrażeń",
+      "kr_sha256": "a607804fcf88eb397ad64604999c846e9b24c63b3d9c000e6754abadf0ef14a8",
+      "en_sha256": "ee10fbc587b63597844c402134a271527cfa46db5b8e004589fe308f17c37e10",
+      "origin": "ai"
+    },
+    "dataList[id=855601].name": {
+      "pl": "Eternal Yoke",
+      "kr_sha256": "add7cc9d1f15d3d8cecbac497f03263ba8695faba07efff14678998d07eff279",
+      "en_sha256": "0e38c2e0309b948d84ea4ed7c06792828cf211c299e31091af3fee04392d15a4",
+      "origin": "ai"
+    },
+    "dataList[id=855602].desc": {
+      "pl": "gdy Znak zostaje zniszczony, Róża traci Maks. HP",
+      "kr_sha256": "41386d1927fa5f589f70c5ccfc8e38f118ecf744b003db909f05d45cdcd83618",
+      "en_sha256": "1ac2c6577a631e380bee50f1d09d8519360d92b69cda8c26b01d0e58831a7c51",
+      "origin": "ai"
+    },
+    "dataList[id=855602].name": {
+      "pl": "Broken Sign",
+      "kr_sha256": "60ba5df9dbcf7ee19b030fe6ce1b572c2f1a9a40ddad616b3fa499e138fb861d",
+      "en_sha256": "a498c1860b2f75ed45aa73344fd53e1de879ff6642dd2320ab3aba182667e1ea",
+      "origin": "ai"
+    },
+    "dataList[id=855603].desc": {
+      "pl": "gdy Ciało zostaje zniszczone, Core traci Maks. HP",
+      "kr_sha256": "555796c3b8b51c6c9bef350e7daf7a925de79a1aa9ad96f4c00fc47cc8bcb7ee",
+      "en_sha256": "a96eac3bc04327410f94d9701ca6b72df5d7868415f66942bd9a74f9ca58f58a",
+      "origin": "ai"
+    },
+    "dataList[id=855603].name": {
+      "pl": "Scattered Flesh",
+      "kr_sha256": "d2126a66eb9a3e4e3766760302c4c31b0cad603a7e5ae9531a5d34f33df5c8d2",
+      "en_sha256": "186423eff2e9f788aa7f0a39bbabff6705e02b71afc41e4b3a007f6eb5aaeb75",
+      "origin": "ai"
+    },
+    "dataList[id=855604].desc": {
+      "pl": "gdy Róża zostaje pokonana, Core i Ciało tracą 30 HP\nzyskuje 0.1 Odporności na odpowiadający Atrybut Grzechu na czas walki (kumuluje się)",
+      "kr_sha256": "67eba50a4b8826677fc891c36ab65d54dd53be9da2fb48e35900c68d571ed5b8",
+      "en_sha256": "5e0be0b9ca549a7b360d10b5ce804e83c117f793e2377c2c82e52ffdbedddba2",
+      "origin": "ai"
+    },
+    "dataList[id=855604].name": {
+      "pl": "Singular Vine",
+      "kr_sha256": "66348880feb75fe01eb81dc152e56c0fff961c4dffaaed3fff5c13f877318b0e",
+      "en_sha256": "44b4986f7d6306d5adb732a222cb050354f34aa96c442a965bee519f45c6d779",
+      "origin": "ai"
+    },
+    "dataList[id=855605].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "e653bae25061f22a6b10fbe261dc12ef5421ae109d6bbe320fa17f56f5e277b4",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=855605].name": {
+      "pl": "Blossoming Sins",
+      "kr_sha256": "cb371d80140116fc444e97eb2d989a22239cde8f5c4afa3a8f7af2317b715075",
+      "en_sha256": "02ad1c9204b6ffa00e5954fc2b45bb33b05962388b824d65d573ba909f46abf3",
+      "origin": "ai"
+    },
+    "dataList[id=855606].desc": {
+      "pl": "ginie razem z Sign of Roses",
+      "kr_sha256": "6574daabfd4b0ab45c7c9684256dce8ecb6e6f854b360862ffef6ccb3f4ebdea",
+      "en_sha256": "96a53e7b6ca37c9884d20ff7cba0ddd574c9c74e09da65a1003e2eabe7d6674a",
+      "origin": "ai"
+    },
+    "dataList[id=855606].name": {
+      "pl": "Rose on a Vine",
+      "kr_sha256": "819a400865232ca776b24aa47abbd7acf8b205696ebbb2c9af7e8017c60df934",
+      "en_sha256": "be0fe76d9bd4c0df1fcf8fd16377d2351881359abf42c39302029015a610e1c0",
+      "origin": "ai"
+    },
+    "dataList[id=855607].desc": {
+      "pl": "co turę wszystkie Części zyskują Ochronę w liczbie równej liczbie Grzeszników z efektem Korony z Róż",
+      "kr_sha256": "71feaa12159d79e0a3ff8cf1458e2537e719c63b6405d5521e964fe45eb98641",
+      "en_sha256": "603f17d95cd86adda584b57e871d783cf512ea882b67e20aa9fa45c52f7a6631",
+      "origin": "ai"
+    },
+    "dataList[id=855607].name": {
+      "pl": "Sin-drenched Brambles",
+      "kr_sha256": "46037a7d4975fa0de24acae208ceef4f51944847b9d52ce707a8d6b910515fb5",
+      "en_sha256": "27ec0b61454f5bdbaaa095d819b3eacdffbb46e21c43ee1326927e87f9dae99e",
+      "origin": "ai"
+    },
+    "dataList[id=856001].desc": {
+      "pl": "zadaje +10% obrażeń po przejściu przez Hemorrhaging Dimension[TabExplain]",
+      "kr_sha256": "3841d42eae97e312cd8f55abe3f1aacd9748f044d498ae71f95baf1ba6fb88c7",
+      "en_sha256": "f125a0f1e05fff9d189a27168e9be593d8077b3cb09581af65298f49bbd11985",
+      "origin": "ai"
+    },
+    "dataList[id=856001].name": {
+      "pl": "Hemorrhaging Dimension",
+      "kr_sha256": "ce17c108ad61a7beff3ad70cb5fd5e8c9131c0837999ca590233bfa359261c0b",
+      "en_sha256": "a1245a928a1466f6495fad90e6b0f24d5f932a918b514fd38f61b76c8c906cb3",
+      "origin": "ai"
+    },
+    "dataList[id=856101].desc": {
+      "pl": "Core zyskuje +20% Maks. HP po przejściu przez Poisonous Dimension[TabExplain]",
+      "kr_sha256": "fc8ba23e48a56f14a6061f9a51653a0717cc4953a54017ade212766b18cd9849",
+      "en_sha256": "e0e271b895b7bd327a3f2af0af1aadb80b53adcac6830d6ff5f518e8fb9af048",
+      "origin": "ai"
+    },
+    "dataList[id=856101].name": {
+      "pl": "Poisonous Dimension",
+      "kr_sha256": "1f9fc6426f85a67440e95f328b3e5e34ed3d7c52d5d5903d84e80f4085f8ce3f",
+      "en_sha256": "9414c60c3ef8b57ec76ae01ba8cb9cd1e559c094e22ca24c2b9ae49f971aaf96",
+      "origin": "ai"
+    },
+    "dataList[id=856201].desc": {
+      "pl": "Minimalna i Maksymalna Szybkość +1 po przejściu przez Tremoring Dimension[TabExplain]",
+      "kr_sha256": "32b3af6226fb3f4c160351ae49e9d995694aaf09d8d84f332ff305a0bf796cef",
+      "en_sha256": "8fa50429a323b06be55f390007b498a5fb69b6f3f4563d1c0288321a53099061",
+      "origin": "ai"
+    },
+    "dataList[id=856201].name": {
+      "pl": "Tremoring Dimension",
+      "kr_sha256": "b9c6009a94cba6f5c796ad746a9c739bb1aae127bd43bb1e2d4134707ba5306e",
+      "en_sha256": "063249787f1fdd799b3f7a54e6e21d6ad77bb0721dbf46bdcab5a5d4830acd92",
+      "origin": "ai"
+    },
+    "dataList[id=856301].desc": {
+      "pl": "zyskuje +1 Moc Monet po przejściu przez Electrifying Dimension[TabExplain]",
+      "kr_sha256": "e551866cce1350f7176dd6bc7a73aae752f4da7699b03dd00f22543efb5c234f",
+      "en_sha256": "b89325d6a37429f5d58919154c58ca148572eae3ad7d3fa6207eb1d4daf696ef",
+      "origin": "ai"
+    },
+    "dataList[id=856301].name": {
+      "pl": "Electrifying Dimension",
+      "kr_sha256": "d957bbc61afb934fefdccc5637f41d1325a5b7010df3290d57d233d4b2b41179",
+      "en_sha256": "45e46b78cce868787fbba7d8ad8edd7679015d480e873179440fb662c92e22c6",
+      "origin": "ai"
+    },
+    "dataList[id=856401].desc": {
+      "pl": "przy trafieniu zyskuje 1 Wzrost Poziomu Ataku i 1 Spadek Poziomu Obrony w następnej turze",
+      "kr_sha256": "9fd0ea56636cfdd6c933b0b6831f693328297b20c73133d2dd641eb89c8cc151",
+      "en_sha256": "4d56a365fdfa8fa33968d80fd18f9feb216b6aa34d8bb8c2591942b319d0d569",
+      "origin": "ai"
+    },
+    "dataList[id=856401].name": {
+      "pl": "Hatred",
+      "kr_sha256": "4449f2d676a88894247f64e5dbb6a68d6d87a21bcc2330b2431ca5e870ce4551",
+      "en_sha256": "4b650147947cf39ec4e9f102af862cabcce8c0b8a85e1dd21064950c6b5c924d",
+      "origin": "ai"
+    },
+    "dataList[id=856402].desc": {
+      "pl": "gdy pokonana bezpośrednim trafieniem, odbija otrzymane obrażenia na atakującego i nakłada 5 Podpalenia",
+      "kr_sha256": "4437186ceda9caec8a3e68ff52dbce5231d220235b0493178f22cda51bdcd110",
+      "en_sha256": "3cf0630468a06ec6d58ad52fce7fa5b62da8338c5f04537a1ee536fa2c012da2",
+      "origin": "ai"
+    },
+    "dataList[id=856402].name": {
+      "pl": "Embers",
+      "kr_sha256": "6abd158bb1cda236663cd8debc628cb2a21f6267f85cc5c4c64180cc5e5a0769",
+      "en_sha256": "8b110a049214c6d8c3107fc0a58480af35fa538296792c8dd7d3af5d6cc8adf8",
+      "origin": "ai"
+    },
+    "dataList[id=856403].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "e653bae25061f22a6b10fbe261dc12ef5421ae109d6bbe320fa17f56f5e277b4",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=856403].name": {
+      "pl": "Blossoming Sins",
+      "kr_sha256": "cb371d80140116fc444e97eb2d989a22239cde8f5c4afa3a8f7af2317b715075",
+      "en_sha256": "02ad1c9204b6ffa00e5954fc2b45bb33b05962388b824d65d573ba909f46abf3",
+      "origin": "ai"
+    },
+    "dataList[id=856404].desc": {
+      "pl": "w stanie wzmocnienia nakłada o 1 więcej Podpalenia efektami Umiejętności\njeżeli ginie w stanie wzmocnienia, nakłada 4 Licznik Podpalenia wszystkim sojusznikom",
+      "kr_sha256": "9b259f9949c0b52191311113172e7fc86564f134c44eba940519782b8d5f0619",
+      "en_sha256": "9849a7452831bd17481130ac487b480591fd991c89ca3757fdeef6a65a316641",
+      "origin": "ai"
+    },
+    "dataList[id=856404].name": {
+      "pl": "Boiling Wrath",
+      "kr_sha256": "0ecbbbdee395c1fef5c54fadf74ad042094dd1e8b3ed546072fc51916c60456e",
+      "en_sha256": "2c032af19935f6805bed25657c9533b0cd3c0a2b80fb707a7088c00f3de99542",
+      "origin": "ai"
+    },
+    "dataList[id=856405].desc": {
+      "pl": "ginie, gdy Core Sign of Roses zostaje zabite",
+      "kr_sha256": "2f6576a13861cc21de13de11db2d0b4fbd5908afe1f57a6389d4e0466fda7ab0",
+      "en_sha256": "079ea1d7f1ac15c76bac3811bea7d2e19c03319b68611640c7472066fdbb18cd",
+      "origin": "ai"
+    },
+    "dataList[id=856405].name": {
+      "pl": "Rose on a Vine",
+      "kr_sha256": "819a400865232ca776b24aa47abbd7acf8b205696ebbb2c9af7e8017c60df934",
+      "en_sha256": "be0fe76d9bd4c0df1fcf8fd16377d2351881359abf42c39302029015a610e1c0",
+      "origin": "ai"
+    },
+    "dataList[id=856501].desc": {
+      "pl": "w Starciu, Moc Końcowa -2; przy ataku bez starcia, Moc Końcowa +2",
+      "kr_sha256": "4291526f140ca0fcf7640d2c1a37a78cac14238592806db0701088b4a93ee4c0",
+      "en_sha256": "93aec90c9b95102d9babaf168d68be3854b726d9b81ac73b51a155c8d2d61cb9",
+      "origin": "ai"
+    },
+    "dataList[id=856501].name": {
+      "pl": "One-sided Desire",
+      "kr_sha256": "d926cc343695d16912dc77e8efb443bbe865bcbfbbf56007f2d0551b04add7ad",
+      "en_sha256": "88cd6403b3d37b19200c78bc02e5676333e78e3443c7be4600f14d143ddc0486",
+      "origin": "ai"
+    },
+    "dataList[id=856502].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "e653bae25061f22a6b10fbe261dc12ef5421ae109d6bbe320fa17f56f5e277b4",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=856502].name": {
+      "pl": "Blossoming Sins",
+      "kr_sha256": "cb371d80140116fc444e97eb2d989a22239cde8f5c4afa3a8f7af2317b715075",
+      "en_sha256": "02ad1c9204b6ffa00e5954fc2b45bb33b05962388b824d65d573ba909f46abf3",
+      "origin": "ai"
+    },
+    "dataList[id=856503].desc": {
+      "pl": "w stanie wzmocnienia nakłada o 1 więcej Krwawienia efektami Umiejętności\njeżeli ginie w stanie wzmocnienia, nakłada 4 Licznik Krwawienia wszystkim sojusznikom",
+      "kr_sha256": "44a1e2f4a225a7b0834cff148ef08d6014d4153b8fd46f33048cc384b241e594",
+      "en_sha256": "883a1b2d807c44438d5fe1171e1a609f4ee4f40539d159a022f609bfd347e69f",
+      "origin": "ai"
+    },
+    "dataList[id=856503].name": {
+      "pl": "Shimmering Lust",
+      "kr_sha256": "42ffb8fe4f5d2259d88ed4b832022e1196333c46ea7b01b507ca9e0c64931ae6",
+      "en_sha256": "225118076f15b1619509de082f7528f36513b8f7e7c956257d9a3c107c3202dd",
+      "origin": "ai"
+    },
+    "dataList[id=856504].desc": {
+      "pl": "ginie, gdy Core Sign of Roses zostaje zabite",
+      "kr_sha256": "2f6576a13861cc21de13de11db2d0b4fbd5908afe1f57a6389d4e0466fda7ab0",
+      "en_sha256": "079ea1d7f1ac15c76bac3811bea7d2e19c03319b68611640c7472066fdbb18cd",
+      "origin": "ai"
+    },
+    "dataList[id=856504].name": {
+      "pl": "Rose on a Vine",
+      "kr_sha256": "819a400865232ca776b24aa47abbd7acf8b205696ebbb2c9af7e8017c60df934",
+      "en_sha256": "be0fe76d9bd4c0df1fcf8fd16377d2351881359abf42c39302029015a610e1c0",
+      "origin": "ai"
+    },
+    "dataList[id=856601].desc": {
+      "pl": "przy trafieniu zyskuje 5 Ochrony w następnej turze, jeżeli nie jest Oszołamiona",
+      "kr_sha256": "5bd3d5d7612064dc41aa312d07bbeed63544f7e5e112e56436c2d759d4d44c68",
+      "en_sha256": "d7c156449771ec36eca9cd0b4d0582bf47ff2ecd1a1a3764bcf7ead3dc176bb3",
+      "origin": "ai"
+    },
+    "dataList[id=856601].name": {
+      "pl": "Powerless",
+      "kr_sha256": "0e36d35aa4f598beb7e6beae22e4f1a384b38dc7313b7e38b0d29e1c27cfabd6",
+      "en_sha256": "b4dc000f0bcabc24f9e17dc6d437cbca01c0a7ea63fc227321afcd2d95c52f55",
+      "origin": "ai"
+    },
+    "dataList[id=856602].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "280c3ecd115b3c4629387433a2478276c8a4ceba65c7a91193f626b08867332c",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=856602].name": {
+      "pl": "Yellow Rose 2",
+      "kr_sha256": "8865f3cd87fa20521bcb0d4192d958797522c8dc6e1b3975cd73c0448991e5fb",
+      "en_sha256": "5db5e41bae8593195d29a4cd06a116fe506302d2619cb0989b170833f73de258",
+      "origin": "ai"
+    },
+    "dataList[id=856603].desc": {
+      "pl": "w stanie wzmocnienia nakłada o 1 więcej Wstrząsu efektami Umiejętności\njeżeli ginie w stanie wzmocnienia, nakłada 4 Licznik Wstrząsu wszystkim sojusznikom",
+      "kr_sha256": "e6e016d31c0499db0c16fca524c64f558a847058ecec7ac16de57721a639be61",
+      "en_sha256": "b3bad91af6746ebb45441269418bfe71ffd63a523b2f126199980e9ade6eeab6",
+      "origin": "ai"
+    },
+    "dataList[id=856603].name": {
+      "pl": "Crushing Sloth",
+      "kr_sha256": "069fda815a675175f64ea2a06cb3aebe06444a766dcd3377801d9dfb27a6fd0f",
+      "en_sha256": "f3b3bdc8d8906848c19bfb56bb5f33a519df5caec0da6a541b48f473280c35fe",
+      "origin": "ai"
+    },
+    "dataList[id=856604].desc": {
+      "pl": "ginie, gdy Core Sign of Roses zostaje zabite",
+      "kr_sha256": "2f6576a13861cc21de13de11db2d0b4fbd5908afe1f57a6389d4e0466fda7ab0",
+      "en_sha256": "079ea1d7f1ac15c76bac3811bea7d2e19c03319b68611640c7472066fdbb18cd",
+      "origin": "ai"
+    },
+    "dataList[id=856604].name": {
+      "pl": "Yellow Rose 4",
+      "kr_sha256": "f90a05624a1cac1b5f0276af4a1c9f7317917fca7f2f825475eebbb1b5f91955",
+      "en_sha256": "816056707f6eed8b4fa5dc12bdba959b9d26dc15dbfdf509733336758d7d22f2",
+      "origin": "ai"
+    },
+    "dataList[id=856701].desc": {
+      "pl": "jeżeli jednostka nie zada obrażeń w turze, zyskuje 2 Kruchości Rozdarcia",
+      "kr_sha256": "0e8880fb67d85132287c20ffa8a750ac974a5985702d36a71e5e47c337d8f82f",
+      "en_sha256": "2de8e1d1380c6ffde8dd6691853ada51e01c71e404483164bcaa579123458e12",
+      "origin": "ai"
+    },
+    "dataList[id=856701].name": {
+      "pl": "Hunger",
+      "kr_sha256": "93cd6e5524d53382ca63ba707fb3500fc5f986dfee104cee9773380d1cbd7f1e",
+      "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "origin": "ai"
+    },
+    "dataList[id=856702].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "280c3ecd115b3c4629387433a2478276c8a4ceba65c7a91193f626b08867332c",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=856702].name": {
+      "pl": "Green Rose 2",
+      "kr_sha256": "fcff936895d6cfecebfaa79680a2dd990aa1af5459d518c6d4353f74db0b177f",
+      "en_sha256": "a2eb8790eea55e915d396dafff295441f9b68a4fbdded88a8496cdeddf7d1180",
+      "origin": "ai"
+    },
+    "dataList[id=856703].desc": {
+      "pl": "w stanie wzmocnienia nakłada o 1 więcej Rozdarcia efektami Umiejętności\njeżeli ginie w stanie wzmocnienia, nakłada 4 Licznik Rozdarcia wszystkim sojusznikom",
+      "kr_sha256": "acd157e167706a160c50393b56e9f8301d4fe2f7ba1bdfb578e11f2d0902f8bd",
+      "en_sha256": "b8f6332a527f55389bc8f8b13a3c56d26f059886e94e081501639e089b426465",
+      "origin": "ai"
+    },
+    "dataList[id=856703].name": {
+      "pl": "Growing Gluttony",
+      "kr_sha256": "0a3237e86439079c2f999d8a8ebfafdf04862d52207b924c4e4475397996cbb5",
+      "en_sha256": "1c7c1a47c7e849e3f05a096640a6823b76f126a8e44f9bdf974a58223dd33b6d",
+      "origin": "ai"
+    },
+    "dataList[id=856704].desc": {
+      "pl": "ginie, gdy Core Sign of Roses zostaje zabite",
+      "kr_sha256": "2f6576a13861cc21de13de11db2d0b4fbd5908afe1f57a6389d4e0466fda7ab0",
+      "en_sha256": "079ea1d7f1ac15c76bac3811bea7d2e19c03319b68611640c7472066fdbb18cd",
+      "origin": "ai"
+    },
+    "dataList[id=856704].name": {
+      "pl": "Green Rose 4",
+      "kr_sha256": "476b838396bf7c27f035ad03ba6105cb919bca082b5be81ccd04e0adad82c564",
+      "en_sha256": "3083054f72bbdc41f6f021929b070ee3b6dad734ccf070b2f116944c11d2ccba",
+      "origin": "ai"
+    },
+    "dataList[id=856801].desc": {
+      "pl": "w Starciu, Moc Końcowa +2; przy ataku bez starcia, Moc Końcowa -2",
+      "kr_sha256": "53d1964bc74ae377801760b33b060369e822ed9bdfc381351c054daba9ce24f7",
+      "en_sha256": "74629fcbe01c43b1c4e6d3d3b8b749ff37e96bd34674e5afc6dd59570f6042cf",
+      "origin": "ai"
+    },
+    "dataList[id=856801].name": {
+      "pl": "Anxiety",
+      "kr_sha256": "08c1c0c55db6ad616dcb3c64878f8379b2a38bf8e411b8325b63e099ac51e46a",
+      "en_sha256": "7806c4ea4cdc269ec9bef57b3d8967ae6a4dcf4ba20017db416fbaab45412b66",
+      "origin": "ai"
+    },
+    "dataList[id=856802].desc": {
+      "pl": "przy trafieniu odporność na Posępność zmienia się w słabość Posępności (1.5) i zyskuje 5 Ochrony",
+      "kr_sha256": "ffd4de8acc7d53aa173698dbd71ec56eaebf6f31195bae6a8bda70c03ee8c838",
+      "en_sha256": "44da49d14aaf2e02e10c385763c69a54cd7eb41cfa565ce541fac6e521f027e3",
+      "origin": "ai"
+    },
+    "dataList[id=856802].name": {
+      "pl": "Self Destruction",
+      "kr_sha256": "d112f0ab29dcd51aa6df77f9d332cf323940866f150b021c1f5a92a9b168695f",
+      "en_sha256": "094436b6f0d014ed2796785e6d0c81c1224e1deb23eb59540ca95fac497f4691",
+      "origin": "ai"
+    },
+    "dataList[id=856803].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "280c3ecd115b3c4629387433a2478276c8a4ceba65c7a91193f626b08867332c",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=856803].name": {
+      "pl": "Blue Rose 3",
+      "kr_sha256": "c74691d0a69c63f3a10bde0d3c5a0dcdbf14897307508b30df5ff15425ad44c9",
+      "en_sha256": "88903db7c729045985a38ef5be7f8fda42b8027f5ce9c287c7e2bb8c7b30c40c",
+      "origin": "ai"
+    },
+    "dataList[id=856804].desc": {
+      "pl": "w stanie wzmocnienia nakłada o 1 więcej Zatonięcia efektami Umiejętności\njeżeli ginie w stanie wzmocnienia, nakłada 4 Licznik Zatonięcia wszystkim sojusznikom",
+      "kr_sha256": "5a9582c6dee099cbb4ff50318e5235d21dea106eab108a2a973a8812cb2b206b",
+      "en_sha256": "9ff9316c0149fe7c6bc9886be674823fc635fe351eb01f91374abef465e075a0",
+      "origin": "ai"
+    },
+    "dataList[id=856804].name": {
+      "pl": "Shimmering Gloom",
+      "kr_sha256": "1e406fed13c0ba5325dd1e3fabe6918987238d6a7f35a9613e188ea1721597ac",
+      "en_sha256": "dee1af916dc966b76e959435dcefaede906359f6c0e785ac48a41c2b2e0b0b52",
+      "origin": "ai"
+    },
+    "dataList[id=856805].desc": {
+      "pl": "ginie, gdy Core Sign of Roses zostaje zabite",
+      "kr_sha256": "2f6576a13861cc21de13de11db2d0b4fbd5908afe1f57a6389d4e0466fda7ab0",
+      "en_sha256": "079ea1d7f1ac15c76bac3811bea7d2e19c03319b68611640c7472066fdbb18cd",
+      "origin": "ai"
+    },
+    "dataList[id=856805].name": {
+      "pl": "Blue Rose 5",
+      "kr_sha256": "8172ba4671f4a29c36976e84e12c22b27bbd88a531f914029236853fd69225f9",
+      "en_sha256": "5ed3a5c034ea5e2ad04918444c37678182c99b89a7771ec7959d9c9462ae75e1",
+      "origin": "ai"
+    },
+    "dataList[id=856901].desc": {
+      "pl": "na początku każdej tury nakłada 1 Poise i 1 Licznik Poise sojusznikom",
+      "kr_sha256": "d3557b8d57477f57096f4a7089080f7742ed7750315e2282da2ec42bd4b98ef3",
+      "en_sha256": "80c6db32a9050c5412382e5233b53487a2428a3dceb69e288b03f5b4a835b7a5",
+      "origin": "ai"
+    },
+    "dataList[id=856901].name": {
+      "pl": "Outlash",
+      "kr_sha256": "958c4d374dd6fbdfbcafde5314c957be999147c6e37f534953cd6655cc6a44ab",
+      "en_sha256": "0c675161f4ae389170c5f5f2d218684540bdc72f802d392e0b7c0658ee670bb8",
+      "origin": "ai"
+    },
+    "dataList[id=856902].desc": {
+      "pl": "gdy ta jednostka żyje, każdy sojusznik zyskuje +5% obrażeń krytycznych za każde własne Poise",
+      "kr_sha256": "587ea3dcb57a6a160204aa4a199ea4b38b64275e43b8e9fd674e0afa4ed8868f",
+      "en_sha256": "0321ae8ea1d02539299e89d9c5a6d966f7472f15de0573225163bba00bb355ea",
+      "origin": "ai"
+    },
+    "dataList[id=856902].name": {
+      "pl": "Superiority",
+      "kr_sha256": "ced19ddb19119bca4b2c2d2b2507113377bc70864b779115d3ac946f9606dddf",
+      "en_sha256": "4284db1aeb9375794b889102a7b2ff9cd4c26da5c6df37422e7558bef14b8df7",
+      "origin": "ai"
+    },
+    "dataList[id=856903].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "280c3ecd115b3c4629387433a2478276c8a4ceba65c7a91193f626b08867332c",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=856903].name": {
+      "pl": "Azure Rose 3",
+      "kr_sha256": "7fc81cbae4e46cef939067ec6ae8e4b8a7bca510f64eb6e540ac29704f7b6fa0",
+      "en_sha256": "c8fc7e7aa697e2ab7b53112b391cd4c66dd4beb28c5e9f7fc1069671ae243177",
+      "origin": "ai"
+    },
+    "dataList[id=856904].desc": {
+      "pl": "jeżeli rozpoczyna turę w stanie wzmocnienia, nakłada o 1 więcej Poise efektami Umiejętności\njeżeli ginie w stanie wzmocnienia, nakłada 4 Licznik Poise wszystkim wrogom",
+      "kr_sha256": "f8793d461118847294f45d4528f31b259df8a191c47d06c095dde4eb121848cc",
+      "en_sha256": "57f80ad0e847f466761b4981bd0d6399325c71e5a23d73f6e18de8bbc9daa85a",
+      "origin": "ai"
+    },
+    "dataList[id=856904].name": {
+      "pl": "Overinflated Pride",
+      "kr_sha256": "fd1922421acef30ce421a019217ff8cb61f82d541681147e2cac63b5a0c97890",
+      "en_sha256": "e3fed14a81db375b6412956dcac8c00ad7f90e583117c072bd741903164de41c",
+      "origin": "ai"
+    },
+    "dataList[id=856905].desc": {
+      "pl": "ginie, gdy Core Sign of Roses zostaje zabite",
+      "kr_sha256": "2f6576a13861cc21de13de11db2d0b4fbd5908afe1f57a6389d4e0466fda7ab0",
+      "en_sha256": "079ea1d7f1ac15c76bac3811bea7d2e19c03319b68611640c7472066fdbb18cd",
+      "origin": "ai"
+    },
+    "dataList[id=856905].name": {
+      "pl": "Azure Rose 5",
+      "kr_sha256": "defda60961bb7a85f792e61428155fc4b99777c1fe090e06e64cc60e2e58c5d8",
+      "en_sha256": "49a10d73bef6aa9eb3638060154cc202ba08a9ccf180239cd17fd9fb3d343075",
+      "origin": "ai"
+    },
+    "dataList[id=857001].desc": {
+      "pl": "na początku tury nakłada 1 Licznik Ładowania 2 losowym sojusznikom",
+      "kr_sha256": "8cfa71069ab7d8d6d270b2654f0bde694481771e9fe61fc37a03b03c73c6fd06",
+      "en_sha256": "d2676f31877f6bf9d4025a25182c7df6071e6aa6164c15e0271a714b769d98de",
+      "origin": "ai"
+    },
+    "dataList[id=857001].name": {
+      "pl": "Jealousness",
+      "kr_sha256": "339f9b5c5786c97ae3748de3a496f26824d918770d7676be362616e513e34f11",
+      "en_sha256": "b8a8ad5a0ec9f7baef91b97cb94fbe47539830de2fc52325f3d99b83f11403d3",
+      "origin": "ai"
+    },
+    "dataList[id=857002].desc": {
+      "pl": "gdy ta jednostka żyje, każdy sojusznik zyskuje +5% obrażeń krytycznych za każdy własny Licznik Ładowania",
+      "kr_sha256": "82f8ab88d1ef3cfff22132322f905c41e9a6ebac2106c19109ff7ded3794719a",
+      "en_sha256": "f72feca0ad04fc463f1744205fae72f01cb400a31058e0732646094e39696965",
+      "origin": "ai"
+    },
+    "dataList[id=857002].name": {
+      "pl": "Inferiority Complex",
+      "kr_sha256": "94216496e813a2a65fbf42f33040f286cdc4699747a06ad674acd0d1ad33ca3e",
+      "en_sha256": "49fc4f6fc80fc5f6c1a7474256efe2c2063121807435f79578cee9eb285c20ad",
+      "origin": "ai"
+    },
+    "dataList[id=857003].desc": {
+      "pl": "przy 4 Blooming Sin, wchodzi w stan wzmocnienia na czas walki",
+      "kr_sha256": "280c3ecd115b3c4629387433a2478276c8a4ceba65c7a91193f626b08867332c",
+      "en_sha256": "197f3dedf7a8fac18767de0ab491339a021fb696d800345fd959ae44196ed1ec",
+      "origin": "ai"
+    },
+    "dataList[id=857003].name": {
+      "pl": "Purple Rose 3",
+      "kr_sha256": "da6a8f3f59968fd4799aaf3ab888150777ccb0b9380c869f2d3782026cc51bf2",
+      "en_sha256": "ce3625228121f4e8c799669e76ae583277e36b413dce58a0d255af115198edd4",
+      "origin": "ai"
+    },
+    "dataList[id=857004].desc": {
+      "pl": "jeżeli rozpoczyna turę w stanie wzmocnienia, nakłada o 1 więcej Liczników Ładowania efektami Umiejętności\njeżeli ginie w stanie wzmocnienia, nakłada 4 Liczniki Ładowania wszystkim wrogom",
+      "kr_sha256": "ac5c80cc82a4f6bbc7542fadb64baea1824fbe752decab1af6bcccbe647200b8",
+      "en_sha256": "1518a4343cedfcbf2db32a489d1afb77a3dd040006aef36fbc4cb8fa91604305",
+      "origin": "ai"
+    },
+    "dataList[id=857004].name": {
+      "pl": "Glaring Envy",
+      "kr_sha256": "bed23681672ad3281c250b1442a5846fda3a331fbc29910d634278b115a39ca0",
+      "en_sha256": "366897debc21000ce4bfbc1c9940c11392ee26c7751d9363918aa21c77881e8f",
+      "origin": "ai"
+    },
+    "dataList[id=857005].desc": {
+      "pl": "ginie, gdy Core Sign of Roses zostaje zabite",
+      "kr_sha256": "2f6576a13861cc21de13de11db2d0b4fbd5908afe1f57a6389d4e0466fda7ab0",
+      "en_sha256": "079ea1d7f1ac15c76bac3811bea7d2e19c03319b68611640c7472066fdbb18cd",
+      "origin": "ai"
+    },
+    "dataList[id=857005].name": {
+      "pl": "Purple Rose 5",
+      "kr_sha256": "ad77a5b96e9b9a2d81051c34b311bd44712523768451255c46d58fed22ff31ce",
+      "en_sha256": "19dfe56dfa19d90f1305db7bb66ab1fa1b6b5e5e334dcf0e5192efe1291b0f84",
+      "origin": "ai"
+    }
+  }
+}
