@@ -2054,6 +2054,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2)
@@ -2097,6 +2098,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2)
@@ -2140,6 +2142,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Proszę Się Odsunąć! (×2)
@@ -2212,6 +2215,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2)
@@ -2255,6 +2259,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2)
@@ -2302,6 +2307,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zakręci Ci w Głowie (×2)
@@ -2345,6 +2351,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2)
@@ -2388,6 +2395,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2)
@@ -2435,6 +2443,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zakręci Ci w Głowie (×2)
@@ -2478,6 +2487,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2)
@@ -2521,6 +2531,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2)
@@ -2640,6 +2651,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zakręci Ci w Głowie (×2)
@@ -2683,6 +2695,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2)
@@ -2726,6 +2739,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2)
@@ -2769,6 +2783,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Proszę Się Odsunąć! (×2)
@@ -2923,6 +2938,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -2972,6 +2988,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3)
@@ -3065,6 +3082,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -3114,6 +3132,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -3213,6 +3232,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3)
@@ -3313,6 +3333,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 **Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
 **Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
 Po zakończeniu 3. tury ucieka z walki
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -3356,6 +3377,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -3404,6 +3426,7 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
 **Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
 Po zakończeniu 3. tury ucieka z walki
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -3447,6 +3470,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -3495,6 +3519,7 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
 **Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
 Po zakończeniu 3. tury ucieka z walki
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -3538,6 +3563,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -3581,6 +3607,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -3635,6 +3662,7 @@ Po zakończeniu 3. tury ucieka z walki
 **Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
 **Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
 Po zakończeniu 3. tury ucieka z walki
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -3678,6 +3706,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
 **Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -3721,6 +3750,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -3773,6 +3803,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -3821,6 +3852,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -3874,6 +3906,7 @@ Po zakończeniu 3. tury ucieka z walki
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2)
@@ -3917,6 +3950,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -4016,6 +4050,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2)
@@ -4059,6 +4094,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -4158,6 +4194,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2)
@@ -4201,6 +4238,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -4318,6 +4356,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3)
@@ -4367,6 +4406,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -4480,6 +4520,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -4528,6 +4569,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -4581,6 +4623,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3)
@@ -4630,6 +4673,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -4679,6 +4723,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -4727,6 +4772,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -4780,6 +4826,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -4828,6 +4875,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -4877,6 +4925,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Spętająca Klątwa (×2)
@@ -4949,6 +4998,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3)
@@ -4998,6 +5048,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -5115,6 +5166,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -5163,6 +5215,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -5216,6 +5269,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -5265,6 +5319,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3)
@@ -5308,6 +5363,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -5421,6 +5477,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -5469,6 +5526,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -5520,6 +5578,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku oraz 3 Spętanie
 **Efekt Paniki:** Początek Tury: wpada w Oszołomienie
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5641,6 +5700,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku oraz 3 Spętanie
 **Efekt Paniki:** Początek Tury: wpada w Oszołomienie
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5842,6 +5902,7 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -5886,6 +5947,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Defend (×3)
@@ -5930,6 +5992,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3)
@@ -5980,6 +6043,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -6034,6 +6098,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -6078,6 +6143,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Defend (×3)
@@ -6122,6 +6188,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3)
@@ -6172,6 +6239,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3)
@@ -6226,6 +6294,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -6276,6 +6345,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -6328,6 +6398,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2)
@@ -6378,6 +6449,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2)
@@ -6430,6 +6502,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: No Entry (×5)
@@ -6472,6 +6545,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Podejrzanych (×5)

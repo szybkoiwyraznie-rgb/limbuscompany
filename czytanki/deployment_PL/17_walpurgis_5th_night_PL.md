@@ -27,6 +27,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Wola Zębatek
@@ -80,6 +81,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Za Zębatkami
@@ -133,6 +135,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Mięsna Zębatka: Rozkaz
@@ -196,6 +199,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Wola Zębatek
@@ -249,6 +253,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Za Zębatkami
@@ -302,6 +307,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Mięsna Zębatka: Rozkaz
@@ -365,6 +371,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Wola Zębatek
@@ -418,6 +425,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Za Zębatkami
@@ -471,6 +479,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Mięsna Zębatka: Rozkaz
@@ -534,6 +543,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Wola Zębatek
@@ -587,6 +597,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Za Zębatkami
@@ -640,6 +651,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Mięsna Zębatka: Rozkaz
@@ -701,6 +713,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Wola Zębatek
@@ -754,6 +767,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Za Zębatkami
@@ -807,6 +821,7 @@ Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy 
 Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
 **Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
 Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
+
 *Opis:* Wróg zwykły
 
 ##### Umiejętność: Mięsna Zębatka: Rozkaz

@@ -27,6 +27,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -81,6 +82,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -140,6 +142,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -194,6 +197,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -253,6 +257,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -307,6 +312,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -361,6 +367,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -416,6 +423,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -475,6 +483,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -529,6 +538,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -583,6 +593,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -638,6 +649,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -695,6 +707,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -764,6 +777,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -837,6 +851,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -906,6 +921,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -979,6 +995,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -1046,6 +1063,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -1113,6 +1131,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -1181,6 +1200,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -1249,6 +1269,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 30%)
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fauvist Docent
 
 **Części (anatomia):**

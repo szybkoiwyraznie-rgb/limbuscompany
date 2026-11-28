@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Przebicie Punktu Witalnego (×4)
@@ -75,6 +76,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Sztych Punktu Witalnego (×4)
@@ -211,6 +213,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Przebicie Punktu Witalnego (×4)
@@ -261,6 +264,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Sztych Punktu Witalnego (×4)
@@ -315,6 +319,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Przebicie Punktu Witalnego (×4)
@@ -365,6 +370,7 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Sztych Punktu Witalnego (×4)
@@ -1073,6 +1079,7 @@ jeżeli jednostka zabije się sama, nakłada 3 [Spadek Poziomu Obrony] wszystkim
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamach
@@ -1124,6 +1131,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamiatanie
@@ -1179,6 +1187,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamach
@@ -1230,6 +1239,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Odbijające Cięcie
@@ -1290,6 +1300,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamiatanie
@@ -1343,6 +1354,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -1408,6 +1420,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -1637,6 +1650,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Przednie Wirowanie
@@ -1715,6 +1729,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1775,6 +1790,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1833,6 +1849,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1891,6 +1908,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1955,6 +1973,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2022,6 +2041,7 @@ jeżeli nie ma już wrogów do zastąpienia albo jest ich za mało (tzn. jeżeli
 Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -2088,6 +2108,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -2161,6 +2182,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2221,6 +2243,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2279,6 +2302,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2341,6 +2365,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wrażliwość] i nałóż 1 [Wzrost Obrażeń] na wszystkich sojuszników
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wrażliwość] i nałóż 2 [Wzrost Obrażeń] na wszystkich sojuszników
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2610,6 +2635,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wrażliwości i 1 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wrażliwości i 2 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2687,6 +2713,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2745,6 +2772,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2805,6 +2833,7 @@ jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba
 Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -2871,6 +2900,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -2942,6 +2972,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3002,6 +3033,7 @@ kończy walkę, gdy Hong Lu ginie
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3062,6 +3094,7 @@ kończy walkę, gdy Hong Lu ginie
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3147,6 +3180,7 @@ na Początku tury przy 60% HP lub mniej zyskuje 500 Tarczy
 
 **Efekt Niskiego Morale:** Zadawane obrażenia +10% celom innym niż Hong Lu
 **Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3234,6 +3268,7 @@ przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruc
 
 **Efekt Niskiego Morale:** Zadawane obrażenia +10% celom innym niż Hong Lu
 **Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3335,6 +3370,7 @@ przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruc
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3421,6 +3457,7 @@ na Początku tury zyskuje do 500 Tarczy
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Obrażeń], 1 [Wrażliwość] oraz 1 [Wrażliwość na Rozdarcie]
 **Efekt Paniki:** Zyskaj 2 [Wzrost Obrażeń], 2 [Wrażliwość] oraz 2 [Wrażliwość na Rozdarcie]
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zderzenie
@@ -3470,6 +3507,7 @@ po pierwszym przejściu w Oszołamienie efekt ten znika, a na Początku tury od 
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Obrażeń], 1 [Wrażliwość] oraz 1 [Wrażliwość na Rozdarcie]
 **Efekt Paniki:** Zyskaj 2 [Wzrost Obrażeń], 2 [Wrażliwość] oraz 2 [Wrażliwość na Rozdarcie]
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zderzenie
@@ -3521,6 +3559,7 @@ po pierwszym przejściu w Oszołamienie albo po spadnięciu efektu przywracania 
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Obrażeń], 1 [Wrażliwość] oraz 1 [Wrażliwość na Rozdarcie]
 **Efekt Paniki:** Zyskaj 2 [Wzrost Obrażeń], 2 [Wrażliwość] oraz 2 [Wrażliwość na Rozdarcie]
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zderzenie
@@ -3572,6 +3611,7 @@ nie uruchamia się w Oszołamieniu
 Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 ##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
@@ -3625,6 +3665,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 ##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
@@ -3681,6 +3722,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie i Zgniot (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -3730,6 +3772,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamach
@@ -3781,6 +3824,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamiatanie
@@ -3832,6 +3876,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Odbijające Cięcie
@@ -3894,6 +3939,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 ##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
@@ -3947,6 +3993,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (ma
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* jednostka
 
 ##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
@@ -4003,6 +4050,7 @@ wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (m
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4052,6 +4100,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4101,6 +4150,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie i Zgniot
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4303,6 +4353,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4352,6 +4403,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4405,6 +4457,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Bicie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4454,6 +4507,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 ##### Umiejętność: Styl Naładowanej Topora (充斧流) - Rozszczepienie (×2)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4507,6 +4561,7 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamach
@@ -4558,6 +4613,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamiatanie
@@ -4613,6 +4669,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamach
@@ -4664,6 +4721,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Zamiatanie
@@ -4723,6 +4781,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 ##### Umiejętność: Głuszący Sztych (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4769,6 +4828,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 ##### Umiejętność: Głuszące Przebicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4819,6 +4879,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 ##### Umiejętność: Głuszący Sztych (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4865,6 +4926,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 ##### Umiejętność: Głuszące Przebicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4911,6 +4973,7 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Zadaje +(różnica % PŻ)% obrażeń celom o wyższym % PŻ niż ta jednostka (maks. 25%)
 Początek Tury: zyskaj 1 [Wzmocnienie Monet Plus], 2 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -5042,6 +5105,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -5090,6 +5154,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 2 [Wrażliwość]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5172,6 +5237,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 **Efekt Niskiego Morale:** Przy Trafieniu: zużyj 3 własne SP i nałóż 2 [Zatonięcie]
 **Efekt Paniki:** Przy Trafieniu: nałóż 3 [Zatonięcie] i zyskaj 1 [Zatonięcie]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5242,6 +5308,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 5 [Krwawienie] i 1 [Wzrost Mocy Ataku].
 **Efekt Paniki:** Początek Tury: zyskaj 10 [Krwawienie] i 2 [Wzrost Mocy Ataku].
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -5302,6 +5369,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 5 [Krwawienie] i 1 [Wzrost Mocy Ataku].
 **Efekt Paniki:** Początek Tury: zyskaj 10 [Krwawienie] i 2 [Wzrost Mocy Ataku].
+
 *Opis:* Część
 
 **Części (anatomia):**
@@ -5368,6 +5436,7 @@ jeżeli ta jednostka zostanie zabita, nie dostarczy [Dziki Pocisk Tygrysiego Zna
 - Gdy Korpus przegra Starcie z Hong Lu: w następnej turze Korpus zyskuje 1 [Wzrost Obrażeń] i 1 [Wrażliwość] (raz na turę)
 **Efekt Paniki:** Wszystkie Części zyskują 2 [Wzrost Mocy Ataku] i 2 [Spętanie]
 - Gdy Korpus przegra Starcie z Hong Lu: w następnej turze Korpus zyskuje 2 [Wzrost Obrażeń] i 2 [Wrażliwość] (raz na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5446,6 +5515,7 @@ Zadawane obrażenia +20%. Jeśli PŻ Lektyki spadną do 0, zamiast tego zadawane
 **Efekt Paniki:** Zyskaj 2 [Wzrost Mocy Ataku] i 2 [Wrażliwość]
 Jednostki stworzone przez tę jednostkę zyskują 6 [Spadek Poziomu Obrony]
 Zadawane obrażenia +30%. Jeśli PŻ Lektyki spadną do 0, zamiast tego zadawane obrażenia -15%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5789,6 +5859,7 @@ przy 1 HP, efekt [Wzniosła Nieśmiertelność] zmienia się w [Niedoskonała Ni
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 5 [Krwawienie] i 1 [Wzrost Mocy Ataku].
 **Efekt Paniki:** Początek Tury: zyskaj 10 [Krwawienie] i 2 [Wzrost Mocy Ataku].
+
 *Opis:* Korpus
 
 ##### Umiejętność: Wybuch Ran (×2)
@@ -5838,6 +5909,7 @@ na etapie początku walki, jeżeli sojusznik z [Oddech] zada wrogowi trafienie k
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 5 [Krwawienie] i 1 [Wzrost Mocy Ataku].
 **Efekt Paniki:** Początek Tury: zyskaj 10 [Krwawienie] i 2 [Wzrost Mocy Ataku].
+
 *Opis:* Część
 
 ##### Umiejętność: Rozdzieranie Ran (×2)

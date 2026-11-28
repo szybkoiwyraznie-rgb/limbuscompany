@@ -23,6 +23,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -88,6 +89,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -157,6 +159,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -222,6 +225,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -291,6 +295,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -356,6 +361,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -425,6 +431,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -490,6 +497,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -561,6 +569,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -622,6 +631,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -687,6 +697,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -748,6 +759,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -811,6 +823,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +15%
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +30% oraz **podwój efekty nakładane przez Monety umiejętności „Łuk Ojczyzny [Sal] - Spuszczenie Strzały”**
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -942,6 +955,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1008,6 +1022,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1107,6 +1122,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1169,6 +1185,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1233,6 +1250,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1298,6 +1316,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**

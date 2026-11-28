@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -60,6 +61,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -95,6 +97,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: (bez nazwy)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -134,6 +137,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -157,6 +161,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -180,6 +185,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -207,6 +213,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -230,6 +237,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -253,6 +261,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Obuch
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -276,6 +285,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -303,6 +313,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -326,6 +337,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -349,6 +361,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |

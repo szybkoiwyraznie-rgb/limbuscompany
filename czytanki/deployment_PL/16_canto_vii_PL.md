@@ -283,6 +283,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Rozbicie
@@ -334,6 +335,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Rozbicie
@@ -389,6 +391,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Rozbicie
@@ -440,6 +443,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Rozbicie
@@ -493,6 +497,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]. Przegrane Starcie: zyskaj 1 [Spadek Poziomu Obrony] (maks. 3 na turę). Min. Szybkość -1
 **Efekt Paniki:** Początek Tury: zyskaj 4 [Wzrost Poziomu Ataku]. Przegrane Starcie: zyskaj 2 [Spadek Poziomu Obrony] (maks. 6 na turę). Min. Szybkość -1
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -564,6 +569,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Koniec Tury: zyskaj 1 [Wrażliwość] i 1 [Słabsze Leczenie Poczytalności] w następnej turze
 **Efekt Paniki:** Koniec Tury: zyskaj 2 [Wrażliwość] i 2 [Słabsze Leczenie Poczytalności] w następnej turze.
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -649,6 +655,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spętanie] i 2 [Wzrost Mocy Ataku]. Koniec Tury: otrzymaj 5 obrażeń SP
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Spętanie] i 4 [Wzrost Mocy Ataku].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -730,6 +737,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]. Koniec Tury: trać 5 SP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 6 [Spadek Poziomu Obrony]. Koniec Tury: odzyskaj 10 SP.
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -827,6 +835,7 @@ po zmianie wzorca:
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -881,6 +890,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -939,6 +949,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -993,6 +1004,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -1047,6 +1059,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -1113,6 +1126,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -1167,6 +1181,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -1221,6 +1236,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -1283,6 +1299,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Więcej, Przybywajcie!
@@ -1349,6 +1366,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -1403,6 +1421,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -1457,6 +1476,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Więcej, Przybywajcie!
@@ -1519,6 +1539,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -1585,6 +1606,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -1639,6 +1661,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -1693,6 +1716,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -1755,6 +1779,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Więcej, Przybywajcie!
@@ -1821,6 +1846,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -1875,6 +1901,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -1929,6 +1956,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -1991,6 +2019,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Więcej, Przybywajcie!
@@ -2057,6 +2086,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -2111,6 +2141,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -2173,6 +2204,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Więcej, Przybywajcie!
@@ -2235,6 +2267,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -2291,6 +2324,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spętanie] i 2 [Wzrost Mocy Ataku]. Koniec Tury: otrzymaj 5 obrażeń SP
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Spętanie] i 4 [Wzrost Mocy Ataku].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -2486,6 +2520,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -2533,6 +2568,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -2580,6 +2616,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -2639,6 +2676,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -2686,6 +2724,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -2733,6 +2772,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -2788,6 +2828,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -2847,6 +2888,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -2894,6 +2936,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -2941,6 +2984,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -2996,6 +3040,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -3055,6 +3100,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -3102,6 +3148,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -3149,6 +3196,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -3204,6 +3252,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -3260,6 +3309,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Niemożliwe do zaobserwowania
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -3351,6 +3401,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut
@@ -3404,6 +3455,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash
@@ -3457,6 +3509,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -3519,6 +3572,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -3585,6 +3639,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut
@@ -3638,6 +3693,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash
@@ -3691,6 +3747,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -3753,6 +3810,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -3819,6 +3877,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut
@@ -3872,6 +3931,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash
@@ -3925,6 +3985,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -3987,6 +4048,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -4053,6 +4115,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut
@@ -4106,6 +4169,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash
@@ -4159,6 +4223,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -4221,6 +4286,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -4285,6 +4351,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]. Koniec Tury: trać 5 SP.
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 6 [Spadek Poziomu Obrony]. Koniec Tury: odzyskaj 10 SP.
+
 *Opis:* Boss
 
 **Części (anatomia):**
@@ -4382,6 +4449,7 @@ w turze po Oszołamieniu przywołuje 2 Kindred Bloodfiends
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4452,6 +4520,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4511,6 +4580,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4573,6 +4643,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4632,6 +4703,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4694,6 +4766,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -5476,6 +5549,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Slam
@@ -5527,6 +5601,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Slam
@@ -5578,6 +5653,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -5632,6 +5708,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge
@@ -5686,6 +5763,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -5748,6 +5826,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Więcej, Przybywajcie!
@@ -5810,6 +5889,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut
@@ -5863,6 +5943,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash
@@ -5916,6 +5997,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -5978,6 +6060,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!
@@ -6040,6 +6123,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -6087,6 +6171,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash
@@ -6134,6 +6219,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -6189,6 +6275,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -6246,6 +6333,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6427,6 +6515,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 **Efekt Niskiego Morale:** Co Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]; skuteczność SP +2
 **Efekt Paniki:** Początek Tury: zyskaj 6 [Wzrost Poziomu Obrony] oraz 3 [Wzrost Poziomu Ataku] w następnej turze
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6577,6 +6666,7 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 **Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6631,6 +6721,7 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6697,6 +6788,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6769,6 +6861,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6834,6 +6927,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6904,6 +6998,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6975,6 +7070,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -7353,6 +7449,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 **Efekt Paniki:** - Zyskaj 2 [Wzrost Mocy Ataku]; Maks. Szybkość +2
 - Skuteczność leczenia PŻ +50%
 - Koniec Tury: jeśli wartość [Powracający Popęd Krwi] jest niższa niż na Początku Tury, zyskaj 3 [Wzrost Poziomu Ataku] i 5 [Spadek Poziomu Obrony] w następnej turze
+
 *Opis:* Boss
 
 **Części (anatomia):**
@@ -7596,6 +7693,7 @@ nakłada specjalny efekt na Grzesznika Don Quixote
 
 **Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab
@@ -7660,6 +7758,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 **Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+
 *Opis:* jednostka
 
 ##### Umiejętność: Festiwal, Festiwal!
@@ -7733,6 +7832,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+
 *Opis:* jednostka
 
 ##### Umiejętność: Proszę odpowiedzieć na ankietę.
@@ -7799,6 +7899,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 **Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 **Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+
 *Opis:* jednostka
 
 ##### Umiejętność: Witajcie na Festiwalu Czarów!

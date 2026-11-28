@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3)
@@ -74,6 +75,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3)
@@ -123,6 +125,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3)
@@ -177,6 +180,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3)
@@ -226,6 +230,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3)
@@ -275,6 +280,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3)
@@ -327,6 +333,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: Maks. Szybkość +1, zyskaj 2 [Wzrost Poziomu Ataku] i 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -427,6 +434,7 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -513,6 +521,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3)
@@ -562,6 +571,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3)
@@ -611,6 +621,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3)
@@ -663,6 +674,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Jia Xichun +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Moc Końcowa +1; otrzymywane obrażenia od Jia Xichun +20%; obrażenia Kontrataków +50%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -759,6 +771,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -818,6 +831,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -877,6 +891,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
 **Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**

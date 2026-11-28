@@ -108,6 +108,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -133,6 +134,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -158,6 +160,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3)
@@ -195,6 +198,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -224,6 +228,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -272,6 +277,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stłumienie (×3)
@@ -324,6 +330,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -372,6 +379,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stłumienie (×3)
@@ -420,6 +428,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3)
@@ -462,6 +471,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2)
@@ -508,6 +518,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3)
@@ -556,6 +567,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stłumienie (×3)
@@ -604,6 +616,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3)
@@ -646,6 +659,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2)
@@ -988,6 +1002,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -1034,6 +1049,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -1075,6 +1091,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3)
@@ -1120,6 +1137,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -1161,6 +1179,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3)
@@ -1202,6 +1221,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2)
@@ -1247,6 +1267,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -1288,6 +1309,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3)
@@ -1329,6 +1351,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -1377,6 +1400,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -1425,6 +1449,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -1473,6 +1498,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2)
@@ -1521,6 +1547,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie Gwoździ (×3)
@@ -1582,6 +1609,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -1623,6 +1651,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3)
@@ -1664,6 +1693,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -1712,6 +1742,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -1764,6 +1795,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -1805,6 +1837,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3)
@@ -1850,6 +1883,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2)
@@ -1891,6 +1925,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -1939,6 +1974,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -1987,6 +2023,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -2035,6 +2072,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -2083,6 +2121,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2)
@@ -2135,6 +2174,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2)
@@ -2176,6 +2216,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -2224,6 +2265,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -2272,6 +2314,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -2320,6 +2363,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2)
@@ -2368,6 +2412,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -2416,6 +2461,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -2468,6 +2514,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -2509,6 +2556,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3)
@@ -2550,6 +2598,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -2598,6 +2647,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -2646,6 +2696,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -2694,6 +2745,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -2742,6 +2794,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2)
@@ -2790,6 +2843,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie Gwoździ (×3)
@@ -2870,6 +2924,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2)
@@ -2911,6 +2966,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -2964,6 +3020,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2)
@@ -3005,6 +3062,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -3053,6 +3111,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -3101,6 +3160,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -3149,6 +3209,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -3197,6 +3258,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2)
@@ -3250,6 +3312,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -3298,6 +3361,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -3346,6 +3410,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -3394,6 +3459,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -3442,6 +3508,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2)
@@ -3490,6 +3557,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)

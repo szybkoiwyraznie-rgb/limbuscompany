@@ -400,6 +400,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -452,6 +453,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -504,6 +506,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 **Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1149,6 +1152,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 **Efekt Niskiego Morale:** Wszystkie odporności zmieniają się na „Zwykła”
 **Efekt Paniki:** Wszystkie odporności zmieniają się na „Zwykła”
 Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zyskiwanej z efektów umiejętności
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1438,6 +1442,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1490,6 +1495,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1542,6 +1548,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 **Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1999,6 +2006,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2051,6 +2059,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2103,6 +2112,7 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 **Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 **Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2748,6 +2758,7 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 **Efekt Niskiego Morale:** Wszystkie odporności zmieniają się na „Zwykła”
 **Efekt Paniki:** Wszystkie odporności zmieniają się na „Zwykła”
 Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zyskiwanej z efektów umiejętności
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3037,6 +3048,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3089,6 +3101,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 | Odporności   | wszystkie ×1 (Normal)                          |
 
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3141,6 +3154,7 @@ Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zy
 
 **Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 **Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**

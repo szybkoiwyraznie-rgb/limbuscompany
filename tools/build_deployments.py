@@ -375,6 +375,7 @@ class Renderer:
             pan_d = panic_rec.get("panicDescription") if panic_rec else None
             if pan_d:
                 out.append(f"**Efekt Paniki:** {self.kw(pan_d)}")
+            out.append("")
         return out
 
 

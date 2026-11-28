@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -70,6 +71,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -119,6 +121,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -164,6 +167,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -213,6 +217,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -258,6 +263,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -307,6 +313,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -352,6 +359,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -397,6 +405,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -442,6 +451,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -491,6 +501,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -536,6 +547,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -581,6 +593,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -626,6 +639,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -675,6 +689,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -720,6 +735,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -765,6 +781,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -810,6 +827,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -859,6 +877,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -904,6 +923,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -949,6 +969,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -994,6 +1015,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -1228,6 +1250,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -1273,6 +1296,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -1318,6 +1342,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -1363,6 +1388,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -1408,6 +1434,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Chmura Cienia
@@ -1466,6 +1493,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**

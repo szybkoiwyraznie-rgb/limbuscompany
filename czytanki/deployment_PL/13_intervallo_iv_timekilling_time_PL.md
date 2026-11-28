@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Naliczenie: Kontrola
@@ -69,6 +70,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przygotowanie do Zbierania
@@ -123,6 +125,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -170,6 +173,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -221,6 +225,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -268,6 +273,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -319,6 +325,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -366,6 +373,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -417,6 +425,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -464,6 +473,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -514,6 +524,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -573,6 +584,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -632,6 +644,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -713,6 +726,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -850,6 +864,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -991,6 +1006,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1085,6 +1101,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Naliczenie: Kontrola
@@ -1129,6 +1146,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przygotowanie do Zbierania
@@ -1183,6 +1201,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -1230,6 +1249,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -1281,6 +1301,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -1328,6 +1349,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -1379,6 +1401,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -1426,6 +1449,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -1477,6 +1501,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj
@@ -1524,6 +1549,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Z Drogi
@@ -1574,6 +1600,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1633,6 +1660,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1692,6 +1720,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1773,6 +1802,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1915,6 +1945,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2057,6 +2088,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2148,6 +2180,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wstydu Nie Masz?

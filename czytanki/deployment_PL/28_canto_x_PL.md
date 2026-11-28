@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Bicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -74,6 +75,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Część
 
 ##### Umiejętność: Cios (×2)
@@ -127,6 +129,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 *Opis:* 1F Boss
 
 **Części (anatomia):**
@@ -215,6 +218,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -267,6 +271,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -377,6 +382,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -452,6 +458,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Efekt Niskiego Morale:** Poziom Ataku +1 oraz otrzymywane obrażenia +3% za każdy ładunek [Głoduję, jasne?] na sobie
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -598,6 +605,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 ##### Umiejętność: Nie dotykaj...! (×2)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -749,6 +757,7 @@ W Starciu z celem mającym 5 [Chrzest [Czerwień]]: Moc Starcia +2
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +3
 Zadawane obrażenia +10%
 W Starciu z celem mającym co najmniej 3 [Chrzest [Czerwień]]: Moc Starcia +3
+
 **Części (anatomia):**
 
 ##### Lifecord
@@ -940,6 +949,7 @@ jednostka zostaje pokonana, gdy [Instynkt Życia] wygaśnie
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 ##### Umiejętność: Szywanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1001,6 +1011,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1064,6 +1075,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1131,6 +1143,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 ##### Umiejętność: Szew Bieżący - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1179,6 +1192,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 ##### Umiejętność: Szew Bieżący - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1229,6 +1243,7 @@ Początek tury: zyskuje Tarczę równą (Stosy [Le Noir: Tkanina Czesankowa])% M
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1328,6 +1343,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1386,6 +1402,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1448,6 +1465,7 @@ jeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w nas
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 *Opis:* 1F Boss
 
 **Części (anatomia):**
@@ -1536,6 +1554,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1588,6 +1607,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1696,6 +1716,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1760,6 +1781,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1828,6 +1850,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 ##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1878,6 +1901,7 @@ przy użyciu Umiejętności, przy 15+ Licznika [Zachowanie], zużywa 3 Licznika 
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 *Opis:* 1F NPC
 
 ##### Umiejętność: Szywanie (×2)
@@ -1942,6 +1966,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1994,6 +2019,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2050,6 +2076,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2102,6 +2129,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2154,6 +2182,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Efekt Niskiego Morale:** Poziom Ataku +1 oraz otrzymywane obrażenia +3% za każdy ładunek [Głoduję, jasne?] na sobie
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2298,6 +2327,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2361,6 +2391,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 *Opis:* 1F Boss
 
 **Części (anatomia):**
@@ -2441,6 +2472,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2500,6 +2532,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2540,6 +2573,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
 
 **Części (anatomia):**
 
@@ -2582,6 +2616,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2622,6 +2657,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
 
 **Części (anatomia):**
 
@@ -2664,6 +2700,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2704,6 +2741,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
 
 **Części (anatomia):**
 
@@ -2748,6 +2786,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2801,6 +2840,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2861,6 +2901,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 ##### Umiejętność: Szywanie (×9)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2920,6 +2961,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 ##### Umiejętność: Nie dotykaj...! (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2972,6 +3014,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Zachowanie]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -3024,6 +3067,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 ##### Umiejętność: Grzebanie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -3078,6 +3122,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Efekt Niskiego Morale:** Poziom Ataku -2, Poziom Obrony +2
 **Efekt Paniki:** Poziom Ataku -3, Poziom Obrony +4
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3145,6 +3190,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3212,6 +3258,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 - Przy każdym otrzymanym trafieniu zyskaj +1 Licznika [Wstrząs] (raz na umiejętność, maks. 5 na turę)
 **Efekt Paniki:** - Otrzymywane obrażenia +15%
 - Przy każdym otrzymanym trafieniu zyskaj 1 Siły [Wstrząs] oraz +1 Licznika [Wstrząs] (raz na umiejętność, maks. 5 na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3433,6 +3480,7 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3503,6 +3551,7 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
 
 **Części (anatomia):**
 
@@ -3583,6 +3632,7 @@ jeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who E
 - Początek Tury: nałóż 1 [Spadek Mocy Ataku] na wszystkich pozostałych sojuszników
 **Efekt Paniki:** - Moc Końcowa umiejętności +1
 - Początek Tury: nałóż 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń] na wszystkich pozostałych sojuszników
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3722,6 +3772,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 **Efekt Niskiego Morale:** Poziom Ataku -2, Poziom Obrony +2
 **Efekt Paniki:** Poziom Ataku -3, Poziom Obrony +4
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3815,6 +3866,7 @@ przy naruszeniu reguły nakłada 1 [Naruszenie Zasad Garbarni]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3874,6 +3926,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3941,6 +3994,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4041,6 +4095,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4099,6 +4154,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4161,6 +4217,7 @@ Na początku etapu: zyskuje [Parzące Promienie Słońca [Król Szycia]]
 
 **Efekt Niskiego Morale:** Poziom Ataku +1 oraz otrzymywane obrażenia +3% za każdy ładunek [Głoduję, jasne?] na sobie
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4412,6 +4469,7 @@ przy HP 50% lub mniej Umiejętność używana w pewnym wzorcu zostaje zastąpion
 - Początek Walki: zamień wszystkie Monety umiejętności na **Monety Niezniszczalne**
 - Przy Użyciu Umiejętności: **jeśli głównym celem jest Pwie, Moc Starcia +6, Moc Bazowa +4**
 - Przy otrzymaniu trafienia: nałóż 1 [Splątanie] (6 razy na umiejętność)
+
 *Opis:* B3 보스
 
 **Części (anatomia):**
@@ -4548,6 +4606,7 @@ Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0
 
 **Efekt Niskiego Morale:** Umiejętności zadają -5% obrażeń celom o niższej Szybkości od tej jednostki
 **Efekt Paniki:** Umiejętności zadają -10% obrażeń celom o niższej Szybkości od tej jednostki
+
 *Opis:* B2층 보스
 
 **Części (anatomia):**
@@ -4611,6 +4670,7 @@ Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4684,6 +4744,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Bicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4734,6 +4795,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Część
 
 ##### Umiejętność: Cios (×2)
@@ -4788,6 +4850,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 *Opis:* 1F Boss
 
 **Części (anatomia):**
@@ -4869,6 +4932,7 @@ zadaje +200% obrażeń celom mającym 3 [Nieprzestrzeganie Instrukcji]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4927,6 +4991,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 *Opis:* 1F NPC
 
 **Części (anatomia):**
@@ -4992,6 +5057,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 ##### Umiejętność: Szywanie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -5054,6 +5120,7 @@ Po przegranej w Starciu zyskuje 2 Licznika [Pulsacja]
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5115,6 +5182,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5178,6 +5246,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5362,6 +5431,7 @@ rozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5427,6 +5497,7 @@ Zyskaj 1 [Wrażliwość]
 Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)
 Zyskaj 1 [Wrażliwość]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5494,6 +5565,7 @@ Zyskaj 1 [Wrażliwość]
 
 **Efekt Niskiego Morale:** Poziom Ataku +1 oraz otrzymywane obrażenia +3% za każdy ładunek [Głoduję, jasne?] na sobie
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5639,6 +5711,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Efekt Niskiego Morale:** Poziom Ataku +1 oraz otrzymywane obrażenia +3% za każdy ładunek [Głoduję, jasne?] na sobie
 **Efekt Paniki:** Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [Głoduję, jasne?] na sobie
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5786,6 +5859,7 @@ Koniec tury: przy 3+ [Głoduję, jasne?] używa w następnej turze potężnej Um
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 ##### Umiejętność: Nie dotykaj...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -5837,6 +5911,7 @@ przy użyciu Umiejętności, przy 15+ Licznika [Zachowanie], zużywa 3 Licznika 
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 *Opis:* 1F NPC
 
 ##### Umiejętność: Szywanie (×2)
@@ -5900,6 +5975,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 ##### Umiejętność: Szew Bieżący - Osnowa (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -5949,6 +6025,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 **Efekt Niskiego Morale:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku]
 **Efekt Paniki:** Początek Tury: Zyskaj 1 [Spadek Mocy Ataku] oraz 1 [Spadek Obrażeń]
+
 ##### Umiejętność: Szew Bieżący - Wątek (×2)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -6000,6 +6077,7 @@ Umiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6065,6 +6143,7 @@ Początek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 
 
 **Efekt Niskiego Morale:** Maks. Szybkość -1, Poziom Obrony +1
 **Efekt Paniki:** Maks. Szybkość -5, Poziom Obrony +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6124,6 +6203,7 @@ Początek tury: zyskuje Tarczę równą (10 + Stosy [Le Noir: Tkanina Czesankowa
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Bicie (×2)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -6173,6 +6253,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Część
 
 ##### Umiejętność: Cios (×2)
@@ -6221,6 +6302,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
 
 **Części (anatomia):**
 
@@ -6311,6 +6393,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6364,6 +6447,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6416,6 +6500,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 | Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
 | Typ paniki   | (brak danych)                                  |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
 
 **Części (anatomia):**
 
@@ -6478,6 +6563,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Poziom Obrony -3, Poziom Ataku +1
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +2
+
 *Opis:* 1F NPC
 
 **Części (anatomia):**
@@ -6541,6 +6627,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 **Efekt Paniki:** - Otrzymywane obrażenia +20%
 - Min. i Maks. Szybkość -2
 - Obrażenia umiejętności zużywających [Zachowanie] -25%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6629,6 +6716,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Zadawane obrażenia -10%
 **Efekt Paniki:** Moc Bazowa -1, zadawane obrażenia -10%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6821,6 +6909,7 @@ przy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [Wzrost Mocy] 
 
 **Efekt Niskiego Morale:** Poziom Ataku +3, Poziom Obrony +3
 **Efekt Paniki:** Poziom Ataku +5, Poziom Obrony +5
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6994,6 +7083,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Efekt Niskiego Morale:** Poziom Obrony -2, Poziom Ataku +2
 **Efekt Paniki:** Poziom Obrony -5, Poziom Ataku +3
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -7070,6 +7160,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 **Efekt Paniki:** - Otrzymywane obrażenia +20%
 - Min. i Maks. Szybkość -2
 - Obrażenia umiejętności zużywających [Zachowanie] -25%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -7159,6 +7250,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Efekt Niskiego Morale:** Niemożliwe do zaobserwowania
 **Efekt Paniki:** Niemożliwe do zaobserwowania
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -7325,6 +7417,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Efekt Niskiego Morale:** Zadawane obrażenia -10%
 **Efekt Paniki:** Moc Bazowa -1, zadawane obrażenia -10%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -7389,6 +7482,7 @@ jeżeli **wszyscy Le Rouge Senior Staff zostali pokonani**, stosuje następując
 
 **Efekt Niskiego Morale:** Zadawane obrażenia -10%
 **Efekt Paniki:** Moc Bazowa -1, zadawane obrażenia -10%
+
 ##### Umiejętność: Uprawnienia: Odbudowa
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |

@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Hej, hej (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -66,6 +67,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Nie Zatrzymuj się (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -111,6 +113,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Hej, hej (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -152,6 +155,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Nie Zatrzymuj się (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -197,6 +201,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: B-boli (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -242,6 +247,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Wydłuż... (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -291,6 +297,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1. Zadawane obrażenia +10% przy Trafieniu Awersem
 **Efekt Paniki:** Moc Starcia -2. Zyskaj 1 [Wzrost Obrażeń]
+
 ##### Umiejętność: Start Sprzątania (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -338,6 +345,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1. Zadawane obrażenia +10% przy Trafieniu Awersem
 **Efekt Paniki:** Moc Starcia -2. Zyskaj 1 [Wzrost Obrażeń]
+
 ##### Umiejętność: Start Sprzątania (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -389,6 +397,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1. Zadawane obrażenia +10% przy Trafieniu Awersem
 **Efekt Paniki:** Moc Starcia -2. Zyskaj 1 [Wzrost Obrażeń]
+
 ##### Umiejętność: Start Sprzątania (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -436,6 +445,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1. Zadawane obrażenia +10% przy Trafieniu Awersem
 **Efekt Paniki:** Moc Starcia -2. Zyskaj 1 [Wzrost Obrażeń]
+
 ##### Umiejętność: Start Sprzątania (×3)
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -483,6 +493,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Moc Starcia -1. Zadawane obrażenia +10% przy Trafieniu Awersem
 **Efekt Paniki:** Moc Starcia -2. Zyskaj 1 [Wzrost Obrażeń]
+
 ##### Umiejętność: Pukanie
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -543,6 +554,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -590,6 +602,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -641,6 +654,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -688,6 +702,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -739,6 +754,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -786,6 +802,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -837,6 +854,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Technika Niszczenia Obrony (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -883,6 +901,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Kontratak (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -929,6 +948,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Parowanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -982,6 +1002,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Łapanie Szczurów (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1028,6 +1049,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Łapanie Szczurów (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1074,6 +1096,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Polowanie na Szczury (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1131,6 +1154,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1178,6 +1202,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1229,6 +1254,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Technika Niszczenia Obrony (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1275,6 +1301,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Kontratak (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1321,6 +1348,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Łapanie Szczurów (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1367,6 +1395,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Łapanie Szczurów (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -1413,6 +1442,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Parowanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -1466,6 +1496,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Polowanie na Szczury (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2127,6 +2158,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Szkic (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2173,6 +2205,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Kreska (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2427,6 +2460,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Szkic (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2473,6 +2507,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Kreska (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2523,6 +2558,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Szkic (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2569,6 +2605,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Kreska (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -2617,6 +2654,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2683,6 +2721,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2741,6 +2780,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2805,6 +2845,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2852,6 +2893,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2903,6 +2945,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2950,6 +2993,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2997,6 +3041,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Zwyndy dno...!
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -3057,6 +3102,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3151,6 +3197,7 @@ przybiera nowy wzorzec
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3226,6 +3273,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3285,6 +3333,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3348,6 +3397,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3444,6 +3494,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Zatrzymanie Naruszycieli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -3490,6 +3541,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Utylizacja Naruszycieli
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -3536,6 +3588,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Egzekucja Kary
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -3583,6 +3636,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wzrost Mocy Ataku] oraz 1 [Wrażliwość]
 **Efekt Paniki:** Zyskaj 1 [Wzmocnienie Monet Plus] oraz 3 [Wrażliwość].
+
 ##### Umiejętność: Kolorowanie (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -3637,6 +3691,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: B-boli (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -3682,6 +3737,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Wydłuż... (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -3821,6 +3877,7 @@ od następnej tury priorytet: Identyfikacje z [Cel Gniewu].
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Łapanie Szczurów (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -3867,6 +3924,7 @@ od następnej tury priorytet: Identyfikacje z [Cel Gniewu].
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Łapanie Szczurów (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -3913,6 +3971,7 @@ od następnej tury priorytet: Identyfikacje z [Cel Gniewu].
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Parowanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -3966,6 +4025,7 @@ od następnej tury priorytet: Identyfikacje z [Cel Gniewu].
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Kontratak (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4012,6 +4072,7 @@ od następnej tury priorytet: Identyfikacje z [Cel Gniewu].
 
 **Efekt Niskiego Morale:** Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 2)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy trafieniu zyskaj 1 [Pośpiech] w następnej turze (maks. 3)
+
 ##### Umiejętność: Polowanie na Szczury (×3)
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4069,6 +4130,7 @@ od następnej tury priorytet: Identyfikacje z [Cel Gniewu].
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4116,6 +4178,7 @@ od następnej tury priorytet: Identyfikacje z [Cel Gniewu].
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4166,6 +4229,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 ##### Umiejętność: Zwy...ndy...
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4223,6 +4287,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 ##### Umiejętność: ...ucanie...
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -4381,6 +4446,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4440,6 +4506,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4710,6 +4777,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4827,6 +4895,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4896,6 +4965,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4963,6 +5033,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5249,6 +5320,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5363,6 +5435,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5462,6 +5535,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5512,6 +5586,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5567,6 +5642,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5615,6 +5691,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5664,6 +5741,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5718,6 +5796,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5772,6 +5851,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5830,6 +5910,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5933,6 +6014,7 @@ przy trafieniu w wroga w Oszołamieniu zadaje +20% obrażeń
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6007,6 +6089,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6316,6 +6399,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6376,6 +6460,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6437,6 +6522,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6497,6 +6583,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6606,6 +6693,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6686,6 +6774,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6778,6 +6867,7 @@ Koniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury z
 
 **Efekt Niskiego Morale:** Zyskaj 3 [Spadek Poziomu Obrony] oraz 3 [Wzrost Obrażeń]
 **Efekt Paniki:** Zyskaj 6 [Spadek Poziomu Obrony] oraz 5 [Wzrost Obrażeń]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -6847,6 +6937,7 @@ Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 **Efekt Paniki:** Wygrane Starcie: zyskaj 1 [Wzrost Poziomu Ataku] w tej i następnej turze (maks. 3 na turę)
 Przegrane Starcie: zyskaj 1 [Wzrost Poziomu Obrony] (maks. 3 na turę)
 Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
+
 ##### Umiejętność: Marc...
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -6903,6 +6994,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Hej, hej (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -6944,6 +7036,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Nie Zatrzymuj się (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -6985,6 +7078,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: B-boli (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -7030,6 +7124,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 ##### Umiejętność: Wydłuż... (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -7075,6 +7170,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Rozpa...trywanie (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -7122,6 +7218,7 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 
 **Efekt Niskiego Morale:** Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku].
 **Efekt Paniki:** Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku].
+
 ##### Umiejętność: Us...tąp (×3)
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |

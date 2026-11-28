@@ -886,3 +886,16 @@ Reakcja na dwie uwagi właściciela do serii `deployment_PL`:
   Drive `1oLAqhxvgNFKv0ExCjkxMZLbTu_X96awU`; v6 w koszu. Patch v6 bez zmian.
 - **Testy:** `76/76`. `docs/CZYTANKI.md` (opis kart) i `docs/STATUS.md`
   zaktualizowane.
+
+## E-024 · 2026-11-28 · Pusta linia przed nagłówkami umiejętności (mikro poprawka właściciela) — Czytanki v8
+
+Bloki „Efekt Niskiego Morale/Efekt Paniki” kończyły się bez wiersza przerwy,
+przez co nagłówek `##### Umiejętność: …` sklejał się z linią efektu paniki.
+`sp_effects()` dopisuje teraz pustą linię po bloku; skan całej serii
+potwierdza **0 nagłówków bez poprzedzającej pustej linii**.
+
+- **Czytanki v8:** `dist/LCB_Czytanki_PL_2026-11-28_v8.zip` = 99 plików MD,
+  2 562 510 B, SHA-256
+  `76d758f1aa0d71bf371796b86ab22b6b63e4c7db22a7f7b19ad8a6f0fd0bacb8`;
+  Drive `1inkiQ5DS5_cd3Ej2a4JyLclcpdyA3ITX`; v7 w koszu. Patch v6 bez zmian.
+- **Testy:** `76/76`.

@@ -68,6 +68,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -93,6 +94,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -118,6 +120,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3)
@@ -159,6 +162,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3)
@@ -196,6 +200,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3)
@@ -237,6 +242,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3)
@@ -274,6 +280,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3)
@@ -311,6 +318,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Kłucie (×3)
@@ -352,6 +360,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3)
@@ -389,6 +398,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3)
@@ -426,6 +436,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Kłucie (×3)
@@ -467,6 +478,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Kłucie (×3)
@@ -504,6 +516,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3)
@@ -541,6 +554,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3)
@@ -578,6 +592,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Podcięcie Gardła (×3)
@@ -642,6 +657,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -679,6 +695,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -720,6 +737,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -757,6 +775,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -794,6 +813,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -825,6 +845,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Intruz Namierzony (×2)
@@ -873,6 +894,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -910,6 +932,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -953,6 +976,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -995,6 +1019,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1038,6 +1063,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1086,6 +1112,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1129,6 +1156,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1172,6 +1200,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1215,6 +1244,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1262,6 +1292,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -1299,6 +1330,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -1336,6 +1368,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Deszcz Obelg (×2)
@@ -1383,6 +1416,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Krwawe Powitanie (×2)
@@ -1426,6 +1460,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Deszcz Obelg (×2)
@@ -1473,6 +1508,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Krwawe Powitanie (×2)
@@ -1516,6 +1552,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Deszcz Obelg (×2)
@@ -1799,6 +1836,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1842,6 +1880,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1885,6 +1924,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Żarliwy Krok Taneczny (×2)

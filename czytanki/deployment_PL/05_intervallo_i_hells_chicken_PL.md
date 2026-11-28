@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrii (×4)
@@ -71,6 +72,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrii (×4)
@@ -113,6 +115,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skriik (×4)
@@ -155,6 +158,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrik! (×4)
@@ -197,6 +201,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrikiik (×4)

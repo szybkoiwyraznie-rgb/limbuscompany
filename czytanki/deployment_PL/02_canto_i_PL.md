@@ -26,6 +26,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -51,6 +52,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -76,6 +78,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -105,6 +108,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -128,6 +132,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -151,6 +156,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -179,6 +185,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -204,6 +211,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -234,6 +242,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -259,6 +268,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -284,6 +294,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -309,6 +320,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3)
@@ -351,6 +363,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -376,6 +389,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -401,6 +415,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -426,6 +441,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3)
@@ -463,6 +479,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -499,6 +516,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -524,6 +542,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -549,6 +568,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3)
@@ -586,6 +606,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -611,6 +632,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -646,6 +668,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Nieudolna Rąbanka
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -669,6 +692,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Skolcone Pchnięcie
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -692,6 +716,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Ciężkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -715,6 +740,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Słabiutkie Uderzenie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -742,6 +768,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -767,6 +794,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -798,6 +826,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -831,6 +860,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -856,6 +886,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -881,6 +912,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -916,6 +948,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -951,6 +984,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -980,6 +1014,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -1015,6 +1050,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -1050,6 +1086,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)

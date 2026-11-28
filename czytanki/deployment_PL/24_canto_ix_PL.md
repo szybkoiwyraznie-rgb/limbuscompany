@@ -64,6 +64,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 Przegrane Starcie: zyskaj 1 [Wrażliwość] w następnej turze (raz na turę)
 **Efekt Paniki:** Moc Starcia +2 przeciw celom z [Eskalacja Pojedynku]
 Przegrane Starcie: zyskaj 2 [Wrażliwość] w następnej turze (raz na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -1959,6 +1960,7 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 
 **Efekt Niskiego Morale:** Początek Tury: trać 3 Siły [Oddech]
 **Efekt Paniki:** Początek Tury: trać 5 Siły [Oddech]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2054,6 +2056,7 @@ otrzymuje o 20% mniej obrażeń od celów innych niż Ryōshū
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spadek Poziomu Ataku] i 1 [Wzrost Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Spadek Poziomu Ataku] i 2 [Wzrost Poziomu Obrony]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2350,6 +2353,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 ##### Umiejętność: Głuszący Sztych (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2396,6 +2400,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 ##### Umiejętność: Głuszące Przebicie (×3)
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -2438,6 +2443,7 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Prosto w Solarny Splot
@@ -2499,6 +2505,7 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Prosto w Solarny Splot
@@ -3699,6 +3706,7 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3827,6 +3835,7 @@ przy HP równym 20% lub mniej, [Ekstremalny Nacisk] osiąga maksimum
 
 **Efekt Niskiego Morale:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +10%
 **Efekt Paniki:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +20%
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -4925,6 +4934,7 @@ gdy Część Owocu zostaje zniszczona, traci [Zuchwałość...!]
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spadek Poziomu Ataku] i 1 [Wzrost Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Spadek Poziomu Ataku] i 2 [Wzrost Poziomu Obrony]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5051,6 +5061,7 @@ otrzymuje o 50% mniej obrażeń od [Krwawienie]
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5140,6 +5151,7 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
+
 *Opis:* The Ring Nursefather
 
 **Części (anatomia):**
@@ -5252,6 +5264,7 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 4 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 **Efekt Paniki:** Początek Tury: zyskaj 3 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+
 *Opis:* The Middle Nursefather
 
 **Części (anatomia):**
@@ -5376,6 +5389,7 @@ otrzymuje o 50% mniej wzrostu Próg Oszołomienia (zaokrąglając w dół)
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+
 *Opis:* The Middle Apprentice
 
 **Części (anatomia):**
@@ -5468,6 +5482,7 @@ na koniec tury, przy mniej niż 3 [Dostałam Pochwałę!], [Ostrza Termiczne - O
 
 **Efekt Niskiego Morale:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +10%
 **Efekt Paniki:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +20%
+
 *Opis:* The Pinky Nursefather
 
 **Części (anatomia):**
@@ -5586,6 +5601,7 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 Przegrane Starcie: zyskaj 1 [Wrażliwość] w następnej turze (raz na turę)
 **Efekt Paniki:** Moc Starcia +2 przeciw celom z [Eskalacja Pojedynku]
 Przegrane Starcie: zyskaj 2 [Wrażliwość] w następnej turze (raz na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5641,6 +5657,7 @@ Przegrane Starcie: zyskaj 2 [Wrażliwość] w następnej turze (raz na turę)
 Nie może zyskać Mang przy użyciu umiejętności
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Obrażeń Cięcia], 2 [Wzrost Mocy Starcia] i 2 [Wrażliwość]
 Nie może zyskać Mang przy użyciu umiejętności
+
 *Opis:* The Thumb Nursefather
 
 **Części (anatomia):**
@@ -5718,6 +5735,7 @@ Nie może zyskać Mang przy użyciu umiejętności
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -5801,6 +5819,7 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
+
 *Opis:* The Ring Nursefather
 
 **Części (anatomia):**
@@ -5941,6 +5960,7 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 4 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 **Efekt Paniki:** Początek Tury: zyskaj 3 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+
 *Opis:* The Middle Nursefather
 
 **Części (anatomia):**
@@ -6078,6 +6098,7 @@ wskazuje jednostkę posiadającą [Głęboki Oddech - Czerwień]
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+
 *Opis:* The Middle Apprentice
 
 **Części (anatomia):**
@@ -6173,6 +6194,7 @@ na koniec tury przy HP niższym niż 80% / 60% / 40% zyskuje [Środkowy - Uraza]
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 8 [Spadek Mocy Starcia] i 5 [Spadek Mocy]
 **Efekt Paniki:** Początek Tury: zyskaj 10 [Spadek Mocy Starcia] i 5 [Spadek Mocy]
+
 *Opis:* broń G Corp.
 
 **Części (anatomia):**
@@ -6293,6 +6315,7 @@ następnie obowiązują następujące efekty:
 
 **Efekt Niskiego Morale:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +10%
 **Efekt Paniki:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +20%
+
 *Opis:* The Pinky Nursefather
 
 **Części (anatomia):**
@@ -6436,6 +6459,7 @@ na koniec walki: **jeżeli wszystkie Umiejętności „Destinated Opponent” u�
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Ryōshū
 
 **Części (anatomia):**
@@ -6540,6 +6564,7 @@ Min. i Maks. Szybkość +10 w turze użycia potężnego ataku
 
 **Efekt Niskiego Morale:** Początek Tury: trać 3 Siły [Oddech]
 **Efekt Paniki:** Początek Tury: trać 5 Siły [Oddech]
+
 *Opis:* Ryōshū
 
 **Części (anatomia):**
@@ -6636,6 +6661,7 @@ otrzymuje o 20% mniej obrażeń od celów innych niż Ryōshū
 - Otrzymywane obrażenia od Grzeszniczki Ryōshū +10%
 **Efekt Paniki:** - Początek Tury: zyskaj 5 [Podpalenie], +3 Licznika [Podpalenie], 5 [Krwawienie] i +3 Licznika [Krwawienie]
 - Otrzymywane obrażenia od Grzeszniczki Ryōshū +20%
+
 *Opis:* The Index Nursefather
 
 **Części (anatomia):**
@@ -6790,6 +6816,7 @@ zyskuje 10 [Karma] na następnym Początku tury za każdy zyskany Licznik
 - Otrzymywane obrażenia od Grzeszniczki Ryōshū +10%
 **Efekt Paniki:** - Początek Tury: zyskaj 5 [Podpalenie], +3 Licznika [Podpalenie], 5 [Krwawienie] i +3 Licznika [Krwawienie]
 - Otrzymywane obrażenia od Grzeszniczki Ryōshū +20%
+
 *Opis:* The Index Nursefather
 
 **Części (anatomia):**
@@ -6954,6 +6981,7 @@ uruchamia następujący efekt od tury, w której zmieniła się faza
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 ##### Umiejętność: Cel Zauważony
@@ -7011,6 +7039,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 ##### Umiejętność: Cel Zauważony

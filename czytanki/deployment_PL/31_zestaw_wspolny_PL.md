@@ -21,6 +21,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -56,6 +57,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -91,6 +93,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -126,6 +129,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Ściągnięcie (×4)
@@ -157,6 +161,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przeplatający Się Moment
@@ -205,6 +210,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stłumienie (×3)
@@ -254,6 +260,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Podejrzanych (×3)
@@ -296,6 +303,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Rozdźwięk (×3)
@@ -343,6 +351,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Rozdźwięk (×3)
@@ -396,6 +405,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Spętająca Klątwa (×2)
@@ -466,6 +476,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -495,6 +506,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -530,6 +542,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -565,6 +578,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -600,6 +614,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -635,6 +650,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -670,6 +686,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3)
@@ -705,6 +722,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3)
@@ -740,6 +758,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2)
@@ -775,6 +794,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Rozdźwięk (×3)
@@ -822,6 +842,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Rozdźwięk (×3)
@@ -875,6 +896,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -912,6 +934,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -949,6 +972,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3)
@@ -980,6 +1004,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1023,6 +1048,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2)
@@ -1066,6 +1092,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Krwawe Powitanie (×2)
@@ -1109,6 +1136,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Deszcz Obelg (×2)
@@ -1152,6 +1180,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Intruz Namierzony (×2)
@@ -1195,6 +1224,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Żarliwy Krok Taneczny (×2)
@@ -1256,6 +1286,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3)
@@ -1297,6 +1328,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3)
@@ -1338,6 +1370,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2)
@@ -1379,6 +1412,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -1427,6 +1461,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2)
@@ -1475,6 +1510,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2)
@@ -1523,6 +1559,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -1571,6 +1608,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2)
@@ -1619,6 +1657,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2)
@@ -1667,6 +1706,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie Gwoździ (×3)
@@ -1741,6 +1781,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Odporności         | Cięcie ×2                                      |
 
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -1764,6 +1805,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Odporności         | Cięcie ×2                                      |
 
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -1787,6 +1829,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Odporności         | Cięcie ×2                                      |
 
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -1810,6 +1853,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Odporności         | Cięcie ×2                                      |
 
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -1833,6 +1877,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Odporności         | Cięcie ×2                                      |
 
 **Efekt Niskiego Morale:** Nie działa. Po otrzymaniu trafienia ginie po zakończeniu umiejętności.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -1857,6 +1902,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -1881,6 +1927,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -1905,6 +1952,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -1929,6 +1977,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -1953,6 +2002,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie
@@ -1977,6 +2027,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -2001,6 +2052,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -2025,6 +2077,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -2049,6 +2102,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -2073,6 +2127,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3)
@@ -2103,6 +2158,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka
@@ -2127,6 +2183,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie
@@ -2151,6 +2208,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie

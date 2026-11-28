@@ -20,35 +20,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×1 (poz. 47).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -80,35 +51,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×1 (poz. 47).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -140,6 +82,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -169,6 +112,69 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×1 (poz. 47).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×1 (poz. 47).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
 
 *Opis:* Korpus
 
@@ -1300,39 +1306,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-**Pasywki:**
-
-- **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
-
-#### Peccatulum Invidiae?
-
-*Wystąpienia: ×1 (poz. 50).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 3 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1368,6 +1341,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -1401,6 +1375,42 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Sloty akcji  | start: 3 · maks. 3                             |
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+**Pasywki:**
+
+- **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
+
+#### Peccatulum Invidiae?
+
+*Wystąpienia: ×1 (poz. 50).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
 
 *Opis:* Korpus
 
@@ -1443,6 +1453,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Co Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]; skuteczność SP +2
 **Efekt Paniki:** Początek Tury: zyskaj 6 [Wzrost Poziomu Obrony] oraz 3 [Wzrost Poziomu Ataku] w następnej turze
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -1533,35 +1544,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×1 (poz. 60).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1593,35 +1575,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×1 (poz. 60).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1653,6 +1606,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -1682,6 +1636,69 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×1 (poz. 60).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×1 (poz. 60).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
 
 *Opis:* Korpus
 
@@ -2813,39 +2830,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-**Pasywki:**
-
-- **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
-
-#### Peccatulum Invidiae?
-
-*Wystąpienia: ×1 (poz. 60).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 3 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2881,6 +2865,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -2914,6 +2899,42 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Sloty akcji  | start: 3 · maks. 3                             |
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+**Pasywki:**
+
+- **Peccatulum Zazdrości 2. stadium** — zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń
+
+#### Peccatulum Invidiae?
+
+*Wystąpienia: ×1 (poz. 60).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
 
 *Opis:* Korpus
 
@@ -2956,6 +2977,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Co Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]; skuteczność SP +2
 **Efekt Paniki:** Początek Tury: zyskaj 6 [Wzrost Poziomu Obrony] oraz 3 [Wzrost Poziomu Ataku] w następnej turze
+
 *Opis:* Korpus
 
 **Części (anatomia):**

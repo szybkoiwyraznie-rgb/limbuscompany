@@ -27,6 +27,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -86,6 +87,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -163,6 +165,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -234,6 +237,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -305,6 +309,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -370,6 +375,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -435,6 +441,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -500,6 +507,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Zadawane obrażenia wrogom z [Podpalenie] +10%
 **Efekt Paniki:** Zyskaj 1 [Wrażliwość]
 Zadawane obrażenia wrogom z [Podpalenie] +25%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -571,6 +579,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -630,6 +639,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -707,6 +717,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -778,6 +789,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -849,6 +861,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -914,6 +927,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -979,6 +993,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1044,6 +1059,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Zadawane obrażenia wrogom z [Podpalenie] +10%
 **Efekt Paniki:** Zyskaj 1 [Wrażliwość]
 Zadawane obrażenia wrogom z [Podpalenie] +25%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1115,6 +1131,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1174,6 +1191,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1251,6 +1269,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1322,6 +1341,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1393,6 +1413,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1458,6 +1479,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1523,6 +1545,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1588,6 +1611,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Zadawane obrażenia wrogom z [Podpalenie] +10%
 **Efekt Paniki:** Zyskaj 1 [Wrażliwość]
 Zadawane obrażenia wrogom z [Podpalenie] +25%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1659,6 +1683,7 @@ Zadawane obrażenia wrogom z [Podpalenie] +25%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1718,6 +1743,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1795,6 +1821,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1866,6 +1893,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1937,6 +1965,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2002,6 +2031,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Obrażenia krytyczne -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2067,6 +2097,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +5%
 **Efekt Paniki:** Zadawane obrażenia wrogom z [Podpalenie] -10%
 Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2132,6 +2163,7 @@ Obrażenia Oszołomienia przeciw wrogom z [Wstrząs] +10%
 Zadawane obrażenia wrogom z [Podpalenie] +10%
 **Efekt Paniki:** Zyskaj 1 [Wrażliwość]
 Zadawane obrażenia wrogom z [Podpalenie] +25%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**

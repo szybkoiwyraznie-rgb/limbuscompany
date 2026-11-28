@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -70,6 +71,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -119,6 +121,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -164,6 +167,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -213,6 +217,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -258,6 +263,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -307,6 +313,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -352,6 +359,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -397,6 +405,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -442,6 +451,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -491,6 +501,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -536,6 +547,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -581,6 +593,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -626,6 +639,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -675,6 +689,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -720,6 +735,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -765,6 +781,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -810,6 +827,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -859,6 +877,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -904,6 +923,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -949,6 +969,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -994,6 +1015,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -1228,6 +1250,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -1273,6 +1296,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach
@@ -1318,6 +1342,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół
@@ -1363,6 +1388,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przebijające Cięcie
@@ -1408,6 +1434,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Chmura Cienia
@@ -1466,6 +1493,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1545,6 +1573,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1640,6 +1669,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Chmura Cienia
@@ -1699,6 +1729,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wrażliwość] i 2 [Słabsze Leczenie Poczytalności]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wrażliwość] i 3 [Słabsze Leczenie Poczytalności].
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -1762,35 +1793,6 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1822,35 +1824,6 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1882,35 +1855,6 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1942,35 +1886,6 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2002,35 +1917,6 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2062,35 +1948,6 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2122,35 +1979,6 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | — (+— za poziom)      |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-#### Peccatulum Invidiae
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | — (+— za poziom)                               |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
-| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2182,6 +2010,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
 
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -2211,6 +2040,224 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 | Sloty akcji  | start: 1 · maks. 1                             |
 | Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
 | Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×0 (poz. —).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×0 (poz. —).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×0 (poz. —).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×0 (poz. —).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×0 (poz. —).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×0 (poz. —).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | — (+— za poziom)      |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+#### Peccatulum Invidiae
+
+*Wystąpienia: ×0 (poz. —).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
 
 *Opis:* Korpus
 
@@ -2247,6 +2294,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Korpus
 
 ##### Umiejętność: ***ew (×2)
@@ -2292,6 +2340,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Korpus
 
 ##### Umiejętność: Wa***ha (×2)
@@ -2337,6 +2386,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Korpus
 
 ##### Umiejętność: ***ew (×2)
@@ -2382,6 +2432,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 
 **Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
 **Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
+
 *Opis:* Korpus
 
 ##### Umiejętność: Wa***ha (×2)
@@ -2793,6 +2844,7 @@ przy zmianie wzorca przywołuje G Corp. Head Manager i Downcast Veteran; następ
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Celuj w Solarny Splot
@@ -2848,6 +2900,7 @@ przy zmianie wzorca przywołuje G Corp. Head Manager i Downcast Veteran; następ
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2912,6 +2965,7 @@ przy zmianie wzorca przywołuje G Corp. Head Manager i Downcast Veteran; następ
 
 **Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
 **Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -2977,6 +3031,7 @@ przy zmianie wzorca przywołuje G Corp. Head Manager i Downcast Veteran; następ
 Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
 Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3044,6 +3099,7 @@ na Początku tury przy SP równym 20 lub więcej zyskuje 1 [Wzrost Mocy Ataku]
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wrażliwość] i nałóż 1 [Wzrost Obrażeń] na wszystkich sojuszników
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wrażliwość] i nałóż 2 [Wzrost Obrażeń] na wszystkich sojuszników
+
 **Części (anatomia):**
 
 ##### Korpus
@@ -3105,6 +3161,7 @@ na Początku tury przy SP równym 20 lub więcej zyskuje 1 [Wzrost Mocy Ataku]
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3178,6 +3235,7 @@ na Początku tury przy SP równym 20 lub więcej zyskuje 1 [Wzrost Mocy Ataku]
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: Maks. Szybkość +1, zyskaj 2 [Wzrost Poziomu Ataku] i 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3276,6 +3334,7 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 
 **Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
 **Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
+
 *Opis:* jednostka
 
 ##### Umiejętność: Przednie Wirowanie
@@ -3347,6 +3406,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Nie wykonuje działań w tej turze.
+
 ##### Umiejętność: Rozbicie
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
@@ -4363,6 +4423,7 @@ Szybkość w następnej turze jest ustalona na 10
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +15%
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +30% oraz **podwój efekty nakładane przez Monety umiejętności „Łuk Ojczyzny [Sal] - Spuszczenie Strzały”**
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4508,6 +4569,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4569,6 +4631,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4630,6 +4693,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +15%
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +30% oraz **podwój efekty nakładane przez Monety umiejętności „Łuk Ojczyzny [Sal] - Spuszczenie Strzały”**
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4776,6 +4840,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4833,6 +4898,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4890,6 +4956,7 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Postawa Uderzeniowa (×3)
@@ -4946,6 +5013,7 @@ na Początku tury, jeżeli Kim w Bambusowym Kapeluszu jest na polu walki, zyskuj
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Postawa Uderzeniowa (×3)
@@ -5002,6 +5070,7 @@ na Początku tury, jeżeli Kim w Bambusowym Kapeluszu jest na polu walki, zyskuj
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Postawa Uderzeniowa (×3)
@@ -5058,6 +5127,7 @@ na Początku tury, jeżeli Kim w Bambusowym Kapeluszu jest na polu walki, zyskuj
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Postawa Uderzeniowa (×3)
@@ -5118,6 +5188,7 @@ na Początku tury, jeżeli Kim w Bambusowym Kapeluszu jest na polu walki, zyskuj
 - Początek Tury: zyskaj 1 [Wzrost Obrażeń] i 2 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +([Uszkodzenie Nerwów] na celu)% (maks. 30%)
 - Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5239,6 +5310,7 @@ na Początku tury, jeżeli Kim w Bambusowym Kapeluszu jest na polu walki, zyskuj
 - Początek Tury: zyskaj 1 [Wzrost Obrażeń] i 2 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +([Uszkodzenie Nerwów] na celu)% (maks. 30%)
 - Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5429,6 +5501,7 @@ gdy [Piętno Głębin] pojawi się na polu walki, jednostka staje się aktywna i
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5485,6 +5558,7 @@ gdy [Piętno Głębin] pojawi się na polu walki, jednostka staje się aktywna i
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5547,6 +5621,7 @@ gdy [Piętno Głębin] pojawi się na polu walki, jednostka staje się aktywna i
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5611,6 +5686,7 @@ gdy [Piętno Głębin] pojawi się na polu walki, jednostka staje się aktywna i
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przygotowanie do Zbierania
@@ -5661,6 +5737,7 @@ gdy [Piętno Głębin] pojawi się na polu walki, jednostka staje się aktywna i
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wstydu Nie Masz?
@@ -5731,6 +5808,7 @@ gdy [Piętno Głębin] pojawi się na polu walki, jednostka staje się aktywna i
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -5797,6 +5875,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -5863,6 +5942,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -5930,6 +6010,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -5997,6 +6078,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 30%)
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fauvist Docent
 
 **Części (anatomia):**
@@ -6060,6 +6142,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6126,6 +6209,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6192,6 +6276,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6259,6 +6344,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6326,6 +6412,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 30%)
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fauvist Docent
 
 **Części (anatomia):**
@@ -6383,6 +6470,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 30%)
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fauvist Docent
 
 **Części (anatomia):**
@@ -6446,6 +6534,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6513,6 +6602,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6580,6 +6670,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6648,6 +6739,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -6716,6 +6808,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -6785,6 +6878,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -6856,6 +6950,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 *Opis:* Prozelita The Index
 
 ##### Umiejętność: Cel Zauważony
@@ -6913,6 +7008,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
 **Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
 Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
+
 ##### Umiejętność: Cel Zauważony
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -6968,6 +7064,7 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -7022,6 +7119,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Dzikie Walicie (×3)
@@ -7076,6 +7174,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -7131,6 +7230,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 ##### Umiejętność: Przygotowanie Dzieła (×3)
@@ -7187,6 +7287,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -8592,6 +8693,7 @@ przy 20% HP lub mniej zyskuje 20 [Narastający Żal] co turę, począwszy od nas
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wrażliwość] i 2 [Słabsze Leczenie Poczytalności]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wrażliwość] i 3 [Słabsze Leczenie Poczytalności].
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -8709,6 +8811,7 @@ na koniec tury wysysa 5 SP od celów z wyższym SP niż ta jednostka (maks. 3 ce
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +15%
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +30% oraz **podwój efekty nakładane przez Monety umiejętności „Łuk Ojczyzny [Sal] - Spuszczenie Strzały”**
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -8807,6 +8910,7 @@ na koniec tury wysysa 5 SP od celów z wyższym SP niż ta jednostka (maks. 3 ce
 
 **Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +15%
 **Efekt Paniki:** Zyskaj 2 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +30% oraz **podwój efekty nakładane przez Monety umiejętności „Łuk Ojczyzny [Sal] - Spuszczenie Strzały”**
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -8948,6 +9052,7 @@ na koniec tury wysysa 5 SP od celów z wyższym SP niż ta jednostka (maks. 3 ce
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9009,6 +9114,7 @@ na koniec tury wysysa 5 SP od celów z wyższym SP niż ta jednostka (maks. 3 ce
 - Początek Tury: zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
 - Początek Tury: zyskaj 2 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9068,6 +9174,7 @@ na koniec tury wysysa 5 SP od celów z wyższym SP niż ta jednostka (maks. 3 ce
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9133,6 +9240,7 @@ na koniec tury wysysa 5 SP od celów z wyższym SP niż ta jednostka (maks. 3 ce
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9204,6 +9312,7 @@ na koniec tury wysysa 5 SP od celów z wyższym SP niż ta jednostka (maks. 3 ce
 Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Obrażeń] i 1 [Wrażliwość]
 **Efekt Paniki:** Zadaje +(różnica % PŻ)% obrażeń celom o wyższym % PŻ niż ta jednostka (maks. 25%)
 Początek Tury: zyskaj 1 [Wzmocnienie Monet Plus], 2 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -9288,6 +9397,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
 **Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
 Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
 Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -9332,6 +9442,7 @@ Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9460,6 +9571,7 @@ Moc [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] i [Zatonięcie] akumuluj
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9570,6 +9682,7 @@ Moc [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] i [Zatonięcie] akumuluj
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9633,6 +9746,7 @@ Moc [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] i [Zatonięcie] akumuluj
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9687,6 +9801,7 @@ Moc [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] i [Zatonięcie] akumuluj
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -9744,6 +9859,7 @@ Moc [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] i [Zatonięcie] akumuluj
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 30%)
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fauvist Docent
 
 **Części (anatomia):**
@@ -9801,6 +9917,7 @@ Moc [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] i [Zatonięcie] akumuluj
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Zadawane obrażenia +5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 30%)
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fauvist Docent
 
 **Części (anatomia):**
@@ -9864,6 +9981,7 @@ Moc [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] i [Zatonięcie] akumuluj
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -9931,6 +10049,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -9998,6 +10117,7 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -10066,6 +10186,7 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 - Zyskaj 1 [Wrażliwość]
 **Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
 - Zyskaj 2 [Wrażliwość]
+
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -10732,6 +10853,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Człowiek-om! (×2)
@@ -10774,6 +10896,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -10816,6 +10939,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Zrobię z Was Mebel-om! (×2)
@@ -10858,6 +10982,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Porwę Was-om! (×2)
@@ -10910,6 +11035,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Człowiek-om! (×2)
@@ -10952,6 +11078,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -10998,6 +11125,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -11040,6 +11168,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Zrobię z Was Mebel-om! (×2)
@@ -11086,6 +11215,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Człowiek-om! (×2)
@@ -11128,6 +11258,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Zrobię z Was Mebel-om! (×2)
@@ -11170,6 +11301,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -11216,6 +11348,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -11258,6 +11391,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Zrobię z Was Mebel-om! (×2)
@@ -11300,6 +11434,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Człowiek-om! (×2)
@@ -11342,6 +11477,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Porwę Was-om! (×2)
@@ -11394,6 +11530,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Człowiek-om! (×2)
@@ -11436,6 +11573,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -11478,6 +11616,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Zrobię z Was Mebel-om! (×2)
@@ -11520,6 +11659,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Porwę Was-om! (×2)
@@ -11572,6 +11712,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Człowiek-om! (×2)
@@ -11614,6 +11755,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -11656,6 +11798,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Zrobię z Was Mebel-om! (×2)
@@ -11698,6 +11841,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Porwę Was-om! (×2)
@@ -11750,6 +11894,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Człowiek-om! (×2)
@@ -11792,6 +11937,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Świeżuteńkie Mięsko-om (×2)
@@ -11834,6 +11980,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Zrobię z Was Mebel-om! (×2)
@@ -11876,6 +12023,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 ##### Umiejętność: Porwę Was-om! (×2)
@@ -11928,6 +12076,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -11977,6 +12126,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12026,6 +12176,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12075,6 +12226,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12130,6 +12282,7 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12217,6 +12370,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12266,6 +12420,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12315,6 +12470,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12364,6 +12520,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12419,6 +12576,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -12507,6 +12665,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Niegrzeczne Uderzenie
@@ -12551,6 +12710,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nagłe Uderzenie
@@ -12599,6 +12759,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -12641,6 +12802,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -12687,6 +12849,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -12729,6 +12892,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -12775,6 +12939,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Niespodziewane Uderzenie
@@ -12819,6 +12984,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Pościg
@@ -12867,6 +13033,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Niespodziewane Uderzenie
@@ -12911,6 +13078,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Pościg
@@ -12960,6 +13128,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -13026,6 +13195,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -13092,6 +13262,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -13160,6 +13331,7 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -13257,6 +13429,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -13328,6 +13501,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)
@@ -13373,6 +13547,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)
@@ -13424,6 +13599,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)
@@ -13475,6 +13651,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)
@@ -13524,6 +13701,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** W Starciu z Tożsamościami mającymi [Cukierek?]: Moc Starcia +3; w Starciu z pozostałymi Tożsamościami: Moc Starcia -1
 **Efekt Paniki:** W Starciu z Tożsamościami mającymi [Cukierek?]: Moc Starcia +5; w Starciu z pozostałymi Tożsamościami: Moc Starcia -2
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**

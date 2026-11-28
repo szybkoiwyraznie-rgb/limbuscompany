@@ -26,6 +26,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -75,6 +76,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -129,6 +131,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -178,6 +181,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -231,6 +235,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -280,6 +285,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -329,6 +335,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -390,6 +397,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -439,6 +447,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -488,6 +497,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -550,6 +560,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -599,6 +610,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -648,6 +660,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -704,6 +717,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -766,6 +780,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -815,6 +830,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -864,6 +880,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -920,6 +937,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -981,6 +999,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -1030,6 +1049,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -1079,6 +1099,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -1135,6 +1156,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -1192,6 +1214,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Tam, tam ich widzę (×3)
@@ -1264,6 +1287,7 @@ pozostali sojusznicy przywracają 10 SP
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -1313,6 +1337,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -1362,6 +1387,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -1422,6 +1448,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -1471,6 +1498,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -1520,6 +1548,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -1576,6 +1605,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -1891,6 +1921,7 @@ staje się Destroyed Flotsam.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1979,6 +2010,7 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2070,6 +2102,7 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2165,6 +2198,7 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -2214,6 +2248,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -2263,6 +2298,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -2319,6 +2355,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -2380,6 +2417,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -2429,6 +2467,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -2478,6 +2517,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -2535,6 +2575,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -3508,6 +3549,7 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3557,6 +3599,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3600,6 +3643,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3649,6 +3693,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3762,6 +3807,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3806,6 +3852,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3850,6 +3897,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3900,6 +3948,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
 **Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -3949,6 +3998,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×5)
@@ -4098,6 +4148,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: --. . ...- (×3)
@@ -4147,6 +4198,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: .--. - (×3)
@@ -4240,6 +4292,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: -- . -.- (×3)
@@ -4330,6 +4383,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: ..-. . (×3)
@@ -4462,6 +4516,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: -- . -.- (×3)
@@ -4512,6 +4567,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: --. . ...- (×3)
@@ -4561,6 +4617,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: ..-. . (×3)
@@ -4605,6 +4662,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: .--. - (×3)
@@ -4738,6 +4796,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Cięcie (×3)
@@ -4787,6 +4846,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Hak: Zahaczenie (×3)
@@ -4836,6 +4896,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozdzieranie Cielistki (×5)
@@ -4892,6 +4953,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
 **Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Bij Mnie Jeszcze (×5)
@@ -4952,6 +5014,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5018,6 +5081,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5086,6 +5150,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5353,6 +5418,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Prosto w Solarny Splot
@@ -5414,6 +5480,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Prosto w Solarny Splot
@@ -5475,6 +5542,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -5519,6 +5587,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -5569,6 +5638,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -5618,6 +5688,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: (bez nazwy) (×3)
@@ -5948,6 +6019,7 @@ gdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6033,6 +6105,7 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6184,6 +6257,7 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6253,6 +6327,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6322,6 +6397,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6407,6 +6483,7 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6495,6 +6572,7 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6569,6 +6647,7 @@ Koniec tury: jeżeli [Ego Starbucka] wynosi 0, przechodzi w Oszołamienie w nast
 
 **Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
 **Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6673,6 +6752,7 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Pchnięcie (×2)
@@ -6730,6 +6810,7 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 **Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
 **Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
 Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Seria Pchnięć (×2)

@@ -24,6 +24,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Niegrzeczne Uderzenie
@@ -68,6 +69,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nagłe Uderzenie
@@ -116,6 +118,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -158,6 +161,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -204,6 +208,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -246,6 +251,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie
@@ -292,6 +298,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Niespodziewane Uderzenie
@@ -336,6 +343,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Pościg
@@ -384,6 +392,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Niespodziewane Uderzenie
@@ -428,6 +437,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Pościg
@@ -477,6 +487,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
 **Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -543,6 +554,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -609,6 +621,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -677,6 +690,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
 (1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -774,6 +788,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -845,6 +860,7 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)
@@ -893,6 +909,7 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)
@@ -947,6 +964,7 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)
@@ -1001,6 +1019,7 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 **Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Wydobycie Paliwa (×3)

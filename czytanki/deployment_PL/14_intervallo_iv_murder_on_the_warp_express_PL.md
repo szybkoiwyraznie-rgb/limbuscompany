@@ -25,6 +25,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -77,6 +78,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -133,6 +135,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -185,6 +188,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -241,6 +245,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -293,6 +298,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -345,6 +351,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -401,6 +408,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -453,6 +461,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -505,6 +514,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -769,6 +779,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -821,6 +832,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -873,6 +885,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -1137,6 +1150,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -1189,6 +1203,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -1241,6 +1256,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -1453,6 +1469,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -1559,6 +1576,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -1611,6 +1629,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -1773,6 +1792,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -2071,6 +2091,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2152,6 +2173,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2317,6 +2339,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2521,6 +2544,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2683,6 +2707,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3081,6 +3106,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3133,6 +3159,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3185,6 +3212,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3447,6 +3475,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Aktywacja Protezy
@@ -3517,6 +3546,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Aktywacja Protezy
@@ -3593,6 +3623,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3645,6 +3676,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3701,6 +3733,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3753,6 +3786,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3809,6 +3843,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3861,6 +3896,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3913,6 +3949,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -3969,6 +4006,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4021,6 +4059,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4073,6 +4112,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4337,6 +4377,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4389,6 +4430,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4441,6 +4483,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4705,6 +4748,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4757,6 +4801,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -4809,6 +4854,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -5021,6 +5067,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -5127,6 +5174,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -5179,6 +5227,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -5341,6 +5390,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
 **Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
+
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zkrzepnięta Ręka
@@ -5639,6 +5689,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5728,6 +5779,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 **Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
 **Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
+
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
