@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=815101].desc": {
+      "pl": "o ile jednostka nie jest Oszołamiona lub nie ma zniszczonej części, otrzymuje -50% obrażeń z [Combustion].",
+      "kr_sha256": "0219f971b2d76aaecdbe3fa3907dc5944b6be43ba3d3d0e118f416b91795f8bd",
+      "en_sha256": "8b52cfa166f01086dbc6530fc8f2a04b9a5896b9424af8b10ce8a143fe0f36b1",
+      "origin": "ai"
+    },
+    "dataList[id=815101].name": {
+      "pl": "Odporność na Grzechy",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=815201].desc": {
+      "pl": "o ile jednostka nie jest Oszołamiona lub nie ma zniszczonej części, otrzymuje -50% obrażeń z [Sinking].",
+      "kr_sha256": "d1c645bf3e7ddb16d91ee2bcc37d4d05ede41be58c5443f57d03ad045987dcb4",
+      "en_sha256": "a325026e28b95f8b15dec9a77b899885eca1f6526d0714eaf6b936bad482f6ef",
+      "origin": "ai"
+    },
+    "dataList[id=815201].name": {
+      "pl": "Odporność na Grzechy",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=815301].desc": {
+      "pl": "gdy „To Claim Your Bones\" znajduje się w slocie Umiejętności, zyskuje [Grudge] na początku tury. Usuwa [Grudge] na koniec tury",
+      "kr_sha256": "5d9716f15b0550d1a378c8100ec0d5fe8bc50f334d9a20427bb88e47a77f72d1",
+      "en_sha256": "f1b1131aa00dcda4a11d2c7736c2f4089efce52dbc17b9efb60c40bc1ff11d5a",
+      "origin": "ai"
+    },
+    "dataList[id=815301].name": {
+      "pl": "Pochwa Przesiąknięta Urazą",
+      "kr_sha256": "a30d9388099df92d4edaa2460724f923de5b1dd44d8a82e7dda0a004e90cfadb",
+      "en_sha256": "23ad219109ccf471ef97c8241cbe58354feae94d67c883f8f3e428fe2eed68cc",
+      "origin": "ai"
+    },
+    "dataList[id=815402].desc": {
+      "pl": "przy 20% HP zmienia wzorzec.\nprzy 20% HP lub mniej zyskuje 20 [Grudge] co turę, począwszy od następnej tury. [Grudge] nie wygasa",
+      "kr_sha256": "7d774ef4ee3c8456c27b9896c9fafadc136f4504b7899a08515569277bbed823",
+      "en_sha256": "5b52f735e43ad75caae4404a7c19a3f2fb90b41120dcad6736443447ae06c932",
+      "origin": "ai"
+    },
+    "dataList[id=815402].name": {
+      "pl": "Blade Dance",
+      "kr_sha256": "bdd3dcd95e4961d3f3645f0dc3776cda437cd3af7217161704f6c2f6a0eeefdb",
+      "en_sha256": "d2f6facf21cd28d0a109a216d4c4288d1b2cc6d08016aae335c9538012108c7f",
+      "origin": "ai"
+    },
+    "dataList[id=815403].desc": {
+      "pl": "przy otrzymaniu obrażeń z [Sinking], zyskuje w następnej turze 1 Spadek Poziomu Obrony. (5 razy na turę)",
+      "kr_sha256": "5acd40a7724be5ccf3e626d8cf2e452f0f675ed7aa4ebd1a5b551d1f4e6bc771",
+      "en_sha256": "166049e7d3eaad9efafeb0a53262654b3c59e1742318732bdc35be93e14c2082",
+      "origin": "ai"
+    },
+    "dataList[id=815403].name": {
+      "pl": "Narastający Żal",
+      "kr_sha256": "dceff05c70e04bddec64938b79a6b7010f9610b2655cc4a2d448dfbf83830862",
+      "en_sha256": "9ef409850958d37dcf2d2c209df3e498dd89c042f1a740cbd4a3dda006883666",
+      "origin": "ai"
+    }
+  }
+}

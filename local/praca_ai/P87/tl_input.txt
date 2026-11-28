@@ -1,0 +1,91 @@
+1||1] (ulepszenie 1) — opis] [WhenUse] 대상의 정신력 5 회복|[WhenUse] Target heals 5 SP
+2||2] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 5 회복|[OnSucceedAttack] Target heals 5 SP
+8||8] (ulepszenie 1) — nazwa] 끄긱|Screecoo!
+19||19] (ulepszenie 1) — opis] [CanDuelGuard]\n[WinDuel] 대상의 정신력 5 회복|[CanDuelGuard]\n[WinDuel] Target heals 5 SP
+21||21] (ulepszenie 1) — nazwa] 꾸옥|Kwogh
+22||22] (ulepszenie 1) — nazwa] 꾸오옥|Kwaagh
+23||23] (ulepszenie 1) — nazwa] 꼬고곡!|Babawbawk!
+25||25] (ulepszenie 1) — nazwa] 꼭꼭!|Cluckcluck!
+27||27] (ulepszenie 1) — nazwa] 꼬오옥!|Cluuuck!
+29||29] (ulepszenie 1) — nazwa] 꼭|Coo
+33||33] (ulepszenie 1) — nazwa] 고고곡|Gwoghkwogh
+35||35] (ulepszenie 1) — nazwa] 고곡|Bwoghkh
+38||38] (ulepszenie 1) — nazwa] 꼬곡|Khgwok
+40||40] Pasywka wroga [136501] — nazwa] 뽕.황의 위엄|Dignity of the B.E.
+41||41] Pasywka wroga [136501] — opis] 턴 종료 시, 모든 적에게 5만큼 정신력 피해|Turn End: Deal 5 SP damage to all enemies
+42||42] Pasywka wroga [136502] — nazwa] 삐져나온닭|Bulging Chicken
+43||43] Pasywka wroga [136502] — opis] 피격 시 [LeakedOutSauce] 1 얻음|When Hit: Gain 1 [LeakedOutSauce]
+45||45] Pasywka wroga [136503] — opis] 대상보다 속도가 높다면, 합 위력 (속도 / 3)만큼 추가|If this unit's Speed is faster than the target's, Clash Power +(Speed / 3)
+46||46] Pasywka wroga [138701] — nazwa] 입에 직접 쑤셔 넣어 주겠어!|I'll Just Have to Force-feed You!
+47||47] Pasywka wroga [138701] — opis] 턴 종료 시, 다음 턴에 모든 적에게 [DeliciousSauce] 1 부여|Turn End: Inflict 1 [DeliciousSauce] on all enemies next turn
+48||48] Pasywka wroga [138702] — nazwa] 다 함께 요리를 만들어요|Let's All Cook Together!
+49||49] Pasywka wroga [138702] — opis] 턴 종료 시, 전투에 참여 중인 자신을 제외한 모든 적과 아군 정신력 10 회복.|Turn End: Heal 10 SP for all allies and enemies participating in this battle (excluding this unit)
+50||50] Pasywka wroga [138703] — nazwa] 아이들을 위해서였어요|It was All... for the Kids.
+51||51] Pasywka wroga [138703] — opis] 자신의 공격 적중시, 대상의 잃은 체력 1%당 가하는 피해량 -1%|On Attack Hit: Deal -1% damage for every 1% missing HP on target
+53||53] Pasywka wroga [9103901] — opis] 피격 시 [LeakedOutSauce] 1 얻음 (전투당 6회)|When Hit: Gain 1 [LeakedOutSauce] (6 times per Encounter)
+54||54] Pasywka wroga [9103902] — nazwa] 비어버린닭|Hollowed Chicken
+55||55] Pasywka wroga [9103902] — opis] 양념장이 모두 빠져나갔다면, 턴 시작 시 [Vulnerable] 2 얻음|Turn Start: Gain 2 [Vulnerable] if this unit has no Marinade
+56||56] Pasywka wroga [9104101] — nazwa] HP 앰플|HP Ampule
+57||57] Pasywka wroga [9104101] — opis] 턴 시작시 체력 15 회복\n체력이 50% 미만이면 체력 15 추가 회복|Turn Start: Heal 15 HP\nAt less than 50% HP, heal 15 additional HP
+58||58] Wróg / część [90110] — nazwa] 결연한 흑운회 조직원|Determined Kurokumo Henchman
+60||60] Wróg / część [90111] — nazwa] 긴장한 흑운회 조직원|Tense Kurokumo Henchman
+62||62] Wróg / część [90112] — nazwa] 능숙한 흑운회 조직원|Adept Kurokumo Henchwoman
+64||64] Wróg / część [90113] — nazwa] 나른한 흑운회 조직원|Tired Kurokumo Henchwoman
+68||68] Wróg / część [8151] — nazwa] 분노 죄종?|Peccatulum Irae?
+70||70] Wróg / część [8152] — nazwa] 우울 죄종?|Peccatulum Morositatis?
+72||72] Wróg / część [8153] — nazwa] 뒤틀려가는 김삿갓|Distorting Bamboo-hatted Kim
+74||74] Wróg / część [8154] — nazwa] 뒤틀린 김삿갓|Distorted Bamboo-hatted Kim
+77||77] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 5 부여, [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Combustion] and +2 [Combustion] Count
+78||78] (ulepszenie 1) — nazwa] 꼬리치기|Tail Whisk
+81||81] (ulepszenie 1) — nazwa] 숨결 불어넣기|Blow in Breath
+82||82] (ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion]이 5이상이면, 코인 위력 +1|[WhenUse] If target has 5+ [Combustion], Coin Power +1
+88||88] (ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion]이 5이상이면, 코인 위력 +2|[WhenUse] If target has 5+ [Combustion], Coin Power +2
+89||89] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDmgUp_Weak] 1 얻음|[OnSucceedAttack] Gain 1 [AttackDmgUp_Weak] next turn
+90||90] (ulepszenie 1) — nazwa] 뛰어들기|Leap In
+93||93] (ulepszenie 1) — nazwa] 쏘아붙이기|Snap At
+94||94] (ulepszenie 1) — opis] [WinDuel] 대상에게 [Sinking]이 있을 때, 기본 위력 +2|[WinDuel] If target has [Sinking], Base Power +2
+95||95] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여, [Sinking] 횟수 3 증가|[OnSucceedAttack] Inflict 3 [Sinking] and +3 [Sinking] Count
+96||96] (ulepszenie 1) — nazwa] 물폭탄|Water Bomb
+99||99] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [AzureTakeDamageUp] 2 부여|[OnSucceedAttackHead] Inflict 2 [AzureTakeDamageUp] next turn
+101||101] (ulepszenie 1) — opis] [OnSucceedEvade] 대상에게 [Sinking] 2 부여|[OnSucceedEvade] Inflict 2 [Sinking]
+106||106] (ulepszenie 1) — nazwa] 절동|Paralyzer
+121||121] (ulepszenie 1) — opis] [WinDuel] 자신의 [Breath] 횟수 3 증가|[WinDuel] Gain +3 [Breath] Count
+125||125] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [SlashResistDown] 2 부여|[OnSucceedAttack] Inflict 2 [SlashResistDown]
+130||130] (ulepszenie 1) — opis] [StartBattle] 보호막 50 얻음\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +5|[StartBattle] Gain 50 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5
+134||134] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함.|[OnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage.
+136||136] (ulepszenie 1) — opis] [OnSucceedEvade] [Breath] 4 얻음|[OnSucceedEvade] Gain 4 [Breath]
+138||138] (ulepszenie 1) — opis] 반격 스킬을 발동시킨 스킬로 받은 피해량만큼 다음 턴에 [Grudge]를 얻음|Gain X [Grudge] next turn (X = Damage dealt by the Skill that activated the Counter Skill)
+140||140] (ulepszenie 1) — opis] [StartBattle] 보호막 200 얻음\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +10|[StartBattle] Gain 200 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10
+146||146] (ulepszenie 1) — nazwa] 칼춤|Blade Dance
+147||147] (ulepszenie 1) — opis] [EnemyKill] 다음 턴에 [AttackUp] 3, [DefenseUp] 3 얻음|[EnemyKill] Gain 3 [AttackUp] and 3 [DefenseUp] next turn
+149||149] (ulepszenie 1) — opis] [CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]가 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복|[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value
+155||155] (ulepszenie 1) — opis] 대상에게 [Laceration]이 7 이상이면 코인 위력 +1\n[WinDuel] 다음 턴에 [SlashDamageUp] 1을 얻음|If target has 7+ [Laceration], Coin Power +1\n[WinDuel] Gain 1 [SlashDamageUp] next turn
+156||156] (ulepszenie 1) — moneta 1, efekt 1 — opis] 대상에게 [Laceration]이 있다면, 피해량 +50%|If target has [Laceration], deal +50% damage
+158||158] (ulepszenie 1) — nazwa] 흩어지는 구름|Lenticular Scatter
+159||159] (ulepszenie 1) — opis] 대상에게 [Laceration]이 5 이상이면 코인 위력 +1\n[WinDuel] 다음 턴에 [SlashResultUp] 1을 얻음|If target has 5+ [Laceration], Coin Power +1\n[WinDuel] Gain 1 [SlashResultUp] next turn
+160||160] (ulepszenie 1) — moneta 1, efekt 1 — opis] 대상에게 [Laceration]이 있다면, 피해량 +20%|If target has [Laceration], deal +20% damage
+161||161] (ulepszenie 1) — moneta 2, efekt 1 — opis] 대상에게 [Laceration]이 있다면, 피해량 +10%|If target has [Laceration], deal +10% damage
+162||162] (ulepszenie 1) — moneta 3, efekt 1 — opis] 대상에게 [Laceration]이 있다면, 피해량 +40%|If target has [Laceration], deal +40% damage
+164||164] (ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [SlashDamageUp] 1 얻음 (턴 당 1회)|[OnSucceedEvade] Gain 1 [SlashDamageUp] next turn (Once per turn)
+168||168] (ulepszenie 1) — moneta 1, efekt 1 — opis] 대상에게 [Laceration]이 있다면, 피해량 +30%|If target has [Laceration], deal +30% damage
+170||170] (ulepszenie 1) — nazwa] 날카로운 검격|Keen Slash
+171||171] (ulepszenie 1) — opis] [WinDuel] 다음 턴에 [SlashDamageUp] 1을 얻음|[WinDuel] Gain 1 [SlashDamageUp] next turn
+176||176] (ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [SlashDamageUp] 1을 얻음 (턴 당 1회)|[OnSucceedEvade] Gain 1 [SlashDamageUp] next turn (Once per turn)
+180||180] (ulepszenie 1) — nazwa] 돌아베기|Reverse Slash
+181||181] (ulepszenie 1) — opis] [WinDuel] 다음 턴에 [Paralysis] 1 부여|[WinDuel] Inflict 1 [Paralysis] next turn
+184||184] (ulepszenie 1) — opis] [WinDuel] 다음 턴에 [Protection] 1 얻음|[WinDuel] Gain 1 [Protection] next turn
+188||188] (ulepszenie 1) — opis] [StartBattle] [Protection] 1 얻음|[StartBattle] Gain 1 [Protection]
+189||189] (ulepszenie 1) — nazwa] 후벼베기|Penetrating Slash
+194||194] (ulepszenie 1) — opis] 대상에게 [Laceration]이 7 이상이면 코인 위력 +1\n[WinDuel] 다음 턴에 [Protection] 1 얻음|If target has 7+ [Laceration], Coin Power +1\n[WinDuel] Gain 1 [Protection] next turn
+198||198] (ulepszenie 1) — opis] 대상에게 [Laceration]이 5 이상이면 코인 위력 +1\n[StartBattle] [Protection] 1 얻음\n[WinDuel] 다음 턴에 [Protection] 1 얻음|If target has 5+ [Laceration], Coin Power +1\n[StartBattle] Gain 1 [Protection]\n[WinDuel] Gain 1 [Protection] next turn
+204||204] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 피해량 +10%|[WhenUse] If target has [Laceration], deal +10% damage
+205||205] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict 4 [Laceration] and +1 [Laceration] Count
+213||213] (ulepszenie 1) — nazwa] 구름 베기|Lenticular Slash
+219||219] (ulepszenie 1) — opis] [StartBattle] 자신을 포함한 모든 아군에게 [SlashDamageUp] 2 부여\n[StartBattle] [SlashResultUp] 2 얻음|[StartBattle] Apply 2 [SlashDamageUp] to all allies, including this unit\n[StartBattle] Gain 2 [SlashResultUp]
+222||222] (ulepszenie 1) — opis] [StartBattle] 메인 타겟의 [Laceration]이 10이상이면, 공격 가중치 +1\n[StartBattle] 이번 턴에 사용하는 공격 스킬이 5개라면, 최종 위력 +5\n[WinDuel] 모든 아군 정신력 10 회복\n대상의 [Laceration]이 7 이상이면, 피해량 +30%|[StartBattle] If the main target has 10+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 5+ Attack Skills this turn, Final Power +5\n[WinDuel] All allies heal 10 SP\nIf target has 7+ [Laceration], deal +30% damage
+228||228] (ulepszenie 1) — opis] [WhenUse] 자신 제외 살아있는 아군 수만큼 1코인 추가 (최대 3)|[WhenUse] Add 1 more coin per every surviving other ally (Max 3)
+232||232] Pasywka wroga [815101] — opis] 흐트러짐 상태, 부위 파괴 상태가 아니라면 자신이 받는 [Combustion] 피해 50% 감소.|Unless this unit is Staggered or Part Broken, take 50% less [Combustion] damage.
+234||234] Pasywka wroga [815201] — opis] 흐트러짐 상태, 부위 파괴 상태가 아니라면 자신이 받는 [Sinking] 피해 50% 감소.|Unless this unit is Staggered or Part Broken, take 50% less [Sinking] damage.
+236||236] Pasywka wroga [815301] — opis] 골단이 공격 슬롯에 있을 때, 턴 시작 시 [Grudge]를 얻음. 턴 종료 시 [Grudge]를 제거|Gain [Grudge] at Turn Start if 'To Claim Your Bones' is in the Skill Slot. Remove [Grudge] at Turn End
+238||238] Pasywka wroga [815402] — opis] 체력이 20% 남았을 때, 패턴이 변경됨.\n체력이 20% 이하가 될 때, 다음 턴부터 매 턴마다 [Grudge]를 20 얻음. [Grudge]가 제거되지 않음|At 20% HP, gains a new pattern.\nAt 20%- HP, starting next turn, gain 20 [Grudge] every turn. [Grudge] no longer expires
+240||240] Pasywka wroga [815403] — opis] 침잠 피해를 받을 경우, 다음 턴에 방어 레벨 감소 1 얻음. (턴 당 5회)|When taking Sinking damage, gain 1 Defense Level Down next turn. (5 times per turn)

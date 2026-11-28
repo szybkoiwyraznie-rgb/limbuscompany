@@ -1,0 +1,118 @@
+{
+  "entries": {
+    "dataList[id=9103901].levelList[level=1].name": {
+      "pl": "Kwogh",
+      "kr_sha256": "483f78d51ae6acc1e3a4b602e13090c90078d3ccbfe0aab532d02018871a947c",
+      "en_sha256": "bacdf0ef55d4c5af43d26fffea4baa57d094a03ef224e243a1f8c2d081a5122a",
+      "origin": "ai"
+    },
+    "dataList[id=9103902].levelList[level=1].name": {
+      "pl": "Kwaagh",
+      "kr_sha256": "eb8ede0712480957b47e8127fd1972d182b84c71ff5d9aada7038ce1ee59af0c",
+      "en_sha256": "6a7b1f41810973200b963596e90f0d4cfde922cbc6cfa1500a48eff8396eccc7",
+      "origin": "ai"
+    },
+    "dataList[id=9104001].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada w następnej turze 1 Spętania",
+      "kr_sha256": "97247abb8c27dc6c20dcfe7ec02197a09d25054820da08b6d70004b073758862",
+      "en_sha256": "688fc6256c6afe12b9349f6d0a6870618b8899f2ed902f2a2193dc2814e48d05",
+      "origin": "ai"
+    },
+    "dataList[id=9104001].levelList[level=1].name": {
+      "pl": "Babawbawk!",
+      "kr_sha256": "37a25ab0a1d8d40874a7032ad38d5c6c03e7ba4584c0b03c1a5a9a6eb7c9b8bc",
+      "en_sha256": "591245ab4239327a8ac6121a28ccd64116240b0c502b11bfd2232ecf7713be53",
+      "origin": "ai"
+    },
+    "dataList[id=9104002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Osłabienia Monety Plus w następnej turze",
+      "kr_sha256": "0a6b76f8fb6753b409a34d880cd443734762165ca87b6e24f5adabf567d8d726",
+      "en_sha256": "4057265cf1984eeba85e2c8343051f9a1d072b2f0ac9a7ad0078d41d87e8ce19",
+      "origin": "ai"
+    },
+    "dataList[id=9104002].levelList[level=1].name": {
+      "pl": "Cluckcluck!",
+      "kr_sha256": "f75f107b523b9c3a6b4371e85306278e5274b4276680b9187432b432d459ac84",
+      "en_sha256": "778e30608c95ead742cfe376a68a9df3aabc985d7d8e6e70798e04c88f89344e",
+      "origin": "ai"
+    },
+    "dataList[id=9104003].levelList[level=1].desc": {
+      "pl": "[WinDuel] Moc Umiejętności +1",
+      "kr_sha256": "df3e30b6dffe5ad4b278e5ad78fdd80590101e16d4baf03a6c78d741d1da17d8",
+      "en_sha256": "daeece2e4950c0c60ce5d22777aeb7fea08ccdf1682e858d6492801c0d3739db",
+      "origin": "ai"
+    },
+    "dataList[id=9104003].levelList[level=1].name": {
+      "pl": "Cluuuck!",
+      "kr_sha256": "4fcf949197b8ff87ba85e3e7c64c3aa9f9057638f017ab727b8e94cd1e046d91",
+      "en_sha256": "43b3b93e2aa18a2c7b0b46fd0d0307b6d1703f3d8999d479b354786110959aa0",
+      "origin": "ai"
+    },
+    "dataList[id=9104101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Wstrząsu w następnej turze",
+      "kr_sha256": "b35916eff2256599c9a4e1027847afe86e5f72d0b86c86164c8b249e946ce165",
+      "en_sha256": "59fcfbea907c5d9349bcc7f9a8c8182dcafc831718c32d76d033d501b2c85303",
+      "origin": "ai"
+    },
+    "dataList[id=9104101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Wstrząsu w następnej turze",
+      "kr_sha256": "b35916eff2256599c9a4e1027847afe86e5f72d0b86c86164c8b249e946ce165",
+      "en_sha256": "59fcfbea907c5d9349bcc7f9a8c8182dcafc831718c32d76d033d501b2c85303",
+      "origin": "ai"
+    },
+    "dataList[id=9104101].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Wstrząsu w następnej turze",
+      "kr_sha256": "b35916eff2256599c9a4e1027847afe86e5f72d0b86c86164c8b249e946ce165",
+      "en_sha256": "59fcfbea907c5d9349bcc7f9a8c8182dcafc831718c32d76d033d501b2c85303",
+      "origin": "ai"
+    },
+    "dataList[id=9104101].levelList[level=1].name": {
+      "pl": "Coo",
+      "kr_sha256": "712da780b7ecf8b736b35fa20b476e7a1081e3c77b51c18986db92df84c25e80",
+      "en_sha256": "b69c471301048793379bdcd59a1238a8413872d7c57fbe7614b3d96db0d627c5",
+      "origin": "ai"
+    },
+    "dataList[id=9104102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik Wstrząsu o 1 w następnej turze",
+      "kr_sha256": "3c97c1443d9060c4f47c9afbb23a8540252aff2983af3edbccc65fa5b8544a96",
+      "en_sha256": "0dcd86aa36196972944f51bf43426634b01cedeae2e63225c502ee2901322cb1",
+      "origin": "ai"
+    },
+    "dataList[id=9104102].levelList[level=1].name": {
+      "pl": "Gwoghkwogh",
+      "kr_sha256": "ff7ac70190c9c2dd1135ad8702bd722b9218018f35db18556cf94b20a92e5a6e",
+      "en_sha256": "a66738358b3ca6f8f88e62fa8a6e2ce5138ab904c3d080cf8d95400f8396e358",
+      "origin": "ai"
+    },
+    "dataList[id=9104103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 3 Wstrząsu w następnej turze",
+      "kr_sha256": "abe977c6de0a1117ef177f98605dcb8d8ceb9d2ad226dac38ab41ac11baf3748",
+      "en_sha256": "019b2e2694d63c9dd69dfff7f1934c8e9b141941c9ea7424f0d3692d3116b4b0",
+      "origin": "ai"
+    },
+    "dataList[id=9104103].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=9104103].levelList[level=1].name": {
+      "pl": "Bwoghkh",
+      "kr_sha256": "068bae845b5753fb08195ad972a5f7d895588e61a0459e3f33ed2b45f463cd2b",
+      "en_sha256": "7c24619e52b7b04e10d2ee01159b5736008a75240cce4a73dadfc06b22187560",
+      "origin": "ai"
+    },
+    "dataList[id=9104104].levelList[level=1].desc": {
+      "pl": "[WhenUse] przywraca 10 HP",
+      "kr_sha256": "c03713731da9f06ba55288c4f9768f21d202d83c0044ab0ea0f729a31a1d673c",
+      "en_sha256": "472ed553542af417a86374de3347bec53b305dcb4bcc3d9f3e2600a98609f3a6",
+      "origin": "ai"
+    },
+    "dataList[id=9104104].levelList[level=1].name": {
+      "pl": "Khgwok",
+      "kr_sha256": "2b9940b2ea17637913c5ef5ad456bd003dade83dd7335bc1275a718411ee14de",
+      "en_sha256": "ac0207ed859913e23700e8c2cded63ee327b99d79850fd96b316ac2559dad4e7",
+      "origin": "ai"
+    }
+  }
+}

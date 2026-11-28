@@ -240,10 +240,130 @@
       "en_sha256": "cca92dadbb88b01bdba711a1fbbc9ebb12de79bddd538d183d565a00f7356535",
       "origin": "ai"
     },
+    "dataList[id=138701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel przywraca 5 Poczytalności",
+      "kr_sha256": "4797b4c45728adae7c6fb855d96a651817dd5b44b868f3d04d424091e718845e",
+      "en_sha256": "4ccb7d11455ea0003f9a1e020fc9f00243fc300e09182d64b33ae95c60906fb4",
+      "origin": "ai"
+    },
+    "dataList[id=138701].levelList[level=1].desc": {
+      "pl": "[WhenUse] cel przywraca 5 Poczytalności",
+      "kr_sha256": "170c728b2e68fee5bdaf2d62be91e00d3ba227092312a954d1b1980c3ee825ee",
+      "en_sha256": "dbd4219b33f367b38bbef485a34863100cb5dc721286dc0642853a1ae1709bd0",
+      "origin": "ai"
+    },
     "dataList[id=138701].levelList[level=1].name": {
       "pl": "Kgh!",
       "kr_sha256": "d38553abc847110ca630b971bd63fe2128a09e9227619a0387b1ac5717f0d1d3",
       "en_sha256": "83d8352b7d69e66f994cb5d2379387b096f404a9422de148ac602e4532c1ef0e",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].desc": {
+      "pl": "[WideAreaRampage]",
+      "kr_sha256": "70dcd1e82dd3c89c899771c8ae3f2bfe82677d1c37ec95895f33bddfe28b3213",
+      "en_sha256": "70dcd1e82dd3c89c899771c8ae3f2bfe82677d1c37ec95895f33bddfe28b3213",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].name": {
+      "pl": "Khgh",
+      "kr_sha256": "1fbc68729da71737234fe7fb78fdafc837f0a949026dd380a8282249a53bda8c",
+      "en_sha256": "abca9733823cb29384fc15b9aa7f7da903bf880d78e678216c9023d1ba58d688",
+      "origin": "ai"
+    },
+    "dataList[id=138703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=138703].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=138703].levelList[level=1].name": {
+      "pl": "Screecoo!",
+      "kr_sha256": "70b722acc4248e6a54ba0360d5909d10e84938709ecf6a01d5af0c114704f56a",
+      "en_sha256": "20eec96b379b8850446f46ac8d1f9ecf1953b56e7f4e52a870ce8c8c1c21a44c",
+      "origin": "ai"
+    },
+    "dataList[id=138704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138704].levelList[level=1].name": {
+      "pl": "Khk",
+      "kr_sha256": "d15beeb9412da7b36973bbafb69d271af52036ebca874721bc8f3fe790d85124",
+      "en_sha256": "22b198650052673e4ffcd764541b15278a55d63d30a083e72377c894010f1833",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].desc": {
+      "pl": "[CantDuel]",
+      "kr_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "en_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].name": {
+      "pl": "Apokalipsa Drobiu",
+      "kr_sha256": "17046c14a6e522f70bed7e6dc5409c64505a37a429e4a6c2e241943e4288257d",
+      "en_sha256": "a19597050c628ccaa6ff440b1440f7bb10d084f77581fc4a680c6ef13f5cc65a",
+      "origin": "ai"
+    },
+    "dataList[id=138706].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=138706].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[WinDuel] cel przywraca 5 Poczytalności",
+      "kr_sha256": "27049cd3200c9964ee809644cb6b90ba320098b9bcb1dee6e2430c5c59863d00",
+      "en_sha256": "2a301829339ac1bd0ae4bdcd6760198aef0f60e853356301a244b0fa89b35273",
+      "origin": "ai"
+    },
+    "dataList[id=138706].levelList[level=1].name": {
+      "pl": "Keghgh",
+      "kr_sha256": "f64b08edcf2b1290e4daf7f80c89aee825f25618a4c7b7ca9680a94791eda5c9",
+      "en_sha256": "c3735932b4c47ce196bc0df402d913c5fe6e93f71d763b4f3b4496481b35f2e3",
       "origin": "ai"
     }
   }
