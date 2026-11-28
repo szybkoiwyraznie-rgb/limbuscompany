@@ -1,0 +1,96 @@
+16241||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 전시된 다른 가방들에 비해 상당히 공을 들인 것 같다.|Clearly, much more care has gone into making these than the other ones on display.
+16242||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 사양말고 깨어난 나의 완벽한 아이들을 마음껏 구경하게나.|Don't be shy! Witness the perfection that is my awakened children.
+16243||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 천한 이방인들이 감히 누구 몸에 손대는 거지?|How dare you filthy plebeians lay your hands on me!
+16244||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 잠깐이나마 우군이라 여겼던 게 후회스럽군.|I should never have considered you as allies.
+16245||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그러지 마. 나는 아무 짓도 하지 않았어.|Please don't do that. What did I ever do to you?
+16246||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그냥 나를 집에 돌려보내 줘…|I just want to go home...
+16247||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 실수한 것이라고 생각하겠네…|... Everyone makes mistakes. I'll consider this as one...
+16248||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나를 부술 생각인가? 부탁인데 제발 그만두게.|Are you trying to destroy me? Please, stop this.
+16249||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 안 돼! 내 경추 21번이 부러졌어!|Oh no! My L2 vertebra!
+16250||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아파! 온 뼈마디가 박살이 나고 있어!|Arrgh! You're breaking all of my joints!
+16251||RPGSystem#rpg-loc-dialogue-floor-4-b.json] … 처음은 쿨~하게 넘어가주도록 하지.|Dude. I'll be <i>kewl~</i> this time, so don't do it again.
+16252||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 커튼은 찢어지게 되면 아무도 사 가지 않을 거야. 쿨~ 하게 그만둬.|Be <i>kewl</i>, my dudes... No one's gonna buy me if you make a rip in my curtains.
+16253||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너! 방금 내 민감한 부위를 때렸어!|Ach! You just hit my sensitive spot!
+16254||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 사지도 않는 주제에 왜 때리는 거야!|Ow! Don't hit me if you're not even gonna buy me!
+16255||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하암… 아프긴 하지만 말리는 것도 귀찮아.|*yawn* Oww... it hurts... But ugh... It's trying to stop you is such a bother...
+16256||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나를 다시 잠에 들게 할 셈이니?|Are you trying to put me to sleep again?
+16257||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아파! 아파!|Owie!\nOwie!
+16258||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 괴로워! 괴로워!|It hurts!\nIt hurts!
+16259||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그러지 말아주세요…|Ah, please stop...
+16260||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이 개 같은 놈들이, 그만두지 못해?|I SAID STOP, YOU GODDAMN SHITBIRDS!
+16261||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이 추한 것들이… 뭐하는 짓이야!|Unsightly, ugly fools... What do you think you're doing?!
+16262||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 일흔 번째… 걸작을… 만들어야 하는데… 실패작만 남겼군…|I have to... make my 70th masterpiece... But... all that I've made are... failures...
+16263||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 벽을 메우느라 돌아볼 생각조차 하지 않는다.|So busy filling the cracks on the wall, they don't even turn around to look at us.
+16264||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 잠깐! 그만두세요! 워… 원하는 게 있으면 말로…|Wait, stop! I-is there something you want from me? Just tell me what you want...!
+16265||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이제서야… 목소리를 마주했는데…|But... I've only just now faced the Voice...
+16266||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <꽃잎 위로 다녀야해. 그곳에는 꽃이 피어나지 않는 것 같아.>|<We need to tread only over the flower petals. Strangely enough, flower doesn't seem to bloom from under them.>
+16267||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 꽃잎도 꽃잎이네만, 가는 길에 문제가 무지무지 많더군…|That addresseth one issue indeed, alas... there were many other troubles along the way...
+16268||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 구불구불 복잡한데, 환상체는 자꾸만 비겁하게 도망이나 치잖는가…|The paths are winding and confounding indeed, yet an even greater trouble is the Abnormality's cowardice...! To flit away like that at every opportunity!
+16269||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으음~ 복잡하긴 해도 그렇게 넓은 공간은 아니잖아요? 환상체의 크기를 생각했을 때, 이동할 위치는 어느 정도 정해져있을 것 같은데…|Hmm~ The arena was pretty complicated, yes, but it wasn't all that expansive, right? Considering the size of the Abnormality, there are only so many places it could go...
+16270||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…넓긴 했어. 일단 다시 한번 가보자.>|<No, it was pretty expansive... Ah, well. Let's try this again.>
+16271||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으윽… 비겁하게 어두운 사각에서 튀어나오는군…|Fie... To be defeated by such craven foes who attack from the cover of shadows...
+16272||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <가구의 기습이라니…>|<Ambushed by furnishings, huh...>
+16273||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너무 많은 서랍 분들의 주의를 끌지 않도록 조심해야겠네요.|We'll have to be careful to not attract too many drawers' attention.
+16274||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <뫼르소, 햇빛이 비추는 곳을 향해 말을 걸어야해.>|<Meursault, you have to talk to the furnishings while you and the furnishing are both in the light.>
+16275||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 알겠습니다.|Yes, Manager.
+16276||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 생생한 화분이다. 잎사귀 몇개가 뜯어져 있다.|A rather healthy-looking pot of plant. Some of its leaves has been plucked out.
+16277||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] .....|.....
+16278||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 이런 낡은 신발로는 어디에도 갈 수 없을 것 같다.|These old, tattered pairs of shoes won't take us anywhere.
+16279||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 테이블 위에 쌓여있는 종이 중, 눈에 띄는 것이 하나 보인다.|There are papers on the table. One of them catches my eye.
+16280||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 생각이 도통 정리되질 않는다.|I don't know what to make of that.
+16281||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 기억만 해두고, 우선 올라가는 것에 집중하는 것이 나을지도 모르겠다.|I'll commit that to memory and revisit it later. Right now, making our way upstairs is our priority.
+16282||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] [실종장소 : 시지프 재판장 ■관 대강당 ]|[Last Seen: Courthouse Sisyphe, Hall ■, Grand Auditorium]
+16283||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <…역시 이거 뒤부아겠지.>|<... This has to be describing Dubois, right?>
+16284||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] …재판장은 시지프 시스템의 오래 전 형태입니다.|... Courthouse Sisyphe is an ancient form of the Sisyphe System.
+16285||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 옛것들과 달리, 그자는 통상적인 사람의 형태를 하고 있었습니다. 만약 이 종이에서 서술하는 이가 뒤부아라면, 그것이 어째서 가능한지는… 모르겠군요.|Unlike the things of eld, Dubois assumed a form that is generally accepted as human. If the individual this paper is describing truly is Dubois, I... fail to understand how this is possible.
+16286||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <그냥 우연일 수도 있겠지만… >|<This might've just been a coincidence, but...>
+16287||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <…뫼르소. 기억이 없어도, 경험은 남을 수 있는 걸까.>|<... Meursault, can experiences remain even when the memories of them have eroded away?>
+16288||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] …그렇다고 생각합니다, 관리자님.|... I believe so, Manager.
+16289||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 다시 본다고 해서, 무언가 번뜩이진 않을 것 같다.|Don't think looking at it again will suddenly light the spark of inspiration in my head.
+16290||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 미끄럼틀이다. 낡고 부식되어, 잘못 올라갔다간 부서져 버릴 것 같다.|A slide. It's so old and rusted that it might crumble if we tried to ride it.
+16291||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 수많은 것들의 잔해가 뒤섞여있다. 르누아르들의 옷과, 가구들이 이리저리 섞여있다.|A chaotic jumble of remnants. Le Noir branded clothes... furnishings...
+16292||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 가죽인지, 천인지조차 구분되지 않는다.|Can't even tell if this is made from leather or fabric.
+16293||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 부서진 가구들이 쌓여있다. 결국 그 긴 세월 동안 누구도 팔리지 않은 것 같다.|A pile of broken furnishings. All that time, and no one's purchased a single one of them.
+16294||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 균열을 살피느라 여념이 없다.|Busily inspecting the fissure.
+16295||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 검정 소파… 르네앙은 조용히 무언가를 기다리듯 어둠 아래서 움직이지 않는다.|The black couch... Le Néant falls still again under the shadows, awaiting.
+16296||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 검은색 소파… 처럼 보이던 것에서 목소리가 들려온다.|The black couch—or what it looked like at first, at least—speaks to us.
+16297||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 햇살은… 따스하고, 다정하지. 하지만 거느리거나 다음을 약속하진 않아.|Hm... The sunshine is indeed a warm and kind being... but it does not lead, nor does it promise us a tomorrow.
+16298||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 비가 내리는 건, 그냥 비가 내리는 걸세. 햇살이 내리쬐는 건, 그냥 햇살이 내리쬐는 것이고.|The sunshine is no different from any other natural phenomenon. The sunshine is as much a sunshine as rain is rain.
+16299||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 그러니 내게 다음을 약속한 건, 르네앙의 목소리시지.|The Voice of Le Néant, on the other hand... has promised me a tomorrow.
+16300||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <…르네앙.>|<... Le Néant.>
+16301||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 힘들다면 앉아서 쉬었다 가도 된다네. 뭐, 그리 편하진 않을 테지만.|If you are weary, feel free to rest your feet awhile. Though I can't promise it'll be too comfortable.
+16302||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <사양한다고 전해줘.>|<No thanks.>
+16303||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 사양하겠다.|No thank you.
+16304||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 그럼 잘 가게. 부디 이 백화점을 모두 해체해주길.|Then farewell. I look forward to your deconstruction of this department store.
+16305||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 소파?|Couch?
+16306||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] …가구관에 고객이 오는 건, 참으로 오랜만이라 생각했는데, 이방인이었군.|... And here I was, surprised to see customers in the Furniture Hall again... I see that you are strangers.
+16307||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 다른 가구분들은 어떻게 되신 건가요?|What happened to the other furnishings?
+16308||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 뻔한 결말을 맞이했지. 더 비싸게 팔릴 궁리만 했지, 누구에게 팔릴지 생각하지 않는 자들이었거든.|They all met a predictable end. Concerned solely about making themselves more expensive, they failed to consider who, in their right mind, would purchase them.
+16309||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 귀한 것들은 모조리 르루주에게 빼앗기고, 그러고도 높아진 기둥을 꺾지 않다가… 보다시피 자멸했다네.|They refused to lower their standards even after the Rouges have stripped them of anything even remotely valuable, and... well, the results lay plainly before you.
+16310||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <…그럼 당신 혼자 살아남은 거야?>|<... So you're the last survivor?>
+16311||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 홀로 살아남은 것인지, 관리자님께서 물어보시는군.|The Manager would like to know if you are the sole survivor.
+16312||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 그래. 누구에게 팔릴지 정한 덕분이지. 햇살과도 많은 대화를 나누었고.|Oh yes, because I've chosen my buyer. And have had much to discuss with the sunshine, too.
+16313||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 이방인들, 그분께서 큰 기대를 걸고 있다네.|She has very high hopes for you, dear strangers.
+16314||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 그분… 이라는 건, 햇살… 카르멘이라는 분을 말씀하시는 건가요?|"She"... as in the sunshine? Are you talking about Miss Carmen?
+16315||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 값비싼 가방이지만, 안은 텅 비어있다.|An expensive handbag, but it is empty inside.
+16316||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 가방의 귀중함이 그 안에 들어있는 것까지 결정하지는 않는 것 같다.|The worth of a bag does not determine the value of what lies within, it seems.
+16317||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <르네…>|<Renée...>
+16318||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] …햇살이 속삭이는 것은 온전히 제가 원했던 바입니다, 관리자님.|... What the sunshine whispered to me was entirely congruent to what I wanted, Manager.
+16319||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <그럼 왜… 짜증나는 거야?>|<Then... what makes it so irritating?>
+16320||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 뫼르소는 생각이 깊어진 듯, 말을 더 잇지 못하고 상념에 잠겼다.|Meursault fell silent, sinking deeper into thought as if he could no longer bring himself to continue.
+16321||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 마치 겁이라도 난 듯이.|Almost as though something had frightened him.
+16322||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 5층으로 가실 건가요?|Are you heading to 5F?
+16323||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 네, 저희는 더 올라가야 하거든요.|Yes. We need to climb higher.
+16324||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 5층에는… 르루주들이 머물고 있어요. 그곳에서 야금야금, 백화점을 먹어치우고 있죠.|5F... is where the Rouges have made themselves at home. That's where they are devouring the department store... bit by bit.
+16325||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 부디 그들을 넘어 더 위로 갈 수 있길 바랄게요.|I do hope you'll make it past them... and find your way to the higher floors.
+16326||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 아… 벌써 이곳까지 도달하셨군요.|Ah... you've already made it this far.
+16327||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 일광욕을 즐길 날이 머지 않았나봐요.|It seems it won't be long before we can enjoy a little sunbathing.
+16328||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <카르멘… 햇살은 무엇을 원하는 거야?>|<Carmen—I mean, the sunshine... what exactly does it want?>
+16329||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 햇살이… 무엇을 원하는 건지 묻고 싶다.|We wish to know... what the sunshine wants.
+16330||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 이상한 질문이네요. 햇살은, 저희가 원하는 것을 원해요.|What a strange thing to ask. The sunshine... only wants what <i>we</i> want.
+16331||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 햇살이 원치 않더라도, 저희가 원한다면… 원해주죠. 그 감정이 진심이라면요.|Even when the sunlight disagrees with us, so long as our wish, our emotion is sincere... it comes to want what we want.
+16332||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] <하지만 뫼르소는…>|<If that's the case, Meursault...>
+16333||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 시끄럽고, 짜증난다던 뫼르소의 말이 떠올랐다.|Meursault had said that the sunshine was chatty. Irritatingly so.
+16334||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 보통 그런 말은 자신의 생각과 다를 때 드는 감상일 텐데…|Usually, those are the sort of words people use when something doesn't sit right with what they think...
+16335||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 이제 곧 모두가 집으로 돌아갈 것입니다. 붉은 신을 제외하고 말이죠.|Soon, we will all return to our homes—save for the Crimson God.
+16336||RPGSystem#rpg-loc-dialogue-floor-4-c2.json] 다 당신들의 덕분입니다, 이방인들.|We owe everything to you, strangers.

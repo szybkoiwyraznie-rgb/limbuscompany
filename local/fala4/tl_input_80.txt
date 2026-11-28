@@ -1,0 +1,96 @@
+7766||PersonVoice#Voice_Faust_Meca_10210.json] 준비는 완료했습니다. 출발하죠.|All preparations have been made. Let us depart.
+7767||PersonVoice#Voice_Faust_Meca_10210.json] 의뢰 목표를 처리했습니다. 이번 원정 의뢰도 철저히 준비한 보람이 있군요.|The contract target has been taken care of. The meticulous preparation for this contract expedition has certainly borne fruit.
+7768||PersonVoice#Voice_Faust_Meca_10210.json] 이 계획에는 다수의 결함이 존재합니다만, 파우스트가 이 허점투성이 계획을 완전무결하게 만들어드리죠.|While there are numerous deficiencies and points of failure to this plan, Faust will hone it into utter, unfailing perfection.
+7769||PersonVoice#Voice_Faust_Meca_10210.json] 아침의 커피 한 잔을 위해 팔 하나 정도는 항상 비워둘 수 있어요. 그래도 세 개가 남기 때문에…|An arm can always be spared for a cup of coffee in the morning. There are three more arms to utilize, after all.
+7770||PersonVoice#Voice_Faust_Meca_10210.json] 해 질 무렵까지 일해도 의체는 아프지 않아요.\n…삐걱거리게 된다면 정비를 해야겠지만요.|The prosthetic body does not feel muscular pain, even if it were to be put to work from sunrise to sunset.\n... However, a regular maintenance may be needed to prevent creaking.
+7771||PersonVoice#Voice_Faust_Meca_10210.json] 사무소 카드를 사용했다면, 영수증은 반드시 제출해주세요.\n계속 누락한다면 점심 식사는 사비로 해결하도록 방침을 바꾸겠습니다.|Please remember to submit the receipts after using a corporate credit card.\nThis Office may no longer provide a lunch budget should the employees continuously fail to submit their receipts.
+7772||PersonVoice#Voice_Faust_Meca_10210.json] 부른 뒤에 조용히 사라지다니. 비효율적인 행동이네요.|To summon someone and not address them is a highly inefficient action.
+7773||PersonVoice#Voice_Faust_Meca_10210.json] 혹시 머리 외에도 다른 의체를 고려하신다면, 트레스 협회의 인증을 받은 G10 모델 의족을 추천드립니다.\n좋은 다리를 가지면, 당신도 위험한 상황에서 빠르게 도망칠 수 있을 거예요.|If you would ever consider replacing more parts of your body than your head with prostheses, a good recommendation would be the Tres Association certified G10 model prosthetic legs.\nA high-performance ambulatory apparatus is very useful for making oneself scarce from high-risk situations.
+7774||PersonVoice#Voice_Faust_Meca_10210.json] 워프 열차 왕복권은 사비로 결제했습니다. 파우스트는 일등석으로 예약했죠.\n일반석이 아니라, 일등석을 예약한 이유에 대해서 아직 저는 알 수 없어요. 하지만 파우스트는 알고 있겠죠.|The WARP train round trip ticket has been purchased via private funds, with Faust reserving a first class seat.\nI do not yet know why the first class ticket has been purchased instead of the economy class ticket; however, Faust must know of the reason.
+7775||PersonVoice#Voice_Faust_Meca_10210.json] 전신 의체에 대해서도 고려해 보지 않은 건 아니지만… 더 좋은 의체로의 교체 비용과 리스크를 감당할 수 없어 선택하지 않았습니다.\n파우스트가 생각하기에, 교체가 편리한 부분 의체로 점차 업그레이드하는 것이 더 효율적이겠죠.|A whole-body prosthetic has been considered, yes. ... However, the upgrade budget for higher-quality prosthetics and the related risks were too significant to be followed through.\nFaust believed it would be more efficient to slowly upgrade this body toward an increasingly stronger partial prosthetic.
+7776||PersonVoice#Voice_Faust_Meca_10210.json] 이 정도 크기의 대검은 누구나 다룰 수 있습니다. 충분한 돈과 약간의 적응 시간, 그리고 믿을 수 있는 공방만 있다면 하루아침에 휘두를 수 있죠.\n물론 그걸로 어떤 전투 스타일을 추구할지는 본인의 재량이지만요.|A greatsword of this size can be wielded by any individual as long as they possess sufficient budget, enough time to acclimatize, and the work of a trusted workshop.\nOf course, it is up to each individual as to what kind of combat style they wish to employ.
+7777||PersonVoice#Voice_Faust_Meca_10210.json] 의체화된 신체는 대부분 통각을 느끼지 않죠. 그렇기에 저희 의체 해결사에겐 고통이나 부상에 대한 두려움이 없답니다.\n돈은 일반적인 치료보다 많이 들겠지만요.|Prosthetic bodies are rarely installed with pain receptors. Therefore, Fixers such as ourselves who utilize prosthetic bodies do not fear pain or injury.\n... It is much more expensive to fix a prosthetic than it is to heal flesh, however.
+7778||PersonVoice#Voice_Faust_Ncorp_10204.json] …맙소사.|…Goodness.
+7779||PersonVoice#Voice_Faust_Ncorp_10204.json] 정화는 끝났나…? 흐흣.|Is the purification over…? Heeheh.
+7780||PersonVoice#Voice_Faust_Ncorp_10204.json] 가장 순수한 세상으로!|Toward the purest world!
+7781||PersonVoice#Voice_Faust_Ncorp_10204.json] 아직… 완전해지지…|I’ve… yet to be whole…
+7782||PersonVoice#Voice_Faust_Ncorp_10204.json] 패배…? 믿을 수가 없네. 망치들은 어디갔지?|Defeat…? This is unbelievable. Where are my hammers?
+7783||PersonVoice#Voice_Faust_Ncorp_10204.json] 정화!|Purge!
+7784||PersonVoice#Voice_Faust_Ncorp_10204.json] 흙에서…|From dirt…
+7785||PersonVoice#Voice_Faust_Ncorp_10204.json] …흙으로!|…to dirt!
+7786||PersonVoice#Voice_Faust_Ncorp_10204.json] 고해는 나중에.|Save your confession for later.
+7787||PersonVoice#Voice_Faust_Ncorp_10204.json] 파우스트가 나설 만한 곳이어야 할겁니다.|This had better be worthy of Faust’s participation.
+7788||PersonVoice#Voice_Faust_Ncorp_10204.json] …뭐야?|How could…?
+7789||PersonVoice#Voice_Faust_Ncorp_10204.json] 당연하지!|Naturally!
+7790||PersonVoice#Voice_Faust_Ncorp_10204.json] 망치를 쥐고.|With hammer in hand.
+7791||PersonVoice#Voice_Faust_Ncorp_10204.json] 높이… 더 높이! 더욱… 순수한 몸으로… 후훗!|Higher… Still higher! Let me advance… toward a purer body… Huhu!
+7792||PersonVoice#Voice_Faust_Ncorp_10204.json] 함께 하시겠나요…? 추악함을 정화하는 대업을.|Will you join me… in the great task to purify the abominable filth?
+7793||PersonVoice#Voice_Faust_Ncorp_10204.json] 연설시간에 맞춰오셨군요! 후후, 기특하군요.|You came just in time for the sermons! Huhu, you deserve some praise.
+7794||PersonVoice#Voice_Faust_Ncorp_10204.json] 정화의 시간입니다… 더러운 것들을 순수의 흙에서 떼어내 버릴 시간이죠.|It is the time of purification… the hour for us to remove filth from the soil of purity.
+7795||PersonVoice#Voice_Faust_Ncorp_10204.json] 아… 밖은 지금 점심 시간인가보죠? 큭큭… 너무 관심사 밖이라.|Oh… Is it lunchtime outside? Keehee… Pardon, I couldn’t care less about such things.
+7796||PersonVoice#Voice_Faust_Ncorp_10204.json] 할말도 없는데 파우스트를 잡고 있던 건가요…? 훗, 이번만 넘어가드리죠.|You’ve been keeping Faust here with nothing to say…? Hah, forgiveness comes to you just this once.
+7797||PersonVoice#Voice_Faust_Ncorp_10204.json] 고통을 받아들여야 해요! 그걸 초월한 순간에야… 다시 태어날 수 있으니까요.|You must accept the pain! You have to transcend it… Only then may you be reborn.
+7798||PersonVoice#Voice_Faust_Ncorp_10204.json] 파우스트를 따라오세요… 제게 쥐여지는 겁니다… 크흣.|Come, follow Faust… You will be gripped by my hands… Keehee.
+7799||PersonVoice#Voice_Faust_Ncorp_10204.json] 인간을 구성하는 것은 살과 피… 그리고 뼈. 그 밖의 것은 불결할뿐이에요.\n…그 가면 정도는 봐드리죠. 의복과 다를 바 없으니까요.|What constitutes a human is flesh, blood… and bone. All else is filth.\n…I can give that mask of yours a pass. It’s essentially a piece of clothing.
+7800||PersonVoice#Voice_Faust_Ncorp_10204.json] 당신은… 손에 묻은 것을 씻어내지 않나요?\n킥킥… 거봐요. 불결한 것을 씻어내는건 당연한 이치랍니다.|Do you… not wash your hands when they are begrimed?\nKeekee… See now, to cleanse filth is a natural thing to do.
+7801||PersonVoice#Voice_Faust_Ncorp_10204.json] 회사가… 항상 정답은 아니지요. 때로는… 스스로 개척할 때도 필요하답니다?|The company… doesn’t always have the right answer. At times… you need to forge your own path, you know?
+7803||PersonVoice#Voice_Faust_Seven_10206.json] 임무는 성공적이었군요. 아, 다음 카페 근무가 있어서. 먼저 실례하죠.|This mission was a success. Ah, now I must leave for my shift at the cafeteria. So, if you will excuse me...
+7804||PersonVoice#Voice_Faust_Seven_10206.json] 밀크티. 젓지 말고, 가볍게 부어서 부탁드립니다. 역시, 남이 타주는 차가 가장 맛있죠.|Milk tea, please. Poured, not stirred. Indeed, tea tastes better when it is served to you rather than when you serve it yourself.
+7805||PersonVoice#Voice_Faust_Seven_10206.json] 하… 다음 카페 근무… 이어 받을 사람이 없… 는데.|Haah... But... I don't have anyone... to cover my next shift...
+7806||PersonVoice#Voice_Faust_Seven_10206.json] 의도한 대로 되지 않았군요… 차가 부족했기 때문이겠죠. 티타임을 가지고 다시 시도해보죠.|That was... unexpected. We must not have ingested enough tea. Let us take some time off for tea before our next attempt.
+7807||PersonVoice#Voice_Faust_Seven_10206.json] 깔끔하게.|Flawless.
+7808||PersonVoice#Voice_Faust_Seven_10206.json] …부숴진 홍차 잎 같군요.|Like shattered tea leaves.
+7809||PersonVoice#Voice_Faust_Seven_10206.json] 더 이상 얻을 정보는 없군요.|There is no more information to be gained.
+7810||PersonVoice#Voice_Faust_Seven_10206.json] 차가 식기 전에.|Before the tea cools.
+7811||PersonVoice#Voice_Faust_Seven_10206.json] 현장에서 직접 뵙죠.|I will rendezvous with you out in the field.
+7812||PersonVoice#Voice_Faust_Seven_10206.json] …보기만 하고, 관찰하지 못했군요.|... I should have observed more carefully.
+7813||PersonVoice#Voice_Faust_Seven_10206.json] 빈틈 없는 관찰의 결과죠.|A result of meticulous observation.
+7814||PersonVoice#Voice_Faust_Seven_10206.json] 급행 주문이군요?|An urgent order, yes?
+7815||PersonVoice#Voice_Faust_Seven_10206.json] 네, 기꺼이요. 파우스트의 능력이 필요하다면 언제든 불러주세요. 아, 티타임은 제외하도록 하죠.|Yes, of course. You may call upon me at any time should the need arise. Unless it's tea time, that is.
+7816||PersonVoice#Voice_Faust_Seven_10206.json] 어서오세요. 주문은 이쪽에서 받겠습니다.|Welcome. I will take your orders here.
+7817||PersonVoice#Voice_Faust_Seven_10206.json] 이 공간이 혼잡하지 않은 시간대는 없지만, 가장 빽빽한 때가 지금이랍니다.\n아침을 깨는 차를 즐기지 못하면, 하루가 뒤숭숭할테니까요.|This cafeteria is consistently bustling, but now is its busiest hour. Quite understandable, as to go through a day without a cup of tea would be to stumble through it with a mind that is only half awake.
+7818||PersonVoice#Voice_Faust_Seven_10206.json] 저희는 심야 업무를 진행하는 협회원을 위해 늦게까지 주문을 받고 있습니다. 비번이시라면, 간단하게 셰리나 브랜디를 첨가한 차는 어떠실까요?|We take orders into the late hours for our colleagues working night shifts or overtime. If you are off duty tonight, may I brew you some nice tea with a dash of Sherry or Brandy?
+7819||PersonVoice#Voice_Faust_Seven_10206.json] 잠시 머리를 식히기 위한 티타임은 업무 효율을 고려했을 때 가장 현명한 판단이죠.\n이쪽에서 주문을 받아드리겠습니다.|Designating time for quick elevenses or an afternoon tea is a wise managerial choice, considering they are known to improve work efficiency. I will take your orders here.
+7820||PersonVoice#Voice_Faust_Seven_10206.json] 찻잎을 너무 우리는 것은 잡스러운 맛이 올라오는 것을 방치하는 것과 마찬가지 입니다. 지양하는 걸 추천드립니다.|To over—infuse your tea is to allow impure flavors to surface. Please refrain from doing so.
+7821||PersonVoice#Voice_Faust_Seven_10206.json] 이 공간은 세븐 협회 안에서 누구보다 차를 사랑하는 사람들이 자체적으로 운영하는 카페테리아입니다.\n모든 분들이 자원해서 근무하고, 담당하는 날이 아니라면 평소의 협회 업무로 돌아가죠. 아, 벌어들인 수익은 당연히 더 좋은 찻잎과 티팟을 사는데 쓰입니다.|This cafeteria is an employee—run establishment by members of the Seven Association who love tea more than anything else in the world. Shifts are all voluntary, and we return to our usual duties on our off hours. Ah, and it goes without saying that all profits go to purchasing higher—quality tea leaves and teapots.
+7822||PersonVoice#Voice_Faust_Seven_10206.json] 우유는! …가능하면 차를 잔에 붓기 전에 먼저 넣으시는 걸 권장… 드립니다.|THE MILK!...should already be in the cup before the tea is poured. That is our...recommended way.
+7823||PersonVoice#Voice_Faust_Seven_10206.json] 얼음…을? 아. 죄송하지만 아이스티는 취급하고 있지 않습니다.\n…실례가 되지 않는다면, 홍차를 뜨겁게 즐겨야 하는 이유에 대해서 설명하는 시간을 가져도 되겠습니까?|You'd like some... ice? Apologies, but this establishment does not serve iced 'tea'.\nIf it is of no trouble to you, may I take a moment of your time to explicate why black tea must be enjoyed at higher temperatures?
+7824||PersonVoice#Voice_Faust_Seven_10206.json] 아. 지금은 다른 임무를 진행중입니다.\n당신과 함께 하는 차에 대한 잡담은 언제나 즐겁지만, 잠시만 있다가 하도록 하죠.|Ah, I am occupied at the present moment.\nWhile I always enjoy our tea discussions, it must wait for now.
+7825||PersonVoice#Voice_Faust_Seven_10206.json] 정교한 임무 수행과 잡맛 없는 차를 우리는 능력. 파우스트는 이 두 가지 일을 양립하는 것을 최우선으로 생각합니다.|Precise work ethic and talent for brewing tea of exact, pure flavor. Faust considers these as her two primary objectives.
+7827||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 의뢰는 완수했습니다. 종국에 가서 근접전을 펼쳐야만 했던 것은 다소 아쉽지만… 늘 그렇듯, 목격한 자가 없는 마무리였습니다.|Contract fulfilled. While having to resort to melee was regrettable... as always, there were no witnesses.
+7828||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 하늘에서 쏟아지는 장대비 사이에는 쏜살들이 숨어있었습니다. 저들은 어디서 들이치는 빗발인지도 모르고 명을 달리했겠지요. 이것이 동부의 암살법입니다.|The pelting raindrops shroud the falling arrows, and they will die in the downpour without knowing what killed them. This is how the eastern branch kills.
+7829||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 평등함이 제게도 찾아왔을… 뿐입니다.|Again, fairness is simply a universal concept—even... for me.
+7830||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 제 핏물을 활줄에 먹여가며 싸워냈지만… 기회도, 운도 따라주지 않았습니다. 의뢰의 실패는 곧 죽음이니… 사(死)의 경계에서 미끄러진 저는, 여기서 명을 달리하겠군요…|Though I infused this bow with my very own blood... neither opportunity nor luck were on my side. As a failure to complete a contract results in death... this shall be my end, for I have slipped to the wrong side of the boundary of death.
+7831||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 빗소리 속에 묻히도록.|Let the pelting rain bury you.
+7832||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 폐를 꿰어냈습니다.|Clean shot through the lung.
+7833||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 명중.|Bullseye.
+7834||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 적기를 기다리고 있습니다.|Waiting for the right moment.
+7835||PersonVoice#Voice_Faust_ShiAsso2_10213.json] …조준 중입니다.|... Target locked.
+7836||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 우치오코시(打起し).|Uchiokoshi.
+7837||PersonVoice#Voice_Faust_ShiAsso2_10213.json] …활을 너무 높게 쥐었군요.|... Aimed too high.
+7838||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 암살자에겐 너무 기초적인 일이군요.|Elementary work for an assassin.
+7839||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 과녁이 생겼나요.|Has the target been designated?
+7840||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 살을 메기고, 쏩니다. 그러면 과녁엔 구멍이 뚫리고, 곧 쓰러집니다. 그저 그럴 뿐인, 단순한 작업. 빗나감은 일어날 수 없는 일이죠.|Nock the arrow, pull, loose—it punches through the target, felling it. It is simple, manual labor with very little chance of error.
+7841||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 비 들이쳐 어수선하니, 골목께엔 서두르는 소리.\n…그 또한 이제 멎었구나.|Rain pelts awake hearts,\nAlleyways puddle with steps;\nThe rest is silence.
+7842||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 협회의 일이 반드시 밤에만 이뤄진다는 건 뜬소문일 뿐입니다. 저희는 그저 목표에게 어울리는 시간을 찾을 뿐. 야트막한 빛과 새벽내음 사이에도 저희는 존재합니다.|It is an unfounded rumor that the Association operates only at night; there is no specific time during which we carry out our operations, as they are practicality-based decisions that vary for each target. We also exist in the liminal space between the first light and the early scent of dawn.
+7843||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 밤이 깊었습니다. 공연히 밖에 나오시지 말고 쉬시지요. …파우스트는 가능하면 이 시간대에 한 가지 부류만 만나고 싶습니다. 움직이는 과녁들 말이지요.|The hour is late. Rest, and do not unnecessarily expose yourself to the night air. ... Faust prefers to see only one type of life at this hour: moving targets.
+7844||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 잠시, 차를 마시는 시간을 갖지 않으시겠습니까. 격무 속에서도 휴식은 중요합니다. 이 사소한 진실을 간과하면… 언젠가 놓치지 않을 목숨을 놓치기 마련이죠.|Will you not take a moment to imbibe a cup of tea? One must never forget to take breaks, even when swamped by continuous work. By disregarding this simple fact, one may even be forced to let live a life that was not supposed to see tomorrow.
+7845||PersonVoice#Voice_Faust_ShiAsso2_10213.json] …함께, 들으시겠나요.|... Will you listen to the rain, together?
+7846||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 목표를 암살하는 것에 정답은 없습니다. 검을 쓰든, 살을 쏘든, 혹은 바닥에 떨어진 돌멩이조차도 훌륭한 암살도구가 될 수 있겠죠.\n각 지부가 가진 환경에 따라 무기를 갖추고 사용할 뿐입니다. 저희는 그것이 궁도(弓刀)일 뿐.|There is no single correct answer to assassinations. Anything—a sword, an arrow, or even a pebble on the ground—can be an effective tool for the task.\nEach branch has simply chosen different weapons that fit their environs better. And for us, it happens to be the bowblade.
+7847||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 수요에 비해 공급이 지나치게 적지 않은가… 파우스트도 비슷하게 생각합니다. 도시에는 이 장대비처럼, 원한이 빗발치고 있으니까요.\n…그러니만큼, 그 일을 수행할 수 있는 인물이 소수인 것은, 어쩔 수 없는 일인 것입니다.|One may wonder if the supply is far behind demand in this business... and so does Faust, to a degree. Resentment floods the City like this pouring rain, after all.\n... Which is why... it cannot be helped that only a few can carry out the deed.
+7848||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 바르게 쏘면 반드시 맞기 마련입니다. 그렇지 않았다는 것은 과녁에 쓸데없는 감정을 지녔다는 것이겠죠.\n과녁엔 얼굴도, 기억도, 가족이나 친구도 없습니다. 혹여나 그런 것들을 느끼는 자라면, 이 일에 맞지 않는 것이겠죠.|A straight shot will always strike true. If it hasn't, there can be only one explanation: an excessive, unnecessary attachment to the target.\nThe target has no face, no history, no family or friends. Those who see them have no place in this business.
+7849||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 온갖 격차가 존재하는 도시 안에서도 한가지 확실한 것은, 죽음이 공평히 찾아온다는 것입니다.\n젖은 땅 위에 무릎 꿇은 걸인에게도… 그자를 내려다보며 고래고래 소리를 지르는 대부업자에게도.\n…의뢰 2건 해결 완료.|Even in the City of inequities, one thing remains fair: death.\nFairness for the beggar who kneels over the wet pavement... and for the loan shark who disparages him from above.\n... Both contracts completed.
+7850||PersonVoice#Voice_Faust_ShiAsso2_10213.json] 활이 적절치 않은 환경 또한 분명 존재합니다. 그렇다면 이 검날로 베어낼 뿐입니다. 근거리와 원거리를 자유로이 활용하는 암살자를 상대하는 건… 제법 곤란할테죠.|Bows are not universally applicable tools, of course, and that is why it has a blade as well. An assassin equipped for both ranged and melee combat makes for a rather... formidable opponent.
+7851||PersonVoice#Voice_Faust_SwordGroup_10208.json] 으음.|Mmm.
+7852||PersonVoice#Voice_Faust_SwordGroup_10208.json] 불량한 꽃들을 흩뜨려냈습니다. 이제 우리가 지낼 자리를 봐두어 볼까요.|I have cast the unsightly flowers from here. Let us see where we will now reside.
+7853||PersonVoice#Voice_Faust_SwordGroup_10208.json] 꽃은 지고, 새로운 나무가 이 곳에 움틀 것입니다. 그것이 우리의 터전을 수호할 재목이라는 건 틀림없는 사실이죠.|When the flowers wither, a new tree shall take root here. It will grow to be a pillar that will protect our home. I am certain of that.
+7854||PersonVoice#Voice_Faust_SwordGroup_10208.json] 홍매화… 제게도… 피어나는 것… 이었군요.|So... the red plum blossom... blooms from me all the same...
+7855||PersonVoice#Voice_Faust_SwordGroup_10208.json] 우리는… 정처 없이 떠도는 떠돌이, 흙에 내려 앉지 못한 씨앗… 언제쯤 정착할 수 있을지.|We are... wanderers without destinations. Seeds without soil to take root in... When will our home be found?
+7856||PersonVoice#Voice_Faust_SwordGroup_10208.json] 무뢰배들.|Scoundrels.
+7857||PersonVoice#Voice_Faust_SwordGroup_10208.json] 흐드러지게.|Let it blossom.
+7858||PersonVoice#Voice_Faust_SwordGroup_10208.json] 피어나리.|Like a bed of flowers.
+7859||PersonVoice#Voice_Faust_SwordGroup_10208.json] 즐기고 계신가요?|Are you enjoying yourself?
+7860||PersonVoice#Voice_Faust_SwordGroup_10208.json] 꽃을 피워볼까요.|Let the flowers bloom.
+7861||PersonVoice#Voice_Faust_SwordGroup_10208.json] 어그러지는 것 또한 필연.|It was fated to be amiss.
+7862||PersonVoice#Voice_Faust_SwordGroup_10208.json] 어긋날 연유도 없죠.|No cause for it to be amiss.
+7863||PersonVoice#Voice_Faust_SwordGroup_10208.json] 출정이군요.|So we march.

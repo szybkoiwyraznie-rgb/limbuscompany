@@ -1,0 +1,96 @@
+587||SpeechBubbles#BattleSpeechBubbleDlg.json] 깊이… 베어내주지.|We'll... cut you up.
+588||SpeechBubbles#BattleSpeechBubbleDlg.json] 조용히… 조용히 해! 우리끼리 싸우다니… 이건 시간 낭비야!|Shut— Shut up! We're infighting...! This is a waste of time!
+589||SpeechBubbles#BattleSpeechBubbleDlg.json] 아파...!|Ow...!
+592||SpeechBubbles#BattleSpeechBubbleDlg.json] 아르카나 비트~!|Arcana Beats~!
+593||SpeechBubbles#BattleSpeechBubbleDlg.json] 아르카나 비트!|Arcana Beats!
+594||SpeechBubbles#BattleSpeechBubbleDlg.json] 사라져라~|Disappear~
+596||SpeechBubbles#BattleSpeechBubbleDlg.json] 당신도 결국 먹혀 버렸어... 이건 벗어날 수 없는 굴레인 거야?|So you’ve been consumed too, senpai… Can this cycle really not be stopped?
+597||SpeechBubbles#BattleSpeechBubbleDlg.json] 정의보다도 푸른 자여 사랑보다 붉은 자여|Heed me, thou that are more azure than justice and more crimson than love…
+598||SpeechBubbles#BattleSpeechBubbleDlg.json] 운명 속에 파묻힌 그대의 이름을 걸고 나 여기서 빛에 맹세한다|In the name of those buried in destiny, I shall make this oath to the light.
+599||SpeechBubbles#BattleSpeechBubbleDlg.json] 우리 앞을 막는 증오스런 존재들에게 나와 그대의 힘을 합쳐 위대한 사랑의 힘을 보여줄 것을!|Mark the hateful beings who stand before us;\nlet your strength merge with mine, \nso that we may deliver the power of love to all!
+600||SpeechBubbles#BattleSpeechBubbleDlg.json] 아르카나 슬레이브!|<i>ARCANA SLAVE!</i>
+601||SpeechBubbles#BattleSpeechBubbleDlg.json] 당신... 그래도 최대한 참고 있었구나...|You've... been suppressing it as much as you could...
+602||SpeechBubbles#BattleSpeechBubbleDlg.json] 헉, 허억... 헉. 해치웠...나?!|Huff, puff, puff... Did... did we get her?!
+603||SpeechBubbles#BattleSpeechBubbleDlg.json] 끝까지... 내가 모두를... 지켜낼 거야...|I swore I would... protect everyone... to the end…
+604||SpeechBubbles#BattleSpeechBubbleDlg.json] 시험은|No more...
+605||SpeechBubbles#BattleSpeechBubbleDlg.json] 끝났다!|... TESTS!
+606||SpeechBubbles#BattleSpeechBubbleDlg.json] 고통을|Here it comes...
+607||SpeechBubbles#BattleSpeechBubbleDlg.json] 새겨주지!|... the promised suffering!
+608||SpeechBubbles#BattleSpeechBubbleDlg.json] …뒤는 맡겨라.|... Leave the rest to me, kid.
+609||SpeechBubbles#BattleSpeechBubbleDlg.json] 죄송합니다… 형님…|I'm... sorry... Big Bro...
+610||SpeechBubbles#BattleSpeechBubbleDlg.json] 으깨주마!|I'll squash you all!
+611||SpeechBubbles#BattleSpeechBubbleDlg.json] 너희|You're all...
+612||SpeechBubbles#BattleSpeechBubbleDlg.json] 모두|... marked for...
+613||SpeechBubbles#BattleSpeechBubbleDlg.json] 복수 상대다!|... Vengeance!
+614||SpeechBubbles#BattleSpeechBubbleDlg.json] 후… 복수를…|Hah... I'll avenge you all...
+615||SpeechBubbles#BattleSpeechBubbleDlg.json] 빠르고 확실하게 꿰뚫어주지.|A swift, sure thrust to stab you through.
+616||SpeechBubbles#BattleSpeechBubbleDlg.json] 드러내라.|Unearth it.
+617||SpeechBubbles#BattleSpeechBubbleDlg.json] 꺼내지 않았다 한들, 사라지진 않았을 터.|It must lie there still, shrouded it may be.
+618||SpeechBubbles#BattleSpeechBubbleDlg.json] 언제까지 묻어만 둘 셈인가.|Shall it remain buried still?
+619||SpeechBubbles#BattleSpeechBubbleDlg.json] 네 의지대로, 더 보여봐라.|Demonstrate to me your will.
+620||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 응어리는… 도통 풀리지 않는구나.|The mass of pain within your heart... is difficult to untangle.
+621||SpeechBubbles#BattleSpeechBubbleDlg.json] 사사로운 무리가 네 뜻을 가리는 것이냐. 그렇다면… 그 무리가 위태로워야 입을 열겠구나.|Is it your companions who hold your tongue?\nThen... perhaps they must be shaken afore\nyou are to speak your truth.
+622||SpeechBubbles#BattleSpeechBubbleDlg.json] 의미 없다 두려워하지 말아라. 그것은 네 생각을 말한 뒤에 해도 늦지 않으니.|Do not fear the futility. There will be time for that once you have spoken your mind.
+623||SpeechBubbles#BattleSpeechBubbleDlg.json] 째깍이기 전까지... 잠시 쉬어라.|Rest awhile... until the clock turns.
+624||SpeechBubbles#BattleSpeechBubbleDlg.json] 베어라, 묘.|Cut them Down, Mao.
+625||SpeechBubbles#BattleSpeechBubbleDlg.json] 자로여.|Heed Me, Zilu.
+626||SpeechBubbles#BattleSpeechBubbleDlg.json] 허… 쪼까 하는디? 총알값 아까울 놈들은 아닌갑네?|Huh... y'all ain't half bad!\nKeep makin' it worth my bullet fees!
+627||SpeechBubbles#BattleSpeechBubbleDlg.json] 고라고 서있음 목 떨어진다잉!|Eyes up here, boys!\nDon'tcha go losin' yer heads now!
+628||SpeechBubbles#BattleSpeechBubbleDlg.json] 워뗘? 이건 좀 받아볼만헌가벼?|Hwell, what's this? Manageable so far?
+629||SpeechBubbles#BattleSpeechBubbleDlg.json] 시방 큰 거 하나 쓸랑께 디져서 흥 깨지 말어야!|I'maboutta drop somethin' big on y'all!\nDon't let it kill y'all now and spoil the fun!
+630||SpeechBubbles#BattleSpeechBubbleDlg.json] 벌써 지쳐쓰까?|Aw heck, don't tell me\ny'all are tuckered out already!
+631||SpeechBubbles#BattleSpeechBubbleDlg.json] 그려. 그라고 나옹께 이짝도 달아오르는고마.|That's more like it.\nY'all are firin' me up!
+632||SpeechBubbles#BattleSpeechBubbleDlg.json] 호랭이를 잡을라 그랬으믄! 느그도 잡아먹힐 각오를 했어야제!|Y'all don't go on huntin' tigers without preparin'\nyerselves to get chomped 'tween one of them jaws!
+633||SpeechBubbles#BattleSpeechBubbleDlg.json] 한번 벌인 판인디, 끝은 보고 가야제.|Can't leave a dance unfinished.\nAin't that right?
+634||SpeechBubbles#BattleSpeechBubbleDlg.json] 혐오스러운 버러지들에게… 더 이상 시간을 끌릴 순 없지.|Can't waste any more time on these...\n... sickening, revolting insects.
+635||SpeechBubbles#BattleSpeechBubbleDlg.json] 달라진 것처럼 굴지마. 그때나 지금이나… 넌 여전히 개자식이니까!|Don’t pretend you’ve changed.\nYou’re still the same trash you were back then... scum!
+636||SpeechBubbles#BattleSpeechBubbleDlg.json] …이 E.G.O에 이런 힘도 있었나?|... Is this also the E.G.O's power?
+637||SpeechBubbles#BattleSpeechBubbleDlg.json] 자, 봐라! 더러운 것들에 쏟아질 이 모든 멸시를!|Behold! This contempt!\nIt rains down upon the disgusting filth!
+638||SpeechBubbles#BattleSpeechBubbleDlg.json] 멍청한 짓을 했군.|Foolishness.
+639||SpeechBubbles#BattleSpeechBubbleDlg.json] 그날의 봄을 훔쳐보았다지. 내게도 드문한 그 기억을.|You have taken a glimpse of yesterday's spring.\nA memory rarely availed to even myself.
+640||SpeechBubbles#BattleSpeechBubbleDlg.json] 과거에 묶여 판단을 그르치지 마시게. 내 모두 터트리고 싶어지니.|Do not let your past ties ruin your judgment.\nIt makes me want to blast them all away.
+641||SpeechBubbles#BattleSpeechBubbleDlg.json] 대의를 쫓다보면 사소한 희생은 언제나 필요한 법이지.|Sacrifices are necessary\nin pursuit of the greater cause.
+642||SpeechBubbles#BattleSpeechBubbleDlg.json] …후. 성공했군.|... Whew. That worked.
+643||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 쓰임을 다하거라!|Fulfill your worth!
+645||SpeechBubbles#BattleSpeechBubbleDlg.json] 선인님들! 사미윤이… 다시 보석을 가져왔어요! 홍원을 아름답게 할… 어여쁜 보석을!|Oh, revered Xianren! Shi Miyin brought the gem back!\nThe pretty gem that'll make Hongyuan all beautiful again…!
+646||SpeechBubbles#BattleSpeechBubbleDlg.json] 이럴 수는 없다! 대관원의 보물을, 한낱 외인들이 탐내느냐!|Blasphemous transgressors!\nOutsiders shall not covet the treasure of Daguanyuan!
+647||SpeechBubbles#BattleSpeechBubbleDlg.json] 아껴주시는 거죠? 역시 선황충님이셔요!|You favor me, don't you?\nI knew you would, dear Xianhuang Worm!
+648||SpeechBubbles#BattleSpeechBubbleDlg.json] 안 돼!!!!!!|NO!!!!!!
+649||SpeechBubbles#BattleSpeechBubbleDlg.json] 미윤이에게 주셔요. 홍원의 모든 지혜를…!|All the wisdom of Hongyuan...\nGive it to me, give it to Miyin...!
+650||SpeechBubbles#BattleSpeechBubbleDlg.json] 홍원의 무궁한 역사와 하나되리!|Be one with the fathomless history of Hongyuan!
+651||SpeechBubbles#BattleSpeechBubbleDlg.json] 우리는 생사의 굴레를 벗어났으니… 홍원 또한 영원토록 불멸하리라!|We have transcended the yoke of life and death...\nThus, Hongyuan shall shine for all eternity as well!
+652||SpeechBubbles#BattleSpeechBubbleDlg.json] 아아… 소임을… 끝마치지 못하고 이런 추태를…|Ahh... What a shameful failure of duties this is...
+653||SpeechBubbles#BattleSpeechBubbleDlg.json] 순종하거라!|You will obey us!
+654||SpeechBubbles#BattleSpeechBubbleDlg.json] 중한 싸움에 임한다면, 너희 또한\n되돌려질 목숨이라해도 그 생을 걸어보거라.|I expect you to fight to your deaths in this\ncrucial struggle, reversible as they may be.
+655||SpeechBubbles#BattleSpeechBubbleDlg.json] 듀라한이여! 죽도록 달릴 시간이다.|Ride to your demise, O Dullahan!
+656||SpeechBubbles#BattleSpeechBubbleDlg.json] 너희에게 안식은 없다.|No repose shall await you.
+657||SpeechBubbles#BattleSpeechBubbleDlg.json] 원통할테지. 그만큼 통곡해라, 폭풍소리가 묻히도록!|Such grudge you bear... Lament and cry it out, until your wailing drowns the very storms!
+658||SpeechBubbles#BattleSpeechBubbleDlg.json] 손길이... 벌써 너울거리나.|The shadowed hands... ripple toward me.
+659||SpeechBubbles#BattleSpeechBubbleDlg.json] 한치 앞도... 보이지 않는군...|Not one handspan ahead... does this darkness yield...
+660||SpeechBubbles#BattleSpeechBubbleDlg.json] 꽃이 피고 진들, 돌아오는 것 또한 없을 테고.|She wouldn't return even as those same flowers wilt.
+661||SpeechBubbles#BattleSpeechBubbleDlg.json] 하루도 울고 싶지 않은 날이 없었겠지.|And not a day must have passed without you wanting to cry.
+662||SpeechBubbles#BattleSpeechBubbleDlg.json] 그래. 끊어내라. 하나도 남김없이, 여기서 모두 끊어내라.|Yes. So sever them all away here and now. Every single thread.
+663||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 혐오스러운 소음… 당신이구나. 내가 이곳에서 끊어내야할, 지워내야할 존재가.|That awful noise... It's you. You're the one I'm meant to sever away here.
+664||SpeechBubbles#BattleSpeechBubbleDlg.json] 이런 날이 오길 바랐던 거겠지. 그 잘난 신의 바람대로.|You must've wanted this day to come. Or should I say, your god did?
+665||SpeechBubbles#BattleSpeechBubbleDlg.json] 지옥에 있어야할 건, 내가 아닌 당신이겠지.|I'm not the one who belongs in hell. It's you.
+666||SpeechBubbles#BattleSpeechBubbleDlg.json] 끊어야만 해. 멋대로 이어진 실들에 짓눌려 먼저 죽기 전에… 이 검으로…! 전부…! 끊어내야 한다고!|I <i>can</i> cut it off.\nBefore the weight of these entangling, strangling threads crush me to death... I will raise this sword... and cut them all off!
+667||SpeechBubbles#BattleSpeechBubbleDlg.json] 이유 따윈 묻지 마. 내킬 때마다 당신이 내게 발길질했듯이, 나도 그저 내키는 대로 베어낼 뿐이니.|You don't deserve to ask me for explanations. I'm cutting you up because I want to, exactly as you used to kick me just because you felt like letting off some steam.
+668||SpeechBubbles#BattleSpeechBubbleDlg.json] 신의 바람이 되도록 당신의 죽음만큼은 아니었으면 좋겠어. 그래야지 내게도 환희가 찾아올 것 같거든.|I'd prefer if your death isn't in that god's plans. Won't get an opportunity to have my share of joy otherwise.
+669||SpeechBubbles#BattleSpeechBubbleDlg.json] 유물, 사슬, 장난감. 그리고 목숨까지. 당신이 아끼는 건 전부… 난도질해서 망가뜨려줄게.|That Relic, those chains, the juvenile collection of toys, your life... I will find every last one of the things you hold dear and destroy them.
+670||SpeechBubbles#BattleSpeechBubbleDlg.json] 감히 나를 닮지 않도록, 도려낼 수밖에…|I'll cut you up so you won't dare attempt such mimicry again.
+671||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 검에 베인 당신은 작품이 곧 완성될 것임에 기뻐할까, 아니면 그 완성을 목전에 두고 죽은 것에 슬퍼할까.|Will you be happy once the blade cuts you through, knowing that your work is nearly complete? Or will you lament that you won't be there to witness its completion?
+672||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 거슬리는 삐삐 소리… 왜 아라야시키에 베였는지는 알겠군.|That infuriating beeper... No wonder Arayashiki cut you to ribbons.
+673||SpeechBubbles#BattleSpeechBubbleDlg.json] …닮았네. 얽혔던 적도 없었으면서.|... A stranger with a familiar form. But how? Our threads have never been entangled.
+674||SpeechBubbles#BattleSpeechBubbleDlg.json] 당신은… 누구지? 거미집에 당신 같은 자는 없었을 텐데.|Who... are you? There wasn't anyone like you at the House of Spiders.
+675||SpeechBubbles#BattleSpeechBubbleDlg.json] …갑옷으로 가리고 있으니, 그나마 역겨움이 덜하군.|... At least that armor keeps that revolting sight of you hidden.
+676||SpeechBubbles#BattleSpeechBubbleDlg.json] 아무도 찾지 않을 곳에 버려 형체도 남아있지 않아야, 그 거슬리는 소리가 멎으려나.|Maybe that irksome beeping will fall silent once I've cut you up into a shapeless thing and tossed what's left of you into some forsaken gutter.
+677||SpeechBubbles#BattleSpeechBubbleDlg.json] …이곳에도, 나같은 게 하나 더 있다니.|... This place too, has a thing like me?
+678||SpeechBubbles#BattleSpeechBubbleDlg.json] 내게는 보여. 네게 얽혀오고 있는 그 시간들이.|I can see every thread of time entangling with your being.
+679||SpeechBubbles#BattleSpeechBubbleDlg.json] 나는 나를 지워낼 테니, 너 또한 너를 지워낼 수 있길 바라지.|As I erase myself, I hope you'll be able to erase yourself.
+680||SpeechBubbles#BattleSpeechBubbleDlg.json] 안쓰럽게도, 보고 싶지 않은 하늘과 눈이 마주쳐 희망을 품었나.|Pity... You saw the sky you never wanted to see and began to hope.
+681||SpeechBubbles#BattleSpeechBubbleDlg.json] 몇 번을 말해도, 기억하지 못해.|You may speak of it again and again, but she still wouldn't remember.
+682||SpeechBubbles#BattleSpeechBubbleDlg.json] ... 삼켜지기 전에... 베겠다.|... I shall cut them down... ere I am devoured.
+683||SpeechBubbles#BattleSpeechBubbleDlg.json] 참수.|Beheaded.
+684||SpeechBubbles#BattleSpeechBubbleDlg.json] 피가 아무리 탁해졌다 한들 군주는 죽지 않는다.|Tarnished may his blood become, but the Lord shall not perish.
+685||SpeechBubbles#BattleSpeechBubbleDlg.json] 이깟 더러운 피에, 무릎 꿇을 쏘냐...|I refuse to kneel before this mere... tarnished blood...
+686||SpeechBubbles#BattleSpeechBubbleDlg.json] 적을 베기 전까지, 퇴각은 불허한다.|You may not retreat. Not until this foe is felled.

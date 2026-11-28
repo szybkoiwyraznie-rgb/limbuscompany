@@ -1,0 +1,96 @@
+12907||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 잘 생각했어. 딱 세 개만 퇴장 시켜주면 돼.|Good choice. You only need to help three Mannequins to the exit.
+12908||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그렇게 오래 기다려줄 순 없어. 빨리 결정해.|Can't wait around all day. Hurry up and make up your mind.
+12909||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 어때? 생각은 좀 해봤어?|Well? Have you given it some thought?
+12910||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 제가 필요하시다면 직원의 부탁을 들어주시는 편이 좋을 것 같습니다, 관리자님.|Giving the clerk what they need is probably best if you require my service, Manager.
+12911||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이왕 시작했으면 빨리 끝내 줄래? 언제 시즌이 끝날지 몰라…|Since you're already on the job... hurry up, will you? This season could end any minute...
+12912||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <뫼르소, 빠르게 벗어나자.>|<Meursault, let's get this over with.>
+12913||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …단테, 혹시 여기 오기 전에 제가 미처 읽지 못한 팜플렛이 있었나요?|... Dante, did I miss a pamphlet or something?
+12914||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <…그랬던 것도 같아.>|<... Maybe?>
+12915||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 앞장서겠습니다.|I will take the lead.
+12916||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 엥… 그냥 이대로 도망쳐버리면 안 되는 거야?|Guys, we have Meursault now. Why don't we just split and never come back?
+12917||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <도망친다고 해서 해결되진 않을 것 같아.>|<I don't think we can solve this problem by just running away, Rodya.>
+12918||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 어… 왜? 나 달리기 빨라…|Uh... why not? I'm a good runner.
+12919||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 도망친다 해서 내가 보관되지 않는 것은 아니다.|Fleeing would not prevent me from being placed in storage.
+12920||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 으응…? 풀려났잖아?|Hm...? But you're out of "storage" now, aren'tcha?
+12921||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 대호수처럼 이곳에는 이곳만의 규칙이 있나보네요.|Maybe this place has its own Laws—just like the Great Lake.
+12922||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 하아… 뫼르소씨 말대로 하죠. 왜인지는 몰라도 이 장소에 대해 잘 알고 계신 것 같고.|*sigh* Let's do as Meursault says. I don't know why or how, but he seems to be well-acquainted with the department store.
+12923||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <이 대화를 길게 끌어서 좋을 건 없을 것 같아.>|<No point in doing this whole song and dance all over again.>
+12924||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …옷감의 가치만큼 아르바이트를 할 테니, 해방을 요구하겠다.|We will conduct services of equivalent value to the fabric I would offer. In return for the services rendered, you will release me.
+12925||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아르바이트?|Services, huh?
+12926||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 유행에 뒤처진 마네킹들을 퇴장시킨다면, 가치에는 충분히 맞을 것이다.|The task of helping the out-of-fashion Mannequins to the exit should provide sufficient value.
+12927||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 또한 빠른 처치를 위해 이들과 동행하고자 한다. 이 건틀릿이 있다면, 그들을 퇴장시키는 것이 한결 수월할 것이다.|In addition, I request a temporary release from your custody to accompany these individuals. These gauntlets in my possession will be effective in helping the Mannequins to the exit.
+12928||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그건… 일리가 있어. 마침 우리에게 가장 필요한 일이기도 하고.|That's... that's fair. We really need to get that over with, anyway.
+12929||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 좋아. 딱 세 개만 잡아주면 돼.|Fine, I'll take that deal. Three should be enough.
+12930||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …마네킹이 뭔데요? 퇴장은 또 뭐고…|... The hell's a Mannequin? And what does "helping them to the exit" even mean...?
+12931||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <여기선 뒤틀림을 마네킹이라고 부르는 것 같아. 퇴장은… 토벌해달라는 의미 같고.>|<Mannequins are what they call Distortions in here, and "helping them to the exit" means "defeating them." ... I think.>
+12932||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그런데… 다친 곳은 없어, 뫼르?|So... you're not hurt anywhere, are you, Meur?
+12933||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 백화점에 들어온 이후로, 무력 다툼은 존재하지 않았기에 별도의 부상은 입지 않았다.|There have been no violent altercations since I entered Sisyphe. I have sustained no injuries.
+12934||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저들은… 왜 뫼르소씨를 붙잡은 거예요?|Why did they seize you in the first place?
+12935||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 시지프 백화점의 고객은 크게 네 개의 집단으로 분류할 수 있다.|The customers of the department store can be classified into four principal groups.
+12936||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 강렬한 붉은색과 가죽 소재를 선호하는 르루주. 정제된 검정색과 천 소재를 선호하는 르누아르. 그리고… 어디에도 속하지 않고, 그저 유행에 휩쓸리는 르카키가 있다.|The first group is called Le Rouge, and they prefer leather as a material and a striking red color. Then there is Le Noir, whose members prefer to use refined black color and fabrics in their work. The third group is less a grouping and more a denomination—Le Kaki. They are those who belong to no particular affiliation and instead chase the changing trends.
+12937||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저 직원은 나를 옷감으로 쓸 수 있는 르카키라 여기고 데려갔다. 르카키 중에는 간혹 옷을 구매하고 입어본다는 목적이 없는 자들이 있고, 나 또한 마찬가지였기에.|That employee believed that I was a Kaki, which explains why she took me into her custody to be used as material. There are those among Le Kaki who do not share the same purpose the vast majority of customers share—which is to purchase and don themselves in garments and attire. I belonged to that category.
+12938||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 나머지 하나는요?|Wait, what's the fourth?
+12939||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 모습을 드러내지 않으며, 누군가에게 불리지도 않는 자들이다.|They are those who never reveal themselves, nor are they called upon by anyone.
+12940||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 여전히 이해가 완전히 되지는 않는데… 여기서는 옷을 사거나… 입는다는 목적이 있어야만 하는 거야?|I still don't get the full picture... So you need to have a fashion purpose here? Like... buying clothes, trying 'em on and stuff?
+12941||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 여기 사람들은… 오로지 옷에만 관심이 있는 것처럼 보였어요.|The people here... seemed interested in nothing but clothes.
+12942||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 목적이라기보다는 존재의 이유에 더 가깝다.|It is less a purpose than a raison d'être.
+12943||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <일단… 이 논의는 여기까지하자.>|<Alright... I think that's enough of that for now.>
+12944||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그것보다는 이곳 시지프 백화점이 어떤 공간인지… 로쟈와 이스마엘에게 설명해주는 게 좋을 것 같아.>|<Why don't you explain more about the Grand Magasin Sisyphe itself? Rodya and Ishmael would appreciate a quick rundown on that, I think.>
+12945||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뫼르소의 폭풍과 같은 설명이 한동안 이어진 뒤, 나는 그 내용을 간략하게 정리해 되뇌듯 말했다.|After a veritable storm of articulate verbal sludge passed over the two, I decided to repeat and highlight some of the more relevant information from Meursault's lecture.
+12946||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <정리하자면, 이곳 시지프 백화점은 물리적으로 세워진 건물이 아닌, 정신만 존재하는 특수한 공간이고, 뫼르소의 신체는 시지프 탑의 통 속에, 우리 신체는 자살 자판기 안에 잠들어 있다는 거네.>|<Summary time. Grand Magasin Sisyphe is not a physical place. It is a virtual reality, and we're here only in our minds. Meursault's body has been put in a vat at the Sisyphe Tower, while our physical bodies are sleeping inside the Suicide Vending Machine we used.>
+12947||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그리고 우리는 뫼르를 구하기 위해 이곳으로 들어온 거고, 우리는 뫼르를 무사히 만났어. 그러니까 이제 옥상에 있다는 황금가지를 구해서 나가면 되는 거지?|Sounds like our plan's looking pretty simple: rescue Meur—we did that—find him in one piece—he is—yoink the Golden Bough on the rooftop, and get ourselves outta here. Is that right?
+12948||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …그렇다.|... It is.
+12949||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뫼르는… 여길 와봤던 거야?|Ya sound like... you've been here before, Meur. Have you?
+12950||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 와본 적은 없지만, N사에서 일했을 때 지인으로부터 이곳에 대한 많은 이야기를 들었다. 그렇기에 이곳에 대해 상세히 알고 있다.|I have not been here before, no. However, I heard some stories from an acquaintance when I worked for N Corp, which explains my in-depth knowledge regarding the Grand Magasin Sisyphe.
+12951||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그럼… 꼭대기를 향해 올라가보죠. 그 거대한 호수에서도 어떻게든 항해를 해 나갔는데 여기라고 안 될 게 있겠나요.|Then... I suppose our only option is to climb toward the top. We found a way to sail through the Great Lake—we will find a way to navigate this place as well.
+12952||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 재고 정리… 그 덕분이라고 할 수 있을진 모르겠지만, 처음과 비할 바 없을 만큼 상황은 좋다.|Thanks to—disregarding the notion of whether "thanks to" would be the most apt choice of words here—the "Liquidation," we're at a much better place than we were on our first attempt.
+12953||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 구매 등급도 충분하고, 많은 눈알을 들여 사두었던 물품도 뫼르소가 그대로 가지고 있다.|Our Prestige Tier was already decently high, and all the items we'd purchased with hard-earned eyeballs were still in our possession as well.
+12954||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그러니 이번에야말로 다른 결과를…|We might have an actual shot this time...
+12955||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <앞으로 가보자. 에스컬레이터 같은 걸 찾을 수 있을지도 모르잖아.>|<Let's hurry on ahead. Who knows? Maybe we'll come across an escalator or something.>
+12956||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …이들에게 다시 설명하겠습니다.|... I will now brief them regarding any pertinent information.
+12957||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 첫째, 이곳은 물리적으로 세워져 있는 건물이…|Point one: This is not a physically constructed...
+12958||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 마네킹들이 퇴장했군. 덕분에 앞으로 더 많은 고객들이 올 수 있을 거야.|So you managed to help them to the exit. Thanks to you, more customers can now access our shop.
+12959||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 휴… 우리는 지금 엄청 바빠. 새로 바뀐 유행에 맞춰서 옷들을 다 리뉴얼하고 있거든.|Whew... We've got so much on our plates at the moment. We need to redesign and revamp the entire lineup, what with the trend changing.
+12960||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 옷감을 놓치게 된 건 아쉽지만…|Shame we're forced to part with this material, but that's that...
+12961||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <color=#916e46>고객 여러분께 안내 말씀드립니다, 방금 부로 하운즈투스 시즌이 전면 마감되었습니다. 다음 시즌은…</color>|<color=#916e46>Your attention, please. The Houndstooth Season has officially ended. We are pleased to inform you that...</color>
+12962||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 너희와 노닥거리고 있다가 유행이 한 차례 더 바뀌어 버렸어. 안 살 거면 얼른 가!|Good grief! The trend changed again while I was wasting time shooting the breeze with you. Scram if you're not buying anything!
+12963||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 자유롭게 둘러봐. 우리 SPA관은 언제나 유행과 시즌에 민감하지. 고민할 시간에 하나 더 걸치는 게 이득이야.|Take a look around. The Casualwear Hall is catered to ever-changing trends. No need to weigh your options when it comes to fast fashion—just get one and dress up before the trend goes!
+12964||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 길 잃은 고객을 위한 지침:\n위를 보고 나아가면 르루주의 컬렉션을, 아래를 보고 나아가면 르누아르의 컬렉션을 즐기실 수 있습니다.|For Lost Customers:\nPlease keep your eyes raised up to enjoy the Rouge collection. Keep your eyes fixed on the ground to enjoy the Noir collection.
+12965||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 천만다행이다, 저도 시지프형을 받고 이곳으로 왔는데 제대로 설명을 해주는 사람들이 없었어요. 여기나 바깥에서나 다들 이해 안 되는 말만 하고… 여기 사람들은 심지어 저한테 말이 너무 안 통한다고 화를 내더라니까요?|Thank goodness. I got sent here after being sentenced to the Sisyphe Penalty, but nobody would explain anything to me! All anyone says are riddles and nonsense when it comes to this place—and I mean people <i>outside</i> as well. The ones here? They even get angry and complain about me not having common sense!
+12966||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <우리랑 마찬가지로 여기 들어온 지 얼마 안 된 것 같아. 쓸 만한 정보를 갖고 있진 않을 거야.>|<Yeah, but this guy's as new to this place as we are. Doubt he's got anything revelatory to share with us.>
+12967||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 단테… 오늘 진짜 수상한 거 알아? 말도 되게 파우처럼 하고.|Dante, I've said this earlier, but you've been acting real weird today. Real Fau-like.
+12968||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 혹시 머리가 또 뜨겁다거나, 그런 건 아니죠?|Can I feel your head? Is it getting fired up again?
+12969||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그런 건… 아니야.>|<No, it's... nothing like that.>
+12970||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 재고 정리에 관한 이야기를 굳이 안할 이유는 없겠지만…|The more I think about it, the fewer reasons there are to keep the Liquidation a secret. But...
+12971||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 으음… 그래, 뭔가 생각이 있는 것 같으니까 이번에도 넘어가 줄게. 대신 나중에는 다 말해주는 거다?|Hmmm... I'll let it slide a second time. <i>But</i> that's only because it looks like you've got a plan or something cooking up there. Promise to tell us everything later though, 'kay?
+12972||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그래, 그럴게.>|<Yeah, I promise.>
+12973||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 거기 친구~ 이름이 뭐야?|Anyways... What's your name, new guy?
+12974||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저는 뒤부아예요. 흉터 D라고도 불리죠.|The name's Dubois, by the way. People also call me "Scar D."
+12975||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 좋아. 뒤브. 미안한데, 우리가 지금 좀 바빠. 가야 할 곳이 있거든. 그래서… 중요한 이야기가 아니라면, 다음에 만났을 때 하는 게 좋을 것 같아.|I'm real sorry, Dubbs, but... we're in a bit of a hurry right now. Got places to be, ya know? If it isn't something super duper important, can we do this... maybe later? Next time we meet?
+12976||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아, 어떤 사람은 저를 옷감으로 써도 되냐고 물어왔어요. 무슨 은어인가 봐요.|And guess what, one person even asked if they could use me as material. Must be some kind of jargon they use in here.
+12977||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 앗… 그, 그렇군요. 알겠습니다…|Ah, uh... I-I see. I don't mind, yeah...
+12978||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 당신은… 이곳에 언제 왔는데?|So... when didya get here?
+12979||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저도 그걸 알고 싶어요. 여기는 시계도 없고 날을 세는 개념도 어딘가 이상하던데요. 어, 그러고 보니 당신 머리는 시계인가요? 지금 몇 시죠? 배는 고프진 않지만 마지막으로 밥을 먹고 난 후 한참이 지난 건 틀림없을 텐데…|That's exactly what I'm trying to figure out. There are no clocks here, and they have this weird way of counting days. Oh! Speaking of clocks—you've got one for a head! Could you tell me what time it is now? I know for sure it's been ages since my last meal, but somehow I don't feel hungry...
+12980||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그러고 보니… 재고 정리 전까지 그 이후로 한 번도 뒤부아와 마주친 적이 없었지.|Seeing Dubois, I recalled that we never actually got to encounter him again. That is, until now—after the last Liquidation of the entire department store.
+12981||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 정말 다른 2층을 올라갔을 수도 있지만, 3층에서 들었던 말을 생각하면… 시즌을 제대로 기다리지 않아서 따라 올라갔다가 죽은 걸지도 모르겠다.|He really might've reached a "different" second floor as Faust had explained, but... from what we heard on the third floor about what happens to those who jump on the escalator out of season... It was entirely possible that he'd simply gotten himself killed immediately after joining us.
+12982||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 와, 당신들은 유니폼을 입고 있는 건가요? 다 같이 시지프형을 받은 거라면 꽤 거물 조직이었나 봐요. 무슨 짓을 한 거예요?|Whoa, are those uniforms? You must've belonged to a pretty serious Syndicate. Just what did you do that they decided to throw everyone in here as a package?
+12983||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 음, 뭐라고 해야 할까… 동료를 아끼고자 하는 마음이 너무 강했던 죄?|Hm, how should I put this... They charged us with "caring a lil' too much about a certain colleague of ours", if that makes sense?
+12984||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <…대화는 이쯤하고 앞쪽으로 가자.>|<... Alright, that's enough chit-chat. Let's keep moving forward.>
+12985||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 어… 그래도 이곳의 정보를 들어두는 편이 좋지 않나요?|Uhh... Really? Shouldn't we try to learn as much as we can about this place?
+12987||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 어!! 당신들도 방금 들어오신 분들이죠? 맞죠?|Oh! You look like you've just got here, too! Right?
+12988||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뒤부아는 불안해보이는 모습으로 이리저리 주변만 살피고 있다.|Dubois's eyes dart about nervously.
+12989||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <color=#916e46>고객 여러분께 안내 말씀드립니다, 방금 부로 스트라이프 시즌이 전면 마감되었습니다. 현재 트렌드는 하운즈투스입니다.</color>|<color=#916e46>Your attention, please. The Stripe Season has officially ended. We are pleased to inform you that Houndstooth is the new trend.</color>
+12990||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뭔가 수상한 냄새가 나는데… 넘어가 줄게, 단테.|Something <i>definitely</i> smells fishy here, Dante... But I'll let it slide just this once.
+12991||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 안 돼, 내가 스트라이프를 위해서 여기 허벅지 가죽을 얼마나 베어냈는데! 턱밑까지 겨우 가로 줄무늬를 맞춰 놨단 말이야!|What?! No! I flayed so much skin off my thighs to make those stripe patterns... and it was all for nothing?! I only just got the horizontal lines all the way up to my chin. They can't change the trend <i>now</i>!
+12992||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 신상 매대들 채워놔야 돼! 어떡하지? 격자 무늬로 찢으면 괜찮을까? 남은 재고들을 이월 상품으로 보내면 안 되는데.|I have to fill the new-arrivals displays! Need a plan, need a plan... Maybe tear what's there into a checkered pattern? I can't let those go to clearance!
+12993||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <저쪽에 뫼르소가 있어.>|<Meursault's right over there.>
+12994||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 진짜? 그걸 어떻게 알아, 단테?|Huh? How'd you know that, Dante?
+12995||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <음, 뫼르소 시야로 보이는 풍경이랑 똑같더라고.>|<I recognized that part of the room after viewing it through Meursault's sight. Hurry up, time to reunite with Meursault.>
+12996||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 수감자들에게 내가 이 일을 한 번 겪었다는 건, 아직 말하지 않는 게 좋을 것 같다. 왠지, 꺼림칙한 감도 들고…|Best not to share with the Sinners that this is my second time here until I know what's going on. Something tells me I shouldn't reveal everything just yet...
+12997||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 어서 가보자.|Come on, let's get going.
+12998||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …묘하게 오늘따라 관리자다우시네요. 아, 평소에 그렇지 않았다는 건 아닌데… 뭐라고 할까, 좀 더 시원시원하고 결단이 빨라보여서요.|... Huh, you're fully in your manager mode today... weirdly. Uh, not to say that you usually aren't, but...  How should I put this? Yeah, you seem more... confident and decisive than usual.
+12999||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그, 그런가?>|<Y-you think so?>
+13000||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 구스타프|Gustave
+13001||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저 직원은… 말이 없네요.|This employee here isn't so eager to greet us.
+13002||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <아마 말을 걸 필요가 없는 걸 거야.>|<He probably doesn't need to talk to us.>
+13003||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 굳이 우리 쪽에서 말 걸 필요는 없지. 차라리 잘됐어~|Welp, then let's not bother 'em and move on? Sounds like a win-win.

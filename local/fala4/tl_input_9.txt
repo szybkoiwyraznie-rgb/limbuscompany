@@ -1,0 +1,96 @@
+785||SpeechBubbles#BattleSpeechBubbleDlg.json] 단숨에.|In one fell swoop.
+786||SpeechBubbles#BattleSpeechBubbleDlg.json] 합격점.|A passing grade.
+787||SpeechBubbles#BattleSpeechBubbleDlg.json] ...편히 쉬시게.|... Rest easy now.
+788||SpeechBubbles#BattleSpeechBubbleDlg.json] 끝내.|In the end.
+789||SpeechBubbles#BattleSpeechBubbleDlg.json] 전소하리.|Only ashes shall remain.
+790||SpeechBubbles#BattleSpeechBubbleDlg.json] 그대로 꿰어 쏘리라.|Be still—through you, I shall fire.
+791||SpeechBubbles#BattleSpeechBubbleDlg.json] 하나 넘고.|Leap upon the first.
+792||SpeechBubbles#BattleSpeechBubbleDlg.json] 셋 넘고.|Thrice overcome.
+793||SpeechBubbles#BattleSpeechBubbleDlg.json] 둘 넘고.|And the second.
+794||SpeechBubbles#BattleSpeechBubbleDlg.json] 무수히 넘고.|Overcome innumerability itself.
+795||SpeechBubbles#BattleSpeechBubbleDlg.json] 꺾어 제쳐라.|Break and surmount them.
+796||SpeechBubbles#BattleSpeechBubbleDlg.json] 얼마든지 꺾어 제쳐라!|Break and surmount them all!
+797||SpeechBubbles#BattleSpeechBubbleDlg.json] (비프음)하... 파도가 밀려드는구려.|*beep* Hah... I hear the waves rolling in.
+798||SpeechBubbles#BattleSpeechBubbleDlg.json] 일점과 삼선의 교점|The crossroad of a single point and three lines.
+799||SpeechBubbles#BattleSpeechBubbleDlg.json] 교차시키겠소.|Intersected.
+800||SpeechBubbles#BattleSpeechBubbleDlg.json] 원죄적근로의내부.|<size=150%>W</size>HAT<size=150%>L</size>IES<size=150%>B</size>ENEATH<size=150%>T</size>HE<size=150%>L</size>ABOR<size=150%>O</size>F<size=150%>O</size>RIGINAL<size=150%>S</size>IN.
+801||SpeechBubbles#BattleSpeechBubbleDlg.json] 겨를없이 근면하시오.|Toil diligently with nary a passing respite.
+802||SpeechBubbles#BattleSpeechBubbleDlg.json] 꿰여라...!|Be impaled!
+803||SpeechBubbles#BattleSpeechBubbleDlg.json] 관찰은,|Analysis...
+804||SpeechBubbles#BattleSpeechBubbleDlg.json] 끝났습니다.|Complete.
+805||SpeechBubbles#BattleSpeechBubbleDlg.json] 제압 완료.|Suppression complete.
+806||SpeechBubbles#BattleSpeechBubbleDlg.json] 아름다운 것.|What is beautiful.
+807||SpeechBubbles#BattleSpeechBubbleDlg.json] 그렇지 않은 것.|What is not.
+808||SpeechBubbles#BattleSpeechBubbleDlg.json] 출력 최대치.|Maximizing Output.
+809||SpeechBubbles#BattleSpeechBubbleDlg.json] 타올라라.|... And enflame!
+810||SpeechBubbles#BattleSpeechBubbleDlg.json] 걷잡을 수 없이...|Burn beyond all restraint...
+811||SpeechBubbles#BattleSpeechBubbleDlg.json] 타올라라!|... And enflame!
+812||SpeechBubbles#BattleSpeechBubbleDlg.json] 아른거리는.|Walk into the fire.
+813||SpeechBubbles#BattleSpeechBubbleDlg.json] 불길 속으로!|The lapping flames!
+814||SpeechBubbles#BattleSpeechBubbleDlg.json] 바로이.|To rectify.
+815||SpeechBubbles#BattleSpeechBubbleDlg.json] 틈을 끊어.|Hew through the opening.
+816||SpeechBubbles#BattleSpeechBubbleDlg.json] 이번엔 베어내죠.|This time, they will be cloven.
+817||SpeechBubbles#BattleSpeechBubbleDlg.json] ...충족.|... Fulfilled.
+818||SpeechBubbles#BattleSpeechBubbleDlg.json] 저의 뼈로 틀을 잡고, 저의 살로 채워 넣은 외면의 예술!|My bones as the frame, my flesh as the stuffing—the art of the exterior!
+819||SpeechBubbles#BattleSpeechBubbleDlg.json] 쉬시게.|Thou mayest rest.
+820||SpeechBubbles#BattleSpeechBubbleDlg.json] 한 줄 긋지.|One crossed off the list.
+821||SpeechBubbles#BattleSpeechBubbleDlg.json] 가속!|Accelerating!
+822||SpeechBubbles#BattleSpeechBubbleDlg.json] 꿰뚫려라!|You shall be impaled!
+823||SpeechBubbles#BattleSpeechBubbleDlg.json] 마무리!|'Tis the finisher!
+824||SpeechBubbles#BattleSpeechBubbleDlg.json] 아르카나... 슬레이브!|<i>ARCANA... SLAVE!</i>
+825||SpeechBubbles#BattleSpeechBubbleDlg.json] 끄으윽...! 파, 쇄!|Khhh...! C-crush...!
+826||SpeechBubbles#BattleSpeechBubbleDlg.json] (비프음) 하... 그대는 친절하지 않았지.|*beep* Th-thou hast never been kind.
+827||SpeechBubbles#BattleSpeechBubbleDlg.json] 못을 세워.|Standeth the nail...
+828||SpeechBubbles#BattleSpeechBubbleDlg.json] 내려치리라!|... and hammer smiteth down!
+829||SpeechBubbles#BattleSpeechBubbleDlg.json] ...베어내주마.|... I'll cut you down.
+830||SpeechBubbles#BattleSpeechBubbleDlg.json] 너.|U. (Useful,)
+831||SpeechBubbles#BattleSpeechBubbleDlg.json] 맛.|M.A. (meaty, and...)
+832||SpeechBubbles#BattleSpeechBubbleDlg.json] 최.|M. (mouthwatering)
+833||SpeechBubbles#BattleSpeechBubbleDlg.json] 재.|I. (ingredient.)
+834||SpeechBubbles#BattleSpeechBubbleDlg.json] 영원한 잠으로 인도하지.|I'll send you into eternal sleep.
+835||SpeechBubbles#BattleSpeechBubbleDlg.json] 지금이다. 해골바가지, 거미대가리!|Now's the time! Skull Face, Spider Head!
+836||SpeechBubbles#BattleSpeechBubbleDlg.json] 더 먹어 치워라.|Devour more, every last scrap.
+837||SpeechBubbles#BattleSpeechBubbleDlg.json] 숨통 끊기.|Windpipe slit.
+838||SpeechBubbles#BattleSpeechBubbleDlg.json] 경외감 속에 숨어든...|Beneath the shroud of Awe lies...
+839||SpeechBubbles#BattleSpeechBubbleDlg.json] 진홍빛 경멸.|... The crimson Contempt.
+840||SpeechBubbles#BattleSpeechBubbleDlg.json] 답공창영(踏空槍零).|Tread the Air, Brandish the Spear (踏空槍零).
+841||SpeechBubbles#BattleSpeechBubbleDlg.json] 태어난 곳으로, 돌아가라.|Return to the earth you were born from.
+842||SpeechBubbles#BattleSpeechBubbleDlg.json] 낮도 밤도 지워, 숨이 다하도록 베어낼 뿐.|Noontide and eventide lay erased, as I sunder all until my last breath is spent.
+843||SpeechBubbles#BattleSpeechBubbleDlg.json] 걸음을 뗄 때마다.|With every step you take,
+844||SpeechBubbles#BattleSpeechBubbleDlg.json] 온몸에!|remember...
+846||SpeechBubbles#BattleSpeechBubbleDlg.json] 침묵하라.|Silence.
+847||SpeechBubbles#BattleSpeechBubbleDlg.json] 꿰뚫려라!|Goring them!
+848||SpeechBubbles#BattleSpeechBubbleDlg.json] 육참!|Yield My Flesh!
+849||SpeechBubbles#BattleSpeechBubbleDlg.json] 육참.|Yield My Flesh.
+850||SpeechBubbles#BattleSpeechBubbleDlg.json] 골단!|To Claim Their Bones!
+851||SpeechBubbles#BattleSpeechBubbleDlg.json] 겸양하라.|... Humble yourself!
+852||SpeechBubbles#BattleSpeechBubbleDlg.json] 지식을 마주하고|Face the knowledge...
+853||SpeechBubbles#BattleSpeechBubbleDlg.json] 승부처다.|Now for the climax.
+854||SpeechBubbles#BattleSpeechBubbleDlg.json] ...전탄 격발.|... Firing all rounds.
+855||SpeechBubbles#BattleSpeechBubbleDlg.json] 전탄 격발!|Firing all rounds!
+856||SpeechBubbles#BattleSpeechBubbleDlg.json] 전탄 격발.|Firing all rounds.
+857||SpeechBubbles#BattleSpeechBubbleDlg.json] 행진의 꽃... 이것이 서곡의 피날레다.|This is the blossom of the procession... Behold, the finale of the Ouvertüre.
+858||SpeechBubbles#BattleSpeechBubbleDlg.json] 분진 작열. 임상시험 성공.|Dust ignition. Field testing successful.
+859||SpeechBubbles#BattleSpeechBubbleDlg.json] 더 야성적인 깊이로.|Plus fauve, plus profond.
+860||SpeechBubbles#BattleSpeechBubbleDlg.json] 직접...!|I...!
+861||SpeechBubbles#BattleSpeechBubbleDlg.json] 열어드리죠!|I will unlock you myself!
+862||SpeechBubbles#BattleSpeechBubbleDlg.json] 이런 것도 되죠.|Here, it can also do <i>this</i>.
+863||SpeechBubbles#BattleSpeechBubbleDlg.json] 마침표를.|I place the final Full-Stop.
+864||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 삶에...|To this life of yours...
+865||SpeechBubbles#BattleSpeechBubbleDlg.json] 마침표를!|I place the final Full-Stop!
+866||SpeechBubbles#BattleSpeechBubbleDlg.json] 크윽... 휘말리기 싫으면 비켜...!|Nngh... Move outta my way unless you wanna get caught in it...!
+867||SpeechBubbles#BattleSpeechBubbleDlg.json] 들리세요? 한 쌍의 상완골과 스물 네 개의 늑골이 자아내는 티비아의 멜로디가!|Do you hear it? Listen to Tibia's melody, the euphonious harmony of the humerus pair and 24 ribs!
+868||SpeechBubbles#BattleSpeechBubbleDlg.json] 순순히!|Don't make this any harder on yourself!
+869||SpeechBubbles#BattleSpeechBubbleDlg.json] 오라를 받으시죠!|Surrender to the Ohra Bonds!
+870||SpeechBubbles#BattleSpeechBubbleDlg.json] 피하지 마세요...! 잘못맞으면 죽습니다?|Please stay still...! You'll die if I hit the wrong spot.
+871||SpeechBubbles#BattleSpeechBubbleDlg.json] 들을 수 있음에도|"Those with ears to hear..."
+872||SpeechBubbles#BattleSpeechBubbleDlg.json] 듣고자 하지 않으니.|"... yet care not to listen."
+873||SpeechBubbles#BattleSpeechBubbleDlg.json] 덮어주고 씻겨내리라.|"I shalt be your blanket and cleansing water."
+875||SpeechBubbles#BattleSpeechBubbleDlg.json] 심장, 멈췄군.|Heart, stopped beating.
+876||SpeechBubbles#BattleSpeechBubbleDlg.json] 외우피의 적법한 무력행사다.|This is the Öufi's legitimate exercise of force.
+877||SpeechBubbles#BattleSpeechBubbleDlg.json] 후회 안에 갇혀 죽어라!|Perish within the gaol of your regrets!
+878||SpeechBubbles#BattleSpeechBubbleDlg.json] 직접 나서도록 할까.|So be it... I shall take the field myself.
+879||SpeechBubbles#BattleSpeechBubbleDlg.json] 가둘 수 없다면,|If you cannot be caged,
+880||SpeechBubbles#BattleSpeechBubbleDlg.json] 직접 후회를 새겨주지!|I shall carve your regrets upon you myself!
+881||SpeechBubbles#BattleSpeechBubbleDlg.json] 폭풍과 함께 사라져라.|The storms take you.
+882||SpeechBubbles#BattleSpeechBubbleDlg.json] 폭풍과 함께 사라져라.|Begone with the storms.

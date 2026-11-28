@@ -1,0 +1,96 @@
+18193||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …뒤에 붙어라, 뿌이.|... Stick close, Pwie.
+18194||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 응.|Ok.
+18195||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바빠, 바빠! 실을 계속 감고 있어야 해.|Busy-busy! Need to keep winding the thread.
+18196||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바늘이들은 쉬면 안 돼. 줄을 기다릴 때 빼고는…|Needlekin can't rest! Can't rest while queueing...
+18197||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 쓰러진 팔레트로부터 황금가죽을 채취했다.|Collected the Golden Hide from Palette's body.
+18198||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 쓰러져 있는 지하 2층 플로어 매니저가 보인다.|B2F Floor Manager's corpse.
+18199||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이 자에게서 황금가죽을 가져가면 되는 거군요.|Let us take the Golden Hide from this one.
+18200||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 지하 2층 플로어 매니저로부터 황금가죽을 채취했다.|Collected the Golden Hide from B2F's Floor Manager.
+18201||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그래서 왜 온 거야? 필요한 색이라도 있어?|So... What brings you back? Need another color?
+18202||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 우리는… 당신이 가진 황금송진이 필요하다.|We need... the Golden Resin in your possession.
+18203||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그건 안 되지.|No can do.
+18204||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 안 되더라도… 필요하다.|We need it... regardless.
+18205||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …억지로라도 가져가겠다는 거구나.|... You're going to take it by force, aren't you.
+18206||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 나는 너희에게 지하로 가는 길까지 열어줬는데…|But... I trusted you. I even opened the downstairs path for you.
+18207||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …미안하게 되었군. 하지만 우리에겐 네가 가지고 있는 황금송진이 반드시 필요하다.|... I regret the breach of trust. But your Golden Resin is essential to our mission.
+18208||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 믿을 수 없는 이방인들. 너희에게 길을 알려주지 말았어야 했어.|Strangers who can't be trusted. I should never have opened you the path.
+18209||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이대로라면, 무력 충돌이 불가피합니다. 그것을 원하신다면 개의치 않겠습니다만…|Battle is inevitable at this rate, Executive Manager. But if that is what you choose, I will not hesitate...
+18210||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…하지만 황금송진이랑 바꿀 만한 게 우리에게 남아 있을까?>|<... Do we actually have anything we can trade for it?>
+18211||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 어떤 거래를 제안하시겠습니까.|What transaction do you propose, Manager?
+18212||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 멀쩡히 돌아왔네. 떠나기 전에 작별 인사라도 하러 온 거야?|Back again in one piece. Did you come to say goodbye before leaving?
+18213||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 아이참, 언니. 말했잖아. 이자들은 내 염색원료를 훔치기 위해 온 자들이 아니라니까.|Oh, Big Sis. I told you—they're not thieves. They didn't come to drain my dye material.
+18214||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 언니…|Big Sis...
+18215||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 미안해… 언니가 좋아하던 옷… 꼭 입혀주고 싶었는데…|I'm sorry... I wanted so badly to make you those favorite clothes...
+18216||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 울음소리가… 들린다…|I hear... weeping...
+18217||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뺏어와… 내가… 먹어야 해…|Take it from them... I have to... eat it...
+18218||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 무지무지… 맛있을 거니까…|It will be... so, so tasty...
+18219||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 소란스러운 바늘이|Fussy Needlekin
+18220||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 쪼용, 쪼용! 우리의 왕이 깨어나셨다!|Quiety-quiet! Our king is wakey-wake!
+18221||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 시끄러운 바늘이|Loudmouthed Needlekin
+18222||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 왕은 이제 찌르기 시작할 거야!|Our king'll start stabby-stabbing!
+18223||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 탐욕스런 바늘이|Greedy Needlekin
+18224||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 찌르면 맛있어! 쪼용하게 핥을 거야!|Stabby-stabby is tasty-tasty! And we lap it up quiety-quiet!
+18225||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 쪼아, 쪼아! 그럼 왕의 부탁을 들어줘야 해!|Goody-good! Then let's give the king what he wants!
+18226||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 비틀거리던 퍼티는 꺾인 무릎을 피고 다시 일어섰다.|Putty stumbles, then straightens her knees.
+18227||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 언니…!|Big Sis...!
+18228||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그만둬, 언니를 왜 때리는 거야?|Stop that. Why are you hurting her?
+18229||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 원하는 게 있으면 나한테 말해.|If there's something you want, you speak to me.
+18230||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 왜 우리를 때리는 거야?|Why are you hurting us?
+18231||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 퍼티가 위협적으로 다가온다.|Putty approaches us threateningly.
+18232||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 샘터에서 온 이방인들이라면… 조금은 다를 거라 생각했는데.|I thought strangers from the Fount... would be different.
+18233||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] ……(위협적인 소리)|.......
+18234||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 언니의 말대로야. 이 악독한 자들이 우리를 아프게 한다면, 우리도…|You're right, Big Sis. If these cruel people want to hurt us, then we can only...
+18235||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 너희는… 조금은 다를 거라 생각했는데.|I thought you... would be different.
+18236||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 필요 없어.|Don't need it.
+18237||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <황금원단으로 옷을 만들고 싶었다면, 팔레트는 뫼르소의 건틀릿이나 꼬무리를 탐냈을 거야.>|<If Palette wanted clothing made from Golden Fabric, she would have asked for Meursault's gauntlet or Wriggley earlier.>
+18238||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 언니는… 하늘색을 좋아했어. 햇살을 쬐는 걸 좋아하게 된 이후로 황금송진 곁에 계속 있곤 했지만…|Ever since sunbathing occupied her mind, she's never left the Golden Resin's side, but... Big Sis's favorite color, it was... sky blue.
+18239||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …그러네. 황금송진은 이제 내게 필요 없는 것 같아. 반대로 그 가위는… 간절히 필요하고.|... You're right. I've no need of the Golden Resin anymore. But those scissors... They are the missing stroke.
+18240||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 무뎌진 가위를 팔레트에게 주고, 대신 황금송진을 채취했다.|We placed the dulled scissors into Palette's hands and received the Golden Resin in exchange.
+18241||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <그러지 않고, 실타래만을 우리에게 요구했다는 건…>|<But all she had asked from us was the skein...>
+18242||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <옷을 만들 수 있는 가위를 주자.>|<The scissors. Let's offer what she actually needs to make the clothes.>
+18243||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 황금송진을 준다면, 옷을 만들 수 있는 가위를 주겠다.|If you give us the Golden Resin, we will give you scissors you can use to make the clothing you want.
+18244||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 언니, 잠깐만 기다려봐. 가위라면, 무슨 가위를 말하는 거야?|Wait, Big Sis! Scissors? What kind of scissors?
+18245||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 르누아르의 수많은 옷을 만들었던… 수선사 아네트의 가위다.|The scissors of Annette the Alterationist... the tailor who made many attire for Le Noir.
+18246||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 수선사 아네트… 르누아르 고객들에게 들어본 적 있어. 어떤 실이든 가장 아름다운 원단으로 만들어준다고…|Annette the Alterationist... I've heard the Noir customers mention her. They say her scissors can turn any thread into the prettiest fabric...
+18247||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 윽… 그치만 안 돼. 황금송진이 없으면, 황금염료를 만들 수 없어.|Ugh... I'm still gonna have to refuse... I can't make the Golden Dye without the Golden Resin.
+18248||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 반대로 가위가 없다면 옆에 있는 저자의 옷을 만들 수도 없겠지.|You're not making any clothing for your sister without the scissors.
+18249||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] … (위협적인 눈빛으로 우리를 바라본다)|... (She fixes us with a threatening glare.)
+18250||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 언니를 왜 때리는 거야?|Why are you hurting her?
+18251||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 삐걱거리는 소리와 함께, 내려앉는 팔들이 보인다.|With a long creak, the arms begin to sag.
+18252||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그 많은 손은 모두 팔레트가 있던 방향을 향하고 있다.|Every one of those hands is reaching toward where Palette had been.
+18253||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 조막만한 천 아래, 뭉개진 살점이 얼핏 드러난다.|Mangled flesh peeks from beneath the tiny scrap of cloth.
+18254||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 조막만 한 천 아래, 짓이겨진 살점이 얼핏 드러난다.|Pulverized flesh peeks from beneath the tiny scrap of cloth.
+18255||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 파란 염료와 살점이 사방으로 터져나왔다. 원래 모습을 알아보기 힘들다.|It's exploded into a mess of blue dye and flesh. It's difficult to imagine what it could've looked like before.
+18256||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 고통스러워 흘리는 눈물은, 슬피 울어 흐르는 눈물과 무엇이 다를까.|What difference is there between tears shed in pain and tears shed in sorrow?
+18257||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 슬픔과 고통은… 무엇이 다른 걸까.|What separates sorrow from pain?
+18258||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 천을 살짝 들춰보니 곤죽이 된 살점이 끈적하게 묻어난다.|Lifting the cloth slightly reveals flesh mashed to a pulp, clinging wetly to its underside.
+18259||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실타래가 흩어져 있다.|Skeins of thread lie scattered about.
+18260||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 여러 색으로 얼룩져있던 머리카락 사이로 붉은색이 섞인 염료가 흐른다.|Red-tinged dye trickles through hair stained in a multitude of colors.
+18261||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 마치 우리가 터트렸던 눈물처럼 펑펑 흐르고 있다.|It gushes out in heavy streams, just like the tears we burst before.
+18262||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 북적이던 둥지에 적막만 감돈다.|Only silence remains in the once-crowded Nest.
+18263||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 해져버린 실타래에서 튀어 나온 실밥들이 흩날린다.|Loose threads fray free from the worn skein, fluttering through the air.
+18264||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 고통스럽게 삐걱이던 몸이 바스라지듯 무너져 내렸다.|Their body, creaking in agony, crumbled apart and collapsed.
+18265||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이 자에게 가져갈 건 더 이상 없는 것 같다.|There's nothing else to collect from this one.
+18266||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이미 가지고 있는 염료다.|Already scooped a bit of this dye.
+18267||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이미 긁어낸 적 있는 톱밥이다.|Already scraped a bit of this sawdust.
+18268||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 랭콜로르로 추정되는 염료가 담긴 통이다. 만들어진지 제법 오래된 것 같다.|A vat filled with transparent liquid. I think it's L'Incolore, but... looks like it's been a while since this batch was made.
+18269||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 오래된 통이다. 반대편에 무언가 쓰여있다.|An old barrel. There's something written on the other side...
+18270||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] [가장 높이 뜬 해는 가장 짧은 그림자를 만든다.]|[The higher the sun, the shorter the shadow.]
+18271||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] [그림자가 너무나 짧아져서 안 보이게 되었을 때, 햇살은 푸른 빛이다.]|[When the shadow has shrunk beyond sight, the sunlight is blue.]
+18272||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] [조금 쨍하긴 하지만, 이 색으로 이곳을 칠하자. 언니가 좋아하던 정오의 푸른색으로.]|[It's a bit overexposed, but this is the color I'll use to paint this place. It's my big sister's favorite color, after all... Noonday Blue.]
+18273||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 통은 아직까지 열리지 않았다. 팔레트는 이 통의 존재를 잊어버린 걸까. 아니면…|The lid is still shut. Has Palette forgotten about this batch, or...?
+18274||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 대기표 하나가 버려져 있다.|There's an abandoned numbered ticket.
+18275||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 대기표다. 줄을 서서 기다리는 놈들이 받는 물건이지.|A numbered ticket. Something idiots take to secure a place in a queue.
+18276||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …그런데 왜 줄을 서서 기다리는 거야? 그냥 들어가면 안 돼?|... So why do they wait in line? Can't they just go in?
+18277||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 모두가 자신이 먼저 들어가길 원하기 때문이다. 그러니 먼저 도착했다, 라는 규정을 만들어 그 순서대로 기다림을 부여한다.|They can't, because everyone in line desires to be the first to enter.\nTherefore, they collectively agree to create a rule called "first-come, first-served," and imbue resultant queue with legitimacy.
+18278||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 음… 모르겠어. 꼭 그래야하는 거야? 다들 그러자고 하면 그러는 거야?|Mm... I dunno. Do they have to? Just 'cuz everyone says so?
+18279||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그렇다. 가치 있는 것에는 기다림이 있고, 그 기다림은 공평하다는 믿음이 있기에 이를 따른다.|Yes. Because everyone in the queue shares the same faith that all worthy goals requires its pursuers to wait, and because they have faith that waiting is fair to all, they abide by it.
+18280||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 공평…|Fair...
+18281||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …헛된 인식이지. 모두가 똑같은 조건에서 기다리고 있는 것처럼 보여도, 세상은 그렇게 굴러가지 않으니.|... Fairness is an illusion. Though it might seem like they're all waiting in the same queue under the same rules, that's just not the way the world spins.
+18282||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 퍼티라는 자가 앞을 막아섰다.|Putty stepped forward, blocking our way.
+18283||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 살에 줄줄 새어나오는 것들…|Things seeping from flesh...
+18284||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 남김없이… 핥아먹는다.|Lick them all... leave none behiiind...
+18285||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 괴로워도 어쩔 수 없단다. 너희의 원함과 우리의 원함은 맞닿을 수가 없기에…|It will hurt, but it cannot be helped. What you desire and what we desire can never meet...
+18286||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 최선을 다해 서로의 원함을 저물게 하자꾸나.|Let us do all we can to sink each other's desires to an end.
+18287||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 커다란 염료통들이 길을 막고 있다. 뫼르소가 밀어봤지만 꿈쩍도 하지 않는다.|Large dye vats are blocking the way. Meursault tries pushing them aside, but they won't budge.
+18288||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 새하얀 실들이 감겨있다.|Spools of pure white thread are wound here.

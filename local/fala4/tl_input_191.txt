@@ -1,0 +1,96 @@
+18581||RPGSystem#rpg-loc-dialogue-floor-b2.json] 세상에… 이렇게 아름다운 빛깔이 존재했다니…!|It's... It's out of this world. To think such a beautiful hue could exist...!
+18582||RPGSystem#rpg-loc-dialogue-floor-b2.json] …!!!!!|…!!!!!
+18583||RPGSystem#rpg-loc-dialogue-floor-b2.json] …방어전을 치르라는 말로 들리는군.|... Sounds as though she wants us to defend this position while she spins the thread.
+18584||RPGSystem#rpg-loc-dialogue-floor-b2.json] 관리자님. 이곳으로 이어지는 복도 입구를 막고 있는 편이 좋을 것 같습니다.|I recommend immediately fortifying the corridor entrance leading to this position, Executive Manager.
+18585||RPGSystem#rpg-loc-dialogue-floor-b2.json] <윽!? 이게 무슨…?>|<?!! What is that noise...?>
+18586||RPGSystem#rpg-loc-dialogue-floor-b2.json] 후우… 실을 쥐어짜내고 있나. 썩 듣기 좋은 내 취향의 비명은 아니군.|*puff* It's being wrung for the thread. Not the sort of scream that appeals to my tastes.
+18587||RPGSystem#rpg-loc-dialogue-floor-b2.json] …관리자님, 복도에서 무언가 몰려오는 소리가 들립니다.|... Manager, I hear something rushing toward us from the corridor.
+18588||RPGSystem#rpg-loc-dialogue-floor-b2.json] 옛것이 오는가.|The thing of eld comes.
+18589||RPGSystem#rpg-loc-dialogue-floor-b2.json] 참고삼아 말해야겠구나.|A warning, if you would.
+18590||RPGSystem#rpg-loc-dialogue-floor-b2.json] 실을 자아내는 데 방해를 받아선 좋은 빛깔이 나올 수 없다.|Thread spun under hindrance shall never yield a color of beauty.
+18591||RPGSystem#rpg-loc-dialogue-floor-b2.json] 탐하려는 자가 많을 물건, 자연히 방해도 잦아지겠지.|A thing coveted by many will invite much hindrance.
+18592||RPGSystem#rpg-loc-dialogue-floor-b2.json] 복도 방향에서 커다란 소리가 연신 들려오기 시작한다.|Something is violently crashing through the corridor toward where we were.
+18593||RPGSystem#rpg-loc-dialogue-floor-b2.json] 혹시 그 검은 존재가 울음소리를 듣고 다시 찾아온 건가?|Had that black entity heard the cries and returned for the cocoon?
+18594||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이걸로… 모두 뽑아내었다.|With this... every last strand has been drawn.
+18595||RPGSystem#rpg-loc-dialogue-floor-b2.json] 감아둘 곳은 있니?|Do you have a spool for it?
+18596||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아직 없다.|Not yet.
+18597||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그렇다면 엉킨 채로 둥글게 가져가렴.|Then make it into a tangle of yarn and take it with you.
+18598||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이걸로… 레시피에 있는 황금 실타래는 얻었군요.|With this... we have obtained the Golden Skein listed in the recipe.
+18599||RPGSystem#rpg-loc-dialogue-floor-b2.json] <다들 고생했어. 이제 3층에 돌아가자.>|<Good work, everyone. Let's return to the third floor.>
+18600||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이제… 돌아가렴.|Now... go back.
+18601||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이제 이곳에 볼일은 없는 것 같다.|It seems we have no further business here.
+18602||RPGSystem#rpg-loc-dialogue-floor-b2.json] <!!!>|<!!!>
+18603||RPGSystem#rpg-loc-dialogue-floor-b2.json] 음… 그런 일이 있었군.|Hm... I see.
+18604||RPGSystem#rpg-loc-dialogue-floor-b2.json] 후우… 보이지 않겠지.|*puff* Like nothing, obviously. Invisible.
+18605||RPGSystem#rpg-loc-dialogue-floor-b2.json] <그런 옷을 누가 입겠어…?>|<Who would even wear clothes dyed in something like that?>
+18606||RPGSystem#rpg-loc-dialogue-floor-b2.json] 눈앞에 있는 저자가 입고 싶은 것 같군.|This guy, apparently.
+18607||RPGSystem#rpg-loc-dialogue-floor-b2.json] 료슈는 어깨를 으쓱이며 담배를 바닥에 던져 발로 밟았다.|Ryōshū shrugged, flicked her cigarette to the ground, and crushed it beneath her heel.
+18608||RPGSystem#rpg-loc-dialogue-floor-b2.json] 랭콜로르… 라는 이름이었을 거야. 그 염료를 구해온다면, 황금염료와 바꿔줄 의향이 있어.|I believe it's called L'Incolore. Bring me that dye, and I will barter the Golden Dye for it.
+18609||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그건 황금염료보다도 귀하고, 돋보일 테니까.|It's probably rarer than the Golden Dye—and far more striking, too.
+18610||RPGSystem#rpg-loc-dialogue-floor-b2.json] …팔레트, 그자도 알고 있나?|... Is Palette aware of its existence?
+18611||RPGSystem#rpg-loc-dialogue-floor-b2.json] 글쎄, 물어보진 않았어서. 취급하고 있는지도 모르겠는걸.|Well, I wouldn't know—never asked her. Perhaps she does have it in her production line, who knows.
+18612||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그리고 그런 귀중한 게 있다고 해도, 오픈런도 하지 못했으니 한참을 기다려야 할 거야. 그런 기다림은… 황금염료만으로 충분했고.|Besides, even if she had a dye that valuable, I'd have to wait ages before I could get my hands on it, since I failed to camp out before opening. And after how much I waited to get the Golden Dye... I don't think I've got it in me for another wait.
+18613||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어? 순번이 0이 됐잖아? 난 황금염료를 가지러 가봐야겠어.|Hm? My turn has come, it seems! I have to go collect my dye.
+18614||RPGSystem#rpg-loc-dialogue-floor-b2.json] 하지만 그럴 수 없네.|But I cannot do that.
+18615||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아니, 잠시…|Wait, let us—
+18616||RPGSystem#rpg-loc-dialogue-floor-b2.json] 진정해. 너희가 정말 랭콜로르라는 걸 갖고 오면 바꿔줄 의사는 있으니까. 어차피 이번 시즌 동안에는 위로 못 올라가기도 하고.|Easy there. I've got no problem making a trade <i>if</i> you can really bring me some L'Incolore. I can't head upstairs for the rest of this season anyway.
+18617||RPGSystem#rpg-loc-dialogue-floor-b2.json] 난 이 근처에서 지낼 생각이야. 정말 구했다면, 내게 다시 와. 일단 난 황금염료를 가지러 가야 해서, 이만.|I'm planning to stick around nearby. Come see me once you've obtained L'Incolore. Anyway, I'm off—got Golden Dye to collect.
+18618||RPGSystem#rpg-loc-dialogue-floor-b2.json] 음… 역시 더 많은 눈알을…|Hmm... Perhaps more eyeballs can—
+18619||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아니, 어떻게 해도 결과는 같아.|Don't bother. You can't persuade me with it.
+18620||RPGSystem#rpg-loc-dialogue-floor-b2.json] 내가 몇 시즌 동안 유행에 뒤처져가면서도 지하에 내려온 건, 더 높은 곳… 5층에 올라갈 수 있을 만큼 굉장한 옷을 만들기 위함이야.|The whole reason I spent season after season on the basement floors, watching countless trends pass me by... was to make an outfit magnificent enough to carry me higher—to the fifth floor. That singular purpose made coming down here all worth it.
+18621||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그걸 위해서는 황금염료가 아니면 의미가 없어.|Without the Golden Dye, that dream means nothing.
+18622||RPGSystem#rpg-loc-dialogue-floor-b2.json] 대등한 가치의 염료가 있다면… 또 모르겠지만.|If you had a dye of equal value... perhaps I could be persuaded.
+18623||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그런 게 있긴 한 건가?|Does such a dye even exist?
+18624||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어디까지나 소문인데… 순수한 자들에게만 보이는 황금염료보다도 수려한 빛깔의 염료가 있다더군.|This is only a rumor, but... they say there is a dye of exquisite hue, visible only to the pure of heart. More magnificent than even the Golden Dye.
+18625||RPGSystem#rpg-loc-dialogue-floor-b2.json] <순수하지 않은 자들에겐 어떻게 보이는데…?>|<What does it look like to someone who isn't pure...?>
+18626||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…관련된 걸 물어보려면, 결국 우리도 팔레트에게 다시 가야겠지?>|<We'll have to head back to Palette if we want any answers about this "L'Incolore".>
+18627||RPGSystem#rpg-loc-dialogue-floor-b2.json] 당신이 네이키드인가?|Are you the one called Naked?
+18628||RPGSystem#rpg-loc-dialogue-floor-b2.json] …당신들은 고객이 아닌가? 이 저층에 무슨 볼일이지?|... Customers, looking for me? What do you want?
+18629||RPGSystem#rpg-loc-dialogue-floor-b2.json] 생생한, 울음소리.|This sobbing. So vivid.
+18630||RPGSystem#rpg-loc-dialogue-floor-b2.json] 검정… 없어…! 멀리, 아직 멀리…!|Black... Not here...! Far away... still far...!
+18631||RPGSystem#rpg-loc-dialogue-floor-b2.json] 하. 하. 하하. 다시, 만찬을…!|Ha. Ha. Hahaha. Again, the feast...!
+18632||RPGSystem#rpg-loc-dialogue-floor-b2.json] <저건… 또 뭐야…!?>|<What is that thing?!>
+18633||RPGSystem#rpg-loc-dialogue-floor-b2.json] 뒤로 물러났다간… 실타래 제작이 방해받을지도 모릅니다.|Withdrawing from this position will compromise the production of the skein, Executive Manager.
+18634||RPGSystem#rpg-loc-dialogue-floor-b2.json] 시. 대. 싸울 준비나 하도록.|Get ready for a fight, C.H.
+18635||RPGSystem#rpg-loc-dialogue-floor-b2.json] 곧, 부딪힐 거다.|Like it or not, it's upon us.
+18636||RPGSystem#rpg-loc-dialogue-floor-b2.json] <이제 안 움직이는 것 같아.>|<I don't think it's moving anymore.>
+18637||RPGSystem#rpg-loc-dialogue-floor-b2.json] <도대체 뭐였던 걸까…>|<What in the world was that...?>
+18639||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그어어어어…!|Grrraaagh...!
+18640||RPGSystem#rpg-loc-dialogue-floor-b2.json] 황금염료를 가져왔군.|You have brought the Golden Dye.
+18641||RPGSystem#rpg-loc-dialogue-floor-b2.json] 햇살을 듬뿍 받은 찬란한 색… 실에 걸맞은 수려함이지 않니.|A radiant color steeped in sunlight... a beauty worthy of this thread, would you not agree?
+18642||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이렇게 눈앞에 두니 실로 탐이 나는구나.|I find myself coveting it in earnest, now that I see it with my own eyes.
+18643||RPGSystem#rpg-loc-dialogue-floor-b2.json] 뫼르소의 주머니를 빤히 바라보던 지하 2층 플로어 매니저의 세 얼굴은 이내, 고개를 아래로 내리고 조용히 고치를 받아들었다.|The three faces of B2F's Floor Manager stared fixedly at Meursault's pocket. Before long, they lowered their heads and quietly accepted the cocoon.
+18644||RPGSystem#rpg-loc-dialogue-floor-b2.json] 조막만한 천 아래, 뭉게진 살점이 얼핏 드러난다.|Mangled flesh peeks from beneath the tiny scrap of cloth.
+18645||RPGSystem#rpg-loc-dialogue-floor-b2.json] 노란 염료와 살점이 사방으로 터져나왔다. 원래 모습을 알아보기 힘들다.|It's exploded into a mess of yellow dye and flesh. It's difficult to imagine what it could've looked like before.
+18646||RPGSystem#rpg-loc-dialogue-floor-b2.json] 빨간 염료와 살점이 사방으로 터져나왔다. 원래 모습을 알아보기 힘들다.|It's exploded into a mess of red dye and flesh. It's difficult to imagine what it could've looked like before.
+18647||RPGSystem#rpg-loc-dialogue-floor-b2.json] 무슨 짓이지? 무례하군.|What are you doing? How rude.
+18648||RPGSystem#rpg-loc-dialogue-floor-b2.json] 설마 르루주에서 보낸 건가? 내 독자적인 디자인을 가로채려고… 이 망할 이방인들이…!|It... it can't be...! Were you Rouge spies all along, after my personal designs...? Damned strangers!
+18649||RPGSystem#rpg-loc-dialogue-floor-b2.json] 득달같이 달려드는군요.|They swarmed us rather quickly.
+18650||RPGSystem#rpg-loc-dialogue-floor-b2.json] 날. 치. 기.|Got a M.U.G., those things.
+18651||RPGSystem#rpg-loc-dialogue-floor-b2.json] <그건… 무슨 뜻인데…>|<Okay... and that means...?>
+18652||RPGSystem#rpg-loc-dialogue-floor-b2.json] 처음으로 제시된 줄임말은 해석할 수 없습니다, 관리자님.|I cannot interpret acronyms that have not been used before, Manager.
+18653||RPGSystem#rpg-loc-dialogue-floor-b2.json] 저… 날렵하고 치명적인 기술… 이라고 하셨어요.|Uh, she said... "Got a Mortally Urgent Gift, those things..."
+18654||RPGSystem#rpg-loc-dialogue-floor-b2.json] 싱클레어가 해석해주자, 검집이 또다시 웅웅거린다.|The scabbard rattles angrily as Sinclair interprets Ryōshū's acronym.
+18655||RPGSystem#rpg-loc-dialogue-floor-b2.json] 물론 몇 번 당해 보았기 때문인지 싱클레어는 이미 멀찍이 떨어진 이후였다.|But having caught a few scabbard-punches to the gut, Sinclair had already moved a fair bit away from Ryōshū.
+18656||RPGSystem#rpg-loc-dialogue-floor-b2.json] <작아서 잘 보이지도 않았어…>|<They were so small, too... Couldn't even keep track of where they were coming from.>
+18657||RPGSystem#rpg-loc-dialogue-floor-b2.json] <밑을 좀 더 보는 게 최선일 것 같네.>|<Guess we should pay more attention to the ground.>
+18658||RPGSystem#rpg-loc-dialogue-floor-b2.json] <눈물이라며… 눈물이라고 했잖아…>|<"Tears," she said... "Burst some blubber-bubbles," she said...>
+18659||RPGSystem#rpg-loc-dialogue-floor-b2.json] 통상적인 의미는 아니리라 생각했지만, 터트려달라는 눈물이 그런 것이었을 줄은…|While the experiences at this department store has led me to expect unpredictability at every turn, the nature of those... tears still caught me off guard.
+18660||RPGSystem#rpg-loc-dialogue-floor-b2.json] 후우… 그래도 볼 만한 죽음이었다. 색으로 뒤덮여 펑펑 우는 모습은, 제법 키치하군.|*puff* made for a nice watch, though. Sobbing uncontrollably while doused under bucketfuls of technicolor... Got a kitschy charm to it.
+18661||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이왕 죽은 거, 색별로 모두 칠해지는 게 좋겠어.|Let's try dying at least once to each color. That should do us good.
+18662||RPGSystem#rpg-loc-dialogue-floor-b2.json] <좋지 않아…>|<I don't see what good that'll do...>
+18663||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그래도… 그것들이 지나간 자리에 깔린 염료만 주의하면, 상대하긴 어렵지 않을 겁니다.|Now that they've lost their element of surprise, however, the only thing we need to watch out for are those puddles of dye they leave behind. This should be more than manageable, Executive Manager.
+18664||RPGSystem#rpg-loc-dialogue-floor-b2.json] <꽤 오랫동안 남아있었지…>|<Yeah, those puddles lingered for quite a while, huh?>
+18665||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…좋아, 다시 가보자.>|<... Alright. Let's try this again.>
+18666||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…! 자, 잠깐! 황금고치는…?>|<...! W-wait! The Golden Cocoon...?>
+18667||RPGSystem#rpg-loc-dialogue-floor-b2.json] <시간…?>|<Time...?>
+18668||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그러고 보니 오티스는 상황이 이해가 되지 않는 듯 보였다.|Yeah, Outis is behaving a bit strangely, like she doesn't understand what just happened.
+18669||RPGSystem#rpg-loc-dialogue-floor-b2.json] 고치도 원래대로 돌아왔고… 그렇다는 건…|Not to mention how the cocoon's been restored, too... Which can only mean...
+18670||RPGSystem#rpg-loc-dialogue-floor-b2.json] <밖으로 나가서 확인해보자.>|<Let's head outside and check what's going on.>
+18671||RPGSystem#rpg-loc-dialogue-floor-b2.json] 음? 고치는 여전히 저자의 어깨 위에 있습니다, 관리자님.|Hm? The cocoon is still floating above Meursault's shoulder, Executive Manager.
+18672||RPGSystem#rpg-loc-dialogue-floor-b2.json] <다행이다… 잡아먹힌 게 아니었구나…>|<Phew... What a relief. I thought it'd been devoured with him.>
+18673||RPGSystem#rpg-loc-dialogue-floor-b2.json] 잡아먹혔다는 건 무슨…|Devoured? What do you—
+18674||RPGSystem#rpg-loc-dialogue-floor-b2.json] 잡아먹혔습니다. 하지만 여전히 어깨에 남아 있습니다.|It was devoured. But the cocoon still remains above my shoulder.
+18675||RPGSystem#rpg-loc-dialogue-floor-b2.json] <고치도… 뫼르소에게 귀속되어서 그런 건가?>|<So the cocoon came back, too... Is that because it's now linked to Meursault somehow?>
+18676||RPGSystem#rpg-loc-dialogue-floor-b2.json] 후우… 시. 비.|*puff* T.M.
+18677||RPGSystem#rpg-loc-dialogue-floor-b2.json] 시계, 비켜… 라는 의미로 쓰인 적이 있습니다, 관리자님.|That acronym has been used to convey "Timepiece, Move," Manager.

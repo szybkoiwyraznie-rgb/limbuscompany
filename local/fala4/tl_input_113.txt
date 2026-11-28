@@ -1,0 +1,96 @@
+10959||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 훈련장만큼의 즐거움도 주지 않는 건가. 압도적이니 재미도 없군. 다시 훈련에나 매진한다.|They couldn't even measure up to training dummies... This victory was so overwhelming that it was practically dull. I'm going back to training.
+10960||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 하… 아. 움직이지 않는 나무토막으론… 무리였나.|Haah... These... moving dummies must've been... insufficient training material.
+10961||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 졌다고…? 믿. 없. 이 따위 물렁한 나무 토막들에게 질 수가 있다니. 내 훈련 방식이 틀렸다고…?|We... lost...? N.W. No way we lost to these fleshy dummies. My training routine cannot possibly be wrong...!
+10962||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 초식, 1번!|First Form!
+10963||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 똑바로 서라. 나무 인형만도 못 한 것.|Get up. A wooden dummy stands taller than you do.
+10964||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 쯧, 벌써 부서졌나. 쓸모가 없군.|Tsk, already broken. How useless.
+10965||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 꺼져. 집중하고 있다.|Scram. I'm trying to focus.
+10966||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 움직이는 목인장, 재밌겠군.|Moving dummies... this could be interesting.
+10967||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 쓸데없는 것을 시킨 결과다.|That is what you get for wasting my time.
+10968||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 쓸데없는 것을 시키고 앉았군.|What a waste of time.
+10969||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 일이라면, 간다.|Is this a job? Then I'll be there.
+10970||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 부장… 귀 따갑게 시끄럽게만 굴 줄 알았는데, 이런 쓸모 있는 기술을 다 알려주는군. 훗, 마무리로 쓸만하겠어.|Section Director... Thought she was a useless loudmouth, but she taught me this particularly useful skill. Heh, I could use this as a finisher.
+10971||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 허. 훈련실에서 펼쳐지는 예술이 궁금했나?|Hmph. Did you wish to witness the art performed in a training room?
+10972||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 바깥이 시끄럽다. 또 아침 식사를 하겠다고 소란스러운 모양이지. 흥, 몸을 단련하는 것보다 즐거울 수는 없는 것을.|It's getting loud outside... They must be making a ruckus preparing breakfast again.\nHmph, no delicious meal can possibly be better than a good training session.
+10973||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 사람이 잠들고 깨어나는데 큰 조건이 있지는 않지. 지치면 잠들고, 회복하면 깬다. 공간은 중요치 않다.\n알고 있나? 이 목인장에 기대어 자는 건 꽤 편하다고. 훗.|There are no particular conditions for sleeping and waking. Humans sleep when tired and wake up when no longer tired. It doesn't matter where one goes to sleep.\nBesides, sleeping against this training dummy is more comfortable than you'd expect. Heh.
+10974||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 해가 중천이라고… 상. 없. 일거리가 아니라면 굳이 나를 부를 필요 없다. 일 외에 여기를 벗어날 생각은 없다.|It's already midday...? I.D.C. Don't call me unless it's for work. I don't intend to leave this room unless it's for a job.
+10975||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 흠. 뭐, 불이 필요하나?|Hm. What, need some fire?
+10976||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 따듯, 화목. 그게 리우의 기조라. 하. 그래, 멋대로 지껄이도록.\n내가 배운 리우의 행동 강령은 불꽃처럼 불사르는 것. 그 뿐이니까.|Warmth. Kinship. They're the 'core values' of Liu... Hah. Sure, of course.\nBut the only core value of Liu that I've come to know is that it scorches and burns. That's all there is to it.
+10977||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 불꽃은 강력하고 화려하지만, 동시에 가녀리고 나약하지.\n항상 강력한 불꽃이 될 수 있게 하는 방법은, 쉴 새 없이 장작을 넣어주는 것 뿐이다. 그 방법은, 오직 끊임 없는 훈련 뿐.|The flame is powerful, impressive... but it also carries frailty and fragility.\nThe only way to keep the fire burning is to feed it firewood ceaselessly. And that 'firewood' is endless training.
+10978||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 화상 자국과 강화 문신은 흡사한 것이 많지. 그려낼 때는 타들어 가듯이 아프고, 점점 피부를 다른 색으로 물들여 간다는 점.\n…그리고 채워져 나갈 수록 강해진다는 점.|Burn marks are like enhancement tattoos; it hurts like hell when drawing them, and they paint parts of your skin in different colors.\n... And the more of your skin is covered with them... the stronger you get.
+10979||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 하! 어떻게 된 몸이 나무토막보다도 가녀릴 수 있지? 뛰쳐나오는 불꽃이 아까울 정도군.\n …아니, 이리저리 형체가 뒤틀어지는 모습은 좀 흥미롭나. 훗.|Hah! I can't believe they're more fragile even than a training dummy. It almost feels wasteful to spark my flames against them.\n... Hm, though I suppose it can be quite entertaining to watch their distorting shapes as the fire burns them alive.
+10980||PersonVoice#Voice_Ryoshu_LiuAsso4_10407.json] 연. 타. 그리고, 일. 수. 쉴새 없이 몰아붙이는 권격의 끝을 마무리하기에는 살을 꿰차고 지져 내는 이 일격이 어울리지.\n잘 익은 고기에 와인이 따라나오는 것과 다를 바 없군.|C.S... then P.S. This flesh-burning, penetrating strike is the perfect finisher to this series of breakneck-speed consecutive strikes.\nConsider it a glass of wine to a plate of perfectly grilled steak.
+10981||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 알.단.잘.부|GENNED.
+10982||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 아직 궁극의 예술에 도달하기까진 한참 남았어.|Still got a long way to go before I reach the pinnacle.
+10983||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 그래, 이것이… 검.만.예.극.|Indeed, this was… PACTS.
+10984||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 이 작품은… 실패작이었나 보군.|It seems this work… was a failure.
+10985||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 처리할 시간이야. 머저리들.|Time to get going. Morons.
+10986||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 약점은 파악했어.|Got their weak spots down.
+10987||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 검.만.예.극|PACTS.
+10988||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 필요한 정보는 찾았나?|Found the info you need?
+10989||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 예술이란 것을 보여주지.|I’ll show you art.
+10990||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 알지? 단테, 잘 부탁해.|Got everything now? New expectations, Dante.
+10991||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 정보와 같군. 예술적이야.|Just like the intel. Artistic.
+10992||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 알.단.이.예|Already GRASPED.
+10993||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 흥, 이미 예상하고 있었지.|Hmph, I knew you would.
+10994||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 넌… 예술의 극치를 본 적 있나? 난 그걸 찾기 위해 왔어.|You… Have you seen the pinnacle of art? I’m here to find it.
+10995||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 아침 훈련? 그런 걸 내가 왜 해야 하지? 난 내가 원하는 방식대로 검을 휘두를 거다.|Morning exercises? Why in the world should I do that? I swing my sword as I please.
+10996||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 어둠이 깔릴 때, 숨어있는 정보들이 고개를 내민다. 그때 모가지를 베면 되는 거야.|When dusk falls, hidden intel crawls out of the woodwork. That’s when you strike them upside the head.
+10997||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 오.귀.점.패. 오늘은 귀찮으니까 점심 따위는 패스다.|WILT. That means I won’t ingest lunch today, skipped it.
+10998||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 흥, 그래봤자 네가 갈 곳은 뻔하지.|Hmph, there aren’t many places you can be anyway.
+10999||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 똑같은 방법으로 검을 휘두르는 건 재미 없어.|Swinging a sword the same way every time is plain boring.
+11000||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 내 정보에 따르면… 나 이외에는 전부 머저리다.|My sources say… that everyone except me is a moron.
+11001||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 언젠간 나만의 검술을 만들고 싶어. 어이, 그런 의미로 훈련 상대 될 생각 없나?|I wanna invent a sword technique of my own someday. Hey, why don’t you spar with me?
+11002||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 누구보다 신속하게 정보를 전달하려면 말이야… 하나하나 다 말하는 것도 시간 낭비야. 알.단.이.예.(알겠나 단테? 이것이 예술이다.)|To deliver information faster than anyone… you can’t afford to spell it all out. GRASPED. (Got it, right? Art stands in pure exemplarity, Dante.)
+11003||PersonVoice#Voice_Ryoshu_Seven6_10402.json] 네 머리는 정말이지… 처음 들어보는 기술이야. 혹시 머리를 베어내게 될 때가 온다면 다른 머저리들 말고 내게 넘겨.|Your head is so… unlike any technology I’ve seen. If you ever need to behead yourself, leave the job to me, not the other fools.
+11004||PersonVoice#Voice_Ryoshu_Spider_10410.json] 나도 아니까 닥쳐라…|I know. Shut up.
+11005||PersonVoice#Voice_Ryoshu_Spider_10410.json] 하, 다른 부서도 벌써 한바탕 했나. 돌아가는 길에 구경할 작품이 많아졌겠어.|Hah, looks like the other departments have been busy. Looking forward to enjoying an art gallery on my way back.
+11006||PersonVoice#Voice_Ryoshu_Spider_10410.json] 착각하지 마라… 해.바, 거.대. 네놈들 덕에 내가 강해진 게 아니다. 내가 강하기에 네놈들을 휘두르는 거지.|Don't delude yourselves, S.F, S.H. I'm not strong because I wield you. I wield you *because* I am strong.
+11007||PersonVoice#Voice_Ryoshu_Spider_10410.json] 눈들이 감기고… 빛이 꺼지는군…|The eyes close shut... and the lights... fade...
+11008||PersonVoice#Voice_Ryoshu_Spider_10410.json] 곧 감미로운 트럼펫 경보와 비명 소리가 들릴 거다. 잘나신 관리자 놈이 수습하겠다고 또 난리를 피울 테지. 꽤 재밌는 관람이 되겠군… 훗.|We'll soon hear the sweet melodies of the trumpets followed by a harmony of screams. The dear manager'll have a hell of a time cleaning this mess up. I'm looking forward to enjoying it... heh.
+11009||PersonVoice#Voice_Ryoshu_Spider_10410.json] 대가리 딱 대도록.|Get ready to have your skull cracked open.
+11010||PersonVoice#Voice_Ryoshu_Spider_10410.json] 먹기 좋게 차려졌지 않나. 거.대.|Isn't this a nice spread for a meal, S.H?
+11011||PersonVoice#Voice_Ryoshu_Spider_10410.json] 내 죄는 내가 알아서 처리한다, 해.바.|My sins are mine to deal with, S.F.
+11012||PersonVoice#Voice_Ryoshu_Spider_10410.json] 이 눈들을 너무 오래 보고 있지 마라. 홀려버려도 구해주지 않을 테니.|Don't stare at these eyes for too long. I won't help you if it snares you in its trance.
+11013||PersonVoice#Voice_Ryoshu_Spider_10410.json] 입장 1|Stage Entry 1
+11014||PersonVoice#Voice_Ryoshu_Spider_10410.json] 닥쳐라, 해.바. 누굴 팰진 내가 정한다.|Shut up, S.F. I decide whose skull to bust.
+11015||PersonVoice#Voice_Ryoshu_Spider_10410.json] 입장 2|Stage Entry 2
+11016||PersonVoice#Voice_Ryoshu_Spider_10410.json] 기다려라, 거.대. 곧 먹이를 먹여주지.|Patience, S.H. I'll feed you something soon.
+11017||PersonVoice#Voice_Ryoshu_Spider_10410.json] 환상체 도감은 읽고 지시를 내린 건가, 관리자?|Manager. Did you even read the Observation Logs?
+11018||PersonVoice#Voice_Ryoshu_Spider_10410.json] 애착을 갖고 들여다 볼 가치가 있는 예술이었다.|That art was worth a closer inspection.
+11019||PersonVoice#Voice_Ryoshu_Spider_10410.json] 자, 해골바가지랑 거미대가리. 후드려 패러 간다.|Time to go, Skullface and Spiderhead. Let's flatten them.
+11020||PersonVoice#Voice_Ryoshu_Spider_10410.json] 이렇게 잘 길들여진 E.G.O를 본적이 있나? 이 눈 많은 무기는 남의 것 같지 않단 말이지.|Ever seen an E.G.O this well-tamed? This multi-eyed one just feels so natural in my hand.
+11021||PersonVoice#Voice_Ryoshu_Spider_10410.json] 이제야 좀 마주볼만한 눈빛이 됐군. 그래, 난 네놈의 사냥감이 아니다.|I like this new look in your eyes. You've finally understood that I am *not* your prey.
+11022||PersonVoice#Voice_Ryoshu_Spider_10410.json] 별도 달도 없는 천장에 매달려만 있으니 종일 한밤중이나 다름없군.\n쯧, 나도 마찬가지인가.|I suppose forever hanging from the starless, moonless ceiling is like living in an unending night.\n... Tsk, I suppose I'm not the one to talk.
+11023||PersonVoice#Voice_Ryoshu_Spider_10410.json] 슬슬 그 격리실에서 실종된 놈들의 목소리가 들릴 시간이다. 뭐, 자장가로는 딱이군.|We'll soon be hearing the voices of the fools who went 'missing' in that containment unit. Isn't this a nice lullaby to fall asleep to?
+11024||PersonVoice#Voice_Ryoshu_Spider_10410.json] 자색 정오라… 또 한 번 아수라장이 펼쳐질 시간이지. 훗, 이번에도 어디서 왔는지 모를 그 예술적인 비석을 구경할 수 있겠어.|The Noon of Violet, is it? Sounds like an opportunity to see all hell break loose again. Heh, I'm looking forward to getting another look at that mysterious, artistically inspiring stele.
+11025||PersonVoice#Voice_Ryoshu_Spider_10410.json] 주변이 조용하군. 관리자 놈… 미리 처분 탄환이라도 쏘고 있었나?|This silence... Is that fool of a manager already unloading Execution Bullets?
+11026||PersonVoice#Voice_Ryoshu_Spider_10410.json] 고치가 늘었나. 저 안의 머저리들을 구해줄 생각은 조금도 없다만, 감상이 빨리 끝나게 되는 건 아쉽군.|More cocoons, is it? Disappointing. I thought I'd have some more time to enjoy the show. Not that I'd bother saving them, of course.
+11027||PersonVoice#Voice_Ryoshu_Spider_10410.json] 네놈이 고치를 만드는 이유가 제 새끼를 배불리 먹이기 위함이었나…\n흥, 그 따위 마음은 그저 저주받은 본성에 지나지 않지.|You've been making all these cocoons just to feed your children...?\nHmph. It's nothing more than the curse of instinct.
+11028||PersonVoice#Voice_Ryoshu_Spider_10410.json] 그 빌어먹을 초록 깡통은 아직도 엔케팔린에 취해있을 테지.\n안전팀에 대해 궁금한 게 있다면 등에 관을 메고 다니는 음침한 놈에게 물어라.|That green tincan's probably still hopped up on Enkephalin.\nIf you've got any questions about the Safety Team, go ask that depressing guy wearing a coffin like it's a backpack.
+11029||PersonVoice#Voice_Ryoshu_Spider_10410.json] 이 거미대가리랑 마음이 맞아서 해골바가지도 휘두르게 된 건 마음에 들지만, 쓸데없이 시끄럽게 구는 건 별로다.\n한 놈은 툭하면 밥 달라 징징거리고, 다른 한 놈은 선이니 정의니 종일 훈수질이더군.|I like that my affinity with Spiderhead's allowed me to wield Skullface as well... but their endless chatter is getting annoying.\nOne constantly nagging me for food, the other lecturing me about 'the good' and 'justice' every other minute...
+11030||PersonVoice#Voice_Ryoshu_Spider_10410.json] 안 싸울 겁쟁이들은 걸리적거리지 않게 엘리베이터에 처박혀 있어라.\n싸울 놈들은 뭉쳐서 가만히 서 있도록. 움직이다 그놈이 빗맞추면, 그대로 찌.부.다.|Stay cooped up in the elevator if you're not going to fight, cowards.\nIf you're willing to fight, merge up and stand still. If the manager misses because you couldn't even sit still for a minute... then you better get ready to get F.L.A.T.
+11032||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 나쁘지는 않았지… 이제, 다음 열차를 기다려 볼까.|That was serviceable. Now, to wait for the next train.
+11033||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 훌륭한 전시회였어. 하, 이걸 오히려 고맙다고 말해야 하나?|That was quite the exhibition. Perhaps I should thank them for being such a delightful collection of arts?
+11034||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 하, 이것도… 꽤 전위적이군…|Hah, this is also... quite avant—garde...
+11035||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 끔찍하군. …아니지, 강등되면 현장 투입이 더 많아지는 건가?|Dreadful. ...No. I suppose a demotion to L2 would net me more fieldwork.
+11036||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 내가 눈에 새겨주지.|Witness my work.
+11037||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 벌써 끝나가는군…|Nearing completion already...
+11038||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 마무리.|The finishing touches.
+11039||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 끼어들지 마라. 한참… 좋을 때다.|Get out of my way. I'm... in the zone.
+11040||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 정리 시간이다.|It's time to clean up.
+11041||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 젠. 장.|S.H.I.T.
+11042||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 문. 없.|N.P.
+11043||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 마침내 현장 투입인가.|Finally, fieldwork.
+11044||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 흥, 실력을 인정했다면 사람 관리 말고 현장 청소 업무에 나를 배치해라.|Hmph. So you acknowledge my abilities. Then assign me to proper fieldwork, not babysitting.
+11045||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 어이가 없군. 병. 솔. 이나 하고 있으라니.|Absurd. Can't believe I'm relegated to B.S.
+11046||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 아침 교육에 집중해라… 귀찮게 굴지 말도록.|Focus on your morning lessons... And don't bother me.
+11047||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 밤인가… 곧, 열차가 들어오겠군. 이제야 재미가 생기겠어.|Nighttime, is it... The train will be arriving soon. Finally, something fun.
+11048||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 식사…? 알. 먹. 이 시간에 나와있는 걸로도 짜증나니까.|Lunch...? I.D.C. Being out here at this time is a hassle all on its own.
+11049||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 후우우… 이 빌어먹을 대기는 언제 끝나지. 몸이 근질거리는군…|Hmmm... I'm growing restless. When the hell can we get to work?
+11050||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 그저 열차를 정리하고 청소한다… 하, 이건 그런 단순한 작업이 아니다. 일종의 예술이지.|"Just a cleanup job"...? Ha, this is no mere cleaning. This is a form of art.
+11051||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 문이 열리면, 그 때 마다 색다른 예술품들이 그곳에 자리하고 있지. 몇 천 년 동안 쌓아올려진 미학을 관찰할 수 있는 기회라니, 상상만 해도 즐겁지 않나?|Every time I walk through these train doors, vastly different styles of art greet me. This is an opportunity to observe a singular, isolated artistic history that has been molded and honed over thousands of years. Simply electrifying, isn't it?
+11052||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 한 건이라도 더 열차 정리에 투입돼야 할 판에, 갑자기 신입 교육을 맡으라니… 어이, 네 놈이 위에 뭐라고 해봐.|I should be deployed on a clean-up job, not coddling new hires... Hey, you. Make a complaint to the upper management or something.
+11053||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 가끔… 아직 조각되지 않은 예술품이 걷거나 뛸 때가 있지. 그 대부분은 여러 승객이 뭉쳐져 있는 상태더군.\n나는 그 자체로 아름답다고 생각하지만… 결국 떼어내야 한다는 점은… 좀 짜증난다.|Some... Unrefined pieces of art can shamble or even run. Usually a case of multiple passengers being melded into a single body. I must say, that alone is a beautiful sight... It's a shame that they all eventually have to be pulled apart.
+11054||PersonVoice#Voice_Ryoshu_Wcorp_10405.json] 가장 훌륭한 점이라… 말해줄 수 있지. 그건, 이 예술품들 모두가 이렇게 될 줄도 모르고 스스로 열차에 타 예술품이 되었다는 점이다.\n 아니, 몰랐던 게 아니라… 알려 하지 않았던 것인가. 이 아이러니가 훌륭하지.|My favorite part of this job...? Sure, listen close. It's the fact that, when they took this train of their own volition, every single one of these works of art didn't know what they were signing up for.\nWell, maybe it's that they didn't even care to know. Exquisite irony, isn't it?
+11055||PersonVoice#Voice_Ryoshu_Yurodivy_10409.json] 쯧.|Tsk.

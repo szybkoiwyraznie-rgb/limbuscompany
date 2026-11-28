@@ -1,0 +1,340 @@
+{
+  "entries": {
+    "dataList[id=85SV-014].dlg": {
+      "pl": "... O świcie.",
+      "kr_sha256": "1ff9fd189c63a31e38048fd2e7d67d6a608c8fb1217f70e155446d3ed4b4c45e",
+      "en_sha256": "2aa641b08779ee8c13d67b1d37ca5cd6e46e20d81f19c2450ee50a24f4e7ca4f",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-015].dlg": {
+      "pl": "Słońce wkrótce wzejdzie.",
+      "kr_sha256": "bcbeb6682da0203ba22bdd7e24162c0f01507fb8fcbba9e744f6092a744e4caf",
+      "en_sha256": "1c45fa2fe9d289960c158b10048357be97fa6c8578bef8ebd2d6e0c1ac352967",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-016].dlg": {
+      "pl": "Hej! Takie rzeczy zostawiaj starszym, jasne?",
+      "kr_sha256": "4fbcd524bb9f4b0aaf6d19d19471348e82887afe966a80443d2ee8c779b21fc1",
+      "en_sha256": "a64d49ab7852a638522dc654391dd578953d5c71bb6e77508f1e4d8782ce28fb",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-017].dlg": {
+      "pl": "Heh... Oto duma naszego Biura.",
+      "kr_sha256": "c0e1bc923147ebf145ad1857f484f323f5174f051f7ce9c2d6e26504976e036e",
+      "en_sha256": "7dc178a4b72cf0d70b7a38ecce6df077b7b66aabe519e1ab5b7d9c6253ed6581",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-018].dlg": {
+      "pl": "Nie licz na to, że odejdziesz bez konsekwencji.",
+      "kr_sha256": "986a9443c4414140dd38aa1e0c36c764edf27809b496ba80ec18734423c04e27",
+      "en_sha256": "445df600ed631a24e133755f849ce047d85788f9a4c35dc0d779481702f8a7c0",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-019].dlg": {
+      "pl": "Dziękuję za służbę, Yuna. Odpoczywaj spokojnie — nasze Biuro da sobie radę.",
+      "kr_sha256": "ee580ef7934df5c75588a241a380b1436662d531ba5da862f982c85f0556126e",
+      "en_sha256": "37c5b95c4ec8b24835eb7adfa7526ce2aeecd08e5ef28cc394d25e515e9733ad",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-020].dlg": {
+      "pl": "Zapewne to wciąż ponad siły...",
+      "kr_sha256": "26be26c89d0a8477f3c19383764d956f0da9344e97cc5230760743f0b066a0c6",
+      "en_sha256": "9e6cedb149c22cdbcc2ef3618c847e3cb70de7815f158fe626d3116f6f156a40",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-021].dlg": {
+      "pl": "Oddaję głęboki ukłon waszej odwadze.",
+      "kr_sha256": "c017c681ae23761e7cd523ed840f45feb098bb5c5a752760b67ae04a1ce18b4c",
+      "en_sha256": "80d45c3d1a48faa442c2bdddf1530f955678a3ae085d46c3eb978addad57405d",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-023].dlg": {
+      "pl": "Jak motyl trzepoczący skrzydłami.",
+      "kr_sha256": "03e89feb318ae65ac078f10854580b01e1478439a8ca26991fc77bab072c7186",
+      "en_sha256": "78444df7e6873779b3bf0008c1d14a3c439f2a921dc071efdbe06c69db6283c3",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-024_2].dlg": {
+      "pl": "Jak motyl rozkładający skrzydła w pełni.",
+      "kr_sha256": "37575e975d4038a4a260ebca3f1c7cb1a29d163a2edcf75f47547b30af173779",
+      "en_sha256": "269666708c7495d07682b30da9d09c7825feb8823d00b1ee701e745c547fd2f5",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-024_3].dlg": {
+      "pl": "Reaktywne Wystrzelenie. Sekcjonowanie każdego celu na kawałki.",
+      "kr_sha256": "f3fd0b565a3045d3da929041b112ac4eab96882d5d8993fc12288f89114cc01c",
+      "en_sha256": "2244205ad72cd53c0a46167eeaa32b041d0aaeeb57732790fec728a18c3eb18b",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-025].dlg": {
+      "pl": "Pozwól, że się przyłączę.",
+      "kr_sha256": "1c6207aaec834e7cc4975a4077e754ca39f54eaf88f6cc50da1871cc99c2b61d",
+      "en_sha256": "ef1ca05235509ce4ed412d5250034dca804dbff8d39a45cff33e01e4ead9ba03",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-026].dlg": {
+      "pl": "Uderzymy pierwsi, zanim przeciwnicy ruszą do ataku.",
+      "kr_sha256": "0f11863197b99c1f1e65a1528a645aeef553446be0f1edcb4bc5deb3a6129ef4",
+      "en_sha256": "24d659d3a8b920ae9f449aaecd32d124f2c8dd77e95e60fcff640517532f9d4d",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-027].dlg": {
+      "pl": "Zaopiekuję się Philipem i Biurem... Odpocznij w spokoju, staruszku.",
+      "kr_sha256": "907f546a0487a6be4bd6b76c2621451b32d3d1945d827e8f4e8ec61dab0cceb6",
+      "en_sha256": "251a094790dbe7c49158fc184572f4b31601fdefbe99b832b81fdba59d3809a1",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-028].dlg": {
+      "pl": "Trzeba mieć nadzieję, że sam sobie poradzi...",
+      "kr_sha256": "acb7190dbc2327c93a6e2d63af6bb065300cd60dd1c9457d4c7152592209a5df",
+      "en_sha256": "ee675ba6f13d08648201ae5c0e21282b10b7e9e9b2fa2fbfb3e16a1468a381bb",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-029].dlg": {
+      "pl": "Niezłe umiejętności, ale nie potrafiłeś ich wykorzystać.",
+      "kr_sha256": "01248c1c8c539ba9c19d30561d4e3685bae8b2969a7be2b9c8d8ae4760353f1d",
+      "en_sha256": "def7bf66acbd5f394a58fc620e1017eac60074788321df1782e198b97437f20f",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-031].dlg": {
+      "pl": "Tą stigmą... naznaczę was.",
+      "kr_sha256": "1433a33a070133c76f5c2d0a26dc8078a1645eccdaeb291b2481c24f274eb28d",
+      "en_sha256": "8233eb688bada5e2d0aca348cd32e0ff2595bea9bc0f764c8c3cde6385697fc7",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-032].dlg": {
+      "pl": "W takiej sytuacji nie da się wytrzymać...",
+      "kr_sha256": "c971c2b36439659ef2d35fcaf5978f4f5e7c0bf0a651b7e9b4baf0687f85f724",
+      "en_sha256": "c6c4fc1d07c78e760f08e4decf93f9204b0330e10be1c78aae409d3166de95a3",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-033].dlg": {
+      "pl": "Nie... To nie możliwe... Tego nie przewidziałem.",
+      "kr_sha256": "3df4ecd9c22d49d59ed69e9e909ad77e5400037885eecc2074b195038c94bb98",
+      "en_sha256": "7508ea0298ea80ffc142ccfca840586a645847e074684192bd6b88ba48e80045",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-034-01].dlg": {
+      "pl": "To... powinien być właściwy wybór, prawda...?",
+      "kr_sha256": "4c8ce38a60d93951dd15895e07a9a62722f1471559029399a72f4355522d9b23",
+      "en_sha256": "3510dcdf75108f7b7c5962849c90adab3cdf80b1271c3da683d8e35e63d96b8a",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-034].dlg": {
+      "pl": "W takich sytuacjach właściwym wyborem jest atak bez wahania, prawda...?",
+      "kr_sha256": "da9188085b7250a645275d6d325ed82bc1693e95eb2693ddb33ea66d7f288c36",
+      "en_sha256": "4d3d826f2dd74fddd4376294902b0056af00acddc95a406c3022e8cb6242312b",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-035].dlg": {
+      "pl": "Tym razem będzie inaczej... Nie chcę uciekać.",
+      "kr_sha256": "e37e8c9b517ec49f46eeda68ec7d284e9dbd11aa92969ae98a3678e80c7489a7",
+      "en_sha256": "a0d5a97485b7927ae239c383973678eb777a5cfe27a0c68e57d8a492b4ea37de",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-036].dlg": {
+      "pl": "...Muszę się wznieść. Ku temu promieniującemu słońcu, ku jeszcze wyższemu niebu!",
+      "kr_sha256": "8a9d8a8a8ec4b1f1fb41a4ac36d25e0240d9802c54cadbea6f3f1b7dd7107bce",
+      "en_sha256": "6041456d2dd3a125374c11a9724e0997835495ef81cc578b51af9dcf93bb3eae",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-037].dlg": {
+      "pl": "Znów zostałem sam...",
+      "kr_sha256": "3392dfc837d6194bd8a92f410b83d90b90d7f9a64b4d780cdf01a10bbfd02d0c",
+      "en_sha256": "a6c2af5c30afd70fa0b62f650859f6485a15666ae951b24d2d65c14b72bc5fa3",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-038].dlg": {
+      "pl": "Nie zdołałem pomóc... Ja... znowu strach mnie zawładnął...",
+      "kr_sha256": "3f1aaecec0c023da9662e42254d4a6028524486cf5b3ef30b2512b5583df7054",
+      "en_sha256": "133f4d9837efa8a7d1411c5f5deba653883621111e7972a07d80c5ea0d1e82f9",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-039].dlg": {
+      "pl": "Tak... Wystarczyło być odważniejszym.",
+      "kr_sha256": "bb14a0eb9a38c2ea6aacd95d87bfbd736abcb4cf292f9ed1fe37f4c6760c9bb0",
+      "en_sha256": "30032aa4fbe889da8caf0c388f9564c316478a88778377aa0ebbdd95141f28fc",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-040].dlg": {
+      "pl": "Tym razem na pewno skończę tę walkę.",
+      "kr_sha256": "27fc3bd504a958c131cc93cf087b27304b9b24d97a033c06a15288f07de9f338",
+      "en_sha256": "8fc39ddcb497b7cadf585450ade34a6d67dd9d1ee5337a4816fcdc8445288aa4",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-041].dlg": {
+      "pl": "Dla mnie, tonącego w żałobie... Płomień, rozpal jasno i zapłač za mnie!",
+      "kr_sha256": "1fd0646fc4b7b8b5b36342dd7671d9280de3798373128e24a8e76b50f036c063",
+      "en_sha256": "58b4899a2d9094f3a82c2fecce0c2b1fd90bf1d85874604d9b723ecb3442f5d4",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-042].dlg": {
+      "pl": "Chwila... Czemu... Wciąż muszę to skończyć!!!",
+      "kr_sha256": "49b119803f89db15c332161767750889ab2d9eecad1e504dc88c8098f9bf110f",
+      "en_sha256": "3f7903122b7654dd0d7504adf2d0888eeb7ee736327ab29abc6e2b55be1a5849",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-043].dlg": {
+      "pl": "Wahanie nie pomoże mi iść naprzód.",
+      "kr_sha256": "cd8746bf9d8db56171742daa5fc6a56d1db885b1c76ed8d36545abf6891cced1",
+      "en_sha256": "4ff0d9405d9d238f2d66d97287d7c215770947eb32b8ff8c1825316056e89126",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-044].dlg": {
+      "pl": "Ten strój... skąd...?",
+      "kr_sha256": "6e26240381ffad8c770a095001e65e419c671d8c9527067de62a3d3d239a2b27",
+      "en_sha256": "b20cb36bc403df8dc7ae72bd09b64761cc47062740a531f87c864bb95d7faa68",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-046_6-01].dlg": {
+      "pl": "Przebici. Teraz, targaj się i szarp.",
+      "kr_sha256": "4c2781daf065742b5691d0682ab741ef2a5111924b5152b8866fd48ffacd5b55",
+      "en_sha256": "5598b5156d4e066696d66e7c38e0e2cd84e4ac8d1c537da1ab3b2c27e1fd3946",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-046_6].dlg": {
+      "pl": "Przebici. Teraz, targaj się i szarp.",
+      "kr_sha256": "4c2781daf065742b5691d0682ab741ef2a5111924b5152b8866fd48ffacd5b55",
+      "en_sha256": "5598b5156d4e066696d66e7c38e0e2cd84e4ac8d1c537da1ab3b2c27e1fd3946",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-047].dlg": {
+      "pl": "Lepiej troszkę przyspieszyć.",
+      "kr_sha256": "e782796289f946193afadd758625f0c7b66f39591a3e2d4eaefc442353dffe9b",
+      "en_sha256": "b21527aa3c34378037d9050a5ac1a7c1ea3e186b61861180f931eeeb002f5248",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-048_3-01].dlg": {
+      "pl": "Maluch. Zróbmy to jak zwykle.",
+      "kr_sha256": "87e2606664d0428276b83503ba11190e343a621ce58ab1981f5a7de329beeb31",
+      "en_sha256": "52feff9538719f918a48ec7741446c22554a4ff6d43206b4fd54693b37cb62fc",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-048_3].dlg": {
+      "pl": "Maluch. Zróbmy to jak zwykle.",
+      "kr_sha256": "87e2606664d0428276b83503ba11190e343a621ce58ab1981f5a7de329beeb31",
+      "en_sha256": "52feff9538719f918a48ec7741446c22554a4ff6d43206b4fd54693b37cb62fc",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-048_6-01].dlg": {
+      "pl": "Iskra!",
+      "kr_sha256": "18a1e028873d5850e4957f9a602ae6568f9f06fed8da2d01653327838dcdd857",
+      "en_sha256": "e4a0f416b469860c4e562fc0ed14cd0b7bb8cf1bd876fb431731763c4e22ff00",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-048_6].dlg": {
+      "pl": "Iskra!",
+      "kr_sha256": "18a1e028873d5850e4957f9a602ae6568f9f06fed8da2d01653327838dcdd857",
+      "en_sha256": "e4a0f416b469860c4e562fc0ed14cd0b7bb8cf1bd876fb431731763c4e22ff00",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-049].dlg": {
+      "pl": "Najmniej, co mogę zrobić, to wziąć odpowiedzialność.",
+      "kr_sha256": "5718a7d4247426452ccbee87301230df01dc0c9441b6670984a391d87ea67d28",
+      "en_sha256": "7be258ec35db73d7610d3facf05838349ee4ab2f94cdcc916a43c3c928d7b693",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-050].dlg": {
+      "pl": "Wszystko można przypisać niedopatrzeniu jednostki, nieprawdaż?",
+      "kr_sha256": "323bd11a4de337cc3b08b1c7f103777545c713793a9868f7313f81a5faa7bdc1",
+      "en_sha256": "21175697e47ffa0f5c87dfaced2b10c9da5cf175bfd3d7cd4ecb3ed1b246a7cb",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-051].dlg": {
+      "pl": "Powtarzałem w kółko, by uważać na przód...",
+      "kr_sha256": "5922e75a31fd65c59f2f57d87ab8a6af9199986853b8f67fed677a64d7003554",
+      "en_sha256": "8d3b0ce204aa81130ff427a6b826f4c77c77c130653ac2b5beca7e466650dc21",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-052].dlg": {
+      "pl": "...Nie powinienem był brać tak uciążliwego malucha. Kto sieje wiatr, ten zbiera burzę.",
+      "kr_sha256": "d4296d415ad1ab3c0978ba34a4ac1ad5cc5018670df417b98741601c545e1e37",
+      "en_sha256": "ffebd59897a0db54b6aed950537bf420dbcd2361a6ddd05b3ab0c67e7afc813c",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-053].dlg": {
+      "pl": "Konsekwencją niezdecydowania jest śmierć.",
+      "kr_sha256": "7db3b4792b60c51ae7be545b5dfaee2095cae94cf35218ab24f0509241b85508",
+      "en_sha256": "0bb14f2e105aeb82fc4743ae5799c1e2f22f5971b7ea3277808ad8562ee9946b",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-055].dlg": {
+      "pl": "Hah... Zajmij się najpierw swoją robotą!",
+      "kr_sha256": "076be622b3882cd83c1e2998e8bd570f5eb008e276808c3111f6fb2bdf89a0dd",
+      "en_sha256": "eb518324b63fcae692f9d1bca6c274ee861021bfa6d09e32ca0bbeb5831c6486",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-056].dlg": {
+      "pl": "Zderzenie!!",
+      "kr_sha256": "85d62ad491ec444f3bc5a2eea4f4f7ff1e065d510736faacfeadc5530eee9639",
+      "en_sha256": "760f493e948e89dbb5c6c0417ab1b3415cf03da280e4bc15e801098e62c6c2d8",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-057].dlg": {
+      "pl": "Zamiast się kłócić, może włócznią pomachaj, co?",
+      "kr_sha256": "2c74879c8c19996aaf234b43c7c4cbde1bf5311267b5b04890eb1cdd5d4097ac",
+      "en_sha256": "cc0508af2b7c6b36be7928ca0bf2353c4114ae421357308046a62818bd756ef1",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-058].dlg": {
+      "pl": "...Sytuacja ciężka, ale trzeba ją przetrwać.",
+      "kr_sha256": "42415c3e985588c53c9087ab4929ac5bfaa35072065c4a9b4cfd79fa1232dce8",
+      "en_sha256": "1dfacb3e53a2b4d82f5c87c44a271969f27230d85a2d15c87ab55aaf14685457",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-059].dlg": {
+      "pl": "No i dobrze jej tak, za te zbyki. ...Będę obojętny. Naprawdę.",
+      "kr_sha256": "c8bcf7fe08de93db4eea8c857033c82060eb61f3a06f5d3bad053b3bc38f7ea5",
+      "en_sha256": "b67b4016ed7a0af00f6be8dc3863c4167d4958791d45bb6dd442f61a311b2a13",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-060].dlg": {
+      "pl": "Myślicie, że przegrałbym z wami?",
+      "kr_sha256": "f4a60505a3f608d9bcbcb8ba156812104c0b52f62eb792a8c347a8aae025a8ed",
+      "en_sha256": "128a6a34813825e8ce074ea0a6421d2f112591e175060273c7e0edcb091ec4dc",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-061].dlg": {
+      "pl": "Nie powinienem był brać tego gnoja ze sobą...",
+      "kr_sha256": "38bd49d89108943e9d6fdc4b7254507d2877dc7b71f415bab29edd0af51ba1ca",
+      "en_sha256": "efa8239aa2cf1e1f147fc9c6988fb22f5cc5a7f768cdc968cf7d3e315943f495",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-064].dlg": {
+      "pl": "Zawadzasz, więc trzymaj się swojej pozycji. Chcesz pożegnać się ze swoim ciałem drugi raz?",
+      "kr_sha256": "4f817f163b0e639d6ffed2aa183bf9900df6d24dba683560cc0a7a40f4b41fe8",
+      "en_sha256": "b1b3a5e3a839a270b524d4d8700431d9f16285554d43530a5e941e87d9455423",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-065_2].dlg": {
+      "pl": "... Zderzenie!",
+      "kr_sha256": "66ccb75862c6902cc3fc3759f134b2d50acab4189a7b26d3d68013521aaee4c2",
+      "en_sha256": "a3dcb6b7a8603c111af2658c29285a3bd15150f88c46ecf50eae2746fa9a8951",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-066].dlg": {
+      "pl": "Proszę, nie wpadajcie w te same kłopoty co zeszłym razem. Wiecie, jaka to męczarnia.",
+      "kr_sha256": "d0006d0153d6d9241c72db66539cb7d6fba26415f7df9baaecee74409d94f679",
+      "en_sha256": "9db0136e6fdc760ee9d738215847a926df28288d21a45592e2b570c7a27b81fa",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-067].dlg": {
+      "pl": "Coś tu nie gra... Musimy być bardziej na baczności.",
+      "kr_sha256": "92762619eb2e073159f5b6b9448562f8952f612116607b872c5cf4d1573ccaab",
+      "en_sha256": "501b9c122b055127765cc7bea23df0894c20bb257b8374b64963bb1c9330f793",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-068].dlg": {
+      "pl": "Z taką robotą trzeba się zawsze liczyć.",
+      "kr_sha256": "6854155233fff01ce96afcbf6d47713f28d2f9a00e0ac6e1a99f54d836dd32f4",
+      "en_sha256": "25a79700660157d899bc5a5db5e1456d91a52ec8b779fd41fa4112e3c1aed9db",
+      "origin": "ai"
+    },
+    "dataList[id=85SV-069].dlg": {
+      "pl": "Dobrze, ile ich jeszcze zostało?",
+      "kr_sha256": "aa4793315b955a1a035a02360ded2ddf64bdea3b7f0d329979b5cab85b557a51",
+      "en_sha256": "bbcedc409f2d84c208dc73ee619f2bf253923e525c4c74d2377a2a4612f47e5a",
+      "origin": "ai"
+    }
+  }
+}

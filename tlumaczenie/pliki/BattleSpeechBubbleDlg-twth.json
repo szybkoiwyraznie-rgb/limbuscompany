@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=9SV-051-03].dlg": {
+      "pl": "Fuu... Violet... Breaking Slam!",
+      "kr_sha256": "5992aa4513dd6e2219aec5420efe055a76009115ecfd726a9350e601dfde8e9a",
+      "en_sha256": "a04514b782f3bffcca0a3ec7e0cbda18c8ee4e9bdf8368969b66183f1a4ca17e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-051-04].dlg": {
+      "pl": "Ziomek, to już przesada...!",
+      "kr_sha256": "b72eb2c232907c6fa5be266ace3901aaabe96685b6c5833970824ab64ff0eb3e",
+      "en_sha256": "9d60771a89c8fdb1da637e0ec3c44feb06a347d1b3703771eab08ee6dc1bceda",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-051-05].dlg": {
+      "pl": "No to... nie wpadniecie w szał, jak ich posiekam i stopię, co?",
+      "kr_sha256": "718eebc9f6ce86286180553f4d4e6d817449f7e7e5ce1596c73af131cef38953",
+      "en_sha256": "3a6e252c9762c8358f07f008c6abb210d567628443f7178db02784c9e929e8d4",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-051-06].dlg": {
+      "pl": "Jestem połówką, ale to jeszcze umiem...!",
+      "kr_sha256": "b55d88a1ef4543435db1c61503a448557f21571cdb4616c4ec5f5a66f5ce7536",
+      "en_sha256": "79c0867d9b1ba8b6c938222913c45684a0fb02d377200f77479bbb6f494cc0fd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-01].dlg": {
+      "pl": "Impasto.",
+      "kr_sha256": "fa7053f9404dfe500e5c266511f50b8dbdad4319b527c6bd754da8c99f1c68cf",
+      "en_sha256": "ca8a5c052a2352731cc917df2892a0b23bb5291c41134e855cdc65c5472237ac",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-02].dlg": {
+      "pl": "Pozwolę sobie skosztować tego, co nazywasz „estetyką”.",
+      "kr_sha256": "8b18c163657bff9eca6ccb96898e0600a4fa0cf5b422bd3ec19ecbaa33853789",
+      "en_sha256": "66affeb1b01ae55b7de5e7966f57a89fadaf5f82024af35ceecf0f975cffb802",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-03].dlg": {
+      "pl": "Przemadrwiłeś.",
+      "kr_sha256": "6e5add551c9287cc5e69c27057c5d0e7a25c73b592536b51c8af0e505adaa13a",
+      "en_sha256": "e7f02d11093e0f6cc13d98482345ff97a1c45cc376393cf10f753938674e3f9c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-04].dlg": {
+      "pl": "...Skrócił pan, tak?",
+      "kr_sha256": "7135578009a98c6ff5f3eb4b176a7954f0480988f260f4c105cfe4abd958d935",
+      "en_sha256": "98441e963bc698544957155d7fe163e7352937a6b42c6b3a40818ba9cc586e87",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-05].dlg": {
+      "pl": "Może i nieźle.",
+      "kr_sha256": "81a06aa45711a17799bfca64e60c1166d708116254858ddaf3b6ee046e3565b1",
+      "en_sha256": "e64b7f7cbd480f378d40f8a785b20cb3cdb1b855cf121e611006f5f50023f55f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-06-01].dlg": {
+      "pl": "Hę...",
+      "kr_sha256": "2c02df4ecb4bdf989c9f284989920d982386b9a31a5ac0ccd4d962d95ac22e06",
+      "en_sha256": "65bd3533781b0d8fd6f06ae78e8685605bd0aabd5b679172bef1eb206edc4adf",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-06-02].dlg": {
+      "pl": "Odrobinę poniżej oczekiwań.",
+      "kr_sha256": "c460bc6c25f0d1ddca3e1d08b31faa6d090b24356e7d186a16c43c971b17a8a4",
+      "en_sha256": "69a5af47e2539d8a6bbb7841097d7433ecb4a82682312da333281cb6d211e20d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-06].dlg": {
+      "pl": "Hm?",
+      "kr_sha256": "5fce558f8c08db80d186d657c26436d9d0ea643ee91cc424b96347517d07c262",
+      "en_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-07].dlg": {
+      "pl": "Paletą barw, jakiej nie zobaczysz nigdzie indziej.",
+      "kr_sha256": "49c662d75234a00f6688952ba6987eabfcdfe9b4d0ef5fffc9010a887c5b6ccd",
+      "en_sha256": "d406ec8a2a08fe0eff8b34bcad11e53ea3faf0fd088b757aaa7e7f9a149ccaa8",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-08].dlg": {
+      "pl": "Niedopieczoną sztukę... da się poprawić tylko podgryzając ją!",
+      "kr_sha256": "52aec7531a46cb2dbe8e8d08152c2ab0b1c5df0ea0511d18741cf4d201faa82d",
+      "en_sha256": "6c0d769a91abaaaf901877a23edf498f4351c2d832bd6bc317087e55f9666196",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-09_BLACKBEAST].dlg": {
+      "pl": "Podziwiam ta technologię, przeszczepiającą siłę bestii w ludzkie ciało... Lecz czy oferuje choćby jedną zaletę ponad motyw, z którego czerpie?",
+      "kr_sha256": "4d6880dce0673e00ad0a82ceee6049474697c7c0cf1de3da8201dd103b7c3a51",
+      "en_sha256": "506e3ba4768d2c1ef7ac17210c876590825f8a0ee956e373d673fadb75a42094",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-EVENT1-BOSS-CS01].dlg": {
+      "pl": "Jesteście godni...\\nprzywileju oglądania mojej cenionej igły-tkaniny!",
+      "kr_sha256": "e93dbe16124967f8135df25a09e49053cb5407feeab6bea821957dc74600c99d",
+      "en_sha256": "17895da03636760a50139466a45fb47604abe6c3439e216e2001150393fd81c4",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+14084||RPGSystem#rpg-loc-dialogue-floor-2.json] <어디 갔지?>|<Huh, where'd he go?>
+14085||RPGSystem#rpg-loc-dialogue-floor-2.json] 그래서 우린 뭐부터 하면 되냐?|Question is, where are we pokin' first?
+14086||RPGSystem#rpg-loc-dialogue-floor-2.json] <우선 주변을 살펴보자.>|<First, let's get our bearings and see what's on this floor.>
+14087||RPGSystem#rpg-loc-dialogue-floor-2.json] 아마도… 저희가 있는 이곳과는 다른 2층에 도달했을 확률이 높습니다.|It is likely that he has arrived at... a different "second floor" from ours.
+14088||RPGSystem#rpg-loc-dialogue-floor-2.json] <같은 에스컬레이터를 탔는데, 도착하는 곳이 다른 거야?>|<But he got on the escalator with us. Are you saying that the same escalator can lead to two different places at once?>
+14089||RPGSystem#rpg-loc-dialogue-floor-2.json] 시지프 백화점은 보이는 것보다 훨씬 넓고, 많은 이들이 살고 있습니다.|The total surface area and population of the Grand Magasin Sisyphe are both many times greater than its appearance might suggest.
+14090||RPGSystem#rpg-loc-dialogue-floor-2.json] 중간에 다른 길로 새버렸다면, 같은 에스컬레이터를 타더라도 다른 공간에 도착할 수 있죠.|If he has gone astray somewhere in the middle, it is entirely possible to end up at a different destination despite having shared the same point of departure.
+14091||RPGSystem#rpg-loc-dialogue-floor-2.json] 뫼르소는 파우스트의 말이 맞다는 듯, 가볍게 고개를 끄덕였다.|Meursault gave a light nod, affirming Faust's explanation.
+14092||RPGSystem#rpg-loc-dialogue-floor-2.json] 넌 또 그런 걸 어떻게 아냐…|And just how do you know that, lass...?
+14093||RPGSystem#rpg-loc-dialogue-floor-2.json] 파우스트는 모든 것을 알고 있으니까요.|Faust knows it all. That's how.
+14094||RPGSystem#rpg-loc-dialogue-floor-2.json] …뭐, 그런 거면 여기저기 들쑤시고 있다 보면 나중에 찾아오겠지.|... Anyway, if that's all there is to it, I'm sure we'll run into him after pokin' around for a while.
+14095||RPGSystem#rpg-loc-dialogue-floor-2.json] 뼈와 살점으로 이루어진 벽이 길을 막고 있다. 벽 너머로, 쓰러진 르누아르들의 시체가 얼핏 보인다.|A wall made of flesh and bone blocks the way. There are bodies of dead Noirs splayed around the floor past the wall.
+14096||RPGSystem#rpg-loc-dialogue-floor-2.json] …이해했다. 대단한 고객을 모시게 되어 영광이군.|... I see. It is an honor to serve esteemed customers such as yourselves.
+14097||RPGSystem#rpg-loc-dialogue-floor-2.json] <단지 우리는 백화점 꼭대기에 있는 황금가지를 회수해야 할 뿐이고…>|<We're just here to pick up the Golden Bough we can supposedly obtain once we reach the top floor of the Grand Magasin...>
+14098||RPGSystem#rpg-loc-dialogue-floor-2.json] <…뫼르소를 여기서 끄집어내야 한다는 목표가 있을 뿐이니까.>|<... and escape this place alongside Meursault.>
+14099||RPGSystem#rpg-loc-dialogue-floor-2.json] <지금 할 수 있는 선택 중에는, 그 목표에 제일 가까운 게… 르누아르의 부탁을 들어주는 것뿐인 것 같네.>|<It just so happens that right now, working with the Noirs seems to give us the best chance at achieving that goal.>
+14100||RPGSystem#rpg-loc-dialogue-floor-2.json] <…파우스트, 뫼르소.>|<... Faust? Meursault?>
+14102||RPGSystem#rpg-loc-dialogue-floor-2.json] <너희에게도 마지막으로 묻고 싶어.>|<I'd like to ask for your opinions, too.>
+14103||RPGSystem#rpg-loc-dialogue-floor-2.json] <이 선택이 올바른 선택일까? 우리는…>|<Do you think I'm making the right choice here? We—>
+14104||RPGSystem#rpg-loc-dialogue-floor-2.json] 그것이 당신의 선택이라면.|If that is something of your choosing.
+14105||RPGSystem#rpg-loc-dialogue-floor-2.json] 황금의 못은… 가져온 건가?|Do you have it with you, the... Golden Nail?
+14106||RPGSystem#rpg-loc-dialogue-floor-2.json] 선택에는 올바름도, 틀림도 없습니다.|There are no right or wrong choices.
+14107||RPGSystem#rpg-loc-dialogue-floor-2.json] 중요한 것은…|The important thing is—
+14108||RPGSystem#rpg-loc-dialogue-floor-2.json] …아닙니다. 관리자님의 판단에 따르겠습니다.|... It's nothing. I will follow your judgment, Manager.
+14109||RPGSystem#rpg-loc-dialogue-floor-2.json] 그 말을 끝으로 뫼르소는 묵묵히 앞으로 나섰다.|Meursault strode forward without saying another word.
+14110||RPGSystem#rpg-loc-dialogue-floor-2.json] 잔느가 슬퍼하겠군.|Jeanne will be saddened.
+14111||RPGSystem#rpg-loc-dialogue-floor-2.json] …? 너 방금 뭐라고…|...? What did you just...?
+14112||RPGSystem#rpg-loc-dialogue-floor-2.json] …내부의 상황이 좋지 못한 것 같군.|... It seems the situation within is dire.
+14113||RPGSystem#rpg-loc-dialogue-floor-2.json] 서둘러주길 바라지, 그대들.|I pray you make haste.
+14114||RPGSystem#rpg-loc-dialogue-floor-2.json] 가져왔습니다만, 지금 이 상황은…|Yes. An explanation of the current circumstances would be most appreciated—
+14115||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대들 덕분에 그들의 신이 영영 떠났다는 걸 깨달았다. 그렇다면 망설일 게 무어 있는가?|Thanks to your efforts, we are now privy to the knowledge that the Rouge God has truly forsaken them. Naught remains to stay our assault.
+14116||RPGSystem#rpg-loc-dialogue-floor-2.json] 백화점을 유지하는 황금송진을 그저 뜯어먹기만 하려는 저 탐욕스러운 르루주를 몰아내야지.|Thus, we have marched here to cut off once and for all the voracious maws of the Rouge that greedily gnaw at the Golden Resin.
+14117||RPGSystem#rpg-loc-dialogue-floor-2.json] 서신의 부탁대로, 명품관에 있는 옷은 눈알 한 짝 받지 않고 그대들에게 넘겨줄지어다.|As written in this letter, we shall offer you all the items in this Luxury Hall without charging a single pair of eyeballs.
+14118||RPGSystem#rpg-loc-dialogue-floor-2.json] …르루주가 만들어내고 있는 거짓 신을 그 황금의 못으로 찢어발겨 주기만 한다면 될 일이다.|... You need only take the Golden Nail and rip apart the horrible false god the blasphemous Rouge are birthing into this world.
+14119||RPGSystem#rpg-loc-dialogue-floor-2.json] 어떻게 할 거냐, 시계.|Are we takin' this deal, Clock?
+14120||RPGSystem#rpg-loc-dialogue-floor-2.json] <냉정하게 말해서, 우리에겐 르루주든 르누아르든… 어느 쪽이 옳은지는 별로 중요한 일이 아닌 것 같아.>|<If I'm being honest, it doesn't really seem all that important to me if we're working for the right side, whether that's the Rouges or the Noirs.>
+14121||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#7d7d7d>르누아르들은 영구히 빛날 것이다.</color>|<color=#7d7d7d>Bask in the eternal light shall the Noir.</color>
+14122||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#7d7d7d>백화점의 영구 존속이… 머지않았다… 황금송진이 마르면 이 백화점을 지어 올린 것들은 모두 흘러내릴 것이다…</color>|<color=#7d7d7d>True permanence of the Grand Magasin... shall soon be upon us...\nThe very bones and bricks of the Grand Magasin shall crumble and liquefy in the absence of the Golden Resin...</color>
+14123||RPGSystem#rpg-loc-dialogue-floor-2.json] 이게 다 뭔 난리냐…?|What in the bloody...?
+14124||RPGSystem#rpg-loc-dialogue-floor-2.json] 이전보다 학살이 진척된 모습으로 보이는군요.|The massacre has progressed further than it had on our last visit.
+14125||RPGSystem#rpg-loc-dialogue-floor-2.json] 우마르|Umar
+14126||RPGSystem#rpg-loc-dialogue-floor-2.json] 멈추어라. 이곳은 아직 인테리어 공사를…|Stop right there. The interior design renovation is still—
+14127||RPGSystem#rpg-loc-dialogue-floor-2.json] …그 서신은?|... Wait, that letter...
+14128||RPGSystem#rpg-loc-dialogue-floor-2.json] <못을 들고 여기까지 오긴 했는데…>|<Okay, we're here with the Nail. What now?>
+14130||RPGSystem#rpg-loc-dialogue-floor-2.json] 으아악!!|Aaargh!!
+14131||RPGSystem#rpg-loc-dialogue-floor-2.json] 그것들이 직접 쌓아 올린… 목소리…|The Voice... they built...
+14132||RPGSystem#rpg-loc-dialogue-floor-2.json] 계시도 없이… 저들의 실과 갈망만으로… 감히…|The Voice of apostasy... woven from nothing but strings and desire... Unguided by any divine message...
+14133||RPGSystem#rpg-loc-dialogue-floor-2.json] 그렇게 해서 자아올려진 끔찍한 것이 저곳에… 있다…|It is horror that awaits... from within...
+14134||RPGSystem#rpg-loc-dialogue-floor-2.json] <…방법을 찾아서 저 막을 없애던가 해야겠지만, 그것보단 저자와 싸우는 걸 피할 순 없을 테니…>|<Finding a way to deal with that barrier is one thing, but we're first going to have to put her down.>
+14135||RPGSystem#rpg-loc-dialogue-floor-2.json] 저 장막 안으로 들어가기만 하면… 되는데…|All we need... to do... is enter the Tabernacle...
+14136||RPGSystem#rpg-loc-dialogue-floor-2.json] 들어설 수가… 없… 어…|... But... Why... can't we...?
+14137||RPGSystem#rpg-loc-dialogue-floor-2.json] 저 장막은…|That Tabernacle...
+14138||RPGSystem#rpg-loc-dialogue-floor-2.json] 이것은 삿된 것을 막고, 바른 것을 들이는 막.|... Is a barrier against evil and a sieve for the good.
+14139||RPGSystem#rpg-loc-dialogue-floor-2.json] 설령 블랙컨슈머들이 저를 쓰러트릴지언정, 그분의 탄생 전에 이곳을 지날 수는 없을 테죠.|Though I am but a humble servant who may be defeated by difficult customers, no evil shall penetrate it before the Slumbering One is born.
+14140||RPGSystem#rpg-loc-dialogue-floor-2.json] 아무리 세더라도 묘하게 긴장감이 없다 싶더니… 금고 앞에서 저러고 있는 거네, 그냥.|So there <i>was</i> somethin' else she was bankin' on aside from herself... She's basically guarding a safe.
+14141||RPGSystem#rpg-loc-dialogue-floor-2.json] 아아… 하지만 그분이 곧 깨어나시게 될 때, 걸어 나가실 길을 청소해 두지 않을 수는 없겠죠.|Ah... though impregnable be the tabernacle, I must still maintain a clear path for the Slumbering One for their waking.
+14142||RPGSystem#rpg-loc-dialogue-floor-2.json] 아아… 함부로 다가오지 마세요. 부디 발소리를 낮춰주세요.|Oh... Please do not approach so heedlessly. Muffle your steps in here, if you would.
+14143||RPGSystem#rpg-loc-dialogue-floor-2.json] …힘이 모여들고 있습니다, 관리자님.|... She is preparing to attack, Manager.
+14144||RPGSystem#rpg-loc-dialogue-floor-2.json] 저자의 공격을 조금이라도 잘못 받아내면, 그대로 전멸할 확률이 9할입니다.|There is a 90% chance of complete annihilation, should we fail to respond properly to her attacks.
+14145||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대들의 얼굴을 기억했어요. 이제부터 이 공간의 리모델링이 마무리되더라도, 당신들은 고객으로 맞이하지 않겠어요.|I have committed your countenances to my memory. You will never be permitted entry to this hall as its customers, even after the completion of the renovation project.
+14146||RPGSystem#rpg-loc-dialogue-floor-2.json] 저 답답할 정도로 검은 원단을 두른 르누아르들과 함께…|Along with the Noirs in that stifling black fabric...
+14147||RPGSystem#rpg-loc-dialogue-floor-2.json] 블랙리스트에 기록하겠어요.|... you are heretofore blacklisted.
+14148||RPGSystem#rpg-loc-dialogue-floor-2.json] <…이제는 바꿀 기회도 사라진 것 같네.>|<... Looks like we're past the point of no return.>
+14149||RPGSystem#rpg-loc-dialogue-floor-2.json] 아직 그분은 잠에서 깨어서는 안 됩니다.|The Slumbering One mustn't yet wake.
+14150||RPGSystem#rpg-loc-dialogue-floor-2.json] 자장가를 불러드리고 춥지 않게 요람을 덮어드리고 있으니…|Do not worry. They are sound asleep in their cradle, listening to the tender rhythms of lullabies, wrapped in the softest layers...
+14151||RPGSystem#rpg-loc-dialogue-floor-2.json] 저는 모든 분들의 살갗을 풀고 새롭게 기우고 있어요. 모든 것들은 그분을 덮기 위한 요람으로 돌아가는 거죠…|I unravel the flesh of all life and weave them anew, so that they may return as blankets to enwrap the Slumbering One in their cradle.
+14152||RPGSystem#rpg-loc-dialogue-floor-2.json] 이 따끈한 둥지에서 새근새근 들려오는 숨소리가… 들리지 않나요?|Don't you hear it, too? The somnolent, rhythmic inhale... and exhale, enveloped by the warmth of this nest?
+14153||RPGSystem#rpg-loc-dialogue-floor-2.json] 저거 그때 길 막던 놈이잖아…?|Oi, that's the same one who stood in our way earlier, innit...?
+14154||RPGSystem#rpg-loc-dialogue-floor-2.json] <전에 봤을 때도 단순히 까다로운 정도는 아닐 거라고 생각하긴 했는데…>|<I'll be honest, she was already pretty intimidating when things were peaceful earlier...>
+14155||RPGSystem#rpg-loc-dialogue-floor-2.json] 그렇군요, 그대들은 이곳에 쇼핑을 위해 방문했었어요.|Ah, I remember you. You were last here to shop, weren't you?
+14156||RPGSystem#rpg-loc-dialogue-floor-2.json] 입장할 정도의… 소양은 갖춘 듯하지만, 아직 예의는 갖추지 못한 모양이에요.|I see that you've grown sophisticated enough to enter since your last visit, but... Dragging dirt and all kinds of grime in here without wiping your shoes?
+14157||RPGSystem#rpg-loc-dialogue-floor-2.json] 매장의 운영을 준비 중인데 흙발로 들어선다니요.|It seems you still lack the manners to be permitted entry.
+14158||RPGSystem#rpg-loc-dialogue-floor-2.json] <신부? 아, 그러고 보니 1층에서도…>|<The Chaplain...? Ah, the Voice we heard on the first floor...!>
+14159||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#7d7d7d>이는 신의 목소리를 듣지 못하고, 순종치 못하는 자들에게 주어질 멸망의 형벌이니.</color>|<color=#7d7d7d>Thus I proclaim: the divine retribution for the recalcitrant who insisted on deafness before the Voice of God, for those whose final defiance shall be their demise.</color>
+14160||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#7d7d7d>신앙하는 아이야. 거짓된 붉은 신을 받드는 자들에게 망치를 내리쳐 신의 벌을 대리하여라.</color>|<color=#7d7d7d>Wield my vengeance in thy hammer of justice, my faithful child. Deliver my judgment and smite the servants of the false Crimson God.</color>
+14161||RPGSystem#rpg-loc-dialogue-floor-2.json] 부름에 답하매.|I answer your calling, Lord.
+14162||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#7d7d7d>감히 시선을 두려워하지 않은 헐벗은 자들에게 재앙을 갚아라, 그리 행하는 너희에게 평안이 있으리라.</color>|<color=#7d7d7d>Bring vengeance of ruination upon the unclothed, upon those who dared not fear the gaze. Only then shalt peace be with those who act.</color>
+14163||RPGSystem#rpg-loc-dialogue-floor-2.json] <이 목소리는 도대체…>|<Who's saying this...?>
+14164||RPGSystem#rpg-loc-dialogue-floor-2.json] 신부의 목소리입니다.|This is the Voice of the Chaplain.
+14165||RPGSystem#rpg-loc-dialogue-floor-2.json] 르누아르의 거인이 결정을 내렸군요.|The Giant of Le Noir has made the judgment call.
+14166||RPGSystem#rpg-loc-dialogue-floor-2.json] 기이한 막에 의해 주변에 들어가려는 자들이 튕겨져나가는 것 같다. 우선 바깥에 있는 자와 대화해보자.|It seems there is a strange membrane that is repelling everyone trying to enter. Let's see if the knight out front knows anything.
+14167||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#E1B643>못 박힌 요람이자, 세상 밖으로 내던져진 알.</color>|<color=#E1B643>A nailed cradle, an egg cast unprepared into the world.</color>
+14168||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#E1B643>그 짧은 심장박동이 멎으면… 아마도 영원이 찾아오겠지.</color>|<color=#E1B643>When its beating heart draws to a close... The world may find eternity.</color>
+14169||RPGSystem#rpg-loc-dialogue-floor-2.json] 방금 그 목소리…|Wait, that voice just now—
+14170||RPGSystem#rpg-loc-dialogue-floor-2.json] 젠장, 지독했던 기억 속에… 남아있던 목소리야.|Dammit, that bloody voice... I remember that voice...!
+14171||RPGSystem#rpg-loc-dialogue-floor-2.json] <…선명하게 들리고 있어.>|<... It's getting clearer and clearer.>
+14172||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#E1B643>저 안에 잠든 아이를 어떻게 할지 결정을 내렸다면… 걸음 닿는 대로 나아가렴.</color>|<color=#E1B643>If you have decided what is to be done with the child who slumbers... Then go as your steps take you.</color>
+14173||RPGSystem#rpg-loc-dialogue-floor-2.json] …눈에 오래 담을 이유는 없을 거다.|There is no point in letting it linger in your eyes.
+14174||RPGSystem#rpg-loc-dialogue-floor-2.json] 관리자님, 판단을.|Make a judgment call, Manager.
+14175||RPGSystem#rpg-loc-dialogue-floor-2.json] 어떻게 할까?|What to do?
+14176||RPGSystem#rpg-loc-dialogue-floor-2.json] 요람을 향해 황금못을 치켜들었다.|Raised the Golden Nail against the cradle.
+14177||RPGSystem#rpg-loc-dialogue-floor-2.json] <이제 공사가 끝난 것 같네.>|<Looks like the construction is finally over.>
+14178||RPGSystem#rpg-loc-dialogue-floor-2.json] 우선 다시 위로 올라가보죠.|Let us return upstairs first.
+14179||RPGSystem#rpg-loc-dialogue-floor-2.json] <…샘터에서 온 이방인.>|<... Stranger from the Fount, huh.>
+14180||RPGSystem#rpg-loc-dialogue-floor-2.json] <우리는… 이곳의 상식과 규칙을 어느 정도는 벗어날 수 있어. 르루주와 르누아르, 어디에도 속해있지 않고.>|<We... can slip beyond some of the rules and common sense that govern this place. And we belong to neither the Rouges nor the Noirs.>
+14181||RPGSystem#rpg-loc-dialogue-floor-2.json] …그렇군요.|... I see.

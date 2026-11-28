@@ -1,0 +1,96 @@
+14867||RPGSystem#rpg-loc-dialogue-floor-3.json] 어째서… 어째서!|Why... Why...?!
+14868||RPGSystem#rpg-loc-dialogue-floor-3.json] 그자가 애타게 움직이려 하지만 단단히 고정된 못은 흔들림이 없었다.|The vendor jerks from side to side, but the nails firmly bind her to the ground.
+14869||RPGSystem#rpg-loc-dialogue-floor-3.json] 저… 누가 당신을 그렇게 만든 건가요?|So... Who did this to you?
+14870||RPGSystem#rpg-loc-dialogue-floor-3.json] 이건 어리석은 의심에 대한 대가입니다.|This is my punishment, for I was foolish enough to let my heart harbor doubt.
+14871||RPGSystem#rpg-loc-dialogue-floor-3.json] 목소리가 더 이상 들리지 않음에, 저는 물음을 하였고 의심을 한 대가를 마땅히 치르게 되었죠.|When I was deafened to her Voice, I questioned her—and paid the price dearly, rightly so.
+14872||RPGSystem#rpg-loc-dialogue-floor-3.json] 제 눈은 너무 많은 것을 보려고 하였고 제 다리는 목소리를 찾아 헤매게 될 것이니… 위층의 르루주들이 다시는 이 매장 밖으로 나가지 못하도록 저를 곱게 박아 고정해 주셨습니다.|My eyes would seek too widely, and my legs would travel too far in search of the whereabouts of the Voice... In their bottomless kindness, the Rouges of the higher floors affixed me to this store for the rest of eternity.
+14873||RPGSystem#rpg-loc-dialogue-floor-3.json] 하지만… 하지만…|But I... I...
+14874||RPGSystem#rpg-loc-dialogue-floor-3.json] 그자의 텅 빈 두 자리에서 무언가가 맺힌 것 같았다.|I saw a short-lived glint of light reflect off something from behind the darkness of her empty eye sockets.
+14875||RPGSystem#rpg-loc-dialogue-floor-3.json] 기울 것이 필요해졌니?|Do you need anything patched up?
+14876||RPGSystem#rpg-loc-dialogue-floor-3.json] …수선실은 너무 비싼 것 같아요.|... The Alteration Shop sure is expensive.
+14877||RPGSystem#rpg-loc-dialogue-floor-3.json] 외지인에게 값을 올려 부르는 건, 어딜 가나 똑같군.|Price gouging outsiders seems to be the norm everywhere these days.
+14878||RPGSystem#rpg-loc-dialogue-floor-3.json] <다음 층으로 올라가려면 또 등급을 올려야 할 텐데…>|<We're going to have to raise our Prestige Tier again if we want to rise to the next floor...>
+14879||RPGSystem#rpg-loc-dialogue-floor-3.json] 저쪽에는… 엄청 수상한 괴물들이 보여요. 반대쪽으로 갈까요?|Those monsters down the corridor look pretty dangerous... Should we go the other way?
+14880||RPGSystem#rpg-loc-dialogue-floor-3.json] 저들은 괴물이 아닌, 투피스다.|They are not monsters. They are Two-piece.
+14881||RPGSystem#rpg-loc-dialogue-floor-3.json] 투피스…?|Two-piece?
+14882||RPGSystem#rpg-loc-dialogue-floor-3.json] <이름이나 직업 같은 거 아닐까.>|<Maybe it's their name? Or their jobs in here...?>
+14883||RPGSystem#rpg-loc-dialogue-floor-3.json] 그렇다면 저자들에게 눈알을 얻거나, 매장을 안내받으면 되겠군요.|In that case, perhaps we could earn some eyeballs from them. Or get some directions to where the shops are on this floor, at the very least.
+14884||RPGSystem#rpg-loc-dialogue-floor-3.json] 걸쳐라아아…. 걸친만크으으음…|Doooonnnn... The more you are doooonnneed...
+14885||RPGSystem#rpg-loc-dialogue-floor-3.json] 방송에서부터 들려왔던 말들입니다.|It is vaguely reminiscent of the words from the broadcasted Voice.
+14886||RPGSystem#rpg-loc-dialogue-floor-3.json] <그런 것 같아.>|<I noticed that, too.>
+14887||RPGSystem#rpg-loc-dialogue-floor-3.json] <아까 매장에서 들렸던 목소리를 잘 기억해보자.>|<Let's think back to what the Voice said back in the nailed Rouge's shop...>
+14888||RPGSystem#rpg-loc-dialogue-floor-3.json] 그것은 목소리를 천천히 늘어뜨리며 우리에게 말을 건다.|The being drones in a slow, dragging voice.
+14889||RPGSystem#rpg-loc-dialogue-floor-3.json] <엄청 거대하네…>|<Whoa... This one's <i>huge</i>...>
+14890||RPGSystem#rpg-loc-dialogue-floor-3.json] 앞에 팻말이 놓여 있습니다.|There is a panel before this entity, Manager.
+14891||RPGSystem#rpg-loc-dialogue-floor-3.json] 3층의 플로어 매니저, 끝나지 않는 낭독자.|3F Floor Manager: Narrator of the Endless.
+14892||RPGSystem#rpg-loc-dialogue-floor-3.json] 그리고 저자가 들고 있는 새장 안에… 뭔가가 들어 있어요… 테이프…?|There's... something inside that birdcage in their hand. I think it's an... audiotape?
+14893||RPGSystem#rpg-loc-dialogue-floor-3.json] 어쩌면 그자에게 해답을 줄 수 있는 게 저것일지도 모르겠네요.|That audiotape might be able to answer the nailed Rouge's questions.
+14894||RPGSystem#rpg-loc-dialogue-floor-3.json] 걸친만크으으음…|The more you are doooonnneed...
+14895||RPGSystem#rpg-loc-dialogue-floor-3.json] <우리한테… 뭔가를 바라고 있는 것 같은데…>|<Sounds like it wants something from us.>
+14896||RPGSystem#rpg-loc-dialogue-floor-3.json] …흉내를 내고 있습니다.|... It is mimicking.
+14897||RPGSystem#rpg-loc-dialogue-floor-3.json] 그대가 되리니… 그대가 되리니…|... the more shall your self become... your self become...
+14898||RPGSystem#rpg-loc-dialogue-floor-3.json] 욕망하라…. 욕망하라아아아…. 그리하면…|Desire... Desiiiiirrrrreeeeeee... Then...
+14899||RPGSystem#rpg-loc-dialogue-floor-3.json] 걸쳐지리라… 걸쳐지리라…|It shall be donned... be donned...
+14900||RPGSystem#rpg-loc-dialogue-floor-3.json] 시지프의 옷은… 시지프의 옷으으은…|The vestments of Sisyphe... The vestmeeennnntsssss of... Sisypheeee...
+14901||RPGSystem#rpg-loc-dialogue-floor-3.json] 욕망을 먹고…. 욕망을 먹고오오오…|Gorge upon desire... upon desirrreeee...
+14902||RPGSystem#rpg-loc-dialogue-floor-3.json] 그자의 손에 달린 새장이 툭 하고 열리는 소리가 났다.|The birdcage dangling from its hand opens with a <i>click</i>.
+14903||RPGSystem#rpg-loc-dialogue-floor-3.json] ‘방송실 테이프’를 얻었다.|Obtained "PA System Audiotape."
+14904||RPGSystem#rpg-loc-dialogue-floor-3.json] <이 답이 아니었나 봐…>|<I don't think that was the answer...>
+14905||RPGSystem#rpg-loc-dialogue-floor-3.json] 지저귐을 들으라… 지저귐을 들으라아아…|Hear... the warbling... The warbling...
+14906||RPGSystem#rpg-loc-dialogue-floor-3.json] 이방인…! 이방이이인…!!!|Strangers...! Strangerssssss...!!!
+14907||RPGSystem#rpg-loc-dialogue-floor-3.json] 감히… 감히이이…!|The audacity... The audacityyyy...!
+14908||RPGSystem#rpg-loc-dialogue-floor-3.json] 덮여있던 천들이 폭싹 주저앉았다.|The heap of fabric collapsed limply to the ground.
+14909||RPGSystem#rpg-loc-dialogue-floor-3.json] 천 무더기 아래로, 문이 열린 새장이 데구르르 굴러온다.|An opened birdcage rolls out from beneath the pile.
+14910||RPGSystem#rpg-loc-dialogue-floor-3.json] ‘방송실 테이프’를 얻었다.|Obtained "PA System Audiotape".
+14911||RPGSystem#rpg-loc-dialogue-floor-3.json] 매장 직원이 있는 곳은 이쪽 방향이 아닙니다, 관리자님.|This isn't the way to the vendor, Manager.
+14912||RPGSystem#rpg-loc-dialogue-floor-3.json] 정숙하라아아아…. 정숙하라아아아…|Be sileeeeeeent... Be sileeeeeeent...
+14913||RPGSystem#rpg-loc-dialogue-floor-3.json] 어리석은 욕망은… 고요해질지니…|Put your foolish desires... to rest...
+14914||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리의 발소리가 들리자 그자가 더듬거리며 돌아보았다.|Hearing our footsteps, the vendor turns around to face us, fumbling a little as she does so.
+14915||RPGSystem#rpg-loc-dialogue-floor-3.json] 어… 어떻게 되었나요? 방송실엔, 그곳엔 답이 있었나요?|Y-you're back... What did you find there, in the PA room? Did you find the answer to my questions?
+14916||RPGSystem#rpg-loc-dialogue-floor-3.json] 음… 뭔가를 찾긴 찾았는데…|We... found <i>something</i>, I guess, but...
+14917||RPGSystem#rpg-loc-dialogue-floor-3.json] 역시… 역시 이유가 있었던 거죠? 저처럼 황금가죽만을 위해 백화점에서 모든 걸 바친 르루주에게 시선을 거두셨을 리가 없어요…|Of course... I knew there had to have been a reason! The Voice wouldn't withdraw her gaze from a devout Rouge like me... Not after I've committed my entire life and more to flaying the Golden Hide off the Grand Magasin...
+14918||RPGSystem#rpg-loc-dialogue-floor-3.json] 아… 이건…|Oh... this is...
+14919||RPGSystem#rpg-loc-dialogue-floor-3.json] 걸쳐라아아… 욕망하라아아… 걸친 만큼… 그리하면… 그리하며어어언…|<i>Don... Desire... The more you are donnned... the moooorrreeee yooouuuu aarrreee dooonnnneeed...</i>
+14920||RPGSystem#rpg-loc-dialogue-floor-3.json] 그자가 자리에서 웅크리기 시작했다.|The vendor slowly shrinks into herself until she's curled up into a fetal position.
+14922||RPGSystem#rpg-loc-dialogue-floor-3.json] 저… 괜찮으세요?|Is everything... okay?
+14923||RPGSystem#rpg-loc-dialogue-floor-3.json] 이건… 그분의 목소리가 맞군요…|You've brought me her Voice.
+14924||RPGSystem#rpg-loc-dialogue-floor-3.json] 오래전에 한 번 뱉어진 말이 기록되어… 그저 같은 자리를 돌고… 또 돌고…|All this time, it was just a sentence uttered eons ago...? Playing in a loop... in a loop... in a loop...
+14925||RPGSystem#rpg-loc-dialogue-floor-3.json] …아냐, 아냐!|... No, NO!
+14926||RPGSystem#rpg-loc-dialogue-floor-3.json] 이건 시험이 분명해요. 그분은 여전히 저를 지켜보고 계세요. 제 믿음을 시험하는 것뿐이에요…!|No, that can't be true. The Voice watches over me. This is just a test of my faith, that's all this is...!
+14927||RPGSystem#rpg-loc-dialogue-floor-3.json] 쯧, 어리석군.|Tsk. What a fool.
+14928||RPGSystem#rpg-loc-dialogue-floor-3.json] 그래서 그들에게 눈을 내어주고 다리가 박히고… 평생 오지도 않을 응답을 기다리며…|I gave up my eyes for this? I let them nail me to the floor for this?! Only to be condemned to an eternity of waiting, for an answer that will never come...
+14929||RPGSystem#rpg-loc-dialogue-floor-3.json] 아아, 다시 되뇌어야 해요. 그분의 목소리를, 그분의 말을…|No, no... I must chant her mantra again, her Voice...
+14930||RPGSystem#rpg-loc-dialogue-floor-3.json] 그러자, 붉은 손 같은 것들이 겹치고 또 겹치며 위로 솟구친다.|Suddenly, strands of red hands sprout from her, enclosing her under layers upon layers of chiral membrane.
+14931||RPGSystem#rpg-loc-dialogue-floor-3.json] 헉, 무슨…!|Wh-what...?!
+14932||RPGSystem#rpg-loc-dialogue-floor-3.json] 뒤엉킨 팔들이 서로를 끌어안고 매듭지으며 부풀어 오르며, 하나의 고치와 같은 모습이 되었다.|The arms swell with it, interlocking into a complex network of hands embracing hands.
+14933||RPGSystem#rpg-loc-dialogue-floor-3.json] 마치 바깥의 이야기는 아무것도 듣고 싶지 않다는 듯.|Enveloping her like a cocoon, insulating her from the tales of the outside.
+14934||RPGSystem#rpg-loc-dialogue-floor-3.json] 보통 신이라 불리는 것들은… 매달려 달라붙는 자를 오히려 떨쳐내려 하더군요.|The entities some refer to as "gods"... They tend to cast aside those who cling to them most desperately.
+14935||RPGSystem#rpg-loc-dialogue-floor-3.json] <…끝내, 진실을 받아들이지 못했어.>|<... In the end, the truth was too much for her to accept.>
+14936||RPGSystem#rpg-loc-dialogue-floor-3.json] 회의는, 아직 진행인가?|The meeting. Is it still underway?
+14937||RPGSystem#rpg-loc-dialogue-floor-3.json] 언제?|When?
+14938||RPGSystem#rpg-loc-dialogue-floor-3.json] 언제…?|When...?
+14939||RPGSystem#rpg-loc-dialogue-floor-3.json] 언제더라?|When was it again?
+14940||RPGSystem#rpg-loc-dialogue-floor-3.json] 시작이 언제였고 끝은 언제지?|When was the beginning, when is the ending?
+14941||RPGSystem#rpg-loc-dialogue-floor-3.json] …고문이라는 게 때때로는 필요하지도 않을까요, 관리자님?|... Are you also starting to see the merits of torture, Manager?
+14942||RPGSystem#rpg-loc-dialogue-floor-3.json] 바로 그거다.|Now you're getting it.
+14943||RPGSystem#rpg-loc-dialogue-floor-3.json] 회의? 아직! 안 끝났어.|The meeting? Still underway! Not over.
+14944||RPGSystem#rpg-loc-dialogue-floor-3.json] 혹시 나와 같은 생각을 하고 있나.|Might you be considering the same option that I am?
+14945||RPGSystem#rpg-loc-dialogue-floor-3.json] 그럴지도요.|I might be.
+14946||RPGSystem#rpg-loc-dialogue-floor-3.json] 음, 좋은 신호군. 예전에 비해선 장족의 발전이다.|Hm. Good. I see that you're making quite the strides.
+14947||RPGSystem#rpg-loc-dialogue-floor-3.json] <뭐… 뭔데? 둘이 뭐가 통했는데?>|<Wha... What? What are you two talking about?>
+14948||RPGSystem#rpg-loc-dialogue-floor-3.json] 수선실로 가는 겁니다, 관리자님.|Let us head to the Alteration Shop, Executive Manager.
+14949||RPGSystem#rpg-loc-dialogue-floor-3.json] 오른팔이 반대표를 던졌고…|Right arm cast the dissenting vote...
+14950||RPGSystem#rpg-loc-dialogue-floor-3.json] 겉은 안감을 못 이겼거든.|... and the outer fabric couldn't convince the lining.
+14951||RPGSystem#rpg-loc-dialogue-floor-3.json] …전장에서 암호문을 낚아채 해독하던 경우가 흔하기는 했지만.|... I've frequently intercepted and deciphered coded messages during the War, but...
+14952||RPGSystem#rpg-loc-dialogue-floor-3.json] 그건 숨기려는 ‘의도’를 가지고 행동했기 때문에 의도를 파악하여 해독하는 것이지…|... no matter how complex their ciphers were, we could rely on the inherent intent to "hide" something to start the decoding process.
+14953||RPGSystem#rpg-loc-dialogue-floor-3.json] <이들은 처음부터 순수하게 말하고 있으니, 이해하기가 쉽지 않네.>|<But for these two... this weird, coded way of speaking is just how they naturally communicate.>
+14954||RPGSystem#rpg-loc-dialogue-floor-3.json] 차라리 우리가 알아들을 수 있을 말을 할 때까지 고문을…|Perhaps torturing them would yield further opportunities to identify the patterns by which we may—
+14955||RPGSystem#rpg-loc-dialogue-floor-3.json] 자, 잠시만요, 오티스 씨. 제가 조금 더 말을 해 볼게요.|H-hang on, Outis. Let me try again.
+14956||RPGSystem#rpg-loc-dialogue-floor-3.json] 그러면 회의는 언제… 끝나는 건가요?|In that case... when will this "meeting" end?
+14957||RPGSystem#rpg-loc-dialogue-floor-3.json] 또 왔구나, 어깨선이 처진 이방인.|Welcome back, stranger with drooping shoulder seams.
+14958||RPGSystem#rpg-loc-dialogue-floor-3.json] 너의 머리… 그건 참 흥미롭구나.|You there. That head of yours... how fascinating.
+14959||RPGSystem#rpg-loc-dialogue-floor-3.json] 그자가 뫼르소를 향해 천천히 고개를 돌렸다.|She slowly turns toward Meursault.
+14960||RPGSystem#rpg-loc-dialogue-floor-3.json] 혹시 너의 머리를 조금 갈라봐도 되겠니? 허락해준다면, 눈알을 조금 깎아줄 수 있는데…|Mind if I split open and dig around in your head a little bit? Let me do that, and I could give you a better deal for my pair of scissors.
+14961||RPGSystem#rpg-loc-dialogue-floor-3.json] 머리를 가른다고요!?|<i>Split his head open?!</i>
+14962||RPGSystem#rpg-loc-dialogue-floor-3.json] 걱정 마. 나는 이 백화점에 현존하는 최고의 수선사야. 뜯긴 솔기든 풀린 안감이든 흔적도 없이 다시 봉제할 수 있지.|Don't you worry, I am the best alterationist in all of the Grand Magasin. Burst seams? Ripped lining? Hand it to me, and I'll sew and patch them back to flawless perfection.
+14963||RPGSystem#rpg-loc-dialogue-floor-3.json] 그러니까 네 머리 같은 건 실밥 하나 안 남게 다시 여며줄 수 있어. 어때?|Once I'm done looking, I could stitch your head back up without leaving so much as a loose thread. How's that?

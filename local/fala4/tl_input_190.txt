@@ -1,0 +1,96 @@
+18483||RPGSystem#rpg-loc-dialogue-floor-b2.json] 쿡쿡. 때가 되면 다시 찾아올게, 나 없을 때 너무 웃기게 죽진 말고.|*chuckle* I'll be back when the time is ripe. In the meantime, make sure you don't die in spectacularly comical ways when I'm not even there to watch the show, hm?
+18484||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그 괴물은… 여전히 주변을 배회하고 있는 건가?|That monster... Is it still prowling this area?
+18485||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아니. 다른 장소로 휙 가버렸어. 오더라도 먼 길을 돌고 돌아오지 않을까?|No. It went flitting off somewhere else. If it does return, it will have to take the long, long way around.
+18486||RPGSystem#rpg-loc-dialogue-floor-b2.json] 미약한 소리를 잡아채기 위해서는 땅에 귀를 대고 천천히 걸어야 하잖아.|You see, since it's so far away, it'll have to press its ear to the ground and creep along if it wants to track this snuffling down.
+18487||RPGSystem#rpg-loc-dialogue-floor-b2.json] 흐핫. 잘됐네. 이제 너희 좋아하는 꾸물거리기 해도 되겠다.|Hehe, now that that's sorted, you're all free to dilly-dally like you wanted!
+18488||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…좋아서 꾸물거린 적은 없는데.>|<... It's not like we dawdled because we wanted to.>
+18489||RPGSystem#rpg-loc-dialogue-floor-b2.json] 음? 아… 슬슬 떠밀려올 시간이던가? 성실하기도 하지.|Hm? Oh... Is it almost time for the next stranding? How diligent.
+18490||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그게 무슨 소리지…?|What is that supposed to mean...?
+18491||RPGSystem#rpg-loc-dialogue-floor-b2.json] 너희. 떠밀려올 시간을 몰라? 이방인들은 정말 아는 게 없네.|You don't know when the stranding hour is? You strangers haven't the slightest clue about anything.
+18492||RPGSystem#rpg-loc-dialogue-floor-b2.json] 후우… 이만하면 많이 참지 않았나, 시계? 모. 분. 할 시간이다.|*puff* We've been patient enough, Clock. Time to S.H.N.C.
+18493||RPGSystem#rpg-loc-dialogue-floor-b2.json] 후우… 또 벽으로 사라졌군.|*puff* She went through the wall again.
+18494||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#ebcaa2>스피커가 말썽이네, 종종 이런다니까. 나중에 연락해도 될까, 마 퓌스?</color>|<color=#ebcaa2>Must be the speaker messing up again... eh, it does that sometimes. Can I call you back later, ma puce?</color>
+18496||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#ebcaa2>후후… 여전히 배려심이 넘친다니까.</color>|<color=#ebcaa2>*chuckle* Ever the gentleman.</color>
+18497||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…우리도 이만 가자.>|<... We should get going as well.>
+18498||RPGSystem#rpg-loc-dialogue-floor-b2.json] …차라리 잔느, 그자의 목소리와 대화하는 게 낫겠군요.|... I'd much rather converse with Jeanne's disembodied voice than run into that woman again.
+18499||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#ebcaa2>어머. 내 목소리가 그렇게 듣고 싶었어?</color>|<color=#ebcaa2>My, my. Did you miss my voice that badly?</color>
+18500||RPGSystem#rpg-loc-dialogue-floor-b2.json] 언제부터 있었는지도 모르게 나타나는군. 신 행세를 하다 보니 정말 신같이 행동하고 싶은 건가, 아니면 신 놀이를 하다 보면 결국 같아지는 건가?|You seem to be fond of making an appearance without so much as a hint. Do you just enjoy playing god, or have you been indulging yourself for so long that it's become who you are?
+18501||RPGSystem#rpg-loc-dialogue-floor-b2.json] 네 녀석은 어차피 한가롭게 우리의 일거수일투족을 관찰하고 있는 것 아닌가?|Why the "surprise visit"? Are you not already watching our every move from wherever it is you're lazing around?
+18502||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#ebcaa2>그럴 리가? 지금도 바빠서 이야기 대부분을 놓쳤는데 말이야.</color>|<color=#ebcaa2>Oh, hardly. I've been so busy that I missed most of what you were saying just now.</color>
+18503||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#ebcaa2>맞아, 아까는 누구랑 그렇게 재밌게 대화하고 있었던 거야?</color>|<color=#ebcaa2>So... Who were you having such a delightful conversation with?</color>
+18505||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#ebcaa2>…….</color>|<color=#ebcaa2>.......</color>
+18506||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#ebcaa2>뭐라고 한 거야? 갑자기 잡음이 들려서…</color>|<color=#ebcaa2>Who? Sorry, you cut out.</color>
+18507||RPGSystem#rpg-loc-dialogue-floor-b2.json] 휘유.|*whistle*
+18508||RPGSystem#rpg-loc-dialogue-floor-b2.json] 타. 둥. 이라고 했나? 이름값은 하는군.|S.N., was it, this place? Lives up to the name.
+18509||RPGSystem#rpg-loc-dialogue-floor-b2.json] <플로어 매니저가 누구인지는… 물어볼 필요도 없이 바로 알겠네.>|<Don't think we'll have to ask around who the Floor Manager is.>
+18510||RPGSystem#rpg-loc-dialogue-floor-b2.json] 르누아르, 그자들이 거짓을 고한 게 아니라면, 저자가 황금 실타래를 만들 수 있는 자일 겁니다.|If those Noirs spoke the truth, that one should be capable of producing the Golden Skein.
+18511||RPGSystem#rpg-loc-dialogue-floor-b2.json] <설마 이런 부탁에도 구매 등급이 필요한 건 아니겠지?>|<Surely we don't need a higher Prestige Tier just to ask a favor this small, right...?>
+18512||RPGSystem#rpg-loc-dialogue-floor-b2.json] 필요한 것으로 알고 있습니다, 관리자님.|As far as I'm aware, Manager, it is required.
+18513||RPGSystem#rpg-loc-dialogue-floor-b2.json] <아…>|<Ahh...>
+18514||RPGSystem#rpg-loc-dialogue-floor-b2.json] 하지만 현재 저의 구매 등급이라면, 부탁을 들어줄 확률이 높습니다.|However, given my current tier, our request will likely be accepted.
+18515||RPGSystem#rpg-loc-dialogue-floor-b2.json] …괜히 놀랐군. 다음부터는 두괄식으로 보고하도록.|... Your report caused needless alarm. State the relevant conclusion first next time.
+18516||RPGSystem#rpg-loc-dialogue-floor-b2.json] 실을 잣고 있다. 흘러내리는 실들은 못에 맺힌 염료에 따라 각기 다른 색으로 칠해진다.|Thread is being spun. As it spills down, each strand takes on the color of the dye beaded around its nail.
+18517||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아직 이곳에 볼일은 없는 것 같다.|No reason to go this way yet.
+18518||RPGSystem#rpg-loc-dialogue-floor-b2.json] 너희들은…|You're...
+18519||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어우. 바쁘다니까? 앞순번을 찾아서 순번을 사든, 아니면 황금염료를 비~싸게 재매입하든 날 귀찮게 하지 마.|Ugh, don't you see I'm busy? Buy the queue ticket from someone ahead of you, or pay a premium to buy the Golden Dye back. Just stop pestering me.
+18520||RPGSystem#rpg-loc-dialogue-floor-b2.json] 귀찮게 굴지 말라니까!|I said, stop bothering me!
+18521||RPGSystem#rpg-loc-dialogue-floor-b2.json] 고객이 열심히 일하고 있다.|The customer is hard at work.
+18522||RPGSystem#rpg-loc-dialogue-floor-b2.json] 또 왔네. 이방인들.|Back again, strangers?
+18523||RPGSystem#rpg-loc-dialogue-floor-b2.json] 눈알이라면…|If eyeballs would suffice—
+18524||RPGSystem#rpg-loc-dialogue-floor-b2.json] 눈알은 됐어. 그것보다는… 그렁그렁 맺힌 눈물들 좀 잔뜩 터트려줘.|Keep your eyeballs. What I need you to do... is go burst some blubber-bubbles into tears.
+18525||RPGSystem#rpg-loc-dialogue-floor-b2.json] 색별로 두 번씩만 펑펑 울면 되겠네.|Bawl each color out twice. That should do it.
+18526||RPGSystem#rpg-loc-dialogue-floor-b2.json] 황금염료는 아까 네이키드가 받아갔어. 난 진짜 벨 줄 알았는데.|I've got to say, I'm surprised. Naked got his Golden Dye—I was expecting you guys to show up with a ticket soaked in his blood.
+18527||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그자와 거래하기로 했다. 랭콜로르라는 염료를 찾아온다면, 황금염료와 바꿔주겠다더군.|We have reached an agreement with that man. He is willing to exchange his Golden Dye for a dye named L'Incolore.
+18528||RPGSystem#rpg-loc-dialogue-floor-b2.json] 랭콜… 랭콜로르…? 깊은 바다 염료 말하는 건가?|L'Incolore...? You mean the deep-sea dye?
+18529||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그건 또 어디서 들었대. 이제 와선 아는 고객도 몇 없을 텐데.|Where'd he even pick that up? Hardly any customers remember it anymore.
+18530||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그 염료는 받으려면 얼마나 기다려야 하지?|How long must we wait to receive that dye?
+18531||RPGSystem#rpg-loc-dialogue-floor-b2.json] 안 기다려도 되는데? 깊은 바다 염료는 대기 순번 같은 거 없어. 몇 시즌 전에 팔렸는지 기억도 안 나네. 솔직히 이름 듣고 잠깐 뭐지 싶었잖아.|You don't have to wait. Deep-sea dye doesn't have a queue. I can't even remember how many seasons it's been since anyone bought it.
+18532||RPGSystem#rpg-loc-dialogue-floor-b2.json] <이건 운이 좋았네.>|<Guess we're lucky for this one.>
+18533||RPGSystem#rpg-loc-dialogue-floor-b2.json] 만드는 법은 기억하고 있는 건가?|Do you still remember how to make it?
+18534||RPGSystem#rpg-loc-dialogue-floor-b2.json] 당연하지. 대신… 그냥은 못 줘. 그거 만들기 무지 귀찮거든.|Of course. But... I'm not giving it away. It's a huge hassle to make that stuff, you see.
+18535||RPGSystem#rpg-loc-dialogue-floor-b2.json] 빨리 왔네. 눈물은… 이야. 생각보다 잘 터트렸잖아?|Back already? Hey, I've got to give it to you—you burst those tears better than I expected.
+18536||RPGSystem#rpg-loc-dialogue-floor-b2.json] …하아 그런 계열인 건가. 혹시 이 염료의 색이 어떻게 보이십니까, 관리자님.|... *sigh* I see what's happening here. Executive Manager, what color does this dye appear to you?
+18537||RPGSystem#rpg-loc-dialogue-floor-b2.json] <나한테도… 그냥 투명한 액체처럼 보여.>|<It... just looks like a bucket of transparent liquid to me, too.>
+18538||RPGSystem#rpg-loc-dialogue-floor-b2.json] 표정이 왜 그래? 농담이야, 농담. 순수한 사람만 볼 수 있는 색을 가진 염료라니, 그런 게 있을 리 없잖아.|Don't give me that look. It was a joke. A joke, I swear. Did you really think there's such a thing as a color only the pure of heart can see?
+18539||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…뭐라고?>|<... What?>
+18540||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그리고 있다고 해도 달라질 건 없어.|Even if it were real, the world wouldn't be any different.
+18541||RPGSystem#rpg-loc-dialogue-floor-b2.json] 결국 색이라는 건, 사람들에게 보이기 위해 칠하는 거잖아? 그리고 순수함 같은 건 태어나고 얼마 지나지 않아 순식간에 사라지고.|Colors are painted to be seen, you know? By other people. And purity of heart? Innocence? Doesn't take long for those kinda things to go <i>poof</i> once those same people are birthed into this world.
+18542||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그럼 아무도 너희랑 마찬가지로 이 색을 볼 수 없을 텐데… 무슨 의미가 있겠어.|And we end up with yet another world where no one can see its color. It's meaningless by definition.
+18543||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그렇겠지.|So it is.
+18544||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그냥 색채가 없는 무언가지. 아무것도 칠할 수 없는.|It's just a colorless <i>something</i>. You can't really dye anything with it.
+18545||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아, 그렇다고 아무거나 퍼다 준 건 아냐. 그거 보기랑 다르게 만들기 엄청 귀찮거든?|Mind you, though, I didn't just scoop up a bucket of whatever and call it a day. Producing it is one hell of a process.
+18546||RPGSystem#rpg-loc-dialogue-floor-b2.json] 언니, 아까 만들어둔 거 좀 가져와줘.|Putty, bring me the batch we made earlier.
+18547||RPGSystem#rpg-loc-dialogue-floor-b2.json] 오, 물.|S.L.O.P.
+18548||RPGSystem#rpg-loc-dialogue-floor-b2.json] 뭐라는 거야?! 정성껏 만든 염료를 지금 오물이라고…|What do you mean, "slop?!" Do you have any idea how much work went into that dye?!
+18549||RPGSystem#rpg-loc-dialogue-floor-b2.json] 오, 물은 아니군… 이라고 했다.|I'm saying it's not water-based.
+18550||RPGSystem#rpg-loc-dialogue-floor-b2.json] 점도와 무게감으로 보아서는 기름계 염료로군.|"Seems Like Oil Pigment." Judging by the viscosity and the weight.
+18551||RPGSystem#rpg-loc-dialogue-floor-b2.json] 마, 맞지…|... R-right...
+18552||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아무것도 묻어나오지 않아.|... It doesn't even leave any stains.
+18553||RPGSystem#rpg-loc-dialogue-floor-b2.json] 투명하니까, 당연하지.|Of course not. It <i>is</i> transparent.
+18554||RPGSystem#rpg-loc-dialogue-floor-b2.json] 료슈는 끄덕거리면서 팔레트가 내놓은 염료통을 집어 들더니, 그대로 문을 향해 뚜벅뚜벅 걸어갔다.|Nodding along, Ryōshū picked up the bucket of dye Palette had placed before her and marched straight toward the door.
+18555||RPGSystem#rpg-loc-dialogue-floor-b2.json] 잠깐, 어딜 가려는 거지?|Where do you think you're going?
+18556||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이. 말. 원하는 걸 얻었는데, 여기서 어물쩡거릴 이유가 있나?|W.T.T.A. We have what we came for. No reason to be loitering around.
+18557||RPGSystem#rpg-loc-dialogue-floor-b2.json] '이상한 말이군'이라는 뜻입니다, 관리자님.|"Weird thing to ask," Manager.
+18558||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…정말 그게 네이키드가 원한 염료일까?>|<... Are we sure this is the dye Naked wanted?>
+18559||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그런 건 본인에게 물어봐야 아는 거다, 시계.|Ask him yourself, Clock.
+18560||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그리고 나는 이쪽이 더 마음에 드는군. 황. 염. 보다는 이쪽이 더 단정하고, 우아하다.|Though I prefer this one. Cleaner. More elegant than G.D.
+18561||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아라야는 그 의견에는 동의하지 못하는지, 좌우로 검집이 흔들렸지만… 료슈의 말대로 네이키드 본인에게 물어봐야 알 수 있는 건 사실이다.|Araya's scabbard swayed from side to side, evidently disagreeing. Still, Ryōshū was right about one thing—we would not know until we asked Naked himself.
+18562||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…알겠어. 일단 네이키드에게 가져가보자.>|<... All right. Let's take it to Naked and see how things turn out.>
+18563||RPGSystem#rpg-loc-dialogue-floor-b2.json] 읏차. 자, 받아.|Here. Take it.
+18564||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이게 너희가 원한 옛 염료야.|The old dye you asked for.
+18565||RPGSystem#rpg-loc-dialogue-floor-b2.json] …지금 우릴 놀리는 건가?|... Is this some kind of joke?
+18566||RPGSystem#rpg-loc-dialogue-floor-b2.json] 왜? 랭콜로르 달라며. 이거 맞아.|What? You asked for L'Incolore. You're looking at it.
+18567||RPGSystem#rpg-loc-dialogue-floor-b2.json] 하지만 이건 그냥…!|But there's—
+18568||RPGSystem#rpg-loc-dialogue-floor-b2.json] 혹시 아무것도 안 보여? 그건 네 기억에 때가 너무 타서 그래. 아니면 마음에 보풀이 너무 많거나.|Can't see it, can you? Maybe your memories have picked up too much stain, or maybe your heart's pilled beyond recognition.
+18569||RPGSystem#rpg-loc-dialogue-floor-b2.json] 요청한 대로 랭콜로르를 가져왔다.|Here's the requested L'Incolore.
+18570||RPGSystem#rpg-loc-dialogue-floor-b2.json] <제일 못 미더워했으면서…>|<... You're really something, Outis.>
+18571||RPGSystem#rpg-loc-dialogue-floor-b2.json] 훗. 과찬이십니다.|Heh. You flatter me, Executive Manager.
+18572||RPGSystem#rpg-loc-dialogue-floor-b2.json] 황금빛만큼 영롱한 색채는 백화점에 없을 거라 생각했는데…|I believed no color in this department store could rival the splendor of gold...
+18573||RPGSystem#rpg-loc-dialogue-floor-b2.json] 감격스러울 만큼 마음에 드는군.|I'm in awe. It appeals to the senses in every way possible...
+18574||RPGSystem#rpg-loc-dialogue-floor-b2.json] 약속한 대로 황금염료는 너희에게 양도하겠어.|As promised, I cede the next batch of Golden Dye to you.
+18575||RPGSystem#rpg-loc-dialogue-floor-b2.json] …이게 랭콜로르라고?|... So this... is L'Incolore...?
+18576||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이 단정하고 우아한 색채가 랭콜로르가 아니면 무엇이라고 생각하는 거지?|Don't you see this clean and elegant hue? What else could it be?
+18577||RPGSystem#rpg-loc-dialogue-floor-b2.json] 찰랑이는 점도부터 안쪽이 훤히 다 보이는 이 투명함… 황금염료를 뛰어넘는 가치를 지닌 바로 그 랭콜로르다.|Observe its rippling viscosity, its crystalline transparency that reveals every detail within... This is the fabled L'Incolore, a dye of value surpassing even the Golden Dye.
+18578||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어… 그치만…|Uh... but...
+18579||RPGSystem#rpg-loc-dialogue-floor-b2.json] 지하 2층의 아무것도 모르는 놈들은 이게 보이지 않는 모양이지만, 당신이라면 이 염료의 가치를 한눈에 알아봤을 거다. 마음에 보풀 하나 없이, 빼어난 옷을 차려입은 당신이라면!|The ignorant rabble of B2 appear incapable of perceiving it, but a person of your discernment must recognize its worth at a glance. You, whose heart is unpilled! You, whose attire is beyond reproach!
+18580||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이걸 넘겨야 한다는 게 아까워 죽겠군. 당신은 운이 아주 좋아. 르누아르의 대의를 위해 황금염료가 필요하지 않았다면, 우린 이 염료를 가지고 지상층으로 가버렸을 테니!|It pains me to surrender it—but you are extraordinarily fortunate. If Golden Dye were not essential to Le Noir's cause, we would have taken this treasure straight back to the upper floors!

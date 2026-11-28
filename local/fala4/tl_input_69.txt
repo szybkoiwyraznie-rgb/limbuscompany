@@ -1,0 +1,96 @@
+6677||Announcer#Announcer_Yesod_16.json] 치명상을 입은 직원이 있군요. 매일 말하는 거지만, 모든 죽음은 의미가 없습니다. 손실을 극복할 수 있는 방법을 모색해주세요.|One of the employees is fatally wounded. All deaths are meaningless, as I always like to repeat myself. Now, you best come up with a way to mitigate these losses.
+6678||Announcer#Announcer_Yesod_16.json] 응급상황에 처한 직원이 있습니다. 더 큰 손실로 이어지지 않도록 개체의 빠른 제압이 필요합니다.|One of the employees is in a critical state. Suppress the entity before you suffer greater losses.
+6679||Announcer#Announcer_Yesod_16.json] 대부분의 상태가 좋지 않다는 건 알고 있습니다. 신속하게 전투를 마쳐보죠.|I understand that most employees are currently under a lot of stress. Let us quickly see this battle to the end.
+6680||Announcer#Announcer_Yesod_16.json] 전 힘내자는 말 따위는 하지 않습니다. 이곳에서 그만큼 의미 없고 비효율적인 인사는 없을 테니까요.|No other expression is as meaningless and inefficient as that "cheer up". That is why I refuse to say it.
+6681||Announcer#Announcer_Yisang_6.json] 오. 현명한 판단이오.|Oh. A wise decision.
+6682||Announcer#Announcer_Yisang_6.json] 적확한 한 합이었소.|A precise move.
+6683||Announcer#Announcer_Yisang_6.json] 다소 유리하구료.|We're in slight advantage.
+6684||Announcer#Announcer_Yisang_6.json] 어떤 사람들은 상처를 통해 성장한다고 하오. 나의 벗들도 그러리라 믿소.|Some say wounds spur growth. I trust my companions to be capable of it.
+6685||Announcer#Announcer_Yisang_6.json] 또 다시 돌아오겠구료. 그 잠시나마… 휴식하시오.|They will return in time. In the short while... take the rest you need.
+6686||Announcer#Announcer_Yisang_6.json] 그대들의 면면이 밝고 생기롭군.|Your faces seem to be bright and animated.
+6687||Announcer#Announcer_Yisang_6.json] 이상한 귀기가 느껴지오…|I sense a ghastly presence...
+6688||Announcer#Announcer_Yisang_6.json] 유감 없는 싸움을 기대하겠소.|I shall expect a battle with no regret.
+6689||Announcer#Announcer_Yisang_6.json] 걱정마시오. 최후의 혈구 하나만 남아있다면, 생명은 어떻게라도 보존될테니.|Worry not. As long as the last corpuscle remains, life will be preserved somehow.
+6690||Announcer#Announcer_Yisang_6.json] 상황은 일촉즉발이오. 언제까지고 이어질 리 없으니, 강단을 보이는게 좋겠소만.|The situation is a tinderbox. It will not last indefinitely, so you may have to make a determined decision.
+6691||Announcer#Announcer_Yisang_6.json] 아… 상당히… 놀랍군… 그래, 이유가 있겠지.|Ah... That was rather... surprising... Indeed, I am sure you have your reasons.
+6692||Announcer#Announcer_Yisang_6.json] 일반적인 상황에선 선택하지 않을 방식이겠지만… 이유가 있었으리라 생각하오.|Although this is not a choice that would have been made under ordinary circumstances... I believe you had your reasons.
+6693||Announcer#Announcer_Yisang_6.json] 첩첩산중이로군… 뿔뿔이 흩어지는 것 보다는, 돌아가 새로운 길을 모색하는 것이 낫지 않겠는가, 관리자.|It's a winding road of hardships... Rather than being scattered, it may be a wise idea to turn back and seek new paths, manager.
+6694||Announcer#Announcer_Yisang_6.json] 저들이 추풍과 같이 흔들리오. 보다 유리하지 않겠소?|They shake like the autumn wind. The situation is in our favor, wouldn't you say?
+6695||Announcer#Announcer_Yisang_6.json] 가지 하나가 맥없이 꺾이는 구료.|So a branch is snapped.
+6696||Announcer#Announcer_Yisang_6.json] 기어코 나뭇가지는 부러지고 말았소. 저런 것으로는 나비 하나의 체중도 견디지 못했겠지.|The branch has broken in the end. It will not be able to withstand the weight of a butterfly in that state.
+6697||Announcer#Announcer_Yisang_6.json] 음, 스페샬한 기운이 느껴지오. 면밀히 짚어보고 나아가는게 어떤가 하오만.|Mm, a special energy is felt. Perhaps it would be advisable to carefully examine the ongoings.
+6698||Announcer#Announcer_Yisang_6.json] 저들에게서는… 묘혈의 향이 나오.|From them... I am picking up the scent of graves.
+6699||Announcer#Announcer_Yisang_6.json] 이상한 귀기가 내 골수에 침입하여 들어오는가 싶소.|It feels as though a ghastly force is entering my marrow.
+6700||Announcer#Announcer_Yisang_6.json] 허파에 무거운 것이 가득 찰 것만 같은 기분이오…|I have the feeling that my lungs will soon be filled with heavy things...
+6701||Announcer#Announcer_Yisang_6.json] …이상이오.|...It is I, Yi Sang.
+6702||Announcer#Announcer_Yisang_6.json] 금방의 싸움은 우수했소.|They showed superior performance in the conflict just now.
+6703||Announcer#Announcer_Yisang_6.json] 그저, 한 번 휘둘러 모두 쓸어버렸구료.|With ease, you have swept all opposition off with a single swing.
+6704||Announcer#Announcer_Yisang_6.json] 훌륭하오. 이외 특별히 첨언할 이유도 없군.|Excellent. I have no reason to add any more words.
+6705||Announcer#Announcer_Yisang_6.json] 최고의 선택이었소, 관리자.|That was a choice most ideal, manager.
+6706||Announcer#Announcer_Yisang_6.json] 꽤 강한 충격이었소. 나의 벗들은 괜찮은가?|That was a rather strong impact. Are my companions sound?
+6707||Announcer#Announcer_Yisang_6.json] 이번 한 합은 치명적이었소… 두 번의 기회는 없을 것이오, 관리자.|This exchange was fatal... I fear there will not be a second chance, manager.
+6708||Announcer#Announcer_Yisang_6.json] 피는 근사하지 않소… 벗들의 혈이 낭자하는 모습이, 좋지는 않구료.|Blood is not a fascinating thing... It does not please me to see my companions bleed.
+6709||Announcer#Announcer_Yisang_6.json] 동료들이 침침해 보이오. 이대로 묵묵히 나아가는 것은 바람직 하지 않겠소만.|My colleagues appear listless. It would not be desirable to continue the advance.
+6710||Announcer#Announcer_Yuri_9.json] 적합한 관리법이었어요. 다행이예요.|Good management work. What a relief.
+6711||Announcer#Announcer_Yuri_9.json] 칼날이 잘 드네요… 아마 그 공격이 약점이었겠죠?|That's a sharp blade. I'm guessing that's their weakness, huh?
+6712||Announcer#Announcer_Yuri_9.json] 상황이 좋다고 할 수는 없지만… 여러분은 하실 수 있을 거예요.|The situation isn't ideal... But I know you guys can do it!
+6713||Announcer#Announcer_Yuri_9.json] 조심하셔야 해요… 정신이나 몸이 다친 동료들은 어떻게 바뀔지 모르니까요…|Be careful... People with damaged minds or bodies, even if they're your friends, are unpredictable...
+6714||Announcer#Announcer_Yuri_9.json] 다, 단테 님… 정말 살려내실 수 있는 거죠…?|D-Dante, you can bring them back... right?
+6715||Announcer#Announcer_Yuri_9.json] 여러분들, 기분이 좋아보이시네요.|Hey, you guys are in high spirits.
+6716||Announcer#Announcer_Yuri_9.json] 단테 님… 수감자 분들에게 잠시 휴식을 권유해 보는 건 어떨까요…|Dante... How about a quick break for the Sinners...?
+6717||Announcer#Announcer_Yuri_9.json] 여기다가 말하면 녹음되는 건가요…? 아, 힘내세요!|Is the recorder on? Do I speak through here...? Oh, good luck!
+6718||Announcer#Announcer_Yuri_9.json] 제가 도움이 될지는 모르겠지만… 노력해보겠습니다.|I don't know how much help I will be... but I'll try my best.
+6719||Announcer#Announcer_Yuri_9.json] 지금이 집중할 때예요. 마지막까지, 직면해주세요.|You have to focus now. Face it, to the end.
+6720||Announcer#Announcer_Yuri_9.json] 그 개체는 다른 방법이 적절하지 않았을까요…|Maybe a different method would've worked better against that entity...
+6721||Announcer#Announcer_Yuri_9.json] 아… 그 공격은 적합하진 않아보이네요. 관리법에 적어둬야…|Oh... That didn't work so well. I'll have to write it down in the management logs...
+6722||Announcer#Announcer_Yuri_9.json] 총체적 난국이예요… 머릿 속에서… 또 경보가 울리는 것 같아…|This is a mess... It's like I can... almost hear the sirens again...
+6723||Announcer#Announcer_Yuri_9.json] 저기, 저 개체부터 처리하면 편할 것 같아요.|That entity over there, let's take that one out first.
+6724||Announcer#Announcer_Yuri_9.json] 부위 하나가 끊어졌네요! 이제 좀 수월해지겠어요.|You guys broke off a part! Hopefully things will ease up a little now.
+6725||Announcer#Announcer_Yuri_9.json] 결손 부위에 따른 관리법도 적어둬야 할텐데…|I should record how to manage entities with missing parts...
+6726||Announcer#Announcer_Yuri_9.json] 적 개체가 기세등등해보여요. 조금 주의하면서 해보는게 좋을 것 같아요.|The hostile entity is getting revved up. Let's try to approach this carefully.
+6727||Announcer#Announcer_Yuri_9.json] 앗, 저것들이 뭔가 기운이 없어요! 기회가 온 걸까요?|Huh?! Looks like they're weakened...! Is this our chance?
+6728||Announcer#Announcer_Yuri_9.json] 입에서 갑자기 쓴 맛이… 위험한 일이 있을 때마다 이랬는데…?|A bitter taste in my mouth... It always happens right before imminent danger...?!
+6729||Announcer#Announcer_Yuri_9.json] 곧 위험한 공격이 찾아올 거예요…! 대처하실 수 있죠?|A powerful attack incoming...! You guys got this, right?
+6730||Announcer#Announcer_Yuri_9.json] 유리… 예요. 갑자기 이런걸 시키시니 당황스럽네요…|Yuri... here. I didn't think they'd be asking me to do something like this...
+6731||Announcer#Announcer_Yuri_9.json] 조금씩 나아가고 있네요. 계속 힘내주세요…!|You're doing it. Don't give up...!
+6732||Announcer#Announcer_Yuri_9.json] 한 번에 이렇게나… 마치 마탄같네요…|So many at once... Just like Der Freischütz...
+6733||Announcer#Announcer_Yuri_9.json] 와! 방금 어떻게 하신 거죠? 깜짝 놀랐어요…!|Woah! How did you do that? That totally caught me off guard...!
+6734||Announcer#Announcer_Yuri_9.json] 아까 했던 공격 덕에 한결 수월해진 것 같아요… 좋네요!|I think your earlier attack made things a bit easier... Nice!
+6735||Announcer#Announcer_Yuri_9.json] 세상에…! 여러분들, 괜찮으세요?|Oh no...! Are you okay, everyone?
+6736||Announcer#Announcer_Yuri_9.json] 너무 강한 공격이었어요… 문제 없었으면 좋겠는데요…|That was a really powerful attack... I hope everyone's okay...
+6737||Announcer#Announcer_Yuri_9.json] 괜찮으세요…? 그 공격에 많이들 다치신 것 같은데요…|Are you guys okay...? That attack seemed painful...
+6738||Announcer#Announcer_Yuri_9.json] 으… 여러분들, 많이 다치신 것 같아요…|Oh no... You guys look pretty hurt...
+6739||Announcer#Announcer_ZigongZilu_30.json] …유효하군.|... Effective strike.
+6740||Announcer#Announcer_ZigongZilu_30.json] …옳다.|- ... Correct.
+6741||Announcer#Announcer_ZigongZilu_30.json] 판도는 유리하나, 교만하면 뒤집어지는 법. …그래서 어쩌라는 거지? 경계… 그걸 꼭 말로 해야 아나?|- While you have the upper hand, overconfidence is sure to claim defeat from the jaws of victory.\n- ... So what?\n- I mean to say that they must stay alert for— Must I really spell it out for you?
+6742||Announcer#Announcer_ZigongZilu_30.json] …눈의 심지가 죽지 않았군. 진정 그것을 행하는가. 그렇다면 이 전장에서 이기는 것은 하늘이 아닌 너희의 뜻이겠구나.|- The fire still burns in their eyes.\n- Are you truly committed to that course of action? Then it shan't be the heavens' will that wins this battle; it will be your own.
+6743||Announcer#Announcer_ZigongZilu_30.json] 틈이 생겼군. 메울 건가? 이용하는 것이 상책이겠지만… 주군이라면 메웠을 거다. …그래. 부상자를 챙기지.|- A hole in your defenses. Will you help them?\n- It would be wise to exploit it, however...\n- Our lord would have helped them.\n- ... Fine. Help the wounded.
+6744||Announcer#Announcer_ZigongZilu_30.json] …이건 불찰이구나. 간이 보존 붕대로 감아두지.|- ... That was certainly a mistake.\n- Wrap them with stasis wraps.
+6745||Announcer#Announcer_ZigongZilu_30.json] 실수일지 의도일지. 저의를 헤아릴 수 없다면, 그 용도를 고민하는 것이 상책이지.|- Mistake, or an intended effect?\n- If the purpose cannot be divulged, then we must first contemplate its use.
+6746||Announcer#Announcer_ZigongZilu_30.json] 손을 써뒀나. 주의 깊게 살펴라. 아무래도 쉽사리 떨칠 마수는 아닌 모양이다.|- They've employed tricks.\n- Observe them closely. This may be a difficult move to outmaneuver.
+6747||Announcer#Announcer_ZigongZilu_30.json] 뛰어난 병사라도 적재적소에 쓰지 않으면 무위무능한 법. 우선 전황부터 살피지. 형국 정도는 읽었다. 나머지는… 칼을 휘두를 일 아닌가.|- Even the most effective soldier is useless in the hands of a doltish commander. Let us first observe the field of battle.\n- Already done. The rest... is nothing that a sword cannot solve.
+6748||Announcer#Announcer_ZigongZilu_30.json] 주군께서 너희에게 거는 기대가 크더군. 최선을 다해라. 훗. 주군께서는 사소한 실수로 책 잡지 아니하시니 너무 긴장하지 말고 임하게.|- My lord sees much in you. Give it your all.\n- Heh. Do not pressure yourselves too much for perfection; our lord does not reprimand for insignificant causes.
+6749||Announcer#Announcer_ZigongZilu_30.json] 천 길 낭떠러지 위나 다름없다. 허나, 도착까지도 몇 걸음. 채워내어야 후회가 남지 않겠지.|- Standing at the edge of a three-thousand meter fall.\n- Yet, they stand still but a few footsteps short of the destination. They must walk the last stretch to leave no regrets.
+6750||Announcer#Announcer_ZigongZilu_30.json] 무용하군. 자로여, 보면 아는 것을 상기시키는 연유가 무엇인가? …하.|- Futile strike.\n- Zilu. Why unnecessarily narrate them of what they can naturally tell for themselves?\n- ... Ugh.
+6751||Announcer#Announcer_ZigongZilu_30.json] …병력을 새로이 구성해야 하나. 불가피하다면 술책을 세우는 것이 차선이다.|- ... Perhaps we must first analyze the makeup of our troops.\n- If that appears to be unfeasible, then you must first establish a strategy.
+6752||Announcer#Announcer_ZigongZilu_30.json] 내가… 수싸움에서 밀렸단 말인가? 드넓은 홍원에 인재만 수천이다. 계책의 방비 또한 그와 같을 터. …맞는 말을 어찌 그리 얄밉게 하는지. 너만 하겠나.|- I... I was outplayed?\n- Hongyuan alone is brimming with thousands of prodigies, and so are ways to outwit your tactics.\n- You could afford to be a tad more diplomatic with your words.\n- Says you.
+6753||Announcer#Announcer_ZigongZilu_30.json] 적이 술에 취한 한량처럼 허둥거리니, 승기를 세운다면 지금이겠구나.|The enemy is swaying like a drunk fool under attack. Now would be the most opportune time to establish your dominance in battle.
+6754||Announcer#Announcer_ZigongZilu_30.json] 흠. 적의 날개를 꺾었구나.|- Hm. You have broken their wings.
+6755||Announcer#Announcer_ZigongZilu_30.json] 유의미한 격차로군. 물론이네. 비탈길에서 구른 눈덩이처럼 아군의 이점이 늘어날 것이니.|- There is a meaningful gap of strength.\n- Like a ball of snow rolling downhill, our allies' advantages will grow with exponentiality.
+6756||Announcer#Announcer_ZigongZilu_30.json] 숨겨둔 수를 드러낸 모양이구나.|- Now, their strategy is revealed.
+6757||Announcer#Announcer_ZigongZilu_30.json] 자가당착이로다. 흔치 않은 기회니, 이 틈에 승기를 굳히자꾸나.|- Their actions contradict their own. This is a rare opportunity; let us leverage it to solidify the victorious winds for our war flags.
+6758||Announcer#Announcer_ZigongZilu_30.json] 신묘하군. 하지만 파훼법 또한 있을 터. 허나 그를 깨우치지 못하면 풍전등화와 다를 바 없겠지.|- Quite the mysterious strategy. But there must be a solution to break it apart.\n- Without the solution, however, our allies are in a precarious position like an uncovered candle before a powerful gust.
+6759||Announcer#Announcer_ZigongZilu_30.json] 위세는 좋으나, 의도가 뻔히 보이는구나. 하책이다. 방심은 금물이다, 자공.|- Their form is certainly powerful, yet we need only read their intent. A shallow strategy.\n- Don't let your guard down, Zigong.
+6760||Announcer#Announcer_ZigongZilu_30.json] 주군의 책사이자 오른팔인 자공이니라. 주군의 명에 따라 너희 부대를 지휘하게 되었지. …자로다.|- I am Zigong, the strategist and the right-hand officer of my lord. Upon his orders, I will be taking command of your unit.\n- ... I'm Zilu.
+6761||Announcer#Announcer_ZigongZilu_30.json] 큰 흐름을 뒤집은 건 아니나… 좋은 움직임이로구나.|While you could not reverse the great flow... it was a good move nevertheless.
+6762||Announcer#Announcer_ZigongZilu_30.json] 흠. 검을 휘두를 줄 아는 자는 많다. 그 검에 길이 있는지가 중요할 뿐. 마음에 들면 들었다 솔직히 말해라, 자로여. 보기 드문 용장에게 칭찬을 아낄 이유가 무어 있는지.|- Hmph, there are many who know how to wield a blade. What matters is if their blade follows a path.\n- Simply compliment them if you enjoyed that display, Zilu. I cannot fathom why you would stay your praise for a commendable feat.
+6763||Announcer#Announcer_ZigongZilu_30.json] 차포잡이라. 예상한 것보다 움직임이 더 좋구나.|- This move claims both their cannons and chariots. Your maneuver exceeds my expectations.
+6764||Announcer#Announcer_ZigongZilu_30.json] 적의 팔다리를 끊었군. 이제 전력으로 쳐라.|- You've cut off their limbs. Now, go for the throat.
+6765||Announcer#Announcer_ZigongZilu_30.json] 큭. 적군의 함정인가? 물려라. 내가… …아니, 아직 수는 남았다.|- Ngh. Have we walked right into our foes' ambush?\n- Withdraw the men. I will—\n- ... No, I can maneuver us out of this quandary.
+6766||Announcer#Announcer_ZigongZilu_30.json] 너무 주눅 들지 말거라. 부딪혀봐야 아는 것도 있으니. 목숨을 부딪칠 필요까지 있었나.|- Be not so crestfallen. Certain things cannot be learned without facing them head-on.\n- Did they have to face it head-on with their lives, however?
+6767||Announcer#Announcer_ZigongZilu_30.json] 상황이 좋지 않구나. 이대로 뚫어내면 문제 될 건 없다. …진심인가?|- The situation is... indeed, quite unfavorable.\n- Destroy all that stands in your way, and that should solve the problem.\n- ... Are you serious?
+6768||Announcer#Announcer_ZigongZilu_30.json] 음. 앞날에 그림자가 드리웠으니, 빛줄기를 찾아야 할 터. 위기라는 말을 굳이 그렇게 해야 하나? …흠, 그대에게는 다소 어려운 비유였는지.|- Mm. There lies a dark shadow before your path; a ray of light must first be found to progress forth.\n- Must your metaphors be so obnoxious?\n- ... Hm, perhaps it was too difficult for you to understand.
+6769||EGOvoice#Voice_EGO_Common_998.json] 이제 정신 좀 차리라고… 아저씨!|C'mon, Stubbles... Snap out of it!
+6770||EGOvoice#Voice_EGO_Common_998.json] 그렉, 잠깐만 얼어있어!|Stay frozen for a while, Greg!
+6771||EGOvoice#Voice_EGO_Common_998.json] 파우스트가… 틈을 만들겠습니다.|Faust will... make an opening.
+6772||EGOvoice#Voice_EGO_Common_998.json] 싱클레어 씨… 뒤는, 맡길게요…!|Sinclair... I'll leave the rest to you...!

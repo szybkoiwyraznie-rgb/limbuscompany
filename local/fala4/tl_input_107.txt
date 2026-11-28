@@ -1,0 +1,96 @@
+10382||PersonVoice#Voice_Rodion_Devjat_10910.json] 으으, 이 지방은 해가 떠도 너무 춥단 말이지… 야영하다가 죽는 거 아닌가 싶어.\n뭐, 진짜 죽을 것 같이 체온이 내려가면 가방이 알아서 온열기능을 켜버리겠지만…|Nngh... It's so cold here, even during midday. I'm worried about freezing to death every time I try to sleep on the road.\nWell, if it does get cold enough to kill me, I guess the trunk will automatically activate its thermal protection function...
+10383||PersonVoice#Voice_Rodion_Devjat_10910.json] 해 떨어지면 빨리 잘 준비를 해야 해. 지반도 좀 다져놓고…\n저번에도 배달 시간이 살짝 촉박해서 밤까지 움직였다가, 크레바스에 빠져서 죽을 뻔했다니까?|Better get ready to sleep ASAP when the sun goes down. Remember to flatten the terrain you're about to lie down on, too...\nWanna know what happened when we tried to move through the night because we were running low on time? I almost fell into a crevasse and died.
+10384||PersonVoice#Voice_Rodion_Devjat_10910.json] 자, 체크포인트 17까지 왔네… 으~ 오늘 점심은 여기서 먹자구. 매번 걸으면서 에너지바로 처리하는 것도 지겹잖아? 플루, 가방 열어.|Right, let's see... we're at checkpoint 17. Nngh~ Let's lunch here, how 'bout that? Aren'tcha tired of munching on energy bars for three meals straight? Open up, Polu!
+10385||PersonVoice#Voice_Rodion_Devjat_10910.json] 후우… 요 근처에 육포를 숨겨뒀던 것 같은데… <color=#9eada4><size=60%><i>[배달 좌표 이외에서의 잠금 해제를 확인]</i></size></color> 앗, 기록 삭제 버튼이 어디 있더라?! <color=#9eada4><size=60%><i>[권한 없음]</i></size></color>|Hmm... I think I hid a pack of beef jerky somewhere in there... <color=#9eada4><size=60%><i>[Unauthorized lock release outside of delivery coordinates detected]</i></size></color> Crap, how do I wipe that data?! <color=#9eada4><size=60%><i>[Unauthorized behavior detected]</i></size></color>
+10386||PersonVoice#Voice_Rodion_Devjat_10910.json] 배달일이 재밌어서 하는 건 아니지. 뭐, 처음엔 로망도 있고 그러긴 했지만…\n아, 그래도 돌아다니면서 바뀌는 풍경을 보는 건 아직도 즐겁긴 해.|Well, I don't do delivery work for fun. I guess there was some sense of purpose at first, but...\nOh! Yeah, I still love seeing all the sights as I move across the City, though.
+10387||PersonVoice#Voice_Rodion_Devjat_10910.json] 이 가방에는 뭐든지 들어간다구~ 물론 한도가 있긴 하지만… 그래도 아무리 무거운 걸 넣더라도 가방의 무게가 바뀌지 않는다는 건 장점이지! <color=#9eada4><size=60%><i>[주의. 허가된 배달품 외의 물품 보관은-]</i></size></color> 에헤이~ 플루, 쉿?|You can fit pretty much anything into these trunks~ If they fit the maximum capacity, of course... Still, it's a pretty big plus that the weight doesn't change no matter what you stuff into 'em! <color=#9eada4><size=60%><i>[WARNING. Unauthorized storage of non-designated delivery items is—]</i></size></color> Ehehe, shush, Polu!
+10388||PersonVoice#Voice_Rodion_Devjat_10910.json] 아… 이 가방? 개인용으로 새거가 지급되고 그러는 건 아니고. 글쎄~ 이게 몇 대째 물건일까… 배달 나갔다가 죽어버린 사람의 가방을 회수해서 쓰고, 또 쓰고… 그러는 거거든. 하하.|Ah... what, this trunk? Nah, we don't get personalized trunks. Hmm~ how many people's hands used this trunk, I wonder... Oh, yeah. When someone gets killed in a delivery, we send people to pick it up and it becomes theirs. And when they die, someone else goes out to pick it up, and... ya get the gist, right? Ha ha.
+10389||PersonVoice#Voice_Rodion_Devjat_10910.json] 좋아~ 이 정도면 금방 처리하고 떠날 수 있겠다. 너희들도 밍기적거리지 말고! 괜히 배달비 삭감된다고 나중에 툴툴대지 말고~|Niiice~ This looks like a piece of cake. Quit dragging your feet, let's get a move on, people! And don'tcha dare complain to me later about getting paid a reduced delivery fee~
+10390||PersonVoice#Voice_Rodion_Devjat_10910.json] 아우 무거워… 남부 애들은 수트케이스 같은 걸 갖고 다닌다던데, 우리는 왜 이렇게 무거운 걸 쓰나 몰라… 한 번 휘두를 때마다 어깨가 빠질 것 같단 말이야.|Nngh, so heavy... I heard the guys down south carry around a slimmer suitcase, so what's up with us in the north getting saddled with something so bulky? I feel like I'm going to dislocate my shoulder swingin' this thing around.
+10391||PersonVoice#Voice_Rodion_Dieci_10907.json] 어!|Ah!
+10392||PersonVoice#Voice_Rodion_Dieci_10907.json] 무지 외에 암흑은 없나니. …아, 그 뒤가 뭐더라…?!|The only abyss is the abyss of ignorance, and... \nAnd uh... crap. How'd that go again?
+10393||PersonVoice#Voice_Rodion_Dieci_10907.json] 후, 결국 내 공부가 부족하지 않았다는 거네. 그치? 좋았어.|Whew, so I'm not falling behind on my studies, right? Hell yeah.
+10394||PersonVoice#Voice_Rodion_Dieci_10907.json] 선배 말처럼… 공부를… 좀 더 할 걸 그랬나…|I should've studied... like my seniors always told me to...
+10395||PersonVoice#Voice_Rodion_Dieci_10907.json] 너무 먹어만 댔나… 약간 몸도 둔한 것 같고… 역시 공부를 좀 더 하긴 해야겠어….|Ugh, maybe I've been eating too much... I feel sluggish, too... I guess I shoulda studied harder...
+10396||PersonVoice#Voice_Rodion_Dieci_10907.json] 직접 알게 함이라.|Let the truths be self-evident to them.
+10397||PersonVoice#Voice_Rodion_Dieci_10907.json] 무지하니까…|Ignoramuses...
+10398||PersonVoice#Voice_Rodion_Dieci_10907.json] 맞는 거야.|Get smacked.
+10399||PersonVoice#Voice_Rodion_Dieci_10907.json] 어? 간식인가?!|Ooh? Is it snack time?!
+10400||PersonVoice#Voice_Rodion_Dieci_10907.json] 고통 없이 지식을 얻지 못한다나 뭐라나…|No knowledge is earned without pain... or whatever, blah blah...
+10401||PersonVoice#Voice_Rodion_Dieci_10907.json] 아… 어디서 읽었었는데?|Agh... But I'm sure I've read about this before?!
+10402||PersonVoice#Voice_Rodion_Dieci_10907.json] 아, 이건 아는 거였어!|Ohh! I know this one!
+10403||PersonVoice#Voice_Rodion_Dieci_10907.json] 어, 전가요?|Huh? Me?
+10404||PersonVoice#Voice_Rodion_Dieci_10907.json] 뭐더라… 아! 지식이 곧 나의 열쇠이니… 문을 열기 위해 정진하겠습니다.|How'd it go again? With knowledge as my key... I shall continue to devote myself to the opening of the door.
+10405||PersonVoice#Voice_Rodion_Dieci_10907.json] 쉿…! 이거 먹어. 티는 내지마. 그리고 그냥 씹어. 감사는 됐어. 훗.|Shhh...! Hey, eat this. Don't act surprised. Just put it in your mouth and chew—no need to thank me, fuhu.
+10406||PersonVoice#Voice_Rodion_Dieci_10907.json] 어우우… 아침부터 모여서 연구시키는 거, 하루 이틀은 좀 봐주면 안되나? 머리에 제대로 들어오지도 않는데.|Ughhh... Can we take at least a day or two off from these morning research sessions? I'm still waking up...
+10407||PersonVoice#Voice_Rodion_Dieci_10907.json] 너도 야자야? 하휴… 다른 사람들은 어쩜 그렇게 의자에 못박힌 듯 앉아있을 수 있는거야? 가만, 진짜 못을 박았나?!|You're going to the late night studies, too? Whew... It's like everyone's nailed their butts to their seats. Wait, did they actually—?!
+10408||PersonVoice#Voice_Rodion_Dieci_10907.json] 점심은 건너 뛰어도 될 것 같아. 웬일이냐고? 어… 그, 협회 도서관에서… 군것질을 너무 많이 했거든.|I think I'll skip lunch today. What? "As I live and breathe..."? That's because, uhh... Well, I snacked a little... too much at the Association library.
+10409||PersonVoice#Voice_Rodion_Dieci_10907.json] 냠… 네? 아뇨, 사서 님. 공부 중이었어요.|Nom... Yes? No ma'am. I was just studying.
+10410||PersonVoice#Voice_Rodion_Dieci_10907.json] 나눠 먹는 건 좋은데, 감독 사서 님한테만 걸리지 않게 해줘… 알았지?\n또 걸리면 일주일 도서관 출입 금지로는 안 끝날 거라고.|I don't mind sharing, but let's keep this out of the head librarian's eyes, okay?\nIf I get caught snacking again, I don't think it'll end with a weeklong library ban.
+10411||PersonVoice#Voice_Rodion_Dieci_10907.json] 몰래 먹는 노하우라… 가장 중요한 건 눈빛이지. 그 누구보다 허망한 눈을 하는 거야.\n머리에 지식을 밀어넣다 쥐가 왔다는 듯이. 사실 빵을 밀어넣은 거지만.|The key to stealthy snacking...? It's all in the eyes. Make the deadest, most zoned-out eyes ever.\nLike your brain's been overloaded with so much knowledge... when it's just that your face's been overloaded with pastry.
+10412||PersonVoice#Voice_Rodion_Dieci_10907.json] 새로운 지식만큼 매혹적인 것도 없다지만… 윤기가 흐르는 이… 먹거리들도… 너무 매혹적인데?|They say that there's nothing as seductive as new knowledge... But aren't these freshly cooked delicacies... about as seductive?
+10413||PersonVoice#Voice_Rodion_Dieci_10907.json] 어떻게 이렇게 강할 수 있냐고? 에휴, 그 간단한 말조차 모르니까 이렇게 당하지.\n잘 들어… '지식이 곧 힘이다.'|How am I so strong? Sigh, how do you not know something so basic?\nListen up... 'Knowledge is power'.
+10414||PersonVoice#Voice_Rodion_Dieci_10907.json] 우리 협회는 크게 열쇠 파와 격투 파로 나눠져 있어. 어, 나?  훗. 척 보면 모르겠어? 무지한 놈들을… 이 주먹으로 깨닫게 해주는 거지.|Our Association has two large divisions: the Keys and the Fists. Which one am I? Fuhu, can'tcha tell? I'll knock some enlightenment into them blockheads with these fists.
+10415||PersonVoice#Voice_Rodion_Epi_10903.json] 에잉, 부상 발생! …부상 정도가 아닌가?|Shoot, we’ve got an injured unit! …Or even worse?
+10416||PersonVoice#Voice_Rodion_Epi_10903.json] 칫…!|Tch…!
+10417||PersonVoice#Voice_Rodion_Epi_10903.json] 아, 아. 관측 완료~ 뭐가 이렇게 시시해?|Ahh, ahh. Observation complete~ Isn’t this too much of a cakewalk?
+10418||PersonVoice#Voice_Rodion_Epi_10903.json] 임무 목표, 완전 해결! 이제 복귀할게~ 교신 끝!|Mission objectives all met! Returning to base now~ Rodya out!
+10419||PersonVoice#Voice_Rodion_Epi_10903.json] 하… 임무 실패. 쯧, 기분 잡치네.|Pah… Mission failed. Tsk, talk about a downer.
+10420||PersonVoice#Voice_Rodion_Epi_10903.json] 로쟈, 교전 시작!|Rodya, engaging enemy forces!
+10421||PersonVoice#Voice_Rodion_Epi_10903.json] 목표, 일시 무력화.|Target’s incapacitated.
+10422||PersonVoice#Voice_Rodion_Epi_10903.json] 목표, 완전 무력화!|Target neutralization confirmed!
+10423||PersonVoice#Voice_Rodion_Epi_10903.json] 응? 뭐 필요한 거 있어?|Hm? Ya need something?
+10424||PersonVoice#Voice_Rodion_Epi_10903.json] 네, 네. 작전 지역으로 이동 중~ 교신 끝!|Yeah, yeah. Heading to the mission area~ Rodya out!
+10425||PersonVoice#Voice_Rodion_Epi_10903.json] 음… 빨간 전선을 잘랐어야 했나…?|Hmm… Was I supposed to cut the red wire…?
+10426||PersonVoice#Voice_Rodion_Epi_10903.json] 역시, 빨간 전선이 정답이었어!|Had a gut feeling it was the red wire!
+10427||PersonVoice#Voice_Rodion_Epi_10903.json] 에구. 작전 호출~|Ah, geez. Reporting in~
+10428||PersonVoice#Voice_Rodion_Epi_10903.json] 드디어 승진하는 거야? 보상은? 연봉 인상? 애프터 팀 이전? …둘 다 아니라고? 에잉.|A promotion at last? What’s on the table? A raise? Transfer to the After Team? …Neither? Phooey.
+10429||PersonVoice#Voice_Rodion_Epi_10903.json] 아~ 당신이야? 나한테 명령내린다던 사람이?|Oh~ So it’s you? You’re the one who’ll be bossing me around?
+10430||PersonVoice#Voice_Rodion_Epi_10903.json] 설마 이제 일어난 건 아니지? 그 시계에 자명종 기능은 없었던 거야?|You really woke up this late? Doesn’t your head have an alarm or something?
+10431||PersonVoice#Voice_Rodion_Epi_10903.json] 고요한 밤이야. 달빛도 적고… 잠입하기에 딱 적당하지.|A quiet night. Moon’s not too bright… Perfect for infiltration.
+10432||PersonVoice#Voice_Rodion_Epi_10903.json] 체력 단련하기 적당한 날씨네. 거기 계속 서 있을 거야? 뭐, 구경하고 싶으면 하던가.|Weather’s just right for some exercise. Are you gonna stand there and watch? Well, go right on ahead then.
+10433||PersonVoice#Voice_Rodion_Epi_10903.json] 한가한가 봐? 쏘다닐 시간도 있고. 그럴 시간에 보고서 정리나 도와줘.|Got a lot of free time on your hands, huh? Why don’tcha quit loitering and come help me document these instead, hun.
+10434||PersonVoice#Voice_Rodion_Epi_10903.json] 내가 와준 걸 감사히 여겨야 할 거야. 나는 꽤 우수하거든.|You should be grateful that I joined you. You’re gabbing with a skilled worker here.
+10435||PersonVoice#Voice_Rodion_Epi_10903.json] 여기 애들 말이야~ 나랑 너무 수준 안 맞아. 특히, 그 툭하면 소리 지르는 애 말이야. 그거 히스테릭 아니야?|Gotta say~ The crew here is way below my class. Especially that one who screams all the time—ain’t that a sign of hysteria?
+10436||PersonVoice#Voice_Rodion_Epi_10903.json] 길게 얘기할 거 없어. 우리가 갈 목적지, 처리해야 할 적만 이야기해. 나머진 내가 다 알아서 할 테니.|No need to make it long. Just tell me where to go and what to deal with. I’ll make sure to handle the rest.
+10437||PersonVoice#Voice_Rodion_Epi_10903.json] 나도 처음부터 마냥 자신만만한 건 아니었어. …그래야만 하니까 어느 순간 변한 거지.|I wasn’t this confident at the start. …I just had to become like this.
+10438||PersonVoice#Voice_Rodion_Epi_10903.json] 사전관측과는 따지고 보면 버리는 패 같은 거야. 위험한 데에다가 쉽게 쉽게 던져버린다고. 그러니까 혼자서 5과씩이나 존재하는 거지… 뭐, 돈은 잘 주지만.|The Preliminary Observation Department’s damn expendable if we’re being real. They toss staff into danger all willy-nilly. No wonder it’s got five whole sections… Well, does pay well for what it’s worth.
+10439||PersonVoice#Voice_Rodion_Kcorp_10905.json] 큭…|Kuh…
+10440||PersonVoice#Voice_Rodion_Kcorp_10905.json] 좋아! 입에 풀칠은 하겠네~ 애들 월급 주려면 돈~ 좀~ 불려야 겠어~ 후훗.|Got it! That should keep us afloat~ And if I wanna pay my bosom buddies a handsome salary, I’ve gotta make more fortune out of it~ Huhu.
+10441||PersonVoice#Voice_Rodion_Kcorp_10905.json] 히야, 이 정도면 너무 성공적인데? 추가 보수 나오는 거 아냐?|Heehey, this is a huge success, ain’t it? Am I gonna get a bonus?
+10442||PersonVoice#Voice_Rodion_Kcorp_10905.json] 이럴 줄 알았으면… 한탕 좀 제대로 해보고… 올 걸.|If I knew this would happen… I woulda gone for a bigger spree… the other day.
+10443||PersonVoice#Voice_Rodion_Kcorp_10905.json] 하… 이러면 계약 파기인데…|Ha… This might can the contract…
+10444||PersonVoice#Voice_Rodion_Kcorp_10905.json] 가자!|Let’s go!
+10445||PersonVoice#Voice_Rodion_Kcorp_10905.json] 흐흥, 제대로 찝었군!|Hmheh, pinched ‘em right!
+10446||PersonVoice#Voice_Rodion_Kcorp_10905.json] 자, 한 건 했고!|Yeah, that’s one done!
+10447||PersonVoice#Voice_Rodion_Kcorp_10905.json] 으응? 지금 바쁜데, 용건만 빨리!|Mm? Bit busy right now, make it quick!
+10448||PersonVoice#Voice_Rodion_Kcorp_10905.json] 돈 벌러 가자~!|Let’s get this bread~!
+10449||PersonVoice#Voice_Rodion_Kcorp_10905.json] 치… 맞는 공구가 없었다고.|Psh… None of my tools fit.
+10450||PersonVoice#Voice_Rodion_Kcorp_10905.json] 흥, 이런 건 누워서 떡 먹기지!|Hmph, what a piece of rice cake!
+10451||PersonVoice#Voice_Rodion_Kcorp_10905.json] 좋아, 몸 좀 풀어보자구!|Aight, let’s go for a round!
+10452||PersonVoice#Voice_Rodion_Kcorp_10905.json] 음~? 나는 대표라 더 올라갈 곳이 없는데~ 대신, 일거리만 더 물어다 줘!|Hm~? I’m already the rep, I don’t see how I can get to a higher position~ Just get us more work instead!
+10453||PersonVoice#Voice_Rodion_Kcorp_10905.json] 안녕, 안녕~ 장미스패너 공방 대표, 로쟈야~|Hello, privyet~ Presenting the rep of Rosespanner Workshop, I’m Rodya~
+10454||PersonVoice#Voice_Rodion_Kcorp_10905.json] 흐암… 쉬엄쉬엄해~ 커피도 좀 타서 마시고. 아침부터 너무 힘 빼지 말자고~|Yaaawn… Take it easy, baby~ Get some coffee if you wanna. No need to wear yourself out so early in the morn~
+10455||PersonVoice#Voice_Rodion_Kcorp_10905.json] 나 먼저 퇴근할게~ 뭐야, 야근이야? 어이구… 고생이네. 수당은 챙겨줄게!|I’ll be going first~ What the, you’re staying for overtime? Oh boy… Got some work cut out, huh. You’ll get paid handsomely, I promise!
+10456||PersonVoice#Voice_Rodion_Kcorp_10905.json] 왔어? 이거 봐봐! 또~ 따버렸지 뭐야~ 점심시간에 카드 쳐서 버는게 일주일 벌이보다 많다니까~\n…흑흑.|You’re here? Check this out! I did it~ Won big again~ I earn more from playing card games during lunch than I do with a week’s work of running this joint~\n…Sniffle.
+10457||PersonVoice#Voice_Rodion_Kcorp_10905.json] 엇 차~ 잠깐 누워 볼까요~?|Whoocha~ Guess I’ll lie down for a wee bit~
+10458||PersonVoice#Voice_Rodion_Kcorp_10905.json] 우리가 쓰는 무기는 전부 우리 공방에서 직접 만든다구~ 앗, 이거 왜 이래…\n하하, 고, 고치는 것도 우리가 직접 하지.|We make all the weapons we use~ Oh, what’s wrong with this stupid thing…\nHaha, w—we also fix ‘em all by ourselves.
+10459||PersonVoice#Voice_Rodion_Kcorp_10905.json] 오~ 뭐야뭐야? 일거리라도 물어 온 거야?|Ooh~ Whuzzat, whuzzat? Got a job for me?
+10460||PersonVoice#Voice_Rodion_Kcorp_10905.json] 일은 안 하냐고? 나는~ 현장이 적성에 맞거든. 후후. 다른 녀석들이 잘 해주니까 괜찮을 거야~|Am I not doing any work? Well, you see~ I’m a fieldwork kinda person. Fuhu. It’s gonna be fine, others’ve got the desk work covered, I’m sure~
+10461||PersonVoice#Voice_Rodion_Kcorp_10905.json] 뭐~?! 슬롯머신? 아휴, 바보야. 그걸로 진짜 돈이 벌릴 거라고 생각하는 거야?\n실력으로 승부해야지!|Whaaat~?! Slot machines? Ugh, you dummy. You really think you can win money from that?\nYou gotta use your skills!
+10462||PersonVoice#Voice_Rodion_Kcorp_10905.json] 자, 자 여기 앉아봐… 마우스 쥐고! 그렇지. 이걸 누르면~ 이제 쟤랑 붙는 거야!\n어… 포 카드?!|Alright, take a seat here… Hold the mouse! That’s right. And when you click this~ You get into a game with that bucko!\nWha… Four of a kind?!
+10463||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 이런 미친…|You've gotta be fucking kidding me...
+10464||PersonVoice#Voice_Rodion_KumoThumb_10916.json] …손가락에서 원했다는 검이 이거야? 이딴 쓰레기통 하나 만들려고, 우리가 여태까지 쌩으로 그 지랄을 했다니… 하, 웃기지도 않네.\n히스클리프. 꼴값 떨지 말고 일어나. 중앙 쪽에 연락 넣을 테니까, 뒈진 놈들 누구누구 있는지 확인해.|... So <i>this</i> is the "Blade" the Fingers were clamorin' for? All this time, we busted our asses just for some fuckin' landfill? Hah, what a sick joke... And it doesn't even have a punchline.\nHey, Heathcliff—on your feet, don't be a bitch! I'm callin' up Central. Ya go check which of the poor motherfuckers bought the farm.
+10465||PersonVoice#Voice_Rodion_KumoThumb_10916.json] …왜? 놀랐어? 내가 말했잖아. 난 듀엘에서도, 일기토에서도 져본 적 없다고.|... What, surprised? Told ya, didn't I? I don't lose duels. Never have, never will.
+10466||PersonVoice#Voice_Rodion_KumoThumb_10916.json] …내가, 내가 졌다고…? 이게 뭔… 개…|... I... How could I... lose...? What... the fu...
+10467||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 너… 너…! 히스클리프, 네가… 네가 감히 나를… 커헉…|You... you little...! Heathcliff... You... You dare betray me, after everything...? Gah...
+10468||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 자신 있으면 받아봐.|Feelin' confident? Then parry this, asshole.
+10469||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 더 하면 너 뒈진다?|Ya know, you're one tap away from bitin' it.
+10470||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 하! 다음.|Hah! Next!
+10471||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 걸리적거리니까, 비켜. 쯧. 이래서 전쟁도 안 겪어본 것들은…|Fall back—you're gettin' in the way. Tsk. I just can't with greenhorns who haven't had a taste of the War...
+10472||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 눈 크게 뜨고 잘 봐.|Keep those eyes wide open and watch.
+10473||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 몰라… 시발, 내가 이딴 것까지 알아야 돼?|Fuck if I know... Do I have to bother knowing shit like this...?
+10474||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 하. 고작 이걸 못 해서 부탁했니? 다음부터 이런 건 교본한테 시켜.|*scoff* <i>This</i> is what you needed me for? Get Textbook to run your errands next time.
+10475||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 하씨. 날 뭘로 보고. 야. 덤벼. 특색을 데려와도 모자랄 판에 별 같잖은 것들이…|Sonuvabitch... Think I'm some fuckin' pushover? C'mon, bring it on. Should've brought a Color Fixer if ya wanted the slightest bit of chance to survive this, you miserable cocksuckers...
+10476||PersonVoice#Voice_Rodion_KumoThumb_10916.json] 하하… 지금 네가 뭘 잊었는지… 뭘 희생하고 온 건지 알아?\n처음 검을 쥔 날부터, 네놈을 데리고 돌아온 그날까지… 내가, 내가 얼마나 애지중지 갈고 닦았는데… 이 배은망덕한 새끼가…!|Haha... Do you even have any idea who you forgot... what you threw away to get this far?\nFrom the first day her baby hands held a sword, all the way to the day she brought you here, I... You got any idea how I honed that Ticket of mine, day after day...? Ungrateful little bitch, how dare you forget my Ticket!
+10477||PersonVoice#Voice_Rodion_KumoThumb_10916.json] …난 이미 기다릴 만큼 기다렸어. 이제야 좀 이 개같은 추위에서 벗어나나 싶더니… 고작 그 애새끼 하나 때문에 티켓이 백지 쪼가리가 됐다고? 하… 하하… 지랄도 정도껏 해야지.|... I've already waited way past what anyone oughta put up with. And right when I thought I was finally getting my ass outta this goddamn cold, what happens? My Ticket turns into blank scrap paper, all because of that mongrel brat! Ha... Haha... Gimme a fucking break.

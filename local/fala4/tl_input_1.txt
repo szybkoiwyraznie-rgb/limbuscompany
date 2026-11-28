@@ -1,0 +1,96 @@
+1||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 맛있어지고 있다는 거예요! 풍미가 미쳤다는 거예요!|Yummier and yummier, you hear? The flavor's out of this world, you hear?
+2||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 너희들도 기여하라는 거예요!|You can go into the soda and contribute, you hear?
+3||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 빨리빨리 움직이라는 거예요!|Hurry-scurry, chippy-chop, you hear?
+4||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 도와줬으니 이건 서비스인 거예요.|You pitched in, so this one's on the house, you hear?
+5||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 이걸로 만족하면 수셰프가 아니라는 거예요!|This won't satisfy a real Sous Chef like me, you hear?
+6||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 그 재료도 탐난다는 거예요!|I want that ingredient too, you hear?
+7||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 톡 쏘는 맛이 점점 빠지고 있다는 거예요… 곤란하다는 거예요…!|The fizz is going flat... This won't do, you hear?
+8||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 으므흐므므능~ 이 톡 쏘는 맛… 최고라는 거예요! 부셰도 기뻐할 거라는 거예요!|Mnnhnmhmhm~ This fizzy kick... It's the bestest, you hear? Boucher'll be over the moon, too, you hear?
+9||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 킁… 킁킁… 맛있는 냄새가 잔뜩 난다는 거예요… 배고프다는 거예요…|*sniff* *sniff* Scrumptious aroma, you hear? Makes me hungry, you hear...?
+10||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 티ㄱ… ㅉ깍|Tiiii... Tock!
+11||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 지독했ㄷ… 기억… 목소리|Dammi... I rememb...!! Voice...!!
+12||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 들려ㅈ… 노래|Let me h... song
+13||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 분노! 울고 있ㄴ… 가까이!|Anger! Aligns muc... with... crying!
+14||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 노랫ㅁ… 유사… 있습니다…|High similar... what... called... "lullab"...
+15||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 판단… 관리자님… 판다아ㄴ을…|Call... Judgment caaall... Manager...!!!
+16||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 어서... 자라... 우리 아가...|Sleep tight... My baby...
+17||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 고운 올만... 풀고... 푸러...|... Undo... only the silkiest... threads...
+18||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 무럭... 무럭... 자라... 나서...|Grow... tall and strong...
+19||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 흐윽... 흑... 아파... 아파...!!|*sob* Hurts... hurts...!!
+20||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 생동하는... 울음소리...! 나의...! 만...찬!|A spirited... cry...! My...! F... east!
+21||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 끄으으윽!! 해, 묵은... 울, 림... 나의...! 황금...?|Hnnnnnnh!! A-ged... ech-o... My...! Gold...?
+22||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 숨죽이는... 소리... 안 돼...! 박동이...! 멎으...면 안, 돼!|Breath... sound... dying... no...! The beating... shouldn't sto-p!
+23||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 더는! 견... 딜 수 없...어! 허기... 갈증...!|No! Can't... stand... it! Hunger... and... thirst...!
+24||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 내게... 가져와...!|Bring... it to me...!
+25||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 더... 더...! 아직... 부족해...!!|More... More...! Not... enough...!
+26||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 가...라...!|G... o...!
+27||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 반! 짝... 반... 짝!|Twick! Winkle... Tw... winkle!
+28||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 왕의... 이? 름으로...!|In the na? -me of the... K-ing...!
+29||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 멈, 춰라...! 웃어라...! 하...!|St-op...! Laugh...! Ha...!
+30||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 아아...! 흠...|Ahh...! Hnnh...
+31||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 흐으... 하... 하! 하! 하...!!|Heeh... Ha... H-a! H-a! H-a...!
+33||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 거짓을 벗겨내고… 진정한 나의 모습으로…|Slough off the lies... And embrace my true self...
+34||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 아아, 따뜻해… 반복되지 않아, 끊기지도 않아… 더, 더 말해줘…|Ah... Such cozy warmth... Every word is so new, so alive... and relentless... Speak to me, speak to me more...
+35||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 못 박히리라!|And nailed!
+36||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 고정!|Pinned!
+37||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 더… 더, 더더더! 들려줘! 그 따스한 목소리를!|More... More, more, more! Oh, tell me! That warm voice of yours!
+38||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 헤집어라! 포식하라!|Devastate! Devour!
+39||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 갈망하라! 섭취하라!|Yearn! Consume!
+40||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 질서를 어지럽히는 그 불경한 빛. 제가 친히 꺼뜨리겠습니다.|I shall personally snuff out your profane flame before it disrupts our order.
+41||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 변명하지 마십시오. 시계를 머리에 달았다고 제가 모를 줄 아십니까? 그 붉은색, 르루주가 분명합니다!|No more excuses! Did you really think wearing a clock on your head could hide your identity? That blasphemous crimson—you are of the Rouges, I know it!
+42||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 영원한 안식을 위해! 거두리라!|For the sake of our eternal rest, I shall reclaim the Resin!
+43||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 으, 으음… 황금송진과는 어딘가 궤적이 다른 것 같기도…|Ah—hmm... Those golden traces are... not quite like those of the Golden Resin...
+44||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 저를 주저앉혀 주세요... 다시는 땅을 딛고 걷지 않도록.|Collapse me... I don't want to walk the earth with my feet again...
+45||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 부디! 제 쓸모 없는 다리를! 없애주시길!|Please! Tear off! My useless legs!
+46||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 아아… 발자국이, 발자국이 가득해…|Oh... footsteps... footsteps everywhere...
+47||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 투레그에 불과한 이방인들이, 감히 고결한 내게 덤비겠다는 건가?|You, a lowly pack of bipedal strangers, dare challenge my magnificent self?!
+48||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 걸음을 뗄 때마다, 온몸에 새기도록!|Remember this pain with every step you take!
+49||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p1.json] 퇴거!|Expulsed!
+50||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 떨어져.|Go away.
+51||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 저리 비켜.|Out of my way.
+52||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 흙으로,|Go back...
+53||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 돌아가.|... to the dirt.
+54||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 다가오지마…|Don't get any closer...
+55||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 도와줄게.|I'll help you.
+56||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 아픈 건 싫어.|I don't want you to get hurt.
+57||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 아프지 마.|Don't get hurt.
+58||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 이젠 괜찮아.|You're all right now.
+59||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 저물면 안 돼.|Don't go down.
+60||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 이방인들은 강해…|The strangers are strong...
+61||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 그러니까…|I learned from them.
+62||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 이방인에게 배운 나도 강해.|So I'm strong, too.
+63||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 멈출 수 없어.|You can't stop me.
+65||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 더 위로 가야해.|... climb higher.
+66||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 더 멀리.|Farther away.
+67||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 피크(pique)|Pique.
+68||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 아프게 하는 것 밖에… 방법이 없었던 걸까?|Is hurting each other... really the only way?
+69||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 소다… 이제는 못먹겠지…|The soda... I guess I can't have it anymore...
+70||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] …욕심으로 가득한 눈이야. 저자는 나를 따르지 않아.|... Eyes full of greed. This one isn't my follower.
+71||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 나 때문에 우는 거야…? 내가 꼬무리를… 아프게 해서…?|Are you crying because of me...? Because I... hurt Wriggley...?
+72||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 아… 더 이상 플로어 매니저라는 역할 따위에 욕심을 감추지 않을 거예요. 욕망 실현.|Ah... Won't let the responsibilities of the Floor Manager hinder my greed anymore. DESIRE ACTUALIZING.
+73||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 모든 재고를 방출할 거예요. 작업 가속.|Time to release the full stock. ACCELERATING WORK SPEED.
+74||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 일할 시간이에요. 죄수 배치.|Time to get to work. PRISONERS ASSIGNED.
+75||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 재수감.|RE-INCARCERATED.
+76||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 모두 나오세요. 인력 충원.|Come out, everyone. PERSONNEL REPLENISHMENT.
+77||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 규정 위반 확인.|REGULATORY VIOLATION CONFIRMED.
+78||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 기존 소유자의 심장이 더 이상 뛰지 않네요. 소유권 이전.|The previous owner's heart has ceased beating. OWNERSHIP TRANSFERRED.
+79||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 르루주들이 만들어낸 거짓 우상의 베일을 벗겨내겠노라.|I shall draw back the veil that shroudeth the Rouges' false idol.
+80||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 신역 선포. 찬란히 빛나리라.|Behold, I proclaim this land a hallowed sanctum. Radiant shall it shine.
+81||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 질서대로 행하라.|Act ye as order commandeth.
+82||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 심판 받으라.|Judgment upon thee.
+83||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 여전히… 그 끔찍한 변화를 지지하려는 건가.|Thou wouldst still lend thy support to that abhorrent change?
+84||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 규율을 지켜라. 서약을 이행하라.|Thou shalt uphold the rule.\nThou shalt fulfill thy oath.
+85||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 신께서 이르시되|And God spake:
+86||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 빛을 따르라.|Thou shalt follow the light.
+87||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 검은 신의 뜻을 받들어, 응징하리라!|By the will of the Obsidian God,\nI shall bring His vengeance upon thee!
+89||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 묵시하라.|Witness ye in silence.
+90||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 못을 세우리라.|I shall set the nail upright.
+91||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 마침내 무엇도 탄생하지 않고, 무엇도 고갈되지 않을 터. 백화점에… 영원이 찾아오겠군.|At last, naught shall be born, nor aught be depleted. Eternity shall come... unto the department store.
+92||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 쿠레(courez)|Courez.
+93||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 퓌조(fuseaux)|Fuseaux.
+94||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 르프랑(Reprends)|Reprends.
+95||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 엉켜버린 것도.|Bring to me the entangled,
+96||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 두꺼운 것도.|the robust...
+97||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 모두 꿰매어줄게.|and I'll sew them all up.
+98||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 생트르(Cintre).|Cintre.
+99||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 피크(Pique)!|Pique!

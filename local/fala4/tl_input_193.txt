@@ -1,0 +1,96 @@
+18779||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 당신에겐… 향기가 나요. 상류층 고객의 향이…|You carry... a fragrance. The scent of a customer of high Prestige...
+18780||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 내가…?|Me...?
+18781||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …우등 고객 접대 필요.|... PRIORITY HOSPITALITY REQUIRED.
+18782||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <그냥 돈냄새를 맡은 상인 같기도 하고…>|<Maybe it just smells a fat wallet...>
+18783||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 무슨 가죽이 필요하신 걸까요? 이렇게 ‘바닥’까지 내려오시다니, 급해도 한참은 급한 일인 거겠죠? 급행 의뢰, 할증 필요.|Looking for a particular hide? Coming all the way down to the "bottom" means you're in a rush, yes? RUSH ORDER. SURCHARGE REQUIRED.
+18785||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 알겠네요, 고객은 옷을 맞춤제작하시려는 거군요.|Understood. You require bespoke attire.
+18786||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 대상… 확인.|Intended wearer... confirmed.
+18787||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그저 호기심을 충족시키고 있는 것뿐일지도 모르지 않는가.|It may merely be indulging its curiosity.
+18788||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 욕망보다는 논리적인 사고 영역을 전개하는군요. 마네킹일 확률 부분 감소.|Logical cognition taking priority over desire. MANNEQUIN CLASSIFICATION UNLIKELY.
+18789||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고래가 뭐야?|What's a Whale?
+18790||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …고래에 대해 설명하라고요? 한 시간 속성 설명이 있고 열두 시간 속성 강의가 있는데…|... You want me to explain Whales? There's the 1-hour crash course, or the 12-hour crash lecture if you're feeling brave...
+18791||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 장난이었어요, 다음에 이야기해 드릴게요, 다음에…|That was a joke. I'll give you chapter and verse another time. Another time...
+18792||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 다음이 언제야?|When is "another time"?
+18793||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 백화점에는 고래가 없어?|Are there no Whales here in the department store?
+18794||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 알겠군요. 알겠네요. 관찰완료.|Understood. Understanding verified. OBSERVATION CLOSED.
+18795||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그것이 잔뜩 숙이면서 얼굴을 맞춘 건… 뿌이였다.|The being bent lower still, bringing its face level not with any of us... but with Pwie.
+18796||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고객들은 곧 위층으로 떠날 존재고 이곳엔 오래 머무르지 않을 거죠. 이방인, 정체 파악됨.|Accompanying customers are temporary entities expected to return upstairs. LONG-TERM RESIDENCY IMPROBABLE. STRANGER CLASSIFICATION CONFIRMED.
+18797||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 백화점 여기저기. 구석구석.|Scattered throughout the department store. Every corner.
+18798||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 설마… 백화점 구석구석을 우리가 다 살펴보아야 한다는 소리인가요?|You can't seriously mean we have to search every nook and cranny of the department store ourselves.
+18799||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그럴 리가. 고객이 백화점을 전부 살펴보는 것은 불가능해요. 백화점은 언제나 변하고 되돌아오죠.|Of course not. No customer could search the entire department store. It is always changing and returning.
+18801||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 혹여… 그대 또한 … 직접 보고 싶지 않은가? 황금가죽들로 만들어진 황금가죽 옷을 말이오.|Perhaps... you, too, wish to behold such a work with your own eyes? A Golden Hide garment woven from many sheets of Golden Hide.
+18802||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 옷을 사랑하는 탐구자라면, 자연스러운 현상이겠소만…|For an inquiring soul with a passion for the sartorial arts, such a desire would be only natural...
+18803||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 음, 일리있는 말. 황금가죽 옷, 못 본지 아주 오랜 시간이 지났고 앞으로도 못 볼 수도 있죠. 안타까움과 기대감의 교차.|Hm. The proposal has merit. Golden Hide garments have been absent for many seasons and may never be available again. REGRET AND ANTICIPATION INTERSECT.
+18804||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 또한 그대 정도면… 어떤 황금가죽들을 가져와야 하는지 정도는… 알 수 있지 않겠소?|Moreover, one possessing your seasoned eye... should surely know which Golden Hides must be gathered... would you not?
+18805||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이곳에서 평생을 가죽만 만진 전문가 아닌가?|Are you not a professional who spent a lifetime in this trade, with hide ever beneath your hands?
+18806||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 전문가라는 말은 마음에 드는 군요, 도전욕구 자극.|I like how you call me a "professional." AMBITION DRIVE STIMULATED.
+18807||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 저는 이방인들의 존재가 궁금해요. 길 잃은 존재를 본래 자리에 돌려주는 역할, 그게 이방인인가? 의문 생성.|I am curious as to the nature of the strangers' existence. To return a lost being to their original position: the strangers' lot? NEW QUERY FORMED.
+18808||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 어떤 황금가죽을 가져와야 하는지, 백화점에 잔존해 있는 황금가죽을 관측해보도록 하겠습니다.|I will scan the department store's remaining Golden Hides and determine the specimens required for this commission.
+18809||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 다행이네요. 자칫하다간 영원히 백화점을 돌아다닐 처지가 되었을 수도…|That's a relief. For a moment, I thought we had to wander around this whole place forever...
+18810||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 우리의 존재 의의는 우리도 모르는 것이오…|Even we who bear our existence cannot say where its compass truly points...
+18811||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그러면… 당신이… 옷을 만들어 주시나요? 저희가 사정이 있어서 눈알들을 막 그렇게 많이는 지급은 못하거든요…|Then... are you the one who can make the outfit? We have a budget, but we are not exactly made of eyeballs, so... we can't pay much.
+18812||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 눈알은 중요치 않죠. 중요한 건 재료니까.|Eyeballs are incidental. The material is what is important.
+18813||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 황금가죽 옷을 만들기 위해서는 많은 황금가죽이 필요해요. 하지만 저희에게는 남은 것이 없어요. 재고 소진.|A Golden Hide garment requires a large amount of Golden Hide, but we have none left. STOCK DEPLETED.
+18814||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …예전에는 이런 고급주문들도 많아서 신나는 나날이었죠. 실망감 표출.|... We used to receive many premium commissions like this. Those were the exciting days. DISAPPOINTMENT EXPRESSED.
+18815||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 예전에는 많았어?|There used to be a lot?
+18816||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그럼요. 정말 오래전 시즌이라, 이제 기억도 안나지만… 그 때는 이곳에도 정말 많은 황금가죽이 있었죠. 풍요의 시기.|Indeed. It was so many seasons ago that I barely remember... but this floor once held a great deal of Golden Hide. AGE OF ABUNDANCE.
+18817||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그것들은 전부 어디에 있는데?|Where did all of it go?
+18818||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 흐으으읍…|Hrrrngh...!
+18819||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 기합을 내지르자 그것의 등딱지에서부터 박혀 있는 각종 얼굴들이 일제히 사라졌다.|At the entity's cry of exertion, several of the faces embedded across the carapace vanished at once.
+18820||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 보여요, 보여… 포착 완료.|I can see it... TARGET LOCKED.
+18821||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고객들이 모아야 하는 황금가죽들, 우리가 만들어야 하는 황금가죽들… 우리의 손을 떠나간 황금가죽들…|Golden Hides the customers must gather. Golden Hides we must fashion. Golden Hides that slipped from our hands...
+18822||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 전부 찾았어요, 확인 완료.|Every one of them is located. TRAIL CONFIRMED.
+18823||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고객들이 지나왔던 길에서부터 교차된 황금가죽들만을 가져와야 완성할 수 있어요. 퍼즐의 완성.|Completion requires Golden Hides to intersect the customers' prior routes. PUZZLE PIECED.
+18824||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 등딱지에서 사라졌던 얼굴들은 할 일이 끝났는지 다시 각자의 자리로 돌아왔다.|Their task apparently complete, the vanished faces slid back into their individual sockets across the carapace.
+18825||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가죽의 위치를 이야기해주도록 할게요. 기억할 수 있나요? 이방인의 지능 의심.|I will tell you the location of the Hides. You can remember things, can't you? DOUBTING STRANGERS' INTELLIGENCE.
+18826||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아 물론, 눈알들은 별도예요. 장부 갱신.|Of course, the eyeballs are a separate matter. UPDATE LEDGER.
+18827||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 나열해주면 기억하도록 하겠다.|List the locations. I will remember them.
+18829||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그것은 우리가 구해줘야 하는 황금가죽의 목록들을 전부 말해주었다.|The being recited the complete list of Golden Hides we would have to obtain.
+18830||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그러니까… 전부 우리가 한 번씩 만났거나 거쳐간 자들로부터 얻어야 한다는 거죠?|So... the Golden Hide has to come from someone we've already met or passed along the way?
+18831||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 네, 그게 중요한 거예요. 고객들의 손길이 닿거나 흔적이 남아있는 황금가죽들을 엮어야 맞춤형 옷이 만들어지는 거죠.|Yes, that is the crucial part. A bespoke garment must be made from Hides touched by the customers or marked by their passage.
+18832||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 몇몇 자들은 자신의 황금가죽을… 쉽게 내주지는 않을 것 같소만…|Some among those listed... seem unlikely to part with their Golden Hide without a struggle.
+18833||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그것은 이방인들이 극복해야 할 문제죠. 황금가죽은 쟁취로 얻어야 하는 백화점의 가치 니까요. 고단한 여정 예상.|That problem is for the strangers to overcome. The Golden Hide is a valuable resource obtained through conquest in this department store. ARDUOUS JOURNEY ANTICIPATED.
+18834||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 제가 말한 황금가죽들을 착실히 구해온다면 저희 아이들이 옷을 지어줄 거예요. 역할 분담.|Bring every Golden Hide I named, and my children will make the garment. WORKLOAD DIVISION.
+18835||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 어쨌든 고마워요… 보답도 없이 이런 도움을… 지상에서는 다들 눈알에만 혈안이 되어서…|In any case, thanks... This is a lot of help without asking for anything. Everyone upstairs was obsessed with eyeballs, you know...
+18836||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 공정은 끝났어요.|Processing completed.
+18838||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 여기는 태닝실. 가죽이 썩지 않게 무두질하는 곳이다.|This is the tannery. It processes various treatments to leather to prevent it from rotting.
+18840||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 에스컬레이터 고무 손잡이에 손을 얹었을 때… 걸음 속도에 완벽하게 맞아 떨어지며 매끄럽게 미끄러질 때…|... When, after placing my hand over the leather handrail of an escalator... the speed of the railing exactly matches my own...
+18841||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 상류층 고객들이 정말 황금가죽을 다 모아오셨네요. 감탄과 칭찬.|The upper-tier customers returned with every required Golden Hide. AMAZEMENT AND COMPLIMENTS.
+18842||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 치수는 테너에게, 저쪽 방에 있어요. 친절 안내.|Tanner performs the fittings. You can find her in the room over there. KINDLY DIRECTED.
+18843||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 나는 모으는 과정에 함께하지 못하였으니… 칭찬은 다른 이들에게 전해드리겠네.|I bore no part in the gathering... I shall kindly relay that praise at the feet of those who carried the burden.
+18844||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그럼 이제 황금가죽 옷을 만들어 주시는 건가요?|Now you can make the Golden Hide outfit, right?
+18845||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 황금가죽 옷은 그렇게 순식간에 만들 수 있는 것이 아니에요. 상식 부족.|Golden Hide couture cannot be produced at the snap of a finger. CUSTOMER COMMON SENSE DEFICIENT.
+18846||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 재료를 구해오는 게 다가 아니었다는 거예요?|You mean collecting the materials was not the only errand?
+18847||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 지금까지 맞춤형 옷을 한 번도 지으신 적이 없었나요? 이해 불가.|Have the customers never commissioned bespoke clothing? INCOMPREHENSION RISING.
+18848||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …없었죠. 둥지에서 맞춤형 양복 한 벌을 지으려면 얼마나 많은 돈이 드는데…|... No, we haven't. Do you have any idea how much a single bespoke suit costs inside a Nest?
+18849||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …생각만큼 상류층의 고객들은 아닌 것 같군요. 평가 절하.|... Customers appear less affluent than they initially appeared. STATUS DOWNGRADED.
+18850||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …점점 솔직해지는 느낌이구료…|... He appears to grow more candid with each word traded...
+18851||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가죽들은 다 공정을 거치고 만들어져요. 절차 준수. 일단 치수부터 재야 하죠. 실측 우선.|All hides pass through processing stages. Process observation. The first step is to get their size. PRACTICAL MEASUREMENTS PRIORITIZED.
+18852||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자, 끝났습니다.|There. It is done.
+18853||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 오늘따라 유난스럽게도 고객들이 많이 모이더군요.|Quite a crowd gathered for today's fitting.
+18854||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뒤따를 뿐이었음에도… 숨이 막힐 만큼 빽빽한 행렬이었소.|Though we did naught but follow behind... the press of bodies seemed to steal the breath from us.
+18855||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 설마… 매 공정마다 이짓을 해야하는 건 아니겠죠?|We don't have to do this for every single stage of the process, do we?
+18856||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이제 패턴 준비는 끝났으니 절삭과 봉제만 하면 옷은 완성이 됩니다.|The pattern is complete. One pass beneath the needle, with some stitching and cutting, and the garment will be finished.
+18857||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 절삭실로 가서 기계를 작동시켜 주세요. 가죽을 노리는 고객들은… 항상 조심하시고요.|Head to the Cutting Room and start up the machine. And keep an eye out for customers who are after the hide. They can get... a bit violent.
+18858||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 절삭이 다 끝나면 바깥으로 나가 키우는 자에게 봉제를 맡기시면 됩니다.|Once all the pieces are cut, take them outside and have the Nurturer stitch them up.
+18859||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 저희는 몸에 맞게 옷을 짓죠. 모든 결점을 보완하고 장점을 살리는. 여타 기성복과는 다릅니다.|We build the garment around the body itself, correcting every flaw and letting every strength take the stage. Ready-to-wear is merely a compromise cut by the dozen.
+18860||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 노치드라펠, 피크드라펠, 세미피크드라펠, 피시마우스 중에는 어떤 걸 택하시겠어요?|Now, which type of lapel suits your preference? Notched? Peak? Semi-peak? Or perhaps fish mouth?
+18861||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그게 뭐…|What are tho—
+18862||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <안 돼! 이러다가 걸리는 시간이 어마어마해질 것 같으니까 빨리 끊어줘.>|<Nope, nope! Time out! It's gonna take all day at this rate. Let's skip the lecture and get to crafting.>
+18863||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 알아서 잘. 부탁한다.|Use your judgment. We'll leave it to you.
+18864||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …! 알아서, 잘… 테일러 메이드…!|...! My judgment...! That means... tailor-made...!
+18865||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 알겠습니다. 저의 모든 재능을 불태워서 알아서 모든 걸 완벽하게 만들어드리죠.|Very well. I will put every talent I possess to the needle and leave no detail wanting.
+18866||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자, 체촌하겠습니다. 이쪽으로.|Now, the measurements. This way, please.
+18867||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그자는 가지고 있는 줄자로 현란한 몸짓을 보이며 뿌이의 치수를 재기 시작했다.|With a series of dazzling flourishes, the Tanner sent the measuring tape spinning around Pwie and began taking their measurements.
+18868||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 꼬무리도 재.|Measure Wriggley too.
+18869||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …그렇군요. 고객님은 앞으로…|... I understand now. It would seem, dear customer, all that's left for you...
+18870||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 무럭무럭… 자랄 일만 남았군요.|... is to grow into the garment... and beyond.
+18871||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 지금부터 바빠지실 겁니다.|You will have your hands full from here on.
+18872||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이런 귀한 가죽을 공정할 때는 항상… 한탕을 노리는 무례한 가죽들이 모여들곤 하지요.|Whenever hide this valuable enters processing... rude scraps gather, hoping to make a quick fortune out of it.
+18873||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 제대로 무두질 되지 못한 가죽의 찌꺼기들…|Offcuts from hides that were never properly tanned...
+18874||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 공정 중, 방해받지 않도록 잘 부탁드리겠습니다.|Keep them from laying so much as a finger on the work, please.
+18875||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <뫼르소! 곧 사방에서 몰려올 것 같아!>|<Meursault! We've got company closing in from every direction!>
+18876||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 인지했습니다, 관리자님.|Acknowledged, Manager.
+18878||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 반갑습니다, 이방인들.|A pleasure to have you, strangers.
+18879||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 맞춤형 황금가죽 옷을 제작하기 위해 찾아오셨군요.|You have come to commission a bespoke garment of Golden Hide, yes?
+18880||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 옷을 입으실 분은?|May I ask who will be wearing it?

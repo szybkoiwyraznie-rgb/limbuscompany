@@ -1,0 +1,96 @@
+17216||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 우리는 이미 고치에 대한 정보를 알고 있다. 그러니…|But this time, we already know where the cocoon is. Which means...
+17217||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <…무시하고, 피식자의 사유를 챙기자.>|<... Let's leave them alone and collect the Ruminations of the Prey.>
+17218||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 무시한다… 좋았어… 이대로 눈 마주치지마…|They're ignoring us... Good... Keep your eyes down. Don't give them a reason to look back...
+17219||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 빠, 빨리 꺼졌으면…|J-just hurry up and go away...
+17220||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이번에는 연이은 질문 세례를 받지 않기 위해 귓속말로 속삭이며…|To spare myself another volley of identical questions, I lowered my voice to a whisper...
+17221||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 웅성거리는 고객들을 그대로 지나쳐서 걸어갔다.|... And led everyone straight past the residents muttering in our wake.
+17222||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 알겠습니다.|Understood.
+17223||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뭘 다들 저렇게 퍼먹고 있는 거야?|What are they all shoveling into their mouths like that?
+17224||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 정육 소다다.|It is Meat Soda.
+17225||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 정육 소다가 뭐야?|"Meat Soda"?
+17226||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …오직 허기를 채우기 위해 먹는 가장 저렴한 식품. 기억 속의 맛을 재현해주는… 것이다.|... The cheapest available foodstuff, consumed solely to suppress hunger. It recreates... flavors retained in the consumer's memory.
+17227||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 늘어난 물음표로 인해 뫼르소가 평소보다 조금 더 피곤해 보인 듯했다.|Meursault somehow looked a fraction more tired than usual as the question marks kept on multiplying.
+17228||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <그러고 보니 이곳에서 뿌이가 먹을만한 걸 좀 구할 수는 없을까?>|<Maybe we can find something down here that Pwie can actually eat?>
+17229||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <화장실은 분위기가 어때?>|<How are things in the restroom?>
+17230||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뭐, 똑같지 않겠어? 돈키호테가 모험담 늘어 놓고 있고… 여기 뿌이 이야기도 하고…|Same as ever, I'd say. Don Quixote's regaling everyone with her grand adventures... telling them all about Pwie here, too...
+17231||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …그런데 뿌이 씨는 처음 보았을 때보다 더…|Compared to when we first encountered them, Pwie has become...
+17232||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <더?>|<Become?>
+17233||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …가까워졌군요.|... Closer to you.
+17234||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 가까워졌다는 게 거리를 말하는 건지 사이를 말하는 건지는 모르겠지만…|I could not tell whether Faust meant the physical distance between us, or our camaraderie, so to speak...
+17235||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <응, 그렇게 되었어.>|<Yeah. I suppose we have.>
+17236||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그래, 그럼… 이 멤버로 지하 어딘가에 있는 가죽관을 찾아야 하는 건가?|All right, then... So this lineup's supposed to track down the Leather Hall somewhere on the basement floors, huh?
+17237||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <응, 뿌이… 에게 옷을 만들어줘야 해.>|<Right. We need to have clothes made for Pwie...>
+17238||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <왜 그렇게 쳐다보는 거야?>|<Why are you looking at me like that?>
+17239||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 확신을 가지고 움직이시는 것으로 보여서요.|You appear to be proceeding with conviction.
+17240||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이렇게 해야지만 저희가 작전대로 나아갈 수 있다 라는… 분명한 확신이 있으시군요.|You are <i>confident</i> that this course of action—and no other—is the necessary one for the mission to advance according to plan.
+17241||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수감자들에게 언제까지 비밀로 할 수 있을진 모르겠지만…|I didn't know how much longer I could continue hiding the truth from the Sinners...
+17242||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 당장은 재고 정리에 관한 사실을 알리지 않는 것이 좋을 것 같다는 판단엔 변함이 없다.|But even so, my judgment remained unchanged: it was better not to tell them about the Liquidation for the time being.
+17243||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이미 저마다의 방식으로 눈치를 챈 수감자도 있는 것 같지만… 아마도, 뫼르소와 나만큼 분명하게 떠올릴 수는 없을 것이다.|Some Sinners seemed to have caught on to it in their own ways, but... I'd say none of them could recall it with the same terrible clarity as Meursault and I.
+17244||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 꺼림칙한 기분도 기분이지만… 화장실에 있는 그자가 경고하듯 흘린 말의 의미를 알아내기 전까지는…|Aside from the gnawing unease in my gut, there was also that cryptic warning that the lady in the restroom gave us—until I fully understand what she meant, I can't share this with the rest of the team.
+17245||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <지하 2층으로 내려가려면… 에스컬레이터를 뫼르소가 정의해주는 것도 필요했지만…>|<We need Meursault to "define" the escalator again to go down to B2. But I doubt that's all there is to it.>
+17246||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 예, 중앙으로 나아가 빛을 내었던 그 고치… 또한 필요할 것입니다.|... No, Manager. We will also require the cocoon... that advanced toward the center and emitted light.
+17247||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 반복이 되는 것에 대해 유일한 장점은… 정답을 빠르게 알 수 있다는 것이었다.|The sole benefit of running in a loop... was that I could get my bearings far more quickly than I would've been able to otherwise.
+17248||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …고치가 뭐야?|... What's a cocoon?
+17249||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 고치가 뭐야, 관리자 양반?|Yeah, what's this "cocoon" supposed to mean, Manager Bud?
+17250||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <질문이 이중으로 들어오고 있어…>|<Now I'm getting the same question in stereo...>
+17251||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …너, 너무 구체적인 정보인데…? 허어… 파우스트 씨도 이 정도로 정확하게 짚어준 적은 없었던 것 같은데 말이지.|... Th-that's awfully precise, isn't it? Huh. I don't think even Frau Faust has ever dropped a location on us down to the compass point like that.
+17252||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 파우스트와는 명백히 다른 방식이기에 비교하는 것은 불합리합니다. 이것은 오히려…|The two methods are categorically dissimilar, so comparing this to Faust's process is irrational. A more accurate characterization would be...
+17253||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 지하로 계속 내려가기 위한 방법이다.|It is the mechanism required for us to continue our descent belowground.
+17254||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그렇구만… 그건 위층에서 얻은 정보인 거야?|Right... And this is something you learned up on one of the higher floors?
+17255||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <뭐… 그런 셈이지.>|<Well... more or less.>
+17256||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …그런데 벌레를 찾는 거랑 에스컬레이터를 작동시키는 거랑 무슨 상관이야?|... I see. But what's a bug got to do with getting an escalator running?
+17257||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …나만 궁금한 거야? 그래?|... I'm not the only one wondering that, am I? Am I?
+17258||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 위치는 알고 있다.|I know where it is located.
+17259||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 에스컬레이터를 바라본 방향을 기준으로, 남동향에 있는 정육점에 위치한 창고 안에 들어 있을 것이다.|Taking the relative location of the escalator we are facing as our point of reference, it should be stored in the butcher shop's storage area to the southeast.
+17260||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <그, 그만큼 열심히 수소문했다는 거지.>|<H-he just did a very thorough job asking around. That's all.>
+17261||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 5층에서 마무리하고 쉬는 줄 알았더니 곧바로 불려나왔구만, 쩝.|Felt lucky for a minute there; thought I'd get to rest after breezing through the fifth floor... So much for that, huh? Ah, well.
+17262||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 화장실로 금방 돌아오니까 다들 원성이 자자했다고. 고생만 하는 수감자 따로 있냐면서 말이지…|Everyone raised hell when we popped right back into the restroom so soon after leaving. Something about uneven workload, floor lottery, and all that...
+17263||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이상씨는 오히려 너무 한 게 없다고 풀이 죽어있더만. 핫.|And meanwhile, Yi Sang was looking downright glum because he felt he hadn't done enough. Hah.
+17264||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …라는 건 부주방장 같은 거야. 그러니까 요리사 중에서 두 번째인 거지.|... Why did I just repeat that? Yeah, Sous Chef is like an assistant head cook. Second-highest chef in the kitchen, basically.
+17265||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이거 의외로 중독성 있구만. 아는 것도 질문할 뻔했어.|Huh. This question-and-answer routine's catching. Nearly asked about something I already knew.
+17266||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 우리는 황금고치를 찾고 있다. 부셰의 고기 창고에 있는 특산품이지.|We are searching for the Golden Cocoon, a specialty item kept in Boucher's meat storage.
+17267||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 하지만 부셰의 고기 창고에 있는 건, 모두 비매품이라는 거예요.|But ingredients in Boucher's meat storage are not for sale, you hear?
+17268||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 모두 소다를 만드는 재료로 쓰여야한다는 거예요.|Every last bit of them have to go into the soda, you hear?
+17269||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 씁. 우리도 그게 엄청 필요하긴 한데… 뭔가 방법 없나?|Tch. We need it pretty badly ourselves... Any way we can work something out?
+17270||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 으으음… 대체할 재료가 있다면 교환해 줄지도 모르는 거예요.|Hmm... Maybe if you bring the right substitute, you can barter for it, you hear?
+17271||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 너희들이 대체할 수 있는지 보는 거예요.|Let's see if you can be the right substitute, you hear?
+17273||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 음… 우선 당신은 옆으로 비키는 거예요. 먹물 머리통은 많이 들어가서 흔해빠졌다는 거예요.|Hmm... Certainly not you, you hear? Squid-ink heads come in all the time; they're dime-a-dozen, you hear?
+17274||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이건 너무 질겨보이는 식재료인 거예요.|This one looks much too tough to cook, you hear?
+17275||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이쪽은… 보기 드문 식재료긴 하지만, 이미 늘어진 시간을 잔뜩 넣어놔서 필요 없다는 거예요.|And this one's... rare, but our brew doesn't need more stretched time, you hear?
+17276||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 우리 주변을 돌던 수셰프는 냄새를 맡듯 킁킁거리며, 그레고르의 앞에 멈춰서나 싶더니… 그대로 지나쳐 뿌이의 주변을 맴돌기 시작했다.|The Sous Chef circled us, sniffed the air, then seemed to briefly pause in front of Gregor... before making her way to Pwie.
+17277||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …뭐야?|... What?
+17278||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 킁킁…|*sniff* *sniff*
+17279||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 킁킁킁…|*sniff* *sniff*
+17280||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 크흥…|Hrrrnnn...
+17281||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …간지러.|... It tickles.
+17282||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 감당 못할 욕심으로 만들어진 거예요. 이건…|Whoever made this, they made it with a greed far too big for anyone, you hear? This is...
+17283||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <뿌이를… 재료로… 쓰고 싶어 하는 건가?>|<Does she want to... use Pwie as an ingredient?>
+17284||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 맙소사, 이건…|Yikes, this is...
+17285||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이건… 기여해서는 안 되는 재료인 거예요. 이런 재료가 우리의 소다에 들어간다면… 큰일 날 거예요.|You can't <i>ever</i> contribute this ingredient, you hear? If something like this were chucked into our soda... the consequences would be a <i>BIG</i> no-no, you hear?
+17286||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 재료가 되어선 안 되는 거예요. 지하에 있어서는 안 되는 거예요.|You can't become an ingredient, you hear? You shouldn't even be down here, you hear?!
+17287||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 큰일난 거예요… 큰일날 거예요…! 너희들 어떡할 거예요!|This is a disaster, you hear?! Something really bad's gonna happen, you hear?! I'm saying what have you done, you hear?!
+17288||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <우리를 공격하려는 것 같은데…>|<Looks like she's about to attack us...>
+17289||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이봐, 정신 차려…|Hey, snap out of it...
+17290||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 니들은 뭐인 거예요?|What are you people supposed to be, you hear?
+17291||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 허, 쪼그만 인형이 말도 다 하네. 이것도 그 마네킹인가 뭔가 하는 건가?|Huh. A talking doll... Are you another one of those Mannequin things?
+17292||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 나는 인형이 아니라, 수셰프인 거예요.|I am not a doll, you hear?! I am the Sous Chef, you hear?
+17293||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수셰프?|"Sous Chef"?
+17294||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수셰프…?|"Sous Chef"?
+17295||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이방인이 그 이름을 어떻게 아는 거예요?|I'm surprised a stranger knows that name, you hear?
+17296||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 피식자의 사유는 부셰님이 가장 좋아하는 재료… 인데.|The Ruminations of the Prey is Boucher's favorite ingredient... of all ingredients—
+17297||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 안다. 그리고 우리는 그것을 가지고 있다.|We know. And we have it in our possession.
+17298||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 추릅…|*slurp*
+17299||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이름만 들어도 침이 나오는 거예요.|Just hearing the name makes my mouth water, you hear?
+17300||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그러니까 너희, 따라오라는 거예요!|All of you, follow me, you hear?!
+17301||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 헉… 헉… 오랜만에… 뛰었다는 거예요.|*huff* *huff* It's been ages... since I last had to run, you hear?
+17302||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 우리는 그자가 숨이 정리될 때까지 조금 기다려줬다.|We politely waited for the Sous Chef to finish wrestling her breath back under control.
+17303||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그만… 그만하는 거예요! 아프다는 거예요!|Time... Time out, you hear?! That hurts, you hear?!
+17304||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 거… 알고 있겠지만, 먼저 달려든 건 우리가 아니라 당신이라고.|Look... you're the one who attacked us first. You know that.
+17305||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그치만… 저 재료만큼은 어디에도 섞이면 안 된다는 거예요…|But still... that ingredient cannot be allowed to mix into anything, you hear...?
+17306||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그렇게 강조 안해도… 재료로 쓸 생각은 추호도 없거든…|You can stop hammering that point in. We never had the slightest intention of turning the kid into food...
+17307||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …이야기를 이어하자면, 황금고치를 주는 대가로 우리는 피식자의 사유를 기여할 수 있다.|... Returning to the interrupted negotiation: in exchange for the Golden Cocoon, we can contribute the Ruminations of the Prey.
+17308||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 또, 똑바로 했다는 거예요… 이상하다는 거예요…|I... I did keep a proper track, you hear...? Something is just strange, you hear?
+17309||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 소다가 곡할 노릇이라는 거예요… 벽이라도 통과한 게 아니라면 못 빠져나간다는 거예요…|Strange enough to spook the fizz off the soda, you hear...? There aren't any ways out of the storage unless you can pass through the walls, you hear?
+17310||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그치만… 빠져나갔어… 그럼 벽 통과하는 거야…?|But... it did get out... Does that mean it can pass through walls...?
+17311||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 모른다는 거예요…|I have no idea, you hear...?
+17312||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 으으으… 부셰가 이 사실을 알면 저 다시 수셰프로 강등될 수도 있다는 거예요. 그러면 또다시 저 소다의 가장 윗부분만 퍼먹으면서 불쌍하게 버텨야 한다는 거예요…|*whimper* If Boucher ever finds out... I'm going to get demoted to Sous Chef from Sous Chef, you hear? Then I'll be scraping by on watery soda skimmed from the top layer again, you hear...?

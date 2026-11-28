@@ -1,0 +1,96 @@
+12804||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 나는, 우리는, 이 순간을 이미 경험한 적이 있다.|I—and all of us, by extension—have experienced this already.
+12805||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 너희… 이번에도 운이 정말 좋았잖아!|You people are always so awfully lucky, aren't you?
+12806||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이 정도로 뭉개진 거면 어림잡아 6층에서 떨어진 것 같거든? 아마 여기는 한동안 명당으로 소문날 거야.|Look at that gory mess! Must've fallen from the sixth floor, give or take. This pile'll make this spot famous as a prime drop zone for a while.
+12807||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …지금 우리에게 말하는 것이오?|... Might you be talking to us?
+12808||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 왜 이제야 왔어? 내가 얼마나 목이 빠지게 기다렸는데.|What took you so long? I've been anxiously waiting for you 'round the clock!
+12809||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 기다려? 우릴 왜…|For us? Why the hell would you...?
+12810||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저기, 그보다… 방금 사람이 떨어진 거 아니에요? 다들 무엇을 줍고 있는 거예요?|In any case, aren't those... <i>human bodies</i> that just fell from above...? And what're those people even scavenging...?
+12811||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 사람이라니! 말을 너무 귀엽게 한다. 고객이잖아, 고객.|Human, she says! Oh, you're positively whimsical, aren't you? Those were <i>customers.</i>
+12812||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 쿵! 하고 떨어지는 소리를 들었으니까 뭐라도 주워가려고 몰려온 거지. 다들 팍팍하잖아.|As for the scavengers, they heard a <i>thud</i>, so they've gathered up to try to get anything they can. Life's pretty rough in here, you know.
+12813||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이럴 수가…|Surprise, surprise...
+12814||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 사라졌네요.|She's gone.
+12815||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 일단 앞으로… 가 봐야 하나?|Should we... keep movin' for now? Straight ahead?
+12816||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 관리자님, 우선 화장실로 복귀 후 재정비하는 것이 어떻습니까.|Executive Manager. I recommend returning to the restroom to regroup and reorganize.
+12817||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 본인은… 로쟈 군의 의견대로 한시바삐 출발하는 것이 좋아보이네만…|I... assent to Young Rodya's counsel. Let us set forth with all haste, forsooth...
+12818||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <다친 곳도 없고… 재정비는 나중에 해도 괜찮을 것 같아.>|<No one's injured, right? I think we'll have time to reorganize later.>
+12819||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <로쟈 말대로, 일단 앞으로 가보자.>|<Let's keep going, like Rodya suggested.>
+12820||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그렇게 말하고 앞으로 가기 직전, 료슈가 곁으로 다가왔다.|Ryōshū came up to me as we were preparing to proceed.
+12821||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저놈도 알고 있군.|That woman knows, too.
+12823||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그것만으로도… 조금 안심됐어.>|<Thanks, that's enough assurance for me.>
+12825||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <료슈… 아까 전에도 그렇고 너도 기억하고 있는 거 맞지? 내 꿈이나 환각이 아니라…>|<So you remember too, huh? Everything that happened here—they weren't just a dream or an illusion. We were—>
+12826||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그래, 되돌아온 걸 거다. 하지만 시간이 비틀렸다기 보다는… 버려진다는 감각에 가깝나.|—rewound? Yes. But whatever happened didn't distort or twist the flow of time. It felt closer to... <i>discarding</i> time.
+12827||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 쯧. 더러운 기분이군.|Tsk. Feels like shit.
+12828||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그래도 다행이다… 나 말고도 기억을 가진 수감자가 또 있어서.>|<Well, glad to hear that I'm not the only Sinner who remembers all that, at least.>
+12829||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 후우… 시. 대. 네놈의 기대와 달리… 나는 어떤 기억도 가지고 있지 않다.|*puff* Then here's something that'll disappoint you, C.H.: I don't remember anything.
+12830||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그게 무슨 말이야…?>|<You don't...?>
+12831||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 나는 잘려나간 기억에 대한 단면을 보고 있을 뿐이다. 후우. 네가 기억을 가지고 있는 것과는 다르지.|I've only noticed the cross-sections of the memories that were severed away. *puff* It's different from <i>having</i> the memories like you.
+12832||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그래도… 네놈이 혼란스러운 그 이유가, 착각 때문이 아니라는 것만큼은 말해줄 수 있겠군. 분명 모두 무언가를 경험했던 것은 맞을 테지.|I can tell you this, though—your confusion isn't all in your head. <i>Something</i> happened, and we all experienced it. That's for certain.
+12833||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 왜? 화장실로 안내해줄 생각이 들었어?|What? Finally decided to show me to the restroom?
+12835||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 너희 남은 병들 있어? 아니면 남은 손바닥이라도 좋은데.|Got any empty bottles left? A spare palm would do, too.
+12836||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 미안, 둘 다 못 빌려줄 것 같은데… 하하…|I... don't think we have any empty bottles or... spare palms... Sorry... ha... ha...
+12837||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 큰일이네. 이번 시즌 신상을 사려면 눈알이 부족한데…|Damn. I don't have enough eyeballs for this season's new collection...
+12838||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그자는 초조한 듯 손톱을 물어뜯고 있다.|The customer gnaws anxiously at their fingernails.
+12840||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 유행이 끝나기 전에 피부파마 예약을 잡아서 얼마나 다행인지 몰라요. 피부결마다 레이어드해서 컬을 강조하면 다들 저한테서 시선을 떼지 못할 거라구요!|Thank goodness I booked my dermal perm before the trend died! Once they layer the curl into every ridge of my skin, nobody will be able to tear their eyes away from me!
+12841||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 거기 이방인들. 뭘 그렇게 빤히 봐? 시술 중에는 본다고 해도 내가 누군지 알지도 못할 텐데.|Strangers—stop checking me out. I'm halfway through my makeover treatment. You couldn't tell who I was even if you tried.
+12842||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아휴… 이래서 1층에 내려오기 싫었다니까. 그치만 어쩌겠어. 피부파마는 여기 1층에서만 받을 수 있고…|*sigh* This is why I hate coming down here. I suppose it can't be helped—the first floor is the only place that provides the service...
+12843||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그만 쳐다봐!|Stop staring at me!
+12844||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이번 유행이 빨리 지나가야 돼. 더 이상 폴카도트를 박아넣을 빈 공간도 없어.|This trend had better die soon. I don't have a single patch of bare skin left for another polka dot.
+12845||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 위층에서 떨어진 형체도 알아볼 수 없는 시체들이다.|A pile of unrecognizably mangled bodies that fell from one of the upper floors.
+12846||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 르카키들이 허겁지겁 황금가죽 찌꺼기와 눈알을 줍고 있다.|A scattered group of Le Kaki are busily scouring through the gore, pocketing what Golden Hide dregs and eyeballs they can get their hands on.
+12847||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …음?|…Hm?
+12848||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 잠깐만요. 다른 분들 어디 갔죠?|Hang on. Where'd everyone go?
+12849||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뒤에서 따라오고 있는 거 아냐? 길이 좀 구불구불하긴 했잖아~|Maybe they fell behind? I mean, the path here got pretty twisty, so...
+12850||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …그럴지도 모르겠네요. 잠시 확인하고 올게요.|... That might be the case. Let me go check.
+12851||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <아니, 확인하지 않아도 괜찮아, 이스마엘.>|<Don't trouble yourself, Ishmael.>
+12852||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <다들 화장실에 있어. 다 같이 농땡이치려고 돌아간 건 아닐 테고, 아마 이곳만의 규칙이나 현상에 휘말린 거겠지.>|<Everyone's back in the restroom—I checked. They wouldn't have doubled back just to loaf around in a situation like this, so I assume there's some rule or phenomenon peculiar to this place that dragged them all back in there.>
+12853||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아… 그런 거라면 나중에 화장실로 돌아가서 물어봐도 되겠네요.|Aha... Well, if that's the case, I'm sure we can catch up with them once we're back in the restroom.
+12854||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그래. 우선 뫼르소를 찾는 게 우선이니까.>|<Yeah. Our first priority is reuniting with Meursault.>
+12855||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <…어, 어떻게 됐어?>|<S-so... Were you able to find them?>
+12856||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 없어요… 한두 명도 아니고, 저희 빼고 전부 사라졌다니…|They're gone... And I don't mean that like we lost one or two people—everyone except us vanished into thin air.
+12857||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 에, 에이~ 장난치지말고 나와… 이런 거 하, 하나도 재미없다구!|C-come on~ Joke's over, everybody, come on out... Th-this isn't funny!
+12858||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <…어떻게 된 건진 모르겠지만, 너무 걱정 안해도 될 것 같아.>|<... I'm not sure what the issue is on their side, but I don't think it's anything to panic about.>
+12859||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아~ 그러네. 단테는 다들 어디로 간 건지 볼 수 있잖아! 다들 어디로 간 거야?|Oh! Right! Dante can see where everyone is. All right, where are the others?
+12860||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <…화장실에 있어. 나오려고 이것저것 시도하는 것 같은데, 나올 수가 없나 봐.>|<... They're in the restroom. Looks like they're trying all sorts of things to leave, but... not with much success.>
+12861||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이런 상황에서 농땡이치려고 돌아갔을 리는 없고… 이곳만의 규칙이나 현상에 휘말렸을지도 모르겠네요.|They wouldn't have doubled back just to loaf around in a situation like this. Maybe there's some rule or phenomenon peculiar to this place that dragged them all back to the restroom?
+12862||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <우선 뫼르소를 찾아보자. 화장실은… 조금 있다가도 괜찮을 테니까.>|<Let's go find Meursault first. The restroom issue can... probably wait a little longer.>
+12863||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <뫼르소, 역시 여기 있었구나.>|<There you are, Meursault! I knew you'd be here.>
+12864||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그렇구나… 초기화…>|<Right... A "reset"...>
+12865||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <만약 우리가 다른 선택을 한다면… 황금가지를 구하고 백화점을 나갈 방법을 찾을 수도 있는 걸까?>|<Okay, so now that we have a second chance... Do you think, if we were to make different choices this time around, we could secure the Golden Bough and escape the Grand Magasin?>
+12866||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 알 수 없습니다.|There is no way to know that at the present.
+12867||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 다만, 한 가지 변화는 존재합니다.|However, some things have carried over through the Liquidation.
+12868||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <어떤 건데?>|<Like what?>
+12869||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저희가 각 층의 매장에서 구매했던 것들은 전부 남아 있습니다.|Every item we have purchased from the shops on each floor.
+12870||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <눈알까지? 그건 다행이네.>|<The eyeballs, too? Good. At least we have that.>
+12871||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 또한… 이것도 있었습니다, 관리자님.|And... this as well, Manager.
+12872||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 단호하게 말한 뫼르소가 보여준 것은 황금빛으로 빛나는 살점 조각이었다.|With his usual, stoic cadence, Meursault produced a piece of torn flesh. It was wreathed in a golden glow.
+12873||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <생긴 게 왠지…>|<Kinda looks like...>
+12875||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <명품관에서 르루주들이 만들었던… 그것에서부터 나온 것 같아.>|<... a piece of that <i>thing</i> the Rouges created in the Luxury Hall. That must be where it's from.>
+12876||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그들이 요람이라 불렀던 것을 찢었을 때 나온 잔해의 일부 같습니다.|It is likely a vestige of what emerged when we tore through what they called "the Cradle."
+12877||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <… 음, 희미하게 박동도 뛰는 것 같은데…>|<... Um, it's faint, but I think it's beating. Like a heart...>
+12878||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뭐야, 무슨 이야기를 둘이서만 쑥덕쑥덕 거려?|Hey, hey! Whatcha two gossiping about over there?
+12879||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <아, 아니야… 만나서 반갑다는 말을 나누고 있었어.>|<N-no, we weren't gossiping. We were just... having a very normal reunion, y'know?>
+12880||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그렇지? 다시 보게 되어서 얼마나 반가운지 몰라, 뫼르소…>|<Right, Meursault? Aw, you have no idea how glad I am to see you again!>
+12881||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …예.|... Correct.
+12882||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 여전히 꺼림칙한 예감이 가시질 않으니, 당장은 숨겨두는 게 맞을 것 같다. 뫼르소도 눈치껏 납득한 것 같고.|We'd better keep this on the down low from the Sinners for now, at least until I can put this troubling hunch to rest. Thankfully, Meursault seems to have picked up on my reluctance to share.
+12884||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뭐야, 너희는?|Who are you people?
+12885||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뭐야, 뫼르! 기껏 구하러 왔는데 놀라지도 않네.|What the heck, Meur! Ya could at least pretend to be surprised to see us. We came to save ya!
+12886||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 물러서, 이 재료는 내가 발견했어. 우리 매장이 선점했다고.|Back off. I found this material first. Finders keepers. It belongs to our store now.
+12887||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 재료…? 아… 아무튼 저자는 우리… 동료인데 돌려줄 수 있어?|"Material"...? Um... Look, this dude is our... uh, "colleague." Can we have him back, please?
+12888||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 동료라… 낯익은 단어인데, 무슨 브랜드 이름이었더라?|"Colleague"... Hm. I've heard that word before. Is it a brand name?
+12890||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아까도 그렇고… 여기는 일반적인 상식이 잘 안 통하는 곳 같네요.|From what we've seen of this place so far... I don't know if common sense is all that reliable in here.
+12891||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그리고 선점했다는 건… 일을 시키겠다는 말인가요?|When you said he belongs to your store... does that mean you're gonna put him to work?
+12892||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아니? 이 매장에서 직원들은 충분해. 부족한 건 옷감이지.|No. We have more than enough staff for this shop. It's the material that's in shortage.
+12893||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 옷감이요? 그럼 뫼르소씨의… 어… 유니폼이라도… 빌리겠다는 건가요?|Material...? Oh, okay. I suppose you wanna, uh... borrow Meursault's uniform, then...?
+12894||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 어떡하지? 진짜 말이 안 통하는 이방인이네.|You strangers are impossible to communicate with. I'm at my wits' end here...
+12895||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그자는 진심으로 답답하다는 듯이 보였다.|The employee gave us an exasperated look.
+12896||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 말 그대로 옷감이 필요한 거라니까?|I said we're in a shortage of material. <i>Material</i>. What's so hard to understand about that?
+12897||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 방금 방송 못 들었어? 유행이 또 한 번 바뀌었다고. 앞으로 몇 시즌이 지나면 또다시 바뀔 거야. 그러니까 우리는, 이곳은! 옷감이 계속해서 필요해.|Didn't you hear the announcement just now? The trend has changed again. A few seasons from now, there will be another thing that becomes the new trend. That's why we—and this shop—will always be in need of more material!
+12898||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아니요, 그러니까… 옷감하고 무슨 상관…|I get that, <i>I get that</i>, but what the hell does that have to do with—
+12899||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 난 뫼르소만 전달 받을 수 있도록 말을 걸었다.|I quietly communicated in a way that only Meursault could hear.
+12900||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <뫼르소, 혹시…>|<Meursault, do you...>
+12901||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <기억하고 있어?>|<... remember everything?>
+12902||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그렇습니다. 시지프 백화점에 입장한 후부터, 2층에서 있었던 일까지 누락 없이 기억하고 있습니다.|Yes. I remember every event following my entry to the Grand Magasin Sisyphe, including the events on the second floor.
+12903||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <다른 수감자들은 모르는 것 같아.>|<I don't think the other Sinners do, though.>
+12904||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 백화점에선… 일정 시기마다 재고 정리라는 이름으로 일종의 초기화를 시킨다고 들었습니다.|I have heard that the Grand Magasin periodically conducts a <i>reset</i> of its stock, internally designated "Liquidation."
+12905||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <일단… 마네킹들이 있다는 곳으로 가보자.>|<For now... let's head to where the Mannequins are.>
+12906||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그러면… 우리가 퇴장 시켜주도록 할게.|Okay, then... we'll help them to the exit.

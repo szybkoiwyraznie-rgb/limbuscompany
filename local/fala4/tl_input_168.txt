@@ -1,0 +1,96 @@
+16337||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#515aee>이곳에서는… 상냥하고… 용감하게…</color>|<color=#515aee>Here... Kindness and valor will shine...</color>
+16338||RPGSystem#rpg-loc-dialogue-floor-4.json] 알겠네! 참으로 좋은 수련이었어, 홍루 군.|Very well, young Hong Lu! Thou hast bestowed upon me a relaxation technique most wondrous indeed.
+16339||RPGSystem#rpg-loc-dialogue-floor-4.json] <…수련이 되긴 한 거야?>|<... <i>What</i> relaxation technique?>
+16340||RPGSystem#rpg-loc-dialogue-floor-4.json] 그래도 꽤 훌륭하게 지어진 화장실이었어요.|Still, I'm glad it was at least a well-appointed restroom.
+16341||RPGSystem#rpg-loc-dialogue-floor-4.json] 신비스러운 분위기를 풍기는 그분은 여전히 아무 말도 하지 않으셨지만요.|Even though the ethereally mysterious lady never spoke to the rest of us the whole time.
+16342||RPGSystem#rpg-loc-dialogue-floor-4.json] 어찌 그렇게 오랜 시간을 잠자코 있을 수 있단 말인가…|Verily! 'Twas quite admirable, her reticence! I, for one, could never have contained myself...
+16343||RPGSystem#rpg-loc-dialogue-floor-4.json] 본인은 막… 할 말을 참으면 배가 간질간질거리고… 발끝이 근질근질하여 도무지 가만히 있기가 힘들어지거늘…|To hold back the words that yearn to be spoken, to still the body that desires to fidget, is to invite a horrible itchiness to plague the pits of my belly and the tips of my toes!
+16344||RPGSystem#rpg-loc-dialogue-floor-4.json] 후후, 눈을 감고… 좋아하는 걸 가만히 떠올려 보세요. 그러면 숨은 자연스럽게 느려지게 되고 마음도 편안해지죠.|Fuhu, I've just the cure for that. When you need to stay still, just close your eyes and... think of something you really like. You'll feel your breathing slow down as your mind finds peace.
+16345||RPGSystem#rpg-loc-dialogue-floor-4.json] 좋아하는 걸 생각하고 가만히…|Close my eyes and... think of something I really like...
+16346||RPGSystem#rpg-loc-dialogue-floor-4.json] 허억! 연두낭자! 잡지에서 본 연두낭자의 새로운 필살기가 떠오르는군…!|...! The Grass Maiden! I conjure in my mind the Grass Maiden's newest ultimate move...!
+16347||RPGSystem#rpg-loc-dialogue-floor-4.json] 그 회전하는 발차기가 어찌나 우아하고 맹렬한지… 아아… 모두에게 보여주고 싶어서 견딜 수가 없군.|Ah, how graceful she is! How fiercely beautiful the roundhouse kick pirouettes...! Ooh... should fortune permit, I shall demonstrate a recreation of her magnificence before ye!
+16348||RPGSystem#rpg-loc-dialogue-floor-4.json] 이따가 화장실로 돌아가면 자세히 말해주세요. 후후…|And so you will, once we get back to the restroom. Fuhu...
+16349||RPGSystem#rpg-loc-dialogue-floor-4.json] 어떤가요? 이곳엔 로시난테의 친구분들이 가득한 것 같네요.|Do you like it? Rocinante must be happy to find so many friends here.
+16350||RPGSystem#rpg-loc-dialogue-floor-4.json] 아~ 허나 로시난테… 걱정 마시게나. 나는 그대를 버리고 다른 말로 갈아탈 만큼 얄팍한 주인이 아니네.|Alas! Harbor no fear, dearest Rocinante... For I am not so vain a horsemaster that I would abandon a loyal steed such as thee for the first new mount that seizeth mine eye.
+16351||RPGSystem#rpg-loc-dialogue-floor-4.json] 아니네… 결코 아니지…|Nay, not at all... I would never...
+16352||RPGSystem#rpg-loc-dialogue-floor-4.json] 다리가 없다는 건 이렇게나… 상쾌한 기분이었구나…|So this is how emancipating it feels, to be... deprived of legs...
+16353||RPGSystem#rpg-loc-dialogue-floor-4.json] 죄송합니다, 원레그님. 제가 게으르고 무지하여 실례를 범하였습니다.|I have indeed failed you, honorable One-leg. I couldn't carry out that simple duty on account of my stupidity and idleness.
+16354||RPGSystem#rpg-loc-dialogue-floor-4.json] 층을 쉽게 이동 못 하는데 소문은 어떻게 퍼지는 겐가?|Verily, I must wonder: how <i>doth</i> such rumor spread, when travel betwixt each floor is restricted for most inhabitants of the Grand Magasin?
+16355||RPGSystem#rpg-loc-dialogue-floor-4.json] 발 없는 말이 천 리를 가는 법이죠.|Little birds aren't bound by height, it seems.
+16356||RPGSystem#rpg-loc-dialogue-floor-4.json] …사실이었군요.|... Then the rumor was true.
+16357||RPGSystem#rpg-loc-dialogue-floor-4.json] 그러면 우리가 주저앉게 되더라도… 이전처럼, 지하 1층에서 다시 눈을 뜰 일은 없다는 것이군요…|Even if we collapse, we will never again awaken on B1 as we always did...
+16358||RPGSystem#rpg-loc-dialogue-floor-4.json] 다시 지하 1층에서 눈을 뜰 때마다 이번에야말로 원레그가 될 수 있을지에 대한 희망을 가지며 살아왔지만…|Each time I woke anew on B1, I endured in the hope that this life—this one—might be the one where I am granted the honor of joining the One-legs.
+16359||RPGSystem#rpg-loc-dialogue-floor-4.json] 하지만… 이제는 그 ‘다음’이 없다니.|But there's no "next time" anymore... is there?
+16360||RPGSystem#rpg-loc-dialogue-floor-4.json] 다시 눈 뜰 방법이 없다면 저는 이 다리 그대로 멈춰버리는 거예요.|If there is no next time... I'll never brave losing my legs. Not without the ability to reawaken and start over from the first floor.
+16361||RPGSystem#rpg-loc-dialogue-floor-4.json] 결국 저는 이 백화점에서 영원히 천하고 가치 없는 포레그인 채로만…|I will remain arrested by these appendages. A wretched, worthless Four-legs, left to crawl through the Grand Magasin for all eternity.
+16362||RPGSystem#rpg-loc-dialogue-floor-4.json] 그리 스스로를 천하다 낮추지 마시게. 다리가 넷이든 하나든 그게…|Pray, do not demean thyself so! Whether thy legs number four or one, what concern is it to thee? 'Tis of no import—
+16363||RPGSystem#rpg-loc-dialogue-floor-4.json] 이곳 신발관에 머물지 않는 분은 영영 모르겠죠…|You'd never understand... You're not the one stuck forever in the Footwear Hall.
+16364||RPGSystem#rpg-loc-dialogue-floor-4.json] 신발은 이 땅을 딛기 위해 존재하는 의복. 그 지면에 닿는 다리가 적을수록 존재는 더 고귀해지며 신발이 지니는 의미 또한 드높아지지요.|In the sartorial arts, a shoe is an article of clothing wrought to meet the ground and spare the body from the impurities of dirt. The fewer the feet that touch the ground, the nobler the being—and the more exalted the purpose of the lone shoe.
+16365||RPGSystem#rpg-loc-dialogue-floor-4.json] 차라리 부탁을 하겠습니다…|I've a request. If you will grant me that mercy.
+16366||RPGSystem#rpg-loc-dialogue-floor-4.json] 천한 제가… 포레그에서 벗어날 수 있는 방법은 단 한 가지…|I am wretched and worthless... And now... only one way remains... by which I may cease to be a Four-legs.
+16367||RPGSystem#rpg-loc-dialogue-floor-4.json] 당신들은 다음 층을 갈 수 있을 정도로 강하고 위대할 테니 저를 주저앉혀 주실 수 있겠죠.|You can collapse me, can't you? You're all strong and prestigious enough to move between floors.
+16368||RPGSystem#rpg-loc-dialogue-floor-4.json] 그리고 제 다리들을 잘라주세요. 보기 싫고 쓸모없기만 한 저의 다리들을…|When you do... cut off my legs... These useless... hideous legs...
+16369||RPGSystem#rpg-loc-dialogue-floor-4.json] 모든 다리를 없애달라는 겐가?|... Thine wish is to be free of all four appendages?
+16370||RPGSystem#rpg-loc-dialogue-floor-4.json] 네, 모든 다리를요.|Yes. All of my legs.
+16371||RPGSystem#rpg-loc-dialogue-floor-4.json] 하지만 그렇게 되면…|But—
+16372||RPGSystem#rpg-loc-dialogue-floor-4.json] 갑자기 포레그가 우리에게 달려들기 시작했다. 편안한 미소를 지으며.|Instead of waiting to hear our reply, the Four-legs lunged at us... with an approximation of a contented smile on his face.
+16373||RPGSystem#rpg-loc-dialogue-floor-4.json] 때가 되면 신발이 저희를 바꾸어 줄 겁니다.|—and once we have become worthy, the shoes shall transfigure us.
+16374||RPGSystem#rpg-loc-dialogue-floor-4.json] 그런 걸 묻는 걸 보니 당신들은 이 층에 온 지 얼마 안 되신 분이군요.|You must all be quite new to this floor, if you're still asking questions like that.
+16375||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>백화점의 모든 고객들은 모든 것을 잃더라도, 다시 시작할 수 있었어.</color>|<color=#ebcaa2>No matter how much they'd lost, no matter how far they'd fallen, the inhabitants of the Grand Magasin could always begin anew from rock bottom.</color>
+16376||RPGSystem#rpg-loc-dialogue-floor-4.json] 부탁한 기억은 없으니.|I do not recall asking for your help.
+16377||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>…당신 어머니의 부재로 인해 백화점에는 크고 작은 변화들이 생겼어.</color>|<color=#ebcaa2>The... vacancy left behind by your mother changed the Grand Magasin in more ways than one.</color>
+16378||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>그중 하나가 벽 곳곳에 생긴 균열. 백화점의 모두가 혼란스러워하기 시작했지.</color>|<color=#ebcaa2>One, the fractures that appeared on its walls. It plunged the Grand Magasin and its inhabitants into chaos and confusion.</color>
+16379||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>그래서 우리들은 황금가지라는 걸 구해서 당신 어머니가 매일 출근하며 앉아 오던 그 빈자리에 꽂아 넣었지. 임시방편으로 말이야. 시지프를 떠받칠 거인 적합자를 구하는 게 여간 어려운 일이 아니었거든.</color>|<color=#ebcaa2>So, we procured this "Golden Bough" and planted it in the very same seat where she used to work. A stopgap, if you will. The position of a Giant that shoulders Sisyphe's weight requires a very particular set of specifications, and we didn't know when the next candidate would appear.</color>
+16380||RPGSystem#rpg-loc-dialogue-floor-4.json] 황금가지…!|The Golden Bough...!
+16381||RPGSystem#rpg-loc-dialogue-floor-4.json] <백화점 바깥에서의 이야기 같네.>|<She must be talking about the events that occurred outside the Grand Magasin.>
+16382||RPGSystem#rpg-loc-dialogue-floor-4.json] 그 영향으로… 균열에는 황금송진이라는 것이 생기기 시작한 거군요.|And that's what caused the so-called "Golden Resin" to appear and fill the fractures...
+16383||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>맞아.</color>|<color=#ebcaa2>Correct.</color>
+16384||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>균열을 메운 그 황금은… 누군가에겐 황금가죽으로 누군가에게는 황금송진으로 불리면서 황금빛 속에서 목소리를 듣기 시작했고…</color>|<color=#ebcaa2>Some called that mending gold a "hide," while it was "resin" to others. Regardless of the disagreements over its proper denomination, however, the Voice began speaking to everyone from within its golden light.</color>
+16385||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>그때부터 르누아르라고 불리는 자들은 공포에 떨기 시작했고 르루주라고 불리는 자들은 기회를 찾기 시작했지.</color>|<color=#ebcaa2>Ever since that whisper filled this place... the Noirs succumbed to fear, while the Rouges began sniffing out opportunity.</color>
+16386||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>자신의 비천한 신분도, 실패도.</color>|<color=#ebcaa2>Equal opportunity for everyone, no matter how lowly their status is, or how badly they'd failed.</color>
+16387||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>그리고 두 번째…</color>|<color=#ebcaa2>Two...</color>
+16388||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>이곳에서 생이 다한 사람들은 다시 돌아올 수 없게 되었어.</color>|<color=#ebcaa2>Death became final. Those who died in the Grand Magasin Sisyphe could no longer come back to life.</color>
+16389||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>그래서 N사가 이만저만 곤란해진 게 아니야. 경험 통조림을 생산할 수 있는 재료들이 점점 줄어들게 될 테니까.</color>|<color=#ebcaa2>This puts N Corp. in a rather unenviable position, as the irreversibility of death means that their stock of raw ingredients for Canned Experience production will inevitably run out unless they're replenished "manually."</color>
+16390||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>덕택에 수급량을 늘리기 위해, 별것 아닌 일에도 시지프형을 더욱 빈번하게 선고하고 있지.</color>|<color=#ebcaa2>Which is exactly what they've been doing by passing the Sisyphe Penalty with ever greater frequency.</color>
+16391||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>나머지 세 명의 거인들이 지탱하는 힘이 더 필요해진 건 당연한 거고.</color>|<color=#ebcaa2>Meanwhile, we three remaining Giants are forced to strain ourselves all the harder to keep this place aloft.</color>
+16392||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>어때? 마 퓌스. 당신은 그 빈자리를 메울 수 있는 능력이 되지 않아?</color>|<color=#ebcaa2>And maybe that's where you can come in, ma puce. You have just the required set of skills to fill your mother's vacancy, don't you?</color>
+16393||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>왜 자진해서 그 사실을 말하지 않았어? 당신이 거인의 적합자라는 사실은 예전부터 알고 있던 사실이었잖아.</color>|<color=#ebcaa2>I've always wondered why you never bothered to tell them that right off the bat. You've always known that you have what it takes to become a Giant.</color>
+16394||RPGSystem#rpg-loc-dialogue-floor-4.json] …말할 필요가 없었다. 어머니를 죽였다는 사실은 달라지지 않으니.|... There was no reason to tell them that. My aptitude for the position had no bearing on the fact that I did kill Mother.
+16395||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>…물론 이제는 아니지만.</color>|<color=#ebcaa2>... Not anymore, though.</color>
+16396||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>모두 뫼르소, 당신 덕분이지.</color>|<color=#ebcaa2>And that's all thanks to you, Meursault.</color>
+16397||RPGSystem#rpg-loc-dialogue-floor-4.json] 어머니의 죽음에 대한 탓을 하는 것인가.|You are blaming me for my mother's death.
+16398||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>죽인 사람에 대한 탓을 하는 거지, 물론.</color>|<color=#ebcaa2>Of course I am. Who else would I blame but her murderer?</color>
+16399||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>시지프 백화점의 기둥을 맡고 있던 우리 거인들은 각각이 모두 중요한 역할을 맡고 있었어. 당신 어머니도 그중 하나였고.</color>|<color=#ebcaa2>We Giants each play an indispensable role as the pillars that uphold Sisyphe. And your mother was one of us.</color>
+16400||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>알겠지만, 마 퓌스. 그 당시에 N사는 당신에게 곧바로 시지프형을 구형하려고 했어. 그럼에도 불구하고 내가 그걸 막기 위해 얼마나 애를 썼는지는… 잘 알 텐데.</color>|<color=#ebcaa2>I don't suppose this warrants repeating, ma puce, but N Corp. was determined to give you the Sisyphe Penalty right away. You <i>do</i> know the lengths I went to stop that... don't you?</color>
+16401||RPGSystem#rpg-loc-dialogue-floor-4.json] 그래, 전부 기억하고 있다.|I do. I remember everything.
+16402||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>하지만 고마워하진 않았지. 그때나 지금이나.</color>|<color=#ebcaa2>But did you thank me? No. You don't seem all that grateful now, either.</color>
+16403||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>그럼 이제라도 필요성을 생각해봐.</color>|<color=#ebcaa2>Well, in light of what has happened since then, you might want to reconsider that stance.</color>
+16404||RPGSystem#rpg-loc-dialogue-floor-4.json] <color=#ebcaa2>아니면 이 백화점의 생활이 점점 마음에 들기라도 시작한 거야?</color>|<color=#ebcaa2>Unless you're starting to find life in the Grand Magasin increasingly attractive, that is.</color>
+16405||RPGSystem#rpg-loc-dialogue-floor-4.json] 그 말을 끝으로 더 이상 잔느의 목소리는 들려오지 않았다.|With that, Jeanne fell silent once again.
+16406||RPGSystem#rpg-loc-dialogue-floor-4.json] 잠깐… 생각해보니 백화점이 무너지면, 갇혀 있다는 N사의 사람들도 모두 풀려날 수 있지 않겠는가!? 이건 호재일지도 모르겠군!|Hoh... Would not the liberation of incarcerated N Corp. residents be within reach, then?! 'Twould be a most fortuitous outcome!
+16407||RPGSystem#rpg-loc-dialogue-floor-4.json] <어떻게 될지는… 이 백화점에서 일단 나가고 나서 생각하자.>|<Let's... get ourselves out of the Grand Magasin first, <i>then</i> think about the consequences.>
+16408||RPGSystem#rpg-loc-dialogue-floor-4.json] <황금가지는 이 백화점이 아니라 바깥에 있을 거니까, 그걸 뽑고 나면 알게 되겠지.>|<Now that we know for sure that the Golden Bough isn't inside the Grand Magasin, we can leave this place, pluck it out, and find out.>
+16409||RPGSystem#rpg-loc-dialogue-floor-4.json] 너희도 주제를 모르고 이곳의 규율을 어지럽히는구나.|And you—insolent strangers. You dare flout the rules of this domain with such impunity?
+16410||RPGSystem#rpg-loc-dialogue-floor-4.json] <화살이 우리한테 돌아오는 것 같은데…>|<This is somehow becoming our fault...>
+16411||RPGSystem#rpg-loc-dialogue-floor-4.json] 이방인들에게 판매할 신발은 없다. 이 공간에 발붙이는 것도 허락하지 않았고.|I have no shoes to sell to strangers such as yourselves. Nor do I recall ever permitting your presence in this hall.
+16412||RPGSystem#rpg-loc-dialogue-floor-4.json] 퇴거하지 않는다면… 내가 직접 너희를 상대하지.|Refuse to remove yourselves from the premises, and... I will displace you all <i>personally</i>.
+16413||RPGSystem#rpg-loc-dialogue-floor-4.json] <분위기가 심각해지는 것 같은데, 아까 받은 감정평가서를 보여주는 게 어떨까?>|<I don't like where this is going... Let's show her the Authenticity Certificate we received downstairs before things get out of control.>
+16414||RPGSystem#rpg-loc-dialogue-floor-4.json] 3층의 르누아르들에게 이런 것을 받았다.|The Noirs on the third floor gave us this.
+16415||RPGSystem#rpg-loc-dialogue-floor-4.json] …르누아르의 감정평가서.|... Le Noir Authenticity Certificate...
+16416||RPGSystem#rpg-loc-dialogue-floor-4.json] 우리는 이곳에 있는 르루주들을 보이는 족족 잡아서 신발의 깔창으로 만들었지. 그것들은 무엇보다 질기고 탐욕스러워서 꽤 좋은 깔창이 되거든.|See, we had this policy of turning every Rouge we encountered into an insole. Their avarice makes them exceptionally tough—few materials provide a shoe with stronger padding, you see.
+16417||RPGSystem#rpg-loc-dialogue-floor-4.json] 그럴 때마다 그것들은 같은 말을 우리에게 지껄이곤 했어.|Every time we caught one of them, they had the same thing to say to us.
+16418||RPGSystem#rpg-loc-dialogue-floor-4.json] 머지않아 곧, 새로운 목소리가 들리게 될 것이며, 그때가 되면 우리들은 영원한 몰락의 시대를 겪게 될 것이다… 라고.|That a new Voice shall soon come to whisper in their ears, and that its first utterance would usher in an age of ruin eternal.
+16419||RPGSystem#rpg-loc-dialogue-floor-4.json] 헛소리일 뿐이라 생각하고 코웃음을 쳤으나 너희의 이야기를 들으니 마냥 넘길 만한 이야기는 아닌 듯하군. 목소리를 잃은 것들이니 무슨 짓이든 할 수 있겠지.|We never took them seriously, of course, but what you have recounted lends some merit to their words. After all, they've lost their guiding Voice—cornered animals will stoop to anything, you know.
+16420||RPGSystem#rpg-loc-dialogue-floor-4.json] 다만 그것들이 작당을 세우는 장소가 어디인질 모르겠단 말이지…|The present conundrum is, however... that we do not know where in the Grand Magasin they could be scheming.
+16421||RPGSystem#rpg-loc-dialogue-floor-4.json] <잠깐뿐이었지만 2층에 올라갔을 때…>|<Wait, I've only made a brief stop there, but when we visited the second floor...>
+16422||RPGSystem#rpg-loc-dialogue-floor-4.json] <인테리어 공사 중이라고 했었지… 뒤에는 르누아르 직원들이 죽어있었고.>|<... they said they were undergoing... "renovations." And there were bodies of Le Noir employees behind them.>
+16423||RPGSystem#rpg-loc-dialogue-floor-4.json] 예. 분명 2층에서는 학살이 진행되고 있었습니다.|Yes, there was indeed a massacre underway on the second floor.
+16424||RPGSystem#rpg-loc-dialogue-floor-4.json] 2층이면, 명품관이 있지. 그것들이 명품관에 자리를 잡았군. 새로운 목소리를 만들 것이라는 그 말도 안 되는 계획을 위해…|That's where the Luxury Hall is located. So they've made a nest of that place, did they? All in service of their preposterous plan of birthing a new Voice...
+16425||RPGSystem#rpg-loc-dialogue-floor-4.json] 두 다리들. 너희는 르누아르의 우군인가?|Two-legs. Would you say that you are allies of Le Noir?
+16426||RPGSystem#rpg-loc-dialogue-floor-4.json] …나는 원레그, 보통은 너희 같은 두 다리 고객들은 상대하지 않아. 하지만… 감정평가서를 가지고 있다는 건 단순한 투레그는 아닌 것 같군.|... As a One-leg, I normally don't deal with customers of your... bipedal standing. But it is true that no average Two-legs carries an Authenticity Certificate as you do...
+16427||RPGSystem#rpg-loc-dialogue-floor-4.json] <일단은… 그렇게 된 것 같지.>|<That's... how it turned out, I guess?>
+16428||RPGSystem#rpg-loc-dialogue-floor-4.json] 그렇다고 하시네요~|They're saying "yes"~
+16429||RPGSystem#rpg-loc-dialogue-floor-4.json] 층을 이동할 수 있는 너희 이방인들이 도와준다면, 르누아르 간에 정보를 전달하기가 손쉽겠어.|You're all able to move between floors without obstruction... strangers such as yourselves should make for perfect messengers for us Noirs.
+16430||RPGSystem#rpg-loc-dialogue-floor-4.json] …너희에게 우리 매장의 신발을 특별히 팔아주도록 하지.|... Very well, then. We'll let you purchase shoes from our shop.
+16431||RPGSystem#rpg-loc-dialogue-floor-4.json] 하지만 조건이 있어.|Under one condition, however.
+16432||RPGSystem#rpg-loc-dialogue-floor-4.json] 우리 르누아르에게 도움이 될만한 정보가 있다면 바로 말해줬으면 좋겠군.|Should you come across any information that may be of assistance to the Noirs, you come to us right away.

@@ -1,0 +1,96 @@
+13889||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아… 깨어나셨군요.|Ah... the Slumbering One has awakened.
+13890||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …!?|…!?
+13891||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 우리 르루주 모두가… 당신만을 기다리며 모든 것을 바쳤지요. 그리고… 앞으로도 얼마든지 저희가 가질 모든 것을 바칠 것입니다.|We Rouges have given our all... in anticipation of your arrival. And we offer you... what is... and what will be...
+13892||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 이방인들… 그 분을… 5층의 레스토랑으로 데려가주세요.|Bring them to the Restaurant on the fifth floor, strangers.
+13893||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 진정한 목소리를… 내기 위해서는… 성숙하기 위해서는… 그곳으로 가야… 합니다…|To speak the true Voice... to mature... the newborn must reach... that floor...
+13894||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그러니 부디… 우리를 위해…|Please... for... all of us...
+13895||RPGSystem#rpg-loc-dialogue-floor-2-b.json] … 숨이 멎은 것 같군요.|She has drawn her final breath, it seems.
+13896||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 죽은 듯이 눈을 감고 있던 브랜드 디렉터가 눈을 뜨자… 아이는 화들짝 놀라며 브랜드 디렉터에게서도 멀어졌다.|The Brand Director spoke, her eyes opening from a deathlike slumber. The child jumped away from her, just as they had from us earlier.
+13897||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 우리뿐만 아니라… 모든 것에 경계심을 가진 것처럼도 보였다.|It seemed we weren't the only ones the child was afraid of; they shrank away from everyone and everything.
+13898||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 당신을 기다리는 이들이… 참으로 많았습니다…|Many have awaited... your advent...
+13899||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 으…?|Uuu...?
+13900||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 너네가 뭘 몰라서 그러는데… 저렇게 떼쓰면서 뻐팅기는 애들은 달랜다고 안 따라와.|Appease the kid? Here's somethin' you lot don't seem to understand: if you want stubborn kids like 'em to follow you, appeasement ain't gonna cut it.
+13901||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그건… 경험담인 건가요?|Might you be... speaking from your own experiences as a youth?
+13902||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <자기 이야기구나…>|<I'm gonna go out on a limb and assume that the "stubborn kid" was yourself.>
+13903||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아이씨… 아무튼 이럴 땐 그냥 놓고 가는 게 정답이야. 떼쓴다고 다 들어주면 버릇 나빠진다고. 세상이 호락호락하지 않다는 걸 보여주면, 알아서 따라오게 돼있어.|Shut it, you two. Point is, you've got to teach 'em a lesson that you can't just whinge your way through the world and expect everything to go your way forever. I say we pretend to leave the kid behind, and they'll know to come with.
+13904||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 료슈라도 있었으면 모를까, 아이를 돌보는 것과는 거리가 멀어보이는 지금 인선에서는…|Without Ryōshū, none of those present were particularly experienced in child-rearing. So...
+13905||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 뭔가 토를 달기도, 반박을 하기에도 애매한지라, 일단은 히스클리프가 하는 것을 지켜보기로 했다.|... the only option we had was to hold our doubts and potential arguments behind our teeth and let Heathcliff try his hand at convincing this child to come with us.
+13906||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 억울했는지 히스클리프는 눈을 크게 뜨고 우리와 아이를 번갈아보며 씩씩거리기 시작했다.|Heathcliff's eyes went wide with bewilderment. He huffed angrily, glaring back and forth between us and the child.
+13907||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그래서 뭐… 과자라도 구해서 달래야 하는 거냐?|Alright, fine. Whatever. What're we doin', then? Find some sweets to lure the kid into comin' with us?
+13908||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <일단… 맡기로 했으니까… 과자는 몰라도 잘 달래긴 해야겠지….>|<We did promise to look after the child, so... I don't know about luring them with sweets, but we're going to have to do <i>something</i> to appease them so that they'll follow us willingly.>
+13909||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 으!!! 으!!!|Nuhhh!!! Nnhhh!!!
+13910||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 우린 너 놔두고 갈 거니까 너 혼자 여기 살든지 말든지 맘대로 해. 알았냐?|Right-o, kid. We're about to head out. Stay here or come with—you do whatever you want, I don't care. We're really leavin' now!
+13911||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아… 으…?|Aah.. eh...?
+13912||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 히스클리프가 그것의 손에 들린 잔해를 매몰차게 뺏어간다.|Heathcliff roughly snatched the cut piece of membrane out of the child's hand.
+13913||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아니… 와…|Wha— *sigh*
+13914||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 으… 으!!!!|Uunnnhh!!!
+13915||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <화내는 것 같은데? 무서워하는 것도 같고.>|<I think you made the kid angry. And scared them at the same time, somehow.>
+13916||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <따라오려 하지도 않을 것 같은데…>|<Doubt they'll follow us like that...>
+13917||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 방금 전, 히스클리프 씨가 먹을 걸 뺏어간 게 원인일지도 모르겠군요.|Perhaps the cause of alarm can be traced directly back to Heathcliff's theft of the child's "snack."
+13918||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아니… 그럼 그걸 보고만 있어? 야, 아니지?|What was I supposed to do, just watch the kid take a big bite out of that chunk of raw flesh? Oi, am I right or what?
+13919||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 으으으…!|Nnnnnuh...!
+13920||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 와… 야, 나도 너랑 같이 다니기 싫거든!?|Wooow. Really, mate? It ain't like I <i>want</i> to bring you along.
+13921||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <…말도 못하는 애한테 뭐하는 거야, 히스클리프…>|<... Heathcliff, why are you arguing with a kid who can't even speak...?>
+13922||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 미성숙한 어른이 할법한 행동이네요.|Such behavior is a sign of immaturity manifest in adulthood.
+13923||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 히스클리프가 성큼성큼 요람 밖으로 나가자… 아이는 예상치 못했다는 듯이 우리를 쳐다보기 시작했다.|Heathcliff wheeled around and stomped out of the Cradle, much to the child's apparent surprise. The child turned to us—though I couldn't see their eyes, it was unmistakably a look of confused astonishment.
+13924||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 요람의 바깥… 간간이 들어오는 햇빛을 빼면 어두워서인지… 히스클리프가 정말 사라지는 것처럼도 보였다.|It was dark outside the Cradle save for a few rays of sunlight that peeked through. From where we stood, it really looked as though Heathcliff had left us for good.
+13925||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 너네도 빨리 나와!|What're you lot faffin' around for? On the double!
+13926||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 우으…|Uu...
+13927||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 으으으…!|Unnnhhh...!
+13928||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 야, 우리 진짜 갈 거다? 난 뭐, 떼쓴다고 뒤로 가고 그런 거 없어…!|Oi! We're leavin', kid! I ain't playin' around! Cry and throw a tantrum all ya want, I ain't comin' back!
+13929||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 결국… 웅얼거리며 불안감을 표하던 아이는 어둠 속에 혼자 남겨지기 싫었던 듯…|The child babbled fearfully for a moment, as though they were afraid of the creeping darkness...
+13930||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 으… 으우…!|Uu... Nnuhhh...!
+13931||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 히스클리프의 계획대로 우리까지 밖으로 나갔고…|We hurried out of the Cradle as well at Heathcliff's insistence...
+13932||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 천 틈 사이로 아이가 주위를 두리번거리는 것이 보였다.|Once outside, we peeked surreptitiously between the curtains as the child looked around frantically.
+13933||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 봤지? 애들은 이렇게 다루는 거라니까.|See? That's how you deal with kids.
+13934||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …거리감은 줄어든 것 같지 않군.|... There is still some distance between us and the child.
+13935||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 혼자 남기 싫은 것과 별개로… 아직 우리가 무서운지 거리를 두고 있다.|Doesn't seem like they're feeling safe sticking with us...
+13936||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 가까이 붙고 싶진 않은 듯하다.|... even though it's pretty obvious that they don't want to be left alone.
+13937||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <…이렇게 다녀도 되는 걸까?>|<... So we're just walking around like this, I guess?>
+13939||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 요람을 벗어나 우리가 있는 방향으로 뛰어오기 시작했다.|... then hurriedly toddled toward us, leaving the Cradle behind.
+13940||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 숨이 끊어졌다. 그러나 얼굴에는 사명을 마침내 이루었다는 듯 잔잔한 미소가 감돌고 있다.|She lies dead still, but is wearing a peaceful smile—the same kind of smile only seen on the faces of those who know they have successfully carried out their duty to the end.
+13941||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 기둥 아래쪽에 천 하나와 어떤 르누아르의 기록이 숨겨져있다.|There's a piece of cloth and a Noir's note hidden by the base of the pillar.
+13942||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <천에 무언가 쓰여있는데?>|<Hey, there's something written on this piece of cloth.>
+13943||RPGSystem#rpg-loc-dialogue-floor-2-b.json] '기어코 르루주의 탐욕자들이 미쳐버렸습니다. 이들은 백화점을 보존하는 귀중한 황금가죽을 기어코…'라고 쓰여 있습니다.|It says "The covetous Rouges have finally gone mad. The precious Golden Hide that preserves the Grand Magasin—they've—"
+13944||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 쓰다가 급하게 숨긴 거 같은데…|Whoever wrote it didn't get to finish their message. Looks like they had to hide it in a hurry...
+13945||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 벽 너머 살벌한 풍경을 보다 슬쩍 눈을 돌렸다.|I stole a quick glance at the carnage being perpetrated on the other side of the wall before looking back at the piece of paper.
+13946||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <혹시 모르니 조용히 챙겨가자.>|<... Let's take this with us, just in case it becomes relevant.>
+13947||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <어떻게 될진 모르지만… 우선 5층까지 가는법을 찾아보자.>|<I don't know what'll happen when we get there, but... Let's try to find a way up to the fifth floor.>
+13948||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그래 뭐… 아, 명심해라, 시계! 버릇 잘 들여놔야 나중에 안 까불어, 알겠냐?|Yeah, you do that. ... Oh, yeah. Better teach the kid manners now when you can, Clock! Else you'll never get the chance later, yeah? Remember that!
+13949||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <무슨 소리야…>|<What are you even talking about...?>
+13950||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 자꾸만 으름장을 놓는 히스클리프를 두고 우리는 3층으로 향했다.|We proceeded to the third floor as Heathcliff continued to lecture us about the importance of early education.
+13951||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <르루주의 부탁도 부탁이지만… 우리도 꼭대기 층으로 가야 하잖아.>|<Regardless of what the Rouges want us to do, our goal is to get to the top floor of this building.>
+13952||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그 말은 5층 넘어서 가본적은 없다는 뜻이군요.|In other words, you haven't yet reached the fifth floor and beyond.
+13953||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <…응.>|<... No, I haven't.>
+13954||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그렇다면 일단은 4층으로 가서 다음 방법을 모색하시는 것이 맞겠군요, 단테.|Then your subsequent course of action should be to visit the fourth floor and seek a passage from there, Dante.
+13955||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <음, 그전에… 3층에 잠깐 들러야겠어.>|<Hm, yeah... But I should stop by the third floor before we do.>
+13956||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 3층? 갔던데는 왜 또 가는데?|The third floor? Haven't you been there already?
+13957||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …이번에는 르루주를 돕기로 결정한 만큼, 그자들에게 긍정적인 쪽으로 협조하는 편이 좋겠지.|... We've already decided to help the Rouges this time around. Might as well go all in and get on their good side.
+13958||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <이 아이… 를 간절하게 기다리던 직원이 있었거든. 한 번 만나보게 하는 것도 나쁘지 않을 것 같아서.>|<One of the employees on that floor really wanted to meet this... child. I thought it might be nice to have them meet.>
+13959||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그럼 3층으로 가겠습니다.|Proceeding to the third floor.
+13960||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 엇… 길막고 있던 그자식이잖아?|Huh... It's that big lass who was guarding the entrance.
+13961||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 시체이다.|A corpse.
+13962||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 부디… 그분을…|Please... You must... the... cherished one...
+13963||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 뭐야, 다시 여기로 왔네? 우리 눈알 많이 벌었냐?|Eh? Back on this floor? Oi, bring in many eyeballs?
+13964||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 부족하지 않을 만큼 벌었다.|We have earned enough.
+13965||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 오… 꽤 벌었잖아. 제법인데. 시대?|Ooh... Not a bad pull, CH!
+13966||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <…이제 아예 줄임말이 입에 붙은 거야, 히스클리프?>|<... She totally rubbed off on you, didn't she?>
+13967||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 시체 중 대다수가 르누아르 직원으로 보입니다. 르루주가 우세한 방향으로 전투가 마무리되는 것 같습니다, 관리자님.|The majority of corpses appear to be of the Noirs, Manager. The battle is most likely winding down in the Rouges' favor.
+13968||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 음. 문을 지키던 자가 사라졌군요. 인테리어 공사도 끝났나 봅니다.|Mm. The guardian at the gate seems to have left. It is likely that the "interior design renovation" has ended.
+13969||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <지난번이랑 상황이 다른 것 같네…>|<Things seem a little different from last time...>
+13970||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그 분이… 마지막까지 기다리라 말씀하신 것이… 당신들이군요…|It was you... whom the Slumbering One... has asked me to hold out for...
+13971||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 야… 이건 거절하는 게 나은 것 같은데… 우리 눈알도 벌어야 하고 꼭대기 층에도 가야 하고 시계 대가리도 챙겨야 하고… 그리고 여기서 나가야지.|Oi, I don't know about this... We need to get more eyeballs, find our way to the top floor, keep your clock head safe, and escape this hole—we can't take care of a child like that, mate.
+13972||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 단테, 이곳으로 오신 이유가 무엇인가요?|Why have you decided to come here, Dante?
+13973||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <…다른 선택을 하기 위해서.>|<... To make a different choice.>
+13974||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …혹시 제가 모르는… 아니, 제가 알아선 안 되는 정보를 알고 계신가요?|... Is there something I am unaware— ... Are you aware of a piece of knowledge that I am not allowed access?
+13975||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <아마도… 그럴 거야.>|<Yeah... Probably.>
+13976||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 이번 선택의 끝에… 답을 찾을 수 있는 걸까요.|Does the answer lie... at the terminus of the road this choice will pave?
+13977||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <그건… 모르겠어.>|<I don't... know.>
+13978||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …흡사 파우스트의 방식을 보는 듯하군요.|... It is quite like how Faust operates, your behavior.
+13979||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 이 길이 과연 올바른 길일지 알 수 없음에도… 당신은…|Despite not knowing whether this is the right path, you...
+13980||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 알겠습니다. 파우스트의 질문은… 이것으로 끝입니다.|Understood. Faust has no further queries.
+13981||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 저는… 고귀한 분을 지키는 사명을 지고 브랜드 디렉터로서 이곳에 남아있었습니다.|As the Brand Director... I was bestowed with the responsibility... to protect the noble Slumbering One. As the Brand Director... I held down this hall...
+13982||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그리하여 이방인, 당신들이 필요합니다.|We need your help, strangers.
+13983||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 머지않아 그 분의 음성이 온 백화점에 울려 퍼지고, 우리가 어떻게 욕망해야 옳은지를… 온몸으로 알려주실 때까지… 그분의 곁에 있어주십시오.|Soon, their voice shall resonate between the walls of the Grand Magasin... Stay with them... until they can guide us all, with the whole of their body, on how we are to desire...
+13984||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 잠깐, 듣자 듣자 하니 자연스럽게 덤터기를 씌우네. 우리보고… 저기서 태어날 애를 데리고 다니라고?|Hang on a bloody second. You're offloadin' that baby on us, ain't ya? And we're just 'sposed to play nannies for a newborn?
+13985||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 등 뒤에 있는 그것이… 목소리를 내고 있는 것인가.|The entity behind you must be the source of the Voice.

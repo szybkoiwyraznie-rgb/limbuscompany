@@ -1,0 +1,96 @@
+16530||RPGSystem#rpg-loc-dialogue-floor-4.json] <…잘만 돌아다닐 수 있었네.>|<... They could've all just moved on their own.>
+16531||RPGSystem#rpg-loc-dialogue-floor-4.json] <처음부터 자기 것이었다는 것처럼 말하네…>|<As if the Happy Closet was his to begin with, huh...>
+16532||RPGSystem#rpg-loc-dialogue-floor-4.json] 이럴 줄 알았어, 얼굴 피부들만 남겨져 있군… 이걸로는 다른 옷들과 매칭해도 어울리지 않겠네만…|Drat it... Just as I feared. They nabbed everything but the skin of the face... This simply won't do. It's a wretchedly difficult article to coordinate into an outfit set...
+16533||RPGSystem#rpg-loc-dialogue-floor-4.json] 아냐, 아직 하나 남았군…|Wait, there's <i>one thing</i> left...!
+16534||RPGSystem#rpg-loc-dialogue-floor-4.json] 심장… 심장이 남지 않았는가…!|The heart...! The heart remains...!
+16535||RPGSystem#rpg-loc-dialogue-floor-4.json] 그거야말로 제일 귀중한 옷이지. 그걸 입을 수 있다면…!|Yes, that's the most priceless article out of them all. Were I to wear the heart...!
+16536||RPGSystem#rpg-loc-dialogue-floor-4.json] 10000눈알…? 아니, 더 받을지도 모르지!|Oh, I'll be worth 10,000 eyeballs... or even more!
+16537||RPGSystem#rpg-loc-dialogue-floor-4.json] 그 심장이 있다면 나는 분명 주인 있는 가구가 될 수 있을 걸세…|I'll finally have an owner...!
+16538||RPGSystem#rpg-loc-dialogue-floor-4.json] 그… 그럼 누가 가질 건데!|W-well, so who gets to claim the heart?
+16539||RPGSystem#rpg-loc-dialogue-floor-4.json] 내 몸에 곰팡이가 피기 시작했어… 걷잡을 수 없이 퍼지기 전에 팔려야 해…|Look, there's mold growing on my body... I gotta sell before it spreads all over me...
+16540||RPGSystem#rpg-loc-dialogue-floor-4.json] 흡사 도적과도 같았네, 아무리 이자가 아낌없이 내어주는 자라고 할지언정… 이건… 옳은 일이 아닌 것 같소만…|Those scoundrels were much like a pack of bandits descending upon a hapless victim... 'Tis not right, though the Happy Closet be a giving soul.
+16541||RPGSystem#rpg-loc-dialogue-floor-4.json] 그러면… 공평하게 나누세나.|Then... let us divide it equally amongst us.
+16542||RPGSystem#rpg-loc-dialogue-floor-4.json] 행복한 옷장이여, 우리에게… 마지막으로 심장을 내어줄 수 있겠나…|O Happy Closet, I have but one humble request for you... Could you, by any chance... part with your heart for our sake...?
+16543||RPGSystem#rpg-loc-dialogue-floor-4.json] 그 심장이 있다면 우리는 분명 주인 있는 가구가 될 수 있을 걸세…|That heart of yours shall surely elevate us to the coveted state of ownership...
+16544||RPGSystem#rpg-loc-dialogue-floor-4.json] 허락했네! 자, 뜯어가도록 하지.|Capital! That's a yes. Well then, don't mind me if I do.
+16545||RPGSystem#rpg-loc-dialogue-floor-4.json] 정확하게 나눠, 알았지?|Precision, please! Okay?
+16546||RPGSystem#rpg-loc-dialogue-floor-4.json] 조금이라도 다르면 안 돼…|You better slice it into three equal, identical parts...
+16547||RPGSystem#rpg-loc-dialogue-floor-4.json] 심장! 심장!|Ooh, heart!\nOoh, heart!
+16548||RPGSystem#rpg-loc-dialogue-floor-4.json] 내꺼! 내꺼!|Mine!\nMine!
+16549||RPGSystem#rpg-loc-dialogue-floor-4.json] 옳은지, 옳지 않은지는 중요하지 않다.|Whether it is right or wrong is of no significance.
+16550||RPGSystem#rpg-loc-dialogue-floor-4.json] 무슨…!|What—!
+16551||RPGSystem#rpg-loc-dialogue-floor-4.json] 시점에 따라 그것은 너무나 얄팍하게 뒤섞인다.|The concepts of right and wrong are contingent on the perspective of the observer, and are therefore shallow and muddled.
+16552||RPGSystem#rpg-loc-dialogue-floor-4.json] … 미안하네만.|Excuse me.
+16553||RPGSystem#rpg-loc-dialogue-floor-4.json] (아무 말 없이 몸을 열었다.)|(The Happy Closet opens up without a word.)
+16554||RPGSystem#rpg-loc-dialogue-floor-4.json] <왜 열어주는 거지?>|<Why are they opening up again?>
+16555||RPGSystem#rpg-loc-dialogue-floor-4.json] 더 가져가도 좋다… 는 표현 아닐까요?|Maybe it's their way of saying that... it's okay for us to take more?
+16556||RPGSystem#rpg-loc-dialogue-floor-4.json] 하지만… 그대가 가진 것을 이렇게 손쉽게 가져가도 되는 것인 겐가?|Perchance... Yet, I must ask thee: wherefore wouldst thou so charitably make thy possessions available to us gratis?
+16557||RPGSystem#rpg-loc-dialogue-floor-4.json] 그대가 소중하게 모은 한정 콜렉숀이면…|We know not whether these be their hoarded treasure, akin to a precious colección of limited-time releases...
+16558||RPGSystem#rpg-loc-dialogue-floor-4.json] 언뜻 평범한 영화관처럼 보이는 장소다. 어둡고 소음은 새어 들어오지 않는다.|At first glance, the room resembles an ordinary cinema. It is a dark and quiet place, insulated from even the smallest noise beyond its walls.
+16559||RPGSystem#rpg-loc-dialogue-floor-4.json] 같은 노을 경험 통조림을 나눠 먹어도, 내가 보고 있는 이 노을이, 당신의 노을과 같은 것이라고 할 수 있을까?|We're eating from the same Canned Experience—the view of the sunset. But... can we really say that the sun going down over your horizon is the same one as mine?
+16560||RPGSystem#rpg-loc-dialogue-floor-4.json] 난 모든 게 무서워.|I am afraid. I'm afraid of... <i>all</i> of it.
+16561||RPGSystem#rpg-loc-dialogue-floor-4.json] 이 시간의 하늘이 무서워. 이 공기와 촉감 속에 내가 존재하고 있다는 게 무서워.|Afraid of the sky at this time of day. Afraid of the air, of this sensation on my skin... Afraid of my own liminal existence inside it all.
+16562||RPGSystem#rpg-loc-dialogue-floor-4.json] 왜 나는 무서워하는 거야?|Why am I so frightened?
+16563||RPGSystem#rpg-loc-dialogue-floor-4.json] 왜 이런 감각과 생각이 멋대로 피어나오고 터져 나오는…|These sensations, these thoughts... they're beyond my control. They germinate, blossom, and burst out of me like a streetcar out of control...
+16564||RPGSystem#rpg-loc-dialogue-floor-4.json] 인간이라는 것으로 태어나야만 했던 거야?|... Why did I have to be born as this creature—a human?
+16565||RPGSystem#rpg-loc-dialogue-floor-4.json] 알아, 이 도시도, 당신도 이 물음에 답을 해주는 일은 없겠지. 영원히.|You'll never answer that, I know. The City won't either. You'll both hold onto your silences until the end of days.
+16566||RPGSystem#rpg-loc-dialogue-floor-4.json] 사람들은 저마다의 자리에 붙박인 채, 정면에 있는 스크린을 나란히 보고 있다.|Like any other cinema, there are seats. On each of them are people, sitting in rows upon rows of idleness, their eyes uniformly fixed on the large screen at the end of the theater room.
+16567||RPGSystem#rpg-loc-dialogue-floor-4.json] 그리고 무언가 먹는 소리만 어둠 속에서 들린다.|Only the sounds of consumption sliding down the gullets break through the silence.
+16568||RPGSystem#rpg-loc-dialogue-floor-4.json] 스크린에는 영화 통조림 제목: ‘노을을 향해 떠나는 고독한 해결사’라 적혀있다.|The following words are projected onto the screen: "Canned Film - Title: A Lone Fixer Departs into the Sunset".
+16569||RPGSystem#rpg-loc-dialogue-floor-4.json] 그렇게 스크린은 가만히 멈춰있다.|The image is static.
+16570||RPGSystem#rpg-loc-dialogue-floor-4.json] 그러나 저들은 멈춰 있지 않다. 누군가는 빨대로 누군가는 스푼으로 이 극장에서만 먹을 수 있는 통조림을 먹는다.|Its stasis is in contrast to the audience, who consume—some with straws, some with spoons—from the cans that can be eaten only within this cinema.
+16571||RPGSystem#rpg-loc-dialogue-floor-4.json] 그래서 그 어둠 속에서 저마다 다른 것을 보고 있을 것이다. 저마다 다른 순간을, 다른 생을 경험한다.|And yet, each member of the audience sees something different shifting in the shadows. Different moments. Different lives. Different experiences.
+16572||RPGSystem#rpg-loc-dialogue-floor-4.json] 그 가운데 연인처럼 어깨를 맞대고 앉은 두 사람이 보인다.|I focus on two people in the audience. They are leaning into each other as any loving couple would, so closely that their shoulders touch.
+16573||RPGSystem#rpg-loc-dialogue-floor-4.json] …우리, 지금 같은 걸 느끼고 있는 걸까?|... I wonder if we're both feeling the same thing.
+16574||RPGSystem#rpg-loc-dialogue-floor-4.json] 무서워. 이렇게 당신과 함께 있는데도.|I'm afraid. Even now, when we're pressed so close together.
+16575||RPGSystem#rpg-loc-dialogue-floor-4.json] <…뫼르소, 너도… 무서움을 느끼고 있어?>|<... Are you... afraid too, Meursault?>
+16576||RPGSystem#rpg-loc-dialogue-floor-4.json] 그렇습니다, 관리자님.|I am, Manager.
+16577||RPGSystem#rpg-loc-dialogue-floor-4.json] <언제부터?>|<Was there a specific reason, or...>
+16578||RPGSystem#rpg-loc-dialogue-floor-4.json] 어머니가 울며 괴성과 비명을 지르기 시작한 지 1년이 가까워지는 날…|It began when we were nearing a year since my mother...
+16579||RPGSystem#rpg-loc-dialogue-floor-4.json] 부터였습니다.|... had first begun her tearful wailing.
+16580||RPGSystem#rpg-loc-dialogue-floor-4.json] 절그렁… 하고 뫼르소가 자신의 사슬을 만지작거리는 소리가 들렸다.|Meursault tinkers with the chain link binding his belt together. <i>Clink.</i>
+16581||RPGSystem#rpg-loc-dialogue-floor-4.json] 침묵이 우리를 휘감는 사이.|Then, silence fell around us.
+16582||RPGSystem#rpg-loc-dialogue-floor-4.json] 그 참혹함을 시야에 담고 있던 때, 장면이 전환되듯 갑작스레 눈앞의 모든 것이 다르게 보이기 시작했다.|As I watched the carnage and plunder in horror, the world before me lurched and changed—as though an unseen hand had spliced the scene away.
+16583||RPGSystem#rpg-loc-dialogue-floor-4.json] 뫼르소의 기억… 이라기엔 어디에서도 뫼르소의 모습이 보이지 않는다.|Are these Meursault's memories...? But I don't see him anywhere in them.
+16584||RPGSystem#rpg-loc-dialogue-floor-4.json] <이건… 뫼르소의 기억이 아니잖아…>|<Wait, these aren't... These aren't Meursault's memories...>
+16586||RPGSystem#rpg-loc-dialogue-floor-4.json] <저 사람이… 잔느…>|<So that's... Jeanne...>
+16587||RPGSystem#rpg-loc-dialogue-floor-4.json] 무서워하다니, 무엇을요?|Afraid? What are they afraid of?
+16588||RPGSystem#rpg-loc-dialogue-floor-4.json] 이 세상 전부를.|<i>All</i> of it.
+16589||RPGSystem#rpg-loc-dialogue-floor-4.json] 거인들이란 자들은… 바깥에서 이곳을 계속 지켜보는 것인가?|Is it the role of these "Giants" to... observe the Grand Magasin from outside?
+16590||RPGSystem#rpg-loc-dialogue-floor-4.json] 저 가구들이나 다른 사람들도 처음에는…|The Furnishings, and everyone whom we had encountered thus far, were they not all once—
+16591||RPGSystem#rpg-loc-dialogue-floor-4.json] 도시에 살던 사람들이지 않았는가, 하는 말이 삼켜진 듯했다.|... "normal humans of the City?" was perhaps what she'd intended to say. But she let her words trail off, the rest of her thoughts unspoken.
+16592||RPGSystem#rpg-loc-dialogue-floor-4.json] 그것이 거인의 업무이니, 그럴 것이다.|Correct. That is one of the responsibilities assigned to the Giants.
+16593||RPGSystem#rpg-loc-dialogue-floor-4.json] 혹… 타인의 괴로움을 보고… 즐거워하는 자들만… 거인이 되는 것인가?|Then, pray—would one be correct in assuming that the role of a Giant is given to those who revel in the suffering of others?
+16594||RPGSystem#rpg-loc-dialogue-floor-4.json] 아니, 그 반대다.|No. It is the opposite.
+16595||RPGSystem#rpg-loc-dialogue-floor-4.json] 반대라뇨?|The opposite?
+16596||RPGSystem#rpg-loc-dialogue-floor-4.json] 거인들은 모두…|The Giants are all...
+16597||RPGSystem#rpg-loc-dialogue-floor-4.json] 무서워하는 자들이다.|... those who are afraid.
+16598||RPGSystem#rpg-loc-dialogue-floor-4.json] 오잉 관리자 나리, 왜 4층으로 오셨는가? 이곳에 남은 볼일이라도 있는 것이오?|What?! Manager Esquire, wherefore hast thou returned to this floor? Perchance there be an unfinished business here?
+16599||RPGSystem#rpg-loc-dialogue-floor-4.json] 음, 단테님 째깍이는 소리를 들으니까, 그냥 잘못 도착하신 것 같네요.|Hm, going by Dante's confused ticking... I think they just took a wrong turn somewhere.
+16600||RPGSystem#rpg-loc-dialogue-floor-4.json] <…'신발'은 아니었던 모양이야. 다시 지하 1층으로 돌아가서 에스컬레이터를 타자.>|<... "Shoes" was probably the wrong choice, then. Let's go back to B1 and try the escalator again.>
+16602||RPGSystem#rpg-loc-dialogue-floor-4.json] 행복한 옷장은… 잔해만을 남긴 채, 움직이지 않게 되었다.|Amidst the quiet, we noticed that the Happy Closet... had gone completely still. Only the remnants of the pillaging remained.
+16603||RPGSystem#rpg-loc-dialogue-floor-4.json] 그리고 그 속에서 홍루가 손바닥만 한 종이 하나를 집어 들었다.|Hong Lu leaned in and picked up a small piece of paper from what was left behind.
+16604||RPGSystem#rpg-loc-dialogue-floor-4.json] 그건 하등 필요 없는 쓰레기 잡동사니일 뿐이야.|Rubbish, that's what! I have no need of it.
+16605||RPGSystem#rpg-loc-dialogue-floor-4.json] 뭐… 원한다면 자네들에게 주도록 하지.|I'll generously part with that piece of trash should you like to take it.
+16606||RPGSystem#rpg-loc-dialogue-floor-4.json] 돈키호테는 적잖은 충격을 받은 듯, 멍한 표정으로 가만히 서 있을 뿐이었다.|Stunned, Don Quixote stared blankly at the closet's remains.
+16607||RPGSystem#rpg-loc-dialogue-floor-4.json] 종이에 그림이 그려져 있습니다, 아래에 글씨도 작게 써져 있군요. 확인해보는 게 좋을 것 같습니다 관리자님.|There is something written on the paper, Manager. It may contain information that is worth reading.
+16608||RPGSystem#rpg-loc-dialogue-floor-4.json] <아, 아… 그래. 종이를 살펴보자.>|<O-oh, yeah. Let's read what it says...>
+16609||RPGSystem#rpg-loc-dialogue-floor-4.json] '황금원단과 못, 모든 것을 깨우고 모든 것을 재우리라.'|"All shall be awakened by the Golden Fabric and the Nail; so too shall they lull them all to sleep."
+16610||RPGSystem#rpg-loc-dialogue-floor-4.json] <황금원단과 못…>|<The Golden Fabric and the Nail, huh...>
+16611||RPGSystem#rpg-loc-dialogue-floor-4.json] <이게 원레그가 말했던 그 전설의 무기일까…?>|<Could this be the legendary weapon that One-leg mentioned...?>
+16612||RPGSystem#rpg-loc-dialogue-floor-4.json] 그럴지도 모르겠네요.|That's definitely possible.
+16613||RPGSystem#rpg-loc-dialogue-floor-4.json] <일단 약속대로 말해주자.>|<Well, we did promise to update her if we came across anything important.>
+16614||RPGSystem#rpg-loc-dialogue-floor-4.json] 베풀기만 하는 자의 최후는 이런 것인 겐가.|So, such ruin is what awaits those whose generosity is untempered.
+16615||RPGSystem#rpg-loc-dialogue-floor-4.json] <…응.>|<... Yeah.>
+16616||RPGSystem#rpg-loc-dialogue-floor-4.json] 아, 손님 여러분.|Oh hello, dear customers.
+16617||RPGSystem#rpg-loc-dialogue-floor-4.json] 뭔가 사고 싶은 것이 있으신가? 한번 둘러보겠나?|Does anything catch your eye? No? Look around anyway—something might!
+16618||RPGSystem#rpg-loc-dialogue-floor-4.json] 어… 이제는 본인을 파시지는 않는 건가요?|Um... have you given up on selling yourself?
+16619||RPGSystem#rpg-loc-dialogue-floor-4.json] 몸에 걸치고 있는 것이 많아지다 보니 나의 값이 너무나 비싸진 것 같아서 말일세.|With so many items draped over me, I'm afraid I may have become a tad unaffordable.
+16620||RPGSystem#rpg-loc-dialogue-floor-4.json] 이것들을 좀 팔아넘기는 것이 낫겠다 싶더군.|So I thought perhaps I would do well to sell off some of these useless trinkets.
+16621||RPGSystem#rpg-loc-dialogue-floor-4.json] 자네들에게 도움을 받지 않은 건 아니니, 정가로 판매해 주겠네. 둘러보게.|Since you were of <i>some</i> help to me, I'll make an exception and sell them to you without the markup.
+16622||RPGSystem#rpg-loc-dialogue-floor-4.json] 물론 할인은 없지만.|Don't expect any discounts, of course.
+16623||RPGSystem#rpg-loc-dialogue-floor-4.json] 가구관에서 이런 레시피를 찾을 수 있었다.|We came across this recipe in the Furniture Hall.
+16624||RPGSystem#rpg-loc-dialogue-floor-4.json] 그곳은 나 같은 원레그조차도 쉽사리 넘보기 어려워. 아름다운 단 하나의 신발을 신고 갈 수는 있어도, 훌륭한 상하의도 맞추어야 하니까.|The sheer exclusivity of that floor makes it so that not even I, a One-leg, may enter freely. Though my singular footwear be of unparalleled beauty, the rest of my outfit must be up to its stringent standards as well.
+16625||RPGSystem#rpg-loc-dialogue-floor-4.json] 그, 그럼 어떻게 해야 하는 겐가?|Th-then what is it that we must do?
+16626||RPGSystem#rpg-loc-dialogue-floor-4.json] 더 귀한 옷을 입어야겠지. 적어도 명품관의 럭셔리 라인을 걸쳐야 할 거야.|Wear something more... exceptional, of course. Perhaps something truly premium from a Luxury label, at the very least.
+16627||RPGSystem#rpg-loc-dialogue-floor-4.json] <명품관이면 2층을 말하는 걸 텐데…>|<Luxury label? Sounds like something from the Luxury Hall on the second floor...>

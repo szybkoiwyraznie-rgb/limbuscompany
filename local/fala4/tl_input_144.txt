@@ -1,0 +1,96 @@
+13986||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그렇습니다. 우리가 끊임없이 돌보아온 요람에서… 우리의 모든 것을 맞바꾸어 백화점에서 피어나실 존재가 태어나고 계십니다.|Yes. This is the Cradle... the garden of our ceaseless tending. In this place, the Slumbering One stirs to nascency, to blossom their flowers throughout the Grand Magasin... in return for the offering that is all that we are.
+13987||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 더 이상 들리지 않는 목소리를 대신해… 르루주를 굽어 살펴주실 분이지요.|Yes... The one who shall tend to the Rouges in the absence of our Voice.
+13988||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <아직… 깨어나진 않은 것 같네.>|<They haven't been awakened yet, it seems.>
+13989||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 저는… 이곳에 앉아 백화점에서 가장 근사한 자장가를 부르고 있었답니다. 오로지 고귀한 분을 위한 요람을 짓고, 또 자아올리면서… 허기를 견디고 제 생애 최고의 명품을 만들어 냈습니다.|I've been humming the most wonderful of lullabies in all of the Grand Magasin. Building the Cradle for the noble one—my magnum opus—weaving it thread by thread, my conviction a weapon against this insatiable hunger...
+13990||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그러니까… 네가 저 뭔가의 유모… 그런 건가 본데… 뭐, 그럼 곧 깨어나는 거 아니냐? 우리를 왜 부른 건데.|So, you're like... What, that thing's nanny, I assume. And it's about to wake soon anyway, innit? What'd it call us here for?
+13991||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 제 역할은… 곤히 자고 계신 분께서 추위에 떨지 않도록 따스히 덮어주는 것. 이제 그 사명을 다했으니… 이만 여기서 멈추려 합니다.|My role was to be a warm blanket for the Slumbering One. Now that my duty has ended... I will soon meet my end.
+13992||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …엉?|... Eh?
+13993||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 갓 깨어나신 그 분은 연약하실 겁니다. 백화점의 모든 것은 그분의 살이 에일 만큼 가혹할 것이며, 무지한 검은 자들이 두려움에 빠져 고귀한 분을 균열 속에 영원히 파묻으려 할 테지요.|They will be weak upon waking. When the Slumbering One awakens, the gentlest breeze of the Grand Magasin will be as harsh as cutting winds to their skin, while the Noirs, driven by their ignorance and fear, will seek to bury the noble one within the fractures.
+13994||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …말하기 시작하니까 더 귀찮아졌네.|... You're a right pain in the arse now you've learned how to talk...
+13995||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그런 게 있어. 애들은 모르는 뭐… 아무튼 그런 게.|Some things just are. Grown-up stuff kids don't get.... Yeah, grown-up stuff.
+13996||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 나는 곧 자랄 거야.|I'm going to grow soon.
+13997||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 어쩌면 더 커질지도 몰라.|Maybe I'll grow even bigger.
+13998||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그러니까… 그 전에 더 많이 알고 싶어.|So... I want to know more before I grow.
+13999||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 모르는 걸 알아가는 동안에는… 춥지 않아. 비어있는 무언가가… 머릿속에서 까맣게 지워져.|When I'm learning new stuff... the cold goes away. I get to completely forget the empty something...
+14000||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그래서… 알고 싶어. 저자가 왜 죽었는데도 웃고 있는지… 알고 싶어…|That's why... I want to know. I want to know why she can smile even after dying...
+14001||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …본능일지도 모르겠군요.|... Instinct may lie at the root.
+14002||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 새로운 목소리를 찾고, 그 목소리를 따라 행하는 것만으로도 충만감을 느끼는 르루주의 본능…|The Rouges possess an instinct through which finding a new voice and following it fills an internal deficit.
+14003||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 본능이… 뭐야?|What's... "instinct"?
+14004||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 이자가… 나한테 노래를 불러주었던 거야?|Was this the one... who sang to me?
+14005||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 배우지 않아도 할 수 있는 것.|It's a capacity or behavior that does not require instruction.
+14006||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 눈을 뜨자마자 저절로 이끌어지는 것을 말합니다.|An inclination that directs the subject of its own accord from the moment consciousness begins. One's nature, in some ways.
+14007||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 나의 본능은… 뭔데?|Then what is... my instinct?
+14008||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그것은… 저희도 알 수 없습니다.|That is... unknown to us as well.
+14009||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 자신의 본성이 무엇인지는… 생의 끝자락에서조차 끝내 알지 못하는 경우도 많기에…|Many reach the end of life... without attaining a definitive understanding of their own essential nature...
+14010||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 뭐… 그렇다고 말하긴 했지.|Well... That's what she told us.
+14011||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 얼굴, 웃고 있어. 왜…?|The face... it's smiling. Why...?
+14012||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 뭐… 죽어가는 중에도 엄청 행복했던 거 아니겠냐.|Dunno... Maybe she were bloody over the moon, even with one foot in the grave.
+14013||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …왜?|... But why?
+14014||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 저자는… 네가 태어나기를 바라고, 고대했다.|She... wished for your birth and waited for it with anticipation.
+14015||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그러니… 뿌이, 너를 보았기 때문에 기쁘게 웃었을 것이다.|Therefore, seeing you likely produced that happy smile, Pwie.
+14016||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 모르겠어. 나는 이자를 몰라. 이자도… 나를 잘 몰라.|I don't understand. I didn't know her. She didn't... really know me either...
+14017||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그런데도 행복한 거야?|And she was still happy?
+14018||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 만족했다는 듯, 희미한 미소를 짓고 있다.|A faint, contented smile hangs from her lips.
+14019||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 타인을 위해 모든 삶을 내려놓기 위해선… 도대체 어떤 감정이, 경험이, 기억이 필요한 걸까.|To die in service of others, of another... What kinds of emotions, experiences, and memories are capable of shaping a person into someone who so readily makes such a decision?
+14020||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <이곳에도 르누아르들이 몰려오고 있어…>|<More Noirs are coming this way...>
+14021||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 이곳에서는 브랜드 디렉터의 황금가죽을 챙겨야 합니다.|We must bring the Brand Director's Golden Hide.
+14022||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <응, 안으로 들어가자.>|<Yeah. Let's get inside.>
+14023||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 천 하나와 어떤 르누아르의 기록이 숨겨져 있는 기둥이다.|It's a pillar where a piece of cloth and a Noir's note are hidden by its base.
+14024||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 르루주에 속해있던 자의 시체다. 날카로운 팔들이 모두 분질러진 채 바닥에 널브러져 있다.|The corpse of a Rouge. The bladed arms have all been snapped apart, leaving the body sprawled across the floor.
+14025||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 르루주에 속해있던 자의 시체다. 묵직한 망치에 온몸이 으깨져 형체를 알아보기 힘들다.|The corpse of a Rouge. The entire body has been crushed beneath a heavy hammer, mangled beyond recognition.
+14026||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …명품관이라고 해도, 좀 번쩍거리는 거 말곤 그게 그거 같은데.|... I ain't seein' what's so "luxury" about this place. Sure, it's a bit shiny, but it ain't <i>that</i> posh.
+14027||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아잇! 그냥 해본 말이야! 헤어쿠폰 한 번으로 됐지. 안 훔쳐 절대 안 훔쳐.|I get it, I get it! I was just floatin' the idea, nothin' more. Don't need another shite like that hair coupon incident happenin' again.
+14028||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 좋은 생각이라고 말하려고 했는데…|But I was just about to tell him that was a really good idea...
+14029||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그래도 쉽게 뚫릴 만한 재질도 아닌 것 같아, 훔치지 않기로 했다.|Ah, well. The display cases seem to be made from pretty durable material anyway.\nWe decided to move on.
+14030||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 그래도 다른 층에 비해 황금빛이 더 많이 돌거나, 정성스럽게 장식된 것이 눈에 띄인다.|These items seem to have a more obvious golden glow to them than the items on the other floors. Even the ones that aren't glowing are meticulously decorated, obviously crafted with great care.
+14031||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …꽤 많은 눈알을 지불해야, 구매할 수 있을 것 같군요.|... The items here appear to cost significantly more eyeballs than those available on other floors.
+14032||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 눈알 뿐만 아니라, 구매 등급 또한 엄격하다.|Carrying sufficient eyeballs is not enough. The Prestige Tier of the prospective client is also strictly screened before they are permitted to purchase these items.
+14033||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 야. 시계.|Oi, Clock.
+14035||RPGSystem#rpg-loc-dialogue-floor-2-b.json] …아니다. 뭔가, 좀 그렇네.|... Nah. I, hm. I've a bad feelin' about it.
+14036||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <왜, 왜 말을 하다가 말아…?>|<What? Bad feeling about what?>
+14037||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아니 그냥… 가져가서 다른 층에서 팔면 되지 않나 해서. 보는 사람도 없으니까…|Well... seein' as we're here anyway, I'm thinkin'—why don't we just take these and sell 'em on other floors? It ain't like there's anyone watchin' us...
+14039||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 원단 사이사이 촘촘히 박음질 된 황금가죽이 눈에 띈다.|Densely backstitched Golden Hide is visible between layers of fabric.
+14040||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 아마도 살점…에 뒤덮인 진열대다.|A display case. Covered in... what appear to be a curtain of flesh.
+14041||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 검은 기둥의 갈라진 틈에서 황금빛이 새어나온다.|Thin rays of golden light shine from the cracks of the obsidian pillar.
+14042||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 르루주들이 황금가죽을 뜯어간 자리에, 르누아르들이 르루주의 옷을 쑤셔 넣어둔 것 같다.|The Noirs have stuffed Le Rouge apparel into the gaps where the Rouges have carved out the Golden Hides.
+14043||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 붉은 살점에 완전히 뒤덮인 기둥이다. 본래의 형태라곤 찾아볼 수 없다.|The pillar is completely swallowed up beneath crimson flesh. Its original shape is difficult to discern.
+14044||RPGSystem#rpg-loc-dialogue-floor-2-b.json] [셀렉시옹 르누아르 - 아틀리에 뒤 프르미에 아르브르 - 브랜드 매니저가 엄선한 여섯 점의 셀렉션]|[Sélection du Noir - Atelier du Premier Arbre: A collection of six articles, hand-nominated by the Brand Manager herself]
+14045||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 야, 야… 너… 머리… 괜찮냐!?|Oi, oi... you... is your head alright?!
+14046||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 괜찮다.|It is all right.
+14047||RPGSystem#rpg-loc-dialogue-floor-2-b.json] <도움이 될만한 걸 많이 가지고 있어도, 아직 상대하기엔 이른 것 같네.>|<We've got plenty of stuff that might come in helpful, but... still too early to even try to fight it, I guess.>
+14048||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] …모두 말해버렸으니, 지금은 햇살을 피할 도리가 없어.|... You have divulged all. Now there is no escaping the sunshine.
+14049||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 그러니… 이 운명은 더 과거로 돌아가야 할 거야. 너희조차 인지하지 못하게.|And that is why... this fate must be regressed further into the past... In a way that is beyond even your notice.
+14050||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 너희가 진정 운명을 깨뜨릴 때, 다시 돌려줄 테니…|I will return it to you... when you truly break free of fate.
+14051||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 이 스러져가는 전당 앞에서… 무엇으로 경험을 반복할 것인지 선택해…|Choose how you will repeat your experience... before this crumbling edifice...
+14052||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 못…|A nail...
+14053||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 갈라진 곳을… 도로 박아 붙이고…|To be driven into the fractures... and bind the pieces together...
+14054||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 흔들리는 것을… 제자리에 고정하는…|To affix... those that falter...
+14055||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 그렇구나… 무너지는 것을… 붙들어 세우는 길로…|So it is... the path of giving support... to what is falling...
+14056||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 망치…|A hammer...
+14057||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 낡아 무너지는 것을… 제 손으로 부수고…|To break with your own hands... what age has brought to ruin...
+14058||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 그 자리에 새로운 것을…|And in its place, something new...
+14059||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 무너짐을 거스르지 않고… 앞당겨…|Not to resist collapse... but to hasten it...
+14060||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 폐허 위에… 새 목소리를…|A new voice... upon the ruins...
+14061||RPGSystem#rpg-loc-dialogue-floor-2-c1.json] 다시… 보내줄게…|Let me... send you there again...
+14062||RPGSystem#rpg-loc-dialogue-floor-2-c2.json] 낡은 기둥 아래, 르누아르들이 남겨둔 옷들이 보인다.|The Noirs have left behind piles of clothes at the base of this pillar.
+14063||RPGSystem#rpg-loc-dialogue-floor-2-c2.json] 본래 명품이었겠지만, 관리되지 않은 채 방치되어 지금은 그 가치를 잃은 듯하다.|Though they must've been luxury items once, they've lost their value after seasons of neglect.
+14064||RPGSystem#rpg-loc-dialogue-floor-2-c2.json] …호기심인지, 살의인지는 모르겠으나, 마음대로 해.|... I don't know if you're curious, or if you just want to kill me, but I don't care. Do what you will.
+14065||RPGSystem#rpg-loc-dialogue-floor-2-c2.json] 시뮬레이션에 불과한 이곳의 삶은, 백화점이 무너진다면 아무것도 아니게 될 테니까.|This "life" here is just a meaningless simulation that'll fall away once the Grand Magasin crumbles, anyway.
+14066||RPGSystem#rpg-loc-dialogue-floor-2-c2.json] 그분의 말씀대로, 이방인들이 해내었군.|The strangers have done it. All is as she said.
+14067||RPGSystem#rpg-loc-dialogue-floor-2.json] 그리고…. 고객님들은 등급이 낮아요. 저희 명품관은 모든 층에서 가장 고결하며 엄격하게 관리됩니다. 들어올 수 있는 인원은 제한적이어야 하죠.|Speaking of which... Hm, it appears your Prestige Tiers are too low to be admitted to the Luxury Hall anyway, dear customers. Please understand that the Luxury Hall is the most exclusive establishment on any floor. Naturally, its clientele has to be rigorously vetted and curated. That is to say, not just any Joe Shmoe should be allowed to waltz onto its grounds.
+14068||RPGSystem#rpg-loc-dialogue-floor-2.json] 등급은 뭔데? 지금은 못 들어간다는 거야?|The hell's a Prestige Tier? You ain't gonna let us in?
+14069||RPGSystem#rpg-loc-dialogue-floor-2.json] 네, 명품관은… 고객들을 끌어모으지 않으니까요.|No. I'm afraid the Luxury Hall... isn't the kind of establishment that needs to hawk to its customer base.
+14070||RPGSystem#rpg-loc-dialogue-floor-2.json] 곧 이 명품관이 개장 이래 가장 근사하게 거듭나는 날… 다시 와주세요.|It won't be long before the renovations are complete, elevating the Luxury Hall beyond even its halcyon days since the grand opening. Please return after raising your tiers if you'd like to bear witness to the magnificent sight to come.
+14071||RPGSystem#rpg-loc-dialogue-floor-2.json] …별로 오고 싶진 않은데.|... I'd rather not return at all, actually.
+14072||RPGSystem#rpg-loc-dialogue-floor-2.json] 야… 저것들도 뒤틀림이냐?|Oi... Are those Distortions over there?
+14073||RPGSystem#rpg-loc-dialogue-floor-2.json] <응… 일단은 뒤틀림 맞아. 불리는 이름도 다르고 다들 인지하진 못하고 있지만…>|<Uh... Kind of. No one <i>recognizes</i> them as Distortions, and this place has a different name for them, but... they are Distortions.>
+14074||RPGSystem#rpg-loc-dialogue-floor-2.json] 예전에 형님이 다른 조직들 부숴놓을 때 공사 들어갈 테니 연장 챙겨라'라고 하시긴 했었지.|My old bossman used to say "grab yer tools, lads! We're headin' out to <i>renovate</i> a whole lotta mugs!" whenever we went after other Syndicates.
+14075||RPGSystem#rpg-loc-dialogue-floor-2.json] 아뇨, 그저 인테리어를 바꾸는 것뿐이예요. 하지만 그저 낡은 진열 몇 개를 바꾸는 정도는 아니죠. 오직 한 분만을 위한… 요람을 만드는 중이니까요.|Not exactly, no; this is just a very special refitting, quite unlike any before it—more than just switching out a few out-of-fashion displays. This time, the project is to build a cradle... in anticipation of the advent of a very important someone.
+14076||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#515aee>여기에서는… 이렇게…</color>|<color=#515aee>For this floor...</color>
+14077||RPGSystem#rpg-loc-dialogue-floor-2.json] <color=#515aee>직감… 그리고… 근거…</color>|<color=#515aee>Intuition... reinforced by reason...</color>
+14078||RPGSystem#rpg-loc-dialogue-floor-2.json] <뭘… 하고 있었던 거야?>|<Uh... What's up?>
+14079||RPGSystem#rpg-loc-dialogue-floor-2.json] 아, 아니 화장실에 있는 놈들이랑 팔꿈치에 혀가 닿는지 안 닿는지 내기하자고… 크흠.|L-listen, me and the lads in the restroom were just, uhm, doin' a bet, that's all. Tryin' to see if it's possible to lick one's own elbow... *cough*
+14080||RPGSystem#rpg-loc-dialogue-floor-2.json] <여기서 번 돈… 눈알을 쓰다 보니까 등급이 올라서 올라올 수 있게 됐어.>|<Yeah, spending the money—I mean, "eyeballs"—we earned here raised our spending tier and allowed us to rise to a higher floor.>
+14081||RPGSystem#rpg-loc-dialogue-floor-2.json] <그런데 뒤부아는?>|<... Anyway, where's Dubois?>
+14082||RPGSystem#rpg-loc-dialogue-floor-2.json] 뒤부아? 그게 뭔데?|Dubois? What's that?
+14083||RPGSystem#rpg-loc-dialogue-floor-2.json] <아. 1층에서 우리랑 협력하기로 한 사람인데…>|<Oh, Dubois's the guy we met on the first floor. He was supposed to work with us...>

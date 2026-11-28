@@ -1,0 +1,96 @@
+1081||SpeechBubbles#BattleSpeechBubbleDlg.json] 뒤를 봐주시게!|Prithee, now watch my back!
+1082||SpeechBubbles#BattleSpeechBubbleDlg.json] 또 꿰뚫는다!|And skewered again!
+1083||SpeechBubbles#BattleSpeechBubbleDlg.json] 꿰뚫어 흔들면!|Skewer and jolt!
+1084||SpeechBubbles#BattleSpeechBubbleDlg.json] 본인이 쐐기를 박지!|I shall plant the wedge!
+1085||SpeechBubbles#BattleSpeechBubbleDlg.json] 필살! 필격! 필중!|Sure-kill! Sure-strike! Sure-aim!
+1086||SpeechBubbles#BattleSpeechBubbleDlg.json] ...이번에는 주워갈 머리조차 부숴져 버렸는가.|... Even the head hath been crushed beyond salvaging this time...
+1087||SpeechBubbles#BattleSpeechBubbleDlg.json] 길을 열겠네!|I shall clear the way forth!
+1088||SpeechBubbles#BattleSpeechBubbleDlg.json] 하... 이거 완전... 호랑이 새끼를...!|Hah...! An animal that bites the hand that fed it...
+1089||SpeechBubbles#BattleSpeechBubbleDlg.json] 이번엔 이 놈인가? 훗, 나도 거들지.|Is this one next? Let me lend you a hand.
+1090||SpeechBubbles#BattleSpeechBubbleDlg.json] 아직 공동 유작을 남길 때는 아닌 것 같군.|But now's not yet the time to release our posthumous collaboration piece.
+1091||SpeechBubbles#BattleSpeechBubbleDlg.json] 이대로 네 총알에 맞는 것도 나름의 예술이지만...|Letting your bullet strike me would indeed be an art of some kind...
+1092||SpeechBubbles#BattleSpeechBubbleDlg.json] 이대로 네 놈 총알에 맞는 것도 나름의 예술이겠군... 후.|Letting your bullet strike me would indeed be an art of some kind... *puff*
+1093||SpeechBubbles#BattleSpeechBubbleDlg.json] 피가 튀겠군.|A shower of blood is coming.
+1094||SpeechBubbles#BattleSpeechBubbleDlg.json] 시선에 눈이 멀지 않도록.|Don't let the gaze blind you.
+1095||SpeechBubbles#BattleSpeechBubbleDlg.json] 회풍(回風)!|Whirlwind (回風)!
+1096||SpeechBubbles#BattleSpeechBubbleDlg.json] 내 뒤로.|Get behind me.
+1097||SpeechBubbles#BattleSpeechBubbleDlg.json] 홍원의 주인? 하... 그래?  그 말이 사실이라면, 이번엔 반드시...|The Lord of Hongyuan, you say? Hah... That so? If what you say is true, then this time...
+1098||SpeechBubbles#BattleSpeechBubbleDlg.json] 내가. 너를 꼭 살린다.|I won't let you die, no matter what it takes.
+1099||SpeechBubbles#BattleSpeechBubbleDlg.json] 속사!|Rapid fire!
+1100||SpeechBubbles#BattleSpeechBubbleDlg.json] 패닝!|Fanning!
+1101||SpeechBubbles#BattleSpeechBubbleDlg.json] 방심했군.|You weren't counting bullets.
+1103||SpeechBubbles#BattleSpeechBubbleDlg.json] 시생멸법. 오래 필 수록 가치는 떨어지는 법이지.|All things that bloom are bound to wither. A flower that lingers only dulls its own worth.
+1104||SpeechBubbles#BattleSpeechBubbleDlg.json] (휘파람) 쏴야 할 때가 왔군.|*whistle* Time to take the shot.
+1105||SpeechBubbles#BattleSpeechBubbleDlg.json] 살고자 하는 모든 것들과 함께... 무덤으로 돌아가라.|Return to the grave... with all that desires to live.
+1106||SpeechBubbles#BattleSpeechBubbleDlg.json] 숨 막히도록 견뎌왔고, 절박하게 갈망했으며, 헤아릴 수 없이 저주했으니.|Breathlessly have I endured.\nWretchedly have I yearned.\nBeyond all reckoning, I have cursed.
+1107||SpeechBubbles#BattleSpeechBubbleDlg.json] 몰아치는 것은, 처절한 원망뿐.|What is left to rage on... is only a desolate resentment.
+1108||SpeechBubbles#BattleSpeechBubbleDlg.json] 마침내 끊어냈나.|Severed away, in the end.
+1109||SpeechBubbles#BattleSpeechBubbleDlg.json] 절연.|String Severance.
+1110||SpeechBubbles#BattleSpeechBubbleDlg.json] ...질기기도 하지.|... Stubborn one, this thread.
+1111||SpeechBubbles#BattleSpeechBubbleDlg.json] 알고 있겠지. 예측은 의미 없다는걸.|You know it, don't you? It's pointless to predict these moves.
+1112||SpeechBubbles#BattleSpeechBubbleDlg.json] 지긋지긋해! 당신도, 팔레르모도 전부 다!|I'm sick and tired of you and your Palermitan style—to hell with you!
+1113||SpeechBubbles#BattleSpeechBubbleDlg.json] 뜨거울 거야! 조금 많이!|Be warned, it's gonna be hot! Hot as hell!
+1114||SpeechBubbles#BattleSpeechBubbleDlg.json] 들려? 당신을 죽여라 절규하는 내 모든 시간들의 아우성이!|Do you hear it? Listen to the cacophonous cries of my every thread of time, all screaming to put you down!
+1115||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 순간이 다하도록 베어내리라.|Dissevering to this moment's end.
+1116||SpeechBubbles#BattleSpeechBubbleDlg.json] 사냥 끝.|The hunt comes to a close.
+1117||SpeechBubbles#BattleSpeechBubbleDlg.json] 예측은 의미 없어|Pointless to predict these moves.
+1118||SpeechBubbles#BattleSpeechBubbleDlg.json] 불스아이군|Bullseye!
+1119||SpeechBubbles#BattleSpeechBubbleDlg.json] 그럼, 안녕히.|Fare you well.
+1120||SpeechBubbles#BattleSpeechBubbleDlg.json] 기꺼이 밟아주지!|I'll gladly tread you underfoot!
+1121||SpeechBubbles#BattleSpeechBubbleDlg.json] 클린 컷.|A clean cut.
+1122||SpeechBubbles#BattleSpeechBubbleDlg.json] 왕의 비호를, 하사한다.|I hereby bestow upon thee... the king's favor.
+1123||SpeechBubbles#BattleSpeechBubbleDlg.json] 오베르튜레.|Ouvertüre.
+1124||SpeechBubbles#BattleSpeechBubbleDlg.json] 폭죽 소리가 들리는 것 같군... 때가 왔나.|I can hear the fireworks... Is it time, then...?
+1125||SpeechBubbles#BattleSpeechBubbleDlg.json] 따스한 피... 스며드는군.|Warm blood... It suffuses me.
+1126||SpeechBubbles#BattleSpeechBubbleDlg.json] 어버이시여... 이렇게 다시 함께 행진하기를 고대하고 있었나이다.|O Mother...! Long have I yearned to once again march by your side.
+1127||SpeechBubbles#BattleSpeechBubbleDlg.json] 재장전.|Reloading.
+1128||SpeechBubbles#BattleSpeechBubbleDlg.json] 탄환 고갈...!|Out of ammo...!
+1129||SpeechBubbles#BattleSpeechBubbleDlg.json] 큭... 군락의 방어를 목표로.|Nngh...  Defend the colony.
+1130||SpeechBubbles#BattleSpeechBubbleDlg.json] 이중 격발.|Twofold volley.
+1131||SpeechBubbles#BattleSpeechBubbleDlg.json] 조준은 필요 없지.|Aiming isn't required.
+1132||SpeechBubbles#BattleSpeechBubbleDlg.json] 대상 확인.|Target confirmed.
+1133||SpeechBubbles#BattleSpeechBubbleDlg.json] 철침탄.|Ironsting round.
+1134||SpeechBubbles#BattleSpeechBubbleDlg.json] 트랜지션|Transition.
+1135||SpeechBubbles#BattleSpeechBubbleDlg.json] 확산탄. 임상시험 성공…|Cluster round. Field testing successful...
+1136||SpeechBubbles#BattleSpeechBubbleDlg.json] 착화탄. 임상시험 성공.|Incendiary round. Field testing successful.
+1137||SpeechBubbles#BattleSpeechBubbleDlg.json] 여유탄 회수.|Retrieving surplus ammunition.
+1138||SpeechBubbles#BattleSpeechBubbleDlg.json] 마무리는 강렬하게.|A dramatic finish.
+1139||SpeechBubbles#BattleSpeechBubbleDlg.json] 흠, 발톱 모양의 상처... 어울리는군요.|Wounds from a claw... How apt.
+1140||SpeechBubbles#BattleSpeechBubbleDlg.json] 인스퍼레이션. 감사합니다.|Inspiring. Thank you.
+1141||SpeechBubbles#BattleSpeechBubbleDlg.json] 히스클리프, 지금.|Now, Heathcliff.
+1142||SpeechBubbles#BattleSpeechBubbleDlg.json] 사선이 비었어요.|Line's clear for the shot.
+1143||SpeechBubbles#BattleSpeechBubbleDlg.json] 이러면 쏠 수 있죠?|There, you can take the shot now.
+1144||SpeechBubbles#BattleSpeechBubbleDlg.json] 마무리를.|Let's wrap this up.
+1145||SpeechBubbles#BattleSpeechBubbleDlg.json] 부탁하죠.|All yours.
+1146||SpeechBubbles#BattleSpeechBubbleDlg.json] 여긴 맡겨주세요.|Okay, I've got this.
+1147||SpeechBubbles#BattleSpeechBubbleDlg.json] 짐승이여 길을 열어라.|Beasts! Open my path!
+1148||SpeechBubbles#BattleSpeechBubbleDlg.json] 관람객 분들께 더 이상의 추태를 보일 순 없죠.|I cannot let the audience witness such a degrading sight.
+1149||SpeechBubbles#BattleSpeechBubbleDlg.json] 파우스트. 신체파의 예술을 보여줄 시간이랍니다.|Faust. The time has arrived to exhibit the art of Corporism.
+1150||SpeechBubbles#BattleSpeechBubbleDlg.json] 그럼, 안녕히!|Good-bye!
+1151||SpeechBubbles#BattleSpeechBubbleDlg.json] 그럼, 안녕히.|Good-bye.
+1152||SpeechBubbles#BattleSpeechBubbleDlg.json] 폐장 시간이 되었답니다.|The gallery's closing hour is here, everyone.
+1153||SpeechBubbles#BattleSpeechBubbleDlg.json] 아쉽네요. 좀 더 멋진 상흔이 남은 작품이 되길 바랬는데.|A shame. I was hoping richer scars would make her into a better piece.
+1154||SpeechBubbles#BattleSpeechBubbleDlg.json] 아아... 예술적이네요!|Aah... How artistic!
+1155||SpeechBubbles#BattleSpeechBubbleDlg.json] 거기서... 지켜보시죠!|Be still... and observe!
+1156||SpeechBubbles#BattleSpeechBubbleDlg.json] 검은 신께서 가라사대.|Thus spake the Obsidian God.
+1157||SpeechBubbles#BattleSpeechBubbleDlg.json] 묵시하시죠.|You'll witness in silence, won't you?
+1158||SpeechBubbles#BattleSpeechBubbleDlg.json] 시야 확보... 쏜다!|Line of sight clear. Taking the shot!
+1159||SpeechBubbles#BattleSpeechBubbleDlg.json] 홍루, 지원한다.|Got your back, Hong Lu.
+1160||SpeechBubbles#BattleSpeechBubbleDlg.json] 엄호해줘!|Cover me!
+1161||SpeechBubbles#BattleSpeechBubbleDlg.json] 부탁한다, 홍루!|... I'll leave it to you, Hong Lu!
+1162||SpeechBubbles#BattleSpeechBubbleDlg.json] 쯧... 먼저 빠진다.|Tsk. Pulling back first.
+1163||SpeechBubbles#BattleSpeechBubbleDlg.json] 좋아... 탄창 교체 끝.|All set. Fresh mag loaded.
+1164||SpeechBubbles#BattleSpeechBubbleDlg.json] 저격 재배치 완료.|New firing position secured.
+1165||SpeechBubbles#BattleSpeechBubbleDlg.json] 우리 식구를 건드렸겠다?|You don't mess with our family!
+1166||SpeechBubbles#BattleSpeechBubbleDlg.json] ...이것들이 뒤질려고!|Hah... Got a collective death wish, you lot?!
+1167||SpeechBubbles#BattleSpeechBubbleDlg.json] 자신 있으면, 덤벼보던가.|C'mon, you sod...! Come get me if you can.
+1168||SpeechBubbles#BattleSpeechBubbleDlg.json] 참느라 목이 빠지는 줄 알았네... 하, 다 쳐죽여!|Bloody hell, thought I was goin' bonkers keepin' that down... heh heh. Kill 'em all!
+1169||SpeechBubbles#BattleSpeechBubbleDlg.json] 하하핫|Hahaha!
+1170||SpeechBubbles#BattleSpeechBubbleDlg.json] 혈천하계무난도(血天下鷄舞亂刀)!|Rooster's Rampaging Blades Under the Ensanguined Heaven (血天下鷄舞亂刀)!
+1171||SpeechBubbles#BattleSpeechBubbleDlg.json] 염조불사전(炎鳥不死戰)... 크핫, 진짜 죽는 줄 알았다... 어?!|Flame Rooster's Death Defiance (炎鳥不死戰)... Hah...! I really thought this was it for me... Ya hear me?!
+1172||SpeechBubbles#BattleSpeechBubbleDlg.json] 장난이 길었군.|Enough games.
+1173||SpeechBubbles#BattleSpeechBubbleDlg.json] 노래 더 키워!|Turn the volume up!
+1174||SpeechBubbles#BattleSpeechBubbleDlg.json] 핫!|Hah!
+1175||SpeechBubbles#BattleSpeechBubbleDlg.json] 전원|Complete and total...
+1176||SpeechBubbles#BattleSpeechBubbleDlg.json] 처형이다!|... Extermination!
+1177||SpeechBubbles#BattleSpeechBubbleDlg.json] 밤톨만한 것들|Half-pints.

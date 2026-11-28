@@ -1,0 +1,96 @@
+18881||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이 아해요.|This child.
+18882||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <이게 절삭 기계 라는 것 같아.>|<This must be the cutting machine.>
+18883||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 기계를 작동시켜 보겠습니다, 관리자님.|Activating the device now, Manager.
+18884||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …! 뭐가 몰려오고 있는 것 같은데요.|...! Something's coming.
+18886||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 황금… 황금가죽… 나도… 가죽…|Gold... Gold... Golden Hide... Want... the Hide...
+18887||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 우리가 만들고 있는 황금가죽을… 노리고 오는 것들인 것 같소.|They appear to covet the Golden Hide we are processing...
+18888||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <기계 작동이 끝날 때까지 이것들을 처리하자.>|<Let's keep them away until the machine's done with the processing.>
+18889||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 황금고치.|The Golden Cocoon.
+18890||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 황금고치를 쥐어짜서 원액을 둘러야 해. 여덟 번 정도 비틀면 안에 있는 것들은 거진 다 나올 거야.|The Golden Cocoon must be wrung for its extract, which will be used to paint over the garment. Eight good twists should squeeze out nearly everything inside.
+18891||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그럼, 꼬물… 아니 고치는 어떻게 되는 것이오?|Then what becomes of Wrigg—no, the cocoon?
+18892||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 껍데기만 남는 거지. 고치의 역할을 다 하고. 그래도 비어있는 껍데기를 만지는 것도 꽤 기분 좋을 거야. 흐물흐물하니까.|Its work as a cocoon will be finished, and only the husk will remain. Still, an empty shell should feel pleasant to touch, heh heh... Soft and limp...
+18893||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 다른 방법은 없는 건가요? 대체 재료가 있다거나…|There has to be another way. A substitute material, maybe, or another process...
+18894||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 함유될 수만 있다면… 고치와 하나가 되는 것도 괜찮아. 옷 입을 고객이… 고치를 꿀꺽 삼키는 거지.|Anything, as long as the Cocoon can be included in the outfit... Becoming one with it should work, too. Meaning, the wearer can simply... gulp it down.
+18895||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …꼬무리. 죽어?|... Is Wriggley going to die?
+18896||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 내 옷 때문에?|Because of my new clothing?
+18897||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …그렇다.|... Correct.
+18898||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그럼… 옷, 안 만들래.|Then... I don't want it anymore.
+18899||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그건 곤란해. 최종 작업만 남았어. 모두의 기분이 좋아지지 않아.|Oh no... We only have the last step to go through, though. No one will feel good if you stop now.
+18900||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …싫어!|... I don't want it!
+18901||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자… 됐다. 이제 마지막 재료만 있으면 완성이야.|There... almost done. One final material and it will be complete.
+18902||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 저희 지금까지 재료 구하러 오느라 백화점을 오르락내리락을 몇 번이나 한 줄 아세요? 물론 모든 과정에 제가 참여를 한 건 아니지만…|Do you have any idea how many laps we've made around this department store for materials? I wasn't there for every run, sure, but still...
+18903||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 기분 안 좋아졌다… 하지만 재료라면… 너희가 이미 가지고 있는 걸…|Aw... My mood's worsened now... But you already have... the material you need...
+18904||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아, 그래요? 그런 거라면 미리 말을…|Oh, we do? Well, why didn't you start with that—
+18905||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 정 싫다면 어쩔 수 없지만… 5층에 가려면 이 옷을 입어야 하잖아요.|Nobody can force you if you really don't want the clothes... But you need the garment to enter the fifth floor, don't you?
+18906||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그렇게 됐으니… 위로 올라가죠, 뿌이.|All right, then. Let's head back up, Pwie.
+18907||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …안 돼, 머무는 건 안 돼. 나는. 내가 태어난 이유는. 나는.|... No, I can't stay downstairs. I'm... I was born because... I'm supposed to... I...
+18908||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 더는 기다리지 못해.|I can't put this off anymore.
+18909||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뿌이 군…?|Pwie...?
+18910||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 올라가지 않아도 괜찮은 거예요?|Are you all right with not going up?
+18911||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그건… 그것도 안 돼…|That... that can't happen either...
+18912||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 올라가지 않으면… 기대에 부응하지 못해. 목소리를 낼 수 없어… 나아갈 수 없어…|If I don't go up... I'll let everyone down. I won't be able to make my voice heard... I won't be able to move forward...
+18913||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 내가 태어난 이유… 모두가 내게 기대하는 것…. 나 때문에 소멸한 자들….|The purpose I was born for... the thing I'm supposed to be... what everyone expects from me... everyone who got extinguished because of me...
+18914||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …마음이 복잡하겠구료. 아해가 선택하기엔… 너무도 가혹한 결정이오.|... You must be deeply troubled. This fork in the road is far too cruel for any child to choose.
+18915||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <…지하 1층으로 돌아가 보자. 해변을 더 뒤져보면… 고치가 남아 있는 유체가 하나 더 있을지도 모르잖아.>|<... Let's return to B1. Scouring through the Shore may be a needle-in-a-haystack job, but we might be able to find another living larva that still has its cocoon.>
+18916||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 확률은 희박할 겁니다.|The probability is low.
+18917||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …그렇다고 저렇게 아끼는데, 죽이라고 하기에도 좀…|But Pwie cares for it so much. I don't know, asking a child to kill it is just...
+18918||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뭐, 아무리 귀중한 재료라도, 찾으면 하나는 더 나오겠죠.|It may be rare, but there has to be one more somewhere. We can keep looking.
+18919||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 채워야 해. 텅 비었어, 처음부터 비어서… 부족해. 아무것도 없어. 채워야 해.|Have to fill. Empty. Began empty... Not enough. There's nothing. Have to fill.
+18920||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 무슨 말을 하는 거예요, 뿌이. 혹시 몸이 안 좋다거나…|Pwie, what are you saying? You're not making sense. Are you not feeling well or...
+18921||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뿌이가 다급히 뫼르소의 어깨에 떠다니던 고치를 잡아챘다.|Pwie lunged forward and snatched the cocoon floating above Meursault's shoulder.
+18922||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그러고는 소중히 손에 쥐고 경계하듯 키우는 자를 째려보았다.|They cradled Wriggley in both hands and glared at the Nurturer as though he were about to come for the cocoon.
+18923||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 끼에에에엑!!|<i>*screeeeeee*</i>
+18924||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …으으!!|... Ghhh!!
+18925||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <…늦었어.>|<... It's too late.>
+18926||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뿌이는 몸을 떨면서 바닥에 웅크렸다.|Pwie folded in on themselves, trembling violently against the floor.
+18927||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 겁에 질린 것 같기도 하고, 어딘가에 홀린 것도 같은 목소리.|The voice that escaped them sounded equally terrified and entranced, as though they'd been possessed by something.
+18928||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그 반응과, 번들거리는 욕망 가득한 떨림에서… 나는 불현듯 돈키호테를 통해 내게 들어왔던 충동이 떠올랐다.|That reaction, that trembling slick with naked desire... It's a lot like... that raw, unfiltered appetite I'd felt through Don Quixote.
+18929||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <뿌이, 잠깐 기다려. 우선 꼬무리를 뫼르소에게 돌려주고…!>|<Pwie, wait. Give Wriggley back to Meursault first...!>
+18930||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 배고파… 너무 배고파서…|Hungry.... I'm so hungry...
+18932||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …뿌이 군, 그대가 원한다면… 꼬무리와 똑닮은 고치를 다시 찾아헤맬 순 있을 것이오. 허나…|... Pwie, should you wish it... We could scour this place for another cocoon identical in form to Wriggley. Yet...
+18933||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 허나, 그것은… 꼬무리가 아닐터. 또 다른 고치일 뿐.|It would not be Wriggley... but merely another cocoon.
+18934||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뿌이는 정신이 돌아온 듯, 손에 남은 고치의 잔해들을 멍하니 쳐다보았다.|Pwie stared blankly at the wet pieces of Wriggley dangling between their fingers as if they'd just come back to their senses.
+18935||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 마치… 방금 자신이 했던 행동을 돌이키며, 후회하는 것처럼.|As though looking back at what they had done and finding regret waiting there.
+18936||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고객이 직접 먹었으니, 이제 황금가죽 옷을 완성할 수 있겠어.|The customer ate the cocoon! Now we can finish making a garment out of the Golden Hide.
+18937||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 나는, 아프게 하지 않을 줄 알았는데.|I... I thought I was the one who wouldn't hurt Wriggley.
+18938||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아프게 하고 싶지도 않았는데.|I never wanted to...
+18939||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 눈앞이 빨개졌어. 너무 배고프고 외로워져서.|... but everything turned red. I was so hungry... and so lonely...
+18940||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …꼬무리, 두 번 다시 못보겠지.|... I'll never see Wriggley again, will I?
+18941||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뿌이는 한번도 경험하지 못했을 허기와 탐욕에 사로잡힌 채…|Overtaken by the hunger and greed they must've never felt before,
+18942||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자신이 그토록 아끼던 고치를 허겁지겁 먹어 치웠다.|Pwie tore into the cocoon they had cherished, swallowing it in frantic mouthfuls before anyone could intervene.
+18943||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 우리는 그 광경을… 허망하게 바라볼 수밖에 없었다.|All we could do... was stand there and watch.
+18944||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이거… 그거죠. 일종의 충동 같은…|Hey... We've seen this before, haven't we? It's that same craving for...
+18945||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …전조는 있었다. 아마도…|... There might have been warning signs.
+18946||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 르루주들은 백화점을 고갈시키며 줄곧 섭취를 해왔다.|The Rouges have been consuming the department store to the point of depletion.
+18947||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <뿌이도… 계속 배고프다고 했었지…>|<And Pwie... kept saying they were hungry.>
+18948||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <참아왔던 걸까…>|<Were they fighting it this entire time...?>
+18949||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뿌이… 괜찮아요?|Pwie... Are you all right?
+18950||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자… 됐다. 봉제를 마친 황금가죽 옷이야. 이걸 플로어 매니저님께 최종 검수까지 받으면 될 거야.|There... Good to go. The Golden Hide garment is sewn~ Hee hee. Once the Floor Manager gives it a final inspection, it'll finally be completed.
+18951||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 잘 만들었어… 이것도 기분 좋은 일로 기억해야지.|It turned out well... Another thing to go on my list of pleasant memories.
+18952||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 놀이. 나도 할래.|Game? I wanna play, too.
+18953||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 떠올렸을 때 기분 좋은 것들에 대해 나열하는 중이야…|I'm listing thoughts that make the mind purr just by imagining them...
+18954||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 꼬무리를 만졌을 때. 축축하고 매끈매끈해.|The damp, slippery feeling whenever I touch Wriggley.
+18955||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 앞을 보았을 때 뒤따라갈 수 있는 자가 있다는 걸 알 때.|Looking ahead and knowing there is someone I can follow.
+18956||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 사슬 소리를 내는 자가 뒤를 돌아보고, 내가 잘 따라오고 있는지 확인할 때.|What I feel when the one whose chains rattle looks back to check that I'm still following.
+18957||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <…그랬어?>|<... You really did that?>
+18958||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 나한테 옷을 지어주기 위해서 한숨을 쉬면서도 재료를 구해오는 것을 볼 때.|Watching everyone sigh and complain... then still gather materials because the clothes are for me.
+18959||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 으으음… 그것도 좋을 것 같아.|Mmm... yes. All feel-good thoughts, yours.
+18960||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 상상하니까 기분 좋아졌어. 기분 좋게 황금가죽 옷을 봉제해 줄게.|Thinking about them makes me feel good. I'll sew the Golden Hide into your clothes while it lasts.
+18961||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 츄르릅… 찹…|*slurp* *smack*
+18962||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …그게 봉제 작업이에요?|... <i>That's</i> what passes as sewing here?
+18963||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이스마엘양, 사람마다… 아니 백화점 직원마다 저마다의 봉제 방식이 있는 법 아니겠소…|Miss Ishmael, every person... nay, every employee of this department store must have their own technique of sewing...
+18964||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 찹찹… 츄르르릅…|*lick* *smack* *slurp*
+18965||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 또 오고 있어. 내 옷을 탐내는 자들이.|More are coming. They want my clothes.
+18966||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 저건 르루주들 아닌가요…?|But aren't those... the Rouges?
+18967||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그리고 햇살에 눈이 먼 자들이다.|Rouges blinded by the sunlight.
+18968||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 무엇에 홀렸길래 떠받들려는 자까지 공격을 해 오는 것이오?|What has so enthralled them that they would assail even the being they intend to exalt?
+18969||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 눈이 멀었기에 분간하지 못한다.|Their blindness keeps them from discerning what must be done.
+18970||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <뫼르소, 이번에도 부탁할게.>|<All yours again, Meursault.>
+18971||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 황금가죽 옷을 제작해야 하는데 이곳에서 봉제를 할 수 있다 들었소만…|We were told the Golden Hide garment could be sewn here...
+18972||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …뜨거운 재봉틀에 들어갔을 때 나는 짜릿한 소리, 새롭게 물건을 샀을 때 붙은 비닐을 한 번에 찌이익 뜯어낼 때의 기분, 영수증이 점선에 따라서 지이익 하고 깔끔하게 떨어져 나갈 때의 손 맛…|... The sharp thrilling sound when cloth goes into a hot sewing machine. The feeling of peeling the film off a new purchase in one long riiiiip. The satisfying clean pull when a receipt tears exactly along the dotted line...
+18973||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …이건 무슨 놀이인 거죠?|... What sort of game are we playing now?
+18974||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …우리 아이들이 황금가죽 옷을 봉제해 주셨네요. 탐스러운 빛깔.|... I see my children have completed the Golden Hide garment. APPEALING SHEEN.
+18975||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그렇다, 사례는 얼마면 되지?|Yes. What is your price?
+18976||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이쪽에서 최종 검수를 해야 해요. 기다려주세요. 의욕 상승.|Final inspection must be performed here. Please wait. MOTIVATION RISING.
+18977||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 저자… 점점 넘겨주기를 싫어하는 것으로 보이오만…|He appears to clutch the garment more tightly with every passing breath...
+18978||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 원하는 만큼 눈알들을 드릴게요, 그러니까 옷을…|Give it back. We'll pay however many eyeballs you want...

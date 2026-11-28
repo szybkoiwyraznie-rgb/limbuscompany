@@ -1,0 +1,96 @@
+18678||RPGSystem#rpg-loc-dialogue-floor-b2.json] <어, 어디로 비켜야 하는데?>|<O-okay, where do you want me to move?>
+18679||RPGSystem#rpg-loc-dialogue-floor-b2.json] 쯧. 시간이 비틀렸나, 라는 뜻이다.|Tsk. I meant "time manipulated."
+18680||RPGSystem#rpg-loc-dialogue-floor-b2.json] 큭… 바늘이… 그자들을 그런 식으로 써먹는 건가.|Agh... So that's what those Needlekin do.
+18681||RPGSystem#rpg-loc-dialogue-floor-b2.json] <바늘이들도 계속 신경 써서 쓰러뜨려야 할 것 같아.>|<We're going to have to continue taking down the Needlekin, too.>
+18682||RPGSystem#rpg-loc-dialogue-floor-b2.json] <일단… 돌아가자. 그자가 고치를 잡아먹기 전에.>|<Well... let's hurry back before that monster devours the Cocoon.>
+18683||RPGSystem#rpg-loc-dialogue-floor-b2.json] 최악의 경우에는… 이미 잡아먹혔을 가능성도 있습니다.|We must prepare ourselves for the worst-case-scenario—it is possible that the Monster's already gotten its hands on the cocoon.
+18684||RPGSystem#rpg-loc-dialogue-floor-b2.json] 플로어 매니저가 있는 만큼, 무작정 진입할 수는 없을 것이다.|That is the Floor Manager's room. It will not find it an easy place to enter.
+18685||RPGSystem#rpg-loc-dialogue-floor-b2.json] <하긴… 기다리는 고객들도 있으니까.>|<Hm... That's true. There were other customers waiting in line, too.>
+18686||RPGSystem#rpg-loc-dialogue-floor-b2.json] <그래도 서두르는 편이 좋겠지, 그 복도로 다시 돌아가자.>|<Still, no reason to sit around and risk the worst. Let's head back to that corridor.>
+18688||RPGSystem#rpg-loc-dialogue-floor-b2.json] 쪼용, 쪼용… 너희… 바늘 필요해? 바늘 사면 쪼용해질 거야?|Quiety-quiet... You... need needles? Will you be quiety-quiet if you get to buy needles?
+18689||RPGSystem#rpg-loc-dialogue-floor-b2.json] 몇 개는 나한테 필요 없으니, 특별히 너희에게 팔아주도록 하지.|I've got some things I have no use for. I'll let you purchase those from me, as a special favor.
+18690||RPGSystem#rpg-loc-dialogue-floor-b2.json] 바쁘니까 빨리 골라. 허튼 생각 말고.|I'm busy, so choose quickly. And don't get any funny ideas.
+18691||RPGSystem#rpg-loc-dialogue-floor-b2.json] …순번표 없이는 아무것도 해줄 수 없단다.|... I can't do anything for you if you don't have a numbered ticket.
+18692||RPGSystem#rpg-loc-dialogue-floor-b2.json] 대기 중인 손님|Queueing Customer
+18693||RPGSystem#rpg-loc-dialogue-floor-b2.json] 새치기는 꿈도 꾸지 마…|Don't even think about cutting in line...
+18694||RPGSystem#rpg-loc-dialogue-floor-b2.json] 여기서 얼마나 기다렸는지 기억도 안 나…|How long have I been here...? I've lost track...
+18695||RPGSystem#rpg-loc-dialogue-floor-b2.json] 지금은 바빠. 변색되기 전에 끝내야 하거든.|I'm busy right now. I've got to finish this before the color starts to turn.
+18696||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아야…!|Oww...!
+18697||RPGSystem#rpg-loc-dialogue-floor-b2.json] 주변의 칙칙한 천들과 달리, 유독 화려한 빛깔의 천들이 걸려있다.|The fabric that hang here are vibrant—they stand out amidst the drab palette of the other clothes in the area.
+18698||RPGSystem#rpg-loc-dialogue-floor-b2.json] 누군가 정성스럽게 모아놓은 것 같다.|Someone put a quite a lot of care into gathering these here.
+18699||RPGSystem#rpg-loc-dialogue-floor-b2.json] 줄을 서서 기다리고 있다.|They're standing in line, waiting their turn.
+18700||RPGSystem#rpg-loc-dialogue-floor-b2.json] 조그만 고객들이 줄을 선 채 기다리고 있다. 들어가려고 하면, 저 바늘에 찔릴 것 같다.|A line of tiny customers waits ahead. They'll probably prick us with those needles if we try to squeeze past.
+18701||RPGSystem#rpg-loc-dialogue-floor-b2.json] <염료 창고로 이어지는 통로. 지금은 굳게 닫혀 있다.>|<A passage leading to the dye storage. It's sealed tight for now.>
+18702||RPGSystem#rpg-loc-dialogue-floor-b2.json] 실을 만드는 기계처럼 보인다. 일정한 속도로 실을 만들어내고 있다.|It seems to be a spinning machine of sorts. The contraption is spewing strands of threads at a constant, even pace.
+18703||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어디선가 끊임없이 실이 나와 감기고 있다. 어디로부터 오는 걸까?|Strands of thread spill forth, winding themselves around the spool. Where could they be coming from?
+18704||RPGSystem#rpg-loc-dialogue-floor-b2.json] <오…>|<Oh, wow...>
+18705||RPGSystem#rpg-loc-dialogue-floor-b2.json] 오티스가 가리킨 화면에는 세 가지 버튼이 떠올라 있다.|Three buttons appear on the display Outis indicates.
+18706||RPGSystem#rpg-loc-dialogue-floor-b2.json] 하. 평.실.은 아니었나 보군.|Huh. These threads are O. of a K.
+18707||RPGSystem#rpg-loc-dialogue-floor-b2.json] 거 너무 빠른 거 아니오? 실 좀 천천히 뽑으시오.|Don't you think you're going a little too fast? Slow down with the threads over there!
+18708||RPGSystem#rpg-loc-dialogue-floor-b2.json] 염색된 원단들이 차곡차곡 쌓여있다.|Neatly folded stacks of dyed fabric are piled here.
+18709||RPGSystem#rpg-loc-dialogue-floor-b2.json] 열차와 비슷한 소리가 문 너머에서 들려온다.|A sound resembling the rumble of a train comes from beyond the door.
+18710||RPGSystem#rpg-loc-dialogue-floor-b2.json] 가까이 다가가 살펴보면, 점점 새어나오는 빛이 강해진다.|As I move closer to investigate, the light leaking through the gap grows steadily brighter.
+18711||RPGSystem#rpg-loc-dialogue-floor-b2.json] <으, 으아악!?>|<Aaargh!!>
+18712||RPGSystem#rpg-loc-dialogue-floor-b2.json] …! 괜찮으십니까, 관리자님!?|...! Executive Manager!
+18713||RPGSystem#rpg-loc-dialogue-floor-b2.json] 도대체 무엇을 보셨길래…|Are you unharmed?! What did you see?
+18714||RPGSystem#rpg-loc-dialogue-floor-b2.json] <열차 소리 같은 게 나다가… 갑자기 빛이 확 들어와서…>|<I heard something like a train... and then this huge flash of light came through...>
+18715||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그 말에 오티스가 틈을 샅샅히 살피다가 무언가를 발견한 듯 손으로 가리켰다.|Outis scrutinizes every inch of the gap, then points as though she has found something.
+18716||RPGSystem#rpg-loc-dialogue-floor-b2.json] 무언가 껴있군요. 뫼르소, 꺼낼 수 있겠나?|Something is lodged inside. Meursault, can you remove it?
+18717||RPGSystem#rpg-loc-dialogue-floor-b2.json] 꺼낼 수 있다.|I can.
+18718||RPGSystem#rpg-loc-dialogue-floor-b2.json] 뫼르소가 틈에서 눈알을 꺼냈다.|Meursault removes an eyeball from the gap.
+18719||RPGSystem#rpg-loc-dialogue-floor-b2.json] 틈새 너머로 간간이 경적소리와 대화 소리가 들려온다.|The intermittent sounds of train horns and people murmuring are coming through the gap.
+18720||RPGSystem#rpg-loc-dialogue-floor-b2.json] 옆에는 안내문처럼, 테스트 중인 염료. 써볼 거면 조금만 퍼가…'라고 적혀 있다.|A note beside it reads, "Dye under testing. If you intend to use it, take only a little..."
+18721||RPGSystem#rpg-loc-dialogue-floor-b2.json] 보고 있으면 마음이 평안해진다.|Looking at it brings a sense of serenity.
+18722||RPGSystem#rpg-loc-dialogue-floor-b2.json] 파란색 염료가 통에 가득 차있다.|A bucket full of blue dye.
+18723||RPGSystem#rpg-loc-dialogue-floor-b2.json] 혹시나 싶어 열어 보려 했지만, 꽉 막아 놓았다.|Tried opening it, but the seal would not give.
+18724||RPGSystem#rpg-loc-dialogue-floor-b2.json] 앉으려고 하면, 팔레트 옆에 있는 자가 살벌한 표정으로 노려본다.|Whenever I try to sit, the person beside Palette fixes me with a vicious glare.
+18725||RPGSystem#rpg-loc-dialogue-floor-b2.json] 료슈도 같이 노려보기 시작했다. 말리고 싶기라도 한 듯, 검집이 료슈 뒤쪽으로 흔들거리며 움직인다.|Ryōshū levels her with a reciprocative glare of her own. Her scabbard sways behind her. Somehow, the motion seems like the wave of a hand of someone trying to stop a fight.
+18726||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 벌레 아냐. 꼬무리야.|It's not "bug." It's "Wriggley."
+18727||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 시, 실례했소. 그대도 꼬무리를 아프지 않게 보살피려 하지 않는가? 꼬무리는 그대에게 아무 대가도 치르지 않았는데도 말이지.|M-my apologies. You, too, care for Wriggley enough to spare it from pain, do you not? Yet Wriggley has paid no price for such tenderness.
+18728||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그건… 그러니까…|That's... because...
+18729||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …어떻게 설명해야 할지 모르겠어.|... I dunno how to explain it.
+18730||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 우리 또한 마찬가지일 테지. 그대를 돕는 이유를 마땅히 말로 설명하기 어려우니.|Then perhaps we are much the same in that regard. Language often fails where the heart has already chosen.
+18731||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <마음이 복잡해지네.>|<I'm feeling a bit conflicted.>
+18732||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고단한 여정이 될 것 같구료.|It seems a thorny road lies ahead.
+18733||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그래서 이상해.|That's why you're strange.
+18734||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 지금도 힘들어하면서도, 나 때문에 옷을 지어주려고 하잖아.|Even now, you're sighing... But you're still trying to make clothes for me.
+18735||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 모든 악의에 이유가 있지 않듯이… 모든 선의에 대가가 따르는 것은 아니오.|Just as malice is not always born of reason, kindness need not be weighed upon a merchant's scale.
+18736||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이를 테면, 뿌이 군… 그대도 여기 있는 벌레…|Consider this, Pwie: you, too, care for this bug—
+18737||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 하… 어쩔 수 없죠.|*sigh* No way around it, I guess.
+18738||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 한숨. 힘들 때만 내쉬는 건데.|You're sighing. Sigh is for hard times.
+18739||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 옷을 짓는 건 힘든 거구나.|Making clothes must be hard, then.
+18740||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뿌이 군의 옷이 유독 힘든 것일 수도 있겠소…|Perhaps it is simply that young Pwie's garment is uniquely difficult to make...
+18741||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 왜?|Why?
+18742||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 내가 백화점에서… 고귀하면서도 경멸스러운 존재라서?|Is it because I'm... both noble and abominable in this department store?
+18743||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 음… 특별하긴 하죠.|Hmm... more like "special," I'd say.
+18744||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 너희는 나를 숭배하지도, 혐오스러워하지도 않아.|You don't worship me, and you don't find me disgusting.
+18745||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 눈알을 달라고도 안 해. 오히려 자꾸만 나한테 뭘 사주려고 해.|You don't ask me for eyeballs. Instead, you pay eyeballs to buy me things.
+18746||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이유를 물어봐도 되겠습니까, 관리자님.|May I ask why, Manager?
+18747||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <…그렇겠지, 그래도… 모른 척 하고 싶지는 않아서…>|<... Probably. Still... I don't want to look away from what I'm feeling...>
+18749||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <사실 우리는…>|<The truth is, we...>
+18750||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <뿌이를 위해서 옷을 지어주려는 것처럼 보이지만…>|<On the surface, it looks as though we're making these clothes entirely for Pwie's sake, but...>
+18751||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 네, 엄밀히 말하자면 지난번과 다른 결과값을 도출하기 위해서. 라는 것에 가깝습니다.|Yes. Strictly speaking, our objective is not aimed at altruism, but at producing a different outcome from the previous one.
+18752||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <그래, 하지만 뿌이는 그 사실을 모르잖아.>|<Right. But Pwie doesn't know that.>
+18753||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 알려준다고 한들, 그것은 이해를 하지 못할 겁니다.|Even if we told Pwie, the entity would not comprehend the full premise.
+18754||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <응, 하지만… 본의 아니게 속이게 되는 것 같아서 마음이 안 좋네.>|<I know, but... it still feels awful, like we're deceiving Pwie without meaning to.>
+18755||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 우리가 ‘뿌이’라고 부르는 것은, 관리자님도 인지하다시피 백화점 바깥에는 존재할 수 없는, 오직 이곳에만 존재하는 것입니다.|The entity we call "Pwie" can exist only here, as you are already aware. It cannot exist outside the Grand Magasin.
+18756||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <그래도… 소통을 하고 시간을 보내면서… 마음이 생겼잖아.>|<I know... But what about all the talking and time we spent together? We have a real connection with them now.>
+18757||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그건 해답이 존재하지 않는 고민입니다. 그렇기에 그런 마음을 느끼는 것은 관리자님의 마음을 더 안 좋게 만들기만 합니다.|It's a dilemma that has no answer. Dwelling on such feelings will only worsen your distress, Manager.
+18759||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 장부 갱신 완료!|Ledger updated!
+18760||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아하… 네.|Uh-huh... Right.
+18761||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 세상에 공짜란 없는 법이오, 설령 백화점이더라도…|Nothing in the world comes without a price tag. Even here, in the confines of <i>this</i> department store...
+18762||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 옛날엔 더 많은 가죽쟁이들이 있어서 가죽도 많이 나왔는데 지금은 퇴직된 녀석들만 남았어. 자투리 원피의 살점들을 챙겨서 파느라 팍팍해졌지.|There used to be more hideworkers—more hides to go around. Now only the retired ones are left. Business is so tight that we scrape meat from leftover rawhide and sell it by the scrap.
+18764||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 에스컬레이터로 내려왔어요, 흔하지 않은 현상.|Arrival by escalator. UNCOMMON PHENOMENON.
+18765||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 무슨 일 일까요? 기대가 되네요. 폐기물 예외 처리 필요.|What business? Looking forward to it. WASTE DISPOSAL EXCEPTION FLAGGED.
+18766||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 목소리의 주인은… 목을 한계까지 꺾어 올려야 할 정도로 거대한 몸집을 하고 있었다.|The owner of the voice was so enormous that we had to crane our necks to their limit merely to find his face.
+18767||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 당신들은 이질적이에요. 이곳에 굴러 떨어지는 것들은 에스컬레이터를 쓰지 않으니까요. 범위 밖의 존재.|You are anomalous. Objects reaching this floor don't normally arrive on an escalator. OUT-OF-RANGE ENTITIES.
+18768||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 상식적이지 않네요. 대상 파악 필요.|Not consistent with common sense. IDENTIFICATION REQUIRED.
+18769||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 상식과 비상식을 논하기에는 너무나 많은 일이 지나있기에 이스마엘은 입을 다물었다.|I expected Ishmael to come back with something about what counted as common sense and what didn't, but she stayed quiet. I suppose she had seen too much by this point to split hairs over semantics.
+18770||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그것은 거대한 몸을 화악 숙여서 이스마엘과 눈 높이를 맞추었다.|The being suddenly bent his massive body down until it was eye to eye with Ishmael.
+18772||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 진정하세요. 현 시점 공격 의사 없음.|Please remain calm. NO HOSTILE INTENT AT PRESENT.
+18773||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그것의 커다란 등딱지에는 구멍이 나 있었고, 그 구멍마다 우리를 쳐다보고 있는 동그란 얼굴과 흡사한 것이 하나씩 차 있었다.|Its massive carapace was riddled with holes, each one holding something like a round face that stared straight at us.
+18774||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 안쪽에서 이리저리 돌아가면서 주변을 쳐다보고 있는 것을 보니 뭔지 모를 공포감이 들기도 한다.|The faces swiveled independently within the shell, peering every which way. The sight stirred a dread I could neither name nor shake.
+18775||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …고래가 생각나네요.|... It reminds me of a Whale.
+18776||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <…그러고 보니 구멍 고래가 이런 느낌이었던 것 같기도 하네.>|<... Now that you mention it, the Whale of the Porous Hand had a part that looked like this entity's carapace...>
+18777||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …관찰중.|... Hm. OBSERVING.
+18778||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 너무… 겁먹을 필요 까지는 없을 것 같소.|There seems... little cause to let terror take root just yet.

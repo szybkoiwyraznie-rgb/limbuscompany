@@ -1,0 +1,96 @@
+14380||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 물론이에요. 여기… 제가 모아둔 눈알들이에요.|Of course, of course. Here... take the eyeballs I have gathered.
+14381||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그 물건을 우리에게 내놔. 그렇게만 해준다면… 너희를 다시 고객으로 맞이할게.|Hand over that artifact... and we will greet you as customers, not enemies.
+14382||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <뭔가… 저번이랑 다르게 엄청 적대적인데.>|<They're... a lot more hostile than they were the first time.>
+14383||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …르누아르의 거인이 무언가 조치를 취한 것 같습니다.|... It is likely that the Giant who guides Le Noir has done something behind the scenes.
+14384||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…잔느도 재고 정리 이전을 기억하고 있었지. 그렇다면… 르누아르의 거인도 마찬가지일 테고.>|<Oh, yeah. Jeanne remembers the events prior to the loop... then the Noir's Giant must be just as immune to the Liquidation as she is.>
+14385||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 어, 어떻게 할까요? 무얼 원하는지는 모르겠지만… 뫼르소씨가 가진 걸 빼앗고 싶어 하는 것 같은데…|Wh-what do we do? I don't know exactly what they're looking for, but... I think they want something from you, Meursault...
+14386||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이들에게 뫼르소가 가진 것을 건네면… 르누아르의 호감을 살 수 있을지도 모른다.|Handing over Meursault's artifact will definitely get us into the Noirs' good graces.
+14387||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그리고 다시 감정평가서를 받고, 원레그에게… 아냐, 그래서야 백화점 모두가 멈춰버리는 이전과 다를 게 없잖아.|Then they'll give us the Authenticity Certificate, and we'll bring that to the One-leg on the—wait, no. That'll just lock us into the same route as before.
+14388||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <줄 생각 없다고, 전해줘.>|<Tell them that we refuse.>
+14389||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 우리는… 당신들에게 아무것도 주지 않을 것이다.|We... will not hand anything over to you.
+14390||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그렇다면 너희는 우리 매장의 고객이 될 수 없다.|Then you are our enemy.
+14391||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 역시 브랜드 매니저께서 말씀하신 대로네.|It really is as the Brand Manager has said.
+14392||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이방인들이여, 너희는 르루주들이 어떤 존재인지 전혀 모르는군.|Strangers, you don't seem to understand the Rouges' true nature, so let me fill you in on just what kind of horror you'd be unleashing.
+14393||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이 백화점이 아직 무너지지 않은 건… 균열마다 덮인 황금송진 덕분이었다.|The only thing keeping the Grand Magasin from collapse are the patches of the Golden Resin that have grown over its cracks.
+14394||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그것들은… 그 거룩한 송진을 고작 제 몸에 두르고 허기를 채우기 위해 뜯어냈어.|And those red ones... they've been scraping that holy resin from the walls just to wear it as clothes and sate their vain hunger.
+14395||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 르루주의 몰락은 그 탐욕에 대한 벌이지! 우리가 그 꼴을 보기까지 얼마나 오래 기다렸는지 알고 있어?|Their destruction's been long overdue! Do you have any idea how long we've waited for their own greed to come back and bite them?
+14396||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 주지 않겠다면… 너희도 그들과 다름없다는 뜻일 터. 무력으로 빼앗을 수밖에.|If you still won't hand it over, then... you're no different from them. Which means we'll have to take it from you by force.
+14397||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 목소리를 잃은 것들이 미쳐가다 못해 흉악한 일을 꾸미고 있고…|Driven by madness, those abandoned by the Voice have begun to scheme a plan most wicked...
+14398||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 백화점에 새로 굴러든 이방인들과 손을 잡을 것이라고 말이지…|... and they shall join hands with the strangers who have just arrived at the Grand Magasin.
+14399||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 손을 잡은 적은 없다. 우리는 르루주에도 르누아르에도 속해 있지 않으니까. 남의 분파 사이에 휘말릴 생각은 더더욱 없고.|There wasn't any joining of hands. Let me clarify now that we are not affiliated with either Le Rouge or Le Noir—we'd much rather keep to ourselves than get involved in a war we have no stake in.
+14400||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이미 목소리께 들었지. 너희 이방인들이, 수선사를 없애달라는 부탁을 듣고 이곳으로 올 것이라고.|The Voice has prophesied your coming, strangers. That you would come here, after receiving a request to eliminate the Alterationist.
+14401||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 일러두지. 그자를 없앤다는 건 우리 르누아르를 적으로 두는 것이다. 특히 지금 같은 비상 상황에 우리는 수선사가 만든 원단들을 유용하게 사용해 왔으니까.|Should you bring her harm, we will henceforth declare you enemies of Le Noir. We cannot dispense with the fabric she weaves in times of crisis like the present.
+14402||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 브랜드 매니저께서도 그 원단을 이용해 무수한 역경을 헤쳐오셨고.|The Alterationist's importance cannot be overstated. Even the Brand Manager has had to use her fabric to overcome countless trials.
+14403||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그리고 브랜드 매니저께서 말씀하신 바에 의하면 너희는 그것들의 흉계에 쓰일 물건을 지녔다더군.|The Brand Manager has also told us much about your plans. You possess an artifact that is integral to the Rouges' insidious plot, don't you?
+14404||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그것들과 손을 잡은 게 아니라면… 지금 이 자리에서 증명해주길 청하지.|We'll give you a chance to prove your true allegiance right now, right here.
+14405||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <지난번과는 다른 선택을 해야 해…>|<I can't make the same choices again and expect things to be different...>
+14406||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…우선 그 재고 정리라는 현상에 대해 알아봐야 할 것 같은데…>|<... First things first, we need to learn everything we can about the "Liquidation.">
+14407||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <뫼르소… 혹시 잔느가 있는지 불러줄 수 있어?>|<Meursault, can you call Jeanne and see if she's watching us?>
+14408||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …잔느, 재고 정리의 기준을 알고 싶다.|... Jeanne. I would like to know more about the conditions to triggering the Liquidation event.
+14409||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>아, 참고로 지금 내 목소리는 당신과… 이 근사한 헤어스타일을 가진 자 말고는 들리지 않아. 비밀로 하고 싶은 것 같으니, 나도 소근소근 이야기 해줄게.</color>|<color=#ebcaa2>Oh, and don't you two worry—I made sure that only you and your... Manager with that extraordinary hairdo can hear my voice, since you two are trying to keep this between us. Aren't I so thoughtful?</color>
+14410||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…그건 고맙네.>|<... I appreciate that.>
+14411||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 관리자님께서, 고마움을 표하셨다.|The Manager expresses their appreciation.
+14412||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>후후. 그 감사에 대한 답례를 주자면…</color>|<color=#ebcaa2>Fuhu. I do have a piece of advice for a polite clock like you...</color>
+14413||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>이전과 다른 선택을 해보려는 것 같은데, 그건 의미가 없을 거야.</color>|<color=#ebcaa2>I see that you're trying to make different choices from your last attempt, but let me save you the time and effort: it won't matter.</color>
+14414||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>이 백화점의 끝이 무엇이라고 생각해, 마 퓌스?</color>|<color=#ebcaa2>What do you think the end of the Grand Magasin will look like, ma puce?</color>
+14415||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …모른다. 나는 그저 관리자님의 판단을 따를 뿐이다.|... I do not know. I am only following the Manager's judgment.
+14416||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>내가 알고 싶은 건 당신의 판단인데 말이지.</color>|<color=#ebcaa2>But it's <i>your</i> judgment that I'm curious about.</color>
+14417||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>그럼… 입을 꾹 다물고 있는 당신을 대신해서… 입 밖으로 꺼내지 않은 당신의 판단을 말해줄까?</color>|<color=#ebcaa2>Fine. Then let me free that judgment trapped behind your teeth, since you're being annoyingly tight-lipped about it.</color>
+14418||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>이 백화점은 끝이 정해져 있어.</color>|<color=#ebcaa2>"This Grand Magasin has a predetermined end."</color>
+14419||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>후훗. 마 퓌스. 이곳에서 나를 먼저 불러준 건 이번이 처음이네.</color>|<color=#ebcaa2>Fuhu, ma puce... This is the first time you've decided to call me in here.</color>
+14420||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>쓸데없이 발버둥 쳐도, 그 마지막만큼은 달라지지 않아. 그러니까… 지금 하고 있는 고민도 행동도… 모두 쓸모없는 일이란 거지.</color>|<color=#ebcaa2>"We can keep searching, keep trying, keep struggling—but it won't change how it ends. Which makes everything we're doing... everything we're racking our brains to solve... simply pointless."</color>
+14421||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>차라리… 쇼핑이라도 하고나서 자신을 뽐내고 다니는 게 어때? 여긴 백화점이잖아.</color>|<color=#ebcaa2>Hey, why don't you... go on a shopping spree instead? Make yourself stand out to the world. Come on, you're in a department store for heaven's sake!</color>
+14422||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>답하자면… 간단해. 더 이상 양질의 경험 통조림이 제작되지 않을 때. 백화점에서 찌꺼기만이 생산되어, 원활한 유통이 이뤄지지 않는다고 판단했을 때. 백화점은 재고를 모두 정리해버려.</color>|<color=#ebcaa2>The answer is pretty simple, actually. When the Grand Magasin stops producing Canned Experiences that meet its quality standards, when its output is reduced to useless dregs no one would buy... that's when Liquidation occurs.</color>
+14423||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …시간을 되돌리는 것인가?|... Does the Liquidation process entail rewinding time?
+14424||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>그건 아니야. 그러기 위해서는 T사랑 협약도 맺어야하고… 에너지도 엄청 많이 필요하거든. 로보토미 사가 몰락한 지금 쓰기엔 비용이 맞지 않아.</color>|<color=#ebcaa2>Nope. Time loops are more trouble than they're worth—gotta make arrangements with T Corp., somehow secure a consistent and massive supply of energy... It's especially impractical now that we can't rely on Lobotomy Corporation for that last part, what with its downfall and all.</color>
+14425||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>시지프 백화점이 택한 방식은… 백화점에 있는 모든 고객들의 기억을 지우는 거야. 이건 비교적 간단하고, 저렴하거든. 재부팅하는 거지.</color>|<color=#ebcaa2>Instead, Grand Magasin Sisyphe has chosen to simply... wipe the memories of every customer imprisoned within. It's a relatively simple process, not to mention much, much cheaper. It's a total system reboot, if you will.</color>
+14426||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <기억을… 아, 그래서 구매 등급이랑 물건들이 그대로 있었던 거구나.>|<It's just a memory wipe...? So that's why we didn't lose our purchases or the Prestige Tier.>
+14427||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>물론 기억을 완전히 처음으로 되돌리는 건 아니야.</color>|<color=#ebcaa2>Unfortunately, we can't do a complete reset, which would bring the Grand Magasin back to its very beginning...</color>
+14428||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>처음부터 딛고 시작하려면… 네 명의 거인이 모두 필요하거든.</color>|<color=#ebcaa2>The seats of all four Giants need to be filled for that process.</color>
+14429||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>지금은 예전처럼 완전한 리셋을 못 한 채 특정 시점까지의 기억을… 반복하고 있을 뿐이지. 그러다 보니 경험 통조림 생산량도 예전 같지 않고.</color>|<color=#ebcaa2>With the present vacancy among the Giants... we've only been able to reset up to a certain point in time, which means that the Canned Experience production rate hasn't been able to match our potential output for a while.</color>
+14430||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…조언은 고맙게 받겠다고 전해줘. 하지만… 다른 선택은 계속 해볼 거야.>|<... Thank her for the advice. But we'll continue to explore all of our options.>
+14431||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 관리자님의 판단에는 변함이 없다, 잔느.|The Manager's judgment remains the same, Jeanne.
+14432||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>나는 고집 센 고객들을 아주 많이 보아왔어. 그리고 그 모든 아집들이 아주 천천히… 그리고 놀랄 만큼 빠르게 이곳에 순응해가는 것도 보았지.</color>|<color=#ebcaa2>I've seen so many customers come into this place, determined and ready to fight against its currents... only for them to rapidly settle into the Grand Magasin's system like compliant little lambs.</color>
+14433||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>지켜보고 있을게. 지켜보는 건, 내가 제일 오래 해오던 일이니까.</color>|<color=#ebcaa2>Well, while you keep yourselves busy with that silly business, I'll sit nicely in this corner and be a quiet witness to your adventures. I've been one for a long, long time anyway.</color>
+14434||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>…오랜만에 뜨거운 커피를 내려야겠어. 한참 식혀서 천천히 마지막 모금을 입에 머금을 때쯤엔…</color>|<color=#ebcaa2>... I should go brew myself a steaming hot cup of coffee. I'll take my time until it cools down nicely, and by the time I take the final sip...</color>
+14435||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>마 퓌스. 당신은 내 말의 의미가 뭔지 알고 있지?</color>|<color=#ebcaa2>You know what I'm talking about, don't you, ma puce?</color>
+14436||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 관리자님, 괜찮으십니까? 아까부터 자꾸 혼자서 무언가를 중얼거리시고…|Is everything alright, Executive Manager? You've been muttering to yourself for a while.
+14437||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <아, 잠시 생각할 게 있어서.>|<Ah. I've just been lost in thought, that's all.>
+14438||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <일단… 우리는 그자의 부탁을 들어줬으면 해. 수선실로 가자.>|<Alright, let's, uh... let's do as that Rouge asked. Next stop's the Alteration Shop.>
+14439||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 훗. 탁월한 선택이십니다.|Heh. Excellent choice, Executive Manager.
+14440||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 오티스와 싱클레어가 티격태격 담소를 나누며, 수선실로 갈 채비를 마친다.|I watch Outis and Sinclair arguing about random trivialities as they prepare to head to the Alteration Shop.
+14441||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 저 두사람은… 모르고 있다.|Neither of them knows...
+14442||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 우리가 이미 끝에 도달했고, 아무 일 없었다는 듯 다시 1층으로 떨어졌다는 걸.|... that we'd already reached the "end" once and had woken up on the first floor like nothing had happened.
+14443||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <이번에는… 다른 결과를 도출해낼 수 있을까?>|<Do you think we'll be able to... reach a different outcome this time?>
+14444||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <아니면… 그냥 믿지 않는 걸지도 몰라. 달라지는 게 없다고 잔느는 말했지만… 아직 겪지 못한 일이니까.>|<... Or maybe I'm just choosing not to believe Jeanne. She said the end won't change no matter what we do, but... we haven't tried it yet, have we?>
+14445||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 무엇 하나 합리적이었던 적이 없는 여정.|Yeah. More often than not, our journey so far has been full of unreasonable absurdities like these.
+14446||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그러니… 마땅한 답이 나올 것이란 기대는 하지 않기로 했다.|I decided that, therefore, it was unreasonable of me to expect that the solution would be delivered to us on a silver platter.
+14447||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그렇다면… 무엇을 할 수 있을까.|Then... What <i>can</i> we do?
+14448||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 계속 다음으로 나아가는 것 외에 별달리 할 수 있는 게 없는 것 아닐까.|Just keep on keeping on, I guess.
+14449||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <다른 선택을 해보자.>|<Let's try doing things differently this time.>
+14450||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <결말이 다르지 않다면… 그때 가서 생각해보고.>|<I know we might just end up proving Jeanne right, and maybe nothing will change from our last attempt. But we can cross that bridge when we get to it.>
+14451||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <너, 너무 무책임한가?>|<... A-am I being too irresponsible?>
+14452||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …그것이 관리자님의 판단이라면, 따르겠습니다.|... If that is how you have judged this situation, Manager, then I will do as ordered.
+14453||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 다른 결과값을 도출할 수는 있습니다. 하지만 잔느의 말대로…|Yes, we will be able to reach a different outcome. However, as Jeanne has said...
+14454||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 백화점의 재고 정리를 막는 것과는 별개의 문제일 것입니다.|... it will be irrelevant to preventing the Liquidation process.
+14455||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…방법을 모르겠네, 희망도 안 보이고.>|<... I'll be honest, I'm feeling a bit lost. I don't have any clues... let alone any hope of finding one.>
+14456||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …그럼에도.|... But...
+14457||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그렇게 말씀하시면서도, 발걸음을 멈추지 않으시는군요, 관리자님.|I see that you haven't let that slow your pace, Manager.
+14458||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 뫼르소가 내 행동을 관찰하듯이 바라본다.|Meursault regards me as if he's scrutinizing me.
+14459||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 질문이었을까. 혹은 의문을 표한 것이었을까.|Was that supposed to be a question? Or just his way of expressing doubt?
+14460||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <지금까지의 여정에서도… 이렇게 앞이 꽉 막힌 상황은 수도 없이 많았어.>|<Well, this isn't the first time we've landed ourselves in a hopeless situation.>
+14461||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그리고… 앞으로도 그럴 테지.>|<I'm sure it won't be our last, either.>
+14462||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그, 그런데 저희 정말 수선사 그 분을 없애는 건가요?|S-so, are we really going to kill Miss Alterationist?
+14463||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 수감자 사이의 의견이 분분하다. 하지만 분명한 건…|The two Sinners can't seem to come to an agreement. But what's really important this time around is...
+14464||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이자들이랑 다르게… 저희에게 해를 끼치려 한 적도 없고… 꼭 부탁을 들어줄 이유도 없잖아요.|She wasn't hostile toward us at all, not like these two... Besides, we don't have any reason to do as the Rouge lady asked.
+14465||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 반대로 들어주지 않을 이유도 없지. 무엇보다 그자는 수선사를 해치우면, 다량의 눈알을 주겠다고 약속했다.|And we don't have any reason <i>not</i> to do as she asked. Remember: she promised us quite a significant sum of eyeballs in return for slaying the Alterationist.
+14466||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 눈알이 그렇게 많이 필요한 걸까요…?|Yeah, but... do we <i>really</i> need that many eyeballs?
+14467||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이전의 구매 등급까지 유지되어서인지, 싱클레어는 눈알의 필요성을 잘 느끼지 못하는 듯하다.|Sinclair doesn't seem as desperate for eyeballs—probably because our Prestige Tier carried over from our last attempt.
+14468||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 실제로… 우리는 원한다면 언제든지 4층까지 올라갈 수 있다. 그 다음… 5층으로 올라가는 방법을 모를 뿐.|He wasn't wrong, either. The only reason we weren't beelining to the fourth floor was that we were still trying to figure out how to get to the fifth floor.
+14469||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 군자금은 많을수록 좋다. 특히나 어떤 위협이 닥칠지 모르는 이런 변수투성이 장소에선 더더욱.|You can never have too much money in your war chest, especially when venturing through unfamiliar territory like this. Unfamiliarity equals unpredictability, and money is one way of mitigating the unknown variables.
+14470||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그리고… 우리는 엄밀히 말해서, 그자를 죽이는 것도 아니다. 이곳은 어디까지나 정신만이 갇혀있는 장소지 않나.|And don't forget, this place isn't real. She won't die just because we killed her in this virtual space where only our minds exist.
+14471||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 하지만 오티스 씨… 저들이 이곳에서 죽으면… 바깥에 있는 본래의 몸이 어떻게 될 진… 저희도 모르잖아요.|But... But Miss Outis, we don't know what happens to the prisoner's body when their... <i>mind</i> gets killed in here.
+14472||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 무엇보다 관리자님이 방향을 정하셨으니.|The Executive Manager has already set their mind on what to do.
+14474||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …그래서… 그것들 중 일부는 안쪽에 계속 틀어박혀 있다는데…|... And... some of them have been holed up inside the whole time...
+14476||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …그래, 백화점이 무너지는 것은 결국 시간문제다.|... Right, I suppose it's only a matter of time before the Grand Magasin falls, now.
+14477||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 원래부터 제정신이 아닌 놈들이었지만 더욱 미쳐가는…|They were never sane to begin with, but now they're growing more and more deranged by the day.

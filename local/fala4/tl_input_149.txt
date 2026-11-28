@@ -1,0 +1,96 @@
+14478||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 하지만 그게 정말일까? 그것들이 만약…|Do you think it's true, though? What if they...
+14479||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 다시 왔구나, 어깨선이 처진 이방인들.|Welcome back, strangers with drooping shoulder seams.
+14480||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 무언가를 자르고 싶은 열망으로 가득한 눈이야.|I can see the desire to go <i>snip-snip!</i> in your eyes.
+14481||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 마음에 들어.|I like that look.
+14482||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …하지만 무언가를 고치러 온 것이 아니야.|... But you're not here to have something mended, are you?
+14483||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아, 그게…|It's, uh—
+14484||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 실을 만지러 오는 손과 실을 끊으러 오는 손은, 문을 여는 소리부터 다르지.|The hand that comes to caress the string and the hand that comes to sever it make different sounds on contact with my doorknob.
+14485||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이번 방문은… 나를 끊어내기 위해 온 거구나.|This time, your visit is to... see me severed.
+14486||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …그래, 눈치가 빠르군. 부정하진 않겠다.|... You're quick to notice... Yes, it is... We won't deny it.
+14487||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …이방인은 르루주의 편에 섰구나. 그들에게 찾아온 구원이 하나는 아니었나봐.|... So, the strangers have chosen to stand with the Rouges. It seems they have found themselves more than one salvation.
+14488||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 괜찮아, 이방인들. 수선이란 게 원래 이래. 한 쪽을 살리기로 정하는 순간, 다른 한 쪽은 잘려 나가지.|Not to worry, strangers. There is little difference between what you are doing and alteration work. When you have chosen the part of the fabric to mend the attire with, the remaining half joins the scrap pile.
+14489||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 하지만… 나를 끊어내려면, 너희도 끊어질 각오를 해야 할 거야. 그게 공평하잖아?|But let's be fair. If you would like to cut me away... you'd better have come prepared to be snipped away yourselves.
+14490||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그 또한 각오하고 있다.|We are prepared.
+14491||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 지난번과는 다르게… 이번엔 제 쪽에서 회의를 끝낼 수 있을 것 같습니다.|Unlike our last attempt... I may be able to adjourn the meeting.
+14492||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그럼… 그렇게 해줄래?>|<Yeah? Then... it's all yours.>
+14494||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …아직 회의가 가득 차있어.|... Still full of meeting.
+14495||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 회의를 방해하면, 둘이 되어 버릴걸.|Disturb the meeting, and you'll become two.
+14496||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …솜씨가 좋아.|... You're pretty good.
+14497||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 가위를 떼어내자, 옷걸이를 잃은 옷처럼 수선사의 몸이 바닥으로 허물어져 내린다.|Once we removed the pair of scissors, the rest of the Alterationist's body crumbled like an article of clothing removed from its hanging rack.
+14498||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이제 르루주가 무엇을 자아내든… 두 번 다시 물릴 수 없게 될 거야. 다시 르누아르의 편을 고를 순 없어.|The path is now... locked. Whatever the Rouges choose to weave into existence now, it cannot be undone. You have irrevocably made yourselves enemies of the Noirs.
+14499||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 가위는… 잘라내기 위해서만 존재하는 물건이 아니야. 엉킨 실을… 풀어주기 위해서… 쓰일 때도 있지…|Cutting... is not the sole purpose of scissors... Sometimes... scissors are the only means... to untangle a knotted mess of strings...
+14500||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 내 가위를 가져가… 어깨선이 처진 이방인들…|Take my scissors with you... strangers... with drooping shoulder seams...
+14501||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 박동이 눈에 담겨있으니… 잘 쓸 수 있을… 거야…|You have beheld the pulse... I'm sure... you'll make... good use of it...
+14502||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 수선사는 더 이상 움직이지 않는다.|The Alterationist stirs no longer.
+14503||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <가위를 챙기고, 그자에게 돌아가자.>|<Let's take her pair of scissors and return to the Rouge vendor.>
+14504||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 알겠습니다, 관리자님.|Yes, Manager.
+14505||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 수선사의 몸을 지탱하던 가위, 어쩌면 뼈일지도 모를 것을 뜯어냈다.|We ripped the pair of scissors—which might even have been her skeleton, now that I'm getting a better look—off the Alterationist's torso.
+14506||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 막혀있다.|Can't go this way.
+14507||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 수선할 곳이 있니?|Do you need anything altered?
+14508||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 기우는 것도, 꿰매는 것도. 모두 가능하단다.|I can patch, and I can mend. Which would you like?
+14509||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 사방에는 실타래와 오려진 천 조각이 걸려있었고 그 한복판에는 누군가가 규칙적으로 팔을 오르내리며 무언가를 깁고 있었다.|We emerged into a round room whose walls were lined with multicolored spools of thread and swaths of cut fabric. At the center stood a figure, her arms moving up and down as she stitched something together in a carefully regulated rhythm.
+14510||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 하지만, 너희에겐 아직 그 열망이 보이지 않아. 대신 다른 걸 내어줄 수는 있어.|I simply do not see that same passionate desire in you. I do have other items available for purchase, however.
+14511||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <다짜고짜 가위부터 물어봐서 그런가, 지난번이랑은 다르네…>|<Looks like getting straight to the point won't work on her... This isn't what happened last time.>
+14512||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 가위는… 다음 기회에 얻는 것으로 해보는 게 어떻겠습니까.|Perhaps... we could procure the pair of scissors at our next opportunity, Manager.
+14513||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그러도록 하자.>|<Don't think we have any other choice.>
+14514||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 저희… 가위가 왜 필요한데요?|So... why did we need a pair of scissors, again?
+14515||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 가위는 잘만 만들면 훌륭한 무기가 되기 때문이지. 관리자님께서는 다 뜻이 있으신 거다.|Scissors, when honed to perfection, make excellent weapons. Haven't you come to understand by now that every action the Executive Manager takes is backed up by perfectly reasonable explanations?
+14516||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 어… 안녕하세요.|Um... Hello?
+14517||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …어깨선이 조금 처졌고, 소매는 한 뼘쯤 짧구나. 그래, 손볼 데가 많은 이방인이야. 무얼 고치러 왔니?|Shoulder seams hanging a touch too low... hems of the arm a span too short. Much work to be done, this one. So, what would you like to have altered?
+14518||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …가위를 구할 수 있는지 물어보기 위함이다.|We would like to procure a pair of scissors.
+14519||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …네? 가위요?|... What? Scissors?
+14520||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …내 가위는 진열대에 걸어두는 물건은 아니야. 난 아무에게나 날을 내어주지 않거든.|... My scissors are not tools to be hung and sold from the product racks. I do not part with my blades for just anyone, you see.
+14521||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 무언가를 자르고 싶은 눈을 보이는 고객에게만 내어주지. 이를테면, 내게 원단을 지어달라 찾아오는 오랜 고객, 르누아르 같은.|They're reserved for customers whose eyes twinkle with the desire to go <i>snip-snip</i>. Like the Noirs, my longtime customers—they always visit me to have me weave fabric for them.
+14522||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 르누아르… 분들 이랑 잘 아시나요?|Are you... well-acquainted with the Noirs?
+14523||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 협력 관계라 해둘까. 나는 주기적으로 그들에게 원단을 만들어 공급하고 있으니까.|I've been regularly supplying them with fabric for a while now, so one could say that we are partners.
+14524||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 최근에는 부쩍 바빠 보였지. 붉은 것들의 움직임이 수상하다면서, 소문을 열심히 퍼뜨리고, 건져 내더구나.|The Noirs have been quite busy as of late—spreading and fishing tales, suspicious that the red ones are up to no good.
+14525||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 슬퍼하지 말라아아아아… 슬퍼하지 말라아아아아…|Dooooo noooot griiiieeeeve... Dooooo noooot griiiieeeeve...
+14526||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 저문 목소리는… 돌아오지 않으니…|A voice once set... like the fallen sun... will never return...
+14527||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 관리자님, 다시 말을 걸어봐야 회의라는 말만 반복할 게 뻔합니다.|Executive Manager, it appears that their only response will be to repeat "we're in a meeting" ad nauseam.
+14528||RPGSystem#rpg-loc-dialogue-floor-3-b.json] … 굳이 말을 걸 필요는 없을 것 같다.|... Yeah, no need to talk to them.
+14529||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 어, 여기는… 들어갈 수가 없는 것 같네요.|Huh, looks like they're blocking the way through.
+14530||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 안건 하나. 누가 겉이고 누가 안감인가.|Agenda 1: Who is the outer fabric, and who is the lining?
+14531||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 안건 둘. 누가 오른팔이고 누가 왼팔인가.|Agenda 2: Who is the right hand, and who is the left hand?
+14532||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 음음, 좋은 안건이야. 회의록에 적어 놔야지.|Mmm, mmm. Good agendas. Let's write them both in the minutes.
+14533||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 왠지 가까이 가면 안 될 것 같아요… 다른 곳부터 먼저 둘러보고 올까요?|Approaching them might be dangerous... Should we come back here later?
+14534||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…저것들한테 말을 걸어 보았자 소용없을 것 같지만…>|<... Talking to those things'll probably achieve nothing, but...>
+14535||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 혹시 안의 매장으로 들어가볼 수 있을까요?|Excuse me, would you let us into the store behind you?
+14536||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이곳은 회의! 회의가 가득해.|Meeting! So much meeting!
+14537||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그래서 들어갈 수 없어. 자리가 없거든.|So no entry. No room for anything else.
+14538||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 회의는 무슨 맛일까?|What's the taste of meeting?
+14539||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 짜지, 아주 짜. 눈물처럼 짜서 아무도 못 삼켜.|Salty, so salty. Salty like tears. Too salty for anyone to swallow.
+14540||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그래서 회의는 끝나지 않아. 삼켜야 끝나는데, 못 삼키니까.|Meeting won't end. Swallow meeting to end debate. But can't swallow.
+14541||RPGSystem#rpg-loc-dialogue-floor-3-b.json] … 회의 주제는 뭐지?|... So, what's this meeting about?
+14542||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 어? 저자는… 아까 반대편에 있지 않았나요?|Huh? Weren't they further down the other side of the corridor earlier?
+14543||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <르루주 매장 아래쪽에 길이 있으니까… 그쪽으로 가보자.>|<There's a way south of the Rouge shop. Maybe we can take that route to the other side.>
+14544||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그러게, 언제 가까이 온 거지?>|<Yeah. When'd they get here?>
+14545||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 기어왔어, 야금야금.|Crawled here. Creepy-creep.
+14546||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 회의는 끝났거든.|Meeting's over.
+14547||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 안건. 붉고 따뜻한 냄새, 살아있는 냄새는 누구의 것인가.|Agenda: Warm aroma. Aroma of life. Whose is it?
+14548||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그래서 야금야금. 다가오는 거지. 야금야금. 좁혀오는 거지.|So we creepy-creep. Encroaching. Creepy-creep. Narrowing the gap.
+14549||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <뫼르소… 저것들은 어쩌면…>|<Hey, Meursault... I think they might be...>
+14550||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <네가 갖고 있는 그 살점을 노리는 걸지도 몰라.>|<... after that piece of flesh you're carrying.>
+14551||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그런 것 같습니다.|That appears to be the likely explanation.
+14552||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 쳇… 반대쪽으로 가기 위해서는 저것들을 피해 돌아서 가야 할 것 같습니다, 관리자님.|Tsk... We're going to have to circumnavigate that monster to reach the other side, Executive Manager.
+14553||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 어, 어라. 빨리 올라오셨네요.|Huh? That didn't take very long.
+14554||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <일단… 저 아이를 보여주려고 온 거니까… 르루주 매장으로 가자.>|<Anyway, since we're here to show the kid to the Rouge vendor, let's head to her shop.>
+14555||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 역시 노련하십니다. 음…?|As expedient as always, Executive Manager—hm?
+14556||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …그런데 뭘 달고 오신 것입니까?|... What is that thing behind you?
+14557||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <새롭게 들린다는 목소리의 정체… 인 것 같아.>|<The... true form of the new "Voice" the Rouges have been talking about. I think.>
+14558||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <부탁받아서 당분간 데리고 다니기로 했어.>|<One of the Rouges asked us to look after them, so... we decided to let the kid tag along for a while.>
+14559||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그런데 왜 저렇게 멀찍이서 따라오고 있는 걸까요?|I see... So why are they standing so far away from us?
+14560||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아직 우리를 경계하고 있는 듯 보인다.|The child appears to be apprehensive of our presence.
+14561||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 흠… 당장 위협이 될만한 존재로는 보이지 않습니다만…|Hmm... Doesn't appear to pose us any threats at the moment...
+14562||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 본래 등 뒤에는 이 오티스처럼 믿을 만한 자들을 두는 것이 상책입니다. 혹시 다른 마음을 품을지도 모르니, 언제나 조심하십시오.|... but you don't want to have entities of dubitable intent following from behind, Executive Manager—I implore you to remain vigilant. Unlike your ever-so-faithful and trustworthy Outis, there is always a threat of backstabbing from such unknown factors.
+14563||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그, 그래…>|<Y-yeah...>
+14564||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이게 무슨…? 관리자님, 조심하십시오!|What's happ— ...! Take cover, Executive Manager!
+14565||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 으아아악!? 터, 터졌는데요!?|Aaaahhhh!? S-she exploded!
+14566||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 으으…?|Uu...?
+14567||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …?|…?
+14568||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아… 아아… 드디어 그 분을… 모셔온 건가요?|Ah... Ahh... You have brought them to me... I am truly blessed...
+14569||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 모, 목소리시여… 저는 이날을 손꼽아 기다리며, 반드시 찾아올 이 미래를 위해 아주, 아주 작은 선물을 준비했습니다…|Oh, dearest Voice, revered be your presence... I have prepared a humble gift in anticipation of your promised advent...
+14570||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이걸… 이걸 받아주세요…|Please... Please take this.
+14571||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 우…?|Uu...?
+14572||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 리나모비블은 직접 만든 것 같은 붉은색 손수건 하나를 건네주었다.|The vendor produced a red handkerchief—clearly of her make—and carefully placed it on the child's hands.
+14573||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그리고 그것을 아이가 받아들자… 몸을 부르르 떨더니…|She withdrew with visible reverence, and seeing the child hold her creation, began to tremble like she was a bomb about to go off.
+14574||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아아… 그분께서 제가 만든 것을 받아주시다니…|Aaaaah... They accepted it! They accepted my creation...!

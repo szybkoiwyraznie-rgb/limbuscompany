@@ -1,0 +1,322 @@
+{
+  "entries": {
+    "dataList[id=10SV-004].dlg": {
+      "pl": "Coraz smaczniej i smaczniej, słychać? Ten smak to istny szaleństwo, słychać!",
+      "kr_sha256": "e754644ea3dac888d70f0136dd024c2db1cd472caa7be6eb17217cafe1c82ca6",
+      "en_sha256": "b97010efebcbafd7c5100602680b752a3ff04cbd4cf90db63c04c08370fa2590",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-005].dlg": {
+      "pl": "Wy też macie się w to wtrącić, słychać!",
+      "kr_sha256": "a3ccd39646b1fa61d9a2b4840baae9768af84f3501d627dc4c52120f6f3fd238",
+      "en_sha256": "2fbdb66123765075be7bda1c7360ba3f062c3194c3fbe8f2fc5301e92e299125",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-006].dlg": {
+      "pl": "Szybciej, prędzej, łapiemy tempo, słychać!",
+      "kr_sha256": "0deec129b513bf4ad46a144b31b4f9351266ddb2f3e9f7ae8be7fe2ac8a3d799",
+      "en_sha256": "27c3eaf5f71dbc1d8af994579452996ddbbed6c30a9cff2f86ccb1d94efabad0",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-007].dlg": {
+      "pl": "Pomogliście, więc ten jest na koszt domu, słychać.",
+      "kr_sha256": "10415b741107935c6d834b9362c25b52bebc9e229aaea9c88767e7361e689c9d",
+      "en_sha256": "c288bac98fffa0899d3a916eeeff921542ac0dab575958824824e90acb359077",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-008_a].dlg": {
+      "pl": "Gdyby to zaspokajało prawdziwego szefkuchcika, to bym nim nie był, słychać!",
+      "kr_sha256": "079b98ad931df2d37228ef2dec155b1821a746674b8824f8683b7205729045ae",
+      "en_sha256": "ebb6592b098a6dad6fc918916ae446d0aca2d9b547e1fb715474b65dff49f4d4",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-008_b].dlg": {
+      "pl": "Ta składniczka też mnie kusi, słychać!",
+      "kr_sha256": "049e04fd17fa9272cf308ff124bdd574677000311e48a7d273a6e83f848b5701",
+      "en_sha256": "2cafcee5cad3401f416d6a41f35dc5ebb2b8d9815ab48ebf6650467fa48f916b",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-009].dlg": {
+      "pl": "Gaz pewnie chyli się ku upadkowi... to problem, słychać...!",
+      "kr_sha256": "fdd18e26ea55b517bd76630be8d9506031b2c4ea77e137a2c7449a4a3579237c",
+      "en_sha256": "285b66bde1addbac75000be29a386fe1f6311b5a1dde8a2aa49459e97e352784",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-010].dlg": {
+      "pl": "Mnmhnhmhm~ ten musujący kop... najlepszy, słychać! Boucher też będzie zachwycony, słychać!",
+      "kr_sha256": "5c09c45de76043617fd83ae2a4682f7ad559d5f5e0f0c0f7e7034eee8fed2852",
+      "en_sha256": "75e6ab0f9c1fab1cf693d078cea2f4324fad167a83c8a9f8d84501a9c07bf451",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-011].dlg": {
+      "pl": "Ffff... fff... aż tu pachnie pysznościami, słychać... coś głodna, słychać...",
+      "kr_sha256": "35bc25ce82f495cad742f4c38d8dca47d698176b72baf1bee86ae6e1b8cd2458",
+      "en_sha256": "7c5305a1302ba6e689e59da29da629b98e58771ee56ffa069138f01d575576f9",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-024-01].dlg": {
+      "pl": "Tiiii... Tak!",
+      "kr_sha256": "2b41533db0a22e6177e7bd876c83a2cbb87eddd06e3dc613a9dec3d1cae26013",
+      "en_sha256": "b27d19c382860d61f8b6e3ec9acb496a90e480024a231fae9b8b1ad1a5651e80",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-024-02].dlg": {
+      "pl": "Tiiii... Tak!",
+      "kr_sha256": "2b41533db0a22e6177e7bd876c83a2cbb87eddd06e3dc613a9dec3d1cae26013",
+      "en_sha256": "b27d19c382860d61f8b6e3ec9acb496a90e480024a231fae9b8b1ad1a5651e80",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-026].dlg": {
+      "pl": "Dammi... wspo... pamie...tam...!! Głos...!!",
+      "kr_sha256": "e6a2e871ef9762d5f3bcbeddfb7fb911cdac4e0da482b5332b41e7c935dde05f",
+      "en_sha256": "84d20abddde5aa828fcc05aa507cd65b7f31f49a2b233e6f4d8a6031aaf6096d",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-029].dlg": {
+      "pl": "Pozwól... zasłyszeć... pieśń",
+      "kr_sha256": "afc75312a0273b26264146b503c91c76c320299c209af652bcbd5c9c920130e0",
+      "en_sha256": "be4f5c6c7121bc1849a0e34e36b4740f077c09c367eb2bc1e77a06344a7866ae",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-031].dlg": {
+      "pl": "Gniew! Współgra mn... z... płaczem!",
+      "kr_sha256": "4a23e9b93bd6680dde0607b6d9b0cd231b488a5fda01eaf861c05ca877269acd",
+      "en_sha256": "135fc298e4df740148466814a813f7a0fdd5dee3c99e662ebbb85e2e28eddef1",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-032].dlg": {
+      "pl": "Wysoko pod... coś... co się... zwie... „kołysan”...",
+      "kr_sha256": "4945e9caf610f520060617fc21b78e4319d1835241c353c984968534ffd636a7",
+      "en_sha256": "810928e37ee23a13145bbc08de13219b94f417142f10b34f71d59371e459d925",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-034].dlg": {
+      "pl": "Sąd... są-du... roz... Menedżerze...!!!",
+      "kr_sha256": "e84e8aa67eb899eda6380040f8276ea86f89d882238be516f7730535b48113b7",
+      "en_sha256": "af6215b9ccc6eb1884d86a0a4e90cd12945260b381aedec157fb27a6dd91e332",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-035-a].dlg": {
+      "pl": "Śpij... smacznie... moje dziecko...",
+      "kr_sha256": "6f0ece493dba030b30595efe53ae7ca226e09e5fb00cb86323e792bd927ed5de",
+      "en_sha256": "37b5313c8c3b9dd4c615c30791f13ab67bf97d37c620fde0fa1ff043ffd675a8",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-035-b].dlg": {
+      "pl": "... Roz...luźnić... najjedwabniejsze... nici...",
+      "kr_sha256": "0573c7801ab3e416bd15a646fbc69b4d5b26d8c2e8efcc89a792e27315c89d37",
+      "en_sha256": "f3db81b351f91ddd39fd6c7fec184d648465573a8998e6ebe8b37c623f7a901b",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-035-c].dlg": {
+      "pl": "Roś... roś... wyroś... i wznieś się...",
+      "kr_sha256": "870fd36276a6c34ca9eeda40807f177e09681db7df55b602a715900a8b250278",
+      "en_sha256": "80492d8ff1bf7ad7330a40801ce53cfa695a10411f62529c6962bd00f0f03646",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-036-01].dlg": {
+      "pl": "Łeee... łee... boli... boli...!!",
+      "kr_sha256": "74013ff1fc512bd25e92b732cc37c9cf6a0bbbcfe3faae12afa73bf68777a987",
+      "en_sha256": "0f8db0f57acd7b855d05d9542fdc2f3a1cb88efdea960bb10a3d2feec18d456a",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-036-02].dlg": {
+      "pl": "Łeee... łee... boli... boli...!!",
+      "kr_sha256": "74013ff1fc512bd25e92b732cc37c9cf6a0bbbcfe3faae12afa73bf68777a987",
+      "en_sha256": "0f8db0f57acd7b855d05d9542fdc2f3a1cb88efdea960bb10a3d2feec18d456a",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-090].dlg": {
+      "pl": "Ożywcze... płaczu-lenie...! Moje...! U-sta-wa!",
+      "kr_sha256": "fbb1d9b801a5dcebb7036f4bba419012899991288d2d9678129d265900e9556c",
+      "en_sha256": "30afce63820b9c0ca88487d4ea26c321962c45f8e300ab76d7cc477d0070fa5d",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-091].dlg": {
+      "pl": "Hnnnnnh!! P-rze...szł-e echa... Moje...! Złoto...?",
+      "kr_sha256": "e279b63e8d01f97fd620ba1fcbc71744fddcbdb0bc1e6d2bd527458f3e6e02a6",
+      "en_sha256": "7f0c4d488ca5c5a6d8cb7c2c4535a39a5a6f55a38ee31af214d41b0897856693",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-092].dlg": {
+      "pl": "Cisza... oddechu... nie wolno...! Bicie...! Nie może usta-nać!",
+      "kr_sha256": "d7d8ef115c303defd20980620bec16237b0616e7dcaf612820ddb90498386b4e",
+      "en_sha256": "88de031a2dab63660b0fddf994fe21500f33fafb308a16b7483a11f74536f79f",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-093].dlg": {
+      "pl": "Nie mogę! Wy...trzymać dłużej! Głód... pragnienie...!",
+      "kr_sha256": "17a182f01292b65b3feee237d6cc7603db6a96b903fbbf06cd980c7c37a1cb67",
+      "en_sha256": "091958ec13efc498fea227bd5880f21d7e2fb1e59bac496216e135f0f7a61591",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-094-01].dlg": {
+      "pl": "Przy-nieście... mi to...!",
+      "kr_sha256": "ba739f41667025b5b7ca5145e6140d11c4b49c472c32ffd6f475d82e87dbadf4",
+      "en_sha256": "1713c42ede9e96200223f88e33434041b7614ed54525304cab2fa09d76a49a16",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-094-02].dlg": {
+      "pl": "Więcej... Więcej...! To... za mało...!!",
+      "kr_sha256": "1d6f05012c6a1a5362938c2532fc75095c76a0c0b988320f6d4c423d1379d2b7",
+      "en_sha256": "34e8c8c77160b33778c2d82a9073752b59f07a4c911f49d4bee413878062cf75",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-094].dlg": {
+      "pl": "Idź...! Idź!",
+      "kr_sha256": "ce1e6cb01a79c74fb818d6e71f9706627599ddbf89b81c7ed6c8df2a171109fb",
+      "en_sha256": "d5c130eb7d885535151779beb050f4e8a9812ed7180cec62cd2408a702aabb55",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-095].dlg": {
+      "pl": "Bły-sk! Gwi...azda... Bły...sk!",
+      "kr_sha256": "9a431aad9259daf2285ea981a3b6d14f9ddffd046034bb9d6abeb4f24061a9b7",
+      "en_sha256": "1d4d5515697f7e4b9f3999b21b2bfafd1ad857bf5500ed5114c12f7c6693d186",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-096].dlg": {
+      "pl": "W imie-niu... K-róla...!",
+      "kr_sha256": "055b7ca3102689814295e16189e551084f5fbb6022ec09e4ef6a05eff24faae9",
+      "en_sha256": "288eae0c280c8fbd01e67251295a078f4bf2ad8e468fefd36a128cd9a67f3f82",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-097].dlg": {
+      "pl": "Sta-nie! Śmiej się...! Ha...!",
+      "kr_sha256": "afdc37d72a7b1e4beb6d70e25377cede6029fe68bae0e358cd542c757f118494",
+      "en_sha256": "2d8b73c097357c91f3b8ef62e671ae90d3ca34ac9db4d119a579b6cdef4e4164",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-098].dlg": {
+      "pl": "Ahh...! Hnnh...",
+      "kr_sha256": "c5fe5fa069d2aae01ef3487822e9fbbd8a4e11d34d215e48d1529e6ddbee92c6",
+      "en_sha256": "dafccbc0bc852a0590fe970ea0de392306a81862ec12077cce49a4139adfdc32",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-099].dlg": {
+      "pl": "Heeh... Ha... H-a! H-a! H-a...!",
+      "kr_sha256": "d71f5326f099bf1fae8d09eaa08d934771e7075d7148944399c6794a399ff738",
+      "en_sha256": "902688483c09cfa25d5b3ed89c3b0585695a3350a246cdc9bbe03ae98d311e12",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-100-01].dlg": {
+      "pl": "Cisza! Cisza!",
+      "kr_sha256": "76036bf5392577008c3ea8d8b301969cf543d164b51cb6ad6c3e51ec3d0a6471",
+      "en_sha256": "4020c54cddfd96fdaa8f252b90f6d8503ba0cc6a06e041587ba758b78e5d6963",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-100-02].dlg": {
+      "pl": "Cisza! Cisza!",
+      "kr_sha256": "76036bf5392577008c3ea8d8b301969cf543d164b51cb6ad6c3e51ec3d0a6471",
+      "en_sha256": "4020c54cddfd96fdaa8f252b90f6d8503ba0cc6a06e041587ba758b78e5d6963",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-100].dlg": {
+      "pl": "Cisza! Cisza!",
+      "kr_sha256": "76036bf5392577008c3ea8d8b301969cf543d164b51cb6ad6c3e51ec3d0a6471",
+      "en_sha256": "4020c54cddfd96fdaa8f252b90f6d8503ba0cc6a06e041587ba758b78e5d6963",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-145].dlg": {
+      "pl": "Zerwij kłamstwa... I przyjmij moje prawdziwe oblicze...",
+      "kr_sha256": "54d3a056b8acfdac39c6d5ba186d136bf8c6b7c3f0af1a78806392fae1d98b47",
+      "en_sha256": "8ce6cfc712c93c054c107f37befc057b72d61ffe262577462a31cc4b0fe7310b",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-146].dlg": {
+      "pl": "Ah... takie przytulne ciepło... każde słowo świeże, żywe... i nieustanne... mów do mnie, mów jeszcze...",
+      "kr_sha256": "4285c0093975abb0191b124f9cb15f0a188b493221ddf12e05b8cda0afd592a0",
+      "en_sha256": "7b6b4358f1801c57da37b6a53050411bd632ebab263bd61d5e199138fc5ef76d",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-147-01].dlg": {
+      "pl": "I przybity będzie!",
+      "kr_sha256": "4bdca4a15ea8eabbd13c0f7ae27072406c64bc97e00f4b5f3df61c57b5842239",
+      "en_sha256": "98da03e85b17c8a3cc43baf53f3b3bb690170cbdea844bccb1d02beeee799c91",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-147].dlg": {
+      "pl": "Przybity!",
+      "kr_sha256": "51cdf511b83b090cda518a2002b4a37b0c34cd78ba30631866198ca0139686b4",
+      "en_sha256": "4834050cd2b89cea660222c62c23faba885c8f66134a33d7328d33e4ff77ccf2",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-148].dlg": {
+      "pl": "Jeszcze... jeszcze, jeszcze, jeszcze! mów do mnie! tym ciepłym głosem!",
+      "kr_sha256": "bb5261cee8cb3433c783e385c3deb10b1c6444a6aae7e018345b8f1f95b90b6b",
+      "en_sha256": "8dd00d9b2f48e207ca7b5c0f1d700ba521ca9cf5b1b6fa76e3b2e026922041b4",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-149-01].dlg": {
+      "pl": "Spustoszcie! Pożerajcie!",
+      "kr_sha256": "19fcebc9f46c6fbde04eb7013f248f64e7f54df89f5b0f1ead79a33cb671c6c1",
+      "en_sha256": "92025b65b76d61e3ffbcb89644db7ca006fe0ddfee2d5ac6cd4a585670d3e7c6",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-149].dlg": {
+      "pl": "Pragnijcie! Pochłaniajcie!",
+      "kr_sha256": "257d203f5ad0803a6251a66b364af8ad694d5c49017387d8df9e0d3b95f88eef",
+      "en_sha256": "6e88a92d20c80bba3e34af8c88906d10c3c6fe7881b90c046dd3bc9370b55f77",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-157].dlg": {
+      "pl": "Osobiście zduszę tę bluźnierczą poświatę, nim zburzy nasz Porządek.",
+      "kr_sha256": "954742829dbc5e071b3886284371929a1e04d202ae6fc3a8d9296c84ddb241b3",
+      "en_sha256": "af13927342826d04d1b4caf6eeca1345e9db4556a67466fa37a9540cedb98da0",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-158].dlg": {
+      "pl": "Koniec z wymówkami! A myślałeś, że zegar na głowie zakryje ci tożsamość? Ta bluźniercza czerwień — jesteś z Rouges, wiem o tym!",
+      "kr_sha256": "29853814300f4f5fedcee6e4a5ade1a23c3eeeb58654439216ac93f42787e580",
+      "en_sha256": "a628e5e8e994ebdc9350287aeea4a80e1bad8838487a53476749d35553f5a8f2",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-159].dlg": {
+      "pl": "Dlawiecznego odpocznienia! Żywicę zabiorę!",
+      "kr_sha256": "bde33744a8dea0ac0b659c479f22529419b5a6ad3b57bdca6d99da9ea1dac7a5",
+      "en_sha256": "09e56aaa4326a075427676a659f86caea7ce36a94e920e22c2537e314e9d30ca",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-160].dlg": {
+      "pl": "Hmm... ślady złota wyglądają... nie do końca jak ślady Złotej Żywicy...",
+      "kr_sha256": "8db4ba0ce87bf6b948b3f99a7716917649d4e298667d3276f661763403dd8da0",
+      "en_sha256": "25d3c857fc2a2449461770c9a0221eff90e59261a63914167ca9d8b2f47bc875",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-161].dlg": {
+      "pl": "Proszę mnie zawalić... nie chcę już stąpać po ziemi tymi stopami...",
+      "kr_sha256": "5165f96db92dcc8bb0d32cfc67c7795517bf3927858842bbb1b9afb44bc4bb57",
+      "en_sha256": "dd57ed16a13f61360ed3832642b7c9a78cb93c98841f2337356ef1d145eff5aa",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-162].dlg": {
+      "pl": "Proszę! Odrzućcie! Moje bezużyteczne nogi!",
+      "kr_sha256": "00e404a505e8b661cabf08bdc98b4c88417a93507dc2f19307ca1a70a8cd5225",
+      "en_sha256": "81ef2b7176d10abb6750fa21c6eaaed2fd147173249e5bc85af4daaaf51b6e81",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-163].dlg": {
+      "pl": "Ah... śladów kroków, śladów kroków wszędzie...",
+      "kr_sha256": "3ab9744035f699a04204079a70764e389d665b323248b1e90a6e62724e24f531",
+      "en_sha256": "c8d10356d944e4115eb914c8f6d64a7095f51282500374b5d60c4fbd2b0e5634",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-164].dlg": {
+      "pl": "Wy, nędzna dwunożna gromada, ośmielacie się rzucić na moje wzniosłe Ja?!",
+      "kr_sha256": "10100dcbd50b97fc6e3ab73bfe8a31480baadbbc9d09fdcb39b35f28fb84c2cd",
+      "en_sha256": "38143e5affc3dacde4d449d56fbb2e80d0af9eadebd97065171a2a47392f2737",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-165].dlg": {
+      "pl": "Pamięć o tym bólu niech wbija się w was przy każdym kroku!",
+      "kr_sha256": "19d0a4c217021b3f174d6cbd816d5485c4d1ef1ac1239a8e417c12a0c39f64fb",
+      "en_sha256": "9e76bf5a4772a7334286cf31e73d438b026a6473b139dbd6b029a4d021ef8e88",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-166].dlg": {
+      "pl": "Wygnanie!",
+      "kr_sha256": "0bbc817b937e54fdee7fc58f571e014dfbef9876efbe2ccb6fdc9f2248a09633",
+      "en_sha256": "8000842d1b969c5c14a9af2eeb6492f97c946c27f3cf1a29c9820ca15c1e50ee",
+      "origin": "ai"
+    }
+  }
+}

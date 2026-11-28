@@ -1,0 +1,96 @@
+12122||BgmLyrics#BgmLyrics_DonQuixote.json] 플라스틱 말을 타고|On a plastic horse
+12123||BgmLyrics#BgmLyrics_DonQuixote.json] 진짜인듯 싸워나가네|Fighting like it's real
+12124||BgmLyrics#BgmLyrics_DonQuixote.json] 골판지 검을 든 채로|With a cardboard sword
+12125||BgmLyrics#BgmLyrics_DonQuixote.json] 나도 알아|I know
+12126||BgmLyrics#BgmLyrics_DonQuixote.json] 성공하든 실패하든 나는 나일 뿐|Successful or not, I am who I am
+12127||BgmLyrics#BgmLyrics_DonQuixote.json] 나는 나의 가장 열렬한 팬|I am my biggest fan
+12128||BgmLyrics#BgmLyrics_DonQuixote.json] 나는 나의 적이자 친구|I am my enemy and my friend
+12129||BgmLyrics#BgmLyrics_DonQuixote.json] 난 너무 행복해|I'm so happy
+12130||BgmLyrics#BgmLyrics_DonQuixote.json] 증명하겠네, 나의 정의가|Gonna prove my version of justice
+12131||BgmLyrics#BgmLyrics_DonQuixote.json] 그대의 것보다 정의로웠음을|Is more just than yours
+12132||BgmLyrics#BgmLyrics_DonQuixote.json] 하나|Uno
+12133||BgmLyrics#BgmLyrics_DonQuixote.json] 이 무대 위에 남은 건 나 하나|Remaining on this stage, I am the only one
+12134||BgmLyrics#BgmLyrics_DonQuixote.json] 행복해, 당신 이야기의 일부가 될 수 있기에|Happy to just be part of your story
+12135||BgmLyrics#BgmLyrics_DonQuixote.json] 당신의 뒤를 따르며|After you I follow
+12136||BgmLyrics#BgmLyrics_DonQuixote.json] 그대가 보여준 세상에 나의 시야가 트여와|The world you show me broaden my horizon
+12137||BgmLyrics#BgmLyrics_DongLang.json] 날자꾸나, 부러진 날개야|Fly, broken wings
+12138||BgmLyrics#BgmLyrics_DongLang.json] 나는 아직 희망을 기억한다 하네|That I still remember hope
+12139||BgmLyrics#BgmLyrics_DongLang.json] 으으음|Mmm
+12140||BgmLyrics#BgmLyrics_DongLang.json] 좋아하는 일을 하고 있는데|You're doing what you love
+12141||BgmLyrics#BgmLyrics_DongLang.json] 그걸로 됐잖아? 그걸로 됐잖아?|Isn't that enough? Isn't that enough?
+12142||BgmLyrics#BgmLyrics_DongLang.json] 천재에 일도 완벽하게 해내는데|A genius, perfect job
+12143||BgmLyrics#BgmLyrics_DongLang.json] 그걸로 됐잖아? 그걸로 됐잖아?|Isn't that enough? Isn't that enough?
+12144||BgmLyrics#BgmLyrics_DongLang.json] 다시 또 다시|Again and again
+12145||BgmLyrics#BgmLyrics_DongLang.json] 네가 나를 걸어 잠그고, 내가 나를 걸어 잠그며|You locked me down, I locked me down
+12146||BgmLyrics#BgmLyrics_DongLang.json] 우리는 나를 땅에 못박았지|We staked me to the ground
+12147||BgmLyrics#BgmLyrics_DongLang.json] 흙이 내게 온기를 주었네|The soil gave me warmth
+12148||BgmLyrics#BgmLyrics_DongLang.json] 아직 내 곁에 있다는 걸 알아|I know you are still with me
+12149||BgmLyrics#BgmLyrics_DongLang.json] 죽어 다오, 작은 꿈들이여|Please die, little dreams
+12150||BgmLyrics#BgmLyrics_DongLang.json] 내 안에 핀 동백꽃을 죽여다오|Kill the camellias in me
+12151||BgmLyrics#BgmLyrics_DongLang.json] 굴하는 편이 더 편치 않을까?|Wouldn't it be easier to give in?
+12152||BgmLyrics#BgmLyrics_DongLang.json] 이 손은 어째서 닿지 않는 꿈을 쫓고 있는 것일까?|Why are these hands chasing dreams out of my reach?
+12153||BgmLyrics#BgmLyrics_DongLang.json] 내 정상성을 향한 갈망은 “이상”한가?|Is my thirst for normalcy
+12154||BgmLyrics#BgmLyrics_DongLang.json] 날자꾸나, 완전한 날개야|Fly, perfect wings
+12155||BgmLyrics#BgmLyrics_DongLang.json] (안녕, 안녕, 안녕)|(Goodbye, goodbye, goodbye
+12156||BgmLyrics#BgmLyrics_DongLang.json] 지금까지 어디에 숨어 있었던 게니?|Where have you been hiding?
+12157||BgmLyrics#BgmLyrics_DongLang.json] (안녕, 안녕, 안녕)|(Goodbye, goodbye, goodbye)
+12158||BgmLyrics#BgmLyrics_DongLang.json] 우리의 시작을 이끈 그 지성에게 나를 데려다 주렴|Bring me to the mind that got us started
+12159||BgmLyrics#BgmLyrics_DongLang.json] 밀어만 준다면 출발할 수 있어|All I need is a nudge to get me started
+12160||BgmLyrics#BgmLyrics_DongLang.json] 내가 어떤 사람이 될 수 있는지 보여 주자|Show them who I can be
+12161||BgmLyrics#BgmLyrics_DongLang.json] 마지막으로 감히 한 번만 더 말씀드리리니|For the one last time, if you will
+12162||BgmLyrics#BgmLyrics_DongLang.json] “이상이오.”|THAT'S ALL
+12163||BgmLyrics#BgmLyrics_DongLang.json] 자유를 줄 수 있는 곳을 향하여|To somewhere we can free
+12164||BgmLyrics#BgmLyrics_DongLang.json] 우리의 “이상”에 다가가자|Closer to our
+12165||BgmLyrics#BgmLyrics_DongLang.json] 글썽이는 눈을 한|Teary eyed
+12166||BgmLyrics#BgmLyrics_DongLang.json] 한때 온화했던 영혼|Once-gentle soul
+12167||BgmLyrics#BgmLyrics_DongLang.json] 그대가 썩어가는 것을 지켜보았지|I watched as you rotted away
+12168||BgmLyrics#BgmLyrics_DongLang.json] 거울이 그러기를|The mirror says
+12169||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">얼마나 간절히 바래 왔는지|<style="den_CP6_2">How much I wished for another
+12170||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">내가 끝을 낼 거야|<style="den_CP6_2">I shall make it end
+12171||BgmLyrics#BgmLyrics_MaouHeath.json] 나의 끝을 지켜볼 거니?|Will you watch me end?
+12172||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">오|<style="den_CP6_2">Oh
+12173||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">우리는 끝없이 돌고 돌아가네|<style="den_CP6_2">Round and round we go
+12174||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">고통을 껴안고|<style="den_CP6_2">Holding on to pain
+12175||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">자존심에 휘둘리며|<style="den_CP6_2">Driven by our egos
+12176||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">감정을 숨긴 채로|<style="den_CP6_2">Feelings untold
+12177||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">서로의 기억은 엇갈리게 짜여져서|<style="den_CP6_2">Spinning our own versions of the past
+12178||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">너는 절대 알 수 없게 되었어|<style="den_CP6_2">That you could never know
+12179||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">나는 알고 있어|<style="den_CP6_2">Cause I know
+12180||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">더 행복하고 밝은 미래를|<style="den_CP6_2">Better happier brighter future
+12181||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">나의 탓일 수 밖에 없다는 걸|<style="den_CP6_2">I must be the reason why
+12182||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">네 미소를 잃게 만든 건|<style="den_CP6_2">You have given up your smiles
+12183||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">네 눈에서 희망이 사라지게 된 건|<style="den_CP6_2">And the hope inside your eyes have been stolen
+12184||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">네가 거짓말을 하게 된 것도|<style="den_CP6_2">You must tell me all these lies
+12185||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">내가 없어야 네가 행복해질 거라며|<style="den_CP6_2">Wishing you a better life without me by your side
+12186||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">이건 보랏빛 꽃무리를 통해 이미 전해진 이야기|<style="den_CP6_2">The message has already been said through patches of violet
+12187||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">우리는 얼마나 어긋나 있던 걸까|<style="den_CP6_2">How much we must have diverged
+12188||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">안녕|<style="den_CP6_2">Hello
+12189||BgmLyrics#BgmLyrics_MaouHeath.json] 잘 자|Goodnight
+12190||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">나는 이 대문 앞에 서 있어|<style="den_CP6_2">Here I am at the gate I stand
+12191||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">잘 가|<style="den_CP6_2">Goodbye
+12192||BgmLyrics#BgmLyrics_MaouHeath.json] 안녕|Hello
+12193||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">잘 자|<style="den_CP6_2">Goodnight
+12194||BgmLyrics#BgmLyrics_MaouHeath.json] 내가 왔어|I'm here
+12196||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">아 이제 최후의 순간이야|<style="den_CP6_2">Here we are, it's our final chance
+12197||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">네 손으로|<style="den_CP6_2">With your hand
+12198||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">해야만 하는 일을 해줘|<style="den_CP6_2">Do what must be done
+12199||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">삭제|<style="den_CP6_2">Delete
+12200||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">지나간 시간들이여|<style="den_CP6_2">Dear old times
+12202||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">나는 결심했어|<style="den_CP6_2">I've made up my mind
+12203||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">내가 어떻게 알 수 있겠어?|<style="den_CP6_2">How would I know?
+12204||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">어쩌면 내 탓이었을 수도 있겠지|<style="den_CP6_2">I could be the reason why
+12205||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">네가 상냥할 수 있었던 것도|<style="den_CP6_2">You were able to be kind
+12206||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">우리의 마음은 영원히 어긋나 있지 않으리라는 것도|<style="den_CP6_2">And the hearts we held so tight won't stay broken
+12207||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">사랑 탓이었을 수 밖에 없어|<style="den_CP6_2">Love must be the reason why
+12208||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">내가 그 거짓말을 아직 믿고 있는 건|<style="den_CP6_2">I still believe in this lie
+12209||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">홧김에 벌어진 내 행동에 네가 감내한 고통|<style="den_CP6_2">How much you must have suffered through my anger
+12210||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">내가 없어야 네가 행복해질 거라는 그 거짓|<style="den_CP6_2">That you'll live a better life without me by your side
+12211||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">무례하고 어색한 본성|<style="den_CP6_2">Vulgar awkward composure
+12212||BgmLyrics#BgmLyrics_MaouHeath.json] 네가 여태껏 몰라왔던 네 자신의 경이로움|How much you must have overlooked your wonder
+12213||BgmLyrics#BgmLyrics_MaouHeath.json] 직선적이고 솔직한 태도|Forward sincere manners
+12214||BgmLyrics#BgmLyrics_MaouHeath.json] 이 운명의 언덕에서|At the fated land
+12215||BgmLyrics#BgmLyrics_MaouHeath.json] 오|Oh
+12216||BgmLyrics#BgmLyrics_MaouHeath.json] 우리는 끝없이 돌고 돌아가네|Round and round we go
+12217||BgmLyrics#BgmLyrics_MaouHeath.json] 고통을 껴안고|Holding on to pain
+12218||BgmLyrics#BgmLyrics_MaouHeath.json] 자존심에 휘둘리며|Driven by our egos
+12219||BgmLyrics#BgmLyrics_MaouHeath.json] 감정을 숨긴 채로|Feelings untold

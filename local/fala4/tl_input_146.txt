@@ -1,0 +1,96 @@
+14182||RPGSystem#rpg-loc-dialogue-floor-2.json] 층의 이동에서 자유로웠던 것과 어디에도 속하지 않음이 같은 의미를 시사한다면.|If the freedom to travel between floors is equivalent to estrangement and the lack of belonging thereof...
+14183||RPGSystem#rpg-loc-dialogue-floor-2.json] 르누아르를 막는 장막에서도 자유로울 수 있을 가능성이 있다.|There is a possibility that we may likewise be exempt from the barrier that blocks the Noirs.
+14184||RPGSystem#rpg-loc-dialogue-floor-2.json] 뫼르소는 그렇게 말하며 막 앞으로 걸어나갔고…|Meursault walked up to the barrier...
+14186||RPGSystem#rpg-loc-dialogue-floor-2.json] 거짓말처럼 그는 아무런 저항 없이 안으로 빨려들어갔다.|... and was sucked inside as though the wall itself was but an illusion.
+14187||RPGSystem#rpg-loc-dialogue-floor-2.json] <그래… 가보자.>|<Got it. Let's go.>
+14188||RPGSystem#rpg-loc-dialogue-floor-2.json] 뭐, 뭐야?!|W-whoa!
+14189||RPGSystem#rpg-loc-dialogue-floor-2.json] 3층의 르누아르가 가로되 곧 아래에서 거짓 우상이 만들어질지어다 하니 이는 베일을 벗겨낼 시간이라.|The Le Noir of the third floor spake thus: soon shall a false idol be wrought in the depths below. The hour hath therefore come to draw back the veil.
+14190||RPGSystem#rpg-loc-dialogue-floor-2.json] 그에 신께서 이르시되, 망치를 대리할 '황금못'을 맞이하라. 그러면 너희에게 영원을 내릴지어다.|And God did answer: "Receive the 'Golden Nail', which shall stand in the hammer's stead. Do so, and eternity shall be bestowed upon thee."
+14191||RPGSystem#rpg-loc-dialogue-floor-2.json] …그리하여 그대들의 앞에 내가 선 것이다.|... And thus it is that I now stand before ye.
+14192||RPGSystem#rpg-loc-dialogue-floor-2.json] 우리는 그냥 우리가 정해서…|Listen, you big lass. We're just doin' whatever we chose—
+14193||RPGSystem#rpg-loc-dialogue-floor-2.json] 묵시하라, 말하였다.|I said, hold thy silence.
+14194||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대들의 황금못으로, 곧 태어날 끔찍한 것의 요람을 꿰뚫어 찢어내어야 한다.|With your Golden Nail, ye are to pierce through the cradle of that horror soon to be born, and rend it asunder.
+14195||RPGSystem#rpg-loc-dialogue-floor-2.json] 이곳으로 오는 르루주들은 내가 막을 테니, 그대들은 서둘러 운명을 다하게.|I shall hold back the Rouges making for this place. Make haste, and see your ordained fate fulfilled.
+14196||RPGSystem#rpg-loc-dialogue-floor-2.json] <하지만 저 장막 안으로 들어갈 방법이 없어 보이던데…>|<But... it didn't look like there was any way through that veil.>
+14197||RPGSystem#rpg-loc-dialogue-floor-2.json] <뭔가 방법이 있는지 물어봐야겠어.>|<We'd better ask if there's a way to get in there.>
+14198||RPGSystem#rpg-loc-dialogue-floor-2.json] 질문이 있다.|Question.
+14200||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대들이 누구인지 알고 있다.|I know full well who ye are.
+14201||RPGSystem#rpg-loc-dialogue-floor-2.json] 묵시하라 하였노라…|Be thou silent...
+14202||RPGSystem#rpg-loc-dialogue-floor-2.json] …잠시, 그 시선은.|... Hold. This gaze...
+14203||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대는…|Thou...
+14204||RPGSystem#rpg-loc-dialogue-floor-2.json] 저 막은 찢을 수도, 들어설 수도 없다. 우리는 어떻게 통행하지?|The tabernacle's barrier cannot be torn nor permeated. How are we to progress?
+14205||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대는…|Thou, what...
+14206||RPGSystem#rpg-loc-dialogue-floor-2.json] 목소리와 무슨 관계가…|What bond hast thou with the voice...?
+14207||RPGSystem#rpg-loc-dialogue-floor-2.json] …아니, 이 또한 내게 내리신 시험일지도 모르겠군. 의문은 거두겠다.|... Nay. Perhaps this, too, is but another trial laid upon me. I shall not doubt.
+14208||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대는 그저 신께서 예비해두신, 샘터에서 온 이방인일 테니.|Thou art but a stranger from the Fount, whom God hath made ready for this hour.
+14209||RPGSystem#rpg-loc-dialogue-floor-2.json] 필경 신께서 부름하신 '황금못'이겠지.|Ye must be wielders of the "Golden Nail" the Lord hath prophesied.
+14210||RPGSystem#rpg-loc-dialogue-floor-2.json] 시간을 읊는 소리는 내게 들리지 않는다.|The voice that counteth out the hours findeth no purchase upon mine ears.
+14211||RPGSystem#rpg-loc-dialogue-floor-2.json] 허나 신께서 내게 이르시되, 신의 말씀만을 대신하라 하였으니 듣지 않아도 문제는 없을 테지.|The Lord hath charged me to serve as naught but the bearer of His word. What cause have I to heed any voice but His?
+14212||RPGSystem#rpg-loc-dialogue-floor-2.json] 저희, 는…|We... we are...
+14213||RPGSystem#rpg-loc-dialogue-floor-2.json] 그대들은 묵시하라.|Witness ye in silence,
+14214||RPGSystem#rpg-loc-dialogue-floor-2.json] 지금 신의 뜻을 언도하겠다 말하지 않았는가.|for I speak now the will of the Lord.
+14215||RPGSystem#rpg-loc-dialogue-floor-2.json] 르누아르 망치|Le Noir Hammer
+14216||RPGSystem#rpg-loc-dialogue-floor-2.json] … 등급이 낮은 만큼 무지에서 비롯된 실수는 넘어가드리지요. 하지만… 두 번은 없어요.|... Given your low Prestige Tier, I will pardon an error born of ignorance... But only this once.
+14217||RPGSystem#rpg-loc-dialogue-floor-2.json] 뼈와 살점으로 이루어진 벽이 길을 막고 있다. 벽 너머, 이곳을 지키던 르루주들과 쓰러진 르누아르들의 시체는 더 이상 보이지 않는다.|A wall made of flesh and bone blocks the way. The Rouges who'd been guarding this place and the corpses of the Noirs both are nowhere to be seen.
+14219||RPGSystem#rpg-loc-dialogue-floor-2.json] 어서 자라… 불러 다오…|Be fast asleep... and sing to us...
+14220||RPGSystem#rpg-loc-dialogue-floor-2.json] 우리한테 가까이 오고 있잖아… 표정은 뭔가…|It's comin' closer... It looks...
+14221||RPGSystem#rpg-loc-dialogue-floor-2.json] … 분노보다는 흡사… 울고 있는 것에 가깝군요.|... No, that isn't anger. It aligns much more closely with... crying.
+14222||RPGSystem#rpg-loc-dialogue-floor-2.json] 무럭… 무럭… 자라… 나서…|Grow... tall and strong...
+14223||RPGSystem#rpg-loc-dialogue-floor-2.json] 목소리를… 들려… 다오…|... and sing to us... your Voice...
+14224||RPGSystem#rpg-loc-dialogue-floor-2.json] <내용도 모르고… 부르고 있는 것 같아…>|<I don't think it even understands what it's singing...>
+14225||RPGSystem#rpg-loc-dialogue-floor-2.json] …젠장 못 들어주겠네.|... That's it, I can't listen to this anymore.
+14226||RPGSystem#rpg-loc-dialogue-floor-2.json] 이제 막 세상으로 나오던 아이는 바닥에 누워있다.|The child who took their first steps into the world of the living now lies on the ground, dying.
+14227||RPGSystem#rpg-loc-dialogue-floor-2.json] 하기로 한 거 한 거긴 한데 기분 더럽네. 게다가 머리 아프게 고민해봤자, 당장 할 수 있는 것도 없는데.|We did what we set out to do, but I don't like it one bit. It ain't like there's anything we can do by whingin' amongst ourselves.
+14228||RPGSystem#rpg-loc-dialogue-floor-2.json] …잠깐 기다리세요.|... Wait. Just a moment.
+14229||RPGSystem#rpg-loc-dialogue-floor-2.json] 이걸 왜 알려주지 않았던 거죠? 관리자 파우스트들은 도대체 무슨 생각으로…|Why wasn't I told of this? Why would the Administrator Fausts— What...
+14230||RPGSystem#rpg-loc-dialogue-floor-2.json] <파우스트? 게젤샤프트 관련한 거야?>|<Faust? Is this about the Gesellschaft?>
+14231||RPGSystem#rpg-loc-dialogue-floor-2.json] …이 백화점이 영원해지는군요. 하지만 그래서야…|... I see, the Grand Magasin will now be eternal. But... that means...
+14232||RPGSystem#rpg-loc-dialogue-floor-2.json] 할 줄 아는 것은 흥얼거리는 노래뿐.|Knowing nothing but the song it hums.
+14233||RPGSystem#rpg-loc-dialogue-floor-2.json] 어서… 자라…|Sleep... tight...
+14234||RPGSystem#rpg-loc-dialogue-floor-2.json] 우리… 아가…|My... baby...
+14235||RPGSystem#rpg-loc-dialogue-floor-2.json] 풀리다 만 실오라기처럼 노랫소리가 끊겼다.|Like a strand of fray that has snapped from fabric, the song came to a sudden stop.
+14236||RPGSystem#rpg-loc-dialogue-floor-2.json] 몸을 말 듯 웅크린 채로 그것은, 더 이상 움직이지 않았다.|The creature curled up into itself like a fetus. It never moved again.
+14237||RPGSystem#rpg-loc-dialogue-floor-2.json] <이제 어떻게 되는 걸까…?>|<Well... What now...?>
+14238||RPGSystem#rpg-loc-dialogue-floor-2.json] 르누아르가 백화점을 차지할 것입니다. 그러고 나면…|Le Noir will now assume full control of the Grand Magasin. And once that happens...
+14239||RPGSystem#rpg-loc-dialogue-floor-2.json] …일단 받기로 한 거 받고 생각하면 안 되냐.|... Can't we just collect what we're owed and worry about the rest later? No use splittin' our hairs over things we can do nothin' about.
+14240||RPGSystem#rpg-loc-dialogue-floor-2.json] 지금은 나갈 수 없을 것 같습니다, 관리자님.|It appears we are currently unable to leave, Manager.
+14241||RPGSystem#rpg-loc-dialogue-floor-2.json] 명품관을 막고 있었던 르루주가 쓰러졌다.|The Rouge who had been guarding the entrance to the Luxury Hall lies defeated.
+14242||RPGSystem#rpg-loc-dialogue-floor-2.json] <저 안으로 계속 들어가보자…>|<Let's keep heading inside...>
+14244||RPGSystem#rpg-loc-dialogue-floor-2.json] 말을 걸어도 대답하지 않을 것 같다.|They don't look to be much of a conversationalist.
+14245||RPGSystem#rpg-loc-dialogue-floor-2.json] 정해진 자리를 지키고 있다. 비켜설 생각은 없어 보인다.|They're standing guard at their assigned post. They don't seem to have any intention of stepping aside.
+14246||RPGSystem#rpg-loc-dialogue-floor-2.json] 마지막까지 자리를 지켰다.|They held their post until the very end.
+14247||RPGSystem#rpg-loc-dialogue-floor-2.json] 르루주에 속해있던 자의 시체다. 얼굴에 붙어있던 촉수들이 기어나오다가 이내 움직임을 멈춘다.|The corpse of a Rouge. The tentacles attached to their face begin to crawl outward, only to fall still moments later.
+14248||RPGSystem#rpg-loc-dialogue-floor-2.json] …미숙하게 태어났음에도, 강하네요.|... It has not yet matured, but its power is to be reckoned with.
+14249||RPGSystem#rpg-loc-dialogue-floor-2.json] 자기들 대장으로 삼으려고 했다는데, 당연히 쎄겠지.|I mean, thing's supposed to be their leader, innit? 'Course it's a tough sod.
+14250||RPGSystem#rpg-loc-dialogue-floor-2.json] 후. 이제 와서 무를 수도 없고… 어떻게든 때려눕혀야지, 뭐.|*sigh* No turning back now... Guess we'll just have to give the bloody thing a proper thrashin'.
+14251||RPGSystem#rpg-loc-dialogue-floor-2.json] 어쩌면… 다른 방법이 있었을지도 모르겠네요.|Perhaps... there might have been another option.
+14252||RPGSystem#rpg-loc-dialogue-floor-2.json] <우연히 르누아르에게 르루주의 정보를 준 게 시작이긴 했지만…>|<It started with us accidentally tipping the Noirs off about the Rouges...>
+14253||RPGSystem#rpg-loc-dialogue-floor-2.json] <우리는 우리 나름대로 최선의 선택을 했어.>|<But we made the best choice we could, given what we had.>
+14254||RPGSystem#rpg-loc-dialogue-floor-2.json] …어찌 됐든. 그 자식만 어떻게든 쓰러뜨리면 돼. 그다음에 받기로 한 거 받고… 이 빌어먹을 백화점에서 나가면 끝이잖아.|... Whatever. All we've gotta do is put that bastard down somehow. Then we take what we're owed... and get the bloody hell outta this shithole of a department store. That's it, innit?
+14255||RPGSystem#rpg-loc-dialogue-floor-2.json] 다시, 가보자고.|Right. Let's have another go.
+14256||RPGSystem#rpg-loc-dialogue-floor-2.json] 야, 야… 너… 머리… 괜찮냐!?|Oi, oi... you... your head... you alright?!
+14257||RPGSystem#rpg-loc-dialogue-floor-2.json] 이미 죽었기 때문에, 이전과 동일한 형태의 머리로 돌아왔다.|As I had already died, my head has returned to the same state it was in previously.
+14258||RPGSystem#rpg-loc-dialogue-floor-2.json] <안으로 들어가는 건 포기하자. 이길 만한 상대도… 아직은 아닌 것 같고.>|<Let's give up on going in there. I don't think that's an opponent we can beat... not yet, anyway.>
+14259||RPGSystem#rpg-loc-dialogue-floor-2.json] 쯧. 별수 없지.|Tsk. Can't be helped, then.
+14260||RPGSystem#rpg-loc-dialogue-floor-2.json] 단테, 우선 상황을 지켜본 뒤에 전투를 감행하는 것을 추천드립니다.|Dante, the recommended option is to first observe how the situation develops before initiating combat.
+14261||RPGSystem#rpg-loc-dialogue-floor-2.json] <기회라고 생각했는데… 아니었나 봐.>|<I thought that was our opening... Guess not.>
+14262||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 엇… 이번엔 저랑 오티스 씨인가 보네요.|Ah... Looks like it's you and me for this floor, Outis.
+14263||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 기분이 뭔가 이상하네요. 층마다 다른 수감자들끼리 다녀야 한다는 게.|Feels a bit strange, doesn't it? Having to go around with a different group on every floor.
+14264||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …들리나? 어딘가에서 가위질 소리가 들려오는 군.|... Wait, do you hear that? Sounds like a pair of scissors.
+14265||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 가볼까요?|It might be worth checking out.
+14266||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…뫼르소, 혹시 저번에 수선실에서 얻었던 가위 가지고 있어?>|<... Hey, Meursault. Do you still have that pair of scissors we got from the Alteration Shop last time?>
+14267||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 네, 하지만 지난번 투피스를 자른 이후, 날이 조금 무뎌져… 그들을 다시 자르기 위해선 새로운 가위를 구하는 것이 좋을 것 같습니다.|Yes. However, its edges have chipped slightly in the process of cutting through the last Two-piece. We will require a new pair of scissors for that task.
+14268||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <엄청 질기긴 했지…>|<They were pretty tough, I guess...>
+14269||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그럼 길을 지나가기 위해서는 저것들을 잘라야 하니까… 가위를 새로 사야겠네.>|<We need to cut through Two-piece if we want to proceed, so... looks like we'll be getting ourselves a new pair of scissors.>
+14270||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 소리가 들리는 곳은 이쪽 방향이 아닙니다, 관리자님|This isn't where the noise is coming from, Manager.
+14271||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#cf0000>욕망하라. 그리하면 걸쳐질 것이다.</color>|<color=#cf0000>Desire. Then it shall be donned.</color>
+14272||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 잔느 씨의 말대로라면 각각의 세력을 대표하는… 목소리 중 하나, 그렇다면 이분도 '거인'이라는 존재일 것 같네요.|According to Miss Jeanne, it seems like each faction has a... guiding "Voice," who is, in truth, a "Giant." This voice probably belongs to one of them, too.
+14273||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 고전적인 전략이지. 단결력을 높이고 타 분파에 대한 배척감을 증가시키는 용도다.|A classic manipulation tactic. It bolsters solidarity within a faction by instilling its population with the entrenched in-group-versus-out-group mentality.
+14274||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 매장 직원이 있는 곳은 이쪽 방향이 아닙니다, 관리자님|This isn't the way to the vendor, Manager.
+14275||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이쪽이 아닙니다, 관리자님.|Not this way, Manager.
+14276||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그래도 오티스 씨와 함께라니 든든한 것 같아요. 요새 합도 점점 잘 맞는 것 같고…|Still, I'm glad to be partnered up with you for this floor. It's been easier for us to work together lately, so...
+14277||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 무슨 말이지? 나와 합이 맞는 수감자는 있을 수가 없다.|What? No, I'm not "easy" with anyone, least of all you Sinners. Ridiculous.
+14278||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …아, 그렇군요.|Riiight...
+14279||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 방금 누가 말한 거지?|Who said that?
+14280||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>푸… 그 기억력은 여전하네.</color>|<color=#ebcaa2>Pfft... Still got that excellent memory, huh?</color>
+14281||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 선명한, 그와 동시에 조금 서글픈 목소리가 들려왔다.|The voice came through with clarity, but it carried a note of sadness.

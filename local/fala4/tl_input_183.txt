@@ -1,0 +1,96 @@
+17797||RPGSystem#rpg-loc-dialogue-floor-b1.json] 후우… 멀리도 도망갔네. 이봐, 피차 피곤하게 힘 빼지 말자고.|Whew... You sure ran a long way. Look, let's not make things harder for the both of us.
+17798||RPGSystem#rpg-loc-dialogue-floor-b1.json] 수셰프의 말에 그레고르의 표정이 썩어가듯 일그러졌다.|Gregor's face contorted as though the skin were about to fall off his face.
+17799||RPGSystem#rpg-loc-dialogue-floor-b1.json] <핥는 것 정도는…>|<I mean, if all she wants is a lick or two, then...>
+17800||RPGSystem#rpg-loc-dialogue-floor-b1.json] 관리자 양반, 남의 일이라고 그렇게 편하게 말하는 거 아냐.|Easy for you to say, Manager Bud. It's not your arm that's getting licked, is it?
+17801||RPGSystem#rpg-loc-dialogue-floor-b1.json] 생각해봐. 저 녀석이 그 불타는 머리를 세 번만 쓰다듬어 보게 해달라고 하면, 똑같이 기분 나쁠 거 아니겠어?|Try putting yourself in my shoes. Suppose that little fella asked you if she could run her hands through your flame hair 3 times. Wouldn't it feel icky?
+17802||RPGSystem#rpg-loc-dialogue-floor-b1.json] <최근에 김삿갓, 그 사람이 나한테 했던 걸 생각하면 이해는 가지만 그래도 참을 만은 했어.>|<Remember what Bamboo-hatted Kim did to me the other day? Believe me, I know what it's like, but it's nothing you can't take.>
+17803||RPGSystem#rpg-loc-dialogue-floor-b1.json] 우리에게 이득인 거래는 맞다.|The terms are favorable to us.
+17804||RPGSystem#rpg-loc-dialogue-floor-b1.json] …부탁, 들어주는 거예요?|... Please say yes, you hear?
+17805||RPGSystem#rpg-loc-dialogue-floor-b1.json] <자르는 것보단 위험성도 덜고…>|<Licking's way less dangerous compared to, well, amputation...>
+17806||RPGSystem#rpg-loc-dialogue-floor-b1.json] 내 편이 하나도 없구만… 그래, 마음대로 해.|It's just me against the world, huh...? Fine, do whatever you want.
+17807||RPGSystem#rpg-loc-dialogue-floor-b1.json] 오… 오지 말라는 거예요.|D-don't come any closer, you hear?!
+17808||RPGSystem#rpg-loc-dialogue-floor-b1.json] 수셰프는 위쪽에 있는 정육점을 가리키며, 그레고르의 팔에 찰싹 달라붙었다.|The Sous Chef pointed to the butcher shop above, then latched onto Gregor's arm.
+17809||RPGSystem#rpg-loc-dialogue-floor-b1.json] 저기 있는 커다란 정육점에 부셰가 있다는 거예요.|Boucher is in that big butcher shop up there, you hear?
+17810||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아아… 하… 젠… 장…|Ughhh... *groan* dammit...!
+17811||RPGSystem#rpg-loc-dialogue-floor-b1.json] <정육점… 부셰는 뭐하는 사람인 걸까.>|<A butcher shop... What exactly does Boucher do, anyway?>
+17812||RPGSystem#rpg-loc-dialogue-floor-b1.json] 부셰가 어떤 사람인지, 궁금해하시네요.|The Manager wishes to know what manner of individual Boucher is.
+17813||RPGSystem#rpg-loc-dialogue-floor-b1.json] 부셰는 플로어 매니저인 거예요. 지하 1층의 여러 일들을 담당하고 있다는 거예요.|Boucher is the Floor Manager, you hear? He handles all sorts of work across B1, you hear?
+17814||RPGSystem#rpg-loc-dialogue-floor-b1.json] 하… 그럼 당신은 뭘 하는데? 아잇, 그만 핥아. 세 번 끝났어!|Then what do <i>you</i> do? Hey, <i>HEY!</i> stop licking! You said three licks only!
+17815||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아쉬운 거예요.|That was nowhere near enough, you hear...?
+17816||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뭐, 수셰프가 뭘 하겠냐는 거예요. 푸드코트에서 나오는 소다의 맛을 내가 책임지고 있다는 거예요.|And I'm the Sous Chef, you hear? Of course I'm in charge of flavoring the Food Court soda, you hear?
+17817||RPGSystem#rpg-loc-dialogue-floor-b1.json] 후… 훌륭했던 거예요. 그럼 출발하자는 거예요.|Th-that... was a tastebud tickler, you hear? I want more... but all right, let's get going, you hear?
+17818||RPGSystem#rpg-loc-dialogue-floor-b1.json] 부셰라는 자가 어디에 있는지 말해준다면, 더 이상 다가가지 않겠다.|Tell us where Boucher is located, and we will cease our pursuit.
+17819||RPGSystem#rpg-loc-dialogue-floor-b1.json] 부, 부셰를 찾아가도 특산품은 넘기지 않을 거란 거예요. 그건 소다에 넣을 귀중한 재료라는 거예요.|B-Boucher won't give up the specialty ingredient anyway, you hear? It's rare and gourmet, you hear? It's going in the soda, you hear?!
+17820||RPGSystem#rpg-loc-dialogue-floor-b1.json] 벌레벌레한 그 팔을 떼어줬으면 제가 잘 얘기했을 거란 말인 거예요.|You should've cut off the buggy-buggy arm for us, you hear? I'd have put in a good word and helped you barter it, you hear?
+17821||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그~ 이야기해보면 또 다를 수도 있잖아, 응? 융통성 있게 소개만 좀 시켜주면, 이쪽에서 알아서 할 테니까…|C'mon~ We'll never know until we talk it over, right? Just introduce us to Boucher and let us handle the rest.
+17822||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그, 그럼… 부탁 하나만 들어주면 소개해주겠다는 거예요.|O-okay, but only if you do me a favor, you hear?
+17823||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이제야 말이 좀 통하네. 그래, 무슨 부탁인데?|<i>Now</i> we're getting somewhere. All right, what do you want?
+17824||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그 벌레 팔, 세 번만 핥아 보게 해 주라는 거예요.|Let me lick that buggy-buggy arm, you hear? Just three times, you hear?
+17826||RPGSystem#rpg-loc-dialogue-floor-b1.json] 바쁘니까 알아서 해.|I'm busy. Work it out yourself.
+17827||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뫼르소는 멈춰 있는 에스컬레이터 중 하나에 다가갔다.|I step onto the first staircase behind Meursault.
+17828||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그리곤 만져보기도 하고, 오르내리기도 하고, 두드려 소리를 들어보기도 했다.|He touched it, climbed up and down it, and rapped against it to listen to the sound it made.
+17829||RPGSystem#rpg-loc-dialogue-floor-b1.json] 피식자의 사유는 제일 왼쪽에 걸려있는 거예요. 대롱대롱인 거예요.|The Ruminations of the Prey hang on the far left, you hear? They dangle-dongle, you hear?
+17830||RPGSystem#rpg-loc-dialogue-floor-b1.json] 잘 가라는 거예요.|It's goodbye now, you hear?
+17831||RPGSystem#rpg-loc-dialogue-floor-b1.json] 푸드코트는 소용돌이 모양이 바닥에 표시된 곳입니다, 관리자님.|The Food Court area is marked by a spiral symbol on the floor, Manager.
+17832||RPGSystem#rpg-loc-dialogue-floor-b1.json] 멀지 않은 곳에서 비린내가 난다. 길은 천으로 빽빽하게 막혀있다.|A briny stench drifts from nearby. The path ahead is packed shut with fabric.
+17833||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이거 원. 여기로는 못 가겠는데? 흠집도 안나는구만.|Well, we're not getting through here, that's for certain. Thing won't even take a scratch.
+17834||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그곳은 지하 1층의 다른 공간일 겁니다. 어떠한 조건을 충족한다면 갈 수 있겠지만… 아직은 접근할 수 없는 정보군요.|It likely leads to another area of B1. Access may become possible once a particular condition is satisfied... but information on the prerequisite is not yet accessible.
+17835||RPGSystem#rpg-loc-dialogue-floor-b1.json] 허, 이 백화점은 도대체 얼마나 넓은 거야…?>|Huh! Just how huge is this department store...?
+17836||RPGSystem#rpg-loc-dialogue-floor-b1.json] <color=#ebcaa2>거인의 상상만큼 넓을 거야. 그런 공간이거든.</color>|<color=#ebcaa2>As vast as a Giant's imagination. That's the kind of place it is.</color>
+17837||RPGSystem#rpg-loc-dialogue-floor-b1.json] <거인의 상상…>|<A Giant's imagination...>
+17838||RPGSystem#rpg-loc-dialogue-floor-b1.json] 분수에 머리를 박고 있는 고객들이 여럿 보인다.|Several customers have their heads plunged into the fountain.
+17839||RPGSystem#rpg-loc-dialogue-floor-b1.json] 고기 사이로 눈알로 만들어진 요리가 보인다. 챙겨갈 수 있을지도.|Among the cuts of meat sits a dish made from eyeballs. We may be able to take it with us.
+17840||RPGSystem#rpg-loc-dialogue-floor-b1.json] <이런 곳에도 문이 있네.>|<Didn't expect to see a door in a place like this.>
+17841||RPGSystem#rpg-loc-dialogue-floor-b1.json] 방향을 고려했을 때, 이 문을 열면 식품관… 으로 연결될 가능성이 높습니다.|Given where it faces, opening it has a high probability of connecting us to the Food Hall...
+17842||RPGSystem#rpg-loc-dialogue-floor-b1.json] …확실하지는 않습니다.|... Though the available evidence is insufficient to be absolutely certain.
+17843||RPGSystem#rpg-loc-dialogue-floor-b1.json] <어…>|<Uh...>
+17844||RPGSystem#rpg-loc-dialogue-floor-b1.json] 관리자 양반… 들어갈 생각은 아니지?|Uh... We're not going in there, are we, Manager Bud?
+17845||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…복도로 다니자. 안전하게.>|<... Let's take the corridor. Might be safer that way.>
+17846||RPGSystem#rpg-loc-dialogue-floor-b1.json] 문 너머에는 칠흑 같은 어둠뿐이다.|Nothing but impenetrable darkness lies beyond the door.
+17847||RPGSystem#rpg-loc-dialogue-floor-b1.json] …그럼에도 불구하고 저 너머로 가볼까?|... Should we ignore the risk and proceed into the dark?
+17848||RPGSystem#rpg-loc-dialogue-floor-b1.json] 염색된 천들이 쌓여있다.|Dyed fabrics are piled high.
+17849||RPGSystem#rpg-loc-dialogue-floor-b1.json] …여기서 한참을 기다려야겠군.|... It appears I'll be waiting here for some time.
+17850||RPGSystem#rpg-loc-dialogue-floor-b1.json] 거 참… 도움이 안되는구만|Darn it... That doesn't help at all.
+17851||RPGSystem#rpg-loc-dialogue-floor-b1.json] 르누아르 직원은 다시 천을 정리하기 시작했다.|The Noir clerk resumes arranging the fabric.
+17852||RPGSystem#rpg-loc-dialogue-floor-b1.json] …음? 무슨 일이십니까.|... Hm? Is there something you need?
+17853||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이 천들이 무엇인지 묻고 싶군요.|We wish to inquire as to the nature of these fabrics.
+17854||RPGSystem#rpg-loc-dialogue-floor-b1.json] 지하 2층에서 가져온 원단들입니다. SPA관에서 요청한 품목들이죠.|They are bolts of fabric brought up from B2. The Casualwear Hall placed the order.
+17855||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뭐야, 그럼 이 양반한테 물어보면 되는 거 아닌가? 지하 2층에서 왔으면, 가는 방법도 알고 있을 거 아냐.|Well, there we go. Why don't we just ask this clerk? If they came from B2, they ought to know the way there, shouldn't they?
+17856||RPGSystem#rpg-loc-dialogue-floor-b1.json] 오는 법을 아는 것과, 가는 법을 아는 것은 다르다. 하지만 저자가 둘 모두를 알고 있을 확률은 높아 보이는군.|Knowing how to return from a given place is not the same as knowing how to get there. The probability that this individual knows both, however, is high.
+17857||RPGSystem#rpg-loc-dialogue-floor-b1.json] 어쩐지 내 머리를 빤히 쳐다보는 시선이 느껴진다. 혹시 모르니까 3층에서 받았던 그걸 내밀어볼까.|For some reason, I can feel their gaze fixed upon my head. I should probably show them the item we received on the 3rd floor, just in case.
+17858||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이건… 아하, 3층에 있는 분들에게 의뢰를 받고 내려가고 계셨나 보군요. 에스컬레이터는 그냥 내려가면 됩니다. 가야 할 곳을 알고 있다면 헤맬 일도 없죠.|This is... Ah. You are on an errand for those on the third floor, I see. If you wish to descend to the lower floors, simply take the escalator leading downward. Those who know their appointed destination have no cause to lose their way.
+17859||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…복도랑 설명이 비슷한 것 같은데.>|<... That sounds a lot like what we were told about the Corridors.>
+17860||RPGSystem#rpg-loc-dialogue-floor-b1.json] 너흰 뭐야?|... Who the hell are you people?
+17861||RPGSystem#rpg-loc-dialogue-floor-b1.json] 창문 너머로 기이한 형체가 한번씩 지나간다.|Every so often, an uncanny silhouette passes behind the window.
+17862||RPGSystem#rpg-loc-dialogue-floor-b1.json] 창문 너머로 산처럼 배가 솟아오른 시체가 보인다.|A house resembling an ordinary private residence. No one responds when we knock.
+17863||RPGSystem#rpg-loc-dialogue-floor-b1.json] 창문 너머로 뭔지 모를 인기척이 느껴진다.|Something seems to be lurking beyond the window.
+17864||RPGSystem#rpg-loc-dialogue-floor-b1.json] 문을 두드려보았더니, 무언가 황급한 발소리가 들리고 나선 인기척이 사라져 버렸다.|Knocked on the door.\nHurried footsteps scurry away at the sound, and then the presence vanishes.
+17866||RPGSystem#rpg-loc-dialogue-floor-b1.json] 문틈 너머로 무언가가 내다보았던 것만 같은 기분이 든다.|For a moment, I had the feeling that something was peering through the crack in the door.
+17867||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뫼르소가 문고리를 잡는 순간, 알 수 없는 압력과 함께 뒷쪽으로 날아갔다.|The instant Meursault grips the doorknob, an unknown force hurls him backward.
+17868||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…?>|<…?>
+17869||RPGSystem#rpg-loc-dialogue-floor-b1.json] 오… 갑자기 마임이라도 하려고?|Whoa... what's this, a mime routine or something?
+17870||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뫼르소가 분명히 문고리를 잡아서 열어젖힌 듯 움직였지만, 실상 문은 그 자리에 있었다.|Meursault had clearly grasped the knob and moved as though wrenching the door open. Yet the door itself remained exactly where it was.
+17871||RPGSystem#rpg-loc-dialogue-floor-b1.json] 문고리가 돌아가는 감각과 문을 여는 감각은 느껴졌다.|The tactile sensation of turning the doorknob and pushing the door open was there.
+17872||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그… 위층에서 열었던 머리가… 덜 닫힌 것 같은데… 관리자 양반, 시계라도 돌려주는 게 어때.|Uh... Maybe your head never closed all the way after the Alterationist opened it upstairs... Manager Bud, how about giving the clock a spin for him?
+17873||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이 양반… 은근히 개그 욕심이 있단 말이야.|You know, this fella's got a sneaky knack for slapstick.
+17874||RPGSystem#rpg-loc-dialogue-floor-b1.json] 어라? 이거 보게.|Huh? Well, look at that.
+17875||RPGSystem#rpg-loc-dialogue-floor-b1.json] …아무래도 그레고르도 똑같은 일을 겪은 듯하다.|... It would appear that Gregor has just experienced the exact same thing.
+17876||RPGSystem#rpg-loc-dialogue-floor-b1.json] 철컹거리는, 철물이 맞부딪히는 소리가 들린다.|Metal clashes against metal with a heavy clanging.
+17877||RPGSystem#rpg-loc-dialogue-floor-b1.json] <뭘 하는 거지…?>|<What is it doing...?>
+17878||RPGSystem#rpg-loc-dialogue-floor-b1.json] …아웅다웅 다투려는 둘을 떼어내었다.|... I pull the two Sinners apart before their squabbling can get worse.
+17879||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뭐였을까? 기묘한 경험에 재차 문고리를 잡아당겨 문을 열어보려 해도, 열리지 않는다.|Just what was that? Despite the bizarre phenomenon, I seize the doorknob once more and try to pull the door open—but it refuses to budge.
+17880||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뫼르소가 지도 조각을 챙겼다.|Meursault obtained Map Fragment.
+17881||RPGSystem#rpg-loc-dialogue-floor-b1.json] 시작도 끝도 알 수 없는 에스컬레이터다.|An escalator whose origin and terminus alike lie beyond perception.
+17882||RPGSystem#rpg-loc-dialogue-floor-b1.json] 수셰프라고 불러 달라는 거예요.|Call me Sous Chef, you hear?
+17883||RPGSystem#rpg-loc-dialogue-floor-b1.json] 더 이상 배고플 일은 없어 보인다.|Won't be so hungry anymore.
+17884||RPGSystem#rpg-loc-dialogue-floor-b1.json] 마침내 굶주림에서 벗어나게 되었다.|At last, freed from their hunger pangs.
+17885||RPGSystem#rpg-loc-dialogue-floor-b1.json] 일부만 떼어냈을 뿐인데, 다른 고기들과 별반 다르지 않게 느껴진다.|Though only a small part of it has been trimmed, it now feels no different from any other cut of meat here.
+17886||RPGSystem#rpg-loc-dialogue-floor-b1.json] 어느 쪽이든 우리보다 등급이 높아 보이는데…|Either way, they're clearly in higher tiers than us...
+17887||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…저자들한테 물어볼까.>|<... Why don't we ask them about the cocoon?>
+17888||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그래. 척 봐도 여기 토박이 같은데, 한번 물어보자고.|Sure. I can tell they're locals even at first glance. Let's see what they know.
+17889||RPGSystem#rpg-loc-dialogue-floor-b1.json] 거기 거적때기 양반들! 그래! 거기 두 명!|Hey, fellas! Yeah, you two—the ones in the rags. Both of you!
+17890||RPGSystem#rpg-loc-dialogue-floor-b1.json] 부, 부르셨습니까?|Y-yessir?
+17891||RPGSystem#rpg-loc-dialogue-floor-b1.json] 가까이 다가온 고객 두 명에게 뫼르소가 레시피 속 고치의 모습을 보여주었다.|When the two customers approached, Meursault showed them the picture of the cocoon from the recipe.
+17892||RPGSystem#rpg-loc-dialogue-floor-b1.json] 눈알 열 개만 주시면, 바로 알려드릴 수 있습니다!|10 eyeballs, and we'll tell you right away!
+17893||RPGSystem#rpg-loc-dialogue-floor-b1.json] 여, 열 개가 뭐야! 서른 개는 불렀어야지! 그걸로는 소다 한 컵밖에 못 마셔!|10? You should've asked for 30! 10 barely buys one cup of soda!
+17894||RPGSystem#rpg-loc-dialogue-floor-b1.json] 조용히 해봐! 그렇게 불렀다가 안 주면 어떡하려고!|Shut up! What if we ask for that much and they refuse?

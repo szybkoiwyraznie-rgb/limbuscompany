@@ -1,0 +1,96 @@
+17117||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] [그 규칙이 옳은지, 나침반이 규칙대로 작동하는지… 그건 그래, 의심할 수도 있겠군.]|[One may harbor certain doubts in their hearts, yes: are these rules the "right" rules? Does the compass work according to the rules? ... Indeed, all valid concerns.]
+17118||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] [그래도 방향을 알 수 없을 때, 나침반이 있다면 어디로든 걸어갈 수 있다, 뭐 그런 거지.]|[But the point of a compass is to guide you when you're lost. You get the idea.]
+17119||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] [다 된 거지? 그럼 퇴근이나 해봐야겠어.]|[All good? Very well. I'll be clocking out now.]
+17120||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 퇴근이 뭐야?|What's "clocking out"?
+17121||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 일을 마치고 집으로 돌아간다는 의미다.|It means to wrap up a day's work and return home.
+17122||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …일하려면 집에서 나와야하는 거야?|... You have to leave home to work?
+17123||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뭐… 집에서 할 수 있는 일도 있겠지만, 보통은 집을 나와야 일을 한다는 느낌이지.|Well... some works can be done from home. But for most people, "work" means leaving home.
+17124||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 일한다는 건… 싫을 것 같아.|Then... I think work kinda sucks.
+17125||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 문을 열자, 아무것도 없는 캄캄한 공간이 시야에 들어왔다.|The door opens onto an empty space drowned in darkness.
+17126||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 저번에 들어갔을 때, 샘터로 돌아갔던 기억이 난다.|Last time, entering this door led us to the Fount.
+17127||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …깜깜해. 그리고 안 들어가는 게 좋을 것 같아.|... So dark. Don't go in there.
+17128||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 암. 그렇고 말고.|100% agreed.
+17129||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …관리자 양반, 혹시 들어갈 생각은 아니지?|Uh... We're not going in there, are we, Manager Bud?
+17130||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 재고 정리 전을 생각한다면, 들어가지 않는게 상식적인 판단일 것이다.|Considering what happened when we tried this entrance before the Liquidation... it would be common sense not to try it again.
+17131||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그럼에도, 이번 백화점은 저번과는 달랐던 경우가 꽤나 많았다.|But the Grand Magasin this time has changed in some significant ways since our last visit.
+17132||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그리고… 이 안에서 상식적인 판단은 크게 의미가 없었다.|Besides... it didn't make much sense to make judgments based on "common sense" in here.
+17133||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그렇다면… 이번에는 다르지 않을까?|Maybe... it'll be different this time?
+17134||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 지하 2층에서 만들어졌을 천들이 차곡차곡 쌓여있다.|Neatly folded stacks of fabric, most likely woven from B2F, are piled here.
+17135||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 운반자… 라는 이들이 시즌을 기다려 올려주기 전까진 여기에 계속 있을 것 같다.|These'll probably stay down here until the... Porters bring them upstairs when enough seasons pass.
+17136||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 천을 정리하느라 바빠 보인다.|They appear occupied with arranging the fabric.
+17138||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 오. 귀한 것을 가져오셨군요.|Oh. You have brought a most precious thing indeed.
+17139||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 무사히 내려가시길 기원하겠습니다, 이방인들이여.|May your descent be untroubled, Strangers.
+17141||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 한 명 더 데려올걸 그랬나…|Should've brought another pair of hands...
+17142||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 너흰 뭐야?|Who the hell are you people?
+17143||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <여기서 뭘 기다리고 있는 거야?>|<Are you waiting for something here?>
+17144||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이곳에서 무엇을 기다리고 있는 건지 궁금하네요.|We are curious as to what you are awaiting here.
+17145||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 지하 3층에서 가죽을 떼 와야 해. 이유는 모르겠지만, 요즘 수급이 잘 안 되는…|Need to strip the Hides from B3 and haul 'em back. Don't know why, but supplies haven't been coming through lately—
+17146||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …! 잠깐, 조용히 해봐. 지금 다시 목소리가 들리고 있으니까!|...! Wait. Shh... I can hear the Voice again!
+17147||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 르루주의 운반자는 우리를 밀치고 벽에 달라붙어 기쁜 듯이 웃고 있다.|The Rouge porter shoved past us, pressed themself against the wall, and broke into a blissful grin.
+17148||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 벽에 달라붙어 기쁜 듯이 웃고 있다.|They are pressed against the wall with a blissful grin.
+17149||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 바짝 마른 고기다. 차갑고 비릿한 향이 풍겨온다.|A desiccated slab of meat. It gives off a cold, fishy odor.
+17150||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 평범한 민가처럼 보이는 집이다. 문을 두드려도 인기척은 느껴지지 않는다.|A house resembling an ordinary private residence. No one responds when we knock.
+17151||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 창문 너머로 무언가와 눈이 마주쳤다.|Something beyond the windows met my gaze.
+17152||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그것은 조용히 하라는 제스처를 취하곤 사라졌다.|It gestured us to be silent, then disappeared.
+17153||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 사람이 살지 않는 듯 집 안쪽엔 가구 대신 고기나 가죽 따위가 쌓여있다.|The house appears uninhabited. Meat, hides, and similar materials are heaped inside in place of furniture.
+17154||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 문 안으로 들어섰다.|Entered through the open door.
+17155||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 문이 열려있다. 들어갈까?|The door is open. Should we enter?
+17156||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 안쪽에 눈알이 잔뜩 쌓여있다. 주인으로 보이는 자는 산처럼 배가 솟아오른 채, 죽어있다.|There are eyeballs inside, piled up high. A customer who seems to be the owner lies dead nearby, their belly swollen like a mountain.
+17157||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 부풀었던 배가 터져 바닥을 어지럽혀 놓았다.|The swollen belly has burst, spraying the floor with its innards.
+17158||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 문을 두드려보았지만, 어떤 인기척도 느껴지지 않는다.|Knocked on the door, but there's no response. Or any signs of life, for that matter.
+17159||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 서늘할 정도의 고요함만이 자리 잡고 있다.|There is nothing but the chilling silence.
+17160||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <만나기 싫은 건가…>|<I think we're being avoided...>
+17161||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 문에 가까이 다가가자 키득거리는 소리가 간간이 들려온다.|When we approached the door, someone—or something—behind it snickers.
+17162||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <뫼르소?!>|<Meursault!>
+17163||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <괜찮은 거야?!>|<Are you all right?!>
+17164||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 다소의 피부 열상이 발생했지만, 행동에 문제는 없습니다.|I've sustained dermal lacerations, but they are not severe enough to impede me.
+17165||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 먼지를 툭툭 털고 일어서는 뫼르소를 향해, 정체 모를 키득거림이 들린 것만 같다.|As Meursault rises and briskly dusts himself off, I could hear someone—or something—snickering at him.
+17167||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <여긴 안 열리나 봐.>|<This one won't be opening, it seems.>
+17168||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 어떻게 된 거야?|What happened?
+17169||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 입장을 거부 당했군요.|We were refused entry.
+17170||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 못 들어가는거야?|We can't... go in?
+17171||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 네. 뫼르소 씨는 들어가기엔… 조건이 맞지 않는 것 같네요.|No. It appears that Meursault does not meet the conditions required to enter.
+17172||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 나랑 똑같네.|Just like me.
+17173||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이는 살짝 미소를 짓곤 뫼르소에게 한걸음 다가갔다.|Pwie smiled lightly, then stood a step closer to Meursault.
+17174||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 좁은 창문 너머로는 두꺼운 암막 커튼이 쳐져 있는 듯하다.|It looks as though a thick blackout curtain has been drawn behind the narrow window.
+17175||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …드문드문 무언가를 짜내는 듯한 소리가 들린다.|... Every so often, something makes a wet <i>squelch</i> as though something is being wrung out.
+17176||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 다시 커튼 쪽으로 귀를 기울여 본다.|Leaned in toward the curtain again to listen some more.
+17177||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 후두둑거리는 소리가 났나 싶더니, 이내 커튼이 툭! 하는 소리와 함께 작게 흔들렸다.|A wet patter sounded from within. A moment later, the curtain gave a small twitch with a sharp smack.
+17178||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …무언가가 뿜어져 나와 커튼에 튄 모양이다.|... Something appears to have sprayed out and splattered all over it.
+17179||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 더 이상 다른 소리가 들리지는 않는다.|No other sounds follow.
+17180||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 드문드문 커튼 아래로 물방울이 떨어지는 것 같은 소리가 들리는 것 같기도 하다.|... Though every so often, I think I hear droplets falling from beneath the curtain.
+17181||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 살짝 열린 문틈으로 안쪽을 바라보니, 마룻바닥 위에 촘촘하게 고기 조각들이 올려져 있다.|Peering through the slightly open door reveals rows of meaty chunks, densely arranged all over the wooden floor.
+17182||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그 고기가 무엇에서부터 유래했는지 쉽게 추측하기가 어렵다.|... It is difficult to tell where or what that meat came from.
+17183||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 창문을 들여다보니, 정체 모를 거대한 무언가가 벽에 달린 구멍에 가죽 같은 것을 밀어 넣고 있다.|Through the window, a huge, unidentifiable thing is feeding what looks like hide into a hole in the wall.
+17184||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 나도 볼래.|I wanna see, too.
+17185||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이는 까치발로 서서 창문 너머를 바라보고 있다.|Pwie stands on tiptoes, trying to see what's beyond the window.
+17186||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 흔히 다세대 주택 등에서 쓰레기를 버릴 때 사용하는 구멍이군요. 더스트슈트라고도 불립니다.|That aperture is the kind commonly employed for waste disposal in multi-unit residences. It is also referred to as "dust chute."
+17187||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 근데… 여긴 그냥 단독주택 아닌가?|But... isn't this just a detached house?
+17188||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그것은 도시에서의 상식입니다, 그레고르. 상징계인 이곳에서 상식을 논하긴 어렵지 않을까요.|That is common sense as established within the City, Herr Gregor. It is difficult to apply the same standard to the way things are in the Symbolic.
+17189||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 허… 그럼 더스트슈트는 상식적인 개념이 아니라는 말이야…?|Huh... you're saying a dust chute isn't a common-sense concept here then...?
+17190||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …이번에도 아웅다웅 다투려는 둘을 떼어내었다.|... Once again, I pull the two Sinners apart before their squabbling can get worse.
+17191||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이번에도 기묘한 경험은 한 번 뿐인 것 같다.|Only one bizarre adventure per attempt, it seems.
+17192||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 자판기이자 지도. 이곳에서 무언가를 살 수 있을 것 같다.|A vending machine and directory in one. A vendingrectory machine. We can buy something from here.
+17193||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 지도 가장자리에 무언가 붙어있다.|Something is stuck to its edge.
+17194||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 붉은빛이 도는 고기나 가죽 따위가 전시되어있다. 바깥에 걸려있는 고기들보다는 신선해 보인다.|Reddish pieces of meat, hides, and the like have been put on display. They look fresher than the cuts hanging outside.
+17195||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 에스컬레이터 앞에 무언가 떨어져있다.|Something lies on the floor before the escalator.
+17196||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뫼르소가 눈알 10개를 챙겼다.|Meursault obtained 10 eyeballs.
+17197||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 시작도 끝도 알 수 없는 에스컬레이터. 올라가지도, 내려가지도 못하고 멈춰있는 이 에스컬레이터를… 나라면 무엇으로 정의했을까.|An escalator whose origin and terminus alike lie beyond perception... An escalator that doesn't even move in either direction... What would I have defined this escalator as?
+17198||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 다 뜯어먹힌 시체 사이로 무언가 보인다.|Something is visible among the corpses that have been gnawed clean.
+17199||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이젠 갈증을 느끼지 않아도 된다.|Won't be thirsty anymore.
+17200||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 허기도, 갈증도 느껴지지 않는 백화점에서… 이들은 무엇에 허기져 있는 걸까. 이들의 허기는 르루주의 허기와 무엇이 다른 걸까.|In the Grand Magasin, where neither hunger nor thirst exist... what is it that they crave? How is their hunger different from that of Le Rouge?
+17201||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아무런 대답도 돌아오지 않는다.|No answer.
+17202||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 풍겨오는 비릿한 냄새가 바다 때문인지 피 때문인지 구분할 수 없을 것 같다.|It's hard to tell whether the briny smell in the air is coming from the sea or the blood.
+17203||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 안광이 완전히 사라졌다.|The light has completely gone out of their eyes.
+17204||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 숨이 멎었는지 더 이상 벌름거리지 않는다.|Doesn't even so much as twitch. Most likely dead.
+17205||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …. 기껏 수셰프로 승진시켜놓았는데 아쉽게 되었어.|... A shame. I promote her to Sous Chef, and out she goes.
+17206||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 푸드코트의 소다는 한동안 심심한 맛이 나겠군.|Now Food Court's Soda won't have the kick it needs for a while.
+17207||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뭐, 어찌 되었든 쉽게 가는 길이 있다는 거구만. 가보자고.|Well, whatever got us there, we've got a straight road ahead. Let's take it.
+17208||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …저거, 르누아르인가?|... Think they might be Noirs?
+17209||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아냐! 저기 저 지갑을 보면 르루주라니까?|No! Look at that wallet—they've got to be the Rouges!
+17210||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 어느쪽이든 우리보다 등급이 높아 보이는데…|Either way, they're clearly in higher tiers than us...
+17211||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 누, 눈 마주쳤잖아. 도망갈까?|Th-they saw us. Should we run?
+17212||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아냐. 척 봐도 돈 많아 보이는데 눈알 몇 개라도 달라고…|No. They're obviously loaded. Maybe they'd be willing to give us a few eyeballs...
+17213||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 왜 우리를 보며 무서워 해?|Why are they scared of us?
+17214||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 우리가 저들과 다른 차림새를 가지고 있기 때문이겠지. 지하는… 분위기가 지상층과는 좀 다른 것 같네. 뒷골목과 비슷하달까…|Probably because we don't look anything like them. The air down here is different from the upper floors... more like the Backstreets, if I had to make a comparison...
+17215||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <원래 같았으면 이자들을 붙잡고 정보를 얻어야겠지만…>|<Normally, we'd stop those two and squeeze whatever information we could out of them...>

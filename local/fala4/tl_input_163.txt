@@ -1,0 +1,96 @@
+15848||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 르루주에 속해있던 자의 시체다. 벗겨진 구두엔 피가 고여있다.|The corpse of a Rouge. Blood has pooled in the shoe that fell off.
+15849||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 르루주에 속해있던 자의 시체다. 그토록 많은 신발을 가졌건만 벗어나는 데 도움이 되진 못했다.|The corpse of a Rouge. All those shoes did nothing to help them escape.
+15850||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 등이 굽은 조명은, 이런 마지막 또한 각오하고 있었을까?|Was the Arc Floor Lamp ready for such an end?
+15851||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무엇을 밝히지도, 걸 수도 없게 되었다.|It'll never illuminate or hang anything again.
+15852||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무너져 내린 채 핏물에 축축하게 젖어있다. 내리쬐는 햇빛에 핏물이 마를 일은 없어 보인다.|A red puddle slowly spreads from its bloodsoaked, broken body. Even the sunlight isn't bright enough to dry all that blood.
+15853||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 죽어서도 떨어지기는커녕 엉겨 붙어 있다.|Thought death would do them part, but it's only tangled them closer together.
+15854||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이젠 아무도 사 가지 않을 것 같다.|Doubt anyone's going to buy this pile of bloody mess, now.
+15855||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 산산조각 나 누울 자리도 없는 것 같다.|The frame is completely shattered. It doesn't make for a very good bed anymore.
+15856||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이것도 어디로든 멜 수 있는 가방을 한눈에 보기 위함인가…?|I wonder if this one's like the contorted Mannequins on the first floor...? To demonstrate to customers how this bag can be worn at every angle...?
+15857||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 건너편과 달리, 멀쩡한 기둥이다.|The pillars here are intact, unlike the ones on the other side.
+15858||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 복도에 전시되어 있던 가방과 같은 디자인이다.|Same design as the handbag displayed in the corridor.
+15859||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …방금 살짝 움직인 것 같은데.|... It moved.
+15860||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [슈발리에 : 시지프 백화점 창립 이후 가방 디자인을 선두해온 르누아르 가방관의 역사를 총망라한 오브제]|[Chevalier : A objet containing the total history of Le Noir Handbags Hall, which has spearheaded the art of handbag design since the Grand Magasin Sisyphe's inception.]
+15861||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…오, 이건 좀 예술품 같은데.>|<... Hey, this one looks artsy.>
+15862||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 오오오! 로시난테에 비할 바는 아니지만, 훌륭한 말이로군!|Ooooh! Though it paleth before dearest Rocinante, 'tis an excellent steed indeed!
+15863||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <방금 말이 째려본 것 같은데…?>|<... I think the horse just glared at you?>
+15864||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 미… 미안하네, 목마 군. 본인이 실언을… 사과하겠네…|P-prithee, accept mine apologies, young steed of... wood. Forgive my... comment most foolish.
+15865||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 대답이 없다.|It does not reply.
+15866||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아까와는 달리, 뿌이는 관심조차 없어보인다.|Pwie seems completely disinterested in these.
+15867||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 깔끔한 가방전시대다.|A clean and nicely organized handbags display.
+15868||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 가방을 관리하기 위한 도구 같은 것이 들어있다. 챙길 필요는 없어보인다.|Contains various tools for handbag maintenance. Seems unnecessary to take these.
+15869||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 기둥 뒤쪽에 무언가가 떨어져있다.|Something's fallen behind the pillar.
+15870||RPGSystem#rpg-loc-dialogue-floor-4-b.json] […디자이너는 …불참 …같음.]|[... Designer... not joining... it seems.]
+15871||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [차단 소요 없음. 다른 …으로 …하겠음.]|[No obstructive elements found. Will... with... other...]
+15872||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 군데군데 지워져있다.|Erased in a few places.
+15873||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [담아낸 탈피 : 벗어냄으로써 마침내 담아낸다.]|[Contained Shedding: By shedding, one finally contains.]
+15874||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 진열대 아래 무언가 떨어져있다. 실 몇가닥이 떨어져 있다.|Something has fallen beneath the display stand. A few loose strands of thread lie on the floor.
+15875||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 은빛이 도는 실과 새카만 실, 그 사이로… 황금 섬유 한 가닥이 흩날리고 있다.|Silver-threaded strands and pitch-black ones... and between them, a single Golden Fiber drifts in the air.
+15876||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 전시된 가방엔 먼지가 쌓여있다.|There's a light powdering of dust over the handbag on display.
+15877||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 기둥이 무너져있다. 방치된 지 오래된 것 같다.|A fallen pillar. Looks like it's been that way for a while.
+15878||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 누워있으면 허리가 아플 것 같은 벤치다.|This bench looks like it'd hurt the back to lie down on for too long.
+15879||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 벽에 붙어있던 황금가죽을 가위로 오려냈다.|We used the scissors to cut the Golden Hide from the wall.
+15880||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 간간이 고통스러워 하는 신음소리가 들려오는 듯하다.|Pained weeping can be heard intermittently.
+15881||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 덜 마른 벽이다.|The wall is still drying.
+15882||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 죽음을 슬퍼해줄 자식도, 세상에 기억될 작품도 남기지 못했다.|In the end, he has no children to mourn his demise, nor masterpieces for the world to remember him by.
+15883||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 반죽된 살점… 이 통에 담겨있다.|Dough of... flesh in a bucket.
+15884||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이가 들고 다니면 어울릴지도 모르겠다.|This'll look good on Pwie.
+15885||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 작은 가방들이다. 많은 것을 담진 못할 것 같다.|Tiny bags. These won't hold much.
+15886||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 늘어진 살점들이 진열대까지 침범해있다.|Hanging curtains of flesh have invaded the display cases.
+15887||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 두 다리로 서기에도 버거운 세상에서 다리 하나로 바르게 서는 것은 고귀하다한들 쉽지 않은 일이다.|In a world where it is so hard to stand on even with two legs, to stand up straight on one leg is a difficult task, regardless of one's nobility.
+15888||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 꽁지 빠지게 도망다니던 것을 겨우 잡았다.|Barely managed to catch it from scampering all over the place after tailing it for a while.
+15889||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 눈에 뵈는 게 없이 날뛰던 것을 겨우 잡았다.|Barely managed to catch this thing blindly running amok.
+15890||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 수염 휘날리며 뛰어다니던 것을 겨우 잡았다.|Barely managed to catch this thing by its whiskers. It always left a long streak as it ran...
+15891||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 찰랑이던 머리결이 윤기를 잃은 채 바닥에 흩어져있다.|A patch of once-luscious hair lies scattered on the ground withered, having lost all of its vibrance.
+15892||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 앙다문 이빨이 모조리 바스라져 있다.|It has ground its teeth to tiny shards.
+15893||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 짓눌려 터진 눈알이 삐져나왔다.|Its eyeball has popped and squeezed out of the skull.
+15894||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 앞으로 벌어진 틈새는 다시 메워지지 않을 것 같다.|The open cracks won't be filled again.
+15895||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …시체를 담을 가방은 팔지 않는 것 같다.|They don't sell bodybags here.
+15896||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이는 그자의 관심이 부담스럽다는 듯 우리들 뒤에 바짝 붙었다.|Pwie hid behind us, evidently feeling a bit anxious from the overly saccharine reception.
+15897||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 집이요?|Home?
+15898||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그래, 집. 우리 모두가 왔던 곳. 우리들은 각자의 집이 있었어. 너희도 있겠지. 돌아가야 할 장소가, 기다리는 사람이.|Yes, home. The place where we all came from. We each had one—and I'm sure you do, too. A place to return to, where people are waiting for you to come back.
+15899||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 음, 우리는 버스… 버스로 돌아가야 한다네. 크고 멋진 버스… 메피 군의 안에서 붉은시선 나리와 카론 군이 우리를 기다리고 있을 테니.|Hm! The <i>bus!</i> is our place to return to... Indeed, a <i>bus!</i> so grand and dashing, young Mephi... And within that handsome <i>bus</i>, Lord Red Gaze, a Color Fixer most illustrious... and young Charon await our return.
+15900||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …이렇게 말을 하니 굉장히 오래전의 이야기인 것처럼 가물거리는군…|... Hoh... How peculiar! 'Tis as hazy as though I am speaking of events a millennium ago...
+15901||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이곳에 머무는 분들은 백화점 이전의 이야기에 대해서는 언급하지 않으시는 줄 알았는데 의외인 걸요?|Oh, that's interesting. I thought the residents of the Grand Magasin never talked about their lives before coming here.
+15902||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 백화점의 고객이 되려면 많은 것들을 버리고 잊는 편이 좋지. 나도 이곳에 들어오기 전에 대해서는 기억나는 게 많이 없어.|It's true, we do have to forget many, many things to become customers of this department store. I barely remember anything about the life I had before coming here.
+15903||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이를테면 내게 있어 유일한 기억은… 누군가 나를 보고 울었다는 것뿐이야. 시지프형을 알리는 재판장의 망치 소리가 울려 퍼진 후에 눈이 마주쳤었지.|The only memory I have left of the outside world... is the face of someone crying. When the judge's gavel hit the stand and sentenced me to the Sisyphe Penalty, our eyes met—and I saw tears streaming down their cheeks.
+15904||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으음… 그 망치 소리는 확실히… 눈물이 날 수도 있었을 것 같소. 앞이 깜깜해지더군.|Ah, verily... The finality and the weight behind the gavel as it hammered the stand... could bring tears to one's eyes. I recall feeling as though my vision had darkened from the sheer shock.
+15905||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희는… 어디로 가고 싶니?|Where is it that you seek to journey?
+15906||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저희는 5층으로 향하려고 해요.|We're trying to get to the fifth floor.
+15907||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이 군이라고 한다네! 사정이 있어 우리가 잠시 돌보아 주기로 했는데… 조금 수줍음이 많은 편이지.|Pwie be their name, kind vendor! Fortunes both ill and good have brought them presently under our care... A bashful young child, I say.
+15908||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그렇다면… 내가 집으로 돌아갈 방법을 찾을 수 있도록… 도와줄래? 나는 5층으로 가기 위한 방법을 알고 있으니까…|Ah, perfect... I know how to get to the fifth floor. I can share that secret with you... if you help me find my way home.
+15909||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…! 5층으로 가는 방법을… 알고 있다고?>|<...! She knows how we can get to the fifth floor?!>
+15910||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 르누아르를 돕고 있을 때는… 별다른 말없이 신발만을 팔던 자였다.|She didn't really say anything of much significance to us when we were helping the Noirs... She was just a sales rep at a shoe store, and that's all she was to us.
+15911||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 선택을 달리해서… 5층에 도달한다면… 잔느의 말과 달리 결말이 바뀔 수 있는 게 아닐까?|If the different choices we've made so far will unlock the fifth floor for us... maybe we can prove Jeanne wrong and bring us to a different end.
+15912||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 응, 부디 잘 돌보아 줘. 아, 우리 매장의 신발들을 둘러보고 싶다면, 조금 서두르는 게 좋을 거야.|Ah, yes. Please look after them well. Oh, and if you wanted to take a look at the shoes in our store... you'd better make it quick.
+15913||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이곳은… 곧 문을 닫을 수도 있거든.|We'll probably be closing down, soon.
+15914||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어째서인가요?|Why is that?
+15915||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 머지않아 르누아르들이 우리를 쫓아낼 것이기 때문이지.|Because the Noirs'll probably evict us.
+15916||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 우리는 쇠락해 가고 있어. 목소리는 점점 늘어지고 있고. 등급이 높은 르루주들은 이전부터 짐작하고 있던 일이었지.|Le Rouge is in decline... our Voice is growing increasingly faint and stretched. The higher Rouges already saw this coming a long time ago.
+15917||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 또다시 갈 곳을… 잃었어.|Lost... and abandoned... all over again.
+15918||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하지만 괜찮아. 나는 알거든. 집에 돌아갈 수 있는 방법에 대해…|But I don't mind, because I know how to get home.
+15919||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <도와주겠다고 말해줘.>|<Tell her that we'll help.>
+15920||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …도와주도록 하겠다.|... We will help.
+15921||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 와아아… 좋아… 좋아…|Yay... Happy, so happy...
+15922||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 혹시… 심장 조각 구두 이야기에 대해 들어보았어? 신비롭게 빛나는 붉은색의 심장 조각이 박힌 두근거리는 구두.|Ever heard the story about the Heartshard Slippers? A living, pulsing pair of shoes embedded with an iridescent red shard of heart.
+15923||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그러면… 너희를 5층으로 데려다줄게…|And I'll tell you how to get to the fifth floor.
+15924||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뒤꿈치를 세 번 부딪치면 집으로 가는 길을 알려준다고 하지…|They say clapping its heels thrice will guide you home...
+15925||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하지만 이곳에서 다른 재료는 다 구했어도 심장 조각을 구하진 못했어.|I've been trying to make one, and I have all the materials, but... I've not been able to get my hands on the heart shard.
+15926||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 심장 조각은… 어디서 구할 수 있을까요?|Where can we get the heart shard...?
+15927||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …모르겠어. 한때 이 층을 관리하던 보석으로 가득했던 자의 심장이 필요한데…|... I don't know. There was this bejeweled person who used to manage this floor, and they had a beautiful heart...
+15928||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어느 순간부터 보이질 않았거든.|... But they disappeared some time ago, and haven't been seen in a while.
+15929||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 정말… 아낌없이 모든 것을 나눠주던 자였는데…|They really were a giving soul... I remember how they never hesitated to share their treasures with everyone.
+15930||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <아낌없이 모든 것을 나눠준다고 하면…>|<A giving soul...>
+15931||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …아마도 가구관에 있을 것이다.|... You will find them in the Furniture Hall.
+15932||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 정말…? 그럼… 조각을 얻고 난 뒤에 내게 말해줘.|Oh, really...? Then please, go find the heart shard for me.
+15934||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 와아아… 너희 말이야…|Whoaaaaa... You guys...
+15935||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아주 귀중한 존재를… 모시고 있구나.|You have someone so, so... special with you.
+15936||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 만나게 되어서… 너무나 감사해…|I'm so lucky and grateful... to have a chance to meet someone like that...
+15937||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 잠깐, 저 조명… 우리가 가진 것보다 훨씬 많잖아!|Hang on a minute... that lamp—he's got way more stuff than we do!
+15938||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …그러면 네가 가진 발톱이라도 가져야겠어. 내가 손해니까.|... Gimme your toenails, at least. I don't wanna fall behind.
+15939||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그리고 네 놈의 조명줄도 내놔.|And give up that pull switch, too.
+15940||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자, 잠깐… 다들 진정하게… 이 조명줄은 저자들에게 받은 게 아니라…|N-now hold your damn horses, everyone. This pull switch didn't come from—
+15941||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 가구들이 한데 뒤섞여서 서로를 뜯어가기 시작한다.|But he doesn't get to finish his sentence as the Furnishings begin to pile onto each other.
+15942||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 더 이상 아무 움직임이 보이지 않는다. 남은 건 부서진 가구들이다.|The racket eventually dies down, and all movements cease. Only a pile of broken Furnishings remain.
+15943||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …와아… 반짝이는 심장이네, 두근거리면서 뛰고 있어.|... Ooh... A glittering heart. It's still beating, too.
+15944||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이거라면… 집으로 갈 신발을 만들 수 있겠어.|With this... I can fashion the slippers that will take me home.

@@ -1,0 +1,10 @@
+{
+  "entries": {
+    "dataList[id=battle_awaken_20309_1].dlg": {
+      "pl": "<i>ARCANA SLAVE!</i>",
+      "kr_sha256": "f4e98db26bb75bd473ea5e85bd4434cee5ca62357953c5a53c565a7aaa8c88d9",
+      "en_sha256": "cb9867c33dd79d98917e81804a649b0d8c09852f95c3b0505ab63953e3feea1c",
+      "origin": "ai"
+    }
+  }
+}

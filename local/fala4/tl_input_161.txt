@@ -1,0 +1,96 @@
+15655||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <갑자기 짠해지네…>|<Really tugs at your heartstrings, huh...>
+15657||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 좋아, 좋아!|Wow!\nWow!
+15658||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 고마워, 고마워!|Thankies!\nThankies!
+15659||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <빨라서 좋긴 하네…>|<Glad this is still easy, at least.>
+15660||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나를 살래? 살래?|Wanna buy me?\nBuy me!
+15661||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 단돈 9900눈알! 9900눈알!|9,900 eyeballs! A steal!\nA steal!
+15662||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 만난 가구 중 제일 비싸지 않소?!|Thine offer is the most exorbitant price we have heretofore encountered!
+15663||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 당연하지! 당연하지!|Yep, yep!\nYep, yep!
+15664||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나는 멋지니까! 멋지니까!|Cuz I'm awesome!\nI'm awesome!
+15665||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 코트, 꽤나 무거워 보이는걸? 한번 걸어 보는 게 어때?|Hey, man. That coat looks pretty heavy. Why don't you try hanging it from me?
+15666||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 말을 걸어도 미동조차 없다. 귀찮아하는 것 같다.|(No response. Couldn't be bothered, it seems.)
+15667||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 비켜. 그림자가 지잖아. 오랜만에 내가 쬘 차례란 말이야.|Do ya mind, my dudes? It's finally my turn to sunbathe, and you're blocking the light.
+15668||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 내 활기찬 빨강이 어때? 부유한 집에 어울리는 활기가 가득 찰걸?|How do you like this bright red cushion I've got? Put me in any room, and I'll fill it with just the appropriate kind of vitality any classy home needs!
+15669||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 꽤나 푹신하답니다. 앉아보고 가실래요? 흐음… 구미가 당기는 제안일 텐데.|My body is quite cushy. Feel free to take a seat before you go. Hmm... You must be quite tempted to sit on me right about now.
+15670||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 바니타스라고 들어봤어? 무식한 놈들에겐 팔리고 싶지 않아.|Do you even know what the word <i>Vanitas</i> means? Go away, uneducated fools have no business purchasing me.
+15671||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 조만간 쿨~한 고객이 온다면 쿨~한 거래를 할 수 있을 거야.|One day I'll get a <i>kewl~</i> customer who's down for a <i>kewl~</i> deal.
+15672||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이제 5000눈알은 받을 수 있을 거야. 너희에겐 특별히… 9000눈알에 팔아줄게. 흥.|I'll be worth at least 5,000 Eyeballs now! But for you, I'm available for... an exclusive price of <i>9,000</i> Eyeballs. Hmph!
+15673||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어머…|Oh, excuse me...
+15674||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 꺼지라는 말을 못 알아 처먹나요?|Are you really having trouble understanding what "Get lost, fuckwit" means?
+15675||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <몇몇은 아예 대화가 안통하는 상대인 것 같은데…>|<Some of them don't seem to want to talk to us... if they're even capable of speech.>
+15676||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <그렇다면… 빛이 가구들에게 뭔가 영향을 주는 것 같네. 다시 가보자.|<Right... Then the light must be affecting the Furnishings somehow. Let's head down to the Furniture Hall and try again.>
+15677||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 옷을 건네드리고 싶어도, 말을 걸자마자 공격해오시니… 다른 방법이 있는 걸까요?|As much as I'd like to give them the clothes, there isn't much we can do if their first reaction when we try to talk to them is to attack us... I wonder what other options we have?
+15678||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으으으으음… 그렇다면 받아줄 때까지 말을 걸면 되는 것 아니겠는가!|Hmmmmmmmmm... Quite the pickle indeed... Aha! Perchance, we need only initiate conversation with them as many times as it takes for them to return the favor?!
+15679||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <잘못 걸 때마다 뫼르소가 죽는걸…>|<But Meursault's going to have to go through a gruesome death every time we talk to the wrong Furnishing...>
+15680||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아아앗…|I'faith...
+15681||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 음… 아, 그러고 보니, 밝은 곳에 계신 분들은 퉁명스러울지언정, 얘기는 들어주셨던 것 같아요.|Hmm... Ah, right. I think Furnishings in the brighter parts of the hall were more willing to lend us their ear, even if they were a little curt.
+15682||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 빛을 받아서 기분이 좋으셨던 걸까요~?|I wonder if the light put them in a good mood~?
+15683||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <밝은 곳?>|<The brighter parts?>
+15684||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 음! 그러고 보니 본인도 햇빛 아래를 지나갈 때면 어두운 곳에선 들리지 않던 궁시렁거리는 말 소리를 들은 것도 같네만…|Aha! Indeed, I too heard the quibble of voices when walking under the sunshine, which were entirely absent while we were in shadows...
+15685||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 소통이 가능한 모든 가구들은 빛을 받고 있던 자들이었다.|Every Furnishing with which communication was possible was exposed to light.
+15686||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …심장 조각이 필요하다. 받을 수 있겠나.|... We need a heart shard. I request that you hand yours over to us.
+15687||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무, 무슨 짓인 겐가! 아, 아니 애초에… 움직일 수 있었던 것인가?!|W-what is the meaning of this? A-and... ye were all mobile, all along?!
+15688||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <저번보다 더 많이 나눠준 것 같은데… 그걸로도 부족했던 거야!?>|<But we were more generous about it than we were last time... Was that not enough?!>
+15689||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 흐암… 햇빛 때문에 아무리 눈을 감고 있어도 잠이 오지 않아.|*yawn* Tried to get some shut-eye... but the sunshine kept me up.
+15690||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이 햇빛이 더 따스해지기 전에 팔리려면… 하나만 받는 거론 부족하다고.|I'm going to need more than one article of clothing if I want someone to buy me before the sunshine grows even warmer.
+15691||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 분명히 저 옷장 안에 더 쿨~한 걸 갖고 있을걸.|Bet that closet's hiding even <i>kewl~</i>er goodies inside.
+15692||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희들의 형편없는 감각보다 훨씬 뛰어난 물건을 품고 있겠지.|I bet they've got some luxury stuff hidden inside that you uncultured swines couldn't even recognize.
+15693||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그러니까, 당신이 갖고 있는 물건을 전부 주세요.|I hope this isn't an imposition, but would you mind giving me everything you have?
+15694||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 남김없이! 남김없이!|Want all of it!\nAll of it!
+15695||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자, 잠깐 어찌…!|W-wait, what—?!
+15696||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 비켜, 비켜! 나부터 볼 거야!|Move, move! Me first pick! Me first pick!!
+15697||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …미안하네만.|Excuse me.
+15698||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그러니…|Thus—
+15699||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …달라.|... Not fairly.
+15700||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나눠줄 때 덜 가져갔어. 이자가 가진 게… 더 작아.|Wasn't fair. Curtain didn't get as many pieces.
+15701||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그, 그게 무슨 말인겐가, 뿌이 군? 그래도 각자 필요한 것을 공평하게…|Wh-whatever seemeth to be the problem, young Pwie?
+15702||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아니야… 저자의 말이 맞아. 내가 가진 게 더 적어. 누구 하나가 더 많이 가져가면 안 된다고 했잖아.|No, no... Kid's got a point. I never got as many as the rest of you did. This isn't very far out, my dudes. Everyone's supposed to get the same amount.
+15703||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하암… 한 치의 오차도 없이 똑같아야 공평한 거 아냐?|*yawn* Guess it's not so fair when someone has more than others.
+15704||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어, 조명님? 언제 여기까지…|Oh? Hello, Mister Lamp. When did you...?
+15705||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 옷장에게 볼일이 없다면 비키게.|You can get out of my way if you have no further business with the closet.
+15706||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 치사한 것들. 내게 몰릴 손님을 가로채려고… 이대로 가만히 빼앗길 순 없네…!|What brazen sabotage... Looking to snatch away my potential customers, eh? I won't take it sitting down!
+15707||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…지독하게도 긁어가네.>|<... What a pack of vultures.>
+15708||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자, 잠깐! 안에 있는 물건은 모두 가져갔지 않은가! 그만! 그만 뜯어가시게!|H-halt! Canst thou not see, that the Closet has naught left to give?! Cease this robbery this instant! Cease!
+15709||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 돈키호테가 소리치며 앞으로 나서자, 그제야 가구들의 소란이 조금이나마 멎었다.|The Furnishings backed off a little at Don Quixote's urgent intervention,
+15710||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하지만 여전히 그들은 쓰러진 행복한 옷장 주변을 탐욕스럽게 맴돌고 있었다.|but they continued to circle the fallen Happy Closet, greedily eyeing for an opportunity to snatch up more adornments that may or may not be there.
+15711||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저자가 가진 것은 전부다 자네들에게 공평하게 나눠줬다네.|All of the Closet's possessions hath already been distributed fairly amongst thee.
+15712||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 행복한 옷장은 여전히 아무 말없이 몸을 열었다.|The Happy Closet opens up without a word.
+15713||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 음… 이 또한 어려운 질문이군. 우리가 따르는 건 관리자 나리네만…|Hmm... Fond of questions with no easy answers, art thou not? The one we "follow" at present is Manager Esquire, yet...
+15714||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희는 나를 따르지 않아. 하지만 나를 위로 데려가고자 해.|You don't follow me, but you still wanna bring me to higher floors.
+15715||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희는 뭘 원하는 거야?|What do you want?
+15716||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 우리는 정의를 추구하려 한다네, 따라서 곤경에 처한 자들이 보인다면… 이유 불문하고 도우려 하지.|We pursue the enactment of justice! If there be downtrodden and troubled souls, we seek to assist them with nary a concern for how their woes came to be!
+15717||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이방인들은… 알아듣기 어려운 말을 많이 해.|Strangers... You say a lotta complicated stuff.
+15718||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 결국… 나를 따르지 않는단 말이잖아.|With all that said, you still don't follow me.
+15719||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그런 건 별로 중요하지 않아.|Oh, stop it with your pearl-clutching.
+15720||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…예상은 했지만, 이래도 열어주는구나.>|<Not that I expected them to be any different, but they don't hesitate to open up, even for a request like this...>
+15721||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으음… 필요한 것이니 어쩔 수 없을 터이나… 마음이 좋진 않군.|Hm... Though the necessity of it leaves us no other option... it must be said that this leaves a discomforting rot in one corner of my chest.
+15722||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 심장은 곧 목숨이지 않은가… 그대가 소중하게 모은 한정 콜렉숀보다 더 소중한 것일 텐데…|To lose one's heart is to lose one's life... And life is of greater import than even the preciously limited colección such as this...
+15723||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 돈키호테 씨는 사람들을 돕기 위해서라면 소중하게 모았던 배지들을 내어주실 수 있나요?|If you were in the same situation, would you willingly give up your collection of badges to help the people in need?
+15724||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으음… 사람들을 돕는 거라면 당연히…!|Mmm... If it be in service of helping the troubled, then I shall fain part with my entire colección—!
+15725||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 크흐으으으으음… 하지만 그중엔 한정 수량으로 판매된 붉은안개의 기념 배지만큼은 남겨둘 수 없겠소? 그것마저 없으면 본인은 너무 서글플 것 같소…|—eeeeeeeehhhhhhhhh, though, mayhap thou wilt be merciful and spare the limited edition <b>Red Mist</b> commemorative badge? 'Twould leave me with naught but sorrow were I to be deprived of even that...
+15726||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 배지가 뭐야?|What's a badge?
+15727||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 해결사들을 기리고 가슴 속에 항상 기억하기 위한 징표라네.|They are remembrances bearing commemorative emblems of great Fixers; I wear them so that they may forever live on in mine heart.
+15728||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 해결사… 그게 네가 따르고 있는 목소리야?|Fixers...? Is that the Voice you follow?
+15729||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …손을 쓸 새도 없이, 그들은 우리를 밀치고 몸을 펼친 채 미동도 하지 않고 있는 자를 덮친다.|... As we reel from the sudden turn of events, the Furnishings shove us aside and descend upon the motionless Happy Closet like a flock of carrion birds.
+15730||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그자는 바닥에 쓰러졌지만, 여전히 몸을 접지 않는다.|Their body remains unfurled even as they are knocked down to the ground.
+15731||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 흐암… 흔들의자가 아까 2100눈알에 팔렸어. 새로 걸친 그 스카프가 아니었으면 내가 먼저 팔렸겠지. 좋겠다, 이제 평생 자겠지…?|*yawn*... Shame, Rocking Chair sold for 2,100 eyeballs. Would've been me had they not been wearing that newfangled scarf. Now they'll get to sleep forever—must be so, so very nice...
+15732||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 욕심도 많아, 행복한 옷장에서 제일 많은 옷을 꺼내 입은 주제에…|Keep dreaming, you greedy thing. You took the most clothes out of Happy Closet, you know?
+15733||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 얼룩무늬 패턴의 정강이가 남아 있으면 좋겠어. 그건 쿨~ 하거든.|Hope there's a cow-print shin somewhere in there... That'd be pretty <i>kewl~</i> ya know?
+15734||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이 새끼, 방금 네놈이 꺼낸 그 아랫입술은 내가 고른 인중과 제일 잘 어울리는데.|You bitch, that lower lip you just took is pretty much a set with the philtrum I chose!
+15735||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 눈썹은 남겨! 눈썹은 남겨!|Leave the eyebrows!\nLeave the eyebrows!
+15736||RPGSystem#rpg-loc-dialogue-floor-4-b.json] (잔해밖에 남아 있지 않다. 더 이상 아무런 미동이 없다.)|(There's no movement. Only remnants of the pillaging remain.)
+15737||RPGSystem#rpg-loc-dialogue-floor-4-b.json] (부서진 틈 사이에서, 붉게 굳은 것이 보인다.)|(Between the remnants of broken furniture, a red, congealed lump can be seen.)
+15738||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어? 이건…|Hmm...? What's this...?
+15739||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <심장… 인가.>|<The... heart.>
+15740||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …이 사람은, 아무것도 안 가져가려고 했잖아.|... This one didn't want to take anything.
+15741||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그런데 왜 이렇게 됐어?|So why did this happen to them?
+15742||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …욕심을 부리다, 서로 자멸했군.|... Their greed was their undoing.
+15743||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아낌없이… 주었군 그래.|... truly given away everything, haven't they?
+15744||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 돈키호테는 여전히 침울한 표정으로 그 잔해를 바라보다가, 자켓 안쪽 어딘가에 매달아 두었던 해결사 배지 하나를 떼어 바닥에 내려두었다.|Don Quixote's sullen gaze lingered on what was left of the Happy Closet. She unpinned a Fixer badge hidden in her jacket and placed it gently on the floor, next to the Closet's remains.
+15745||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그것을 본 뿌이도 잠시 옷장을 빤히 바라보다가…|Seeing that, Pwie also took a moment to briefly contemplate what remained of the Closet...
+15746||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 3층에서 받은 붉은색 손수건을 옷장 위에 내려두었다.|... and after having come to a decision, carefully placed the red handkerchief from the third floor on top of the remains.
+15747||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …가지.|... Let's go.
+15748||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 혹시… 싸움을 부추기기 위해서 일부러 그렇게 말을 한 건가요?|Did you... point out the discrepancy to get them to fight each other?
+15749||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 응, 내가 그렇게 말하면…|Yeah. I thought...
+15750||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저것들은 반드시 싸울 것이라고 생각했어.|... if I pointed it out, they'd start going at each other's throats.
+15751||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자신밖에 모르는 자들이니까. 가진 걸 하나라도 더 쥐려고…|Thought they'd do anything to get one more piece of the clothing 'cuz they're all so selfish.

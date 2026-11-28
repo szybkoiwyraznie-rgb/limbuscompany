@@ -1,0 +1,96 @@
+12025||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>반짝임</size>|<style="den"><size=20>Lights</size></style>
+12026||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>탄생|<style="den">A <size=20>birth</size></style>
+12027||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>알|<style="den">An <size=20>egg</size></style>
+12028||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">갓 벌어진 <size=20>막|<style="den">A freshly opened <size=20>membrane</size></style>
+12029||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>세포|<style="den">A <size=20>cell</size></style>
+12030||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>부패|<style="den">A <size=20>rot</size></style>
+12031||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>재</size>로 변한 얼굴|<style="den">A face returned to <size=20>ashes</size></style>
+12032||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>미술|<style="den">An <size=20>art</size></style>
+12033||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>상처|<style="den">A <size=20>wound</size></style>
+12034||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">지각이 있는 <size=20>화폭</size>|<style="den">A sentient <size=20>canvas</size></style>
+12035||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">깨부숴, 깨부숴, 껍데기를 깨부수고|<style="den">Breaking breaking breaking the shell</style>
+12036||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>별</size>|<style="den">A <size=20>star</size></style>
+12037||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">깨어난다, 그래 지금 깨는 거야|<style="den">Breaking out, oh break it now</style>
+12038||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">알려주세요, 보여주세요|<style="den">Show me how, show me how</style>
+12039||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">잘 들으렴, 우리 부서진 아이야|<style="den">Listen up, my broken child</style>
+12040||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">애탄하자,|<style="den">Let’s lament</style>
+12041||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">애탄하자꾸나|<style="den">Let’s lament</style>
+12042||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>삶</size>과 <size=20>죽음</size>과 <size=20>선</size>과 <size=20>악</size>|<style="den">The <size=20>life</size>, the <size=20>death</size>, the <size=20>good</size>, the <size=20>bad</size></style>
+12043||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">우리가 건 끝나지 않는 <size=20>저주</size>|<style="den">The never ending <size=20>curse</size> we cast</style>
+12044||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>지배</size> 지배, <size=20>지배,</size> 해방|<style="den"><size=20>Control</size>, Control, <size=20>Control</size>, Release</style>
+12045||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">지배, <size=20>배신,</size> 지배, <size=20>포기</size>|<style="den">Control, <size=20>Betray</size>, Control, <size=20>Let Go</size></style>
+12046||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>은폐, 폭로, 비현실, 초현실|<style="den"><size=20>Conceal, Reveal, Unreal, Surreal</size></style>
+12047||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>목소리</size>|<style="den">A <size=20>voice</size></style>
+12048||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>기원, 환기, 해독, 재독|<style="den"><size=20>Invoke, Evoke, Decode, Reload</size></style>
+12049||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>애탄하자꾸나|<style="den"><size=20>Let’s lament</size></style>
+12050||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">미완성된 <size=20>성지</size>에서밖에 살 수 없었던 <size=20>과거</size>여|<style="den">The <size=20>past</size> that only got to live in the incomplete <size=20>holy land</size></style>
+12051||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">하늘의 우리|<style="den">Celestial</style>
+12052||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">Ayiah|<style="den">Ayiah</style>
+12053||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">별의 우리|<style="den">We’re astral</style>
+12054||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">Ayiou|<style="den">Ayiou</style>
+12055||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">다시 태어나|<style="den">I’m reborn</style>
+12056||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">Le rheaiah|<style="den">Le rheaiah</style>
+12057||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">일그러진 <size=20>생각</size>|<style="den">A twisted <size=20>thought</size></style>
+12058||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">완전한 자유|<style="den">Total liberation</style>
+12059||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">Katre o lamenta|<style="den">Katre o lamenta</style>
+12060||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">내 연한 피부|<style="den">My tender skin</style>
+12061||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">갓난아이가 우는 가곡|<style="den">A vagitus song</style>
+12062||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">본질적|<style="den">Essential</style>
+12063||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">숨을 쉬었고|<style="den">I breathed</style>
+12064||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">궁극적|<style="den">Eventual</style>
+12065||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">비명을 질렀다|<style="den">And screamed</style>
+12066||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">영원|<style="den">Eternal</style>
+12067||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">내 갓 난 폐로 목청껏|<style="den">From my new lungs</style>
+12068||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>감촉</size>|<style="den">A <size=20>touch</size></style>
+12069||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">영혼의 불가피한 해방|<style="den">Inevitable freeing of the soul</style>
+12070||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>입맞춤</size>|<style="den">A <size=20>kiss</size></style>
+12071||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">뒤틀린 <size=20>꿈</size>|<style="den">A distorted <size=20>dream</size></style>
+12072||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>잔물결|<style="den"><size=20>Ripples</size></style>
+12073||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">짐승 만도 못한 존재인 내가… 인간답게 굴어야 할까?|<style="den_CP6_1">Me... a thing lesser than a savage beast... must I keep pretending to be a human?
+12074||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">캐서린을 죽게 만든 우리는 더 이상 살 가치가 없지.|<style="den_CP6_1">We killed Catherine... we don't deserve to live.
+12075||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">머릿속에서 계속 누군가의 목소리가 들려…|<style="den_CP6_1">I keep... hearing a voice in my head...
+12076||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">천하고 비루한 이 본성은 바뀌지 못해.|<style="den_CP6_1">My vulgar, low birth can't change.
+12077||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">맞아, 난 변하지 못했어. 여전히 쓰레기로 가득한 넝마자루지.|<style="den_CP6_1">I couldn't change. Just a ragged sack full of waste, that's what I am.
+12078||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">그러니 인간의 말을 할 필요도 없어. 울부짖기만 할 뿐.|<style="den_CP6_1">I don't need to speak as humans do. I only howl.
+12079||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">내가 돌아왔어, 캐시… 제발...|<style="den_CP6_1">Cathy, I'm back... Please...
+12080||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">산산조각 나야 해. 이 자루안에 들어있는 너희와 내가.|<style="den_CP6_1">You and I... shoved into a sack... we must shatter into a thousand pieces.
+12081||BgmLyrics#BgmLyrics_DistHeath.json] <style="dkr_CP6_1">지옥 끝까지… 끌고 다니겠어.|<style="den_CP6_1">I will drag it all down... to the ends of the inferno.
+12082||BgmLyrics#BgmLyrics_DonQuixote.json] 우린 말 위에서 흔들리는 중이야|We're swaying on horseback
+12083||BgmLyrics#BgmLyrics_DonQuixote.json] 나의 영원한 영웅|Forever my hero
+12084||BgmLyrics#BgmLyrics_DonQuixote.json] 나는 당신의 가장 열렬한 팬|I am your biggest fan
+12085||BgmLyrics#BgmLyrics_DonQuixote.json] 회전목마를 타고|Merry-go-round
+12086||BgmLyrics#BgmLyrics_DonQuixote.json] 빙글빙글 달려나가|In a circle I run
+12087||BgmLyrics#BgmLyrics_DonQuixote.json] 즐겁잖아, 현실을 뒤로하고 달리는 건|It's so much fun leaving reality behind
+12088||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">말 위에서 떨어진다|<style="den">I fall down the horseback
+12089||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">다리는 벌써 부러졌고|<style="den">With my crippled legs
+12090||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">비가 쏟아지며|<style="den">And then it starts to rain
+12091||BgmLyrics#BgmLyrics_DonQuixote.json] 언덕은 푸르고|The hills are green
+12092||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">모두 허상이였다는게 드러나지|<style="den">Showing me it's all fake
+12093||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">빗방울은 허울을 씻겨냈어|<style="den">Raindrops wash down the facade
+12094||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">언덕의 푸르름은 페인트에 불과했고|<style="den">Hills are painted
+12095||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">새들은 기계에|<style="den">Birdies are robotic
+12096||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">장미들은 점토로 만든 조화|<style="den">Roses are made of clay
+12097||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">내가 느꼈던 설렘|<style="den">Excitement that I feel
+12098||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">전부 선반에 다시 돌려 뒀어|<style="den">Return them to the shelf
+12099||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">이제 깨달았으니까|<style="den">Cause now I understand
+12100||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">영웅이라는 건 있을 수 없다는 걸|<style="den">Heroes cannot be real
+12101||BgmLyrics#BgmLyrics_DonQuixote.json] 새님들은 노래를 지저귀고|And the birdies sing
+12102||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">나는 내가 아니었고|<style="den">I wasn't who I am
+12103||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">내가 누군지도 모르지|<style="den">I don't know who I am
+12104||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">¿나는 누구지?|<style="den">¿Who am I?
+12105||BgmLyrics#BgmLyrics_DonQuixote.json] 다시 한 바퀴 돌아보자, 한 번 더|Here we go, another lap
+12106||BgmLyrics#BgmLyrics_DonQuixote.json] 찾아야 할 보물이 있잖아|Prizes to claim
+12107||BgmLyrics#BgmLyrics_DonQuixote.json] 네게 꿈 하나|Here's a dream for you
+12108||BgmLyrics#BgmLyrics_DonQuixote.json] 내게도 꿈 하나|Here's a dream for me
+12109||BgmLyrics#BgmLyrics_DonQuixote.json] 장미들은 온통 분홍빛|And roses are pink
+12110||BgmLyrics#BgmLyrics_DonQuixote.json] 가방 안의 황금 티켓들은 내팽겨 놓은 채로|Golden tickets in my bag stay unexchanged
+12111||BgmLyrics#BgmLyrics_DonQuixote.json] 그냥 돌고 있는 채로도 좋지 않아?|Don't you love the thrill of the chase?
+12112||BgmLyrics#BgmLyrics_DonQuixote.json] 내가 당신의 팬이 될 수 있게 해 줘|Just let me be your fan
+12113||BgmLyrics#BgmLyrics_DonQuixote.json] 당신의 팬이 되고 싶어|I wanna be your fan
+12114||BgmLyrics#BgmLyrics_DonQuixote.json] 난 여전히 당신의 가장 열렬한 팬이란 말이야|I'm still your biggest fan
+12115||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">왜 어떤 이들은 이 시스템에 태어나는 순간부터|<style="den">Why is it that some were given the role of villian
+12116||BgmLyrics#BgmLyrics_DonQuixote.json] <style="dkr">악당의 역할을 부여 받을 수밖에 없었던 걸까?|<style="den">The moment they were released into this system?
+12117||BgmLyrics#BgmLyrics_DonQuixote.json] 일어서|Stand up
+12118||BgmLyrics#BgmLyrics_DonQuixote.json] 달려나가|Gallop on
+12119||BgmLyrics#BgmLyrics_DonQuixote.json] 자기연민에 파묻혀서는 아무 일도 일어나지 않아|Nothing can be done by feeling so sorry for myself
+12120||BgmLyrics#BgmLyrics_DonQuixote.json] 이런 모험은 처음이야|Experience I never had

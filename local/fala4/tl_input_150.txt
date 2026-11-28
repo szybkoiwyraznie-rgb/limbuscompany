@@ -1,0 +1,96 @@
+14575||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 견딜 수 없어… 이대로… 이대로 제 모든 걸 당신에게 바쳐도 좋아…!|Nothing could ever make me happier than this... Oh, my God... I have no more needs... Take me, I am yours...!
+14576||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 괜찮으십니까? 혹시 이물질이 튀진 않으셨는지…|Are you unhurt? Has any of that filth—
+14577||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <괘, 괜찮아…>|<I'm— I'm fine.>
+14578||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 으으… 우…|Nnh... Uu...
+14579||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…이럴 줄은 예상도 못했는데.>|<... Didn't see <i>that</i> coming.>
+14580||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …이 상황은 처음이시라는 거군요.|... So you haven't experienced this before.
+14581||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 놀랐는지 더 멀찍히 떨어진 아이를 보니… 뭔가 마음이 심란하다.|When I looked up, the child had already scurried off to a distance it seemed to have determined safe from us... Something about that made my heart ache a little.
+14582||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <저 척추뼈는 이번에도 중요하게 쓰이는 걸까?>|<I wonder if the Rouge's spinal cord will be important again?>
+14583||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 불확실하지만, 챙겨둘 수 있는 것을 챙겨두는 것은 추천됩니다.|That cannot be said for certain. However, it is recommended that we bring with us any object that may potentially be useful.
+14584||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…그래, 챙기고 바로 올라가자.>|<... Yeah, let's take that with us and head right upstairs.>
+14585||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 예.|Understood.
+14586||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 잊어버린 것 같군요. 자신이 만드려고 한 것이 어떤 작품이라는 사실조차.|... they've forgotten what artwork they were trying to create, or the fact that it was artwork at all.
+14587||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…고객이 되어버린 거구나.>|<... They've become a customer.>
+14588||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <이게 마지막인 것 같은데…>|<This is the last one in the series, I think...>
+14589||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 엇… 여기 가죽에 뭔가 잔뜩 써있어요.|Ah...! There's something written on the leather here.
+14590||RPGSystem#rpg-loc-dialogue-floor-3-b.json] […사람으로 만들어진 무언가로 충격을 주던 시대는 이미 지났다.]|[... Artworks made from human corpus for cheap shock value are now long outmoded in the current zeitgeist.]
+14591||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [하지만 이 백화점에선 아직… 그 시대가 완전히 끝나지 않은 것 같기도 하다]|[But... this department store doesn't seem to have gotten the news.]
+14592||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [재료도, 영감도 부족하다. 이들은 모두 옷에 미쳐 작품을 제대로 마주하지 않는다. 그렇다면…]|[I'm running out of material. Running out of inspiration. No one here really appreciates my art—they're all obsessed with clothes and nothing more. Then...]
+14593||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [팔린다. 이런 양산품이… 르루주에서만큼은 어느 정도 가치를 인정 받고 있다.]|[... But these sell well. Le Rouge seems to somewhat value these... sorry excuse for artwork that the world outside regards as nothing more than mass-produced garbage...]
+14594||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [이렇게 번 돈으로 더 좋은 옷을 사입고, 그러다보면…]|[If they're worth something to them, I can sell these, make money—eyeballs. Then I'll buy better clothes, then I'll—]
+14595||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <이런 게 더 있긴 하지만, 작품명은 붙어있지 않았어.>|<There are more installations like this one, but those didn't have any titles attached to them.>
+14596||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 스스로에게 부끄러워진 것일지도 모르겠지만, 그것보다는…|Perhaps they were too ashamed to attach their name to these artworks, but the more likely explanation is simply that...
+14597||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 무언갈 꽂기 위한 플러그 같은 구멍들이 잔뜩 있다.|There are numerous holes here. Possibly for plugging something in.
+14598||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 오랫동안 연결을 안 한 것 같다. 안쪽에도 먼지가 끼어 있다.|These haven't been connected in a while. The sockets are full of dust.
+14599||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 구멍들 위에 태그가 붙어 있지만, 지워져 알아볼 수 없다.|Each hole has a tag taped on top of it. There used to be something written on the tags, but now they're faded and illegible.
+14600||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아무 소리도 들려오지 않는다.|Don't hear anything.
+14601||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 웅성거리는 소리가 들리는 것 같기도 하다.|Sounds like the hubbub of a distant crowd.
+14602||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 고요하다. 다른 소리를 착각한 것 같다.|It's quiet. Must've mistaken some other sound.
+14603||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 환풍기처럼 공기를 순환시키기 위한 장치 같다. 오랫동안 작동을 멈췄는지, 안쪽에 먼지가 가득하다.|This device looks like a ventilation fan. \nIt's so dusty inside... Must have been out of order for a while.
+14604||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 긴 틈새 사이에 먼지가 가득 끼어있다.|There's a dusting of... dust inside the long gap.
+14605||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 부서진 잔해가 길을 막고 있다. 넘어가긴 어려워 보인다.|Fallen debris is blocking the way. There's no way over or around it.
+14606||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 어떤 놀이에 쓰이는 주사위인지 모르겠다.|Don't know any games that use these dice.
+14607||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 글자와 주사위 눈이 무작위하게 그려져있다.|Random pips and letters are scattered on its sides without rhyme or reason.
+14608||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 쓸데 없이 묵직한 주사위다.|A useless, heavy die.
+14609||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 희한한 주사위다.|A weird die.
+14610||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이건 뭘까요? 뭔가 방송 장비처럼 보이는걸요?|Huh, wonder what this is? Some kind of broadcast device?
+14611||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <수동 통신 교환기야.>|<It's a communication switchboard.>
+14612||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 통신 교환기요?|What's a communication switchboard?
+14613||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …관리자님, 일전에 이 장비를 사용해 보신적 있으십니까?|... Have you had access to one of these devices in the past, Executive Manager?
+14614||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <어… 아니, 예전에 팜플렛에서 읽었어.>|<Uh... No, I just read about it in a pamphlet once.>
+14615||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …역시 관리자님이십니다! 학습에 대한 열의가 점점 높아지시는 것 같군요.|... As expected of our Executive Manager! Your rising passion for learning is most admirable indeed.
+14616||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 오티스는 잠시 생각에 잠긴 것 같다.|Outis seems to consider something for a moment.
+14617||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 수많은 관들이 오르간처럼 벽에 붙어있다.|The way these tubes are lining the wall reminds me of a massive pipe organ.
+14618||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 듣는 용도인지, 말을 전달하는 용도인지 모르겠지만…|Though I don't know if it's for listening or relaying but...
+14619||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 누군가 보이지 않는 곳에서 내 말을 엿듣고 나에게 명령을 내린다고 생각하면, 알 수 없는 두려움이 올라오는 듯하다.|... imagining that someone might be listening in on my every word, giving me commands from where I can't see... a strange trepidation gurgles from the pit of my stomach.
+14620||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 시선은 눈에만 동반되는 것은 아닌 것 같다.|The gaze is not beholden to the limitations of the sight, it seems.
+14621||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 나팔처럼 생긴 길다란 관 아래, 새 몇마리가 누워있다.|Several birds lie beneath a long, trumpet-shaped tube.
+14622||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#cf0000>안 돼… 이해하면 안 돼…</color>|<color=#cf0000>No... don't understand it... you mustn't understand...</color>
+14623||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 새를 들어올리자, 목소리가 들리다 끊어진다.|When I pick up one of the birds, the voice cuts off.
+14624||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 죽은 새를 챙겼다.|Obtained Dead Bird.
+14625||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 내리쬐는 햇살 사이로 무언가 반짝거린다.|Something glints between the shafts of sunlight.
+14626||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 뫼르소가 안으로 손을 뻗어 꺼내보니, 낡은 녹음기가 나왔다.|Meursault pulled out the glinting object. It's an old recorder.
+14627||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …이 옷 뭔가 줄어들고 있는 것 같지 않아요?|... Is it just me, or is this coat shrinking?
+14628||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그건 4층 고객들에게 상당한 인기를 끌고 있는 입는 것만으로도 신을 수 있는 양말이다.|Those are socks that have become quite popular among the customers on the fourth floor. The kind you can put on simply by wearing them.
+14629||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 야, 양말이요? 이건 외투잖아요.|S-Socks? This is a coat!
+14630||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 입기만 해도, 귀찮게 허리 숙일 필요 없이 양말을 신을 수 있는 기능성 양말이다.|Functional socks. One merely slips them on without having to go through the trouble of bending over.
+14631||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 호오 흥미롭군. 주인도 이젠 없으니, 챙겨가는게 어떻습니까 관리자님.|Hm, fascinating. Why don't we bring this along, Executive Manager? It doesn't belong to anyone anymore.
+14632||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그러자.>|<Sure.>
+14633||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [오리가미 컬렉션 N°92, 5 중에 3. 누군가의 추락을 중첩된 시간으로 표현했습니다.]라고 써있다.|It says [Origami CollectioN° 92, 3 of 5. Someone's fall sublimated into superpositioned time.]
+14634||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [오리가미 컬렉션 N°92, 5 중에 4]|[Origami CollectioN ° 92, 4 of 5.]
+14635||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [오리가미 컬렉션 N°92, 5 중에 2]|[Origami CollectioN ° 92, 2 of 5.]
+14636||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그러고 보니 1층에 5중에 1이 있었던 것 같아.>|<I think we saw the "1 of 5" of the series on the first floor.>
+14637||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아…! 판화나 조각 같은 경우는 똑같은 형태로 정해진 양만 만들고 번호를 매긴다고 했던 게 기억나요.|Oh, right...! I remember learning about how some prints and sculptures are made with creating multiple identical copies in mind, only giving a different number to each "iteration" to distinguish them.
+14638||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그리고 번호에 따라서 작품의 가격도 달라진다고 했던 것 같구요.|And even though each piece is pretty much indistinguishable from one another, their value might vary depending on the number they're given.
+14639||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 관리자님 말씀대로라면… 1층에 있는 게 첫 번째 작품이겠는걸요.|Then... the one on the first floor must be the first copy.
+14640||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 다른 녀석들이라면 무심하게 지나칠법한 사소한 부분도 놓치지 않으시다니… 역시 관리자님이십니다!|Most unremarkable rabble would've walked past it without a second thought... What impeccable perception you have! I expected no less of our Executive Manager!
+14641||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [시즌오프 / 프레타 포르테] 여전히 할인 중인 것 같다.|It says [Off-Season / Prêt-à-porter].\nStill on sale.
+14642||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이 옷들은 유독 비싸네요.|Huh, these clothes are more expensive than the others.
+14643||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이번 시즌 프레타 포르테 진열대이기 때문이다.|That is because the display you are looking at is for this season's Prêt-à-porter items.
+14644||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 프레타 포르타…요?|Prêt-à-por...ter?
+14645||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 프레타 포르테, 상급 기성품 이라는 뜻이다.|Prêt-à-porter. It refers to made-to-stock, ready-to-wear items; those of higher quality and prestige, in particular.
+14646||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <이젠 좀 저렴해보이네…>|<These don't look so expensive anymore...>
+14647||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 기괴할 정도로 광이 나는 소파다. 앉아볼 필요는 없을 것 같다.|This couch is disturbingly shiny. No need to try slumping down on it.
+14648||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …굳이 틈새에 손을 넣고 싶지 않아졌다. 그냥 지나치기로 했다.|... Don't feel like dredging through the gaps anymore. Decided to move on past it.
+14649||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>…여전히 성실하네, 당신?</color>|<color=#ebcaa2>... Still a busy bee, huh?</color>
+14650||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>푸우… 꼭 그렇게 아득바득 모아야겠어? 이젠 제법 부자일 텐데 말야.</color>|<color=#ebcaa2>Pff... Do you really have to try so hard for loose change? Aren't you rich enough to ignore a handful of eyeballs?</color>
+14651||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…많을 수록 좋은 거잖아.>|<... I can always afford to be richer, can't I?>
+14652||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 관리자님께서는 눈알은 많을 수록 좋다고 말씀하신다.|The manager replies that they can always afford to be richer.
+14653||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 안쪽 깊숙이 숨겨져 있던 눈알 몇 개를 챙겼다.|Took some eyeballs lodged deep inside.
+14654||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 가격표를 보니까 이 옷들은 좀 저렴한데?|Huh, look at the tags. These clothes are cheaper than the others.
+14655||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 감긴 천이 팽팽하게 당겨지는 소리가 들린다.|Cloth straps wrapped around the figure make a faint straining noise.
+14656||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …방금 미소를 지은 건가? 착각이겠지…|... Did it just smile? Probably just seeing things...
+14657||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 구속복처럼 보이지만 정장이다.|This might look like a straitjacket, but it's not.\nIt's a formal suit.
+14658||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 뭐가 보이기는 하는지 모르겠다.|Can they even see out of this thing?
+14659||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 표정이 달라진 것 같다… 알 수 없는 음습함이 올라온다.|Wait, the expression changed... A nameless terror crawls up my spine.
+14660||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이젠 답답해보인다.|Just looks stuffy now.
+14661||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [라 프르미에 쉬페르포지시옹] 이다. 르누아르들 사이에선 인기가 좋은 옷인 것 같다.|This outfit is called [La Première Superposition].\nMust be pretty popular among the Noirs.
+14662||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 천 너머로 불쾌한 호흡이 느껴진다.|Something's breathing from behind the fabric. Uncomfortable.
+14663||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 카운터에 있던 르누아르들이 입고 있던 옷과 비슷하게 생겼다.|The Noirs at the checkout counter are wearing something similar to this outfit.
+14664||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [라 트루아지엠 쉬페르포지시옹. 케이프, 프록코트, 재킷을 중첩시킨 이번 시즌 시그니처 컬렉션 최상위 모델-카운터에서 가격문의 및 예약 접수.]|[La Troisieme Superposition. \nA fascinating blend of cape, frock coat, and jacket in a all-in-one integration. Highest prestige in this Season's collection.\nPlease visit the reception desk for pricing and reservations.]
+14665||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …이젠 살만 할지도…?|Maybe we can afford it now...?
+14666||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [프레타 포르테 신규 라인업! 직전 시즌 대비 황금 원사 150% 함유!]|[Prêt-à-porter. Contains 150% of the Golden Yarn compared to the Last Season's!]
+14667||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 라벨을 확인하니 0.00015%밖에 포함되어 있지 않다. 거창한 문구에 비해 턱없이 낮게 느껴진다.|Upon closer inspection, I notice that it contains only 0.00015% of the so-called "Golden Yarn." Doesn't seem anywhere near significant enough to warrant putting that on the advertisement.
+14668||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그럼 저번 시즌에는 0.0001%만 섞인 건가요…?|Doesn't this mean that the last season's products had only 0.0001% Golden Yarn...?
+14669||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …U사 고래 과자의 고래 함유량이 더 높겠군…|... I'm willing to bet that Whale chips from U Corp. have more Whale in them than this has Golden Yarn.
+14670||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 수많은 안경들이 진열되어 있지만 어떻게 써야 할지도 모르겠다.|A display case full of glasses. Not sure how I'd go about wearing them, however.

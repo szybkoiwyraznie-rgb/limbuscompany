@@ -1,0 +1,96 @@
+883||SpeechBubbles#BattleSpeechBubbleDlg.json] 한 점만 노린다.|Goin' for the bullseye.
+884||SpeechBubbles#BattleSpeechBubbleDlg.json] 하, 목이 비었잖아!|Hah, your throat's wide open!
+885||SpeechBubbles#BattleSpeechBubbleDlg.json] 충전 완료!|All charged up!
+886||SpeechBubbles#BattleSpeechBubbleDlg.json] 두 동강 내주지.|I'll split you in half.
+887||SpeechBubbles#BattleSpeechBubbleDlg.json] 혈조염화(血爪炎化)!|Bloodtalons, conflagrate (血爪炎化)!
+888||SpeechBubbles#BattleSpeechBubbleDlg.json] 하... 고통을... 새겨주지!|Hah... I'll carve the pain upon you myself!
+889||SpeechBubbles#BattleSpeechBubbleDlg.json] 카치아토레!|Il Cacciatore!
+890||SpeechBubbles#BattleSpeechBubbleDlg.json] 당신과 한없이 닮은 각도와 속도로.|I'll show you an infinitely close approximation of your angle an' speed.
+891||SpeechBubbles#BattleSpeechBubbleDlg.json] 세치오나투라 디 체르보!|Sezionatura di Cervo!
+892||SpeechBubbles#BattleSpeechBubbleDlg.json] 시연 완료.|Demonstrated.
+893||SpeechBubbles#BattleSpeechBubbleDlg.json] 팔레르모 해체 검식.|Witness a demonstration of the Palermitan dismantling technique.
+894||SpeechBubbles#BattleSpeechBubbleDlg.json] 키킥…!|*cackle*
+895||SpeechBubbles#BattleSpeechBubbleDlg.json] 웃어라…!|Laugh...!
+896||SpeechBubbles#BattleSpeechBubbleDlg.json] 하…!|Ha...!
+897||SpeechBubbles#BattleSpeechBubbleDlg.json] 확인 사살.|Confirming kill.
+898||SpeechBubbles#BattleSpeechBubbleDlg.json] 흥... 재가 묻었네요.|Hmph. Your ash is all over me.
+899||SpeechBubbles#BattleSpeechBubbleDlg.json] 읏챠! 깨부숴주마!|Hah! I'll crack you open!
+900||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 작살엔...!|Behold...!
+901||SpeechBubbles#BattleSpeechBubbleDlg.json] 필살의 집념이!|The fatal determination!
+902||SpeechBubbles#BattleSpeechBubbleDlg.json] 하, 담겨 있지.|Fuels this harpoon!
+903||SpeechBubbles#BattleSpeechBubbleDlg.json] 최선의 방어를!|The Best Defense!
+904||SpeechBubbles#BattleSpeechBubbleDlg.json] 4식.|4th Form.
+905||SpeechBubbles#BattleSpeechBubbleDlg.json] 먹칠.|Ink Over.
+906||SpeechBubbles#BattleSpeechBubbleDlg.json] 무상한 목숨.|A life of transience.
+907||SpeechBubbles#BattleSpeechBubbleDlg.json] 불 끄듯 지워낼 뿐.|... Snuffed out like a flame.
+908||SpeechBubbles#BattleSpeechBubbleDlg.json] 3월.|The Third Moon.
+909||SpeechBubbles#BattleSpeechBubbleDlg.json] 앵화(櫻花)!|Sakura (櫻花)!
+910||SpeechBubbles#BattleSpeechBubbleDlg.json] 이거 궁각 맞지?|Ult time, right?
+911||SpeechBubbles#BattleSpeechBubbleDlg.json] 필살! 바이올렛 브레이크 슬램!|Take my ultimate move! Violet~ Breaking Slam!!!
+912||SpeechBubbles#BattleSpeechBubbleDlg.json] 윽! 아니었던 것 같긴 한데, 아무튼 슬램!|Eep, wait, maybe not... Oh, well. Anyway, Slam!!!
+913||SpeechBubbles#BattleSpeechBubbleDlg.json] 귀화요격(鬼火腰擊).|Demonfire Spinecleaver (鬼火腰擊).
+914||SpeechBubbles#BattleSpeechBubbleDlg.json] 변형 3수.|Stance Shift—Third Gambit.
+915||SpeechBubbles#BattleSpeechBubbleDlg.json] 3수.|Third Gambit.
+916||SpeechBubbles#BattleSpeechBubbleDlg.json] 상전(相戰)!|Even the Balance (相戰).
+917||SpeechBubbles#BattleSpeechBubbleDlg.json] 상전(相戰).|Even the Balance (相戰).
+918||SpeechBubbles#BattleSpeechBubbleDlg.json] 청린화(淸潾火)!|Lucent Rippling Flame (淸潾火)!
+919||SpeechBubbles#BattleSpeechBubbleDlg.json] 귀화요격(鬼火腰擊). 변형 3수.|Demonfire Spinecleaver (鬼火腰擊). Stance Shift—Third Gambit.
+920||SpeechBubbles#BattleSpeechBubbleDlg.json] 내려쳐라!|Smacked down!
+921||SpeechBubbles#BattleSpeechBubbleDlg.json] 못 박혀라!|And nailed!
+923||SpeechBubbles#BattleSpeechBubbleDlg.json] 걸려라!|C'mon, get snagged~!
+924||SpeechBubbles#BattleSpeechBubbleDlg.json] 깨달았나?|Was that illuminating?
+925||SpeechBubbles#BattleSpeechBubbleDlg.json] 꿰뚫은 줄도 모를걸.|Wouldn't even realize you've been pierced through.
+926||SpeechBubbles#BattleSpeechBubbleDlg.json] 플루! 힘 좀 써줘!\n[출력 상승 요청 확인.]|
+927||SpeechBubbles#BattleSpeechBubbleDlg.json] 피날레를 시작하자.|Let the finale commence.
+928||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 거리면 충분해. 너한텐... 조금 멀겠지만!|Too far for you? Close enough... for me!
+929||SpeechBubbles#BattleSpeechBubbleDlg.json] 차라리...|Just let...
+930||SpeechBubbles#BattleSpeechBubbleDlg.json] 아무것도 남지 마라.|... Let everything fade away.
+931||SpeechBubbles#BattleSpeechBubbleDlg.json] 아하하... 폭죽, 이쁘지?|Ahaha... Aren't the fireworks so pretty?
+932||SpeechBubbles#BattleSpeechBubbleDlg.json] 어중간한 예술은|Underdone art...
+933||SpeechBubbles#BattleSpeechBubbleDlg.json] 물어뜯어 고칠 수 밖에!|Take a bite out of it and cook again!
+934||SpeechBubbles#BattleSpeechBubbleDlg.json] 사냥 끝.|And the hunt comes to a close.
+935||SpeechBubbles#BattleSpeechBubbleDlg.json] 모조리 해체해줄게.|I'll make mincemeat out of you all!
+936||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 오물을...|That blight...
+937||SpeechBubbles#BattleSpeechBubbleDlg.json] 떼어내주지!|I'll strip it off clean!
+938||SpeechBubbles#BattleSpeechBubbleDlg.json] 떼어내주지.|I'll strip it off clean.
+939||SpeechBubbles#BattleSpeechBubbleDlg.json] 그대로!|As willed!
+940||SpeechBubbles#BattleSpeechBubbleDlg.json] 이미, 도달했다.|The point has already met its destination.
+941||SpeechBubbles#BattleSpeechBubbleDlg.json] 낙인을...|With this stigma...
+942||SpeechBubbles#BattleSpeechBubbleDlg.json] 새겨드리죠.|I'll brand you.
+943||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 격정 속에서|Let this passion...
+944||SpeechBubbles#BattleSpeechBubbleDlg.json] 타올라라.|Incinerate.
+945||SpeechBubbles#BattleSpeechBubbleDlg.json] 다칠 거예요!|You'll get hurt!
+946||SpeechBubbles#BattleSpeechBubbleDlg.json] 비키지 않으면...|Move! Otherwise...
+947||SpeechBubbles#BattleSpeechBubbleDlg.json] 얼얼하지?|Hurts, doesn't it?
+948||SpeechBubbles#BattleSpeechBubbleDlg.json] 화력... 추진!|Propelled... firepower!
+949||SpeechBubbles#BattleSpeechBubbleDlg.json] 몰아쳐라.|Relentlessly.
+950||SpeechBubbles#BattleSpeechBubbleDlg.json] 혈염도 발화.|Spark, Bloodflame Blade.
+951||SpeechBubbles#BattleSpeechBubbleDlg.json] 더!|More!
+952||SpeechBubbles#BattleSpeechBubbleDlg.json] 혈염도 발화!|Spark, Bloodflame Blade!
+953||SpeechBubbles#BattleSpeechBubbleDlg.json] 더 더 더!|More, more, more!
+954||SpeechBubbles#BattleSpeechBubbleDlg.json] 소리와 호흡을 멈추고...|Muffle all sound, hold all breath...
+955||SpeechBubbles#BattleSpeechBubbleDlg.json] 한 순간, 반짝이는 틈새를 베어.|Drive the blade into that momentary glimpse of the gap...
+956||SpeechBubbles#BattleSpeechBubbleDlg.json] 일순 베어 떨구는 검. 목도하시길.|This is the blade that beheads in a flash. Bear witness.
+957||SpeechBubbles#BattleSpeechBubbleDlg.json] 마침내... 달이 찼군요.|... And so the moon waxes full.
+958||SpeechBubbles#BattleSpeechBubbleDlg.json] 걸음을 멈추지 않고|Never stop walking.
+959||SpeechBubbles#BattleSpeechBubbleDlg.json] 더,|Further...
+960||SpeechBubbles#BattleSpeechBubbleDlg.json] 더, 멀리!|Further still!
+961||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 공허까지 씹어삼키고!|I shall gorge upon this hollowness...!
+962||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 결핍까지 집어삼켜!|I shall devour the insatiability itself, this very want...!
+963||SpeechBubbles#BattleSpeechBubbleDlg.json] 모두|... and...
+964||SpeechBubbles#BattleSpeechBubbleDlg.json] 르루주를|... and bring the Rouges...
+965||SpeechBubbles#BattleSpeechBubbleDlg.json] 채워 나아갈지어다!|... fill all that exists!
+966||SpeechBubbles#BattleSpeechBubbleDlg.json] 충만케 하리라!|... to fullness!
+967||SpeechBubbles#BattleSpeechBubbleDlg.json] 휘몰아친다!|A maelstrom of spears!
+968||SpeechBubbles#BattleSpeechBubbleDlg.json] 예측대로!|All within prediction!
+969||SpeechBubbles#BattleSpeechBubbleDlg.json] 예측대로.|Within prediction.
+970||SpeechBubbles#BattleSpeechBubbleDlg.json] 격발!|Fire!
+971||SpeechBubbles#BattleSpeechBubbleDlg.json] 불결한 것.|Foul thing.
+972||SpeechBubbles#BattleSpeechBubbleDlg.json] 정리하겠습니다.|Allow me to dispose of this...
+973||SpeechBubbles#BattleSpeechBubbleDlg.json] 나쁘지 않군.|Not bad.
+974||SpeechBubbles#BattleSpeechBubbleDlg.json] 나쁘지 않군.|Acceptable.
+975||SpeechBubbles#BattleSpeechBubbleDlg.json] 공간을 뭉갠다.|Compressing dimension!
+976||SpeechBubbles#BattleSpeechBubbleDlg.json] 기대해라!|Look forward to it!
+977||SpeechBubbles#BattleSpeechBubbleDlg.json] 그림자 속으로 가라앉길.|Sink into shadows.
+978||SpeechBubbles#BattleSpeechBubbleDlg.json] 최대 전개...|Full release...
+979||SpeechBubbles#BattleSpeechBubbleDlg.json] 집행한다!|Executing!

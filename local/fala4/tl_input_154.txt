@@ -1,0 +1,96 @@
+14964||RPGSystem#rpg-loc-dialogue-floor-3.json] 바깥이었다면 터무니없는 소리라고 무시할 법한 이야기지만… 이곳은 상징적으로 무언가가 이뤄지고 소통되다 보니…|Would've dismissed that claim without batting an eye had we been outside, but within Sisyphe, where events and communications are contingent not on their materiality but their symbolic significance...
+14965||RPGSystem#rpg-loc-dialogue-floor-3.json] 문제가 되진 않을 겁니다, 관리자님.|This is unlikely to be an issue, Manager.
+14966||RPGSystem#rpg-loc-dialogue-floor-3.json] 저자는 그저 머리 안쪽을 보고 싶어만 하는 것 같으니.|It seems she only wants to take a look inside my head.
+14967||RPGSystem#rpg-loc-dialogue-floor-3.json] 내게 조금만 맡기면 쉬울 텐데. 상의의 봉제를 조금만 널널하게 옮겨 박기만 해도…|I could fix that in no time, stranger. I need only readjust the sewing on your jacket into a slightly loosened arrangement...
+14968||RPGSystem#rpg-loc-dialogue-floor-3.json] <그래, 네가 괜찮다면…>|<Right, might as well.>
+14969||RPGSystem#rpg-loc-dialogue-floor-3.json] 저… 가위를 좀… 사고 싶어서요. 날이 아주 잘 든 것 같은 가위들이 많아 보이는데…|Um... Actually, I wanted to ask if we could purchase a pair of scissors from you? I see some that look pretty well-sharpened...
+14970||RPGSystem#rpg-loc-dialogue-floor-3.json] 무언가를 자르고 싶은 열망으로 가득한 눈이야. 마음에 들어.|I can see the desire to go <i>snip-snip!</i> in your eyes. I like that look.
+14971||RPGSystem#rpg-loc-dialogue-floor-3.json] 가위는… 보다시피 있어. 하지만 네 눈은 진열된 가위를 바라보고 있지 않네.|I do have scissors, yes. But I can see in your eyes that the scissors on display aren't what interest you.
+14972||RPGSystem#rpg-loc-dialogue-floor-3.json] 그렇다. 우리는 거대한 가위가 필요하니까.|Correct. The pair of scissors we need is of significant size.
+14973||RPGSystem#rpg-loc-dialogue-floor-3.json] 내가 쥔 가위는 섣불리 내어줄 물건이 아니야. 내게 눈알을 아주 많이 준다면 모르겠지만.|The pair of scissors I wield is not a tool I am willing to part with lightly, unless you were to offer me a great many eyeballs.
+14974||RPGSystem#rpg-loc-dialogue-floor-3.json] 이전의 대화로 우리에게 그다지 많은 눈알이 없다는 걸 알고 있었을 텐데, 그럼에도 긍정 의사를 표했다는 건…|Haven't you realized from our last visit that we aren't exactly flush with eyeballs? If you're making the same proposition anyway, then...
+14975||RPGSystem#rpg-loc-dialogue-floor-3.json] …흥정을 하자는 것으로 들리는군.|... Ah, I see. You are inviting us to bargain.
+14976||RPGSystem#rpg-loc-dialogue-floor-3.json] 나는 즐거움을 원해.|Correct. For example... "amusement" can be a price.
+14977||RPGSystem#rpg-loc-dialogue-floor-3.json] 호오… 이렇게 생겼구나…|Aha... So that's what you look like on the inside.
+14978||RPGSystem#rpg-loc-dialogue-floor-3.json] 이렇게 활용을 하다니, 정교하고 꼿꼿하네. 잘 다려진 셔츠의 깃 같아.|Fascinating use of that element. So detailed and stiff! Almost like the collars of a well-ironed dress shirt.
+14979||RPGSystem#rpg-loc-dialogue-floor-3.json] 그런데… 이 안쪽 틈엔 무언가, 단단하게 개켜 넣어둔 게 있구나. 하지만 남의 서랍을 함부로 여는 건 수선사의 도리가 아니지. 닫아두도록 할게.|Oh, what's this here...? You've neatly folded and stored something deep and stubborn in this dark corner...\nAs curious as I am to see, it would be against the alterationist code to rummage through your drawers without consent. I'll keep that nicely shut.
+14980||RPGSystem#rpg-loc-dialogue-floor-3.json] 잘 보았어. 이제 꿰매 줄 거야. 움직이지 않고 가만히…|Thanks for the peek. Now sit still; I'll sew you right back up...
+14981||RPGSystem#rpg-loc-dialogue-floor-3.json] <괜찮아?>|<Are you okay?>
+14982||RPGSystem#rpg-loc-dialogue-floor-3.json] 머리가 조금 멍한 느낌이지만 괜찮습니다.|Aside from mild discomfort from faintness, I am okay.
+14983||RPGSystem#rpg-loc-dialogue-floor-3.json] 아, 일시적인 거야. 곧 가라앉아.|Ah, feeling a bit dazed? Don't worry, it should go away in a bit.
+14984||RPGSystem#rpg-loc-dialogue-floor-3.json] 고마워, 네 머리는 뭐랄까… 오랜만에 마주하는 즐거움이었어.|Thank you. The inside of your head was... how should I put this? Exciting in a way I hadn't experienced in a long while.
+14985||RPGSystem#rpg-loc-dialogue-floor-3.json] 이 정도면 눈알 없이도 대가를 치렀다고 볼 수 있겠어. 가위는 가져가도록 해.|That more than makes up for the eyeball cost of my Scissors. Take it along with you on your journey, now.
+14986||RPGSystem#rpg-loc-dialogue-floor-3.json] 네… 네 맞아요. 화장실은 대체로 다 그렇지 않나요?|Y-yeah, that. You mean a restroom, right?
+14987||RPGSystem#rpg-loc-dialogue-floor-3.json] 이번에도 필요 이상으로 놀라는군요.|Our access to the Fount seems to come as a surprise to these ones, too.
+14988||RPGSystem#rpg-loc-dialogue-floor-3.json] <그렇다는 건 우리가 또 이곳의 상식과 뭔가 어긋났다는 거겠고.>|<Which means we've unwittingly violated one of the "common senses" within the Grand Magasin...>
+14989||RPGSystem#rpg-loc-dialogue-floor-3.json] 당연히 놀랄 수밖에! 우리들은… 너희처럼 에스컬레이터를 함부로 오르내리지 못해. 샘터에는 들어갈 수도 없고.|Why wouldn't we be surprised? We can't just jump onto the escalator whenever we want to, nor can we access the Fount.
+14990||RPGSystem#rpg-loc-dialogue-floor-3.json] 지난 시즌 기억하나? 직원 중 한 명이 새 가방을 갖고 싶다면서 한 시즌만에 위층으로 올라가는 에스컬레이터를 탔다가… 펑 하고 터져 버렸던 그 일.|Remember what happened last season? One of the employees got too impatient and decided to purchase a new bag upstairs... before even a single season had passed. Burst like a balloon the moment they stepped onto the escalator.
+14991||RPGSystem#rpg-loc-dialogue-floor-3.json] 그, 그렇군요…|O... Okay...
+14992||RPGSystem#rpg-loc-dialogue-floor-3.json] 범상치 않은 고객들인걸. 그럼 혹시 우리 매장 옆에 있는 르루주 매장도 가봤나?|There's clearly something special about you, dear customers. Have you stopped by the Rouge shop next to ours too, then?
+14993||RPGSystem#rpg-loc-dialogue-floor-3.json] 마침 다녀오는 길이다.|Yes, we did. On the way here.
+14994||RPGSystem#rpg-loc-dialogue-floor-3.json] 혹시… 그자에게서 뭔가 특이한 점을 발견하진 않았나?|Did you notice anything... <i>peculiar</i> about the vendor there?
+14995||RPGSystem#rpg-loc-dialogue-floor-3.json] 말해준다면… 우리 브랜드 제품을 아주 합리적인 눈알에 넘기도록 하지. VIP 고객들에게만 베푸는 특혜다.|Tell us what happened there, and we'll allow you to purchase from our brand at very reasonable prices, normally reserved only for VIP customers.
+14996||RPGSystem#rpg-loc-dialogue-floor-3.json] 너희, 어떻게 들어왔지? 방해받기 싫어서 기껏 눈알을 주고 투피스까지 고용했는데?|How did you get past Two-piece? So much for the eyeballs we paid for some peace and quiet...
+14997||RPGSystem#rpg-loc-dialogue-floor-3.json] 정보값이라… 나쁘지 않은 제안이군.|... A discount, in return for intelligence... Not an objectionable offer.
+14998||RPGSystem#rpg-loc-dialogue-floor-3.json] 말해도 되냐는 듯한 오티스의 눈짓에 나는 순순히 고개를 끄덕였다.|Outis glanced in my direction for permission to speak. I nodded lightly.
+14999||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리가 르루주 매장에서 만난 자는… 목소리가 잘 들리지 않는다는 사실에 크게 절망하고 있었다.|Upon our arrival, we found the vendor at the Rouge shop wallowing in despair, deafened to the fading Voice of her faith.
+15000||RPGSystem#rpg-loc-dialogue-floor-3.json] 파하하! 꼴이 좋아.|Wahahaha! Serves 'er right.
+15001||RPGSystem#rpg-loc-dialogue-floor-3.json] 성스러운 황금송진을 뜯으라 종용하는 목소리가 잘 들리지 않는다니, 최근 르루주들이 조급한 모습을 보이는 이유가 이건가?|The Voice that's been urging the Rouges to flay the Golden Resin—hallowed be its presence—off the walls has been growing increasingly unstable, hm? No wonder they have been so agitated of late.
+15002||RPGSystem#rpg-loc-dialogue-floor-3.json] 그래… 그래서 어떻게 되었지?|Okay, so... What happened then?
+15003||RPGSystem#rpg-loc-dialogue-floor-3.json] 흐으음, 어떻게 되었더라… 기억이, 크흠. 가물하군 그래.|Hmmm... What indeed...? My memory appears to be failing me all of a sudden. *cough* I wonder what could possibly help refresh it...
+15004||RPGSystem#rpg-loc-dialogue-floor-3.json] 내가 기억하고 있다. 그자는…|I remember. The vendor—
+15005||RPGSystem#rpg-loc-dialogue-floor-3.json] 크흠! 우리에게 목소리가 가장 가까이서 들렸다는 방송실로 가달라 부탁했지. 이후의 이야기는 조금 더 합리적인 협상안이 있으면 기억이 날 것 같군.|—<i>*COUGH*</i> The vendor requested that we head to the PA Room, where the Voice sounded nearer. But perhaps an even more "reasonable" price adjustment might be just what I need to jog my memory.
+15006||RPGSystem#rpg-loc-dialogue-floor-3.json] 다음 이야기를… 기대해주세요.|I wonder where the... story could go next...?
+15007||RPGSystem#rpg-loc-dialogue-floor-3.json] 누가 보냈지? 어디서 왔나?|Who sent you? Where are you from?
+15008||RPGSystem#rpg-loc-dialogue-floor-3.json] 음. 이해했다.|Mm. I see.
+15009||RPGSystem#rpg-loc-dialogue-floor-3.json] 중요한 대목에서 끊어버리다니…!|Really? Are you seriously going to leave us on a cliffhanger?
+15010||RPGSystem#rpg-loc-dialogue-floor-3.json] 알았어, 알았다고! 우리 브랜드의 옷을 특가로 팔아줄게. 그러니까 어서 말해…|Fine, <i>fine</i>! We'll give you an even steeper discount. Hurry up, what happened next?
+15011||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리가 찾아준 건… 테이프였다. 그 테이프에는… 무려…|After a brief search, we came across... an <i>AUDIOTAPE</i>. And when we played the audiotape... <i>oh, you wouldn't believe it...</i>
+15012||RPGSystem#rpg-loc-dialogue-floor-3.json] 무려…?|Well...? Go on!
+15013||RPGSystem#rpg-loc-dialogue-floor-3.json] 그들이 애타게 찾던 목소리가 녹음되어 있었지.|... It was a recording of the Voice the Rouges have been searching for all along.
+15014||RPGSystem#rpg-loc-dialogue-floor-3.json] …녹음된 목소리라. 파하하하하! 그것들에게 참 어울리는 결말이군.|... A recording? Wahahaha! What a pathetic, anticlimactic ending! Perfect for those good-for-nothings!
+15015||RPGSystem#rpg-loc-dialogue-floor-3.json] 그것들이 간절히 섬기던 그 목소리가 어딘가에서 돌아가고 있는 낡은 테이프에 불과했다니. 초라하기 그지없어.|So the Voice they worshipped so fervently turned out to be no more than a ragged <i>audiotape</i> turning away in some squalid corner. Truly, a pitiful end to those heretics.
+15016||RPGSystem#rpg-loc-dialogue-floor-3.json] 어… 저희는… 누가 보내서 온 건 아니고… 1층에서 올라왔을 뿐인데요…|Uh... No one sent us. We just kinda wandered in here from the first floor, if that matters...
+15017||RPGSystem#rpg-loc-dialogue-floor-3.json] 1층? 그곳에서 어떻게 왔다는 거지? 또 어디를 들렀어?|You're from the first floor? Nonsense. How long were you there?
+15018||RPGSystem#rpg-loc-dialogue-floor-3.json] 저번 시즌 막바지까지 1층에 있었다.|We remained on the first floor until the end of last season.
+15019||RPGSystem#rpg-loc-dialogue-floor-3.json] …한 시즌 만에 1층에서 3층까지 올라왔다고? 무슨 수로?|... It only took you a single season to climb from the first floor to the third? How?
+15020||RPGSystem#rpg-loc-dialogue-floor-3.json] 어… 그냥 에스컬레이터를 타거나, 가끔 화장실을 통해서…|Uh... We just used the escalators... We also moved around through the restroom, if that counts...
+15021||RPGSystem#rpg-loc-dialogue-floor-3.json] …화, 화장실? 샘터를 갔다는 건가…?|... Th-the restroom...? Could they be referring to the Fount...?
+15022||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리가 아는 그 샘터를 말하는 거야? 변기랑 세면대라는 게 있는…|Are you sure you're talking about the Fount? The one with toilets and a sink and—
+15023||RPGSystem#rpg-loc-dialogue-floor-3.json] 홀려버린 르누아르|Enthralled Noir
+15024||RPGSystem#rpg-loc-dialogue-floor-3.json] 아아, 따뜻해…|Ooh... So warm...
+15025||RPGSystem#rpg-loc-dialogue-floor-3.json] 이대로… 계속 쬐고 싶어…|I want to just sit here... and bask in this light...
+15026||RPGSystem#rpg-loc-dialogue-floor-3.json] 저분들은… 왜 저러시는 건가요?|What's wrong with them...?
+15027||RPGSystem#rpg-loc-dialogue-floor-3.json] 저러는 놈들이 부쩍 늘어나고 있어. 어느 날부터 이상한 소리를 하기 시작했지.|There's been a spike in Noirs exhibiting strange behaviors as of late, uttering strange mantras to themselves...
+15028||RPGSystem#rpg-loc-dialogue-floor-3.json] 신성한 목소리를 거부하고, 다른 목소리에 홀린 정신 나간 놈들이다.|Demented souls, I say. There's no other explanation for why anyone would refuse the holy Voice and let themselves be tempted by another.
+15029||RPGSystem#rpg-loc-dialogue-floor-3.json] 그게 왜 문제인가요? 많이 팔린 거면… 좋은 거 아니에요?|I don't understand why that's a problem, though. What's wrong with making lots of sales?
+15030||RPGSystem#rpg-loc-dialogue-floor-3.json] 좋다니, 그건… 브랜드의 죽음이야!|What's wrong with making— Oh, it's the death of a brand!
+15031||RPGSystem#rpg-loc-dialogue-floor-3.json] 누구나 걸칠 수 있는 옷은, 더 이상 명품이 아니라고. 우리 브랜드가 오트쿠튀르를 다룰 급으로 격상하려면… 이 백화점에서 우리 매장 옷을 걸쳤던 흔적을 아주 조금만 남도록 지워 버려야 해…|Clothes any schmuck can wear doesn't exactly scream "Luxury item," does it? We need to leave as little evidence as possible of our brand's common popularity if we want even the smallest chance of being accepted as Haute-couture.
+15032||RPGSystem#rpg-loc-dialogue-floor-3.json] 그래서… 리콜을 결심했지. 마땅한 옷감도, 직원도 없어서 미루고 있었지만.|Which is why we'd like to issue a "recall" of our products. We've merely postponed it for want of suitable material and personnel, but now is the time.
+15033||RPGSystem#rpg-loc-dialogue-floor-3.json] 계속 헛소리만 하고 르누아르라고 부를 수도 없는 것들은 우리 매장 옷을 걸칠 자격도 없지! 이방인들이여, 이 부탁을 들어준다면 아주 특별한 걸, 너희에게 눈알도 받지 않고 주겠다.|Those gibbering madmen don't deserve to call themselves Noirs, let alone wear our brand! Do this for us, strangers, and we'll make it worth your while. We are ready to give you something truly <i>extraordinary</i>—free of charge, of course.
+15034||RPGSystem#rpg-loc-dialogue-floor-3.json] 그 제안은… 꽤 괜찮군.|I must admit, that's... a tempting offer.
+15035||RPGSystem#rpg-loc-dialogue-floor-3.json] 잠깐… 아아, 잘됐군. 혹시 저들을 치워줄 수 있나?|... Wait. Would you remove them for us, strangers?
+15036||RPGSystem#rpg-loc-dialogue-floor-3.json] …치워달라고? 저들을 없애 달라는 말인가?|... "Remove," you say? You want us to eliminate them?
+15037||RPGSystem#rpg-loc-dialogue-floor-3.json] 그래, 우리의 브랜드를 위한… 흠, 리콜 조치지.|Let's say we're issuing a... Hm. Yes, a "recall" for our products.
+15038||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리 브랜드가 왜 명품관에 합류하지 못했는가… 오래도록 고민했어.|We've been wondering for a while—just what is it that we lack that we're still forbidden from joining the Luxury Hall?
+15039||RPGSystem#rpg-loc-dialogue-floor-3.json] 그리고 알았지. 진정한 럭셔리 대열에 합류하기 위해서는… 극단적인 희소성이 필요하다는 것을.|But now we know: to join the ranks of true Luxury brands, our products need to be extremely exclusive. What we lack is... scarcity.
+15040||RPGSystem#rpg-loc-dialogue-floor-3.json] 희소성이요?|Scarcity?
+15041||RPGSystem#rpg-loc-dialogue-floor-3.json] 명품 하나를 손에 넣기 위해서는 단순히 눈알만 많아선 안 돼. 까다롭게 자격을 따지고, 우리 브랜드를 얼마나 찾아주었는지도 검증해야 했어.|You need more than just a truckload of eyeballs to purchase a Luxury apparel. There's a process to those things—terms and conditions, prestige, how hard they've wanted to purchase from us...
+15042||RPGSystem#rpg-loc-dialogue-floor-3.json] 그런데 우리는… 어리석었지. 백화점의 너무 많은 고객들이 우리 옷을 입게 만들어 버렸어.|But we weren't being smart about it. We've been foolish, allowing our product to spread far and wide... And now, far too many customers wear our apparel in Sisyphe.
+15043||RPGSystem#rpg-loc-dialogue-floor-3.json] 저기도! 여기도! 우리 브랜드를 거치면 제가 뭐라도 되는 것처럼 착각하는 것들. 명품 하나 걸칠 자격도 없는 것들이… 가치를 흔해 빠지게 만들어 버렸단 말이야. 이러다가 그 탐욕스러운 르루주들이 우리 브랜드를 씹어 먹는 꼴까지 보게 될 거야.|Look, there's one wearing! And another one, over there! Conceited, vain idiots who think they've become somebody just because they've draped themselves in our label. Our entire customer base is full of entitled plebeians unworthy to wear even a single piece of the Luxury brands... It's their fault we're associated with cheap trash!
+15044||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>이전에는, 백화점의 모든 사람들이 죽음을 경험해도 반드시 돌아왔었지. 지하 1층에서 새로운 출발을 할 수 있었어.</color>|<color=#ebcaa2>For the people of this department store, dying used to mean being sent to B1 for a fresh start. Death was but another beginning.</color>
+15045||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>하지만 지금은… 아무것도 남지 않아. 죽음은, 그야말로 끝이지.</color>|<color=#ebcaa2>But now... death is final. They die? They're gone. Death has become, quite simply, the end.</color>
+15046||RPGSystem#rpg-loc-dialogue-floor-3.json] 이곳에서 사망한다면… 이 시뮬레이션 밖의 N사에 있는 그들의 육체는 어떻게 되는 거지?|What happens to their physical bodies at N Corp. once they're killed in this simulation?
+15047||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>생각해봐. 정신이 소멸했는데 육신이 멀쩡할 리가 있겠어?</color>|<color=#ebcaa2>What do you think? Do you expect their bodies to be intact when the mind has been obliterated?</color>
+15048||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>너희는 예외인 것 같지만. 외부의 다른 누군가? 아니면… 무언가와 얽혀 있는 것 같아. 내가 아는 존재인가 했지만, 그것도 아닌 것 같아. 무엇인지는 나도 조금 더 확인해봐야겠지만.</color>|<color=#ebcaa2>You and your friends appear to be an exception to the rule, though. Must have something to do with someone... or something outside the Grand Magasin. At first I assumed it was an entity I was already acquainted with, but that doesn't seem to be the case. I'll have to dig a little more to be sure.</color>
+15049||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>짐작 가는 거 있어, 당신?</color>|<color=#ebcaa2>Any idea what that might be, Meursault?</color>
+15051||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>응, 그렇게 말할 것 같았어. 내 쪽에서 알아내는 건 시간문제일 테니까 괜찮지만.</color>|<color=#ebcaa2>Yes, had a feeling you'd say that. Don't fret, it's only a matter of time before I figure things out myself.</color>
+15052||RPGSystem#rpg-loc-dialogue-floor-3.json] 휴… 여기저기 퍼져 있던 우리 브랜드 흔적들이 조금은 없어졌군.|Whew... Good work. I was getting sick of seeing our brand splashed all over like a street uniform.
+15053||RPGSystem#rpg-loc-dialogue-floor-3.json] 그리고 유용한 정보를 얻는다면, 우리에게 다시 돌아와서 전해줄 수 있겠나?|And if you ever come across any more useful information in your journey, would you return to us and share them?
+15054||RPGSystem#rpg-loc-dialogue-floor-3.json] 시즌에 상관없이 층을 자유롭게 이동할 수 있는 너희만이 할 수 있는 일이다.|You are the only ones who can traverse between floors freely—so you're also the only ones who can carry out that task.
+15055||RPGSystem#rpg-loc-dialogue-floor-3.json] <뭐… 어차피 가야 할 곳이라면…>|<Seems simple enough... We're trying to go upstairs, anyway.>
+15056||RPGSystem#rpg-loc-dialogue-floor-3.json] 예, 관리자님. 뜻대로 하시죠.|Yes, Executive Manager. As you wish.
+15057||RPGSystem#rpg-loc-dialogue-floor-3.json] 그… 그러도록 할게요.|O-okay.
+15058||RPGSystem#rpg-loc-dialogue-floor-3.json] 고맙군. 감사를 표하지.|Thank you. You have our gratitude.
+15059||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리는 다른 층의 이야기를 듣고 올 수 없으니… 너희를 기다릴 수밖에 없다.|We're relying entirely on the information you provide us—as we've said, we're not free to travel between floors.
+15060||RPGSystem#rpg-loc-dialogue-floor-3.json] <어쩌다가 르누아르들의 환심을 산 것 같네…>|<I guess we've won the Noirs over now...?>

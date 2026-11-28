@@ -1,0 +1,96 @@
+11734||PersonVoice#Voice_Yisang_Molar_10105.json] 더 없이 평소와 같은, 평범한 아침이구료. 의뢰 관련이라면, 사무실 안쪽으로 들어오시오.|Thus it is a morning like any other, its patterns forever unchanging. If you have a matter concerning a contract, please make yourself comfortable in our office.
+11735||PersonVoice#Voice_Yisang_Molar_10105.json] 야밤에 퇴근하지 못하는 것이 불행해보일 수는 있으나… 그것도 처리해야 할 일이 있다는 뜻이니 나쁜 것만은 아니오.\n의뢰 하나 없는 사무소도 도시에 한 가득이니.|Though it may appear pitiable that I am working so late into the night... it is not entirely unideal, as it signifies that there is work to be done.\nMany Offices in this city oft go days with nary a proper contract.
+11736||PersonVoice#Voice_Yisang_Molar_10105.json] 음… 하루의 절반이 지나갔군. 그대는 안녕하오?|Hmm... Half a day remains. How do you fare?
+11737||PersonVoice#Voice_Yisang_Molar_10105.json] 남는 시간은 서류 정리를 해두는 게 좋겠군. 이럴 때일수록… 늘어지면 안 되오.|I shall use this downtime to catalogue our documents. One must not idle... in times such as these.
+11738||PersonVoice#Voice_Yisang_Molar_10105.json] 의뢰를 받아 일을 처리하겠다면, 공식적으로 계약서를 작성해야 하오.\n뭐… 말이 거창할 뿐, 그저 서로에 대한 약속을 하겠다는 것 뿐이오.|An official contract must first be drafted and signed, if we are to accept a request.\nWell... there is no need to be intimidated. It is but a simple covenant betwixt two entities.
+11739||PersonVoice#Voice_Yisang_Molar_10105.json] 누님께서는… 바깥 일을 나가셨소. 전할 말이 있다면 대신 전해 주겠소.\n…연락처를 부탁하는 건 적절치 않아 보이오. 틀림 없이 대화가 통할 상태는 아닐테니.|Big Sister is... occupied with an outside business at the moment. If there are any words you must pass on to her, you may say them unto me.\n... Asking for her contact information... may be unwise. I can speak with certitude that she is not in an ideal state to engage in dialogue.
+11740||PersonVoice#Voice_Yisang_Molar_10105.json] 이 무기를 말하는 것이오? 당연히 공방을 통해 만들어진 제품이오.\n개조…? 허어, 그럴 필요는 없지 않겠소? 내가 그럴 일도 없을 것이라보오만.|You ask of this weapon? It is a handicraft of a workshop, indeed.\nModifications...? Hmm, why would there be a need for modifications? I do not see myself tampering with its build, either.
+11741||PersonVoice#Voice_Yisang_Molar_10105.json] 협회에서 오는 의뢰와 날개에서 오는 의뢰는 그 무게가 다르오. 날개가 일개 사무소에 의뢰를 맡긴다는건 그만한 인정을 받았다는 것일테니.\n이번 R사의 의뢰도 그런 의미에서 아주 무거운… 의뢰지.|Contracts from Associations and contracts from Wings carry entirely different levels of significance. To be contracted by a Wing is to have our competency acknowledged.\nThus, this contract from R Corp. is also... something of grave importance.
+11742||PersonVoice#Voice_Yisang_Molar_10105.json] 한편으로는 걱정이 되는 것도 사실이나… 또 어마어마한 기회임을 십분 알고 있기에.\n누님만 잘 보필하면, 해결할 수 있을 거라 믿소.|While I do have my reservations... I also understand that it may be a marvelous opportunity.\nI am hopeful that we should be able to fulfill this contract as long as I prove to be a sufficient support for Big Sister.
+11743||PersonVoice#Voice_Yisang_NEGO_10113.json] …이런.|... Oh.
+11744||PersonVoice#Voice_Yisang_NEGO_10113.json] 흠, 이만하면 됐구료. 소기의 목적은 달성한 모양이니. 돌아가는 길이 북적이지 않아 제법 쾌적하겠소. 그리 생각치 않는가?|Hm, the desired purpose has been accomplished; this will suffice. Our return journey should be quite comfortable, given the reduced population of our team. Wouldn't you agree?
+11745||PersonVoice#Voice_Yisang_NEGO_10113.json] 입 안에 짠 맛이 도는군…  아, 무엇인가 했더니 터져버린 동료의 피가 튀었던 모양이군. 허… 이런, 맛이던가.|This taste of salt—ah, blood of my departed comrade must have splattered there. Hmh... so, this is how it tastes.
+11746||PersonVoice#Voice_Yisang_NEGO_10113.json] 죽고 싶던 마음이… 드디어 칼을 찾았는가.|The heart that wished to die... has finally found a knife.
+11747||PersonVoice#Voice_Yisang_NEGO_10113.json] 쳇… 빨리 도망쳐야겠구료. 음, 마침 퇴각을 도울 자들이 도착했나. 자, 따라오게!|Tsk... we must make ourselves scarce with haste. Those who would assist in our extraction have arrived; now, with me!
+11748||PersonVoice#Voice_Yisang_NEGO_10113.json] 꿰뚫어 퍼지리.|To pierce and scatter.
+11749||PersonVoice#Voice_Yisang_NEGO_10113.json] 구멍 투성이가 되어-|Become a porous thing—
+11750||PersonVoice#Voice_Yisang_NEGO_10113.json] 마침내, 깊은 수면에 빠지시는가.|Thus, you sink into a bottomless slumber.
+11751||PersonVoice#Voice_Yisang_NEGO_10113.json] 후후… 음, 웃음은 잊으시오. 어떤 일인가.|Heh heh... mm. Forget you heard the laughter. What is your business here?
+11752||PersonVoice#Voice_Yisang_NEGO_10113.json] 저들은 전율하리라.|They will shiver with frisson.
+11753||PersonVoice#Voice_Yisang_NEGO_10113.json] …엄밀히 말해, 나의 전문분야가 아니오.|... In my defense, this is not my area of expertise.
+11754||PersonVoice#Voice_Yisang_NEGO_10113.json] 보시게, 내 계획했던 대로 되지 않았나.|Behold, for it has transpired exactly as I had planned.
+11755||PersonVoice#Voice_Yisang_NEGO_10113.json] 내 바쁘오.|I am preoccupied.
+11756||PersonVoice#Voice_Yisang_NEGO_10113.json] 임무에 나서는가. 함께하는 동료의 숫자는 몇이나 되는가. 음, 총알의 갯수를 세어보아야 하여 묻소.|Are we to embark on a mission? How many shall accompany us?\nMm. I ask, for I must count my bullets ere it begins.
+11757||PersonVoice#Voice_Yisang_NEGO_10113.json] 친우의 피로 점철한 넝마를 보고 손가락질하는가. 어리석은 자들이로다. 지상 최고의 비극은 오직 나만이 통감할 수 있는 것을.|They would point and jeer at the rags splattered with the blood of fellowship. The fools; only I can grasp the highest degree of tragedy upon this earth.
+11758||PersonVoice#Voice_Yisang_NEGO_10113.json] 부상한 태양의 빛이 내게는 제법 따갑구료. 나는 오히려 달이 좋소. 반사되어 저감하는 빛이어야 내게 알맞소. 동료를 꿰어 탄환을 내보내는 나와 제법 어울리지 않는가.|Rays of the risen sun prickle my skin. I prefer the moon, the light of which is but a reflection softened. Quite the fitting preference for me, who rains fire by striking my comrades, is it not?
+11759||PersonVoice#Voice_Yisang_NEGO_10113.json] …들켰는가. 모른척 하고 지나가 주시게. 이사님이 내게 이고(E.G.O)의 연구를 허락하지 않아, 야음을 틈타 연구자료라도 뒤져보려는 셈이었으니.|... Ah, you've seen me. Pretend you have seen nothing here, and pass on by. The Director has disallowed me from partaking in studies regarding E.G.O; I thought to use the nocturnal umbra to sift through their research material.
+11760||PersonVoice#Voice_Yisang_NEGO_10113.json] 점심 식사는 즐기지 않소. 잠시 거르는 것으로 크게 영향을 받지도 않을 뿐더러, 들러붙은 쩐득한 혈향이 제법 고약하기에.|I do not partake in midday meals. Its absence does not affect me much, and the bloodsteeped scent, I must say, makes it rather unsavory.
+11761||PersonVoice#Voice_Yisang_NEGO_10113.json] 팬던트를 꺼내어 보나, 나는 기어코 열지 않으려 하오. 친우가 그랬소. 늦었다고, 늦었다고…|Hold the pendant in sight I may, but I shan't ever peer into it. A fellow of mine has once spoken thusly to me—<i>too late, too late</i>...
+11762||PersonVoice#Voice_Yisang_NEGO_10113.json] 하아… 과거의 아픔을 물으시는가. 구태여 떠올리려 하지 않아 기억이 흩어졌소만. 음, 분명 나의 친우들은 하나를 제외하고 모두 돌아서… 나의 가치를 담을 수 있는 기술을 알아보는 N사와 이 신구인회를 옹립했지.\n…무언가 이상하오?|Ahh... you would like to know more of my old wounds? Yet my memories have all but scattered away now, for I have not deigned to recall it in some time. My fellows have, save for one, all turned from—\nThus, I have worked with N Corp. to establish this new League of the Nine, for they understand the technology that deserves to harbor my value.\n... Is aught odd about this assessment?
+11763||PersonVoice#Voice_Yisang_NEGO_10113.json] 이 이고(E.G.O)는 이사님께 부여받았을 뿐이오. 내게 선택권이 있지도 않았지. 나라고 하여 동료를 관통해 쏘는 일을 좋아서 받아들였을 거라 보는가?\n…그리 보였다고? 그렇다면 그건… 침식, 일 거요.|This E.G.O was simply bestowed upon me by the Director, the choice hardly mine. Does your reason truly dictate that I would have readily accepted the manner of occupation that has me shooting my own comrades to fire at our foes?\n... It does? Then it must have been... but a Corrosion.
+11764||PersonVoice#Voice_Yisang_NEGO_10113.json] 죽어가는 자들을 보고 아쉬워 할 것은 없소. …찾게 되면, 어차피 …것인데.\n나와 친우가 그를 위해 분투하고 있으니 곧 내게 꿰뚫린 동료들도…|One needn't lament for those who are dying. Once we discover the... it shall all... in the end.\nMy fellow and I are toiling incessantly for it; thus, even the comrades whom I have pierced shall soon...
+11765||PersonVoice#Voice_Yisang_NEGO_10113.json] 새까만 핏조각이 땡그랑 소리 내며 깨어지리라. 관통한 탄환은 여러 갈래가 되어 저들 모두를 파고들터. 이로서 동료들의 희생은 가치로워졌소, 아니… 처음부터 동료였던지도 이젠 흐릿하군!|Obsidian shards of blood shatter with echoes of glass; the perforating bullet scatters to a thousand pellets to bore into them all. Thus worthy has it become, the sacrifice of my comrades... no, I can scarcely recall if they were comrades of mine at all!
+11766||PersonVoice#Voice_Yisang_NEGO_10113.json] 이 총인지, 아니면 이 넝마인지… 이것들이 내게 계속해서 속삭이고 있소. 적을 노리는 것이 아니다, 사랑을 기억하는 이를 노리라. 그것을 파괴하라, 쏘아라, 쏘으…\n …내가 어디까지 이야기했소?|It whispers to me incessantly, the voice of the rifle, or the ragged cloak... that I am to aim not for my enemies, but for those who still remember love. Destroy it, fire, I shall fi—\n... Remind me, where was I?
+11767||PersonVoice#Voice_Yisang_Rings_10109.json] 큭…|Kngh...
+11768||PersonVoice#Voice_Yisang_Rings_10109.json] 나쁘지는 않았구료. 붓을 몇 번 더 놀릴 기회만 있었어도 좋았을 것 같지만…|It is... passable. Though I very much wish that I had more opportunity to wield this brush...
+11769||PersonVoice#Voice_Yisang_Rings_10109.json] 걸작을 자아냈나… 후우, 마에스트로 님이 어떤 평가를 내려주실지, 흥분이 가시지 않는구료.|Quite the artistic tour de force we have produced... Ah, I cannot help but be overcome with anticipation for the Maestro's critique of this piece.
+11770||PersonVoice#Voice_Yisang_Rings_10109.json] 작품을 만들다 죽을 수 있다니… 그야말로… 이상… 적…|To perish in the process of artistic creation... Truly, there is no... death... more ideal...
+11771||PersonVoice#Voice_Yisang_Rings_10109.json] 최악이오… 소재는 망가졌고, 영감은 이미 떠난지 오래지. 이리도 굴욕적인 기분은 참으로 오랜만이군…|How dreadful... The ingredients lay broken, and not an ounce of inspiration remains. I have not felt such shame in a long time.
+11772||PersonVoice#Voice_Yisang_Rings_10109.json] 점찍었네!|Quite the pointed critique!
+11773||PersonVoice#Voice_Yisang_Rings_10109.json] 비뚤어졌구료.|Mm, this piece is off-balance.
+11774||PersonVoice#Voice_Yisang_Rings_10109.json] 이제야, 완성되었나.|Finally... it is complete.
+11775||PersonVoice#Voice_Yisang_Rings_10109.json] 내 작품에 의견이라도 있소?|Have you aught to say about my work?
+11776||PersonVoice#Voice_Yisang_Rings_10109.json] 이것 참, 설레는구료.|My, this is quite exciting.
+11777||PersonVoice#Voice_Yisang_Rings_10109.json] 음… 낙제점인가…|Mm... that may be a failing grade.
+11778||PersonVoice#Voice_Yisang_Rings_10109.json] 합격점이구료.|That is a passing grade.
+11779||PersonVoice#Voice_Yisang_Rings_10109.json] 소재가 준비됐소?|I suppose the ingredients are ready?
+11780||PersonVoice#Voice_Yisang_Rings_10109.json] 아하, 그대도 평가의 순간이 궁금했소? 이리 와보시게. 볼만한 것들을 몇 개 짚어드리지.|Aha, you wished to watch as I evaluated them? Come hither; allow me to guide you to those that are worth viewing.
+11781||PersonVoice#Voice_Yisang_Rings_10109.json] 그대께서 새로운 영감을 불러와주시겠는가. 그렇지 않다면… 특별히 흥미가 생기진 않네만.|Will you rekindle the inspiration within me anew? If not... then I can't say that I am terribly interested.
+11782||PersonVoice#Voice_Yisang_Rings_10109.json] 커튼은 걷지 말게. 갑작스러운 아침 햇살에 방금까지 집중하고 있던 이 점의 밀도를 잃기 싫으니.|Open not the curtains; I fear that a sudden light of dawn may disturb the density of this dot I have been pouring my focus in.
+11783||PersonVoice#Voice_Yisang_Rings_10109.json] 잠은 죽어서 자는 것이오. 생명이 정지하면 그 순간 작품을 만들 기회도 흩어지니. 그러니 순간순간을 오롯이 작품에 투자해야만 하오.|Sleep shall claim me only when it knocks with death as its companion. Understand that cessation of life is, in turn, a complete elimination of any potential to create. Thus every waking moment must be fully devoted to the creation of art.
+11784||PersonVoice#Voice_Yisang_Rings_10109.json] 5초 안에 영양을 공급받을 수 있는 식사가 있으면 참 좋겠구료. 하루의 절반을 가르는 이 순간에, 식사라는 보잘것없는 행위로 작품을 만들 시간을 해친다니…|Oh, how I wish there was a meal that could be consumed in five seconds. To waste so much time I could have used to create... on something so pointless yet vital at the exact bisection of a full day... How regrettable.
+11785||PersonVoice#Voice_Yisang_Rings_10109.json] 흐음. 구상의 시간을 방해치는 않겠소. 그것이 귀중하다는 건 내 잘 알고 있으니.|Hm. I shall not disturb you as you meditate on your next project. Well do I understand the import of such hours.
+11786||PersonVoice#Voice_Yisang_Rings_10109.json] 비록 반지 한 바퀴짜리의 수습생이라 한들, 제법 챙겨야 할 일은 많소.\n마에스트로께서 내려주시는 과제를 충실히 해내고, 주민들이 내놓는 실없는 작품을 평가해야만 하지.|Though I am but an apprentice with a single coil of a ring, there is much that requires my attention.\nThe Maestro's assignments to be completed, the civilians' drab 'artwork' to be evaluated...
+11787||PersonVoice#Voice_Yisang_Rings_10109.json] 불만… 이라. 붓을 자유로이 놀릴 수 있는 것과는 달리, 그다지 동의할 수 없는 도슨트들의 작품성에도 마음에 없는 칭찬이 강제된다는 점은 다소 불만이 있소.\n하지만, 자그마한 티끌과도 같은 단점일 뿐이오.|Any disgruntlements, you ask...? Mm, I do find it regrettable that my freedom in wielding the brush extends not to critiquing the artistic merit of works created by Docents. Oft am I compelled to compliment their pieces, when no such sentiment could be found in my heart.\nThis is but a very, very miniscule disgruntlement, mind.
+11788||PersonVoice#Voice_Yisang_Rings_10109.json] 과거는 그다지 돌볼 필요가 없소. 작품과 통찰은 계속해서 발전해 나가기 때문이오.\n아, 뭐… 과거의 작품을 재해석하여 만드는 것은 상당히 흥미로울 수 있겠구료.|The past deserves very little care. The art and the surrounding insight must always remain in a constant state of transformative improvement; capricious like quicksilver, if you will.\nOh, hm... Reinterpreting past works to remake them could prove interesting, indeed.
+11789||PersonVoice#Voice_Yisang_Rings_10109.json] 이것도 낙제, 흠… 이것도 낙제. …아! 자네, B+. 이 구정물 속에서 유일하게 빛나는 연꽃이구료.|F. Hm... another F. ... Ah! B+ for you, my friend; your work is like a solitary lotus, blooming its budded beauty in a mud pit of mediocrity.
+11790||PersonVoice#Voice_Yisang_Rings_10109.json] 내 자네의 작품이나, 영감을 떠올리는 모습이 제법 마음에 들었소. 이번엔 친히 부족한 부분을 내가 다시 그려줄테니… 다음 번엔 더욱 나를 놀라게 할 만한 것을 가져와 보시게.|I find your entire artistic process—from conceptualization to production—quite satisfactory. Please surprise me further with another creation of yours. I shall do my best to complement your work, should aught need touching up.
+11791||PersonVoice#Voice_Yisang_Seven6_10102.json] 용태가 썩 보기 좋지 않소.|Not the most flattering situation.
+11793||PersonVoice#Voice_Yisang_Seven6_10102.json] 적들의 공격 방식을 분석하는 데 성공했소.|I’ve successfully analyzed the enemy’s behavior.
+11794||PersonVoice#Voice_Yisang_Seven6_10102.json] 모두의 약점을 효율적으로 간파했소.|That was an effective exploitation of their weaknesses.
+11795||PersonVoice#Voice_Yisang_Seven6_10102.json] 다른 방법을 탐색해봐야겠소…|We ought to explore other modes…
+11796||PersonVoice#Voice_Yisang_Seven6_10102.json] 탐구는 끝났소.|I have finished my studies.
+11797||PersonVoice#Voice_Yisang_Seven6_10102.json] 저치의 약점이오.|That one has become vulnerable.
+11798||PersonVoice#Voice_Yisang_Seven6_10102.json] 침묵했소.|Fallen into silence.
+11799||PersonVoice#Voice_Yisang_Seven6_10102.json] 저치를 탐구하는 것은 어떻소?|How about you examine that one?
+11800||PersonVoice#Voice_Yisang_Seven6_10102.json] 탐구할 것은 무엇이오?|What am I to study this time?
+11801||PersonVoice#Voice_Yisang_Seven6_10102.json] 예측 외의 일이오…|This was unexpected…
+11802||PersonVoice#Voice_Yisang_Seven6_10102.json] 예측과도 같소.|It is as predicted.
+11803||PersonVoice#Voice_Yisang_Seven6_10102.json] 지식이 축적될 시간이군.|It is time to enrich my knowledge.
+11804||PersonVoice#Voice_Yisang_Seven6_10102.json] 예측하고 있던 사항이오.|It was as I expected.
+11805||PersonVoice#Voice_Yisang_Seven6_10102.json] 내게는 어떤 것도 감출 필요가 없소.|You need not hide any secrets from me.
+11806||PersonVoice#Voice_Yisang_Seven6_10102.json] 어제를 반추하시오. 그걸로 오늘을 구할 수 있을 테니.|Ruminate on your yesterday. It shall prove useful for extricating the present from woe.
+11807||PersonVoice#Voice_Yisang_Seven6_10102.json] 어둠 속에 선 밀어들이 속삭이지, 항상 귀를 기울이고 있어야 하오.|Furtive words are whispered in the dark. You must always have your ear to the ground.
+11808||PersonVoice#Voice_Yisang_Seven6_10102.json] 태양광선 속에는 무수한 스펙트럼이 있소. 이 세상도 마찬가지로 무수한 비밀들에 둘러싸여 있지.|An infinite spectrum comprises the rays of light cast by the sun. Likewise, this world hides countless secrets.
+11809||PersonVoice#Voice_Yisang_Seven6_10102.json] 흠… 침묵도 좋은 정보 중 하나지.|Hmm… Silence can speak much, in a way.
+11810||PersonVoice#Voice_Yisang_Seven6_10102.json] 언젠가 기회가 된다면 내 그대의 머리를 탐구해보고 싶소.|I would like to study your head if I get the chance one day.
+11811||PersonVoice#Voice_Yisang_Seven6_10102.json] 약점이 없는 인간은 없지. 제아무리 화려하고 위험한 기술이더라도 내 앞에선 의미가 없는 까닭이오.|No man is without weakness. It is why no amount of extravagance and intimidation a move poses can threaten me.
+11812||PersonVoice#Voice_Yisang_Seven6_10102.json] 조금만 주의를 기울인다면 많은 정보를 알아낼 수 있소. 가령, 지금 히스클리프 군에게 말을 걸면 좋지 않을 거라는 것 따위 말이오.|A little bit of attention can bring in much information. For instance, you will know that now is not a good time to speak with Heathcliff.
+11813||PersonVoice#Voice_Yisang_Seven6_10102.json] 혹여나, 그대의 과거가 궁금하다면 내게 의뢰하시오. …사양한다라… 단테, 그대는 볼수록 참 기이하고 흥미롭군.|If you ever yearn to know your past, merely give me a request. …You’d rather not, I see… Dante, you are such a bizarre and curious specimen.
+11814||PersonVoice#Voice_Yisang_Seven6_10102.json] 아직까지는 이곳에 흥미로운 게 많소. 발견의 기쁨은 내 공복을 진정시켜 주지. 그대도 마찬가지요.|So far, I have yet to run out of curiosities to find here. The joy of discovery sates my hunger, and so do you.
+11815||PersonVoice#Voice_Yisang_Starb_10107.json] 하앗…|Haah...
+11816||PersonVoice#Voice_Yisang_Starb_10107.json] 자, 이제 항해의 끝이 얼마 남지 않았네. 좀 더 나아가보세!|The end of this voyage rises upon the horizon. Let us persevere but for a little longer!
+11817||PersonVoice#Voice_Yisang_Starb_10107.json] 해냈소! 이제 이 배를 쉽게 넘볼 해적도 고래도 몇 없을테지. 흐흠, 흡족하군.|We have done it! Not many pirates or Whales shall dare attack this vessel again. Hm hm, this was quite the satisfactory outcome.
+11818||PersonVoice#Voice_Yisang_Starb_10107.json] 하하… 내 항해가… 여기서… 끝나는 건가…|Ha ha ha... Thus does my... voyage... end...
+11819||PersonVoice#Voice_Yisang_Starb_10107.json] …선체에 파손된 부위가 너무 많소… 정박하고, 수리하세. …그리고 다시 호수로 떠나면 될 것이오.|... Our vessel is far too damaged to continue... Let us anchor and repair. ... Then we shall set sail to the Lake once again.
+11820||PersonVoice#Voice_Yisang_Starb_10107.json] 내가 시범을 보이지.|Please, allow me to demonstrate.
+11821||PersonVoice#Voice_Yisang_Starb_10107.json] 흠! 제법 지쳤나보오.|Hm! They appear to be quite spent.
+11822||PersonVoice#Voice_Yisang_Starb_10107.json] 쳇, 기름도 나오지 않는 놈이구료.|Tsk. There is no oil to be gleaned from this fellow.
+11823||PersonVoice#Voice_Yisang_Starb_10107.json] 선장이 위험한가?|Is the Captain in danger?
+11824||PersonVoice#Voice_Yisang_Starb_10107.json] 작살, 놓치지 말게.|Do not let go of the harpoon.
+11825||PersonVoice#Voice_Yisang_Starb_10107.json] 으흠… 내 평생 배에만 있어서. 크흠.|Ahem... I have very seldom set my foot outside the ship... Do understand.
+11826||PersonVoice#Voice_Yisang_Starb_10107.json] 이 정도 일은 우습소. 삼등 항해사도 능히 해내겠군.|This was a trivial endeavor. Even a third mate should have little trouble accomplishing this task.
+11827||PersonVoice#Voice_Yisang_Starb_10107.json] 키만 잡고 있을 때가 아니구료.|It appears that I must let go of the helm and join the fray.
+11828||PersonVoice#Voice_Yisang_Starb_10107.json] 기어이 나까지 나서야 하는 것인가…! 좋소, 내 작살을 들도록 하지!|Thus I must step up to the occasion, then...! Very well. Wield the harpoon I shall!
+11829||PersonVoice#Voice_Yisang_Starb_10107.json] 이상이라 부르게. 피쿼드호의 일등 항해사를 맡고 있지.|You may call me Yi Sang. I am the first mate of the Pequod.
+11830||PersonVoice#Voice_Yisang_Starb_10107.json] 밤새 안녕하셨는가. 오늘 호수는 제법 잔잔한 편일세. 바깥의 경치를 좀 즐기는 것은 어떤가 하네만.|I pray that the waves did not keep you up at night. The Lake remains tranquil today... Perhaps we may be availed a brief moment to savor its sights for once.

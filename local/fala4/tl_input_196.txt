@@ -1,0 +1,96 @@
+19076||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 축축하게 젖은 가죽에서 털들이 녹아내리고 있다.|Patches of hair are liquefying and melting off from the chemical-soaked leather.
+19077||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 코를 찌르는 독한 냄새가 난다.|A sharp stench stings the nose.
+19078||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 약품처럼 보이는 액체가 찰랑거린다. 누가봐도 피부에 닿으면 안될 것 같다.|Chemical fluid is swishing inside. Touching it will clearly have... adverse effects for the skin.
+19079||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 시큼한 냄새가 나는 액체다.|The liquid smells sour.
+19080||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 유난히 팽팽하게 당겨진 가죽들이 걸려있다.|These patches of leather are pulled taut.
+19081||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뭔가 특수한 처리를 더 하고 있는 걸까?|Are they going through some sort of special treatment process?
+19082||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 피 같은 액체와 각종 불순물들이 녹아있다.|A vat of fluid, with various half-melted dregs mixed into blood.
+19083||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가끔씩 거품이 올라온다.|Bubbles lazily float up the viscous fluid before popping.
+19084||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 기름기 가득한 액체 사이로 하얀 지방들이 눈에 들어온다.|I notice a white layer of fat floating among the greasy fluid.
+19085||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …바닥이 녹은건가?|... Did something melt the floor?
+19086||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 구역질 나는 악취가 올라온다.|This smells disgusting.
+19087||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 형체를 알아보기 힘든 살점 비슷한 것들이 둥둥 떠다닌다.|Unrecognizable bits of flesh are floating about the fluid.
+19088||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 한눈에 봐도 독한 성분인 것 같다.|This is clearly a cocktail of highly toxic chemicals.
+19089||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …머리카락 같은 것들이 잔득 박힌 희멀건 덩어리를 본 것 같다.|... Caught the briefest glimpse of a large, white glob with hair growing out of it.
+19090||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고객이야? 기다려, 회계 장부 좀 가지고 올게.|Are you a customer? Wait here, let me get my ledger.
+19091||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 상류층 고객의 냄새 시향 중. 부자 이방인들은 언제든 환영이니까요.|Getting a whiff of a high-Prestige customer's fragrance. Loaded strangers are always welcome.
+19092||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 걸쭉한 검은 피들이 등구멍에 서서히 차오른다.|Viscous, black blood wells up in each of its pores.
+19093||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 얼기설기 기워진 가죽 틈새로 살점들이 삐져나왔다.|There are bits of meat sticking out of the haphazardly patched-up leather.
+19094||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 부서진 머리통에 머리카락 몇 가닥이 아직 붙어있다.|A skull smashed in like a watermelon. There are small patches of hair still attached to it.
+19095||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 오랜만에 보는 귀한 가죽이었어요. 잘 관리해주시길.|It was an honor to work on such precious leather after such a long drought of it. Take good care of it.
+19096||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 무언가를 움켜쥔 듯이 손바닥이 안으로 말려 있다.|The palm is curled inward, as though still clutching something.
+19097||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <빨리 도망치자. 고치가 죽을 때 내던 소리를 듣고… 쫓아오고 있는 것 같아.>|<We need to get away. I think it caught the cocoon's death cry... and now it's following the sound straight back to us.>
+19098||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 도망치려고? 목소리라도 도와주지 않는 이상, 울부짖는 자를 따돌릴 순 없을 걸?|Trying to run? You won't shake the Wailer unless the Voice puts wind at your back.
+19099||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <가까이 온 것 같아. 화장실이든 위층이든 빨리 도망쳐, 뫼르소!>|<It's close. I don't care if we arrive at the restroom or the upper floor—we need to go <i>now</i>. Meursault! Do your thing!>
+19100||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 알겠습니다.|It will be done.
+19101||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뒤섞인 고깃덩이 사이에서 눈알을 발견했다.|Found some eyeballs buried between chunks of meat.
+19102||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이다지도 완벽한 황금 오트쿠틔르… 이방인에게 넘겨줄 순 없어요. 모든 얼굴의 욕심 최대 상승.|What a perfectly crafted Haute Couture of gold... Can't let you strangers have it. ALL FACES MAXIMUM GREED LEVEL REACHED.
+19103||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 만드는 이마저 달려드는 것은 예상 밖이구료.|It was a most unexpected development to fall under the assault of the artisan.
+19104||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 몸을 흔들면 구멍에서 사람이 나온다니… 대호수에만 없다 뿐이지, 하는 짓이 구멍 손바닥 고래랑 똑같네요…|Okay, so when it shakes its body, uh... <i>people</i> crawl out of its hole. Its behavior is surprisingly similar to the Whale of the Porous hand, just not in its usual habitat of the Great Lake.
+19105||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <그래도 그 고래는 서로 연결되어있기라도 했지…>|<At least those tiny Mermaids were bound to the Whale...>
+19106||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 전략을 수정하시겠습니까?|Will you adjust your strategy?
+19107||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <갑자기 우리쪽으로 뛰어오는 것만이라도 조심해보자.>|<Let's try to watch out when it's getting ready to charge at us.>
+19108||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <이동에 방해되지 않게… 등에서 나온 자들도 빠르게 처리하고.>|<And... yeah, quickly dispatch its minions that crawled out of its back.>
+19109||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …진한 기름 냄새가 풍긴다. 고소하다고 느껴지진 않는다.|...A strong oily smell hangs in the air. There's nothing appetizing about it.
+19110||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 탁하고 오묘한 색의 기름이 끓어오르듯이 자글거린다.|Murky, strange-colored oil crackles and spits as though on the verge of boiling over.
+19111||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 기름에 절여진 가죽이 말라가고 있다.|The oil-soaked leather is drying out.
+19112||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 지나다니는 그림자들 사이로 대화 소리가 들려온다.|Voices can be heard among the passing shadows.
+19113||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가죽 하나 잃어버렸다고 어디까지 가려고?|How far are you gonna go over one lousy hide?
+19114||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 슬슬 올라갈 시즌인데… 그냥 아무 가죽이나 데려가면 안 돼?|The season's gonna change soon and we're due to move up anyway... can't we just bring any old leather?
+19115||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 단호한 고객|Adamant Customer
+19116||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 절대 안 돼.|Nope. Definitely not.
+19117||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가죽은 길들이면 길들일수록… 나한테 맞춰져.|The more you break leather in... the more it molds itself to you.
+19118||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 색도, 주름도, 움직임도, 모두 닮아간다고!|The color, the creases, even the way it moves... it all starts to take after me!
+19119||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 저기 있는 가죽들은… 나한테 길들여진 게 아냐.|Those leathers over there... they haven't been broken in to me.
+19120||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 희미한 형체의 고객 한 명이 같은 자리를 계속 서성이고 있다.|A hazy figure of a customer keeps lingering in the same spot.
+19121||RPGSystem#rpg-loc-dialogue-route-a.json] <예상은 했지만, 여기로 돌아오는구나.>|<Had a feeling this would happen... and sure enough, we're back here.>
+19122||RPGSystem#rpg-loc-dialogue-route-a.json] <상황에 따라… 고려 정도만 해보자.>|<Yeah... let's not make a habit of it. But if things get bad enough, we should at least remember it's an option.>
+19123||RPGSystem#rpg-loc-dialogue-route-a.json] <그러고 보니 뫼르소만 죽었는데 왜 우리도 화장실로 돌아오는 걸까.>|<Wait, this makes me wonder... Why do the rest of us get dragged back to the restroom when Meursault is the only one who dies?>
+19124||RPGSystem#rpg-loc-dialogue-route-a.json] 상징의 주체가 저이기 때문입니다. 이에 따라 제가 사망할 경우, 관리자님과 수감자 모두 이 화장실로 돌아오게 되는 듯합니다.|Because I am the subject to which the symbol is bound. Therefore, when I die, it would appear that both you and the other Sinners are returned to this restroom as well, Manager.
+19125||RPGSystem#rpg-loc-dialogue-route-a.json] 그럼 우리는 일종의 유령이라는 거네?|So what, that makes us some kinda ghosts now?
+19126||RPGSystem#rpg-loc-dialogue-route-a.json] …그것과는 다르지만, 그렇게 이해해도 무관하다.|... That would be an inaccurate classification. However, if it aids your understanding, there is no practical issue with regarding it as such.
+19127||RPGSystem#rpg-loc-dialogue-route-a.json] 그런 원리라면… 필요에 따라서 이용할 수 있을지도 모르겠군.|If that is indeed how this mechanism operates... then it may have tactical value, depending on the circumstances.
+19128||RPGSystem#rpg-loc-dialogue-route-a.json] 이용이라면…|Tactical value...?
+19129||RPGSystem#rpg-loc-dialogue-route-a.json] 반드시 해우소로 귀환한다는 점이겠구료.|Indeed. What bears note is that, regardless of circumstance, our course appears certain to return us unto this privy.
+19130||RPGSystem#rpg-loc-dialogue-route-a.json] 그래, 벗어나기 힘든 상황이거나 길을 잃었을 때… 유용하게 사용할 수 있겠지.|Precisely. If we are cornered beyond reasonable escape, or our route becomes irretrievably lost... this could serve as a means of withdrawal.
+19131||RPGSystem#rpg-loc-dialogue-route-a.json] 되도록… 피하고 싶은 방법이네요.|I'd really prefer if we... didn't start treating this like an escape route.
+19132||RPGSystem#rpg-loc-dialogue-route-a.json] 그런 자는… 화장실로 오기 전까지 한 번도 보지 못하였소.|Such a being... had never once entered my sight prior to our arrival at the restroom.
+19133||RPGSystem#rpg-loc-dialogue-route-a.json] <어…?>|<Huh...?>
+19134||RPGSystem#rpg-loc-dialogue-route-a.json] …혹시 피곤하면, 좀 더 쉬다 가, 단테. 뫼르도 이미 찾았고…|...Dante, why don'tcha rest a little longer if you're outta juice? We found Meur already, so...
+19135||RPGSystem#rpg-loc-dialogue-route-a.json] 걱정스러운 표정으로 내 시곗바늘을 살핀 수감자들이 멀어지자마자, 곧장 뫼르소에게 상황을 물어봤다.|The Sinners kept casting worried glances at the hands of my clock. Once they finally moved away, I went straight to Meursault and asked him what was going on.
+19136||RPGSystem#rpg-loc-dialogue-route-a.json] <뫼르소. 어떻게 된 거야? 혹시 너도…>|<What the hell happened just now, Meursault? Do you—>
+19137||RPGSystem#rpg-loc-dialogue-route-a.json] …저는 기억하고 있습니다, 관리자님.|... I do remember, Manager.
+19138||RPGSystem#rpg-loc-dialogue-route-a.json] 물음에 답하자면, 수감자들이 기억하지 못하는 이유는 돌아왔기 때문입니다.|To answer your question, the reason the other Sinners have no memory of what occurred is because we were "returned."
+19139||RPGSystem#rpg-loc-dialogue-route-a.json] <돌아왔다는 건…?>|<"Returned"...?>
+19140||RPGSystem#rpg-loc-dialogue-route-a.json] 백화점이 관리자님께서 어떤 선택을 하기 전으로 리셋되었음을 의미합니다.|It means that the Grand Magasin was reset to a point before a particular choice was made.
+19141||RPGSystem#rpg-loc-dialogue-route-a.json] <난데없이 나타나서 뫼르소를 죽였어. 도망치지도 못하게 길도 막아버렸고…>|<It just appeared out of nowhere and killed Meursault. It even blocked off the way out so we couldn't escape...>
+19142||RPGSystem#rpg-loc-dialogue-route-a.json] 이는 대부분의 존재가 인식할 수 없는 현상입니다만, 저와 관리자님은 예외인 것 같군요.|This appears to be a phenomenon that most are incapable of perceiving. You and I, however, appear to be exceptions.
+19143||RPGSystem#rpg-loc-dialogue-route-a.json] <그래, 그건 그렇다 치고… 대체 왜 리셋된 건데…?>|<Okay, fine, putting that aside... what caused the reset in the first place...?>
+19144||RPGSystem#rpg-loc-dialogue-route-a.json] 관리자님이 다른 선택을 하길 원했을 것입니다.|It likely wanted you to make a different choice.
+19145||RPGSystem#rpg-loc-dialogue-route-a.json] …이전의 선택은 사슬에 묶여있지 않았기에.|... Because the choice you made before was not bound in chains.
+19146||RPGSystem#rpg-loc-dialogue-route-a.json] 나가기 전에 잠시 생각을 정리하는 편이 좋을 것 같다.|I should probably take a moment to collect my thoughts before we head out.
+19147||RPGSystem#rpg-loc-dialogue-route-a.json] 무엇 때문에 그자가 나타났는지…|Why did that entity appear...
+19148||RPGSystem#rpg-loc-dialogue-route-a.json] 왜 되돌아왔는지…|... and why were we sent back...?
+19149||RPGSystem#rpg-loc-dialogue-route-a.json] <백화점에 왜 그런 게 돌아다니는 거야…?>|<Why would something like that even be wandering around a department store...?>
+19150||RPGSystem#rpg-loc-dialogue-route-a.json] …뜬금없이 무슨 말씀을 하시는 건가요?|... Sorry, what are we talking about?
+19151||RPGSystem#rpg-loc-dialogue-route-a.json] <아까 마주쳤던 그…>|<You know, that entity we just encountered, it was...>
+19152||RPGSystem#rpg-loc-dialogue-route-a.json] 뒤틀림도 환상체도 아니었다.|... was neither a Distortion nor an Abnormality.
+19153||RPGSystem#rpg-loc-dialogue-route-a.json] 하지만 그것을 정말 이렇게 불러도 괜찮은 걸지, 확신이 서지 않는다.|And yet... I couldn't say with any confidence whether I should really call it...
+19154||RPGSystem#rpg-loc-dialogue-route-a.json] 거참, 괜히 궁금해지게 말을 하다가 마네.|Oh, come on. You can't get us all curious and then just trail off like that, Manager Bud.
+19155||RPGSystem#rpg-loc-dialogue-route-a.json] <…사람.>|<... human.>
+19156||RPGSystem#rpg-loc-dialogue-route-a.json] <등에 못이 잔뜩 박혀있던 괴물을 말하는 거야.>|<I'm talking about that monster with all those nails driven into its back.>
+19157||RPGSystem#rpg-loc-dialogue-route-b.json] 지금은… 안 돼…|Not... now...
+19158||RPGSystem#rpg-loc-dialogue-route-b.json] 운명이… 정렬되었을 때는…|When fate... has fallen into alignment...
+19159||RPGSystem#rpg-loc-dialogue-route-b.json] 신발과 눈을 맞추고 있다.|The eyes are fixed upon the shoes.
+19160||RPGSystem#rpg-loc-dialogue-route-b.json] 슬픔이 담겨있던 울음소리는 더 이상 들리지 않는다.|The sound of sorrowful weeping is heard no more.
+19161||RPGSystem#rpg-loc-dialogue-route-b.json] 다시 꿰매기 어려울 정도로 찢겨졌다.|Torn too badly to be stitched back together.
+19162||RPGSystem#rpg-loc-dialogue-route-b.json] <다행히 뿌이도 함께 들어올 수 있는 것 같네.>|<Phew, looks like Pwie's able to come in here with the rest of us.>
+19163||RPGSystem#rpg-loc-dialogue-route-b.json] <묘하게… 얌전하기도 하고.>|<... Is it just me, or do they seem somewhat less... hyper?>
+19164||RPGSystem#rpg-loc-dialogue-route-b.json] 샘터에 들어온 뿌이는 밖에서와는 달리 조금 긴장한 모습이다.|Pwie's childlike curiosity seems to have been dampened and replaced with mild anxiety ever since entering the Fount.
+19165||RPGSystem#rpg-loc-dialogue-route-b.json] 아마… 사람이 너무 많아서 그런 것 같다.|Hmm... Must be because it's too crowded in here.
+19166||RPGSystem#rpg-loc-dialogue-route-c.json] … 화장실이지.|... It's the restroom.
+19167||RPGSystem#rpg-loc-dialogue-route-c.json] … (말은 없지만 미소만큼은 여전히 유지하고 있다)|... (She says nothing more, but her smile lingers still.>
+19168||RPGSystem#rpg-loc-dialogue-route-c.json] … 별을…|... Star...
+19169||RPGSystem#rpg-loc-dialogue-route-c.json] … (말 없이 나를 바라보고 있다, 얼굴에 잔잔한 미소는, 우리를 우호적으로 생각하고 있음을 알 수 있다)|... (She gazes at me without a word. The serene smile on her face suggests that she regards us favorably.)
+19170||RPGSystem#rpg-loc-dialogue-route-c.json] 너희가 원하는 길을 찾으려면 간수를 쓰러뜨려야 해.|To find the path you want... You have to defeat the Warden.
+19171||RPGSystem#rpg-loc-dialogue-route-c.json] 몇 번의 죽음을 겪은 후, 나가려던 우리를 누군가 불러세웠다.|Just as we were about to head back outside after dying for the nth time, a voice stopped us.

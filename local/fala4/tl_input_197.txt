@@ -1,0 +1,96 @@
+19172||RPGSystem#rpg-loc-dialogue-route-c.json] …조금 더 편한 길이 있어. 그곳으로… 갈래…?|... There is... an easier way. Do you want... to take it?
+19173||RPGSystem#rpg-loc-dialogue-route-c.json] 가라앉으면… 안전할 거야…|It will be safe... if you sink...
+19174||RPGSystem#rpg-loc-dialogue-route-c.json] 이걸 두르고… 어두운 곳으로 가…|Put this on... and head to the dark place...
+19175||RPGSystem#rpg-loc-dialogue-route-c.json] 푸른 여인은 뫼르소에게 목도리를 둘러주었다.|The woman in blue wrapped the scarf around Meursault.
+19176||RPGSystem#rpg-loc-dialogue-route-c.json] 고통은… 변함없고… 침묵할 거야…|The pain... won't change... and will be silent...
+19177||RPGSystem#rpg-loc-dialogue-route-c.json] 이젠… 괜찮을 거야…|It's... going to be okay, now...
+19178||RPGSystem#rpg-loc-dialogue-route-c2.json] …그러고 보니, 우리를 쫓아오던 저자에게서 빛나던 것이 말끔히 사라졌지 않는가? 지금이라면… 쓰러뜨릴 수 있을지도 모른다네!|... Ah, behold! Hath not the radiance vanished entirely from the one who pursueth us? Perchance 'tis the moment we may fell the foe!
+19179||RPGSystem#rpg-loc-dialogue-route-c2.json] 그렇긴 하지만… 그냥 지나치는 것도 방법이겠죠.|True... Though simply moving on is an option, too.
+19180||RPGSystem#rpg-loc-dialogue-route-c2.json] &+? !+@ *! &&@ !@$?%+ ?@@#|&+? !+@ *! &&@ !@$?%+ ?@@#
+19181||RPGSystem#rpg-loc-dialogue-route-c2.json] ^^# $*+ % @?# +&?& $*^@|^^# $*+ % @?# +&?& $*^@
+19182||RPGSystem#rpg-loc-dialogue-route-c2.json] %! ##+% !!* %%!# &!$+$|%! ##+% !!* %%!# &!$+$
+19183||RPGSystem#rpg-loc-dialogue-route-c2.json] $$%! @++ !#* +? %$$ ^^+&|$$%! @++ !#* +? %$$ ^^+&
+19184||RPGSystem#rpg-loc-dialogue-route-c2.json] ?#@& #!! # *! %@ *$* @^@ @%^$# @%$ !##@ @!#?& #*?#|?#@& #!! # *! %@ *$* @^@ @%^$# @%$ !##@ @!#?& #*?#
+19185||RPGSystem#rpg-loc-dialogue-route-c2.json] !+% %@@ *#&%? @% !%% ^+! @!& &#* %#+ +#* #^*& ?#+&@?|!+% %@@ *#&%? @% !%% ^+! @!& &#* %#+ +#* #^*& ?#+&@?
+19186||RPGSystem#rpg-loc-dialogue-route-c2.json] *@ ?&# #&+& $ *&*% ?& ?%# ?!@!|*@ ?&# #&+& $ *&*% ?& ?%# ?!@!
+19187||RPGSystem#rpg-loc-dialogue-route-c2.json] ? &#& !?^ #$ @!^ ***$|? &#& !?^ #$ @!^ ***$
+19188||RPGSystem#rpg-loc-dialogue-route-c2.json] $+? *%+%@ %? $+^!|$+? *%+%@ %? $+^!
+19189||RPGSystem#rpg-loc-dialogue-route-c2.json] #!$! $?* %*^% @#+ *#@!|#!$! $?* %*^% @#+ *#@!
+19190||RPGSystem#rpg-loc-dialogue-route-c2.json] @^&% ? +? $#% *%@?|@^&% ? +? $#% *%@?
+19191||RPGSystem#rpg-loc-dialogue-route-c2.json] !*# % !@ ???& $?$$|!*# % !@ ???& $?$$
+19192||RPGSystem#rpg-loc-dialogue-route-c2.json] @&? ?! ?$+^ ^@^$ #!& ^@&|@&? ?! ?$+^ ^@^$ #!& ^@&
+19193||RPGSystem#rpg-loc-dialogue-route-c2.json] @$! ^?? ^&* ?*& $!%|@$! ^?? ^&* ?*& $!%
+19194||RPGSystem#rpg-loc-dialogue-route-c2.json] @*$ #+$ $&%? &*% # *%$? +? && ^%!*$|@*$ #+$ $&%? &*% # *%$? +? && ^%!*$
+19195||RPGSystem#rpg-loc-dialogue-route-c2.json] *!& *?+ +?*?|*!& *?+ +?*?
+19196||RPGSystem#rpg-loc-dialogue-route-c2.json] ?+ &$ ?%@& @#& ^!% +@ *! *%+ ^&& ?$%@+|?+ &$ ?%@& @#& ^!% +@ *! *%+ ^&& ?$%@+
+19197||RPGSystem#rpg-loc-dialogue-route-c2.json] ?% ^## +! +??% ^ *^^ #+% ?@#+!|?% ^## +! +??% ^ *^^ #+% ?@#+!
+19198||RPGSystem#rpg-loc-dialogue-route-c2.json] ?#%& ?$ ^^$ %*& $^ &% $*#&? +! ^*+$ *+ !**^|?#%& ?$ ^^$ %*& $^ &% $*#&? +! ^*+$ *+ !**^
+19199||RPGSystem#rpg-loc-dialogue-route-c2.json] #@+ %@!? &^ #%@ @# %! *$ +$ ^$ *$+?!|#@+ %@!? &^ #%@ @# %! *$ +$ ^$ *$+?!
+19200||RPGSystem#rpg-loc-dialogue-route-c2.json] %%!% ### &&? *@& @! *%? #@! ?*! *#!|%%!% ### &&? *@& @! *%? #@! ?*! *#!
+19201||RPGSystem#rpg-loc-dialogue-route-c2.json] !!@ ^?$ #%& ^+@^ ?%&& !@@ &+$+ &!@ #!%& ?*$!+$|!!@ ^?$ #%& ^+@^ ?%&& !@@ &+$+ &!@ #!%& ?*$!+$
+19202||RPGSystem#rpg-loc-dialogue-route-c2.json] ^+& $!@ ##^ $$# %?$*? &#!$ +$?|^+& $!@ ##^ $$# %?$*? &#!$ +$?
+19203||RPGSystem#rpg-loc-dialogue-route-c2.json] ?$?! ?@?%|?$?! ?@?%
+19204||RPGSystem#rpg-loc-dialogue-route-c2.json] !&$ ?&@? #! +! ^& @&@* +^*! #@+%|!&$ ?&@? #! +! ^& @&@* +^*! #@+%
+19205||RPGSystem#rpg-loc-dialogue-route-c2.json] ?+!* ?%# $@ +% ^+ ?$!$@ *!|?+!* ?%# $@ +% ^+ ?$!$@ *!
+19206||RPGSystem#rpg-loc-dialogue-route-c2.json] $?^$$ ?? ?@* + ^+ $%$@ +#|$?^$$ ?? ?@* + ^+ $%$@ +#
+19207||RPGSystem#rpg-loc-dialogue-route-c2.json] %% ?^ @^^?%% ?# ^$ ^^!|%% ?^ @^^?%% ?# ^$ ^^!
+19208||RPGSystem#rpg-loc-dialogue-route-c2.json] +*^* $ ^## $$# &% *!#@ !^%* $#+ %&+$|+*^* $ ^## $$# &% *!#@ !^%* $#+ %&+$
+19209||RPGSystem#rpg-loc-dialogue-route-c2.json] @+* %?% ? %! %@#|@+* %?% ? %! %@#
+19210||RPGSystem#rpg-loc-dialogue-route-c2.json] @%*^ &!?$+|@%*^ &!?$+
+19211||RPGSystem#rpg-loc-dialogue-route-c2.json] ^^%$ #%*?& ??%?|^^%$ #%*?& ??%?
+19212||RPGSystem#rpg-loc-dialogue-route-c2.json] %@ &+?# @^$# ^% +#? +@&^ ??|%@ &+?# @^$# ^% +#? +@&^ ??
+19213||RPGSystem#rpg-loc-dialogue-route-c2.json] *#@ + @+ ??$ @ +&# !^%^|*#@ + @+ ??$ @ +&# !^%^
+19214||RPGSystem#rpg-loc-dialogue-route-c2.json] #&^ ?*! #$% *@^ &# ?+@ *^+$%|#&^ ?*! #$% *@^ &# ?+@ *^+$%
+19215||RPGSystem#rpg-loc-dialogue-route-c2.json] +^ &$% @? ?* !% !#^ !!#& +&!*|+^ &$% @? ?* !% !#^ !!#& +&!*
+19216||RPGSystem#rpg-loc-dialogue-route-c2.json] $*#& !* @$#$ *? +$ %#^ ^% *#@&^%#|$*#& !* @$#$ *? +$ %#^ ^% *#@&^%#
+19217||RPGSystem#rpg-loc-dialogue-route-c2.json] ** &#@ &?&% *? *^*^* ?&+% *+ !#*% ?%@ @ %%$@|** &#@ &?&% *? *^*^* ?&+% *+ !#*% ?%@ @ %%$@
+19218||RPGSystem#rpg-loc-dialogue-route-c2.json] *??@ %* #&+ &&^ ?!& ^%$ %@@&|*??@ %* #&+ &&^ ?!& ^%$ %@@&
+19219||RPGSystem#rpg-loc-dialogue-route-c2.json] ^ #?# $??& ?+* %*& *@+ %^ ^*&! #$ !@! ?$^|^ #?# $??& ?+* %*& *@+ %^ ^*&! #$ !@! ?$^
+19220||RPGSystem#rpg-loc-dialogue-route-c2.json] ##&## ?@&^|##&## ?@&^
+19221||RPGSystem#rpg-loc-dialogue-route-c2.json] 수감자들이 나의 판단을 기다리고 있다.|The Sinners all look to me for judgment.
+19222||RPGSystem#rpg-loc-dialogue-route-c2.json] 두 번의 끝을 모두 기억하고 나니… 세번째가 두렵기보단 궁금해지는구료.|With endings both returned to my memory, I ruminate upon what the third might hold, and find myself becoming more curious... than afraid.
+19223||RPGSystem#rpg-loc-dialogue-route-c2.json] 그간 고생 많았소, 단테. 이제는 함께 맞설 수 있을 테지.|It must have been a grueling struggle to bear it all without us. Now, let us stand together against yet another trial.
+19224||RPGSystem#rpg-loc-dialogue-route-c2.json] 이상에게 힘들었던 일들을 가볍게 토로했다.|I took a moment to briefly vent about the things we'd gone through to Yi Sang.
+19225||RPGSystem#rpg-loc-dialogue-route-c2.json] 파우스트의 판단은… 결과적으로 틀리지 않았군요.|Faust's judgment was, ultimately... correct.
+19226||RPGSystem#rpg-loc-dialogue-route-c2.json] 저와는 다르게… 말이죠.|Unlike... mine...
+19227||RPGSystem#rpg-loc-dialogue-route-c2.json] 지금은… 가만히 두는 편이 좋을 것 같다.|... I should probably leave her alone for now.
+19228||RPGSystem#rpg-loc-dialogue-route-c2.json] 하마터면 이 멋진 모험담을 홀라당 잊어버릴 뻔했다니… 무시무시한 일이 아닐 수가 없군…|Fie! To think that such a tale of adventure was almost forgotten whole...! Forsooth, there could be no greater horror...
+19229||RPGSystem#rpg-loc-dialogue-route-c2.json] 준비가 끝나면, 다시 나아가세나. 관리자 나리라면 반드시 가장 높은 곳에 닿을 수 있을 것이니!|Simply say the word, and we shall sally forth once again toward the peak. I have faith in thee, Manager Esquire!
+19230||RPGSystem#rpg-loc-dialogue-route-c2.json] 돈키호테가 힘차게 의지를 다졌다.|Don Quixote proclaims confidently with redoubled determination.
+19232||RPGSystem#rpg-loc-dialogue-route-c2.json] …잘린 것이 다시 붙었나. 뭐, 생각보다 볼만한 그림이었다.|... What was severed has been patched together again. Well, I think I appreciated it more than I'd have thought I would.
+19233||RPGSystem#rpg-loc-dialogue-route-c2.json] 아라야가 동의하듯 웅웅거린다.|Araya rattles affirmatively.
+19234||RPGSystem#rpg-loc-dialogue-route-c2.json] 본심을 감추고, 내보이지 않으려는 건 과거의 저와 같지만… 뫼르소 씨는 어딘가 다른 것 같아요.|I see a bit of my old self in Meursault—burying his true feelings, hiding them from others... But there are differences, I think.
+19235||RPGSystem#rpg-loc-dialogue-route-c2.json] 의미가 없음에도 멈추지 않으려면, 도대체 어떤 심정을 가지고 있어야할지…|What state must his heart be in, to continue moving despite the futility of it all?
+19236||RPGSystem#rpg-loc-dialogue-route-c2.json] 홍루와 뫼르소에 관한 이야기를 나눴다.|Had a discussion about Meursault with Hong Lu.
+19237||RPGSystem#rpg-loc-dialogue-route-c2.json] 그 좀 괜찮냐? 열차 탔을 때도 오늘보단 덜 되감았던 거 같은데.|You alright, mate? I don't think you've ever had to rewind this much, even back inside that hellish meat train.
+19238||RPGSystem#rpg-loc-dialogue-route-c2.json] 처음엔 아프다고 울고 불고 난리를 피우더니… 어떻게 다 중간이 없냐, 중간이.|I still remember how you used to squirm and thrash on the ground, screamin' about how much it hurt, and now you ain't even twitchin'. You're always all or nothin', eh?
+19239||RPGSystem#rpg-loc-dialogue-route-c2.json] 히스클리프가 내 시계머리를 한동안 두드렸다.|Heathcliff tapped on my clock head for a while.
+19240||RPGSystem#rpg-loc-dialogue-route-c2.json] …왜 안 말해줬는진 알겠지만, 뭔가 마음에 안드네요.|... I get why you couldn't tell us about the loops, but hmm...
+19241||RPGSystem#rpg-loc-dialogue-route-c2.json] 아니, 제가 질문이 많았던 건 맞는데… 그렇게 귀찮다는 듯이…|... Okay, did you <i>have</i> to brush me off like that every single time, though? I know I ask a lot of questions, but it was like you just didn't want to deal with—
+19242||RPGSystem#rpg-loc-dialogue-route-c2.json] 이스마엘에게 핀잔을 들었다.|Got told off by Ishmael.
+19243||RPGSystem#rpg-loc-dialogue-route-c2.json] 기억나니까 좀 억울하긴 한데… 후훗. 그래도 나 제법 잘했더라?|Aside from feeling like I missed out due to the memory shenanigans... Hey, I wasn't half bad here, huh?
+19244||RPGSystem#rpg-loc-dialogue-route-c2.json] 활약할 기회가 한 번 뿐이었던 건 아쉽지만, 그래도 나 좀 쩔었다~ 라는 느낌이거든.|Kinda wish I got to do more here than just one floor, but... hey, I was still pretty smooth~ huh?
+19245||RPGSystem#rpg-loc-dialogue-route-c2.json] 뿌듯해 하는 로쟈를 칭찬했다.|Praised Rodya, who seemed pretty satisfied with herself.
+19246||RPGSystem#rpg-loc-dialogue-route-c2.json] 결국 저분은… 무엇이었을까요? 저희에게 도움을 준 건 맞지만…|So... I wonder what her deal was? She did help us at the end of the day, but...
+19247||RPGSystem#rpg-loc-dialogue-route-c2.json] 데미안을 만났을 때보다 더 아리송한 기분이에요.|... I feel even more mystified than I was when I met Demian.
+19248||RPGSystem#rpg-loc-dialogue-route-c2.json] 싱클레어는 여전히 샘터의 여인에 대해 궁금한 것이 많아 보인다.|Sinclair still seems curious about the lady of the Fount.
+19249||RPGSystem#rpg-loc-dialogue-route-c2.json] 고된 작전이었을 텐데, 훌륭하게 완수하셨군요.|You've done excellent work so far, despite the demanding circumstances.
+19250||RPGSystem#rpg-loc-dialogue-route-c2.json] 역시 관리자님이십니다.|I would expect no less from our Executive Manager.
+19251||RPGSystem#rpg-loc-dialogue-route-c2.json] 처음 만났을 때에 비해, 오티스의 낯간지러운 칭찬들이 부담스럽게 느껴지지 않는 것 같다.|Outis's over-the-top praise doesn't make me feel as uncomfortable as it used to at the start of our journey.
+19252||RPGSystem#rpg-loc-dialogue-route-c2.json] 몸이 찌뿌둥한 게… 지치는구만.|Boy, I'm sore all over... I'm all out of gas.
+19253||RPGSystem#rpg-loc-dialogue-route-c2.json] 돌아가면, 좀 쉬자고. 관리자 양반도 고생이 이만저만이 아니었잖아.|Let's take it easy once we're out of here. You've gone through hell and back yourself, haven't you? You deserve the rest, Manager Bud.
+19254||RPGSystem#rpg-loc-dialogue-route-c2.json] 그레고르와 함께 회사에 대해 투덜거렸다.|Groused about corporate with Gregor.
+19255||RPGSystem#rpg-loc-dialogue-route-c2.json] 이제 위로 올라갈 수 있겠군요.|Now, we may ascend.
+19256||RPGSystem#rpg-loc-dialogue-route-c2.json] 뫼르소는 여전히 담담해 보인다.|Meursault is as unflappable as ever.
+19257||RPGSystem#rpg-loc-dialogue-route-c2.json] 샘터의 문, 이 너머에 무엇이 있는지 영영 알 수 없을 것 같다.|... I don't think we'll ever get to learn what's beyond these doors of the Fount.
+19258||RPGSystem#rpg-loc-dialogue-route-c2.json] 붉은 코트. 불타는 시계 머리.|Red coat. Clock head on fire.
+19259||RPGSystem#rpg-loc-dialogue-route-c2.json] '나'의 모습이 거울에 비쳐 보인다.|It's "me" in the mirror.
+19260||RPGSystem#rpg-loc-dialogue-route-c2.json] 르누아르, 르루주, 그 어느 쪽의 패션으로도 보이지 않는다.|Their style doesn't resemble that of Le Rouge, nor that of Le Noir.
+19261||RPGSystem#rpg-loc-dialogue-route-c2.json] 이 마네킹은 왜 우리를 쫓아온 걸까.|... Why did this Mannequin pursue us?
+19262||RPGSystem#rpg-loc-dialogue-route-c2.json] 아이들은 공원에서 물수제비를 뜨는 경험 통조림을 먹고 있었어. 우리는 그 풍경을 말없이 지켜봤지.|Children in the park were eating Canned Experiences of skipping stones. We watched them in silence.
+19263||RPGSystem#rpg-loc-dialogue-route-c2.json] 당신 앞에선… 그 모든 걸 설명하려 하지 않아도 됐으니까. 이유를 붙이려 노력하지 않아도 됐으니까.|With you... I didn't have to try to explain. Didn't have to torture myself trying to come up with justifications for all that...
+19264||RPGSystem#rpg-loc-dialogue-route-c2.json] 그 모든 고약함과, 가혹함에 대해서.|... nastiness and heartlessness.
+19265||RPGSystem#rpg-loc-dialogue-route-c2.json] …그렇기에 자연스럽게 연인이 되었지.|... That connection is what naturally led to the formation of our relationship.
+19266||RPGSystem#rpg-loc-dialogue-route-c2.json] 주기적으로 만나고, 서로를 받아들이고 원하면서.|Regular rendezvous. Accepting, desiring each other.
+19267||RPGSystem#rpg-loc-dialogue-route-c2.json] 지금 이 순간, 우리의 이야기를 귀담아듣고 있는 저들 중에…|Look at our audience and ask yourself: among those who are hearing this conversation...
+19268||RPGSystem#rpg-loc-dialogue-route-c2.json] 몇 명이나 우리를 이해해 주고 있을까.|... how many truly understand us?

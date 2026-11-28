@@ -1,0 +1,96 @@
+18096||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 염색실에 있었던 팔레트… 그자는 어떤 소속도 아니었으며 우리에게 적대감을 드러내지도 않았었다.|Palette, whom we had met in the Dyehouse... belonged to no faction and had shown no hostility toward us.
+18097||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <그냥… 흘러가는 대로 사는 것 같았거든…>|<She seemed like the sort who simply... went with the flow.>
+18098||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 게임… 내가 진 거야?|Did I... lose?
+18099||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 아니, 비겼군.|No. It's a draw.
+18100||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 꼬무리도, 나도 비슷하게 입을 열었으니.|Wriggley and I broke silence at nearly the same instant.
+18101||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 지하가 더 존재한다는 사실은 확인이 되었습니다만…|We have confirmed that more basement levels exist...
+18102||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 찾을 방도가 마땅치가 않군요. 르누아르들이 언제까지 쫓아올 지도 모르니…|But we have no way to reach them, and we do not know how long the Noirs will keep pursuing us...
+18103||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…우릴 도와줄 만한 자를 알고 있긴 해.>|<... I know someone who might be willing to help us.>
+18104||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 믿을 만한 자입니까…?|Can they be trusted...?
+18105||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <음… 그건 모르겠지만, 아마 르누아르들의 편은 아닐 거야.>|<Hmm... I don't know about <i>trusted</i>, but she probably isn't on the Noirs' side.>
+18106||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 길은 있었어. 하지만 지금은 막아 두었지.|There used to be a way, but I blocked it.
+18107||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그런데 왜 내려가려고 하는 거야? 너희가 내려오기 전에 있었던 곳이 훨씬 살기 좋을 텐데. 이런 지하보다는 훨씬.|Why do you want to go deeper anyway? Wherever you came down from must be a much better place to live than down here...
+18108||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뿌이에게 옷을 입혀주기 위해서다.|We want to clothe Pwie.
+18109||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뿌이? 이 아이를 말하는 거야?|Pwie? You mean this kid?
+18110||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 너희가 입는다는 게 아니라, 이 아이에게 입히려고?|Let me get this straight... You mean the clothes are for the kid, not you?
+18111||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 응, 나 옷 입어야 해. 황금가죽으로 만들어진 옷.|Mhm. I need clothes. Clothes made of Golden Hide.
+18112||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …옷을 입기 위해 혈안이 된 자들은 넘쳐도 남에게 옷을 입혀주려고 하는 자들은 드문데.|... I've seen plenty of people desperate to dress themselves, but there's hardly anyone who wants to dress someone else...
+18113||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그래서 역시, 이방인이구나.|Guess you really are strangers.
+18114||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 좋아. 그러면… 이렇게 거래하자.|All right, then... Let's make a deal.
+18115||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 아니야, 언니. 이자들은 내 눈물을 훔치려고 온 자들이 아니야.|No, Big sis. These people are not here to steal my tears.
+18116||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 사실 나도, 언니에게 지어줄 옷이 필요해.|The truth is, I need clothes for my sister, too.
+18117||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 좋은 옷을 지으려면 좋은 실타래가 필요하지만… 황금 실타래는 원하지 않아. 그건 취향이 아니거든.|Good clothes need good thread... but I don't want a Golden Skein. Gold isn't my taste.
+18118||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 내가 원하는 건… 더 알록달록하고 눈물이 잘 스며들만한 실타래야.|What I want is... something more colorful. A skein that can soak up tears well.
+18119||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그리고 그런… 순수한 실타래는 이 층의 규칙상 오직 플로어 매니저만이 가질 수 있어. 간혹 르누아르들에게만 몇 올씩 넘기고.|And under this floor's rules, only the Floor Manager can have a skein that pure. A few strands are handed out to the Noirs now and then. Only the Noirs.
+18120||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …짜증나는 규칙이군.|... Annoying rule.
+18121||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 짜증난다고? 이곳에선… 당연한 상식인데.|What's so annoying about it? Down here... that's just common sense.
+18122||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 하지만… 우리에겐 그다지 당연하지 않은 상식이군. 만약 우리가 그자에게서 실타래를 빼앗… 아니, 가져온다면…|And yet, it is hardly common sense to us "strangers." Which means that if we take—excuse me—<i>bring back</i> the skein from that Floor Manager...
+18123||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 거래의 대가로 길을 열어준다고 이해하면 되는 건가?|Then you will open the way down in exchange, is that correct?
+18124||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …정말 그래줄 수 있어, 이방인들?|... You'd really do that for me, strangers?
+18125||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실타래를… 가져올 수 있다면… 응, 약속할게.|Well, I suppose... If you can bring me the skein... then yes. I promise.
+18126||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <르누아르들이 길을 막고 있겠지만… 우선 돌파해 보자.>|<The Noirs will be blocking the route. We'll have to punch through them first.>
+18127||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 마. 킹. 인가.|M.Q.?
+18128||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 우리 언니는 마네킹 아니야. 옛날부터 나를 과보호하려 하는 버릇이 있을 뿐이지.|My sister isn't a Mannequin. She's just always been overprotective of me.
+18129||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그런데 너희 땀을 흘리고 있는 거야? 내 팔레트에 섞이지 않게 조심해 줘. 짠맛이 들어가면 색깔이 혼탁해지거든.|Wait, are you guys sweating? Try not to get any on my palette. The salt makes the colors murky.
+18130||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …꽤 긴박한 사태를 겪고 왔다. 여기엔 다행히도 르누아르들이 보이진 않는군.|... We just escaped a rather urgent situation. Fortunately, it seems that the Noirs are yet to set foot in here.
+18131||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바깥에 무슨 일이 일어나고 있는 거야? 손님들의 발길도 갑자기 끊겼어.|What exactly is going on outside? The customers have suddenly stopped visiting as well...
+18132||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 눈물들은 제때 터뜨려줘야 하는데. 참기만 하면 상태가 안 좋아지거든.|You need to burst those tears in time. Holding them in for too long can make things go bad.
+18133||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 우리는 지하 3층으로 갈 방법을 찾고 있다. 혹시 알고 있는 정보가 있나?|We are looking for a way to B3. Can you give us any information on how to get there?
+18134||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 원함이 있어서 찾아왔구나.|Want has tugged your thread here.
+18135||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 자… 이제, 너희의 원함을 말할 차례란다.|Now... lay your own desires bare.
+18136||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 유감이군, 우리는… 너희가 가지고 있는 그 실타래를 원한다.|Our objectives collide, regrettably. We want... the skein in your possession.
+18137||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 아아, 원함이 충돌하였구나. 하나로 맞추는 방법은 하나 뿐이란다.|Ahh. Our wants have crossed threads. There is only one way to make two wants lie as one.
+18138||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 누군가의 원함이 삼켜지는 수밖에.|One desire must be swallowed so the other may have room.
+18139||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 운명의 목소리는 늘 속삭이지. 솔직해라, 더 마음껏 솔직해지라고.|The Voice of Fate always whispers. "Be honest with yourself. Indulge in your desires."
+18140||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그러니 우리의 원함을 말할 테니, 그다음에는 너희의 말을 우리에게 들려주렴.|And so, we will lay our desire bare first. Then you shall let us hear of yours.
+18141||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …빨라서 좋군. 무엇을 원하나?|... At least you cut to the chase. Good. What are your demands?
+18142||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 더 많은 황금실… 더 둥근 실타래… 더 탐스러운 황금…|More golden thread... rounder skeins... ripe gold, fat with promise.
+18143||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그 고치를 움켜쥐고 쥐어짜면… 질질 흘려 넘칠 모든 것들…|Everything that would ooze and spill from that cocoon... once our fingers closed and wrung it dry...
+18144||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 우리는 알고 안단다. 저 고치에서부터 배어 나올 아름다움을… 위대한 원단이 되는 것에 기여하리라는 걸.|We know. Oh, we know what beauty would bleed from it... How splendidly it would feed the birth of a magnificent fabric.
+18145||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 운명의 목소리는 허하셨지. 이제는 남을 위한 실이 아닌, 우리를 덮을 실을 지으라고.|The Voice of Fate cut our old duty loose. No longer shall we spin for other backs. Now the thread will warm our own.
+18146||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <지난번에도 욕심을 보이긴 했는데… 르누아르에서 줬던 감정 평가서가 없어서 그런가, 반응이 많이 다른 것 같아.>|<They were greedy last time too... but something has turned the dial all the way up. Is it because we didn't get the Noirs' Authenticity Certificate?>
+18147||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …햇살이 유독 강하게 내리쬐고 있기 때문일지도 모릅니다.|... The increased intensity of the sunlight may be causing their altered behavior, Manager.
+18148||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실타래를 가져왔구나.|You brought the skein.
+18149||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 정말로… 상식을 상식으로 생각하지 않을 수 있다니…|You really did it... You refused to accept "common sense" just because everyone calls it common sense...
+18150||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 사실 반은 믿고 반은 믿지 않았어. 당연했던 걸 당연하지 않게 만드는 것은… 지하의 고객들에겐 힘든 일이었으니까.|Honestly, I half-doubted you. Most people here on the basement floor... can't unlearn what they were taught to call obvious.
+18151||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이 실타래로 옷을 만들면 언니도 다시 내게 말을 걸어주려나.|If I make clothing from this thread... maybe my sister will find her voice and speak to me again.
+18152||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 자, 그럼 약속대로…|Now, time to uphold your end of the bargain...
+18153||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 조급해 하지 마. 약속은 지킬 거야.|Take it easy. I said I'd do it, and I will.
+18154||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 내려가는 길은 멀지 않아. 바로 근처에 있었거든.|The way down isn't far. It was right under your noses all along.
+18155||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 자… 아래로 내려가.|Now, go on... Down you go.
+18156||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 너희도 원하는 옷을 지어 입힐 수 있기를.|I hope you get to make the clothes the kid wants.
+18158||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …한 입만…|... Juuust... a bite...
+18159||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 한 입만 씹어먹을 수 있다면… 나도 다시…|Juuust a bite, chew between the teeth... and again, I can...
+18160||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바늘이들이 심각하게 쫑알거리고 있다.|The Needlekin are chattering seriously.
+18161||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 앞 바늘이가 전해달래. 계속 기다리라고.|Needlekin to the front wants pass word! Keep waiting.
+18162||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 앞앞 바늘이가 전해달래. 계속 기다리라고.|Needlekin to the front's front wants pass word! Keep waiting.
+18163||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뭘 기다리는 거야?|What are you waiting for?
+18164||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 앞 이방인이 물어봐달래. 뭘 기다리냐고.|Stranger to the front asks! What are we waiting for?
+18165||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 앞앞 이방인들이 물어봐달래. 뭘 기다리냐고.|Stranger to the front's front asks! What are we waiting for?
+18166||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…>|<…>
+18167||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 눈. 삐.|A.Y.B.D.?
+18168||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 눈삐…?|Why beady...?
+18169||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 눈깔이 삐었군… 이라는 뜻이다.|It means "are you blind, dumbass?"
+18170||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <그런 건… 알려주지 않아도 될 것 같아.>|<Um, Ryōshū... I don't think you need to teach Pwie the, uh, art.>
+18171||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 동의하듯 은은하게 흔들거리는 검집… 아라야와 눈이 마주친 듯한 기분이 든다.|The scabbard gave a faint, approving sway. For a moment, it felt as though Araya and I were exchanging a look.
+18172||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 인질과 보호자도 구분하지 못하는 걸 보니, 그 눈 쓸모 없어 보이는군. 도려내도 되겠어.|Can't even tell guardians from hostages? Lemme pluck out those useless eyes—I think you'll be fine without them.
+18173||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그것은 우리 뿐만이 아니라 곧 백화점 전체의 몰락을 불러올 존재다.|That being will bring ruin not only to us, but to the entire department store.
+18174||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 르루주도 아닌 자들이… 어째서 저 거짓 신의 목소리를 따르고 있는지 모르겠군.|I cannot fathom why those who are not even of the Rouge would march behind the voice of a false god.
+18175||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 우리와 손을 잡았다면 함께 백화점의 번영을 목도했을 텐데… 안타깝군. 참으로 안타까워.|Had you joined hands with us, we might have watched the Grand Magasin prosper together... A road not taken. Truly, a pity.
+18176||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 저기 있습니다! 거짓된 목소리 종자를 데리고 다니는 파렴치한 것들이…!|There they are! The shameless wretches escorting the False Voice spawn...!
+18177||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …저 얍삽한 자식이 어느새…!|... That conniving little rat...!
+18178||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 르누아르 스태프 매니저|Le Noir Staff Manager
+18179||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 저자들이군. 수고했다.|So these are the offenders. Your service is noted.
+18180||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 저는 처음 보자마자 알았습니다, 당장 멱살을 잡고 끌어내리고 싶었지만 르루주들이 만든 거짓 목소리 답게 저를 무자비하게 찢으려고 하더군요.|I knew it the moment I saw them. I'd have grabbed them by the collar and dragged them over at once, but that False Voice, true to its Rouge savagery, tried to tear me apart without mercy!
+18181||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그래서 힘겹게 사투를 벌이면서 용감하게 붙잡고 있다가…|And after a grueling and heroic struggle, I courageously kept them pinned there until...
+18182||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그래, 여기서부터는 우리가 막지.|Good work. We'll take it from here.
+18183||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이방인들은 무지하기 그지 없으나, 우리는 자비로우니 한 번의 기회를 주도록 하지.|You strangers are profoundly ignorant. Nevertheless, mercy is among our virtues, so we shall offer you one last chance.
+18184||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 르루주의 거짓 목소리를 우리에게 넘긴다면… 이방인들은 잘못된 길에 든 것 뿐이라고 생각하고 보내주겠다.|Hand over the Rouge's False Voice, and we will call your conduct a wrong turn and permit you to walk away unscathed.
+18185||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …아니면 그대들은 르루주의 거짓 목소리에게 볼모로 잡혀 있는 것인가? 르루주들이 만든 불순이라면… 그러고도 남지.|... Unless the False Voice of the Rouges has taken you hostage? An impurity wrought by Le Rouge... would be more than capable of doing so.
+18186||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 물러서라. 이 층은 지금 통제중이다.|Back off. This floor is currently restricted.
+18187||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바늘이는 실이 필요해! 바늘이는 실이 필요해!|Needlekin need thread! Needlekin need thread!
+18188||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실이 필요하면 기다려야 해! 쪼용히 기다려야 해!|Need waity-wait if want thread! Have to quiety-quiet!
+18189||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <이 자들은…>|<Uh, who are these people...?>
+18190||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 신원 검사를 하겠다. 르루주가 만든 불경한 것을 숨겨주고 있는 이방인들이 있다고 해서 말이지. 이름과 소속을 대라.|Identity checkpoint. We have information that there are strangers who are sheltering an unholy abomination. State your name and affiliation.
+18191||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이름은 뿌이. 소속은… 소속은 뭐야?|I'm Pwie! And my affili... What's affiliation?
+18192||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …! 붙잡아라!|...! Get them!
