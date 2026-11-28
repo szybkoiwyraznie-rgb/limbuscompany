@@ -1,0 +1,131 @@
+348||Umiejętność wroga [9001002] (ulepszenie 1) — nazwa] 가르기|Slice
+350||Umiejętność wroga [9001101] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 속박 1 부여|[OnSucceedAttackHead] Inflict 1 Bind next turn
+356||Umiejętność wroga [9001302] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 횟수 3 증가|[OnSucceedAttackHead] Inflict +3 Rupture Count next turn
+358||Umiejętność wroga [9000103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 속박 1 부여|
+359||Umiejętność wroga [9000104] (ulepszenie 1) — nazwa] 방어|Guard
+362||Umiejętność wroga [9000204] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 출혈 횟수 1 증가|[OnSucceedAttackHead] Inflict +1 Bleed Count
+363||Umiejętność wroga [9000204] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 출혈 횟수 1 증가|
+364||Umiejętność wroga [9000204] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 출혈 횟수 1 증가|
+369||Umiejętność wroga [9001401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 속박 3 부여|[OnSucceedAttackHead] Inflict 3 Bind next turn
+382||Umiejętność wroga [9100106] (ulepszenie 1) — opis] [WhenUse] 무작위 아군 2명에게 다음 턴에 보호 1 부여|[WhenUse] Apply 1 Protection to 2 random allies next turn
+383||Umiejętność wroga [9100108] (ulepszenie 1) — nazwa] 단단함|Harden
+385||Umiejętność wroga [9100109] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 횟수 5 증가|[OnSucceedAttackHead] Inflict +5 Rupture Count next turn
+387||Umiejętność wroga [9100201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 대상의 정신력 -5|[OnSucceedAttackHead] Target loses 5 SP
+388||Umiejętność wroga [9100201] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 대상의 정신력 -5|
+390||Umiejętność wroga [9100202] (ulepszenie 1) — opis] [WhenUse] 무작위 아군 2명에게 다음 턴에 피해량 증가 1 부여|[WhenUse] Apply 1 Damage Up to 2 random allies next turn
+393||Umiejętność wroga [9100203] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 대상의 정신력 -15|[OnSucceedAttackHead] Target loses 15 SP
+398||Umiejętność wroga [9001701] (ulepszenie 1) — nazwa] 휘두르기|Swipe
+399||Umiejętność wroga [9001702] (ulepszenie 1) — nazwa] 비열한 타격|Sneaky Bash
+402||Umiejętność wroga [9001703] (ulepszenie 1) — nazwa] 작은 소망|Wee Wish
+403||Umiejętność wroga [9001703] (ulepszenie 1) — opis] [StartBattle] 두번째 슬롯 스킬의 모든 코인이 앞면이 나옴|[StartBattle] Every Coin of the skill in the 2nd slot lands Heads
+404||Umiejętność wroga [9001801] (ulepszenie 1) — nazwa] 내려베기|Pipe Down
+405||Umiejętność wroga [9001802] (ulepszenie 1) — nazwa] 육중한 참격|Heavy Swing
+410||Umiejętność wroga [9001901] (ulepszenie 1) — nazwa] 쑤시기|Carve
+411||Umiejętność wroga [9001902] (ulepszenie 1) — nazwa] 야비한 찌르기|Cunning Stab
+412||Umiejętność wroga [9001902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여|[OnSucceedAttackHead] Inflict 2 Rupture
+416||Umiejętność wroga [9100301] (ulepszenie 1) — nazwa] 목긋기|Throat Slit
+417||Umiejętność wroga [9100301] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 출혈 3 부여|[OnSucceedAttackHead] Inflict 3 Bleed next turn
+418||Umiejętność wroga [9100302] (ulepszenie 1) — nazwa] 후비기|Shank
+419||Umiejętność wroga [9100302] (ulepszenie 1) — opis] [BeforeAttack] 대상의 체력이 50% 미만이면, 스킬의 1,2 코인이 추가됨|[BeforeAttack] If target has less than 50% HP, use Coin 1 and 2 an additional time
+420||Umiejętność wroga [9100302] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 2 부여|[OnSucceedAttackHead] Inflict 2 Rupture next turn
+421||Umiejętność wroga [9100302] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 2 부여|
+422||Umiejętność wroga [9100303] (ulepszenie 1) — nazwa] 난도질|Mutilate
+423||Umiejętność wroga [9100303] (ulepszenie 1) — opis] [EnemyKill] 이 스킬 1회 재사용|[EnemyKill] Use this skill 1 more time
+424||Umiejętność wroga [9100303] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 대상에게 피해 3|[OnSucceedAttackHead] Deal 3 damage
+425||Umiejętność wroga [9100303] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 대상에게 피해 3|
+426||Umiejętność wroga [9100303] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 대상에게 피해 3|
+427||Umiejętność wroga [9100304] (ulepszenie 1) — nazwa] 본 때를 보여주마...!|I’ll Show You…!
+428||Umiejętność wroga [9100304] (ulepszenie 1) — opis] [StartBattle] 공격 위력 증가 1를 얻음|[StartBattle] Gain 1 Attack Power Up
+429||Umiejętność wroga [9100305] (ulepszenie 1) — nazwa] 번뜩이는 소망|Glinting Wish
+430||Umiejętność wroga [9100305] (ulepszenie 1) — opis] [StartBattle] 이번 턴에 모든 코인이 반드시 앞면이 나옴|[StartBattle] All Coins land Heads this turn
+431||Umiejętność wroga [9100306] (ulepszenie 1) — nazwa] 꺼져!|Buzz Off!
+432||Umiejętność wroga [9002001] (ulepszenie 1) — nazwa] 침입자 발견!|Intruder Alert!
+434||Umiejętność wroga [9002002] (ulepszenie 1) — nazwa] 꼼짝마!|Freeze!
+435||Umiejętność wroga [9002002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 더하기 코인 약화 4 부여|[OnSucceedAttack] Inflict 4 Plus Coin Drop next turn
+436||Umiejętność wroga [9002003] (ulepszenie 1) — nazwa] 가만히 있어!|Hold It Right There!
+437||Umiejętność wroga [9002003] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 위력 감소 1 부여|[OnSucceedAttack] Inflict 1 Power Down next turn
+438||Umiejętność wroga [9002003] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 위력 감소 1 부여|
+439||Umiejętność wroga [9002101] (ulepszenie 1) — nazwa] 아플거다!|This’ll Hurt!
+440||Umiejętność wroga [9002101] (ulepszenie 1) — opis] [WinDuel] 스킬 위력 +1|[WinDuel] Skill Power +1
+441||Umiejętność wroga [9002301] (ulepszenie 1) — nazwa] 침입자 포착|Interloper Spotted
+442||Umiejętność wroga [9002301] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 3 부여|[OnSucceedAttack] Inflict 3 Bind next turn
+443||Umiejętność wroga [9002302] (ulepszenie 1) — nazwa] 견제|Wary Move
+444||Umiejętność wroga [9002302] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 1 부여|[OnSucceedAttack] Inflict 1 Paralyze next turn
+445||Umiejętność wroga [9002303] (ulepszenie 1) — nazwa] 무차별 제압|Wide Arrest
+446||Umiejętność wroga [9002303] (ulepszenie 1) — opis] [WinDuel] 스킬 위력 + 2|[WinDuel] Skill Power +2
+447||Umiejętność wroga [9002303] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze next turn
+448||Umiejętność wroga [9002304] (ulepszenie 1) — nazwa] 어림 없지|Not a Chance
+449||Umiejętność wroga [9002401] (ulepszenie 1) — nazwa] 춤을 춥시다~|Bailemos~
+450||Umiejętność wroga [9002401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 정신력 2 회복|[OnSucceedAttack] Heal 2 SP
+451||Umiejętność wroga [9002401] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 정신력 2 회복|
+452||Umiejętność wroga [9002401] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 정신력 2 회복|
+453||Umiejętność wroga [9002402] (ulepszenie 1) — nazwa] 평화의 춤|Danza de Paz
+454||Umiejętność wroga [9002402] (ulepszenie 1) — opis] [WhenUse] 모든 아군에게 다음 턴에 수비 위력 증가 1 부여|[WhenUse] Apply 1 Defense Power Up to all allies next turn
+455||Umiejętność wroga [9002403] (ulepszenie 1) — nazwa] 댄스 대결|Duelo de Baile
+456||Umiejętność wroga [9002403] (ulepszenie 1) — opis] [WinDuel] 대상의 정신력 -5|[WinDuel] Target loses 5 SP
+457||Umiejętność wroga [9002403] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여|[OnSucceedAttack] Inflict 2 Attack Power Down next turn
+458||Umiejętność wroga [9002404] (ulepszenie 1) — nazwa] 흥겨운 찌르기|Puñales Joviales
+459||Umiejętność wroga [9002404] (ulepszenie 1) — opis] 정신력이 0 미만인 대상 공격 시 스킬 위력 +1|If target’s SP is below 0, Skill Power +1
+460||Umiejętność wroga [9002405] (ulepszenie 1) — nazwa] 올레!|¡Olé!
+461||Umiejętność wroga [9002405] (ulepszenie 1) — opis] [OnSucceedEvade] 대상의 정신력 -5|[OnSucceedEvade] Target loses 5 SP
+462||Umiejętność wroga [9002502] (ulepszenie 1) — nazwa] 정열의 춤|Danza de Emoción
+463||Umiejętność wroga [9002502] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 공격 위력 증가 1을 얻음|[WhenUse] Gain 1 Attack Power Up next turn
+464||Umiejętność wroga [9100401] (ulepszenie 1) — nazwa] 격정의 춤사위|Pasos Pasionales
+465||Umiejętność wroga [9100401] (ulepszenie 1) — opis] [WhenUse] 정신력 5 회복|[WhenUse] Heal 5 SP
+466||Umiejętność wroga [9100401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 호흡 1 얻음|[OnSucceedAttack] Gain 1 Poise next turn
+467||Umiejętność wroga [9100401] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 호흡 1 얻음|
+468||Umiejętność wroga [9100401] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 호흡 1 얻음|
+469||Umiejętność wroga [9100401] (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 호흡 1 얻음|
+470||Umiejętność wroga [9100402] (ulepszenie 1) — nazwa] 이거 밖에 안돼?|¿Eso es todo?
+471||Umiejętność wroga [9100402] (ulepszenie 1) — opis] [WinDuel] 대상에게 정신 피해 10|[WinDuel] Deal 10 SP damage
+472||Umiejętność wroga [9100402] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 감소, 마비 3 부여|[OnSucceedAttack] Inflict 3 Attack Power Down and Paralyze next turn
+473||Umiejętność wroga [9100403] (ulepszenie 1) — nazwa] 날카롭게!|¡Bruscamente!
+474||Umiejętność wroga [9100403] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 증가 2를 얻음|[OnSucceedAttack] Gain 2 Attack Power Up next turn
+475||Umiejętność wroga [9100404] (ulepszenie 1) — nazwa] 날렵하게~|Rápidamente~
+476||Umiejętność wroga [9100404] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 수비 위력 증가 2를 얻음|[OnSucceedAttack] Gain 2 Defense Power Up next turn
+477||Umiejętność wroga [9100405] (ulepszenie 1) — nazwa] 파냐타 파티~!|Pañata Party~!
+478||Umiejętność wroga [9100405] (ulepszenie 1) — opis] [WhenUse] 정신력이 0미만인 적 공격 시 대상의 정신력에 비례하여 크리티컬 발동 확률 증가|[WhenUse] If target’s SP is below 0, crit chance increases in proportion to target’s SP
+479||Umiejętność wroga [9100405] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 피해량의 50% 만큼 흐트러짐 회복|[OnSucceedAttackHead] Lower user’s Stagger Threshold by 50% of damage dealt
+480||Umiejętność wroga [9100406] (ulepszenie 1) — nazwa] 엑셀렌떼!|¡Excelente!
+481||Umiejętność wroga [9100406] (ulepszenie 1) — opis] [OnSucceedEvade] 흐트러짐 회복 5. 대상에게 정신 피해 5|[OnSucceedEvade] Lower user’s Stagger Threshold by 5; Deal 5 SP damage
+482||Umiejętność wroga [9002601] (ulepszenie 1) — nazwa] 확 찢어불랑게|I’ll Tear Ya Apart
+483||Umiejętność wroga [9002601] (ulepszenie 1) — opis] 대상의 정신력이 자신보다 낮으면 스킬 위력 +1|If target’s SP is lower than user’s, Skill Power +1
+484||Umiejętność wroga [9002601] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed next turn
+485||Umiejętność wroga [9002601] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 3 부여|
+486||Umiejętność wroga [9002602] (ulepszenie 1) — nazwa] 살벌한 환영인사|Gruesome Welcome
+487||Umiejętność wroga [9002602] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 정신 피해 15|[OnSucceedAttack] Deal 15 SP damage
+488||Umiejętność wroga [9002603] (ulepszenie 1) — nazwa] 쏟아지는 욕설|Insult Barrage
+489||Umiejętność wroga [9002603] (ulepszenie 1) — opis] [WinDuel] 무작위 아군 1명 정신력 10 회복|[WinDuel] Heal 10 SP for a random ally
+490||Umiejętność wroga [9002603] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상에게 정신 피해 5|[OnSucceedAttack] Deal 5 SP damage
+491||Umiejętność wroga [9002604] (ulepszenie 1) — nazwa] 마!|Ey!
+492||Umiejętność wroga [9002604] (ulepszenie 1) — opis] [WinDuel] 대상의 정신력 - 15|[WinDuel] Target loses 15 SP
+493||Umiejętność wroga [9002604] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 3 부여|
+494||Umiejętność wroga [9002607] (ulepszenie 1) — nazwa] 눈깔 안 치워잉?|What’re Ya Lookin’ At?
+495||Umiejętność wroga [9002701] (ulepszenie 1) — nazwa] 대그빡을 쪼개불라|I’ll Crack Ya Skull
+497||Umiejętność wroga [9002701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 횟수 2 증가|[OnSucceedAttack] Inflict +2 Bleed Count next turn
+498||Umiejętność wroga [9002801] (ulepszenie 1) — nazwa] 돌격|Raid
+499||Umiejętność wroga [9002801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 진동 1 부여|[OnSucceedAttack] Inflict 1 Tremor next turn
+500||Umiejętność wroga [9002801] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 진동 1 부여|
+501||Umiejętność wroga [9002801] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 진동 1 부여|
+502||Umiejętność wroga [9002802] (ulepszenie 1) — nazwa] 저지|Blockade
+503||Umiejętność wroga [9002803] (ulepszenie 1) — nazwa] 표적 무력화|Neutralize Target
+504||Umiejętność wroga [9002803] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 진동 3 부여|[OnSucceedAttackHead] Inflict 3 Tremor next turn
+505||Umiejętność wroga [9002803] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 진동 폭발|[OnSucceedAttack] Trigger Tremor Burst
+506||Umiejętność wroga [9002804] (ulepszenie 1) — nazwa] HP탄 활성화|Activate HP Bullet
+507||Umiejętność wroga [9002804] (ulepszenie 1) — opis] [WhenUse] 체력 10 회복|[WhenUse] Heal 10 HP
+508||Umiejętność wroga [9002901] (ulepszenie 1) — nazwa] 진압|Takedown
+509||Umiejętność wroga [9002901] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 진동 횟수 1 증가|[OnSucceedAttack] Inflict +1 Tremor Count next turn
+510||Umiejętność wroga [9003001] (ulepszenie 1) — nazwa] 방호|Shelter
+511||Umiejętność wroga [9003001] (ulepszenie 1) — opis] [WinDuel] 무작위 아군 2명에게 다음 턴에 수비 위력 증가 1 부여|[WinDuel] Apply 1 Defense Power Up to 2 random allies next turn
+513||Umiejętność wroga [9003002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 진동 폭발|[OnSucceedAttackHead] Trigger Tremor Burst
+514||Umiejętność wroga [9003101] (ulepszenie 1) — nazwa] 엄호|Cover
+515||Umiejętność wroga [9003101] (ulepszenie 1) — opis] [WinDuel] 자신을 제외한 무작위 아군 1명에게 다음 턴에 보호 2 부여|[WinDuel] Apply 2 Protection to a random other ally next turn
+516||Umiejętność wroga [9003201] (ulepszenie 1) — nazwa] 찔러넣기|Plunge In
+517||Umiejętność wroga [9003201] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 2 부여|[OnSucceedAttack] Inflict 2 Bleed next turn
+518||Umiejętność wroga [9003202] (ulepszenie 1) — nazwa] 못질|Nail Pin
+519||Umiejętność wroga [9003202] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 N사의 못 1 부여|[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn
+520||Umiejętność wroga [9003202] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 N사의 못 1 부여|
+521||Umiejętność wroga [9003301] (ulepszenie 1) — nazwa] 두드리기|Knock
+522||Umiejętność wroga [9003301] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비, 수비 위력 감소 1 부여|[OnSucceedAttack] Inflict 1 Paralyze and Defense Power Down next turn
+523||Umiejętność wroga [9003302] (ulepszenie 1) — nazwa] 망치질|Hammer
+524||Umiejętność wroga [9003302] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 3 부여|

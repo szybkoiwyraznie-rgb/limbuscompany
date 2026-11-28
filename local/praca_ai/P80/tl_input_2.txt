@@ -1,0 +1,131 @@
+153||Umiejętność wroga [140907] (ulepszenie 1) — nazwa] 이 요정주가 좋나?|You Like This Brew?
+154||Umiejętność wroga [140907] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Binding] 1 얻음|[WhenUse] Gain 1 [Binding] next turn
+155||Umiejętność wroga [141001] (ulepszenie 1) — nazwa] 손뼉치기|Clap
+156||Umiejętność wroga [141001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 1 부여|[OnSucceedAttack] Inflict 1 [Reduction] next turn
+157||Umiejętność wroga [141002] (ulepszenie 1) — nazwa] 강한 손뼉치기|Powerful Clap
+158||Umiejętność wroga [141002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 3 부여|[OnSucceedAttack] Inflict 3 [Reduction] next turn
+159||Umiejętność wroga [141003] (ulepszenie 1) — nazwa] 꼬리치기|Tail Whip
+160||Umiejętność wroga [141003] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+161||Umiejętność wroga [141003] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 3 부여|[OnSucceedAttack] Inflict 3 [Vulnerable] next turn
+162||Umiejętność wroga [141004] (ulepszenie 1) — nazwa] 주머니 압박|Pressing Sac
+163||Umiejętność wroga [141004] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여|
+164||Umiejętność wroga [141005] (ulepszenie 1) — nazwa] 혈사포|Blood Cannon
+165||Umiejętność wroga [141005] (ulepszenie 1) — moneta 1, efekt 1 — opis] 대상에게 부정적인 효과가 있으면, 피해량 +50%|If target has a negative effect, deal +50% damage
+166||Umiejętność wroga [141005] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 20 부여|[OnSucceedAttack] Inflict 20 [Laceration]
+167||Umiejętność wroga [141006] (ulepszenie 1) — nazwa] 종혈|Clotting
+168||Umiejętność wroga [141006] (ulepszenie 1) — moneta 1, efekt 1 — opis] 대상에게 부정적인 효과가 있으면, 피해량 +100%|If target has a negative effect, deal +100% damage
+169||Umiejętność wroga [141006] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 30 부여|[OnSucceedAttack] Inflict 30 [Laceration]
+171||Umiejętność wroga [141101] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration], [Vibration], [Sinking]의 합 5당 합 위력 +1 (최대 4)|[WhenUse] Clash Power +1 for every 5 ([Laceration] + [Vibration] + [Sinking]) on target (max 4)
+173||Umiejętność wroga [141101] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 1 부여|
+176||Umiejętność wroga [141102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3, [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Vibration]
+177||Umiejętność wroga [141102] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 3 부여|
+179||Umiejętność wroga [141103] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration], [Vibration], [Sinking]의 합 5당 기본 위력 +1 (최대 3)|[WhenUse] Base Power +1 for every 5 ([Laceration] + [Vibration] + [Sinking]) on target (max 3)
+180||Umiejętność wroga [141103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3, [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Sinking] and 3 [Vibration]
+181||Umiejętność wroga [141103] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|
+182||Umiejętność wroga [141103] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Sinking] Count
+183||Umiejętność wroga [141103] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 3 부여|
+186||Umiejętność wroga [141104] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+187||Umiejętność wroga [141104] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여|
+189||Umiejętność wroga [141105] (ulepszenie 1) — opis] [WhenUse] 메인 타겟에게 부정적인 효과가 있으면, 합 위력 +5\n- 부정적인 효과가 없으면, 대신 합 위력 -5|[WhenUse] If the main target has a negative effect, Clash Power +5\n- If the main target has no negative effect, Clash Power -5 instead
+192||Umiejętność wroga [141105] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 1회 발동. [Laceration] 횟수 1 감소|[OnSucceedAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)
+199||Umiejętność wroga [141201] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration], [Vibration], [Sinking]의 합 5당 기본 위력 +2 (최대 6)\n[WhenUse] 대상에게 [PlayingWithWaterTogetherMirror]이 있으면, 합 위력 -3|[WhenUse] Base Power +2 for every 5 ([Laceration] + [Vibration] + [Sinking]) on target (max 6)\n[WhenUse] If target has [PlayingWithWaterTogetherMirror], Clash Power -3
+200||Umiejętność wroga [141201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Vibration]
+204||Umiejętność wroga [141202] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5, [Vibration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration] and 5 [Vibration]
+205||Umiejętność wroga [141202] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationBleeding]로 [Switch_Vibration]|[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationBleeding]
+206||Umiejętność wroga [141202] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 3 부여|
+208||Umiejętność wroga [141203] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration], [Vibration], [Sinking]의 합 5당 코인 위력 +1 (최대 3)\n[WhenUse] 대상에게 [PlayingWithWaterTogetherMirror]이 있으면, 합 위력 -2|[WhenUse] Coin Power +1 for every 5 ([Laceration] + [Vibration] + [Sinking]) on target (max 3)\n[WhenUse] If target has [PlayingWithWaterTogetherMirror], Clash Power -2
+209||Umiejętność wroga [141203] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5, [Vibration] 5 부여|[OnSucceedAttack] Inflict 5 [Sinking] and 5 [Vibration]
+211||Umiejętność wroga [141203] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Sinking] Count
+214||Umiejętność wroga [141204] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration], [Vibration], [Sinking]의 합 5당 기본 위력 +2 (최대 6)\n[WhenUse] 대상에게 [PlayingWithWaterTogetherMirror]이 있으면, 합 위력 -2|[WhenUse] Base Power +2 for every 5 ([Laceration] + [Vibration] + [Sinking]) on target (max 6)\n[WhenUse] If target has [PlayingWithWaterTogetherMirror], Clash Power -2
+215||Umiejętność wroga [141204] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VibrationBleeding]로 [Switch_Vibration]|
+216||Umiejętność wroga [141204] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|
+217||Umiejętność wroga [141204] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여|
+219||Umiejętność wroga [141205] (ulepszenie 1) — opis] [WhenUse] 메인 타겟에게 부정적인 효과가 있으면, 합 위력 +10\n- 부정적인 효과가 없으면, 대신 합 위력 -10|[WhenUse] If the main target has a negative effect, Clash Power +10\n- If the main target has no negative effect, Clash Power -10 instead
+227||Umiejętność wroga [141206] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 3회 발동. [Laceration] 횟수 3 감소|[OnSucceedAttack] Activate [Laceration] on target 3 times (target loses 3 [Laceration] Count)
+228||Umiejętność wroga [600201] (ulepszenie 1) — nazwa] 구름 걷기|Cloudwalking
+229||Umiejętność wroga [600201] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1|[WhenUse] If target has 6+ [Laceration], Coin Power +1
+231||Umiejętność wroga [600201] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [AttackDown] 2 부여|[OnSucceedAttack] Inflict 2 [AttackDown]
+233||Umiejętność wroga [600201] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여 (스킬당 1회)|[OnSucceedAttack] Inflict 2 [Laceration] (once per Skill)
+234||Umiejętność wroga [600201] (ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 이 코인 재사용 (스킬당 1회)|[UnBrokenCoinOnSucceedAttack] Reuse this Coin (once per Skill)
+235||Umiejętność wroga [600202] (ulepszenie 1) — nazwa] 암운|Gloomcloud
+238||Umiejętność wroga [600202] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Paralysis] 1 부여|[OnSucceedAttack] Inflict 1 [Paralysis]
+240||Umiejętność wroga [600202] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가 (스킬당 1회)|[OnSucceedAttack] Gain +2 [Laceration] Count (once per Skill)
+242||Umiejętność wroga [600203] (ulepszenie 1) — nazwa] 발도 자세|Battō Shisei
+243||Umiejętność wroga [600203] (ulepszenie 1) — opis] [WhenUse] 자신의 정신력 5 회복\n- 체력이 50% 이하면, 대신 10 회복|[WhenUse] Heal 5 SP\n- At 50%- HP, heal 10 SP instead
+244||Umiejętność wroga [600203] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [SlashTakeDamageUp] 2 부여|[OnSucceedAttack] Inflict 2 [SlashTakeDamageUp]
+245||Umiejętność wroga [600203] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 2 부여|[OnSucceedAttack] Inflict 2 [DefenseDown]
+246||Umiejętność wroga [600204] (ulepszenie 1) — nazwa] 쿠모기리|Kumogiri
+247||Umiejętność wroga [600204] (ulepszenie 1) — opis] [Laceration] 위력이 제일 높은 대상을 우선으로 타겟\n[WhenUse]\n- [SharpSensibility] 50당, 공격 가중치 +1, 코인 위력 +1\n- 피해량 +([SharpSensibility] 수치)%\n[WhenUse] 피해량 +(메인 타겟의 [Laceration] 위력)% (최대 50%)\n[DefeatDuel] [Paralysis] 3 얻음, 피해량 -75%, 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkillAll] [SharpSensibility] 전부 소모|Prioritize the target that has the highest [Laceration] Potency\n[WhenUse]\n- Gain +1 Atk Weight and Coin Power +1 for every 50 [SharpSensibility]\n- Deal +([SharpSensibility] Stack)% damage\n[WhenUse] Deal +([Laceration] Potency on the main target)% damage (max 50%)\n[DefeatDuel] Gain 3 [Paralysis], deal -75% damage, and damage dealt by this Skill cannot Stagger the target\n[EndSkillAll] Consume all [SharpSensibility]
+249||Umiejętność wroga [600204] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]
+251||Umiejętność wroga [600204] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여|
+253||Umiejętność wroga [600204] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|
+254||Umiejętność wroga [600204] (ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 횟수가 5 이상이면, [Laceration] 2회 발동. 대상의 [Laceration] 횟수 2 감소|[UnBrokenCoinOnSucceedAttack] If target has 5+ [Laceration] Count, activate [Laceration] on target 2 times. Target loses 2 [Laceration] Count
+255||Umiejętność wroga [600205] (ulepszenie 1) — nazwa] 아메기리|Amegiri
+258||Umiejętność wroga [600205] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가|
+259||Umiejętność wroga [600205] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [AttackDown] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [AttackDown]
+261||Umiejętność wroga [600205] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]
+263||Umiejętność wroga [600205] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여|
+264||Umiejętność wroga [600205] (ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 횟수가 10 이상이면, [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소|[UnBrokenCoinOnSucceedAttack] If target has 10+ [Laceration] Count, activate [Laceration] on target once. Target loses 1 [Laceration] Count
+265||Umiejętność wroga [600206] (ulepszenie 1) — nazwa] 쿠로쿠모기리|Kurokumogiri
+269||Umiejętność wroga [600206] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Paralysis] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis]
+271||Umiejętność wroga [600206] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가|
+273||Umiejętność wroga [600206] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|
+275||Umiejętność wroga [600207] (ulepszenie 1) — nazwa] 공간참[쿠로쿠모]|Rend Space [Kurokumo]
+276||Umiejętność wroga [600207] (ulepszenie 1) — opis] [Laceration] 위력이 제일 높은 대상을 우선으로 타겟\n[WhenUse]\n- [SharpSensibility] 25당, 공격 가중치 +1\n- [SharpSensibility] 50당, 코인 위력 +1\n- 피해량 +([SharpSensibility] 수치)%\n[WhenUse] 피해량 +(메인 타겟의 [Laceration] 위력과 횟수의 합)% (최대 100%)\n[DefeatDuel] [Paralysis] 4 얻음, 피해량 -75%, 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkillAll] [SharpSensibility] 전부 소모|Prioritize the target that has the highest [Laceration] Potency\n[WhenUse]\n- Gain +1 Atk Weight for every 25 [SharpSensibility]\n- Coin Power +1 for every 50 [SharpSensibility]\n- Deal +([SharpSensibility] Stack)% damage\n[WhenUse] Deal +([Laceration] Potency + [Laceration] Count on the main target)% damage (max 100%)\n[DefeatDuel] Gain 4 [Paralysis], deal -75% damage, and damage dealt by this Skill cannot Stagger the target\n[EndSkillAll] Consume all [SharpSensibility]
+277||Umiejętność wroga [600207] (ulepszenie 1) — tekst klimatyczny] 흑운회 제2조장이 창시한 검술. 불완전한 참격임에도 일순, 공간을 베어낸다.|A sword art devised by the Patriarch of Kurokumo Clan's Second Family. The stroke falls short of perfection, but for one brief instant, it cuts space itself all the same.
+279||Umiejętność wroga [600207] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여|
+283||Umiejętność wroga [600207] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+285||Umiejętność wroga [600207] (ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 횟수가 5 이상이면, [Laceration] 2회 발동. 대상의 [Laceration] 횟수 2 감소|
+286||Umiejętność wroga [601101] (ulepszenie 1) — nazwa] 등압추격|Electromotive Pursuit
+287||Umiejętność wroga [601101] (ulepszenie 1) — opis] [WhenUse] 자신의 [DogThunder] 1당, 코인 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +15% (최대 60%)\n[WhenUse] 대상의 [ElectricShock]이 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Coin Power +1 for every [DogThunder] on self (max 3)\n[WhenUse] Deal +15% damage for every 5 ([Laceration] + [Burst]) on target (max 60%)\n[WhenUse] If target has 3+ [ElectricShock], convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+288||Umiejętność wroga [601101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst] next turn
+289||Umiejętność wroga [601101] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Burst] Count next turn
+290||Umiejętność wroga [601102] (ulepszenie 1) — nazwa] 피뢰|Lightning Rod
+291||Umiejętność wroga [601102] (ulepszenie 1) — opis] [WhenUse] 자신의 [DogThunder] 1당, 코인 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +20% (최대 80%)\n[WhenUse] 대상의 [ElectricShock]이 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Coin Power +1 for every [DogThunder] on self (max 3)\n[WhenUse] Deal +20% damage for every 5 ([Laceration] + [Burst]) on target (max 80%)\n[WhenUse] If target has 3+ [ElectricShock], convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+292||Umiejętność wroga [601102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 5 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Burst] and +2 [Burst] Count next turn
+293||Umiejętność wroga [601103] (ulepszenie 1) — nazwa] 적뢰|Red Bolts
+294||Umiejętność wroga [601103] (ulepszenie 1) — opis] [WhenUse] 자신의 [ElectricPolePower] 2당, 공격 가중치 +1 (최대 5)\n[WhenUse] 자신의 [ElectricPolePower] 1당, 최종 위력 +1, 피해량 +10% (최대 10, 100%)\n[WhenUse] 메인 타겟의 [Laceration]과 [Burst]의 합 5당, 피해량 +15% (최대 60%)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] [ElectricPolePower] 소멸|[WhenUse] Gain +1 Atk Weight for every 2 [ElectricPolePower] on self (max 5)\n[WhenUse] Final Power +1 and deal +10% damage for every [ElectricPolePower] on self (max 10, max 100% respectively)\n[WhenUse] Deal +15% damage for every 5 ([Laceration] + [Burst]) on the main target (max 60%)\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [ElectricPolePower] expires
+296||Umiejętność wroga [601103] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 10 부여|[OnSucceedAttack] Inflict 10 [Burst] next turn
+298||Umiejętność wroga [601103] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count next turn
+299||Umiejętność wroga [600703] (ulepszenie 1) — nazwa] 쓰레기 처리|Trash Disposal
+300||Umiejętność wroga [600703] (ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면, 코인 위력 +1\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음|If target has 4+ [Laceration], Coin Power +1\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target
+304||Umiejętność wroga [600703] (ulepszenie 1) — moneta 2, efekt 3 — opis] 이 코인에서 적중 시, 입힌 체력 피해량의 30%만큼 체력 회복|On Hit using this Coin, heal 30% of the HP damage dealt
+305||Umiejętność wroga [600703] (ulepszenie 1) — moneta 2, efekt 4 — opis] [OnSucceedAttackHead] 이 코인 재사용 (스킬 당 최대 3회)|[OnSucceedAttackHead] Reuse this Coin (3 times per Skill)
+306||Umiejętność wroga [600704] (ulepszenie 1) — nazwa] 333..1973|333..1973
+307||Umiejętność wroga [600704] (ulepszenie 1) — opis] [StartBattle] [Persistent] 4 얻음\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음|[StartBattle] Gain 4 [Persistent]\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target
+309||Umiejętność wroga [600704] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 5 회복|[OnSucceedAttack] Lower user's Stagger Threshold by 5
+311||Umiejętność wroga [600704] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count
+312||Umiejętność wroga [600706] (ulepszenie 1) — nazwa] 뒷골목의 밤|Night in the Backstreets
+313||Umiejętność wroga [600706] (ulepszenie 1) — opis] 대상의 [Laceration]이 2 이상이면, 코인 위력 +1\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음|If target has 2+ [Laceration], Coin Power +1\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target
+314||Umiejętność wroga [600706] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 체력 8 회복|[OnSucceedAttack] Heal 8 HP
+315||Umiejętność wroga [600706] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|
+317||Umiejętność wroga [600706] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 체력 8 회복|
+318||Umiejętność wroga [600706] (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 흐트러짐 8 회복|[OnSucceedAttack] Lower user's Stagger Threshold by 8
+319||Umiejętność wroga [600706] (ulepszenie 1) — moneta 2, efekt 4 — opis] [OnSucceedAttack] 대상의 [Laceration] 1 회 발동 ([Laceration] 횟수 1 감소)|[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)
+320||Umiejętność wroga [9000101] (ulepszenie 1) — nazwa] 찌르기|Stab
+321||Umiejętność wroga [9000102] (ulepszenie 1) — nazwa] 무력화|Keep Down
+322||Umiejętność wroga [9000102] (ulepszenie 1) — opis] [OnSucceedAttack] 속박 2 부여. 최대 체력의 5%만큼 체력 회복|[OnSucceedAttack] Inflict 2 Bind; Heal 5% of Max HP
+323||Umiejętność wroga [9000201] (ulepszenie 1) — nazwa] 비열한 공격|Sneaky Attack
+324||Umiejętność wroga [9000201] (ulepszenie 1) — opis] [OnSucceedAttack] 다음 턴에 공격 위력 증가 1을 얻음|[OnSucceedAttack] Gain 1 Attack Power Up next turn
+325||Umiejętność wroga [9000202] (ulepszenie 1) — nazwa] 무차별 공격|Wild Swipe
+326||Umiejętność wroga [9000301] (ulepszenie 1) — nazwa] 상처 가르기|Open Wound
+327||Umiejętność wroga [9000301] (ulepszenie 1) — opis] [OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여|[OnSucceedAttack] Inflict 1 Attack Power Down next turn
+328||Umiejętność wroga [9000302] (ulepszenie 1) — nazwa] 약점 간파|Spot Vulnerability
+329||Umiejętność wroga [9000302] (ulepszenie 1) — opis] [OnSucceedAttack] 다음 턴에 취약 3 부여|[OnSucceedAttack] Inflict 3 Fragile next turn
+330||Umiejętność wroga [9100101] (ulepszenie 1) — nazwa] 울리기|Crier
+331||Umiejętność wroga [9100102] (ulepszenie 1) — nazwa] 공격 명령|Onslaught Command
+332||Umiejętność wroga [9100102] (ulepszenie 1) — opis] [WhenUse] 무작위 아군 1명에게 다음 턴에 공격 위력 증가 1 부여|[WhenUse] Apply 1 Attack Power Up to a random ally next turn
+333||Umiejętność wroga [9100103] (ulepszenie 1) — nazwa] 방어 명령|Rampart Command
+334||Umiejętność wroga [9100103] (ulepszenie 1) — opis] [2xPostLine]\n[WhenUse] 무작위 아군 2명에게 다음 턴에 수비 위력 증가 2 부여|[2xPostLine]\n[WhenUse] Give 2 Defense Power Up to 2 random allies next turn
+335||Umiejętność wroga [9100104] (ulepszenie 1) — nazwa] 정신 파동|Mind Wave
+336||Umiejętność wroga [9100104] (ulepszenie 1) — opis] [5xPostLine]\n[OnSucceedAttack] 대상의 정신력 20 감소|[5xPostLine]\n[OnSucceedAttack] Target loses 20 SP
+337||Umiejętność wroga [9000401] (ulepszenie 1) — nazwa] 어설픈 베기|Clumsy Chop
+338||Umiejętność wroga [9000501] (ulepszenie 1) — nazwa] 서투른 찌르기|Clunky Stab
+339||Umiejętność wroga [9000601] (ulepszenie 1) — nazwa] 싱거운 타격|Weak Blow
+340||Umiejętność wroga [9000701] (ulepszenie 1) — nazwa] 타격|Hit
+341||Umiejętność wroga [9000702] (ulepszenie 1) — nazwa] 묵직한 일격|Heavy Strike
+342||Umiejętność wroga [9000703] (ulepszenie 1) — nazwa] 막기|Block
+343||Umiejętność wroga [9000801] (ulepszenie 1) — nazwa] 후리기|Sweep
+344||Umiejętność wroga [9000802] (ulepszenie 1) — nazwa] 연속 방어|Multi-block
+346||Umiejętność wroga [9000902] (ulepszenie 1) — nazwa] 연속 찌르기|Quick Jabs
+347||Umiejętność wroga [9001001] (ulepszenie 1) — nazwa] 베기|Swipe
