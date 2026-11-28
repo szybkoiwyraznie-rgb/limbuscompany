@@ -1,0 +1,280 @@
+{
+  "entries": {
+    "dataList[id=955601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=955601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=955602].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=955602].name": {
+      "pl": "Stuffed Toy",
+      "kr_sha256": "0107283a24c66d348a285f7a9762b74fd36c4ab5046fbb088b78d8ba46068e83",
+      "en_sha256": "faf57bf80f9bb3c1eace6e9307eb7443a82d343033fa2ec26edb6610a57a4ba1",
+      "origin": "ai"
+    },
+    "dataList[id=9556].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9556].name": {
+      "pl": "Refracted Will You Play?",
+      "kr_sha256": "fc815a1aad83dba71a831bacc19e73d2afe0531ffedebb9f61c9e7fe899c31d0",
+      "en_sha256": "338da6529999cfa6148742509e7a8798724ac5ee0acaca99b5565d84e7df1163",
+      "origin": "ai"
+    },
+    "dataList[id=956301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9563].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9563].name": {
+      "pl": "Refracted Butterfly of Entangled Lives::The Pupa",
+      "kr_sha256": "0920e01127431b376e27e0d8f12b9f5cd9baa277a50a89c0a20315467e676895",
+      "en_sha256": "529a6eb01d643ccf47043d28ede05da10fa4863f341a809f3cbd72daae77415e",
+      "origin": "ai"
+    },
+    "dataList[id=956401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9564].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9564].name": {
+      "pl": "Refracted Illusory Butterfly of Entangled Lives::The Past",
+      "kr_sha256": "6bab98fd191f41fba541902048d4df6ca694b890aed471417a4c3127f6b3f804",
+      "en_sha256": "ee2e61aec2a537030d384133132ea5d7475f8b3fb8a1d89cb7d5b51cf6ba3586",
+      "origin": "ai"
+    },
+    "dataList[id=956501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9565].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9565].name": {
+      "pl": "Refracted Illusory Butterfly of Entangled Lives::The Present",
+      "kr_sha256": "7ba309d6cc1b1a31a345661a0995f47ef676684557a1f17a41fe6814f7440ba8",
+      "en_sha256": "1445a608c5f45ffa9aefe9809c16aafb6aa4347cc172065414315be03f463376",
+      "origin": "ai"
+    },
+    "dataList[id=956601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9566].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9566].name": {
+      "pl": "Refracted Illusory Butterfly of Entangled Lives::The Future",
+      "kr_sha256": "454b19fd8eaadfe25d9d4e71cd0937f9618e4970fe7a7e40cf4b9ebb00753319",
+      "en_sha256": "c3287c4ab2645516a08e7785597197cdc7a02153315287ae24a5dc7b4234c343",
+      "origin": "ai"
+    },
+    "dataList[id=956701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9567].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9567].name": {
+      "pl": "Refracted Butterfly of Entangled Lives::Imago",
+      "kr_sha256": "db2e9242acf20c964f3b5c8557433d38d66531a91b73b114cdd66bdc6a613170",
+      "en_sha256": "e1a6eb402f6533985a94b71499a4a07e9d12140cd16ccf21595e672d37518120",
+      "origin": "ai"
+    },
+    "dataList[id=956801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956801].name": {
+      "pl": "Inverted Scale",
+      "kr_sha256": "99aa6f6f9be0f401ef4cc213f1bf7418fdffca3399d656c9e043b05ac4f8b27c",
+      "en_sha256": "36ec327b26b587db481584b0e370e6870708aca592a703561c06a8c8b8842e32",
+      "origin": "ai"
+    },
+    "dataList[id=956802].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956802].name": {
+      "pl": "Head",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=9568].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9568].name": {
+      "pl": "Refracted Yinglong",
+      "kr_sha256": "4f985012397662c5d4e915600c926254a5c1161092e7ab1409f2e62a73c43a64",
+      "en_sha256": "53e97e20122a2347065b13ddb2c88776875fc544d95034a4e0288cdef4e31048",
+      "origin": "ai"
+    },
+    "dataList[id=956901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956901].name": {
+      "pl": "Flower-burying Wedge",
+      "kr_sha256": "b6fd4c34d0bb67882689845d323da85b595b6717802286cb188ebd7b911b45ee",
+      "en_sha256": "e0ee53e8c8ed972218457df99e538b54c9d196f7eb0e1d6fac793a7e82cd49cc",
+      "origin": "ai"
+    },
+    "dataList[id=956902].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956902].name": {
+      "pl": "Inverted Scale",
+      "kr_sha256": "99aa6f6f9be0f401ef4cc213f1bf7418fdffca3399d656c9e043b05ac4f8b27c",
+      "en_sha256": "36ec327b26b587db481584b0e370e6870708aca592a703561c06a8c8b8842e32",
+      "origin": "ai"
+    },
+    "dataList[id=956903].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956903].name": {
+      "pl": "Head",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=956904].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956904].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9569].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9569].name": {
+      "pl": "Refracted Yinglong",
+      "kr_sha256": "4f985012397662c5d4e915600c926254a5c1161092e7ab1409f2e62a73c43a64",
+      "en_sha256": "53e97e20122a2347065b13ddb2c88776875fc544d95034a4e0288cdef4e31048",
+      "origin": "ai"
+    },
+    "dataList[id=957001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=957001].name": {
+      "pl": "Hongyu, the Crimson Jade",
+      "kr_sha256": "e565669be0ce17d1a2e703ff1cff4727ea7e8cb1fc8fde797a84bbd7273b0f38",
+      "en_sha256": "74fd56c157ee36a31f3afd123a3a6ee4f163fe4eeeea8165643d77360bec3a78",
+      "origin": "ai"
+    },
+    "dataList[id=9570].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9570].name": {
+      "pl": "Refracted Hongyu, the Crimson Jade [紅玉]",
+      "kr_sha256": "4f4e965f6e7a26112cdacf60eed6026cb57d8c77500de04e443ce9ed14f08eb8",
+      "en_sha256": "08e4f9693136099397e29f887c54e70fd3815da028aed5f9c50cbe6d3bb3ce7d",
+      "origin": "ai"
+    }
+  }
+}

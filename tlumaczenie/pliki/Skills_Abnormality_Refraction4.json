@@ -1,0 +1,532 @@
+{
+  "entries": {
+    "dataList[id=860501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "b8749445b33a0a9c5d17c87a15e0636ee3347b757b495991a64129db4e0a416e",
+      "en_sha256": "a568365989517493ef9d5b3c630871eb37354d055f327a7d69f3111c62a73fd1",
+      "origin": "ai"
+    },
+    "dataList[id=860501].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ [Sinking], Moc Starcia +1",
+      "kr_sha256": "a1683afb5d5103a2cda33a00849ff7424eeefc97898c18d8c3505d1fc42643c8",
+      "en_sha256": "16b4d2425e05352ade9361af5e2ca76d577538ad2ad62e16885bb1dbb928f798",
+      "origin": "ai"
+    },
+    "dataList[id=860501].levelList[level=1].name": {
+      "pl": "Leave This Place",
+      "kr_sha256": "57f93ad654c010f95e587af29e8e946ff3ef33a38cef968e5f3de66b16e98eb1",
+      "en_sha256": "5b8cb1e8453584e62e9b0ced15d693c9907944d6b9db1ddd132311513439a49d",
+      "origin": "ai"
+    },
+    "dataList[id=860502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=860502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=860502].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 3+ Liczników [Sinking], Moc Starcia +1",
+      "kr_sha256": "5bf84171d996c3d1de125229226542127d559284ba3b8abe301b8a6222123b60",
+      "en_sha256": "9bec242579e9d7bef391896e53a1186edb79ad1d793c70d7ee2835e580cb94e3",
+      "origin": "ai"
+    },
+    "dataList[id=860502].levelList[level=1].name": {
+      "pl": "Don't Make That Face",
+      "kr_sha256": "2ac1834b38eec9ad46e91db260ae1cce9c821c92faeacc623cb4c648bd45e25d",
+      "en_sha256": "f39d047ed20ce4a057d6d6a333d4c5d07e3df7071ebd024ca3d504aebc26df67",
+      "origin": "ai"
+    },
+    "dataList[id=860503].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 2",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=860503].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 2",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=860503].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=860503].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=860503].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [UninvitedGuest], nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "0c5404557c2f1c0608af3280d0262a4a5f64353ce25e3968cc17fa7d6fb5f7b7",
+      "en_sha256": "9dad911f4f07a9985aec906c11e36f08f04d42f6d29f3e960f2449976a2ee809",
+      "origin": "ai"
+    },
+    "dataList[id=860503].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [UninvitedGuest]\njeżeli cel ma [UninvitedGuest], ta Umiejętność nakłada o 1 więcej Siły i Licznika [Sinking]",
+      "kr_sha256": "a924aeda7684c46db190879bf988b3bf12a8412a4cf30c7c7f7c4f832b236a9f",
+      "en_sha256": "30929b148f7dda7466d23a59ff135260a3f5f595bad3a6228115c337fad9bf3b",
+      "origin": "ai"
+    },
+    "dataList[id=860503].levelList[level=1].name": {
+      "pl": "Who Might You Be?",
+      "kr_sha256": "f3b25d5585350cf568d36e81f8e264f2376a894256c22ec565414ed1e79fade9",
+      "en_sha256": "d4533d8bb6055e0c90f179d4a30148ca8b5d5ccb57118c8ec7d9b36504aa6fee",
+      "origin": "ai"
+    },
+    "dataList[id=860504].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=860504].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 Licznika [Sinking]",
+      "kr_sha256": "4db941de6605d66a6099cfd2228574d00cfbae4653b29c70aca721064bf2cbd3",
+      "en_sha256": "ac1aacd7f935821eabe45f5eb0029838c68a54a64016799bd909d9f47b1fa5d9",
+      "origin": "ai"
+    },
+    "dataList[id=860504].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=860504].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [UninvitedGuest], nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "0c5404557c2f1c0608af3280d0262a4a5f64353ce25e3968cc17fa7d6fb5f7b7",
+      "en_sha256": "9dad911f4f07a9985aec906c11e36f08f04d42f6d29f3e960f2449976a2ee809",
+      "origin": "ai"
+    },
+    "dataList[id=860504].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 Licznika [Sinking]",
+      "kr_sha256": "4db941de6605d66a6099cfd2228574d00cfbae4653b29c70aca721064bf2cbd3",
+      "en_sha256": "ac1aacd7f935821eabe45f5eb0029838c68a54a64016799bd909d9f47b1fa5d9",
+      "origin": "ai"
+    },
+    "dataList[id=860504].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [UninvitedGuest]\njeżeli cel ma [UninvitedGuest], ta Umiejętność nakłada o 1 więcej Siły i Licznika [Sinking]",
+      "kr_sha256": "a924aeda7684c46db190879bf988b3bf12a8412a4cf30c7c7f7c4f832b236a9f",
+      "en_sha256": "30929b148f7dda7466d23a59ff135260a3f5f595bad3a6228115c337fad9bf3b",
+      "origin": "ai"
+    },
+    "dataList[id=860504].levelList[level=1].name": {
+      "pl": "Interloper, Are You?",
+      "kr_sha256": "f96f38617e04486aa821d4e86c5862208239df2e9c189c9b01aea43e20df7671",
+      "en_sha256": "ec66bdc41de4cd2b7e28b85d31706f0744d097ffaac33bcd040b98bbf8880a1f",
+      "origin": "ai"
+    },
+    "dataList[id=860505].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=860505].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "b8749445b33a0a9c5d17c87a15e0636ee3347b757b495991a64129db4e0a416e",
+      "en_sha256": "a568365989517493ef9d5b3c630871eb37354d055f327a7d69f3111c62a73fd1",
+      "origin": "ai"
+    },
+    "dataList[id=860505].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [SinkingSurge]",
+      "kr_sha256": "423ff2321a3a4c3a6698fd97a4ab1db3b540c4342f7171fbb67c0aa387f72321",
+      "en_sha256": "c8cf0f225c88dc5fba3a4283ecc45f15368efbc205cfa2d625089ad8b8429c7f",
+      "origin": "ai"
+    },
+    "dataList[id=860505].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [UninvitedGuest]\nWaga Ataku równa liczbie wrogów z [UninvitedGuest]\n[WhenUse] Moc Starcia równa liczbie wrogów z [UninvitedGuest]",
+      "kr_sha256": "3103f5ce302eea9b768e87185dd0c813da2d237c8fbfd2372c7448b35613b7be",
+      "en_sha256": "e711080f01319bfdb250ba75646d11b6043d909100083fc5c685c3cb0d0160f5",
+      "origin": "ai"
+    },
+    "dataList[id=860505].levelList[level=1].name": {
+      "pl": "Leave, Interloper",
+      "kr_sha256": "6347f601a4f77b1995a5552f8509fae25fe8ca5fcde415646b992d283a4f43b7",
+      "en_sha256": "5d44f9e71245bc8d5249e115201f4deec1c7f9f64db5e5ffa15248dfa820f033",
+      "origin": "ai"
+    },
+    "dataList[id=860506].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "b8749445b33a0a9c5d17c87a15e0636ee3347b757b495991a64129db4e0a416e",
+      "en_sha256": "a568365989517493ef9d5b3c630871eb37354d055f327a7d69f3111c62a73fd1",
+      "origin": "ai"
+    },
+    "dataList[id=860506].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] ujawnia Portrait podpięty do tego slotu Umiejętności",
+      "kr_sha256": "900187d52513026bf7a254cec47ac59a263328b94b7177459bdb1b8d8459912d",
+      "en_sha256": "b0ed5ffcd74d961555560d00827c66582d5c90e03a1dfbd1dec99c199968e1e3",
+      "origin": "ai"
+    },
+    "dataList[id=860506].levelList[level=1].name": {
+      "pl": "My Master",
+      "kr_sha256": "d8180490d74918136e0eedfb2bacb07c582db19b03d6c5fe52737f12433902ea",
+      "en_sha256": "45dc12acde75705f999a60ddd642922bb716d8815316766ae540d256f10b9a88",
+      "origin": "ai"
+    },
+    "dataList[id=860507].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=860507].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] ujawnia Portrait podpięty do tego slotu Umiejętności",
+      "kr_sha256": "900187d52513026bf7a254cec47ac59a263328b94b7177459bdb1b8d8459912d",
+      "en_sha256": "b0ed5ffcd74d961555560d00827c66582d5c90e03a1dfbd1dec99c199968e1e3",
+      "origin": "ai"
+    },
+    "dataList[id=860507].levelList[level=1].name": {
+      "pl": "My Tragic Master",
+      "kr_sha256": "00adb75abdf2b1119279b5859f5c88bf5452bbd40d717c74a9e6560bcbf76001",
+      "en_sha256": "49fdc7ffff180637f6950a91ec449b97656403be9846310b301ed2a363991c53",
+      "origin": "ai"
+    },
+    "dataList[id=860601].levelList[level=1].name": {
+      "pl": "Master...?",
+      "kr_sha256": "e91b449dcc7aaafd3465b52daf271591d6c2ebad1e4bde6552d8d30b73d2f37a",
+      "en_sha256": "62a58d65037ab4b92d8416cda0e0b8b13d673c348db0dceb568364986c5903ee",
+      "origin": "ai"
+    },
+    "dataList[id=860602].levelList[level=1].name": {
+      "pl": "Master's Portrait",
+      "kr_sha256": "426dacb7a0dc82543ebb8d9d1d2c7a4478701615f0610ec5b79e6535a03fd1d9",
+      "en_sha256": "2a40e67166dd8df1aac7f89361e601b44c9d828cd8d5ff6daed48fa85b6be0fa",
+      "origin": "ai"
+    },
+    "dataList[id=860701].levelList[level=1].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=860801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [DefenseDown] w następnej turze",
+      "kr_sha256": "dbac80301a886e48ceb5d24b369de976eb1456c0e5d78b1534d9a9429f8a5b1d",
+      "en_sha256": "a29017fe823b018e5fb224bb9b98e1e11c581490d993aa934ece937540d508e5",
+      "origin": "ai"
+    },
+    "dataList[id=860801].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 1 Licznika [Charge]",
+      "kr_sha256": "ad5d5e6c9acbf517b80dbb4ed4819b088bfba158710351567361aa35b19d472d",
+      "en_sha256": "0bce29306f13a596f603a3850cdcc90dd2d896ddd7515328035f032bdb3101c4",
+      "origin": "ai"
+    },
+    "dataList[id=860801].levelList[level=1].name": {
+      "pl": "Horned Charge",
+      "kr_sha256": "85d57a86f51028793a639b4b4f8972e599614e4c9839eb341865dcbc5cadb56f",
+      "en_sha256": "1654cbaaf77479593ddce37f68d273a7900528298d2b1658127e7b026a289ccf",
+      "origin": "ai"
+    },
+    "dataList[id=860802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [AttackDown] w następnej turze",
+      "kr_sha256": "617ae9db572db76f517c89c8fa1f24aa5999114659a7ba1981ff07cd9e007c0e",
+      "en_sha256": "a9d0013de1a8d34548dfab2c0bfa95bb47d162383cc2917ee6bc6d52335eeff4",
+      "origin": "ai"
+    },
+    "dataList[id=860802].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [AttackDown] w następnej turze",
+      "kr_sha256": "001b75af3516d5a869406cf7f0c3d8445d3e2f3192e5626cb3e912b92c0a070d",
+      "en_sha256": "7257bdad5ae0797a986c0a35b3e13968db1abd61de35191103333d3e03ca14f0",
+      "origin": "ai"
+    },
+    "dataList[id=860802].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 1 Licznika [Charge]",
+      "kr_sha256": "ad5d5e6c9acbf517b80dbb4ed4819b088bfba158710351567361aa35b19d472d",
+      "en_sha256": "0bce29306f13a596f603a3850cdcc90dd2d896ddd7515328035f032bdb3101c4",
+      "origin": "ai"
+    },
+    "dataList[id=860802].levelList[level=1].name": {
+      "pl": "Ram Charge",
+      "kr_sha256": "693d901312aa6331243f6dca28df7a1646d32b78e5586c8cefb8103e49a3f10f",
+      "en_sha256": "94d5762a68d7380a274c33fa574d94445769d58aa65b41aa419e188669647b64",
+      "origin": "ai"
+    },
+    "dataList[id=860803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "4000cc413a7856791a3417d453386b42b675217d903583f684a46b9021916364",
+      "en_sha256": "7b458c4b48cde39483eb2455e90bce854b7bb9835460657f98b8c22bc052a946",
+      "origin": "ai"
+    },
+    "dataList[id=860803].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "c0efb7184823f902c23f06ca73ca56d135e6c3ef060a1f359abf16b5102e4abb",
+      "en_sha256": "ac1afd9ec3e2785c329f72e0241c6957028bd33b2552e63b9bdd91d27f7aee28",
+      "origin": "ai"
+    },
+    "dataList[id=860803].levelList[level=1].name": {
+      "pl": "Lamb's Cry",
+      "kr_sha256": "3a1f2b6059435d5e1b96cdb4146c2c326fc627590b204fd62b23551c527df0fd",
+      "en_sha256": "0787b5e10aa4b248c9ca9a6a851db6d91cb0118031874e127a91f070ff1ae2d8",
+      "origin": "ai"
+    },
+    "dataList[id=860804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "84854da32f0f4198c19a34b2dfea3cb309aef1e3f6ab52d95e68edf21f95ecb2",
+      "en_sha256": "35e217289b73fb512ac55373cfd44a73d8c7f7f9620fee4a407130c8a8f88bf2",
+      "origin": "ai"
+    },
+    "dataList[id=860804].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [AttackDown] w następnej turze",
+      "kr_sha256": "001b75af3516d5a869406cf7f0c3d8445d3e2f3192e5626cb3e912b92c0a070d",
+      "en_sha256": "7257bdad5ae0797a986c0a35b3e13968db1abd61de35191103333d3e03ca14f0",
+      "origin": "ai"
+    },
+    "dataList[id=860804].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "c0efb7184823f902c23f06ca73ca56d135e6c3ef060a1f359abf16b5102e4abb",
+      "en_sha256": "ac1afd9ec3e2785c329f72e0241c6957028bd33b2552e63b9bdd91d27f7aee28",
+      "origin": "ai"
+    },
+    "dataList[id=860804].levelList[level=1].name": {
+      "pl": "Lightning Manipulation",
+      "kr_sha256": "d0ef58daaa6241bc64e8bd4c5a88882725f6a9bd09ab0c26e437e366b124b371",
+      "en_sha256": "cd3d82e52d68ca420e497bd6af9d8c94b5465e4093f15ae4834101e0b3ef5222",
+      "origin": "ai"
+    },
+    "dataList[id=860805].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [DefenseDown] w następnej turze",
+      "kr_sha256": "855f8badd738241dcd7db98d2f0a5b9520d4860efc7c2bf4dec4eb3c91a20c7c",
+      "en_sha256": "84091dbd080aca669c3a3d4b2682662741977638d529c771f59e86aa65eecc5c",
+      "origin": "ai"
+    },
+    "dataList[id=860805].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [AttackDown] w następnej turze",
+      "kr_sha256": "a4954e2a5e14b8622fad5ae3d97d3d7719abdf91e717c72cadf90d9342120a80",
+      "en_sha256": "830815fec830da041e541b060fe73b48fe40dc6da7480a26d8e9e0790955d658",
+      "origin": "ai"
+    },
+    "dataList[id=860805].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "5d76ed052893c5a8d60ed2845bca627bf47ae5b3593f24ec3e4daf7a6e6a2810",
+      "en_sha256": "035d3ebdcc297b2bbb652cdd0adfa7a8a39c40903d9db2d4459ce208e1e5eba0",
+      "origin": "ai"
+    },
+    "dataList[id=860805].levelList[level=1].desc": {
+      "pl": "[WhenUse] Waga Ataku +1 za każde 4 Liczniki [Charge] (maks. 5)\n[WhenUse] Moc Starcia +3 za każde 5 Liczników [Charge] (maks. 4)\n[WhenUse] zyskuje 1 [VioletDamageUp] za każde 6 Liczników [Charge] (maks. 3)\n[EndBattle] zużywa wszystkie Liczniki [Charge]. traci [ConnectedPlug]",
+      "kr_sha256": "b6326e98cc6b4c79ee100a752996a7e604f2c8388eff5c8f7bc43d3db0847e41",
+      "en_sha256": "3caf0985c4162993998d15e03ae58b794fc97590608460a6d7300f35222c47df",
+      "origin": "ai"
+    },
+    "dataList[id=860805].levelList[level=1].name": {
+      "pl": "Elektryczny Wrzask",
+      "kr_sha256": "0b72193a6a0b3fb15e3ad2a3ca7d4af1c15cb4c2ac80f1f981cd0a511e0f340c",
+      "en_sha256": "0259bf7b15783053b76157dc71eeb38b46f5f5719683022424b397de0e04e4fa",
+      "origin": "ai"
+    },
+    "dataList[id=860806].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[WhenUse] zyskuje 10 [Protection]\n[WhenUse] Waga Ataku +1 za każde 4 Liczniki [Charge] (maks. 5)\n[WhenUse] Moc Starcia +3 za każde 5 Liczników [Charge] (maks. 4)\n[WhenUse] zyskuje 1 [VioletDamageUp] za każde 6 Liczników [Charge] (maks. 3)",
+      "kr_sha256": "e4f308a90920753ea3cdf126454bdd5469feaea05f6708ebe1a346da89c1e45e",
+      "en_sha256": "66813a1870387e8d2ec58c1cf08bbf3b94dd1f4da8243541a03795ecb4d95352",
+      "origin": "ai"
+    },
+    "dataList[id=860806].levelList[level=1].name": {
+      "pl": "Elektryczny Wrzask",
+      "kr_sha256": "0b72193a6a0b3fb15e3ad2a3ca7d4af1c15cb4c2ac80f1f981cd0a511e0f340c",
+      "en_sha256": "0259bf7b15783053b76157dc71eeb38b46f5f5719683022424b397de0e04e4fa",
+      "origin": "ai"
+    },
+    "dataList[id=860807].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "4000cc413a7856791a3417d453386b42b675217d903583f684a46b9021916364",
+      "en_sha256": "7b458c4b48cde39483eb2455e90bce854b7bb9835460657f98b8c22bc052a946",
+      "origin": "ai"
+    },
+    "dataList[id=860807].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [DefenseDown] w następnej turze",
+      "kr_sha256": "dbac80301a886e48ceb5d24b369de976eb1456c0e5d78b1534d9a9429f8a5b1d",
+      "en_sha256": "a29017fe823b018e5fb224bb9b98e1e11c581490d993aa934ece937540d508e5",
+      "origin": "ai"
+    },
+    "dataList[id=860807].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [AntiSheepGround]\nMoc Starcia +1 za każdy [ConnectedPlug]\n[StartBattle] zyskuje (3 - liczba [ConnectedPlug]) * 2 [Protection]\n[WhenUse] zyskuje +1 Licznik [Charge]\n[DefeatDuel] jeżeli cel ma [AntiSheepGround], zyskuje 1 [ConnectedPlug]",
+      "kr_sha256": "531c9745e1b2cabe31576d7a0e4b62b9fb2292bce972239c5da56819f297ed81",
+      "en_sha256": "39426b977b3c55d919098fe62afa91d8fa629041c34d000c8ea0e05dad769984",
+      "origin": "ai"
+    },
+    "dataList[id=860807].levelList[level=1].name": {
+      "pl": "Grounding Refusal",
+      "kr_sha256": "983ef8ef1c9ca38e2cdb32bb18c0adb255d9f79420494b3fffc64aedcf12c6d7",
+      "en_sha256": "6a9a6778d7b1fbae97095deaf93381223393cd824f358d1b307fbbe875bdb164",
+      "origin": "ai"
+    },
+    "dataList[id=862801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "84854da32f0f4198c19a34b2dfea3cb309aef1e3f6ab52d95e68edf21f95ecb2",
+      "en_sha256": "35e217289b73fb512ac55373cfd44a73d8c7f7f9620fee4a407130c8a8f88bf2",
+      "origin": "ai"
+    },
+    "dataList[id=862801].levelList[level=1].name": {
+      "pl": "Overcharge Release",
+      "kr_sha256": "eda7acc190acdb20f19844128836cea32f34b9233da98a93bb288d8cfd3357ac",
+      "en_sha256": "6c80da2c1eada110eb3dded5872c4de899c448aee9bd122c2660ece03c4f586e",
+      "origin": "ai"
+    },
+    "dataList[id=862901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=862901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=862901].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 6+ [Sinking], Moc Monet +1\n[WinDuel] nakłada +3 Licznik [Sinking]",
+      "kr_sha256": "e48827d1d4b5dfedb9b4486488d1f69f336cddb1373c2b42e538f9adec252d8f",
+      "en_sha256": "700995bec6c79bddaa0374d3a352e447d3a64b7498537a3c7e905ba859e9099f",
+      "origin": "ai"
+    },
+    "dataList[id=862901].levelList[level=1].name": {
+      "pl": "Enveloping Resignation",
+      "kr_sha256": "8d840d9216b8d35b94fa06f3bdb1664b185b4ff7c56d77da1e8f94e2a03e8f15",
+      "en_sha256": "45e0b9a21c8555895e6ace9cff468bb2560f06c5df3755102ad0a6a208cd3d19",
+      "origin": "ai"
+    },
+    "dataList[id=862902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 2",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=862902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=862902].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=862902].levelList[level=1].desc": {
+      "pl": "Moc Monet +1 za każde 6 [Sinking] celu (maks. 2)\n[WinDuel] nakłada +3 Licznik [Sinking]\n[DefeatDuel] zmniejsza Licznik [Sinking] o 1",
+      "kr_sha256": "666831de6fcc063e0718da92cd476baad76ca5d62c6152f6d09faabf742a99d4",
+      "en_sha256": "dfa8da7f000f4d9b7ed864441b854738385268ff41a8d8519e70c7fe66672838",
+      "origin": "ai"
+    },
+    "dataList[id=862902].levelList[level=1].name": {
+      "pl": "Strangling Despair",
+      "kr_sha256": "b3a5a8b0ad48a94822a98e9aecd469d407e1bd2355f11a8d7823aba0e54844d3",
+      "en_sha256": "5bf995c8874d19ee799815b30117efbdf38ab5fa784f56e7e58a0f81023dbdcb",
+      "origin": "ai"
+    },
+    "dataList[id=862903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=862903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=862903].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=862903].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=862903].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma [Binding], Moc Starcia +1\n [WinDuel] nakłada +4 Licznik [Sinking]\n[DefeatDuel] zmniejsza Siłę [Sinking] o 2",
+      "kr_sha256": "89630f0481d7ccf62f131ea7c23bafbdfd1d4f42b1fff4e069373693d9db5846",
+      "en_sha256": "1cba5a46595e1521fbb932de768cdec2b3e74464536258cd5f053f3ff6f78900",
+      "origin": "ai"
+    },
+    "dataList[id=862903].levelList[level=1].name": {
+      "pl": "Chainbreaker",
+      "kr_sha256": "2ab227cde1ebc80d290e8f537d7a1a4f1d7b1e21e66e5d2fb66cae9662ef62f2",
+      "en_sha256": "bc622c3a6a7d2104d1eb30f36efe5a2fda49fa9bdc2fcf9424344f7756e6d02c",
+      "origin": "ai"
+    },
+    "dataList[id=862904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze\n[OnSucceedAttack] nakłada [Vibration] w liczbie równej [Sinking] celu",
+      "kr_sha256": "f61d3d260a5a769b981c4b4a76c4db8c7649396b00939603d27e5c14232978d0",
+      "en_sha256": "b57c355c73ba8f44666b0b36ea8dfa3f953581fc0c2a38041ede24b1ea8b2bed",
+      "origin": "ai"
+    },
+    "dataList[id=862904].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=862904].levelList[level=1].desc": {
+      "pl": "Moc Monet +1 za każde 6 [Sinking] celu (maks. 2)\n[DefeatDuel] zmniejsza Licznik [Sinking] o 2\n[DefeatDuel] nakłada [BandageOfTheBoundKing]",
+      "kr_sha256": "001efbd1fa50922395bba93af9d681b133f9ce64326abcea1d8a390fbbe71d40",
+      "en_sha256": "808ad3fe4c8497beea19384da1ef813a667023bff59c55b7118230eebc31abcd",
+      "origin": "ai"
+    },
+    "dataList[id=862904].levelList[level=1].name": {
+      "pl": "Łańcuchy Uwiązania",
+      "kr_sha256": "96fb49e6815bdfc90a2cae42895c9938fd4dd4754d7ba3e4e75fc42c2868ad6c",
+      "en_sha256": "3400af530d2ee9cd65c634db245cd28715e49546414cc6e237d2c30e8c16a17e",
+      "origin": "ai"
+    },
+    "dataList[id=862905].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [SinkingSurge]",
+      "kr_sha256": "423ff2321a3a4c3a6698fd97a4ab1db3b540c4342f7171fbb67c0aa387f72321",
+      "en_sha256": "c8cf0f225c88dc5fba3a4283ecc45f15368efbc205cfa2d625089ad8b8429c7f",
+      "origin": "ai"
+    },
+    "dataList[id=862905].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma [Binding], Moc Starcia +1\n[WinDuel] nakłada +2 Licznik [Sinking]\n[DefeatDuel] zmniejsza Siłę [Sinking] o 4",
+      "kr_sha256": "7d9d7e3b3fec55db433fd34193c461c274604cfbf4ec4950a146176463f15cfa",
+      "en_sha256": "44cb87f29e16547c362d046fa76ef262e09f65dbf8a8148b6fcd947390bcf3b8",
+      "origin": "ai"
+    },
+    "dataList[id=862905].levelList[level=1].name": {
+      "pl": "Thou Wilt Sink",
+      "kr_sha256": "2cc57fca235b9eecbcf33c726152009af4bd1bff191dfa5d857fda4d07eaf6b3",
+      "en_sha256": "53aa0b2feac6751eb2e6ff3b1e2e49f91ad9f71e68139bf9430baaed165eaaa8",
+      "origin": "ai"
+    },
+    "dataList[id=862906].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta jednostka zadała celowi obrażenia, nakłada [Vibration] w liczbie równej [Sinking] celu",
+      "kr_sha256": "920b1806dce94acf409b9581451aa08d114989a6fddc59caad8e8af2eb645bc4",
+      "en_sha256": "6feb2bac9ef3e805faca4e09d288550f8799756e1a049373a643cae0ba1e30b8",
+      "origin": "ai"
+    },
+    "dataList[id=862906].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=862906].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[StartBattle] zyskuje 5 [Binding], 1 [ComeForwardToTheKing] i 2 [Enhancement] w następnej turze.\n[WhenUse] nakłada 300 Tarczy na cele z [BandageOfTheBoundKing]",
+      "kr_sha256": "0f87fa4ab887f21021922faca8bef2a51e43ce26f56dab1c03790535f83dc5aa",
+      "en_sha256": "311f030431802d316f77e9c287ca491646ebf4c0312c53d5a2a206bec50565c1",
+      "origin": "ai"
+    },
+    "dataList[id=862906].levelList[level=1].name": {
+      "pl": "Present Thyself Before the King",
+      "kr_sha256": "ab39f03fc8c69c8281b5aa55e5dc2844e6ec93a2688010b1237ec7ace2896b77",
+      "en_sha256": "ba9d992695efd6e8692d00f43c93e4df561c946ed667d4e6e28f9cd3ca1c9548",
+      "origin": "ai"
+    }
+  }
+}

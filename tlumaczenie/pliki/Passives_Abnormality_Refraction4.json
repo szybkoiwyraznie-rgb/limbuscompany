@@ -1,0 +1,352 @@
+{
+  "entries": {
+    "dataList[id=828001].desc": {
+      "pl": "- zyskuje [BandageOfTheBoundKing] i [BigWelcome] na czas walki.\n- na początku każdej tury Król w Spętaniu obdarza tę jednostkę łaską.\n- łaska Króla w Spętaniu zmienia się co turę, w następującej kolejności: [Enhancement], przywrócenie Poczytalności i przywrócenie HP. jeżeli mniej niż 6 Wasali (Peccatulum Zazdrości) przeżywa, łaska zostaje wzmocniona.",
+      "kr_sha256": "fd3c65ee010e3c6e65b76473ca780c99b7a5bd58916bdc2a333060efa05d1fb5",
+      "en_sha256": "175f79cc57b26ea809726c25a509e29b0475afefc6c09a4a50fadc4a3d30095e",
+      "origin": "ai"
+    },
+    "dataList[id=828001].name": {
+      "pl": "Wasal Króla w Spętaniu",
+      "kr_sha256": "4a4e865dfe9d38dfea48b829c1c07f25a060c8af482c7b44fbad8de199d659a7",
+      "en_sha256": "77d105d054ccc69dd56220413772e85b2aedea4ff015d605f45d34eb18107945",
+      "origin": "ai"
+    },
+    "dataList[id=828002].desc": {
+      "pl": "NOTHING TO SEE HERE",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "bf21523dbcf1007d4c733141622c5708c811ae6b092dc878d48d366310a40131",
+      "origin": "ai"
+    },
+    "dataList[id=828002].name": {
+      "pl": "NOTHING TO SEE HERE",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "bf21523dbcf1007d4c733141622c5708c811ae6b092dc878d48d366310a40131",
+      "origin": "ai"
+    },
+    "dataList[id=828003].desc": {
+      "pl": "LOOK AWAY!",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "2e49febfcc84001f5423c245031eb79485ccfc4d49f2376e06e78a5c13785cb1",
+      "origin": "ai"
+    },
+    "dataList[id=828003].name": {
+      "pl": "LOOK AWAY!",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "2e49febfcc84001f5423c245031eb79485ccfc4d49f2376e06e78a5c13785cb1",
+      "origin": "ai"
+    },
+    "dataList[id=828004].desc": {
+      "pl": "zadaje +15% obrażeń i otrzymuje o 15% mniej obrażeń",
+      "kr_sha256": "37e69c2e8e61f1a1fb84bbf70cae43d3d2a2b1f6ed832bd1de28360245221279",
+      "en_sha256": "1cf0e2012970fbd5b3fcbeed13007944778c807fea5505b47fc6f8b4cf007d40",
+      "origin": "ai"
+    },
+    "dataList[id=828004].name": {
+      "pl": "Peccatulum Zazdrości 2. stadium",
+      "kr_sha256": "973febd7342ff5932b4a5e716d2b34d4c1eb3e003f2a9af413a8ca8982343438",
+      "en_sha256": "f02f587994e81bea3842a007a474c28d76787057a725ccdeb77cf64aec1e8ee6",
+      "origin": "ai"
+    },
+    "dataList[id=828005].desc": {
+      "pl": "Poczytalność startowa +30",
+      "kr_sha256": "9fb1d2ab93320687bd982a9157f9e9999be3af0e2d957e5fb2ae62a8e65cb9ea",
+      "en_sha256": "e387237d1f0be73a62c74cb9e2a7796e82c3cab9f7267cb1ebee22bb4b9b040a",
+      "origin": "ai"
+    },
+    "dataList[id=828005].name": {
+      "pl": "Załamany Umysł",
+      "kr_sha256": "5131dbeac80eaaf863af122b0fad7c1f82556cad1b236729a527f3d274c7f85c",
+      "en_sha256": "7507ad7e8a73c23d67bf47b2669d0eac0da1bb77eb39c1f0c589b4746d6fbc7f",
+      "origin": "ai"
+    },
+    "dataList[id=828006].desc": {
+      "pl": "Poczytalność startowa -20",
+      "kr_sha256": "ae505d0a2f09239317aeda6ab4af2d65158644b9181605c9e187768e140a45fe",
+      "en_sha256": "2927d9cc59ba085fbc805c648f184f04705780d5178ae9539a551175afc416f5",
+      "origin": "ai"
+    },
+    "dataList[id=828006].name": {
+      "pl": "Załamany Umysł",
+      "kr_sha256": "5131dbeac80eaaf863af122b0fad7c1f82556cad1b236729a527f3d274c7f85c",
+      "en_sha256": "7507ad7e8a73c23d67bf47b2669d0eac0da1bb77eb39c1f0c589b4746d6fbc7f",
+      "origin": "ai"
+    },
+    "dataList[id=828007].desc": {
+      "pl": "Poczytalność startowa +45",
+      "kr_sha256": "c120b5acc3a9fb7959bb70c1ad46de86d32c6e2e63b42b8ebf803f65ff2d5c09",
+      "en_sha256": "4278949ec61a22a962fb6c94ceb591bc34ef77703e8874a10d83d9577b809d23",
+      "origin": "ai"
+    },
+    "dataList[id=828007].name": {
+      "pl": "Załamany Umysł",
+      "kr_sha256": "5131dbeac80eaaf863af122b0fad7c1f82556cad1b236729a527f3d274c7f85c",
+      "en_sha256": "7507ad7e8a73c23d67bf47b2669d0eac0da1bb77eb39c1f0c589b4746d6fbc7f",
+      "origin": "ai"
+    },
+    "dataList[id=828008].desc": {
+      "pl": "Poczytalność startowa +20",
+      "kr_sha256": "475a07f97404499025b5f5ddd5732c37179c855041cf2f36ec90231109dfaf1c",
+      "en_sha256": "dcd1c1e5c69222f3a777da894dad1c0845c8208b434942786485b1c72b4c7df5",
+      "origin": "ai"
+    },
+    "dataList[id=828008].name": {
+      "pl": "Załamany Umysł",
+      "kr_sha256": "5131dbeac80eaaf863af122b0fad7c1f82556cad1b236729a527f3d274c7f85c",
+      "en_sha256": "7507ad7e8a73c23d67bf47b2669d0eac0da1bb77eb39c1f0c589b4746d6fbc7f",
+      "origin": "ai"
+    },
+    "dataList[id=860501].desc": {
+      "pl": "jeżeli slot Umiejętności jest podpięty do „Master's Portrait”, przy ujawnieniu Portrait powstaje fala uderzeniowa w tym samym kolorze, co aura wokół „Master's Portrait”",
+      "kr_sha256": "9716d693aa3f2c408e940f186ee8e7c522a1e888d0a96acfc943bdc9e7d99d34",
+      "en_sha256": "6596c906e365bdffdad24c1005c079c7843819902763ab384caa8a7e74364bb3",
+      "origin": "ai"
+    },
+    "dataList[id=860501].name": {
+      "pl": "Portrait Afterimage Sighting",
+      "kr_sha256": "bda5fbf3b4f346cd547d43beb1d73765eb70ab2298926efb0e8dfc8a05ff54d8",
+      "en_sha256": "23e8fe169d2b79106730b17d69b3e72d506e15b95c0df64fb8f61f2c4a712966",
+      "origin": "ai"
+    },
+    "dataList[id=860502].desc": {
+      "pl": "gdy Portrety są obecne:\n- na koniec tury, jeżeli od pojawienia się Portretów minęły 3 tury,\n     - nakłada [UninvitedGuest] na wroga najwcześniej w kolejności rozmieszczenia bez [UninvitedGuest]\n     - pali wszystkie Portrety. nakłada wszystkim wrogom [Sinking] równy podwójnej liczbie spalonych fałszywych Portretów, Siłę i Licznik. zyskuje [AttackUp] i [Protection] w następnej turze",
+      "kr_sha256": "b2802f6ac44a789fe70aad7c945e23572d03b15bc293a83c6e8d299b9aca3181",
+      "en_sha256": "e9eca62beeea258b79679b804ddb724459fe92ce9dbd5022d9838ddc227265a1",
+      "origin": "ai"
+    },
+    "dataList[id=860502].name": {
+      "pl": "Throwing Out the Interloper",
+      "kr_sha256": "a3b88e3e7c1ae0f5e51bd83d2add8c4bd0430e556190569d01de4b056f0f57cd",
+      "en_sha256": "774de64013f48007ad2884ca9ddcf56faa09876b835a27cd9a0e5a99542286f2",
+      "origin": "ai"
+    },
+    "dataList[id=860503].desc": {
+      "pl": "jeżeli cel ma [UninvitedGuest], Moc Starcia +1 i zadaje +20% obrażeń",
+      "kr_sha256": "ce03f34c14ff491f9c5acd48dc3d8d1be79890dbb8dc732ba36e1f48241f47a8",
+      "en_sha256": "9b377aa597aa509e0bad3e8c7356a6de2b70b04a92b2303c8f97e5e6dd04899f",
+      "origin": "ai"
+    },
+    "dataList[id=860503].name": {
+      "pl": "Interloper Hunt",
+      "kr_sha256": "7f7bd1d08ca119aea102bf4655237f67da7e1a29b5e2426c20ce392f3e09fe18",
+      "en_sha256": "8e5bce29287a96933e8fe37fb2c7ee0d39696b284671148c9b8c306692ed9688",
+      "origin": "ai"
+    },
+    "dataList[id=860505].desc": {
+      "pl": "gdy jakiś wróg ma [UninvitedGuest], za każdą utratę 10% HP tej jednostki nakłada [UninvitedGuest] na wroga bez [UninvitedGuest] (maks. 4 wrogów)",
+      "kr_sha256": "dc672d1df012c2b0da66da8f4f9f2079315e7025f61185712268804df611ae26",
+      "en_sha256": "fd1781e91f2001744c34b0936320c3a40d475f9e9d2f0e9825cd040ac6f6230c",
+      "origin": "ai"
+    },
+    "dataList[id=860505].name": {
+      "pl": "You Must Be the Interloper's Family?",
+      "kr_sha256": "34549aa767532d895b90e2ed284643996f47f89396d7159d2573a111278ad997",
+      "en_sha256": "06434f60a1a8f404e6fc563f037e81dd4743321365429ba73f034fbc96bc7151",
+      "origin": "ai"
+    },
+    "dataList[id=860506].desc": {
+      "pl": "po 10+ Starciach z tym samym wrogiem, podczas rozstrzygania Starcia Moc Starcia losowo rośnie lub maleje o (Liczba Starć / 10). (zaokrąglone w dół)",
+      "kr_sha256": "3786547b541261936a0280bef55cdf435a0004722c03e5006c1c08a97fc04f7f",
+      "en_sha256": "7e54873559590597db6a15d98dc88f22fd4383a87bc68d5d0ad63ff38b24b472",
+      "origin": "ai"
+    },
+    "dataList[id=860506].name": {
+      "pl": "Refracted Struggle",
+      "kr_sha256": "8115274917785678cb15284f3329931d3089b1aadefeeaba82898a0820d7fb2c",
+      "en_sha256": "8aa60de8ab0ee38bb76396aa9583e5f0e44d2f832ba226b93e4e89da73b474cb",
+      "origin": "ai"
+    },
+    "dataList[id=860507].desc": {
+      "pl": "gdy Portrety są obecne, Odporność na Atrybuty i Typy Ataku maleje o 0.5, a jednostka zyskuje 8 [Protection].\njeżeli wrogowie pokonali „Master's Portrait”, nakłada [UninvitedGuest] na jednostkę, która je pokonała; następnie zyskuje 0.5 Odporności na Typy Ataku i 5 Wrażliwości na następną turę.",
+      "kr_sha256": "3e6fc2db0b8b9546e5e7f0858dea29257d92bfd53c3dde2ea9c70c509700dbdc",
+      "en_sha256": "cddb040a9983152ca9fc734e61391d75d526acddfddeda158bbb53f43ac93803",
+      "origin": "ai"
+    },
+    "dataList[id=860507].name": {
+      "pl": "Ooh, Dear Master...",
+      "kr_sha256": "1f88143d282e9edb65d62f292983916e8b6d68944d3084f0ea77b90171e2c2e5",
+      "en_sha256": "879647d6334cde62f63db0ae37c0dd4b7a0ef01dbb839e4fcd6a66c4093db17c",
+      "origin": "ai"
+    },
+    "dataList[id=860601].desc": {
+      "pl": "dopóki ta jednostka istnieje, co turę nakłada 1 Siły i Licznika [Sinking]",
+      "kr_sha256": "6545daa848349173f05c96684306375a423decd5e375606e33c2c07ccda9f994",
+      "en_sha256": "4f6d99705db350809f16b5a59fdb2fbd67e021e0d76a0782848dc638afcb71ac",
+      "origin": "ai"
+    },
+    "dataList[id=860601].name": {
+      "pl": "Peering Gaze",
+      "kr_sha256": "bd75f9f1dae0a4100005c3c24eec3ce5237aca384dc8d029235d9fffb5926e41",
+      "en_sha256": "162857c6967f93de6f41c9482a18e2996b14d5fed7c501cde9b137e422c7fe81",
+      "origin": "ai"
+    },
+    "dataList[id=860602].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, nakłada [UninvitedGuest] na wroga, który zaatakował ją ostatni\n- jeżeli 4+ wrogów ma [UninvitedGuest], efekt się nie uruchamia",
+      "kr_sha256": "1deaaf2c2f3b900bf86d9f8d5a9b354ba1c96e9cbc684bcb2ea77a2e991af901",
+      "en_sha256": "16bf193ddbcc185af2aab8c9e0eab0f296485f83e4381268ae6d086df086d3cc",
+      "origin": "ai"
+    },
+    "dataList[id=860602].name": {
+      "pl": "Nieproszony Gość",
+      "kr_sha256": "8181719a3358c492c778dcc27cec9d1c6286222257e8d7b410264cc5b40b78ee",
+      "en_sha256": "1fe9fbd895cc6e6e6bca5ca291355383b07abc71281e5e2d7e125d95f4d1a0ca",
+      "origin": "ai"
+    },
+    "dataList[id=860701].desc": {
+      "pl": "dopóki ta jednostka istnieje, co turę nakłada 1 Siły i Licznika [Sinking]",
+      "kr_sha256": "6545daa848349173f05c96684306375a423decd5e375606e33c2c07ccda9f994",
+      "en_sha256": "4f6d99705db350809f16b5a59fdb2fbd67e021e0d76a0782848dc638afcb71ac",
+      "origin": "ai"
+    },
+    "dataList[id=860701].name": {
+      "pl": "Peering Gaze",
+      "kr_sha256": "bd75f9f1dae0a4100005c3c24eec3ce5237aca384dc8d029235d9fffb5926e41",
+      "en_sha256": "162857c6967f93de6f41c9482a18e2996b14d5fed7c501cde9b137e422c7fe81",
+      "origin": "ai"
+    },
+    "dataList[id=860702].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, nakłada [UninvitedGuest] na wroga, który zaatakował ją ostatni\n- jeżeli 4+ wrogów ma [UninvitedGuest], efekt się nie uruchamia",
+      "kr_sha256": "1deaaf2c2f3b900bf86d9f8d5a9b354ba1c96e9cbc684bcb2ea77a2e991af901",
+      "en_sha256": "16bf193ddbcc185af2aab8c9e0eab0f296485f83e4381268ae6d086df086d3cc",
+      "origin": "ai"
+    },
+    "dataList[id=860702].name": {
+      "pl": "Nieproszony Gość",
+      "kr_sha256": "8181719a3358c492c778dcc27cec9d1c6286222257e8d7b410264cc5b40b78ee",
+      "en_sha256": "1fe9fbd895cc6e6e6bca5ca291355383b07abc71281e5e2d7e125d95f4d1a0ca",
+      "origin": "ai"
+    },
+    "dataList[id=860801].desc": {
+      "pl": "za każdy [ConnectedPlug], Minimalna Szybkość +1, zyskuje 1 [Vulnerable] i 1 [AttackDmgUp]\ngdy jednostka przechodzi w Oszołamienie w następnej turze z powodu posiadania 3 [ConnectedPlug], zyskuje 4 [Vulnerable]",
+      "kr_sha256": "284d950e9863e8fdd6dcdbe5eb994193835ca20d2c531bcacfd46550436aa0ae",
+      "en_sha256": "a3ebc21a4de119be0558bbc7e7b4e836b228162652b17fa3cf660c122e35ca0f",
+      "origin": "ai"
+    },
+    "dataList[id=860801].name": {
+      "pl": "A Familiar Connector",
+      "kr_sha256": "1fa0a0cab8843cf59daf165481156f4e39a15b7e88ac7ab54be305e37be1de08",
+      "en_sha256": "c8b1848071f4a8addd337312641c594c64de4cd3379e3f8f372ad69ff5fb0282",
+      "origin": "ai"
+    },
+    "dataList[id=860802].desc": {
+      "pl": "na koniec tury, za każde 10 Liczników [Charge], zyskuje 1 [VioletDamageUp] w następnej turze (maks. 2)",
+      "kr_sha256": "ecc76de51cdd0a6780b4a4705200b03d0f5706050713a1f94a3591e3ad1f074c",
+      "en_sha256": "cf758e8637037285f9f6583214e2baf7365b9f02f00c7dd0b800a34f9a1229ed",
+      "origin": "ai"
+    },
+    "dataList[id=860802].name": {
+      "pl": "Overcurrent",
+      "kr_sha256": "e1fd37cfe9db1cf9da8d0170651115e78190b539728a1d89a2ecbbaa333363b8",
+      "en_sha256": "c239b80434a6b142c1e6518eae61744cf31e238158782ee931543598a3bb8234",
+      "origin": "ai"
+    },
+    "dataList[id=860803].desc": {
+      "pl": "przy 25% HP, od następnej tury, z każdą mijającą turą:\n- zyskuje dodatkowo 1 [ParryingResultUp]\n- zyskuje dodatkowo 1 [AttackDmgUp]\n- zyskuje dodatkowo 1 [Vulnerable]",
+      "kr_sha256": "c4f760d3be654ccaf6edf25bb2a8d044fdaef07d1460cc87ed90d84e45ae87db",
+      "en_sha256": "935543087d8abae451c32156557e3b78375c8f7f7acbd7d4bf1c55aec42700fb",
+      "origin": "ai"
+    },
+    "dataList[id=860803].name": {
+      "pl": "Want to be Free",
+      "kr_sha256": "d8acc4b81962ce9fdfc5ac75b54f66a0fe96d2943e6632c3253e9bc76143a4fb",
+      "en_sha256": "c196d90ce9a0138f924dda1277626146c25cdd530ed1bd5705b6058379a7c0e8",
+      "origin": "ai"
+    },
+    "dataList[id=860804].desc": {
+      "pl": "na koniec tury, jeżeli ta jednostka nie ma [ConnectedPlug] ani [ThundercloudFormation], raz przywołuje Generator w następnej turze.",
+      "kr_sha256": "32c49247c7a061e746cbca48565554da74c53aa5d302ee4e5f2677d120a886fb",
+      "en_sha256": "92824669fad6f0262918aafaf8df0203e0ba6180b15443c697198bfe5567606c",
+      "origin": "ai"
+    },
+    "dataList[id=860804].name": {
+      "pl": "Generator",
+      "kr_sha256": "956f851984dbc72d66ed621fd95916b5cfe010a8ef3836307b23996c95f1e4bf",
+      "en_sha256": "1ade60abe93f5cfce908a10bb2d1b474f024779843faba4bb1f2ef06f277d3c7",
+      "origin": "ai"
+    },
+    "dataList[id=862801].desc": {
+      "pl": "na koniec tury, nakłada 4 [ThundercloudFormation] Dreaming Electric Sheep w następnej turze.\njeżeli jednostka już ten efekt ma, nie nakłada kolejnego.",
+      "kr_sha256": "95135e8f6efda5d5ae269960324fcdc2722ade6f64296a46cfeba612454545aa",
+      "en_sha256": "d8828dd714c3d851eb09944f6f12823ab5145adbf955cf719ef3bafa52adde4c",
+      "origin": "ai"
+    },
+    "dataList[id=862801].name": {
+      "pl": "Gromadząca się Chmura Gromu",
+      "kr_sha256": "76a9aaeab9a2af2040ca8a2fdd2b21a543da8776fd07491e216991c41ee0578b",
+      "en_sha256": "920c1920756a862be817743f1cfcb9f65fa76b5f1ebb7083aa848650f7f38bbd",
+      "origin": "ai"
+    },
+    "dataList[id=862802].desc": {
+      "pl": "przy trafieniu, nakłada 1 [AntiSheepGround] na atakującego (1 raz na turę)",
+      "kr_sha256": "7bd81afaad325ebf9742cd6cbd49f713e7b689fc08a9b7842e80d868984ad3cc",
+      "en_sha256": "afa710cbb28357810f84743e26707e027d0f5e8ac13d9814ab6d145bb4fa4129",
+      "origin": "ai"
+    },
+    "dataList[id=862802].name": {
+      "pl": "Odłączona Wtyczka Uziemiająca Stacji Wielkiej Owcy",
+      "kr_sha256": "3d70c10b3c7f569eaa65a77d5dbc45a24cb0d9cebb219f6fec1279e9b26bcf56",
+      "en_sha256": "a09baf59c3131fa9c79ec37a6f37ee14b38cf055b4e3b8975171539ce36df0e5",
+      "origin": "ai"
+    },
+    "dataList[id=862803].desc": {
+      "pl": "redukuje wszystkie otrzymywane obrażenia do 0",
+      "kr_sha256": "0419d907d9a36a7902291d057ff6d786a546fe66af42f305b36d5178b970f2ef",
+      "en_sha256": "caf18206355998b5c4fc7281774b7ef2a58bd359c414f8527daf8b0d5adc7f83",
+      "origin": "ai"
+    },
+    "dataList[id=862803].name": {
+      "pl": "Safety Plug",
+      "kr_sha256": "55b961576921d10acdad5689ba5b5abb9aedeb649750a4dd5b94af03206dfa50",
+      "en_sha256": "8948a5bfee4fd7701017bf4e2c2e097f86a121bd99d168830329896308050fac",
+      "origin": "ai"
+    },
+    "dataList[id=862901].desc": {
+      "pl": "na początku 2. tury przywołuje świtę Króla w Spętaniu.\nwasale Króla w Spętaniu ginąc, są zastępowani kolejnymi wasalami; łącznie przywoływanych jest 12 wasali.",
+      "kr_sha256": "8c9fe8e176d0fb94ec73e4d75b4f21a1bfebb87297deee4ecfe0bbe760a13dbb",
+      "en_sha256": "4ded63e480f955676f8b27f8cbbe18649b57cb019a1706720415c7c78dd95c94",
+      "origin": "ai"
+    },
+    "dataList[id=862901].name": {
+      "pl": "Prelude of the Banquet",
+      "kr_sha256": "bb70da5697896b8fb95d80b005459ff8d403baced8d1be84a1209bc97757f836",
+      "en_sha256": "3a7fd210c1e20a3dd6ae884d6d07817b713ae95a296dbc9a951c7ea01c90a928",
+      "origin": "ai"
+    },
+    "dataList[id=862902].desc": {
+      "pl": "gdy wszyscy wasale zostaną pokonani, Król dołącza do walki.",
+      "kr_sha256": "4ff9fafc89364eeee204ce3c888641c8910f89a1a52bd2323625c9458dd977ee",
+      "en_sha256": "c5a7824f065242257e981c7b44d382efccceca1ee033525066bea51454c5916a",
+      "origin": "ai"
+    },
+    "dataList[id=862902].name": {
+      "pl": "Closing of the Banquet",
+      "kr_sha256": "15fd065d5eb956fbdc49d1020c3ea34cf9a0234a45e37f214a155351d8f899ed",
+      "en_sha256": "b303e4d2878ce9060a4c0d927cedf22fde79c6b2d29db71b2662aeebebb4e449",
+      "origin": "ai"
+    },
+    "dataList[id=862903].desc": {
+      "pl": "NOTHING TO SEE HERE",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "bf21523dbcf1007d4c733141622c5708c811ae6b092dc878d48d366310a40131",
+      "origin": "ai"
+    },
+    "dataList[id=862903].name": {
+      "pl": "NOTHING TO SEE HERE",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "bf21523dbcf1007d4c733141622c5708c811ae6b092dc878d48d366310a40131",
+      "origin": "ai"
+    },
+    "dataList[id=862904].desc": {
+      "pl": "gdy Część-Korpus zostaje zniszczona, nakłada [BandageOfTheBoundKing] na wszystkich wrogów.",
+      "kr_sha256": "27f898d41eea7d2f7b5deb286af579bcf099a03206c1ce4d068e5e56d1f794cc",
+      "en_sha256": "0edf2f0dbb4c6b33b56a3950358d26087f1e7553582afbfe880eb900c92b4b83",
+      "origin": "ai"
+    },
+    "dataList[id=862904].name": {
+      "pl": "Snapping Bandages",
+      "kr_sha256": "fc7f3d8f4c9bf66a4697ec00d9b6f952c7e6372c0e936274093c5c19e5fdcb73",
+      "en_sha256": "8464e6a533b25b9d57e4674707e1adb028c68db310d73944d0e05ade86b47d48",
+      "origin": "ai"
+    }
+  }
+}

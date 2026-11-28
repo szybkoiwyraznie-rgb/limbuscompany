@@ -1,0 +1,280 @@
+{
+  "entries": {
+    "dataList[id=857301].desc": {
+      "pl": "na początku tury, jeżeli Zielony Śluz wynosi 0, przechodzi w Oszołamienie. gdy Część-Perła jest Oszołamiona, wszystkie Odporności na Atrybuty Części-Perły maleją o 0.5.\ngdy dochodzi do siebie z Oszołamienia, zyskuje 10 Zielonego Śluzu.",
+      "kr_sha256": "bbd2960d85743e27640239c86f02f79e06446a159451a288b53317b47f3e3b06",
+      "en_sha256": "4dbf766b515a5128874093540541001ea1f53312c2bb473a4fc82dd71462d369",
+      "origin": "ai"
+    },
+    "dataList[id=857301].name": {
+      "pl": "Exposed Pearl",
+      "kr_sha256": "49d3e2937e168b6453367b3e038834bf10131601cb9077b225ee2e5aeb72e65c",
+      "en_sha256": "9367aa02efa6d2d1bf50c3b81d468e05cb2dc73c599f7d6a52736f1864ee934f",
+      "origin": "ai"
+    },
+    "dataList[id=857302].desc": {
+      "pl": "w turze użycia „Devouring Fluid”, Szybkość tej Części zostaje ustalona na 3.",
+      "kr_sha256": "501910ae8e4ae1f7aef477a65615bef38ccf2d3b66a858d1eebae0a229c0a0c9",
+      "en_sha256": "5be43af2055da9aa7751519f45aae30e87337857aabcd61aa4f8ca2bf114e035",
+      "origin": "ai"
+    },
+    "dataList[id=857302].name": {
+      "pl": "Gathering Slime",
+      "kr_sha256": "b7851abe4878f0c4e8123fc88987c78c98bad13b9d773d54815bff187597f5df",
+      "en_sha256": "0a13f8c80583cd0563f16804bce8e81a8cb9210a99eb332677ffc722c3070459",
+      "origin": "ai"
+    },
+    "dataList[id=857401].desc": {
+      "pl": "na koniec tury, nakłada wszystkim wrogom Truciznę równą (4 + liczba żywych Zielonych Śluzów).",
+      "kr_sha256": "48fccda3ea76d3520fe1ef2dca7b0102ee8614a71e49fc4b48e46183f5c3c64a",
+      "en_sha256": "c1fb50e87fbe4f7478f81c5092cbe13777c8cbfb84587a761e40639842c7c49b",
+      "origin": "ai"
+    },
+    "dataList[id=857401].name": {
+      "pl": "Contaminating Slime",
+      "kr_sha256": "80f6217ef6c4f20bb2d268211f9ecbcd6ead903fee0271210c89a6b4567cf483",
+      "en_sha256": "6ff3dd1a89a2f48773ddd839def78839954a0140cdf0972a46dedc35f9f212e4",
+      "origin": "ai"
+    },
+    "dataList[id=857501].desc": {
+      "pl": "od 2. tury, co turę, jeżeli Część-Świetlówka nie jest zniszczona, zyskuje 10 Poise w tej turze. zyskuje +3 Licznik Poise.\nod 2. tury, co turę, jeżeli Część-Świetlówka jest zniszczona, zyskuje 1 Paraliżu i 1 Spadek Obrażeń w tej turze.",
+      "kr_sha256": "65d135c9dd7a0332a68f6fa6debdcbd657022c4729edf49a664a2e898c28c5ea",
+      "en_sha256": "28e83f489f9fbeded8fb43f97a27c39293c842bd5c67f732f26d751a79965384",
+      "origin": "ai"
+    },
+    "dataList[id=857501].name": {
+      "pl": "Underwater Breathing",
+      "kr_sha256": "691322dacc16c1fac6b4153d9e186dbad2d16919e4291cd1fa611c64ce655016",
+      "en_sha256": "620f621f36fef2c2a8b9dca928a59739260b074b17188b8924c2dd4e2ed1f048",
+      "origin": "ai"
+    },
+    "dataList[id=857701].desc": {
+      "pl": "zamienia Umiejętności o atrybucie innym niż Gniew, w liczbie równej wartości Ognika, na Atrybut Gniewu.",
+      "kr_sha256": "04f72507e33ab78b38ac904af305aa479099ad73d9898a9644b0cef341ca2477",
+      "en_sha256": "e9a467596b66865f41fc79319485002b9908f6b188ea81fe57a2504b483b8621",
+      "origin": "ai"
+    },
+    "dataList[id=857701].name": {
+      "pl": "Flaming Ember",
+      "kr_sha256": "7c57284dc078decf86e14ddf1ff808a9ad3461357dfdd70b2ecfc6cda5f0c356",
+      "en_sha256": "16793ca13d9020683f8311924dce4b3506547518a03be158dec89fffcd46c795",
+      "origin": "ai"
+    },
+    "dataList[id=857702].desc": {
+      "pl": "przy trafieniu, nakłada [Combustion] w liczbie równej liczbie Umiejętności Atrybutu Gniewu, których Ardor Blossom Moth użyje w tej turze.\nprzy trafieniu, przywraca HP równe (liczba Umiejętności Atrybutu Gniewu, których Ardor Blossom Moth użyje w tej turze x 2).",
+      "kr_sha256": "6d11b01e611c92cfe6fb17accbbc25537834d49112b0d06f5d0b042dbfb5ca54",
+      "en_sha256": "46c67ed864feec92544c3e05b7284d28b14ac4354705e3248dc47baa67df1edf",
+      "origin": "ai"
+    },
+    "dataList[id=857702].name": {
+      "pl": "Interlocking Ardor Blossom",
+      "kr_sha256": "9e23feb0959075b0dd95d643631ec5de7f3b8b3594374e19774952434eaace4e",
+      "en_sha256": "6636abae6b7dd0315e8cd06fd6fbc7205c057283608b0ff5a3b2ebf3a78d3a16",
+      "origin": "ai"
+    },
+    "dataList[id=857703].desc": {
+      "pl": "przy 30% HP lub mniej, zyskuje o 1 więcej [MRcAiBa]",
+      "kr_sha256": "f9ad47f5e12da81171d8a797e76e938687a7a022daae9f35404dc6d820c38674",
+      "en_sha256": "21e31f82de0547e03d289743385cb48289039b12f35937d5409d74fb2a188f86",
+      "origin": "ai"
+    },
+    "dataList[id=857703].name": {
+      "pl": "The Last Ember",
+      "kr_sha256": "220dfc22d21f1d5035430b98f6d4e7b537bd05c40b1ddf818dac2abdd61a4e13",
+      "en_sha256": "11a747dc5b2a8f7b1ab91eb442a4d5b7a36c8e3c4552068abf6d1397b0ab77e9",
+      "origin": "ai"
+    },
+    "dataList[id=857704].desc": {
+      "pl": "przy użyciu „Ardor Blossom Star”, jeżeli anomalia ma 0 [MRcAiBa], używa „Stoke the Flames”.",
+      "kr_sha256": "93863f2995077e58a78b246bc1af9efa3b9bd5bfb6218a9a4ad2207f5891c72a",
+      "en_sha256": "c18bc07e03cb1ce735b52b11e733c3bf22681796edc950596047ebfee0bbfc09",
+      "origin": "ai"
+    },
+    "dataList[id=857704].name": {
+      "pl": "Stoke the Flames",
+      "kr_sha256": "8dd46e15f1afaea7fba8f2306c8f12c8a6c879c24671c89a62aef7f14f9104da",
+      "en_sha256": "efbd16f9756b85a56ac00b47f18887da836742d9a78d122ad370fae6dc91f514",
+      "origin": "ai"
+    },
+    "dataList[id=857801].desc": {
+      "pl": "na koniec tury przywraca wrogów z Oszołamienia i nakłada im (Poziom Oszołamienia x 8) [Laceration] oraz 2 [Reduction] w następnej turze.",
+      "kr_sha256": "d4cf7736a6ebb872b8e4bcbdfb96e6cfd197db3874e4b823d759565033d17efb",
+      "en_sha256": "024d4aa549c52fdbd045352d7604316eadb8a336b7a06d86de78fad51edc924e",
+      "origin": "ai"
+    },
+    "dataList[id=857801].name": {
+      "pl": "Białe Gossypium",
+      "kr_sha256": "955b45b53f7154e0440c4bf85b2562f3910cd42ee8fb54754b367b6360811904",
+      "en_sha256": "0bec481c3e0a33e0694b8a615c21c867427832ad5cee206e5713a8fb352ce90b",
+      "origin": "ai"
+    },
+    "dataList[id=857802].desc": {
+      "pl": "na koniec tury, nakłada 1 [Binding] wszystkim wrogom z Bawełną",
+      "kr_sha256": "09b14ada00df5541b8e7d39e9e9bb4692b7ce5713d930e2a248b0e2e52c96cc0",
+      "en_sha256": "54710e371505d62b038a9e34d64a19a9a07e4a8eab075dc45111ff9bdf3eaa7b",
+      "origin": "ai"
+    },
+    "dataList[id=857802].name": {
+      "pl": "Binding Roots",
+      "kr_sha256": "1fa8ca28751c07654a0a342f2fb815f65ca12e10e095700c67e994e98ad89c9a",
+      "en_sha256": "08a90e9fde25d8fd689c69778fcf27348e91059673f08c0606c44f375db6b1fb",
+      "origin": "ai"
+    },
+    "dataList[id=857803].desc": {
+      "pl": "przy 20%- HP Core, wchodzi w [MRcAfBb] na koniec tury. ten [MRcAfBb] nie wygasa.",
+      "kr_sha256": "93e8e1967443165c50c47caad4925913c1d8b17da51899fb7323a8b8824bdcfa",
+      "en_sha256": "65b206884e88d0a7634f1214901fbc29b35ea81d50d0c1b906c0d537a2d940de",
+      "origin": "ai"
+    },
+    "dataList[id=857803].name": {
+      "pl": "Czerwono Ubarwiona Bawełna",
+      "kr_sha256": "663c4c497f46dce8bda6da05e774cf6a0dd94f10dcf05fad425f733549dc2297",
+      "en_sha256": "5da9546a791b58365299f44e5c49c29f61be72c8346768c11c22f6f8fce564b4",
+      "origin": "ai"
+    },
+    "dataList[id=857804].desc": {
+      "pl": "przy trafieniu celu Umiejętnością ataku, przywraca HP równe [Laceration] celu.",
+      "kr_sha256": "8dd035b4fdd87743eb783c773a7913fec99c73557996b0b7dd6aa183cb332895",
+      "en_sha256": "b2ff4dd69238b935dfde24d3538ab1e9f1b16b67e5e3224ce391ea9e0b3481fa",
+      "origin": "ai"
+    },
+    "dataList[id=857804].name": {
+      "pl": "To be Drenched in Blood",
+      "kr_sha256": "6f945976a095b9f22b6d7b40711f58d38a3c5530822694bd9bce9060697272dd",
+      "en_sha256": "5501dd77b8b626395eaf4b30e49c9518c62c5988c744b52cc18d3cde31d58d69",
+      "origin": "ai"
+    },
+    "dataList[id=857805].desc": {
+      "pl": "jeżeli ta jednostka przegrywa Starcie używając „Scattering Gossypium”, w następnej turze używa „Encroaching Gossypium”.",
+      "kr_sha256": "1f861ba7436322938d32c6b82733a6669c5f6bd2e7c163707f359a63ed350c8d",
+      "en_sha256": "40f6717468873979ad2f22fdeccca4d7326e1d861c5499a632f468d4d17d0ed4",
+      "origin": "ai"
+    },
+    "dataList[id=857805].name": {
+      "pl": "Gossypium Planting",
+      "kr_sha256": "320c0de8128687e6d6d5ad8ccd4017f3e6f33e99f0d1c089a6f4111e87db8b46",
+      "en_sha256": "df02d83a0e6cc80b169711c5b6785c32475f2dfe93279da92bb9f6e836ee673e",
+      "origin": "ai"
+    },
+    "dataList[id=857806].desc": {
+      "pl": "gdy Część-Korpus zostaje zniszczona, wartość Bawełny wszystkich wrogów maleje o połowę.",
+      "kr_sha256": "f916b322ac2257e4295b20e4ed4ea6c952fddb5e14d38b901296140f9fe28df9",
+      "en_sha256": "2e3fcb46d2dc2546b795950e77096f227d6387f646ce389d6d08b532163d4b40",
+      "origin": "ai"
+    },
+    "dataList[id=857806].name": {
+      "pl": "Flowering Gossypium",
+      "kr_sha256": "9e05ad50c2860d5403f3eb9875ea11eef7623b8592e0b6aa0c9707d0cd9c51da",
+      "en_sha256": "347a3c25f228a549a57350728c1660f92e07a8a659997d9bba614be13463147a",
+      "origin": "ai"
+    },
+    "dataList[id=858501].desc": {
+      "pl": "nakłada 1 [MRcAmBc] na cel za każde trafienie Części 'Hands'. (3 razy na turę)\njednostki z [MRcAmBa] nie mogą zyskiwać [MRcAmBc].\ngdy Uchwyt z [MRcAmBa] zostaje zniszczony, wszystkie Części anomalii zyskują 3 [Vulnerable] w następnej turze.",
+      "kr_sha256": "64c3504cb89c6d60e0bc9374e36d362c09084b737dd7ecb9d1376061193bb122",
+      "en_sha256": "8d951de928b2426d9f3c7e93e66482ad61675dfa6b4db866c439cfe21c57975a",
+      "origin": "ai"
+    },
+    "dataList[id=858501].name": {
+      "pl": "Contempt and Gaze",
+      "kr_sha256": "058a0e7b15b267b5d51846efd0c406f41eed78083ee117011af95adbe6b2bbfd",
+      "en_sha256": "8dc6810d3939d3a2ad1e02211a7b44e5ca7225a7238b130fee79bee881ca52ab",
+      "origin": "ai"
+    },
+    "dataList[id=858502].desc": {
+      "pl": "gdy HP Core spadnie poniżej 30% Maks. HP, usuwa [MRcAmBa] i [MRcAmBc] wszystkim Osobowościom; następnie nakłada [MRcAmBd] na wszystkie Osobowości.",
+      "kr_sha256": "6d70cdae1289c903ddec9a566132acc6d7a9c81f9ced96aba9c41e79973c4897",
+      "en_sha256": "a13fccc1904434b53010cc33decc2a5712f0bae0b16bc0886ff608d31bfaa186",
+      "origin": "ai"
+    },
+    "dataList[id=858502].name": {
+      "pl": "Wszystkowidzące Spojrzenie",
+      "kr_sha256": "493da77cdebb8b5b5453efc0685fcdc0878b1f0448d1f33ee38e3b31611c402f",
+      "en_sha256": "583685b6264275a843f778dce94cc832fe95fc849e3add378aef7ffb481992ee",
+      "origin": "ai"
+    },
+    "dataList[id=858503].desc": {
+      "pl": "w określonych turach, jeżeli żaden wróg nie ma [MRcAmBbDisplay], używa „Crush”.",
+      "kr_sha256": "41bbfa8922d0223346825820054892fd8375437c33d464d0c88c372c4f4b9a4f",
+      "en_sha256": "29f94f166eba68227316ec8ce905ef7b8b2aaee399367895477db6f68c1d229d",
+      "origin": "ai"
+    },
+    "dataList[id=858503].name": {
+      "pl": "Crushing Grasp",
+      "kr_sha256": "708fb1b0ad415b03cac9a51eadf289fc72e105fd19f7de1f7f36d5fc2475d6a1",
+      "en_sha256": "cb01dc39869c06185fa11b133b6ca7342970f080f0ac22ce9e12795733673400",
+      "origin": "ai"
+    },
+    "dataList[id=858504].desc": {
+      "pl": "na koniec tury, za każde 10 Siły [Combustion], [Laceration], [Vibration], [Burst] lub [Sinking] na tej jednostce, zyskuje odpowiednio 1 [CrimsonTakeDamageUp], [ScarletTakeDamageUp], [AmberTakeDamageUp], [ShamrockTakeDamageUp] lub [AzureTakeDamageUp] (maks. 3).",
+      "kr_sha256": "da0696b2d427e525cadad1cc903a5a36a06904c94ab5d33ceb6b5e9be90ac88a",
+      "en_sha256": "10edde9c945bf6b9ef6829f492deba7b2c80752b6263e990c89541df96f1bec5",
+      "origin": "ai"
+    },
+    "dataList[id=858504].name": {
+      "pl": "Compounded Contempt",
+      "kr_sha256": "9c5ce533ceb048d752e2e933f2ffba83966f79967a276ac28868eb3d2ac6b420",
+      "en_sha256": "68ecfdc5124e8516e90bfb5591967846bad6f1695125d059f9b0f73a92a03ea3",
+      "origin": "ai"
+    },
+    "dataList[id=858505].desc": {
+      "pl": "przy trafieniu trafieniem krytycznym, zyskuje 1 [IndigoTakeDamageUp] raz na Umiejętność (maks. 3)\nprzy trafieniu Umiejętnością, która zużyła 8+ Liczników [Charge], zyskuje 1 [VioletTakeDamageUp] raz na Umiejętność. (maks. 3)",
+      "kr_sha256": "b05b0c477467ab4c2193822ced307c0192643ce69c907d5eb63f79b348a65cf2",
+      "en_sha256": "0833814a802853e8dd51b025c2f43d32f6cc0bb0b44d49d0927faafa27f9933d",
+      "origin": "ai"
+    },
+    "dataList[id=858505].name": {
+      "pl": "Penetrated Gaze",
+      "kr_sha256": "6de140bb2c4eae00db004f13b948aa5df5ed46f818b7ba2dabac6334da2dd3e4",
+      "en_sha256": "839f1faea9ccbdd02f696f357b3e8cac41a0da5c32570fef6a002954f37ba5e9",
+      "origin": "ai"
+    },
+    "dataList[id=858601].desc": {
+      "pl": "w chwili śmierci zadaje połączonym Syrenom 10 obrażeń i nakłada im 2 Wzrost Obrażeń w następnej turze.",
+      "kr_sha256": "ab3ff6797be17920a6b3dcf283f1dfa0d8e2d656d8580628ddaa0eedbc146c2c",
+      "en_sha256": "ee0981e2d14264c48cc2421c75a4b16b5d63ae37a544238c7662443ae9282f70",
+      "origin": "ai"
+    },
+    "dataList[id=858601].name": {
+      "pl": "Connected Hurt",
+      "kr_sha256": "05263f3aa159f2550d70a452932dacc9af6384ca0459bf142277d275d9a27f7f",
+      "en_sha256": "ad4459831407e7e056c6d8fe2e64443fb037d3a2980865003e9abc9879a16aab",
+      "origin": "ai"
+    },
+    "dataList[id=858801].desc": {
+      "pl": "na koniec tury, przy 50%- HP Core, zyskuje 1 [Enhancement] w następnej turze. (raz na walkę)",
+      "kr_sha256": "989d2a71a128245de97045b2a614d356169ad6a22309d5a4b72873772ab09fe9",
+      "en_sha256": "e0edae18793bb4b4991cdfd080c68df07b48d3a9cacda7b8b40aa78ed172d31e",
+      "origin": "ai"
+    },
+    "dataList[id=858801].name": {
+      "pl": "Injected Hatred and Animosity",
+      "kr_sha256": "b03987c3aaf46c7f952932f17ecd78cb25db52fe93ccc5df81261e843793c26e",
+      "en_sha256": "1f00596ee7634f00cf86c70c969bb0c0acaf949da4a7e7d7ab84cdced8f798db",
+      "origin": "ai"
+    },
+    "dataList[id=860401].desc": {
+      "pl": "na koniec tury, przy 2 lub mniej Stosów [MRcAmBbDisplay], zadaje obrażenia równe połowie Maks. HP celu. następnie wszystkie Części Spiral of <noparse>Contempt</noparse> przywracają tyle samo HP, ile wynosiły obrażenia zadane przez ten efekt.",
+      "kr_sha256": "b53bacdbc0aabad8e072d3bd28f1226decb153ac0ea6b6ea393f2fbbd29ac84b",
+      "en_sha256": "db8b19097d670b9d2d317b38dcc2aaa75b95fd2c4b5ade74b48ed78dea9374ca",
+      "origin": "ai"
+    },
+    "dataList[id=860401].name": {
+      "pl": "Uchwyt",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=860402].desc": {
+      "pl": "na koniec tury, jeżeli ta jednostka stała się Uchwytem, mając <noparse>Contempt</noparse>, usuwa <noparse>Contempt</noparse> wszystkim Osobowościom, gdy Uchwyt zostaje zniszczony przez Osobowość.",
+      "kr_sha256": "2f1602e4ba889053e8c7e27dc1c6247ddd55234e10d4dff15afd004b4c206bf9",
+      "en_sha256": "faf15e19051261786ef53e94f474d615ebedbde349927d872977722a88d07c4a",
+      "origin": "ai"
+    },
+    "dataList[id=860402].name": {
+      "pl": "Rescue",
+      "kr_sha256": "88c22147d8ed0418bb9a53b9ea7a98f9e908d8a8163b6cce557299ff9216c039",
+      "en_sha256": "a29dbdd38f71a09d7ecb1b6a4c65ea1d1c4a2dd046b692706531a687dd744f46",
+      "origin": "ai"
+    }
+  }
+}

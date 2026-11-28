@@ -1,0 +1,520 @@
+{
+  "entries": {
+    "dataList[id=8571].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8571].name": {
+      "pl": "Refracted Skin Prophet",
+      "kr_sha256": "7752135bd11664cccdd35e4aecdb425fd52c2fecca71d68a35972eacf21d47ad",
+      "en_sha256": "9a3dd76c442173e298c0966cd10ea32ef605c715cd6abc15ca2b9484d2a86590",
+      "origin": "ai"
+    },
+    "dataList[id=8572].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8572].name": {
+      "pl": "Refracted Candle",
+      "kr_sha256": "80dbf5a5349dd5db88788aa91af7922335d7a2c3b7644863e3faab837790882d",
+      "en_sha256": "dcf28153ac3c167cf052f36df495cdbcee63aafaab65100d95d7d494acec6217",
+      "origin": "ai"
+    },
+    "dataList[id=8573].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8573].name": {
+      "pl": "Refracted Ambling Pearl",
+      "kr_sha256": "3235be2d6d583593729645628d30367f639b0be7e090ada43c7b26ba4c735692",
+      "en_sha256": "13fc0724d41b89d06218219ef11e7f774d2e7bea54ff106883bbc77d6f1444e4",
+      "origin": "ai"
+    },
+    "dataList[id=8574].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8574].name": {
+      "pl": "Refracted Green Slime",
+      "kr_sha256": "ab9a7f73bae8aef9cbfaa8b29d86cb0ab80fb58ca55d45f7c490917e7fdefb69",
+      "en_sha256": "ec1db92a14b9acb65ba2908ce866622a5747a1db8ca8c0278a05179669874480",
+      "origin": "ai"
+    },
+    "dataList[id=8575].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8575].name": {
+      "pl": "Refracted Dream-Devouring Siltcurrent",
+      "kr_sha256": "6954d15703efa4a7fe04061388d1cc5f21471eb3c6c097abbf98257cd6435225",
+      "en_sha256": "3b0aead63137dfc7a2a7aa1346f5688f853301b9f5a28d297c60bf4785226fa1",
+      "origin": "ai"
+    },
+    "dataList[id=8576].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8576].name": {
+      "pl": "Refracted Flotsam",
+      "kr_sha256": "2cef33e77a184036bef2066fa83f80dddf233874caf907841f06b3eb4a44252b",
+      "en_sha256": "4fd27fbd254c350cac77c824d0c281af14376b13b00e4935e7dc7e0b8b9a6986",
+      "origin": "ai"
+    },
+    "dataList[id=857701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=857701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=857702].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=857702].name": {
+      "pl": "Wings",
+      "kr_sha256": "c000ef4cba7a6b5830d49d35190833efeb889fb9d9f33c1bb42cef945d7c8b3b",
+      "en_sha256": "d80f7da094e11c894ecd51a891e975e3916eb836276a2b4599c7f33be51f250d",
+      "origin": "ai"
+    },
+    "dataList[id=8577].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8577].name": {
+      "pl": "Refracted Ardor Blossom Moth",
+      "kr_sha256": "e61641d174bb3598e182c5fe3c3dfb8a6f1c983915c364f44d5dae9cdf392698",
+      "en_sha256": "fa37137c33673ff0fbab32f026e1c3822fd4caf8697ea558e476ae3b05aa7058",
+      "origin": "ai"
+    },
+    "dataList[id=857801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=857801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8578].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8578].name": {
+      "pl": "Refracted Drenched Gossypium",
+      "kr_sha256": "75743e615571f16d1e009462fe733700222b91eeff722ba1e54b14787a405f47",
+      "en_sha256": "291f025dc4a4612d3048908b2985f002c74c6db4915a05cb5818a2387f55a0d4",
+      "origin": "ai"
+    },
+    "dataList[id=8579].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8579].name": {
+      "pl": "Refracted Ahab",
+      "kr_sha256": "a001e778b9acdcc03896ff3eff04cfb6c22869778b5a5b308b3472e6f680bddc",
+      "en_sha256": "fbfe3c4a055ed863c41f06ebccf49270eb6947192416d5c884bde94b8e2f74f0",
+      "origin": "ai"
+    },
+    "dataList[id=8580].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8580].name": {
+      "pl": "Refracted Queequeg",
+      "kr_sha256": "393f98157c90f6668cc2ea44948997fdc13dde730f0961e80e43e8314952f2a1",
+      "en_sha256": "835f0ef9a1efb7827787d471909e2274b15a606a04bf576e01ec44e351b2409e",
+      "origin": "ai"
+    },
+    "dataList[id=8581].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8581].name": {
+      "pl": "Refracted Starbuck",
+      "kr_sha256": "92115ee2ff46a0f6de703be0d7b071fd4b5fc23d22915ca761ce9afd2d70e07a",
+      "en_sha256": "c3d3e82e8924048afc4c6aac84cc934675c56c5bf67f35d2b4bd48a85b884c8e",
+      "origin": "ai"
+    },
+    "dataList[id=85822].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=85822].name": {
+      "pl": "Refracted Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "9bc8b44fe46c951b580dda31c00082312f59dce3da41b79bce99452c763feb92",
+      "en_sha256": "18daad2b4a0e0dfb69bb2eac20dce6dfffafbb7fd5aefb0de48af9e335f9239a",
+      "origin": "ai"
+    },
+    "dataList[id=85823].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=85823].name": {
+      "pl": "Refracted Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "9bc8b44fe46c951b580dda31c00082312f59dce3da41b79bce99452c763feb92",
+      "en_sha256": "18daad2b4a0e0dfb69bb2eac20dce6dfffafbb7fd5aefb0de48af9e335f9239a",
+      "origin": "ai"
+    },
+    "dataList[id=8582].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8582].name": {
+      "pl": "Refracted Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "9bc8b44fe46c951b580dda31c00082312f59dce3da41b79bce99452c763feb92",
+      "en_sha256": "18daad2b4a0e0dfb69bb2eac20dce6dfffafbb7fd5aefb0de48af9e335f9239a",
+      "origin": "ai"
+    },
+    "dataList[id=8583].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8583].name": {
+      "pl": "Refracted Blinded Pequod Town Villager",
+      "kr_sha256": "5791294d166554812ab3d6dcf63ed72dd0e2f69b83a5413cc7bd2dae226d9b47",
+      "en_sha256": "d3aade1e61ded08f92b28787fb2f82010f3c4aaadb7db97976b9306d437961b7",
+      "origin": "ai"
+    },
+    "dataList[id=8584].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8584].name": {
+      "pl": "Refracted Gagged Pequod Town Villager",
+      "kr_sha256": "d64964bae9042f8102ae033a5669bd391c9ff447150b50ad0a8391b6ca47f653",
+      "en_sha256": "7bc6e4b1e22dce89beaee5830d60f83d362ec0c71dc979aa5b58cd32f93e2fca",
+      "origin": "ai"
+    },
+    "dataList[id=858501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=858501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=858502].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=858502].name": {
+      "pl": "Hands",
+      "kr_sha256": "27d4fa6af704520dcfd68f93f00165137c414e7c1d8899d8206d2c73f6dffd2a",
+      "en_sha256": "6b7204778686145fbdd0951b9815c72adce7e8e6bd67adfd299e23088622fe54",
+      "origin": "ai"
+    },
+    "dataList[id=8585].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8585].name": {
+      "pl": "Refracted Spiral of Contempt",
+      "kr_sha256": "5d792f4f4dd17f4081cee4d57014116ac3a7e7ad6be65b603c73e3e246a7edef",
+      "en_sha256": "68e6cf24a8925508b6ff308aac22202129f030fabeea3d4b901c71394042761e",
+      "origin": "ai"
+    },
+    "dataList[id=8586].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8586].name": {
+      "pl": "Refracted Whale of the Porous Hand Mermaid",
+      "kr_sha256": "aa7c53f9aca7369cf1d0cac7990efac4f23066e003724b91e5df26a2db26d0b2",
+      "en_sha256": "8516522ac3229b90ff3c5deb755438670afcf5f8acedfe5288c717975652e347",
+      "origin": "ai"
+    },
+    "dataList[id=8587].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8587].name": {
+      "pl": "Refracted Whale of the Porous Hand Soldier Mermaid",
+      "kr_sha256": "dabf8476441cf4c7e5fd629bde5e33efb827f1298a993127671f1748c7e22562",
+      "en_sha256": "b044ff9d99ed015bc91acab545de8ac3360b139070af42562a9f0939bbc66b8e",
+      "origin": "ai"
+    },
+    "dataList[id=8588].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8588].name": {
+      "pl": "Refracted Blinded Pequod Town Villager",
+      "kr_sha256": "5791294d166554812ab3d6dcf63ed72dd0e2f69b83a5413cc7bd2dae226d9b47",
+      "en_sha256": "d3aade1e61ded08f92b28787fb2f82010f3c4aaadb7db97976b9306d437961b7",
+      "origin": "ai"
+    },
+    "dataList[id=8589].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8589].name": {
+      "pl": "Refracted Gagged Pequod Town Villager",
+      "kr_sha256": "d64964bae9042f8102ae033a5669bd391c9ff447150b50ad0a8391b6ca47f653",
+      "en_sha256": "7bc6e4b1e22dce89beaee5830d60f83d362ec0c71dc979aa5b58cd32f93e2fca",
+      "origin": "ai"
+    },
+    "dataList[id=8590].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8590].name": {
+      "pl": "Refracted Moustachioed Twinhooks Pirate",
+      "kr_sha256": "7bf5f0d451082a0dfbbd3a539f3378a5a51e8c253c2e9a07ee8707cba1690312",
+      "en_sha256": "0e5982648fff40e9882afc977a353df56537a4d5edee72d6acf8d2320d63470c",
+      "origin": "ai"
+    },
+    "dataList[id=8591].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8591].name": {
+      "pl": "Refracted Bandana-wearing Twinhooks Pirate",
+      "kr_sha256": "5aa9ff8a45113223c516cd1f8e97dcfb193182959b91e7185d787342efa09e1b",
+      "en_sha256": "2931239480231d343870814d962c758fe4f97de696951ba0731b301967957c4e",
+      "origin": "ai"
+    },
+    "dataList[id=8592].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8592].name": {
+      "pl": "Refracted Agile Twinhooks Pirate",
+      "kr_sha256": "7f49f1fd2b69c6720ee5d6d9e734c600b78ef70f9d4badfc37d232e2ce2eea47",
+      "en_sha256": "6458b752d5f3e73c9f1f69591b9aac0ae784d6e74ccfd173514f73be595cebde",
+      "origin": "ai"
+    },
+    "dataList[id=8593].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8593].name": {
+      "pl": "Refracted Tough Twinhooks Pirate",
+      "kr_sha256": "43ba9cdfe3e972b7717dc85b3f919b77a72425d94c9a2f5659d6fedc50292c4a",
+      "en_sha256": "d4382235d6ec3d9f8d4911df91ddfbcf3533190de527a70d16041df38abb4898",
+      "origin": "ai"
+    },
+    "dataList[id=8594].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8594].name": {
+      "pl": "Refracted Twinhook Pirates First Mate Smee",
+      "kr_sha256": "f28cb23117fa22996a6d261c37dd7da98590e257ba9f8d5742f900d848ac99bc",
+      "en_sha256": "d4c26a1dae01dab56f1611d54db488502fff89111e4273be5556c13f5e99a724",
+      "origin": "ai"
+    },
+    "dataList[id=8595].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8595].name": {
+      "pl": "Refracted Pallidified Thing-Shield",
+      "kr_sha256": "b91cc9362804649d2fd54deabaf5b1e8a1b83ef94f4da51d155fd14423bf2ca7",
+      "en_sha256": "e0db0afa610d04ee8d844d6fec878dcf5e38ae54b091ea95e263020915a419df",
+      "origin": "ai"
+    },
+    "dataList[id=8596].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8596].name": {
+      "pl": "Refracted Pallidified Thing-Club",
+      "kr_sha256": "31328e26a2f43e497d62b82746e376c2ab9fff30930c5f3506613039864aa1a5",
+      "en_sha256": "62c9518c9df373efdfd63312e00cce919ed700951226cc5292b9e163c6d714ce",
+      "origin": "ai"
+    },
+    "dataList[id=8597].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8597].name": {
+      "pl": "Refracted Pallidified Thing-Pirate",
+      "kr_sha256": "b6a1a6842468f9142dd03bd077db2c87434395106dcdf087a0d2c602b1ea2f95",
+      "en_sha256": "9eb21f996cc208d486d2fe27539df28338037aeb0257a74d8dd58e3c3b80793b",
+      "origin": "ai"
+    },
+    "dataList[id=8598].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8598].name": {
+      "pl": "Refracted Pallidified Thing-Hook",
+      "kr_sha256": "2b15b6d66b6d458866bc8804d008aba32296354684782e56eb6f612b33e8cec9",
+      "en_sha256": "119418150baa4797243703cb64addaf3e36a7eeb5e9c8fcb72418cafd42d3c75",
+      "origin": "ai"
+    },
+    "dataList[id=8599].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8599].name": {
+      "pl": "Refracted Pallid White Mermaid",
+      "kr_sha256": "3bfca1dd6e8d44733b82a6139685168b451e5ace8ffb52144a7896ea5fa8573e",
+      "en_sha256": "19ffcb9706b243e459df8f89e2df565fd3f0825b0124699d1445b90fa92f0357",
+      "origin": "ai"
+    },
+    "dataList[id=8600].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8600].name": {
+      "pl": "Refracted Pallid Blue Mermaid",
+      "kr_sha256": "0e00bf3f102226522f4d0ed7627d82b4484650cdee8311d79e5d2c830fd50bee",
+      "en_sha256": "7d2ca4a37297ff4de3b61b15b7b88d604f011a6933b7b837294edea2a268f511",
+      "origin": "ai"
+    },
+    "dataList[id=8601].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8601].name": {
+      "pl": "Refracted Pallid Entwined Mermaid",
+      "kr_sha256": "c10e42be8c610f64e80124d1ac83ff03558d8e5e653a2b1bf0b3f1d87389d11e",
+      "en_sha256": "625084fb0a5e72001987c657edd60b7e27acafbc04e31fdc4f27f19a10a316bb",
+      "origin": "ai"
+    },
+    "dataList[id=8602].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8602].name": {
+      "pl": "Refracted Pallid and Blue Mermaid",
+      "kr_sha256": "0b7fa87db0636315d1cbed170f334f9c6f775d43783e0feccd079a70e8b7094a",
+      "en_sha256": "bef15703aa8c765306fe8a3c4f6fa0715ebf7fb588f462c45d1a67930e64d00c",
+      "origin": "ai"
+    },
+    "dataList[id=8603].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8603].name": {
+      "pl": "Refracted Whale of the Thousand Strands Mermaid",
+      "kr_sha256": "da211612a5a5e8e1d7a6c5e6c302d0fb8ffa93c3a29a3d7f9bb50e4a17f393c5",
+      "en_sha256": "61f0de89ede903ca0c0467044de22cefe029118041d04f2e585d9c2fbb331791",
+      "origin": "ai"
+    },
+    "dataList[id=860401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=860401].name": {
+      "pl": "Uchwyt",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=8604].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8604].name": {
+      "pl": "Refracted Grasp",
+      "kr_sha256": "f61044dab22446cf3a84fedfc2dc4370f3cab63e0a0ba8b87ebebf5e6aeb6cd8",
+      "en_sha256": "534ef5c82d414793d5aa3a47e32bc243ee400c802e05abb4f6c4583239475777",
+      "origin": "ai"
+    },
+    "dataList[id=999999].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=999999].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    }
+  }
+}
