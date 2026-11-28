@@ -1,0 +1,1072 @@
+{
+  "entries": {
+    "dataList[id=128801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=128801].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każdych 2 wrogów z [ColdAirDOQ] (maks. 2)\n[WhenUse] Moc Końcowa +1 za każdy [ColdAirDOQ] celu (maks. 2)",
+      "kr_sha256": "9c5290fe76413246d0541092d1ce533c779398e52740ebe0b514127a6fe0a96d",
+      "en_sha256": "97f9f659d33c0e7aada3c1360ecb5e43a2d1e80e1970575eb49379cb54a919fe",
+      "origin": "ai"
+    },
+    "dataList[id=128801].levelList[level=1].name": {
+      "pl": "Tidepiercer Lance",
+      "kr_sha256": "461f923b0f0d254811a3d0d750aa4936fb4549f0856bd6bce98434279d39a0ac",
+      "en_sha256": "6ec01912e6410e8b9865ef47a65eaeaf8a8af19de553c6cc4256e887dfba1204",
+      "origin": "ai"
+    },
+    "dataList[id=128802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]\n- jeżeli cel ma [ColdAirDOQ], nakłada 1 [Sinking]",
+      "kr_sha256": "60c7cb7c680d9d21857f6a2eb351b36abdee099ce1735f7304d3e4079f28de71",
+      "en_sha256": "4b0c9271a8aeee3b27599999dc5d7294319b4c86acc406f887c9de4461da997d",
+      "origin": "ai"
+    },
+    "dataList[id=128802].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=128802].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "a1496a84e45301bf76a8cb7559a1085dac9125627cc0d7651cf9ad01f2d4f4ea",
+      "en_sha256": "72e6254810b0f722ec53ec3c7941902de81c18758cbe2dcffc846abe47b736ad",
+      "origin": "ai"
+    },
+    "dataList[id=128802].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każdych 2 wrogów z [ColdAirDOQ] (maks. 2)\n[WhenUse] jeżeli główny cel ma [ColdAirDOQ], Waga Ataku +1\n[WhenUse] Moc Końcowa +1 za każdy [ColdAirDOQ] głównego celu (maks. 2)\n[DefeatDuel] zadaje o 50% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "6c8bdfbd64debe8bdb8e697576c3a898ba62f46f35bc1a025471a43cd335bd33",
+      "en_sha256": "528b6e3c49977fb24e7f173a068ac6c6effd730451eb41b81ecda1b2e3d7efc6",
+      "origin": "ai"
+    },
+    "dataList[id=128802].levelList[level=1].name": {
+      "pl": "Tidebreaker Lance",
+      "kr_sha256": "422646ea9a979e7b546e15b717cf35e304334505710ed377b73ad30c78ebbb9a",
+      "en_sha256": "d40aeb944bf3aabdc9e1e36b2f709c32a0e0cebb6bf499730290e1b8fb6ea505",
+      "origin": "ai"
+    },
+    "dataList[id=128803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=128803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 3 [AttackUp] (1 raz na turę)",
+      "kr_sha256": "d9134d220c13ead2191d0a58eb0a27dd890c4178e89e3c31433cad69330c0c9f",
+      "en_sha256": "a8b78151e53b9d266950d9cd49f7b6af64d9cb10be286624d7d8b69e4f28156e",
+      "origin": "ai"
+    },
+    "dataList[id=128803].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=128803].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[EnemyKill] jeżeli cel ma [FreezingDOQ], przywraca 20 SP",
+      "kr_sha256": "628527431e9742e35f7eaeb20d7db271998e1588504c1801cc7798caeb98b723",
+      "en_sha256": "eb9e4c7eb8906113dd6214cb497d417f1b0ee554877c3932d410027d7ea3384b",
+      "origin": "ai"
+    },
+    "dataList[id=128803].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [FreezingDOQ]\nmoże stoczyć Starcie z tą Umiejętnością niezależnie od Szybkości\n[WhenUse] atakując cele z [FreezingDOQ], zyskuje Wagę Ataku +2\n[WhenUse] Moc Monety +1 za każdych 2 wrogów z [ColdAirDOQ] (maks. 2)\n[DefeatDuel] zadaje o 50% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "50e8c706dc245b0c2727b660f3dd0cb53e3a299ed52b93a41e77d5dbdfaa0dd4",
+      "en_sha256": "319d0ceb9572e2c835382f80522fb4a732de7de6a5b92b8a63e61a49a8a5746b",
+      "origin": "ai"
+    },
+    "dataList[id=128803].levelList[level=1].name": {
+      "pl": "Tide-Hunt",
+      "kr_sha256": "f651ed5cc48e00b49113c5cf180284eafb9a2e6fd2b2193f6a0b85b9e8bff1d1",
+      "en_sha256": "2f6a2fca3703cc3f5ac4f84f5f8e699aba2cbaa40f6f774e4fdcf2031cd12315",
+      "origin": "ai"
+    },
+    "dataList[id=128804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=128804].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +1 Licznika [Sinking]",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=128804].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 3 [AttackUp] (1 raz na turę)",
+      "kr_sha256": "d9134d220c13ead2191d0a58eb0a27dd890c4178e89e3c31433cad69330c0c9f",
+      "en_sha256": "a8b78151e53b9d266950d9cd49f7b6af64d9cb10be286624d7d8b69e4f28156e",
+      "origin": "ai"
+    },
+    "dataList[id=128804].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia Posępności równe 10(1 + Licznik [ColdAirDOQ] celu)",
+      "kr_sha256": "d84edb951b10414bbee8db99810b4dfe8b32e4c6be761e39eb4acab3c3d2636b",
+      "en_sha256": "3f4eb1c2d48b46403e9c4393b903ee8532c1d1f590a02c1741a0e3631b04e7e5",
+      "origin": "ai"
+    },
+    "dataList[id=128804].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[EnemyKill] jeżeli cel ma [FreezingDOQ], przywraca 20 SP",
+      "kr_sha256": "628527431e9742e35f7eaeb20d7db271998e1588504c1801cc7798caeb98b723",
+      "en_sha256": "eb9e4c7eb8906113dd6214cb497d417f1b0ee554877c3932d410027d7ea3384b",
+      "origin": "ai"
+    },
+    "dataList[id=128804].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[WhenUse] zadaje +5% obrażeń za każdego wroga z [ColdAirDOQ] (maks. 30%)",
+      "kr_sha256": "0e47193002297636bdfc9198320cd68839725be419711fde5a48e283bfe82013",
+      "en_sha256": "ebb63d79d4abc36f9ee5696c88d4292149449816a150fa2ac9b02ce99b800884",
+      "origin": "ai"
+    },
+    "dataList[id=128804].levelList[level=1].name": {
+      "pl": "Slay the Ocean, Slay the Ocean!!",
+      "kr_sha256": "ee380439ad61e57d985c3dfbd5bf2c2fe2f39a53dfc72560d69fda14791a26e6",
+      "en_sha256": "4e814e5727682d437d84c436d36fe86db5dce1b2d6764889691bdaca97526958",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 5 [Sinking]",
+      "kr_sha256": "35c901d6f2af036517be96748c8e392571a50d35367673e75344a3d2c048d4c1",
+      "en_sha256": "5db32a7892d0ca634ecab85cf1074acd125ad46b8e2c28a56511dd4730e36d14",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +1 Licznika [Sinking]",
+      "kr_sha256": "6f92e7a575bdf083df13b07e7f4b73df72ab3b860f3dc4ecf4b162d135e11847",
+      "en_sha256": "f1c9a3408cd8bd0609ec190ce0d5116d24d45ef9ca8abe592eff0673200d1123",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 3 [AttackUp] (1 raz na turę)",
+      "kr_sha256": "d9134d220c13ead2191d0a58eb0a27dd890c4178e89e3c31433cad69330c0c9f",
+      "en_sha256": "a8b78151e53b9d266950d9cd49f7b6af64d9cb10be286624d7d8b69e4f28156e",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje dodatkowe obrażenia Posępności równe 10(1 + Licznik [ColdAirDOQ] celu)",
+      "kr_sha256": "ab06385a33a707d147d26e6e0a9a7f3f7c61dfbbb5cfb62dd9ca8122fe21ce51",
+      "en_sha256": "f2238e788f0af7530385ed8af365d9e814684c6e092acd7502cb90d04dded5bb",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[EnemyKill] jeżeli cel ma [FreezingDOQ], przywraca 20 SP",
+      "kr_sha256": "628527431e9742e35f7eaeb20d7db271998e1588504c1801cc7798caeb98b723",
+      "en_sha256": "eb9e4c7eb8906113dd6214cb497d417f1b0ee554877c3932d410027d7ea3384b",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [FreezingDOQ]\nmoże stoczyć Starcie z tą Umiejętnością niezależnie od Szybkości\n[WhenUse] zadaje +5% obrażeń za każdego wroga z [ColdAirDOQ] (maks. 30%)\n[WhenUse] Moc Monety +1 za każdych 2 wrogów z [ColdAirDOQ] (maks. 3)\n[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "7e9ff2ce1e533cc9b63ff901ec14e2b3d2dcdc69fc23125448dfd77c4c9cfe04",
+      "en_sha256": "5fd7ecda8c776e1e83b8c6436416fa38800b30521944aa5df9568cc51f7cd56e",
+      "origin": "ai"
+    },
+    "dataList[id=128805].levelList[level=1].name": {
+      "pl": "Slay the Ocean, Slay the Ocean!!",
+      "kr_sha256": "ee380439ad61e57d985c3dfbd5bf2c2fe2f39a53dfc72560d69fda14791a26e6",
+      "en_sha256": "4e814e5727682d437d84c436d36fe86db5dce1b2d6764889691bdaca97526958",
+      "origin": "ai"
+    },
+    "dataList[id=128806].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=128806].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[WhenUse] zyskuje 2 [Agility] w następnej turze (1 raz na turę)\n[WinDuel] przywraca 15 SP\n[DefeatDuel] traci 10 SP",
+      "kr_sha256": "8fdfa8491d8ce9d0a5694097da2d5be95d5e6888f37ec6b9f31bd8493237e7ce",
+      "en_sha256": "f18f3bf0346311487b0d7cdf3ddf48fc59568a469b7317ce2f64f8f6919c3280",
+      "origin": "ai"
+    },
+    "dataList[id=128806].levelList[level=1].name": {
+      "pl": "The Indomitable Knight",
+      "kr_sha256": "5a73fabcdf31b7d6fa6a544cc3fd7d6b5a5151bb81396a6e1469763a2ef1d44c",
+      "en_sha256": "ddb58892804ff00a316a940299da6df58be3ebea4f89609aefab9c2180ee2927",
+      "origin": "ai"
+    },
+    "dataList[id=128901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=128901].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 5 [NervousImpairment]",
+      "kr_sha256": "06e257c81e65a234d97b0f1bd3ca2f23a06f8a4bdd3f038eec9632e409f291ff",
+      "en_sha256": "dcaff16831eccd7c3e8f1313df9da9556a6231435daabbeb8b784624020baeec",
+      "origin": "ai"
+    },
+    "dataList[id=128901].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [SeaTerrorCell]",
+      "kr_sha256": "1e0ad21c178096b74f90813cf652612bd49640c7f43792a84f06e41f3687373e",
+      "en_sha256": "a8130b356f8fc517f6d93ffe9d01c9851828d55ede0aeb3765e5570e76151731",
+      "origin": "ai"
+    },
+    "dataList[id=128901].levelList[level=1].desc": {
+      "pl": "[OnDirectAttack] Moc Monety +2 dla tej Umiejętności",
+      "kr_sha256": "fe71186c496439b43c21e189005e2d74f796669419c4cf30aae7d638e69ef59d",
+      "en_sha256": "80e579b3b7eb556b805d0542751b3b6c6c6e5d8b56a05994a26bd8c117042d51",
+      "origin": "ai"
+    },
+    "dataList[id=128901].levelList[level=1].name": {
+      "pl": "Cell Injection",
+      "kr_sha256": "a220e659d781f073fb122d80d985b89669b80eb17a9e857d1120f36b41cbc58a",
+      "en_sha256": "60d40d4b4e2b86cc90db2b823c0eac707017c5294443f0de0b2692f994eaf365",
+      "origin": "ai"
+    },
+    "dataList[id=128902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +1 Licznika [Sinking]",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=128902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=128902].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] celu (maks. 2)",
+      "kr_sha256": "b1f5ebd49347541dfd06bf4e6289597bcaed35e727ec3ce69f2fd9fe02ab8a0a",
+      "en_sha256": "86db80f9c11143cd88cb21f88aeff2ff2ecb94326afb6ac5dd0d369802ceb283",
+      "origin": "ai"
+    },
+    "dataList[id=128902].levelList[level=1].name": {
+      "pl": "Ripping Slice",
+      "kr_sha256": "d1621ef59cf0e502264d998eed7885c57b16e8edc7ac3b4c1cce4466451fb853",
+      "en_sha256": "db940353476cb01da9c6476bf68e0e313688051840264b3023c23aed95144a16",
+      "origin": "ai"
+    },
+    "dataList[id=128903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=128903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=128903].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis]",
+      "kr_sha256": "0afb9904f6f5f1c1ca9a8be8401da1bfb362f1efd7d67310b8d5519d105afcf5",
+      "en_sha256": "5a855c69c558417dbcda041aede7496bf927b7165a90e62dedaa863e94d29c5d",
+      "origin": "ai"
+    },
+    "dataList[id=128903].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każdy 1 [Binding] celu (maks. 2)",
+      "kr_sha256": "8d9b2737ce9043ea05a68921b7d75b33c528d9709fd9796408d9a6fd28cdba44",
+      "en_sha256": "e572bdfbd1b35a16c4d8f9831bf765109840f4287b418e914bf9daac2836ea77",
+      "origin": "ai"
+    },
+    "dataList[id=128903].levelList[level=1].name": {
+      "pl": "Swinging Slice",
+      "kr_sha256": "0f0e9f664f227477c7bfbfc58fe343da1f344e70b7a9b4e381685c3503caf6f5",
+      "en_sha256": "18638f1295cfc6bfd74f2689d60c9d35b68f13662b78d94efac4e53ba657bf8d",
+      "origin": "ai"
+    },
+    "dataList[id=128904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=128904].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Posępności równe [NervousImpairment] celu",
+      "kr_sha256": "8bba7c33fde8991c5c5fcb90a4010f0588d88f9c9eedc79fc7f20a9dae6e5268",
+      "en_sha256": "b8cd59da3cc43259fda5d4efa75db67401fc8d0676c865f9ddf6fa9bcc2e0e86",
+      "origin": "ai"
+    },
+    "dataList[id=128904].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] celu (maks. 2)",
+      "kr_sha256": "b1f5ebd49347541dfd06bf4e6289597bcaed35e727ec3ce69f2fd9fe02ab8a0a",
+      "en_sha256": "86db80f9c11143cd88cb21f88aeff2ff2ecb94326afb6ac5dd0d369802ceb283",
+      "origin": "ai"
+    },
+    "dataList[id=128904].levelList[level=1].name": {
+      "pl": "Multiple Jabs",
+      "kr_sha256": "a28b69aaa9d0e5fbf606519668d43eb16684c6ff9529a82e80dc265ed01370df",
+      "en_sha256": "789f7b8ec83f6f89f71fac20ff1cdfdebe184af86aa238c8a7543cef1bc14fd4",
+      "origin": "ai"
+    },
+    "dataList[id=129101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=129101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [NervousImpairment]",
+      "kr_sha256": "800b6ad71bdbeef53b90eaa04d548b46400f3925d6263a780981aa08302891ab",
+      "en_sha256": "c456ae4b9f3d2094091bbed7a26e59a518d8028687040dd98784101d3be42451",
+      "origin": "ai"
+    },
+    "dataList[id=129101].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=129101].levelList[level=1].desc": {
+      "pl": "Moc Monety +1 za każde 6 [Sinking] celu (maks. 2)\n[StartBattle] nakłada 2 [Agility] w następnej turze na sojuszniczego Cultist of the Deep z najniższą Szybkością",
+      "kr_sha256": "d7eca11dadc57eabef9eb2802a0dbc6ac7b4b7f594ccd368e1b9f8bb798ebdcd",
+      "en_sha256": "761185c627d488b02262fe66981f60f2b24b9c8293f2ee4e8f701b7e019aa08f",
+      "origin": "ai"
+    },
+    "dataList[id=129101].levelList[level=1].name": {
+      "pl": "United Will",
+      "kr_sha256": "ee4f2e5d2c701b4622025651d74674d3f229c0c55d162f8f4cbfbaaa12fc3257",
+      "en_sha256": "1ada1a0146f4ee152feaf8250df91a76766cb62d900d73941087d0a9351e06d6",
+      "origin": "ai"
+    },
+    "dataList[id=129102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=129102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=129102].levelList[level=1].desc": {
+      "pl": "Moc Monety +1 za każde 6 [Sinking] celu (maks. 2)\n[StartBattle] nakłada 2 [Enhancement] w następnej turze na sojuszniczego Cultist of the Deep z najwyższą Szybkością",
+      "kr_sha256": "2ebd348c936909db74a4841293e58892024ff8341970095adab7c31cf6e234af",
+      "en_sha256": "1b41b41c285f6e42522fa5ecda7ffb25cd5c03ee89bb5617b9f9f5e0d7bc728a",
+      "origin": "ai"
+    },
+    "dataList[id=129102].levelList[level=1].name": {
+      "pl": "Propagating Bliss",
+      "kr_sha256": "726f81e196340e2f4173be70926eb7458b016ad348173c13ae36e4b9959ed80c",
+      "en_sha256": "74dc8ec9dd7d03eac79e0b1988939fb4d5cfdc303b520cfefd1bc61d4f5d9934",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [NervousImpairment]",
+      "kr_sha256": "15699930a12087c1dcc9a95cca4bd94d95e2deeb123afdc110a15f3341718d31",
+      "en_sha256": "a490a3f2c644b04afd40a8b52acd97b58ecf79686116aee0a56c9c445817fe43",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "6450909bed7711c03d451874f34f509a12e3f996b05d17e38f361d814fa20837",
+      "en_sha256": "9e450b5732e680e0c4c0425ee70eaf7baf2ba97176ce01d66981e57245a13215",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].desc": {
+      "pl": "Moc Monety +1 za każde 6 [Sinking] celu (maks. 2)\n[WhenUse] jeżeli cel ma [Binding], Moc Końcowa +2\n[WinDuel] nakłada 6 [Sinking]",
+      "kr_sha256": "2eb5e756a5766a328421805035b5089c55f05cc04f45379531dd352fc4a02cf0",
+      "en_sha256": "fa7374538759993b18a84634894ab0638c8525354b206b4d117e5884cd730454",
+      "origin": "ai"
+    },
+    "dataList[id=129103].levelList[level=1].name": {
+      "pl": "Rite of Liberation",
+      "kr_sha256": "d456fa8003d6d1b8ca79e2a224074b8be42ac2f173a901e94ac56e3774a9f2c8",
+      "en_sha256": "0a55b37b9c90e0d9c58b94b49e54cb562341c6a6b12ee4cf535b1abc8b73c2e8",
+      "origin": "ai"
+    },
+    "dataList[id=129104].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] celu (maks. 2)\n[StartBattle] zyskuje 50 Tarczy\n[EndBattle] jeżeli jednostka ma pozostałą Tarczę, zyskuje 2 [Enhancement] w następnej turze",
+      "kr_sha256": "4b9c0a6a770807b5f6322e68c5cbb38a562bc5d56c6992a303225824a0b72f31",
+      "en_sha256": "33edc483ed48b9a1298a7a65c0c45b6e60220e3f93599f516eecb3638cd36d82",
+      "origin": "ai"
+    },
+    "dataList[id=129104].levelList[level=1].name": {
+      "pl": "Environmental Adaptation",
+      "kr_sha256": "ec9129be2af7a9c8f85aa496aa707276f459c40ec3ebf60b8088488e02678943",
+      "en_sha256": "5b59781c0a0ab0f76ef1c5847b15eb613771678b84ec35085e60a3662083058b",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [SeaTerrorCell]",
+      "kr_sha256": "1e0ad21c178096b74f90813cf652612bd49640c7f43792a84f06e41f3687373e",
+      "en_sha256": "a8130b356f8fc517f6d93ffe9d01c9851828d55ede0aeb3765e5570e76151731",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [SeaTerrorCell]",
+      "kr_sha256": "1e0ad21c178096b74f90813cf652612bd49640c7f43792a84f06e41f3687373e",
+      "en_sha256": "a8130b356f8fc517f6d93ffe9d01c9851828d55ede0aeb3765e5570e76151731",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [SeaTerrorCell]",
+      "kr_sha256": "1e0ad21c178096b74f90813cf652612bd49640c7f43792a84f06e41f3687373e",
+      "en_sha256": "a8130b356f8fc517f6d93ffe9d01c9851828d55ede0aeb3765e5570e76151731",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli [NetherseaBrandUnit] jest aktywowane tutaj, Moc Końcowa +3\n- zyskuje dodatkowo Moc Końcowa +1 za każdy 1 Etap [NetherseaBrandUnit]\n\n[WhenUse] Moc Monety +1 za każde 6 [Sinking] głównego celu (maks. 2)\nprzy 2. Etapie lub wyższym [NetherseaBrandUnit], ta Umiejętność nakłada o 1 więcej [NervousImpairment]",
+      "kr_sha256": "36a240fca88e7e6a5234aabd1d47297f8ff89a48c0b468bba2393fb26ce906c4",
+      "en_sha256": "87577b0aa195acf414047b080cbd134a6a25b99773305e03d852c70731732ab0",
+      "origin": "ai"
+    },
+    "dataList[id=129105].levelList[level=1].name": {
+      "pl": "For the Landbound Kins",
+      "kr_sha256": "3c57d7e7948fe23960c15b2f883df20cd88f0e9a667fc8cc5b806e6cbc846131",
+      "en_sha256": "36d373e17874097369a038f1fc8b71219e9dfba38a7b08660d6477b61b674b29",
+      "origin": "ai"
+    },
+    "dataList[id=129701].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nta Umiejętność nie zadaje celom obrażeń\n[EndSkill] zyskuje 100 [AbyssalVitality]",
+      "kr_sha256": "635d0bbb4fe1973ff6b959b130386bb5a9e041fd82cc58d3d7744c13831d3e37",
+      "en_sha256": "27579eef469bec6179fdbcd06747a1d0e79a4ee71cea15fec296aab63a185808",
+      "origin": "ai"
+    },
+    "dataList[id=129701].levelList[level=1].name": {
+      "pl": "The Impatient Ego's Byway",
+      "kr_sha256": "11c58b301eaf176af52941a8bb205ae54a47721bf655769ce86cab0f784f2dc2",
+      "en_sha256": "9e9f083a6c91e26fde4c39f2fabe39d67fa4188367e835ddcc4602062ec74fa9",
+      "origin": "ai"
+    },
+    "dataList[id=129702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, nakłada 1 [DefenseUp] w tej i następnej turze za każde 4 [AbyssalVitality] zużyte na przywołanie celu (maks. 5)",
+      "kr_sha256": "8b5302ad4cc9d638c6e3208461498dc6f5edc9a91ecf951e8321af5b14a0a62e",
+      "en_sha256": "1899cb21548e356d8b512d930b932da6a5e8dfd1bc421e4fc77bd74b733ac17d",
+      "origin": "ai"
+    },
+    "dataList[id=129702].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 3 [Sinking] i 2 [NervousImpairment]",
+      "kr_sha256": "60fa0cac3aa6fcd1111abfc37a578852ea71f3c3df5a0db0ae9f689d3a408557",
+      "en_sha256": "a5cfb977c84acf22d7230fa21b9771429fa1d3b5a1791962dc7105c362706e99",
+      "origin": "ai"
+    },
+    "dataList[id=129702].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\npriorytet: sojusznicy; wśród nich cel: sojusznik z najmniejszym aktualnym HP\njeżeli Umiejętność celuje w sojusznika, zadaje 0 obrażeń\nMoc Starcia +1 za każde 3 [Sinking] celu (maks. 4)\n[StartBattle] jeżeli Umiejętność celuje w sojusznika, przywraca HP równe 20% Maks. HP celu",
+      "kr_sha256": "acb3df20284688db86cafd29a98ed019a692fbae58c8e428840340f1d4071b7b",
+      "en_sha256": "59bad9e4e61b2d2a8ea4c8c58f4abacbc06c4ba2ae359c30534fb63eceb7b632",
+      "origin": "ai"
+    },
+    "dataList[id=129702].levelList[level=1].name": {
+      "pl": "Echoes of Respite",
+      "kr_sha256": "1ea1d8ccecda3c1c66d53ee7f358ce1e47beeec449c5cf5806481809154c96d0",
+      "en_sha256": "7b6b0ca17aaefdbf9eed015c8377c862a490807b9ab8828a096d7c870c0e45e3",
+      "origin": "ai"
+    },
+    "dataList[id=129703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, nakłada 1 [AttackUp] w tej i następnej turze za każde 4 [AbyssalVitality] zużyte na przywołanie celu (maks. 5)",
+      "kr_sha256": "610c901236842b26580fda21e6710e122cee1f4df4315a76efbf8ce63528f873",
+      "en_sha256": "063e0c9125405d63c24a4ffae49e852b4d0d993c5abe534d1c9b56fb432c1646",
+      "origin": "ai"
+    },
+    "dataList[id=129703].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 3 [Sinking] i 2 [NervousImpairment]",
+      "kr_sha256": "60fa0cac3aa6fcd1111abfc37a578852ea71f3c3df5a0db0ae9f689d3a408557",
+      "en_sha256": "a5cfb977c84acf22d7230fa21b9771429fa1d3b5a1791962dc7105c362706e99",
+      "origin": "ai"
+    },
+    "dataList[id=129703].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\npriorytet: sojusznik z największym aktualnym HP\njeżeli Umiejętność celuje w sojusznika, zadaje 0 obrażeń\nMoc Starcia +1 za każde 3 [Sinking] celu (maks. 4)",
+      "kr_sha256": "bc9b66545866e1d33d44f9302d48118ac3e35c09613dd45b251d6288df5e1beb",
+      "en_sha256": "4fe21dd72e81d5ed9f0cff164bbd893dfc8f333b6a86a80a790dbf74eab1ad0d",
+      "origin": "ai"
+    },
+    "dataList[id=129703].levelList[level=1].name": {
+      "pl": "Echoes of Ascending",
+      "kr_sha256": "2f6165a88e700c5a619b4f878c9e7d2e2ecedfe5bb42de1b5562ca15424c3d52",
+      "en_sha256": "6d5a1d85aa6d552a9ca5c107f986275c29053795433930b411951f5af28c4e81",
+      "origin": "ai"
+    },
+    "dataList[id=129704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129704].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[EndBattle] zużywa [AbyssalVitality] za każdego ocalałego sojusznika, lecz nakłada (liczba tur, które przetrwał cel) [AttackDmgUp] w następnej turze wszystkim sojusznikom (maks. 3)\n- [DefeatDuel] nie nakłada [AttackDmgUp] w następnej turze",
+      "kr_sha256": "97ae22095ab9414c58b6e6d8fc9244e557172ec1a56ec1ed75f38bdd78f58414",
+      "en_sha256": "5da78c330f282c9f8f315d9d1e1bc31c93e5cbdb059bcff5792adf0c0a1e0fb4",
+      "origin": "ai"
+    },
+    "dataList[id=129704].levelList[level=1].name": {
+      "pl": "Cyclical Ecosystem",
+      "kr_sha256": "28f8761f0ae8a05c17f5aad1c311bb895f7004783505d5c90d15331b63c1b285",
+      "en_sha256": "c60be90d2a3f9487c49eef183cad632a4e5067eda9c92db9059739d7e47036d5",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, przywraca 10% Maks. HP celu",
+      "kr_sha256": "495ecf6b530f3705c18f2fd1761b7aaaa43a1055a497cfaa3c272767107708d4",
+      "en_sha256": "b6cfb31556903eab89266cfe96afe2240b192f5a77fbea7e9fce24a95806ff1e",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 2 [NervousImpairment]",
+      "kr_sha256": "a95cdc733e72b24355567830cc3ce68c8f5488ff3ad7a26bcab20f9935651619",
+      "en_sha256": "ac0fe9e03359e937d4896add4516a7fb2431b26e754f0ca5f537ea293a45b66a",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, przywraca 10% Maks. HP celu",
+      "kr_sha256": "495ecf6b530f3705c18f2fd1761b7aaaa43a1055a497cfaa3c272767107708d4",
+      "en_sha256": "b6cfb31556903eab89266cfe96afe2240b192f5a77fbea7e9fce24a95806ff1e",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 2 [NervousImpairment]",
+      "kr_sha256": "a95cdc733e72b24355567830cc3ce68c8f5488ff3ad7a26bcab20f9935651619",
+      "en_sha256": "ac0fe9e03359e937d4896add4516a7fb2431b26e754f0ca5f537ea293a45b66a",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, przywraca 10% Maks. HP celu",
+      "kr_sha256": "495ecf6b530f3705c18f2fd1761b7aaaa43a1055a497cfaa3c272767107708d4",
+      "en_sha256": "b6cfb31556903eab89266cfe96afe2240b192f5a77fbea7e9fce24a95806ff1e",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 4 [Sinking], +4 Licznika [Sinking] i 4 [NervousImpairment]",
+      "kr_sha256": "d05c733b257777c14ba2814bd80c6a42943c93dc0cd811aa8948069bc52dbbdf",
+      "en_sha256": "5b6b2c6aa674fea694ff5785c91e5cb3eb29723ab54f613e2c7bc8b300898920",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nMoc Bazowa +1 za każde 3 [NervousImpairment] głównego celu (maks. 9)\njeżeli Umiejętność celuje w sojusznika, zadaje 0 obrażeń\nmoże stoczyć Starcie z tą Umiejętnością niezależnie od Szybkości\n\n[DefeatDuel]\n- zyskuje 3 [ResultReduction] i 3 [Paralysis]\n- zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu\n- nakłada o połowę mniejszą wartość [NervousImpairment] tą Umiejętnością i nie nakłada [Sinking] ani Licznika [Sinking]\n- zyskiwane [AbyssalVitality] z tej Umiejętności jest zmniejszone o połowę\n[EndSkill] zyskuje 100 [AbyssalVitality]\n[EndBattle] na początku następnej tury, tworzy [NetherseaBrandUnit] na terenie sojuszników",
+      "kr_sha256": "b8774eafc00265131b985e2063648a4babe9f07c0159806170b23cd5174f6bf0",
+      "en_sha256": "59fcc2f04a9e2fa7174361cfe89b9ae074aabe34821a09bcbdb15e0c9c7157bf",
+      "origin": "ai"
+    },
+    "dataList[id=129705].levelList[level=1].name": {
+      "pl": "With Deep Blue Charity.",
+      "kr_sha256": "ab11ead3e42d618096c2a7d9d167f0a474fa8f6d00365f98a4b49b98176f1d6a",
+      "en_sha256": "00d6532a818215c4b0fee0066f8ec6ff365384d47f1619b73c10d4b51826edeb",
+      "origin": "ai"
+    },
+    "dataList[id=129706].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=129706].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=129706].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129706].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 4 [Sinking]",
+      "kr_sha256": "c6b8273b4358b3abb2adfaa1b152db993b3e0196ce82426ea3d09ecdd599fb73",
+      "en_sha256": "21f6cef09a699bfc2d3bf3bae0fdf504d5b397003c24e7206020ddc841840704",
+      "origin": "ai"
+    },
+    "dataList[id=129706].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [NervousImpairment]",
+      "kr_sha256": "0ac21576226a182a33d3dd5aa7a971ee74980a9df8608eb4379c20bd1acf4470",
+      "en_sha256": "592c74cfa0ee1fcb6f75e7dffcd2dc7704a1a899fbce8a39c28d80b199e397b6",
+      "origin": "ai"
+    },
+    "dataList[id=129706].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 50+ [AbyssalVitality], zużywa 5 [AbyssalVitality], by nakładać o 2 więcej [NervousImpairment] efektami tej Umiejętności\n[WhenUse] za każde 5 [NervousImpairment] celu, zużywa 1 [AbyssalVitality], by zyskać Moc Starcia +1 (maks. 5)",
+      "kr_sha256": "7fc5f9e7a7d242b583faae3ddfe6ae3e6867e861ad6f816e323e6db33e72c8df",
+      "en_sha256": "e7a426567bd2f6312d8ca23fbc8ac7c87e27acd691f67faec438d3ee19adc6cf",
+      "origin": "ai"
+    },
+    "dataList[id=129706].levelList[level=1].name": {
+      "pl": "Tidal Arc",
+      "kr_sha256": "95d842ca4874d41453e328de71b134f09af150db7ca9d40c37a42c39cfdd6f4e",
+      "en_sha256": "be128c52c5fc42c1c9cf3e26e7648130b3d839e1790bb748b78968c6a2719ab0",
+      "origin": "ai"
+    },
+    "dataList[id=129707].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=129707].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=129707].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129707].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "c05e5364f1094d254f4330f719eafbc3be627729cbf76c2d10571243e831b3f7",
+      "en_sha256": "aedce0895226219678dac80a180c4626bdd919a93edab234c89d723317dc867e",
+      "origin": "ai"
+    },
+    "dataList[id=129707].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [NervousImpairment]",
+      "kr_sha256": "0ac21576226a182a33d3dd5aa7a971ee74980a9df8608eb4379c20bd1acf4470",
+      "en_sha256": "592c74cfa0ee1fcb6f75e7dffcd2dc7704a1a899fbce8a39c28d80b199e397b6",
+      "origin": "ai"
+    },
+    "dataList[id=129707].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 50+ [AbyssalVitality], zużywa 4 [AbyssalVitality], by zyskać Moc Monety +1\n[WhenUse] za każde 10 [NervousImpairment] celu, zużywa 3 [AbyssalVitality], by zyskać Moc Monety +1 (maks. 2)",
+      "kr_sha256": "287077aa5a8768353fb2a9b8af3c16c2bbe8a3eff30737f76136ebe8406b5a0e",
+      "en_sha256": "e4d1de253e969e07485b34950dcc44b39cae182272f5dbd2b303d3f9c11978ef",
+      "origin": "ai"
+    },
+    "dataList[id=129707].levelList[level=1].name": {
+      "pl": "Fierce Currents",
+      "kr_sha256": "b620223633abb374d8ec8aabc603794e6f696d81f0621e7178d80eb45b347777",
+      "en_sha256": "20816d1582a1eece73bc23743ce11e60bec178ccd30bcafb26f2c32cbaf2faeb",
+      "origin": "ai"
+    },
+    "dataList[id=129708].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129708].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Sinking] i +2 Licznika [Sinking]",
+      "kr_sha256": "d351437be299009306f345d8e710417dd19681cd0528b267bfc36ada56bf55af",
+      "en_sha256": "47d366ac584c63d259b0e69691fe1d74f8fedf40f25aaebe62c44877b8a0c2c7",
+      "origin": "ai"
+    },
+    "dataList[id=129708].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [NervousImpairment]",
+      "kr_sha256": "d789047604b7d0ef0d512272648469d9eeb24e1cf634605d3c5f3b8006b12227",
+      "en_sha256": "f8f0481c915bde00ece15e97ac8ffa1557520643fc6896936311c3d95064f77c",
+      "origin": "ai"
+    },
+    "dataList[id=129708].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 3 [NervousImpairment] głównego celu (maks. 9)\n[EndBattle] zużywa do 10 [AbyssalVitality] i zyskuje połowę zużytych Liczników jako [AttackUp] w następnej turze (maks. 5, zaokrąglone w górę)\n- [DefeatDuel] nie zyskuje [AttackUp] w następnej turze",
+      "kr_sha256": "56c3cf2272b4032df421d7ec57e936d66bdc74f21b8a18dd215e6339295f45bc",
+      "en_sha256": "740f78bac3046bf3e003891d79f2c12454d32bde2bfef61f3d9d2acc7ac439b6",
+      "origin": "ai"
+    },
+    "dataList[id=129708].levelList[level=1].name": {
+      "pl": "Undulating Waves",
+      "kr_sha256": "fb2f0c38b05f26562e1eed0a383c9e3cef3626fa73b07b28ff688e4a89a85aff",
+      "en_sha256": "23f9e662df5cc9ee3c1d114813ef98e62486709fb10cc44aceb8efb89a37dbe0",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 4 [Sinking]",
+      "kr_sha256": "c6b8273b4358b3abb2adfaa1b152db993b3e0196ce82426ea3d09ecdd599fb73",
+      "en_sha256": "21f6cef09a699bfc2d3bf3bae0fdf504d5b397003c24e7206020ddc841840704",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +4 Licznika [Sinking]",
+      "kr_sha256": "0b7775e62049bb9c6fb8903efa34fbecc8325337b32552fcec609f9af2cdf146",
+      "en_sha256": "f3627af679d774f8c506dfb25a9273c12cb7dfdc1ad698716c1fb3ee21c95838",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [NervousImpairment]",
+      "kr_sha256": "0ac21576226a182a33d3dd5aa7a971ee74980a9df8608eb4379c20bd1acf4470",
+      "en_sha256": "592c74cfa0ee1fcb6f75e7dffcd2dc7704a1a899fbce8a39c28d80b199e397b6",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 4 [Sinking] i +4 Licznika [Sinking]",
+      "kr_sha256": "54d90d322a9f98f823109050ed7ca2b576ca643b70d733c6c6c1a32e976c8f8b",
+      "en_sha256": "6008db2f041b7169039ee8284d2084c8151c38afa3e4b8ca6d2de63d85cfb2d5",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [NervousImpairment]",
+      "kr_sha256": "d789047604b7d0ef0d512272648469d9eeb24e1cf634605d3c5f3b8006b12227",
+      "en_sha256": "f8f0481c915bde00ece15e97ac8ffa1557520643fc6896936311c3d95064f77c",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].desc": {
+      "pl": "priorytet: cele z największą liczbą [NervousImpairment]\nMoc Bazowa +1 za każde 3 [NervousImpairment] głównego celu (maks. 9)\nmoże stoczyć Starcie z tą Umiejętnością niezależnie od Szybkości\n\n[DefeatDuel]\n- zyskuje 3 [ResultReduction] i 3 [Paralysis]\n- zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu\n- nakłada o połowę mniejszą wartość [NervousImpairment] tą Umiejętnością i nie nakłada [Sinking] ani Licznika [Sinking]\n- zyskiwane [AbyssalVitality] i Tarcza z tej Umiejętności są zmniejszone o połowę\n[EndSkill]\n- zyskuje 100 [AbyssalVitality]\n- zyskuje Tarczę równą 20% Maks. HP jednostki\n- kończy tę turę\n[EndBattle] na początku następnej tury, tworzy [NetherseaBrandUnit] na terenie sojuszników",
+      "kr_sha256": "76e97d7b084989699e21d76f2028d09e6397081910fec28e56bab96ca532b9e3",
+      "en_sha256": "9ea7a69f2ddccc7e4442070a4e486847fff33cc5defa960ae6c6d2bc476ba1e5",
+      "origin": "ai"
+    },
+    "dataList[id=129709].levelList[level=1].name": {
+      "pl": "Before the compassion they believe in loses its worth.",
+      "kr_sha256": "2854da6ec936c919daebd262de5bddfe24be8f6f03a763eb46872fe5cb6249da",
+      "en_sha256": "ffd70e171909fbf2f8df0271dffc6c0013c7f2b4778fcb0d34d51c9a81eb7315",
+      "origin": "ai"
+    },
+    "dataList[id=130301].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nta Umiejętność nie zadaje celom obrażeń\n[EndSkill] zyskuje 100 [AbyssalVitality]",
+      "kr_sha256": "635d0bbb4fe1973ff6b959b130386bb5a9e041fd82cc58d3d7744c13831d3e37",
+      "en_sha256": "27579eef469bec6179fdbcd06747a1d0e79a4ee71cea15fec296aab63a185808",
+      "origin": "ai"
+    },
+    "dataList[id=130301].levelList[level=1].name": {
+      "pl": "The Impatient Ego's Byway",
+      "kr_sha256": "11c58b301eaf176af52941a8bb205ae54a47721bf655769ce86cab0f784f2dc2",
+      "en_sha256": "9e9f083a6c91e26fde4c39f2fabe39d67fa4188367e835ddcc4602062ec74fa9",
+      "origin": "ai"
+    },
+    "dataList[id=130302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, nakłada 1 [DefenseUp] w tej i następnej turze za każde 4 [AbyssalVitality] zużyte na przywołanie celu (maks. 5)",
+      "kr_sha256": "8b5302ad4cc9d638c6e3208461498dc6f5edc9a91ecf951e8321af5b14a0a62e",
+      "en_sha256": "1899cb21548e356d8b512d930b932da6a5e8dfd1bc421e4fc77bd74b733ac17d",
+      "origin": "ai"
+    },
+    "dataList[id=130302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 3 [Sinking] i 2 [NervousImpairment]",
+      "kr_sha256": "60fa0cac3aa6fcd1111abfc37a578852ea71f3c3df5a0db0ae9f689d3a408557",
+      "en_sha256": "a5cfb977c84acf22d7230fa21b9771429fa1d3b5a1791962dc7105c362706e99",
+      "origin": "ai"
+    },
+    "dataList[id=130302].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\npriorytet: sojusznicy; wśród nich cel: sojusznik z najmniejszym aktualnym HP\njeżeli Umiejętność celuje w sojusznika, zadaje 0 obrażeń\nMoc Starcia +1 za każde 3 [Sinking] celu (maks. 4)\n[StartBattle] jeżeli Umiejętność celuje w sojusznika, przywraca HP równe 20% Maks. HP celu",
+      "kr_sha256": "acb3df20284688db86cafd29a98ed019a692fbae58c8e428840340f1d4071b7b",
+      "en_sha256": "59bad9e4e61b2d2a8ea4c8c58f4abacbc06c4ba2ae359c30534fb63eceb7b632",
+      "origin": "ai"
+    },
+    "dataList[id=130302].levelList[level=1].name": {
+      "pl": "Echoes of Respite",
+      "kr_sha256": "1ea1d8ccecda3c1c66d53ee7f358ce1e47beeec449c5cf5806481809154c96d0",
+      "en_sha256": "7b6b0ca17aaefdbf9eed015c8377c862a490807b9ab8828a096d7c870c0e45e3",
+      "origin": "ai"
+    },
+    "dataList[id=130303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, nakłada 1 [AttackUp] w tej i następnej turze za każde 4 [AbyssalVitality] zużyte na przywołanie celu (maks. 5)",
+      "kr_sha256": "610c901236842b26580fda21e6710e122cee1f4df4315a76efbf8ce63528f873",
+      "en_sha256": "063e0c9125405d63c24a4ffae49e852b4d0d993c5abe534d1c9b56fb432c1646",
+      "origin": "ai"
+    },
+    "dataList[id=130303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 3 [Sinking] i 2 [NervousImpairment]",
+      "kr_sha256": "60fa0cac3aa6fcd1111abfc37a578852ea71f3c3df5a0db0ae9f689d3a408557",
+      "en_sha256": "a5cfb977c84acf22d7230fa21b9771429fa1d3b5a1791962dc7105c362706e99",
+      "origin": "ai"
+    },
+    "dataList[id=130303].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\npriorytet: sojusznik z największym aktualnym HP\njeżeli Umiejętność celuje w sojusznika, zadaje 0 obrażeń\nMoc Starcia +1 za każde 3 [Sinking] celu (maks. 4)",
+      "kr_sha256": "bc9b66545866e1d33d44f9302d48118ac3e35c09613dd45b251d6288df5e1beb",
+      "en_sha256": "4fe21dd72e81d5ed9f0cff164bbd893dfc8f333b6a86a80a790dbf74eab1ad0d",
+      "origin": "ai"
+    },
+    "dataList[id=130303].levelList[level=1].name": {
+      "pl": "Echoes of Ascending",
+      "kr_sha256": "2f6165a88e700c5a619b4f878c9e7d2e2ecedfe5bb42de1b5562ca15424c3d52",
+      "en_sha256": "6d5a1d85aa6d552a9ca5c107f986275c29053795433930b411951f5af28c4e81",
+      "origin": "ai"
+    },
+    "dataList[id=130304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=130304].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[EndBattle] zużywa [AbyssalVitality] za każdego ocalałego sojusznika, lecz nakłada (liczba tur, które przetrwał cel) [AttackDmgUp] w następnej turze wszystkim sojusznikom (maks. 3)\n- [DefeatDuel] nie nakłada [AttackDmgUp] w następnej turze",
+      "kr_sha256": "97ae22095ab9414c58b6e6d8fc9244e557172ec1a56ec1ed75f38bdd78f58414",
+      "en_sha256": "5da78c330f282c9f8f315d9d1e1bc31c93e5cbdb059bcff5792adf0c0a1e0fb4",
+      "origin": "ai"
+    },
+    "dataList[id=130304].levelList[level=1].name": {
+      "pl": "Cyclical Ecosystem",
+      "kr_sha256": "28f8761f0ae8a05c17f5aad1c311bb895f7004783505d5c90d15331b63c1b285",
+      "en_sha256": "c60be90d2a3f9487c49eef183cad632a4e5067eda9c92db9059739d7e47036d5",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, przywraca 10% Maks. HP celu",
+      "kr_sha256": "495ecf6b530f3705c18f2fd1761b7aaaa43a1055a497cfaa3c272767107708d4",
+      "en_sha256": "b6cfb31556903eab89266cfe96afe2240b192f5a77fbea7e9fce24a95806ff1e",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 2 [NervousImpairment]",
+      "kr_sha256": "a95cdc733e72b24355567830cc3ce68c8f5488ff3ad7a26bcab20f9935651619",
+      "en_sha256": "ac0fe9e03359e937d4896add4516a7fb2431b26e754f0ca5f537ea293a45b66a",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, przywraca 10% Maks. HP celu",
+      "kr_sha256": "495ecf6b530f3705c18f2fd1761b7aaaa43a1055a497cfaa3c272767107708d4",
+      "en_sha256": "b6cfb31556903eab89266cfe96afe2240b192f5a77fbea7e9fce24a95806ff1e",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 2 [NervousImpairment]",
+      "kr_sha256": "a95cdc733e72b24355567830cc3ce68c8f5488ff3ad7a26bcab20f9935651619",
+      "en_sha256": "ac0fe9e03359e937d4896add4516a7fb2431b26e754f0ca5f537ea293a45b66a",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w sojusznika, przywraca 10% Maks. HP celu",
+      "kr_sha256": "495ecf6b530f3705c18f2fd1761b7aaaa43a1055a497cfaa3c272767107708d4",
+      "en_sha256": "b6cfb31556903eab89266cfe96afe2240b192f5a77fbea7e9fce24a95806ff1e",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Umiejętność celuje w wroga, nakłada 4 [Sinking], +4 Licznika [Sinking] i 4 [NervousImpairment]",
+      "kr_sha256": "d05c733b257777c14ba2814bd80c6a42943c93dc0cd811aa8948069bc52dbbdf",
+      "en_sha256": "5b6b2c6aa674fea694ff5785c91e5cb3eb29723ab54f613e2c7bc8b300898920",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nMoc Bazowa +1 za każde 3 [NervousImpairment] głównego celu (maks. 9)\njeżeli Umiejętność celuje w sojusznika, zadaje 0 obrażeń\nmoże stoczyć Starcie z tą Umiejętnością niezależnie od Szybkości\n\n[DefeatDuel]\n- zyskuje 3 [ResultReduction] i 3 [Paralysis]\n- zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu\n- nakłada o połowę mniejszą wartość [NervousImpairment] tą Umiejętnością i nie nakłada [Sinking] ani Licznika [Sinking]\n- zyskiwane [AbyssalVitality] z tej Umiejętności jest zmniejszone o połowę\n[EndSkill] zyskuje 100 [AbyssalVitality]\n[EndBattle] na początku następnej tury, tworzy [NetherseaBrandUnit] na terenie sojuszników",
+      "kr_sha256": "b8774eafc00265131b985e2063648a4babe9f07c0159806170b23cd5174f6bf0",
+      "en_sha256": "59fcc2f04a9e2fa7174361cfe89b9ae074aabe34821a09bcbdb15e0c9c7157bf",
+      "origin": "ai"
+    },
+    "dataList[id=130305].levelList[level=1].name": {
+      "pl": "With Deep Blue Charity.",
+      "kr_sha256": "ab11ead3e42d618096c2a7d9d167f0a474fa8f6d00365f98a4b49b98176f1d6a",
+      "en_sha256": "00d6532a818215c4b0fee0066f8ec6ff365384d47f1619b73c10d4b51826edeb",
+      "origin": "ai"
+    },
+    "dataList[id=130306].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=130306].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=130306].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Sinking]",
+      "kr_sha256": "b262675f94936684085f780d3f83b4e3d1199f0f404fb290e8b5c1d777cd2236",
+      "en_sha256": "f5095780d80269c47e7d902b7457b63ee6962b90c6a38c0f0a89e5408f394f86",
+      "origin": "ai"
+    },
+    "dataList[id=130306].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=130306].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 50+ [AbyssalVitality], zużywa 5 [AbyssalVitality], by nakładać o 2 więcej [NervousImpairment] efektami tej Umiejętności\n[WhenUse] za każde 10 [NervousImpairment] celu, zużywa 1 [AbyssalVitality], by zyskać Moc Starcia +1 (maks. 2)",
+      "kr_sha256": "1aebf4babac608506a3e027195ca6ee3adbe2b431d8949fd95a632de85d12b38",
+      "en_sha256": "b01ad4215a3c4072f880a016c7e599611267aaa5a18888ac775ef019ce8b661a",
+      "origin": "ai"
+    },
+    "dataList[id=130306].levelList[level=1].name": {
+      "pl": "Tidal Arc",
+      "kr_sha256": "95d842ca4874d41453e328de71b134f09af150db7ca9d40c37a42c39cfdd6f4e",
+      "en_sha256": "be128c52c5fc42c1c9cf3e26e7648130b3d839e1790bb748b78968c6a2719ab0",
+      "origin": "ai"
+    },
+    "dataList[id=130307].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=130307].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=130307].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=130307].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "c05e5364f1094d254f4330f719eafbc3be627729cbf76c2d10571243e831b3f7",
+      "en_sha256": "aedce0895226219678dac80a180c4626bdd919a93edab234c89d723317dc867e",
+      "origin": "ai"
+    },
+    "dataList[id=130307].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=130307].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 50+ [AbyssalVitality], zużywa 4 [AbyssalVitality], by zyskać Moc Monety +1\n[WhenUse] za każde 10 [NervousImpairment] celu, zużywa 3 [AbyssalVitality], by zyskać Moc Monety +1 (maks. 2)",
+      "kr_sha256": "287077aa5a8768353fb2a9b8af3c16c2bbe8a3eff30737f76136ebe8406b5a0e",
+      "en_sha256": "e4d1de253e969e07485b34950dcc44b39cae182272f5dbd2b303d3f9c11978ef",
+      "origin": "ai"
+    },
+    "dataList[id=130307].levelList[level=1].name": {
+      "pl": "Fierce Currents",
+      "kr_sha256": "b620223633abb374d8ec8aabc603794e6f696d81f0621e7178d80eb45b347777",
+      "en_sha256": "20816d1582a1eece73bc23743ce11e60bec178ccd30bcafb26f2c32cbaf2faeb",
+      "origin": "ai"
+    },
+    "dataList[id=130308].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=130308].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Sinking] i +2 Licznika [Sinking]",
+      "kr_sha256": "d351437be299009306f345d8e710417dd19681cd0528b267bfc36ada56bf55af",
+      "en_sha256": "47d366ac584c63d259b0e69691fe1d74f8fedf40f25aaebe62c44877b8a0c2c7",
+      "origin": "ai"
+    },
+    "dataList[id=130308].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [NervousImpairment]",
+      "kr_sha256": "0ac21576226a182a33d3dd5aa7a971ee74980a9df8608eb4379c20bd1acf4470",
+      "en_sha256": "592c74cfa0ee1fcb6f75e7dffcd2dc7704a1a899fbce8a39c28d80b199e397b6",
+      "origin": "ai"
+    },
+    "dataList[id=130308].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 5 [NervousImpairment] głównego celu (maks. 5)\n[EndBattle] zużywa do 10 [AbyssalVitality] i zyskuje połowę zużytych Liczników jako [AttackUp] w następnej turze (maks. 5, zaokrąglone w górę)\n- [DefeatDuel] nie zyskuje [AttackUp] w następnej turze",
+      "kr_sha256": "960497a7d50c93cac531a84b04703b1dc65a242e2558935dbc699a38f0af5e6c",
+      "en_sha256": "8bf61ac6a38ed3fa69b7f8f8b72193f775261934ae46bbd3b7dbbbf2d8c2982a",
+      "origin": "ai"
+    },
+    "dataList[id=130308].levelList[level=1].name": {
+      "pl": "Undulating Waves",
+      "kr_sha256": "fb2f0c38b05f26562e1eed0a383c9e3cef3626fa73b07b28ff688e4a89a85aff",
+      "en_sha256": "23f9e662df5cc9ee3c1d114813ef98e62486709fb10cc44aceb8efb89a37dbe0",
+      "origin": "ai"
+    }
+  }
+}

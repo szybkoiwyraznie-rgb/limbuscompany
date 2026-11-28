@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=142001].desc": {
+      "pl": "przy wejściu na etap, zyskuje [WeighedMurderousIntendHard]",
+      "kr_sha256": "ea1d85b4a15c80441a451bcf2895f66e305854c490a348238cb4cb1569eb382a",
+      "en_sha256": "5bb16fc90f4ae771f4f32e14afc7c62c80f6c9808e87341123c0eb34970f2fd0",
+      "origin": "ai"
+    },
+    "dataList[id=142001].name": {
+      "pl": "Bestowed Mission",
+      "kr_sha256": "a1265fec26a56b487afc27ce087d652ffa4442c4c79ce5170eb1a166fa87aaf1",
+      "en_sha256": "978f2591f830d32f3cd0c14a9fa7dc0637088a4a3d4d4c7a83225dbac905dff8",
+      "origin": "ai"
+    },
+    "dataList[id=142101].desc": {
+      "pl": "rozpoczyna walkę z 10% mniej HP (łącznie z Częściami)",
+      "kr_sha256": "18f2d4b482a8095b30391c088fbbf42f3d46bfa1e854b1234f006924b43d5661",
+      "en_sha256": "23a98039b0885a805190bfdb73371320ee03fe511c260df89e466b2174dc51da",
+      "origin": "ai"
+    },
+    "dataList[id=142101].name": {
+      "pl": "Wounded in Battle",
+      "kr_sha256": "f6d933c7f1fc9d375610d67fab9d3db376ab242d3654fb60a58dc23b905159e9",
+      "en_sha256": "226b1b8457410579e01724ba89998c3885019e0eadd023c0a200e8abe45bc3c7",
+      "origin": "ai"
+    },
+    "dataList[id=9018601].desc": {
+      "pl": "przy wejściu na etap, zyskuje [RepressedMurderousIntendHard]",
+      "kr_sha256": "69f82b20cec85ca4677f70b38f409c97f040916177f3a262c50c84115606e1df",
+      "en_sha256": "eb8a90accc5ea540ea4902724c8db8696db9873370b53da481405f8201478043",
+      "origin": "ai"
+    },
+    "dataList[id=9018601].name": {
+      "pl": "Received Mission",
+      "kr_sha256": "25c327f98fa6f8ac66c6df06e88b3d1ea62203a6150ed30ada7b61bf0ac51b0a",
+      "en_sha256": "df488b634bc03a50eb3a4ed2c0e0aba2ce3c821a6fa28b4a2a57cc90e34ab08f",
+      "origin": "ai"
+    },
+    "dataList[id=9018705].desc": {
+      "pl": "jeżeli wchodzi po Drugiej Fali, wchodzi z 30 SP\nwszystkie jednostki biorące udział w tej walce nie mogą się wycofać",
+      "kr_sha256": "c39892cf5d363790b64eacaf6fa170328a2ed1ecc33ecf51dd948e8f1aee3a81",
+      "en_sha256": "7eead707773aa45c2153e0220d711173dea841b27dca07eb6566718ea1bb478f",
+      "origin": "ai"
+    },
+    "dataList[id=9018705].name": {
+      "pl": "Noc w Zaułkach",
+      "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
+      "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
+      "origin": "ai"
+    }
+  }
+}

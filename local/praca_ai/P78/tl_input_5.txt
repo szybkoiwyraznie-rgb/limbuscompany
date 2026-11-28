@@ -1,0 +1,36 @@
+1540||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 욕망 1 부여|[OnSucceedAttack] Inflict 1 Urge next turn
+1545||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 욕망 2 부여|[OnSucceedAttack] Inflict 2 Urge next turn
+1546||(ulepszenie 1) — nazwa] 돈 벌 시간이다!|Breadwinning!
+1547||(ulepszenie 1) — nazwa] 돈 벌자!|Make Some Riches!
+1549||(ulepszenie 1) — nazwa] 재미난다!!|Thoroughly Amusing!!
+1550||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 자신에게 피해 3|[OnSucceedAttackHead] Take 3 damage
+1552||(ulepszenie 1) — nazwa] 반짝☆반짝 돌아!?|Twinkle☆Sprinkle Spinny!?
+1554||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 욕망 3 부여|[OnSucceedAttack] Inflict 3 Urge next turn
+1555||(ulepszenie 1) — nazwa] 쏘아대기|Fire Off
+1556||(ulepszenie 1) — nazwa] 터져나오는 우울|Bursting Gloom
+1557||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 침잠 3 부여|[OnSucceedAttackHead] Inflict 3 Sinking next turn
+1558||(ulepszenie 1) — nazwa] 내려찍기|Strike Down
+1559||(ulepszenie 1) — nazwa] 꿰뚫는 욕망|Piercing Lust
+1560||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 출혈 2 부여|[OnSucceedAttackHead] Inflict 2 Bleed next turn
+1561||(ulepszenie 1) — nazwa] 갈아내기|Grind
+1562||(ulepszenie 1) — nazwa] 교만한 분쇄|Prideful Runover
+1565||(ulepszenie 1) — nazwa] 부리 찍기|Beak Pick
+1566||(ulepszenie 1) — nazwa] 후려베기|Slicing Smack
+1567||(ulepszenie 1) — nazwa] 발길질|Foot Stomp
+1569||(ulepszenie 1) — nazwa] 부리 쪼기|Beak Peck
+1570||(ulepszenie 1) — nazwa] 얼음 뱉기|Ice Chuck
+1571||(ulepszenie 1) — nazwa] 부리 부수기|Beak Smash
+1573||(ulepszenie 1) — nazwa] 기괴한 눈동자|Eerie Eyes
+1574||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 정신피해 5|[OnSucceedAttack] Deal 5 SP damage
+1576||(ulepszenie 1) — nazwa] 어설픈 모방|Imperfect Imitation
+1577||(ulepszenie 1) — opis] 피격 당한 공격을 모방하여 사용.\n[WhenUse] 대상에게 정신피해 10|Copies a skill that hit this unit\n[WhenUse] Deal 10 SP damage
+1578||(ulepszenie 1) — nazwa] 껍데기 고치기|Adjust Shell
+1579||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 10%만큼 체력 회복. 본능을 1 얻음|[OnSucceedAttack] Heal 10% of Max HP; Gain 1 Instincts
+1580||(ulepszenie 1) — nazwa] 뼈 폭발|Bone Blast
+1581||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 10%만큼 체력 회복|[OnSucceedAttack] Heal 10% of Max HP
+1582||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 10 부여|[OnSucceedAttack] Inflict 10 Bleed next turn
+1583||(ulepszenie 1) — nazwa] 거친 할퀴기|Violent Scratch
+1584||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 출혈 1 부여|[OnSucceedAttackHead] Inflict 1 Bleed next turn
+1587||(ulepszenie 1) — nazwa] 광적인 돌진|Rabid Ram
+1588||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 4 부여|[OnSucceedAttack] Inflict 4 Bleed next turn
+1590||(ulepszenie 1) — nazwa] 갈기갈기|Tear Apart
