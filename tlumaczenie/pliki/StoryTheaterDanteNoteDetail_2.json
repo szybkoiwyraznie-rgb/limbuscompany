@@ -1,5 +1,23 @@
 {
   "entries": {
+    "dataList[id=DanteNoteDetail_25].desc": {
+      "pl": "- Chyba tak nazywa się wielkie organizacje zarządzające Fikserami.\n- Każde Stowarzyszenie ma chyba wyspecjalizowaną dziedzinę, co ma odpowiadać temu, jak swobodny i otwarty jest zwykle fach Fiksera.\nWybór jest całkiem spory… Kilka Stowarzyszeń widziałem przez Tożsamości Grzeszników i ich lustrzane światy.\n- Główna różnica względem Fikserów na własną rękę: oni nie mogą wybierać zleceń, które chcą przyjąć.",
+      "kr_sha256": "d44886f215d0e7a2c279f23275515dbaad727d71903b19229a14cadb4c9a5949",
+      "en_sha256": "1cc705485b2347adc4439880ce1b62df46727967fe23238c87d8684deadd21b5",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_26].desc": {
+      "pl": "- Chyba wyspecjalizowali się w zleceniach na zabójstwa.\n- Trzeba zaznaczyć, że nie znaczy to, iż to jedyni Fikserzy, jacy kiedykolwiek biorą się za zabójstwa. Po pierwsze, wynajęcie Fiksera ze Stowarzyszenia to majątek…\nPoza tym popyt na zabójstwa w Mieście jest strasznie wysoki, więc nawet nieznane Biura na zapadłych ulicach dostają takie zlecenia całkiem często.",
+      "kr_sha256": "cab8fee7f983aa8820a812d2b82c5071870063afe6006d0fcb1b3caabfb67fc3",
+      "en_sha256": "8d90f131022bbd504ce86c4ccd862077cd8ac51f33c02d0dc18d54d22aef12f1",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_27].desc": {
+      "pl": "- Chyba wyspecjalizowali się w zleceniach bojowych z udziałem grup ludzi.\n- „Choć niewielu Fikserów w Mieście kończy życie, choć raz nie wmieszawszy się w bitwę…” (cytuję za Don Quixote.)\n- Stowarzyszenie Liu wyróżnia się chyba tym, że każdy z jego członków potrafi radzić sobie z kilkoma przeciwnikami naraz.",
+      "kr_sha256": "c90bb7bed29a20172ea0ac7482090fe5ed876bc6a7dea77de25b49d68a382681",
+      "en_sha256": "36619fa4a8ae3fec67c6d0352cd10a28ee2a2e060bfbb9f1203f856cdc127177",
+      "origin": "ai"
+    },
     "dataList[id=DanteNoteDetail_28].desc": {
       "pl": "- Chyba tak nazywa się wszystkie firmy czy przedsiębiorstwa (albo zakłady?) zakładane przez Fikserów.\n- Nawet jeśli nie otwiera się porządnej firmy, żeby pracować jako Fikser, trzeba podobno albo gdzieś należeć, albo założyć jednoosobowe biuro.",
       "kr_sha256": "06ef5e01d22e5f27e827a641b2230dc5b90f5852c51a0986b26d5c86a41c00e9",
@@ -10,6 +28,12 @@
       "kr_sha256": "c4c602e72963ebeb3f001fb5c6d0f89321ce0ef4087aa49f0d9200604be2f20f",
       "en_sha256": "4899a189634b58f53f2f8e02ac7a0b61d90e7d3704a0d57565d7c66670f63a0f"
     },
+    "dataList[id=DanteNoteDetail_30].desc": {
+      "pl": "- Według Don Quixote („Odróżnienie jednych od drugich może być zadaniem zbyt trudnym dla nowicjuszów!”, dodała przy okazji) — Stowarzyszenie Cinq obejmuje sytuacje jeden na jeden, jak pojedynki, a Liu zajmuje się starciami między wieloma walczącymi. Zresztą większość tamtych Tożsamości rzeczywiście ceniła współpracę i koordynację ponad działanie w pojedynkę.\nWyglądali też całkiem beztrosko…\n- Tożsamość Gregora ze Stowarzyszenia Liu powiedziała mi też, że zdarzało mu się brać na pięści grupy po pięciu czy sześciu naraz. (Nie zapomniał z dumą wspomnieć, że „skopał im tyłki”.)",
+      "kr_sha256": "730f2143b521257936c3f861f323e8e2c102d3a7b34ea496afff78e9d1fb68ee",
+      "en_sha256": "fd172bbdd778840c8b8ca31a9add9586dd06291c1d273e4b38cd375ef6cd78ae",
+      "origin": "ai"
+    },
     "dataList[id=DanteNoteDetail_31].desc": {
       "pl": "- Biura też bywają chyba różnego rodzaju.\n- Kiedy przypominam sobie Zaułki Dystryktu 4 (teren D Corp.), biuro, do którego należały poznane tam Yuri i Aya, było chyba najpospolitszym rodzajem biura Fikserów.\n- Tak czy inaczej, Fikserzy, biura i Stowarzyszenia działają podobnie: za pieniądze załatwiają to, czego chce zleceniodawca.",
       "kr_sha256": "83a5c3ce356944f5c88a8ade07b71b5db2f84fb3361a0a3ab31828a488d006bd",
@@ -19,6 +43,12 @@
       "pl": "- Chyba tak nazywa się fluorescencyjnie zielone paliwo, które produkowała Lobotomy Corporation.\n- W Mephistophelesie też jest urządzenie, które przerabia ludzi na Enkefalinę; tak chyba nazywa się płyn, który wypełnia rury.\n- Enkefalina nie musi zostawać w rurach: zależnie od naszego wyboru można ją przelać do czegoś wygodniejszego do przechowywania. Przede wszystkim do skrzynek i modułów.",
       "kr_sha256": "3cd36ba40b09b00b8827a4e48a2949fb239c3366237296be8dcf7de5269eb589",
       "en_sha256": "c6942515f5633dc10a30d9f4052f6179df5fec300e300ebc8009d16ccc46dc89"
+    },
+    "dataList[id=DanteNoteDetail_33].desc": {
+      "pl": "- Osobną ciekawostką są zapalające urządzenia wbudowane we wszystkie ich bronie.\n- Kiedy zapytałem, dlaczego używają broni wzniecającej ogień, odpowiedzi były różne: „harmonia”, „flow”…\nSzczerze mówiąc, brzmiały to jak wywody omijające sedno. Moim zdaniem chodzi prawdopodobnie o to, że ogień skutecznie trafia w przeciwników wokół celu. Płomienie się przecież rozprzestrzeniają.",
+      "kr_sha256": "10ebef5080548de8c0f9eabb5888a59edbf1ea6afacddae8d74536d184d22c56",
+      "en_sha256": "4dac0399f317f0a7b30327ba23ee2ef6117aed6d1446b231ed21e7c1cf7ec40b",
+      "origin": "ai"
     },
     "dataList[id=DanteNoteDetail_34].desc": {
       "pl": "- Wciąż chyba nie umiem powiedzieć, czym właściwie jest Anomalia.\n- Ogólnie (przynajmniej te, które dotąd spotkałem) to istoty o wyglądzie zupełnie niepodobnym do ludzi czy zwierząt i o niestworzonych zdolnościach…\nMyślę, że chodzi o istoty, których kształt i moce są dosłownie “anomalią”: czymś, co nie mieści się w żadnej normie.",
@@ -34,6 +64,12 @@
       "pl": "- Gdy pytam Faust, zawsze słyszę tylko: “Anomalia to po prostu Anomalia. Proszę nie próbować definiować jej według żadnych norm”, więc trudno o konkretniejszą odpowiedź…",
       "kr_sha256": "4a1d129b467f272b4c0c01bfbbbcd50a1f3d6916966f6d480db6bdfb948e0c78",
       "en_sha256": "b9b4576b1ab566268cca7399cd00f87f483bff5f4c9f5ce67e95a8f5214d8c9f"
+    },
+    "dataList[id=DanteNoteDetail_37].desc": {
+      "pl": "- Chyba wyspecjalizowali się w zleceniach pojedynczej walki i pojedynków.\n- Choć rzadko, podobno wciąż zdarzają się ludzie chcący rozstrzygnąć spór uczciwym i honorowym „pojedynkiem”.\n- Kiedy ktoś wikła się w pojedynek (albo musi kogoś o niego wyzwać) i dochodzi do wniosku, że przeciwnik wyraźnie mu podrze gardło, wysyła temu Stowarzyszeniu zlecenie. Podobno stają w imieniu klienta albo coś w tym stylu.\n- Wszystko, co wiem o tym Stowarzyszeniu, pochodzi od Tożsamości Stowarzyszenia Seven, więc niewiele się dowiedziałem…\nSkoro Stowarzyszenie rzadko dostaje zlecenia, podobno odpowiada też za wspólne konferencje i wydarzenia z innymi Stowarzyszeniami.",
+      "kr_sha256": "25fc24ad786af152fdaca529c5ad89e5cb553cec2ed7c4a2d0cfce39a325913c",
+      "en_sha256": "3acbec7689cce50088162e4f325446590d0c39a4424494d7a187799738a0fbae",
+      "origin": "ai"
     },
     "dataList[id=DanteNoteDetail_38].desc": {
       "pl": "- W środku czegoś na kształt… żarówki? jest przedmiot o dziwnym kształcie.\n- Nie wiem, jak to opisać… Czasem się porusza, czasem wije.\n- Kiedy wpatruję się w tę migotliwą, tak zwaną nić, robi mi się mętnie w głowie.\n- Faust nie pozwoliła mi długo jej trzymać, więc ją oddałem, a w zamian wysłuchałem wyjaśnień.",

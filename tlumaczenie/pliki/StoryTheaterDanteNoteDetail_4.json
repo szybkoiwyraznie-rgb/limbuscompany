@@ -14,6 +14,66 @@
       "pl": "- Przez drzwi mojego pokoju można wejść do korytarza prowadzącego do Lochów Lustra i Lochów Wydobywczych.\n- Korytarz za Tylnymi Drzwiami wydaje się dłuższy i obszerniejszy, niż wskazywałyby drzwi, z których możemy korzystać, ale stoi tam tabliczka ostrzegająca, żeby nie iść dalej.\nRaz Heathcliff przeszedł za nią i omal nie doszło do poważnego wypadku. W głębi korytarza chyba czają się niebezpieczne rzeczy albo prowadzi on w niebezpieczne miejsca.\nWciąż pamiętam przerażoną minę Heathcliffa… I to, jak Faust, zupełnie do niej niepodobnie, się spieszyła.\n- Ryōshū nazywa chyba tę ciągnącą się bez końca przestrzeń “Korytarzem”, ale mam wrażenie, że chodzi jej o coś innego niż zwykły korytarz, jaki przychodzi nam na myśl. Co to właściwie jest…?",
       "kr_sha256": "1f3924934c0d9abb27c1011fe5f19a597882ce951e5655234b7f34714fbfb077",
       "en_sha256": "3d4353944b3480f186c0002f28d918fb7bb7a55b8e10540b27e60435aa6699cd"
+    },
+    "dataList[id=DanteNoteDetail_67].desc": {
+      "pl": "- To „lochy”, do których mamy dostęp przez Tylne Drzwi.\nKorytarz prowadzący do Lustrzanych Lochów zbudowany jest z zimnego, ciężkiego metalu. Wzbudza inny rodzaj niepokoju niż nasze zwykłe drewniane drzwi i korytarze.\n- Na początku była tylko jedna para drzwi prowadzących do Lustrzanych Lochów, a pozostałe były zamknięte. Pewnego dnia otworzyły się jednak drugie, więc mamy teraz dwie. Skoro Faust dała nam znać, kiedy drzwi się otworzą, zgaduję, że są określone warunki ich otwarcia. A może po prostu trzymają się pewnego harmonogramu.\n- Za każdym razem, gdy wchodzę do Lustrzanych Lochów, wychodzę w miejscu przypominającym mglisty kosmos. Do każdego z Lustrzanych Lochów mogę wybrać, których Grzeszników zabiorę ze sobą.",
+      "kr_sha256": "c4358827b84ebb2ba8a16dec5e92e700e84a580e387cf55d12b701e384d848ae",
+      "en_sha256": "a619c7338a441479619a1bb9792fa8faa81a272354554c3327d55e6edeb20ab7",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_68].desc": {
+      "pl": "- Jeden z typów lochów, do których można wejść przez Tylne Drzwi.\n- Po wejściu po lewej stronie są Lochy Wydobywcze Biletów Treningu, a po prawej Lochy Wydobywcze Nici.\n- Wygląda na to, że możemy gromadzić surowce do wzmacniania Grzeszników, walcząc z Anomaliami albo przeciwnikami, których już widzieliśmy w przeszłości.\n- Musimy wydać Enkefalinę, żeby do nich wejść, bo i one wymagają do działania silnika Mefistofelesa.",
+      "kr_sha256": "3ec72111da30bcf9ef6b525936ef9b9378d0786bf6338de7fdaa85ebbef74915",
+      "en_sha256": "2126f741ba79869a16bb97cec7071909b055e7d29fda22aad54ed9f045d4f7f8",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_69].desc": {
+      "pl": "- Według Faust silnik Mefistofelesa aktywnie stabilizuje Lustrzane Lochy, do których wolno nam wejść przez Tylne Drzwi.\n- Ich ostatecznym celem zdaje się być poprawa moich i Grzeszników zdolności. Faust zaleciła, żebyśmy często odwiedzali Lustrzane Lochy za Tylnymi Drzwiami, nawet jeśli kosztowałoby nas to Enkefalinę potrzebną silnikowi.",
+      "kr_sha256": "d42dc8b4fd4c85691b84a377c483378afe41b0f26956a0b94eb5b89e72653327",
+      "en_sha256": "69516c572b96bfb72629d33f44565f9fad7ee1a3afc03df10cf9e66838a7e4c6",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_70].desc": {
+      "pl": "- Miejsce dostępne przez Tylne Drzwi.\n- Gregor mówi mi, że wygląda to bardzo podobnie do stacji metra w Mieście.\n- Widać, że miejsce jest mocno zaniedbane, jakby stało tu od bardzo dawna. Na szynach stoi coś, co wygląda na pociąg metra.\n- Pociąg metra jakoś przypomina naszego Mefistofelesa, tylko że wygląda, jakby od dawna leżał odłogiem.\n- Pociąg metra nie ruszył, gdy w środku był tylko jeden Grzesznik. Kiedy jednak dołączyli pozostali, drzwi same się zamknęły i zabrały nas gdzieś.\n- Grzesznicy powiedzieli mi, że podwieziono nas do następnej stacji.\n- Z tego, co widzę do tej pory, każda stacja prowadzi do innego otoczenia, a niektóre z nich to miejsca, w których bywaliśmy w przeszłości.\n- Gdy wysiadamy z pociągu metra na nowej stacji, drzwi zamykają się za nami. Wtedy jakaś Anomalia albo jacyś przeciwnicy bez żadnego powodu na nas atakują, prowadząc od razu do walki.\n- Gdy walka się skończy, drzwi pociągu znów się otwierają. Gdy wszyscy wsiądziemy, zawozi nas do następnej stacji. I tak w kółko, aż dotrzemy do stacji końcowej.",
+      "kr_sha256": "3e5c4da945ee6acaeea72b2e37a55ecd8df4bba7fd23580c47cb51562e90e5cd",
+      "en_sha256": "1cf7cfcd04a5354fa0f75d3a88b5d7d3a1044b314e50b923d98d4f112a76355d",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_71].desc": {
+      "pl": "- Faust mówi mi, że to chyba… „symulacje, czyli szereg miejsc wygenerowanych po to, by poprawić nasze zdolności, podobnie jak funkcje Lustrzanych Lochów czy Lochów Wydobywczych za Tylnymi Drzwiami”.\nTo ma sens. Napotkaliśmy tam przeciwników takich jak Kromer, ale jedyne, co robiły, to z nami walczyły. Może i one to tylko symulacje.\n- Nie wiem, czy poddają nam bardzo realistyczną symulację, czy faktycznie zabierają nas tam, gdzie rezydują Anomalie. Nadal za mało wiem o tym miejscu, żeby powiedzieć na pewno.\n- Kiedy dotarliśmy do końca trasy metra, pozwolono nam wrócić do autobusu jedną ze stacji.\n- Jeden z Grzeszników był w furii, narzekając, że wysłali nas na bezsensowne poszukiwania niczego… dopóki nie zobaczył, jak Faust otwiera skrzynkę Rzeczy Znalezionych i wyjmuje z niej całe mnóstwo surowców.",
+      "kr_sha256": "ebf018ae8a0af5e331d5e5e759b5aaba11c606d4a4ebfa1c50dad2695d0f7366",
+      "en_sha256": "fea0419820de9bc0db3e8bf8d6dfe0131cdfda81adcfc477413c5fa0857d7fb6",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_72].desc": {
+      "pl": "- Choć jest teraz zamknięta, bywaliśmy już kiedyś na tej stacji.\n- Całe miejsce miało niebieskawy odcień.\n- Napotkaliśmy i przeszliśmy walki z znajomymi twarzami, ale wiele Anomalii tam to istoty, których dotąd nie spotkaliśmy w Filii Lobotomy Corp.\n- Pamiętam, że stykaliśmy się z częścią tych Anomalii wcześniej w Lustrzanych Lochach. Faust mówi, że nasze z nimi spotkania w Lustrzanych Lochach odbywały się przez pewnego rodzaju… przestrzenie. Ich przestrzenie mentalne, ich światy.\nChyba kolej zaszła akurat w jeden z tych światów?\n- To może jednak nie jest symulacja? Nie wiem…",
+      "kr_sha256": "91844c47607240ea8846d8d6a2ff57267f6a9328151544c6b35d3973a71053da",
+      "en_sha256": "4564fa0f676dd878558f7f53ba163cc8b2b87af872f9610e3e9316525f16f4ea",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_73].desc": {
+      "pl": "- To miejsce ma zielonkawy odcień, w odróżnieniu od Linii 1 z jej niebieską barwą. Założę się, że następna będzie w innym kolorze. I tak dalej, i tak dalej.\n- Znów toczyliśmy walki z Anomaliami, których wcześniej ledwie widzieliśmy z daleka.\n- Wszyscy wiwatowali, gdy zobaczyli, że Linia 2 ma znacznie mniej stacji niż Linia 1… Dopóki Yi Sang nie spostrzegł symboli na ścianie i nie wysnuł teorii, że tę Linię mamy pokonywać wielokrotnie.\n- Z każdym nowym Cyklem dodawana była nowa stacja, choć najpierw musieliśmy przechodzić wcześniejsze.\n- Mniej więcej za czwartym Cyklem Heathcliff zaczął głośno narzekać, że ma dość robienia w kółko tego samego, samego i samego. Niektórzy Grzesznicy też zdawali się tracić spokój, ale kryzys udało się zażegnać dzięki Yi Sangowi, który powiedział, że napis podobno głosi, iż piąty Cykl jest ostatnim, który trzeba wypełnić.\n- Kiedy skończyliśmy piąty Cykl, w skrzynce Rzeczy Znalezionych znaleźliśmy wielkie mnóstwo różnorodnych surowców. Z tego, co widzę, każda Linia będzie miała inne trasy i warunki jej przejścia.",
+      "kr_sha256": "79fcfc889466adbcadf34f171d08147848afa8e47a430acfba1782c841713fdb",
+      "en_sha256": "3c95b5f631049bc533adf730bffdc1d838e96a56f1193ecbe413c1b4cfbbfcc4",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_74].desc": {
+      "pl": "- Chyba wyspecjalizowali się w gromadzeniu i badaniu wiedzy.\n- Mówią, że członkowie Stowarzyszenia używają wyposażenia czerpiącego siłę fizyczną z wiedzy.\n- Im trudniej zdobyć wiedzę i im cenniejsza jest ona, tym większą siłę daje użytkownikom. Wygląda jednak na to, że czerpiąc z niej siłę, tracą tę wiedzę.\n- Widzę, że mają Fikserów walczących pięściami i Fikserów walczących swoimi… kluczami? (Co?)",
+      "kr_sha256": "bf2c5be44be9c9175ce756ebccb603a775b6dcb2b2c722ccb2ff78820daeaf72",
+      "en_sha256": "ab10f324ca4d986439585c993cb9b07ba656510b781af601214d621a481768f0",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_75].desc": {
+      "pl": "- Nie bardzo rozumiałem, czemu puszczają całe roje dronów nad miastem, filmując sceny śmierci i bólu… ale wygląda na to, że miał w tym wszystkim sens.\n- Dowiedziałem się kilku rzeczy o Gnieździe K Corp., realizując ich zlecenie… Ale nie jestem pewien, czy wypada mi zostawić po tym zapis.",
+      "kr_sha256": "06a09f21ecfb6d1d17466aa55157ecc15303842d708b8da4239a76112ba573eb",
+      "en_sha256": "868b682945e24548b081e55cde4296205af0865df792662798b7365a5868b322",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_76].desc": {
+      "pl": "- Dobra. Poniżej kilka informacji, których NIE powinniśmy spisywać… Ale i tak chcę je zapisać. Niech będzie.\n- …Wiedza nie wiadomo kto. Jednego dnia być może i ja zapomnę wszystko.\n- Wyjaśniono mi, że ampułki HP to w istocie nieskończenie drobne nanoboty wspomagające regenerację ciała. Podobno były tak malutkie, że ich skupisko przypadkiem wyglądało jak zielony płyn.\nAle żadna z tych prawd nie była prawdą. Nie były one niczym nawet zbliżonym do nanobotów. Ampułki po prostu wypełniono jakimś zielonym płynem.\n- Pociski HP K Corp., zwane też ampułkami Regeneracji, nie działają jak maści. One uh… przywracają ciało osoby, do której je wstrzyknięto, do formy, którą ta pamięta jako niezranioną.\n- Stephanette, założycielka K Corp., udała się na rubieże Peryferii i przyprowadziła stamtąd organizm, który nazywają „Tearful Thing”, z którego wyciska się ten płyn.\n- Sądząc po tym, co widziałem przez rezonans ze Złotą Gałęzią, „Tearful Thing” było kiedyś człowiekiem.\n- Chyba ich życzeniem było, by nikt nigdy nie cierpiał z powodu bólu. I to życzenie zostało spełnione… w jakiejś tam formie. Teoretycznie rzecz biorąc, jego łzy potrafią uleczyć dosłownie każdą część ciała, dopóki nieuszkodzony jest mózg.\n- Zgodnie ze swoją nazwą „Tearful Thing” łzawi, gdy czeka je smutek. A przetwarzając lub rozcieńczając jego łzy, wytwarza się ampułki — Osobliwość K Corp.\n- Na początku założycielka Stephanette wyciskała z niego łzy, dzieląc się smutnymi lub wzruszającymi historiami. Ale gdy odeszła, ci, którzy po niej przejęli władzę, zakopali go w nieustannym strumieniu gwałtownych, wstrząsających obrazów, żeby produkować jego łzy wydajniej.\n- Dlatego to drony filmowały śmierć ludzi. Żeby zmusić „Tearful Thing” do oglądania tych gwałtownych i wstrząsających tragedii.\n- Wygląda na to, że zmuszanie go do oglądania tej samej tragedii w kółko nie jest tak wydajne. Trzeba wciąż dostarczać mu nowe, różne sceny przemocy. Dlatego importują podobne materiały z innych Gniazd. Planowali użyć technologii szyby ze szkła podobnej do lustra, by zapewnić mu stały dopływ materiałów, ale nasze zaangażowanie zdaje się mieć to zniweczone.\n- Biorąc pod uwagę, że „Tearful Thing” jest w końcu organizmem, zdaje się też potrafić wydawać potomstwo. Alfonso nazwała tego, którego widzieliśmy… dzieckiem.\n- Nie wiem jak… ale gdybym miał zgadywać, powiedziałbym, że próbują poprawić swoje stopy produkcji, używając dzieci „Tearful Thing”.",
+      "kr_sha256": "ed2b09a0b69e79adbeeecfb535b192939ad1aacec76fc3c777a25eae02db88e5",
+      "en_sha256": "dcfce6c14a4dba8652ddcbb8743eab522628fd4881bcebc6568fdd7b452638f3",
+      "origin": "ai"
     }
   }
 }

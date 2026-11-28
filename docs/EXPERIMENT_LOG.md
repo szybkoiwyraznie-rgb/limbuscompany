@@ -979,3 +979,71 @@ kategorii = sekwencja 1..K, każda kategoria ma hasło w słowniku PL.
   `c2adc62b19782393df66d48a7973c8f6df863355f351c397c38bdc4c337255aa`;
   Drive `1zKaj-GkRTzrL_lI8AYHVl4eucpzNGu1B`; v9 w koszu. Patch v6 bez zmian.
 - **Testy:** `76/76`.
+
+## E-027 · 2026-11-28 · Tłumaczenie 133 brakujących Notatek Dantego (PL==EN) — patch v7 + Czytanki v11
+
+**Zgłoszenie:** właściciel zażądał najpierw pełnego tłumaczenia Notatek Dantego
+(zakres: 133 wpisy `StoryTheaterDanteNoteDetail*` z PL==EN w cz_snapshot),
+zanim fala 4 zostanie wznowiona. Przykład: `DanteNoteDetail_89` (Wielkie
+Jezioro).
+
+**Diagnoza:** diff EN↔PL `local/cz_snapshot` → 133 id bez PL; rozkład po
+plikach: Detail [12], _2 [25,26,27,30,33,37], _3 [45–58], _4 [67–76],
+_5 [77–91], _6 [92–114], _7 [115–121], _8 [122–130], _9 [131–137],
+_10 [138–147], _11 [148–163], _12 [164–171], _13 [172–178]. EN treści w
+`local/pipeline/tr_dante/dump_batch{1,2,3}.txt`; mapy
+`category_map.json`+`meta_map.json` (176/176). Kanon terminologiczny
+pobrany z 43 już przetłumaczonych wpisów i z nazw kategorii
+(`StoryTheaterDanteNote*.content`): Lustrzane Lochy, Lochy Wydobywcze,
+Tylne Drzwi, Głębia Jaźni, Kolej Załamania — Linia 1–5, Wypaczenia,
+Poziomy Ryzyka, Nić, Splot Nici, Sprzątacze, Noc w Zaułkach, Palce
+(Kciuk/Środkowy/Serdeczny/Mały Palec/Wskazujący), Dom Pająków,
+Spopielacz Pojęć, Anamnoczerw, Rozkwitłe E.G.O, Konserwowe Doświadczenie,
+Mefistofeles, Kamerdynerzy, Stowarzyszenie Diewiat', Ród Ostrza, Klan
+Kurokumo, Monolit, Wędrowiec, Starzec Indygo, Podatek Czasowy, Peccatula
+2./3. stadium, Torba Wymiarowa.
+
+**Fix (`local/pipeline/tr_dante/`):**
+- `notes_pairs_{a,b,c}.json` — 133 tłumaczeń (kontrola: 133/133 id, 0
+  braków; parność liczby wierszy „- " EN↔PL = 133/133; brak markerów
+  `<!--`/`■`; zero urwanych konstrukcji); stwierdzono 3 poprawki
+  strukturalne (76: rozdzielony ostatni punkt; 93: pełne 7 punktów; 149:
+  kontynuacja bez wypunktowania);
+- `dante_notes_apply.py` — wgranie przez `TranslationStore.set_leaf`
+  (`origin=ai`), klucz logical z `.json` (haczyk znany z LESSONS);
+  wynik: 133/133 zapisanych, 0 pominiętych (human), 0 braków źródła;
+  stan store: 13 plików detail, 177 liści `.desc` (każde id z
+  localize ma PL);
+- `local/cz_snapshot/pl/StoryTheaterDanteNoteDetail*.json` — odświeżone
+  133 descs (BOM zachowany, format {id, title='', desc});
+- **Patch v7:** `dist/LCB_PL_Polski_26917622.zip` = 7 614 185 B, SHA-256
+  `368989c678bb5bfbfd44e266a5797ba2284bd26e165a73120ac3f3ccef93f463`;
+  2422 JSON (zmodyfikowanych 1429), 85 525/193 309 liści, 0 znaczników
+  diagnostycznych; Drive `15e9BykkCfuRDFpPQCrcSdR2eXabQrRMd`; v6 w koszu;
+- **Czytanki v11:** rebuild `build_meta.py` → `02_notatki_dantego_PL.md`
+  ma 99 haseł / 176 zapisków PL (było 43);
+  `dist/LCB_Czytanki_PL_2026-11-28_v11.zip` = 99 plików MD, 2 571 855 B,
+  SHA-256
+  `a31381b047a85921b454ab3e80eb4928bd0ce923c8584536fe4e4a191496dbdf`;
+  Drive `1t_scwmtrrBfE4QG6WdJBGFoH9RCSzXZo`; v10 w koszu.
+- **Testy:** `76/76`.
+
+**Propozycje terminów bez precedensu (do decyzji właściciela — nie
+wdrożono nic wbrew zasadom):** wdrożono ostrożnie z zachowaniem kanonu;
+formy użyte w nowych wpisach, które wymagają zatwierdzenia: Poziomy
+Ryzyka (Risk Level), Sprzątacze (Sweeper — wcześniej „Zamiatacze” w
+starym przekładzie), Serdeczny/Środkowy/Kciuk/Mały Palec/Wskazujący
+(Fingers — polskie nazwy palców, wg przetłumaczonych kategorii),
+Kamienie Księżycowe (Moonlight Stones), Wypaczenia (Distortion — kanon
+kategorii), Spopielacz Pojęć (Concept Incinerator), Anamnoczerw
+(Anamnaworm), Podatek Czasowy (Time Tax), Zakład Korekcyjny Traum
+Otchłani (Abyss Trauma Correctional Facility), Punkty Przegięcia
+(Inflection Points), Wataha (Pack — Heishou i R Corp.), Zespół Autobusu
+(Bus Team), bronie rozstrzygające (decisive weapons), Księga Zemsty
+(Book of Vengeance). Zachowano EN zgodnie z kanonem organizmów/nazw
+własnych: First Kindred, Kindred, Trash Crabs, Tearful Thing, Time
+Ripper, The Head, Claws, Arbiters, Inquisitors, Uptie, Wayfarer
+Company, Molar Boatworks, King in Binds, Peccatulum Invidiae,
+Mang (望)/Shin (心), Muga, Arayashiki,
+Nursefather/Apprentice/Proselytes/Proxies/Messengers, Tiekan, Daguanyuan,
+Butter Street, Grand Magasin Sisyphe.

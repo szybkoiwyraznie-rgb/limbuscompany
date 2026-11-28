@@ -10,6 +10,12 @@
       "kr_sha256": "d3e71378291b9ed8cd2a598a475caa78b4267127ecaaaaf02a5676a8e28c49b0",
       "en_sha256": "b42719d425ccafad0d95a28a5aeeb9a48a36e37082350e7405e75e9023d1e2d2"
     },
+    "dataList[id=DanteNoteDetail_12].desc": {
+      "pl": "- Według Samjo, pracownicy, którego spotkaliśmy u Eunbonga, Skrzydło podobno rozwija też technologie spożywcze oparte na Osobliwości.",
+      "kr_sha256": "1bcd96f82e706ffaf91b48dcaa0573af81f4e64af2d4945baa618564804505d8",
+      "en_sha256": "a5ec3bf667fa4d88fe925bbc7a36ccb03793e3dd98a9be0991f12e76aaecb58b",
+      "origin": "ai"
+    },
     "dataList[id=DanteNoteDetail_13].desc": {
       "pl": "- Lobotomy Corporation.\n- Upadłe Skrzydło, którego miejsce wciąż stoi puste. Gniazdo w Dystrykcie 12.\nByło to chyba centrum wydarzeń zwanych Białymi Nocami i Ciemnymi Dniami, o których wie całe Miasto (oprócz mnie… a może po prostu zapomniałem…?).\nWszystkie filie, w których zostały Złote Gałęzie, za którymi się uganiamy, należały chyba do dawnego L Corp.",
       "kr_sha256": "30ee29d893c9be8c1e83b6efc351d4152ca1cb9bfc668d85c914de07b805339a",

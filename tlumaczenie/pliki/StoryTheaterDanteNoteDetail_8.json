@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_122].desc": {
+      "pl": "- Lustro ukazuje możliwości, które mogły albo i nie mogły zaistnieć. Kiedy Catherine, Nelly i Heathcliff ze Świata Lustrzanego wpatrywali się w Lustro, widzieli w swoich przyszłościach tylko wszelakie tragedie. Jeśli naprawdę istnieją światy nieskończonych możliwości, to… musi istnieć nieskończoność czasu, którą muszą obserwować, prawda? Czy więc naprawdę możemy powiedzieć, że widzieli każdą możliwą przyszłość? Innymi słowy, czy w ogóle da się coś takiego zrobić? Zastanawiam się, czy możemy aktywnie wchodzić w interakcje ze Światami Lustrzanymi albo coś w tym rodzaju.\n- Korzystamy z tych technologii Lustra niemal codziennie, ale wiemy o nich tak mało. Yi Sang też mówi, że Światy Lustrzane są jak strasznie poplątany węzeł zagadek, który musimy ostrożnie rozplątywać.",
+      "kr_sha256": "07f40569627fd07a64dbb68f7332fcd18f2e9abd62a6f9e31fecdc98d665cd22",
+      "en_sha256": "8caca11a96e0db218dac17098c1a921ad98ed8f3a5f80c84cf3adfba82852a6e",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_123].desc": {
+      "pl": "- Dyrektor Generalny T Corp. zaproponował odkupienie Monolitu od Limbus Company. Sprzedajemy teraz artefakty zdolne wywoływać Wypaczenia? To nie ma sensu — naszym głównym interesem, przynajmniej na pozór, jest Zarządzanie Wypaczeniami… a sprzedajemy przedmioty, które mogą wywoływać Wypaczenia? … Może po prostu budujemy reputację ekspertów od Wypaczeń, żeby zagwarantować bezpieczeństwo nawet przy takich artefaktach. No cóż… jeśli sprzedajemy artefakty, które tworzą Wypaczenia, i zajmujemy się Wypaczeniami, kiedy nieuchronnie kogoś wypaczą… Chyba tworzy to model biznesowy z cyklem zysku.",
+      "kr_sha256": "7d82bad3fe6958bf35a087c81c12d621b3ceeb239936ff4e7d3b02ffc442f543",
+      "en_sha256": "0448af3d73e02dd188020d6b8327c560748dbee2fb068292c5ab653de03e4838",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_124].desc": {
+      "pl": "- Unikatowe moce każdego Wypaczenia są trochę jak Osobliwości… a czasem nawet je przerastają. Nawet Dyrektor Generalny T Corp. powiedział, że ujrzał nową możliwość przez Wypaczenie zwane Time Ripperem. Ciekawe, jaki jest ich prawdziwy potencjał.",
+      "kr_sha256": "44db81810f047e4137ab7e9c3bba58a1e421bd38382c954d78a41bf1691818e3",
+      "en_sha256": "952b55ef6891151cd2ba507b9f6054f0413b7b1de853e6635e00cd8e7938da00",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_125].desc": {
+      "pl": "- Ich Gniazdo leży w Dystrykcie 16.\n- Jest przepełnione straszliwie wysokimi wieżowcami i iglicami, dla których muszę wyginać kark, żeby zobaczyć, jak naprawdę są wysokie.\n- Ich specjalizacją są… puszkowane rzeczy rozmaitego rodzaju. Meursault wyliczył wszelakie puszki, i dowiedziałem się, że jest ich mnóstwo.\n- Rozmaite ulotki pokrywały ściany i filary dworca kolejowego od góry do dołu. Zastanawiam się, czy dzieje się tu coś okropnego?",
+      "kr_sha256": "cfe6335bd5bd0b7b10c049a871eb10bf282e4e134bf104b0b41d9f31587167d7",
+      "en_sha256": "ce07f2e48bbef55ad50b0e4b4ede22b22c4f6ae497a9e1dab1f5be00c7033c57",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_126].desc": {
+      "pl": "- Chyba wyspecjalizowali się w chronieniu i utrzymywaniu publicznego spokoju strefy wskazanej przez klientów.\n- Często nazywają siebie twoją (to znaczy, klienta) tarczą.\n- Z rozmów z Tożsamościami Zwei dowiedziałem się, że wyspecjalizowują się w chronieniu rzeczy. Ale tylko wtedy, gdy mają do tego kontrakt, rzecz jasna.",
+      "kr_sha256": "e8cfafb5c17f8b4a5ef7b1cfc2c9761ad25a7526d6d39391d60776ef218ce26d",
+      "en_sha256": "7a5cd80fbdee347d806a42524529521c7cc3816fd0310d52d3081b1a1c3d66dc",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_127].desc": {
+      "pl": "- Podobno dokonują doręczeń za pomocą torb wymiarowych wyposażonych w AI o imieniu „Poludnitsa”, zwanych „Kuframi Kurierskimi”. Mówiąc dokładniej, zdaje się, że Stowarzyszenie przypisuje typ Poludnitsy najbardziej odpowiedni dla kontraktu oraz trasę każdemu Fikserowi Diewiat'.\n- Faust wyjaśniła, że wbudowują rdzeń, czyli moduł, z zainstalowanym AI do każdego Kufra Kurierskiego z osobna i… W skrócie: instalują AI w torbie i używają go do doręczania rzeczy.\n- Rzeczy w każdym kufrze są zwykle dobrze zachowane, a ich doręczenia rzadko się spóźniają, co czyni je kluczowym Stowarzyszeniem w Mieście. Może pewnego dnia będziemy mogli skorzystać z ich usług? Brzmi całkiem wygodnie.\n- Po krótkiej rozmowie z Tożsamością dowiedziałem się, że Poludnitsa, AI, potężnie wzmacnia swoich użytkowników, jeśli uzna, że doręczenie na czas może być trudne. Niezdolność do punktualnych doręczeń może kończyć się śmiercią… nie dziwi, że prawie nigdy nie przekraczają terminu.",
+      "kr_sha256": "e2f7ab0a4c4ba64bdeec209433d78d755e81ae5ca3672b20a21449113b2fb8ba",
+      "en_sha256": "c07693ee10793eb644c21b9fd1425a0a86394212b58bd5dda6c4cd9edcdc7571",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_128].desc": {
+      "pl": "- Syndykat założony przez Sonyę. Rodya kiedyś opowiedziała mi, że kiedyś pomagali pokrzywdzonym z Zaułków, ale w końcu zeszli na fotelowich rewolucjonistów, którzy nie robili nic poza siedzeniem i gadaniem o tym, jak zamierzają zmienić miasto.\n- Powoli rozprzestrzeniają swoje wpływy przez Gniazda. Zetknęliśmy się nawet z terrorystami Jurodiwymi, którzy używali rozmaitych wynalazków, by siać spustoszenie w Gnieździe T Corp.\n- Jurodiwi, którzy czczą Sonyę jako swojego „Świętego”, powiedzieli, że czekają na „właściwy moment”. Nie wiem, czemu nazywają Sonyę Świętym ani o jaki moment im chodzi… ale coś mnie w tym uwiera.\n- Z tego, co zebrałem ze słuchania Tożsamości Dieci, Sonya nie jest tym samym rodzajem „Świętego” co Stowarzyszenia Dieci.",
+      "kr_sha256": "8f444b3585332b8f0abcf1aa9a799306ff11881979b9d3a87fd19ef7cea722c9",
+      "en_sha256": "3a4c9bc2fbd85a0eb56367a1cc674437c1d1ac7d0f4f6dd0c7348b3647228e05",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_129].desc": {
+      "pl": "- Zetknęliśmy się z Peccatula, które potrafi naśladować nie tylko wygląd Grzeszników, ale też ich tożsamości i E.G.O. Zapytałem Faust, jak Peccatula — istoty, które nie zdołały nawet przejść Wypaczenia — zdołały używać E.G.O… ale Faust zdławiła całą dyskusję, mówiąc, że to nadal informacje niejawne.\n- Jak w ogóle zdołały naśladować Grzeszników ze Światów Lustrzanych, jeśli nie mają Kart Tożsamości przeciągniętych przez technologię Lustra?",
+      "kr_sha256": "3a59cdc5cbc4dc370f0d1c7b5bb6aeb71bc746072aac5ba29309a1c171f20988",
+      "en_sha256": "fdadc2aa6a359ae63ef65030b95be53b8b4b02053a4a830daa6c0ca4ed3abd40",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_130].desc": {
+      "pl": "- Torby, które noszą Kamerdynerzy, zwą się „torbami wymiarowymi”, czyli dimension case. Wygląda to całkiem wygodnie — można przechowywać rzeczy większe, niż sugeruje ich zewnętrzny wygląd. Może to trochę jak Tylne Drzwi Mefistofelesa.\n- Rozmiar i pojemność każdej torby wymiarowej zależą od wykonania. Im droższa, tym większa pojemność i mniejszy zewnętrzny rozmiar.\n- W tych torbach wymiarowych podobno nie da się upchnąć człowieka. Może to jak pociągi WARP — muszą odróżniać ludzi od przedmiotów.",
+      "kr_sha256": "2de8caba3db9c969225c08999a6a7f0cee283198297a92fe49d7e77a481bc123",
+      "en_sha256": "bf52c337e11a2731ee854dc91820ff7e7fb19cea730e583b0d4eb13697d97b03",
+      "origin": "ai"
+    }
+  }
+}

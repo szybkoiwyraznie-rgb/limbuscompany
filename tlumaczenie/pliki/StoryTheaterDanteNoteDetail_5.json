@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_77].desc": {
+      "pl": "- Jesteśmy tylko trochę ciekawi, ale zastanawiam się, co by się stało, gdyby osobie z protezami wstrzyknięto ampułkę K Corp.?\n- Dowiedzieliśmy się wszystkiego o ich Osobliwości, od jej pochodzenia po metody produkcji, ale gdy poddali nas procedurze wymazania pamięci, jestem jedynym, który ją pamięta. Postanowiłem zejść na dalszy plan i udawać, że procedura zadziałała. Nawet z moją ograniczoną znajomością Miasta czułem, że ta informacja jest chyba całkiem istotna.\n- Zresztą zwykle nie pokazuję tych zapisków Grzesznikom, ale… Od teraz muszę być z tym wyjątkowo ostrożny.",
+      "kr_sha256": "88d7389a681500a18ca75047387c9215b65c8497ad9ae05829bd72b39c238543",
+      "en_sha256": "04df35f37c6be4a2d6d22e7fd811bffd11eb9f39d71d481d59d84c09b72ba895",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_78].desc": {
+      "pl": "- Technologia służąca do wymazywania określonych wspomnień.\n- Pamiętam, że wchodziliśmy na zmianę do jakiegoś pomieszczenia. Procedura dobiegła końca, gdy Grzesznicy wyszli z niego ze wszystkimi powiązanymi wspomnieniami wymazanymi.\n- Dziwne. Pamiętam wszystko, co K Corp. chciała, żebym zapomniał, ale o tamtym pomieszczeniu… nie pamiętam nic — o samej procedurze wymazania pamięci.\n- Rodzi to we mnie tak wiele pytań. Czemu procedura na mnie nie zadziałała? Skoro nie zadziałała, czemu nie pamiętam nic o samej procedurze wymazania pamięci?",
+      "kr_sha256": "d4dd705b1b74f230053b3e00dc1a42a28a9caf92fd25234407fcdbd836de7396",
+      "en_sha256": "2f51def4cea9cf7254fc2f4f6e33bb5c673a4988dc364ca2b4a19d2659141572",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_79].desc": {
+      "pl": "- Gniazdo Dystryktu 20.\n- Wygląda na to, że wyspecjalizowali się w technologii czasowej.\n- T Corp. znałem tylko przez rezonans ze Złotą Gałęzią. Nigdy faktycznie nie byłem w Gnieździe T Corp., więc nie wiem, jak bardzo tamto doświadczenie było zgodne z prawdą.\n- Zdaje się, cenią technologię i wynalazki.\n- Całe Gniazdo jest dosłownie monochromatyczne. Myślę, że posiadanie jakiegokolwiek koloru to przywilej dozwolony tylko tym, którzy mają władzę. Czarne dymy nieustannie wydobywające się z licznych budynków pociemniły jego niebiosa.",
+      "kr_sha256": "fa547fa5152a12c43fbe76061505509d640f8e3b1b58509425724df93c358997",
+      "en_sha256": "5a4000e30089db4bb8d8724fd0291522effe1da132de1aa7337a27f562ecb6e9",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_80].desc": {
+      "pl": "- Gniazdo Dystryktu 21.\n- Używają Osobliwości zwanej kamertonem rezonansowym. Potrafi zespawać dwa przedmioty całkiem odmiennej natury w jedno, jakby zawsze byli częścią siebie nawzajem.\n- Jakoś siła kamertonu rezonansowego zespawała broń palną z potwornymi krabami zwanymi Trash Crabs. Potrafili używać tych zespawanych broni tak, jakby urodzili się z nimi.\n- U Corp. jest rozsiane po Wielkim Jeziorze, a większość jego głównych instytucji leży na jego powierzchni.\n- Co oznacza, że potrzebujemy statku, jeśli chcemy się gdziekolwiek stamtąd udać. Dlatego zmodyfikowaliśmy Mefistofelesa w statek za pomocą kamertonu rezonansowego.\n- Zdaje mi się, że nakłada się on na tamten rejon zwany „Peryferiami”… Hmm.",
+      "kr_sha256": "074be89cb4fb74cfd1ea830681b2e26d587d7ad4d2c193528962d18537adc16c",
+      "en_sha256": "8b64795d54475cb3a1c18d290dbf857568b5aa5762811350d8d354a0db69d3aa",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_81].desc": {
+      "pl": "- Słyszałem o tym tylko mimochodem, ale nie sądzę, żeby mówili o byle jakiej bibliotece.\n- Wspomnieli o tym Fikserzy z Molar Boatworks. Powiedzieli, że tam weszli, stało się coś okropnego, a oni… powrócili z książki? Za mało wiem o Mieście, żeby połączyć te kropki albo wysnuć z nich sensowne domysły, więc po prostu spiszę to, co usłyszałem, i na razie przypnę to do tablicy.",
+      "kr_sha256": "097fb980abb15e1e725e8fdfe04522c6f8f351112422fb090ebcc35cad7114e5",
+      "en_sha256": "c4c2a8e6e0de91b16f63065abf49fe4606ebf4068d026625b7e1cdad2c25f40f",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_82].desc": {
+      "pl": "- Miałem rację. Stowarzyszenia to nie jedyny rodzaj organizacji, dla której może pracować Fikser. Niektórzy pracują też w biurach. Każde zdaje się wyspecjalizować w czymś innym, tak jak sami Fikserzy.",
+      "kr_sha256": "66e4fe01e815765738839bfe9a222355c877c981e16accaa85f988ba16bdb16d",
+      "en_sha256": "af041ffd5f4f5ec14f0b5a947c0f2a78e0cde72e52c11fa219917b1a18c6d4d9",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_83].desc": {
+      "pl": "- Chyba wyspecjalizowali się w zbieraniu informacji wywiadowczych.\n- Informacje, wiedza… Myślałem, że będą dość podobni do Stowarzyszenia Dieci, ale jedna z Tożsamości wyjaśniła mi różnice.\n- Podczas gdy Stowarzyszenie Seven wyspecjalizowuje się w używaniu wszelkich środków do zebrania informacji, które zlecono znaleźć, Stowarzyszenie Dieci wyspecjalizowuje się w uczynieniu znalezionej wiedzy swoją własnością poprzez analizę i dekonstrukcję.\n- Mimo to założę się, że jest między nimi sporo wspólnego, zważywszy na podobne specjalizacje.",
+      "kr_sha256": "710fde7d6730301c04ca64ce2ce5afd326186574a21c6bc966f8d4a268b784fd",
+      "en_sha256": "06c1ec87e06d2eb09c6b5e9e444e0fffba56a0edc3ff6b62eda1890ea9ed365f",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_84].desc": {
+      "pl": "- Chyba wyspecjalizowali się w doręczeniach i transporcie.\n- Miasto pełne jest niebezpieczeństw na każdym kroku, więc dostarczenie ważnych przedmiotów lub informacji adresatom na czas, bez ich utraty po drodze, jest strasznie trudne.\n- Yi Sang powiedział mi, że: „Choć z lotu ptaka, na który pozwala mapa, Miasto może wydawać się drobiną, podejście, które rozważa jego powierzchnię, a nie to, co pokazuje pojedyncza jego płaszczyzna, ukaże świat niebywale odmienny. Miasto gęsto pęka od wypełniających je budynków i w niebiosach, i pod ziemią; ich labiryntowa zabudowa i Osobliwości malują obraz ukryty za parawanem…”. Nie wiedziałem, o czym mówi, więc przykiwałem tylko.",
+      "kr_sha256": "dd8417689a24db0b5aee108c417eaf786d848ec7c58955edeaeb0fa07f7049ef",
+      "en_sha256": "ffe7fd35e11a24b6c7e38660600602e336848f8d6355b2ee5559bea771b422b6",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_85].desc": {
+      "pl": "- Wygląda na to, że zostawili po sobie część wyposażenia E.G.O, którego Filie Lobotomy Corp. używały kiedyś do zarządzania swoimi Anomaliami.\n- Myślę, że używanie tego wyposażenia E.G.O, jak broni czy pancerzy, wiąże się z pewnymi warunkami i ryzykiem. Ma to sens, skoro są wydobywane z Anomalii, którymi Lobotomy Corp. kiedyś zarządzała. Zdają się też wpływać na nastrój albo sposób mówienia swoich użytkowników.\n- Biorąc pod uwagę, że są tworzone z Anomalii… mogą stanowić problem podczas naszych przyszłych wizyt w Filiach Lobotomy Corp.",
+      "kr_sha256": "aa1619c046e24fbba6f5dac2bd3b3fa6a8c0860685aa0ffe8c42a1d73a1dab36",
+      "en_sha256": "d16a3f1d6a26b06af4b802331051ebd43d2e54ffe2d32352abacd1ba110380da",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_86].desc": {
+      "pl": "- Wyspecjalizowali się w budowie i modyfikacji osprzętu używanego przez Fikserów.\n- Formalnie rzecz biorąc, podlegają pod tę samą kategorię co biura. W przeciwieństwie jednak do biur Fikserów o różnorodnych specjalizacjach, ludzie określają te miejsca mianem Warsztatów.\n- Przede wszystkim wytwarzają i sprzedają bronie, pancerze i inne narzędzia używane przez Fikserów. Czasem dostają też zlecenia na szyte na miarę wyposażenie. Takie mam wrażenie.\n- Biorąc pod uwagę, że również Warsztaty prowadzą Fikserzy, nie stronią one od zleceń z udziałem walki, jeśli trzeba. Tak jak zrobił to na przykład Warsztat Rosespanner.",
+      "kr_sha256": "4c63d17b84114a012964bc06fdfb6533acae6dd20c175b96ea633b3f6da52394",
+      "en_sha256": "712e9825c5154189333464e8374ec071993e369a5c56b3efa9c4f4eda8e4b481",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_87].desc": {
+      "pl": "- Huh… Autobus naprawdę zamienił się w łódź.\nChyba to miały być te „dodatkowe funkcje”…\nDalsze modyfikacje i ulepszenia osiągów stały się możliwe dzięki użyciu zarówno kamertonu rezonansowego, jak i silnika Mefistofelesa. (Tamta Mika była w stanie stałego zdumienia, teraz gdy o tym myślę.)\nHeck, wewnątrz jest większy niż na zewnątrz. Nie zdziwię się, jeśli w przyszłości dodadzą mu różnorodne fantastyczne funkcje.",
+      "kr_sha256": "2e66aa652d5776abe3ae5b1daecd27151f42ae8677e95d803e5fd6efa5ace3c1",
+      "en_sha256": "ad5d148710e34cde6007d9eeb2da6318986f6774c7663a3a37c0c9836f909f36",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_88].desc": {
+      "pl": "- Patrząc na mapę, jest strefa poza ogólnym obszarem, w którym leżą Gniazda. Ta strefa zwie się Peryferiami.\n- Na Peryferiach są „potwory”. Ishmael i Outis nazwały je „potworami”, a nie „Anomaliami”… Biorąc pod uwagę, że spotkały się już wcześniej z Anomaliami, zgaduję, że tam na zewnątrz są potworne rzeczy, które nie są Anomaliami.\n- Cóż, to nie tak, że będziemy kiedykolwiek musieli odwiedzić Peryferia. Wątpię, by nawet Lobotomy Corp. zbudowała Filię poza Miastem.\n- …Właśnie sobie przypomniałem, że Ishmael powiedziała, iż Wielkie Jezioro nakłada się z Peryferiami.",
+      "kr_sha256": "a1acd3ff580f6555c0c6ec1915ea7e983cf0122eb42732de240efacbd44de95e",
+      "en_sha256": "11126f4bdbd9165fe7673c0bccdf587db99a170ca4213b8e7ff1079bbbf2acf1",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_89].desc": {
+      "pl": "- Ogromne jezioro na południowym krańcu Miasta. Niektórzy nazywają je morzem albo oceanem.\n- Wielkie Jezioro nie jest po prostu jedną wielką kałużą wody. Dzielą je proste linie na kilka mniejszych sekcji, a każda z nich ma unikatowy kolor. Widziałem tylko trochę, ale przypomina mi łatkowatą tkaninę.\n- Według Ishmael Wielkie Jezioro ma być pod korek przepełnione zdradzieckimi katastrofami naturalnymi i potworami.\nNawet jeśli ma rację, że może być jeszcze za wcześnie, by iść na Wielkie Jezioro… To nie tak, jakbyśmy mieli w tej sprawie coś do powiedzenia. Limbus Company kazała nam iść w tamtym kierunku, więc musimy.\n- Chyba ta decyzja sprawiła, że wpadliśmy w te kłopoty… Nadal nie jestem pewien, co mam robić.\n- W pewnym sensie chyba powinniśmy uznać się za szczęściarzy. Jak na razie nie stała się żadna katastrofa. Może wciąż jesteśmy na obszarze przybrzeżnym, o którym mówiła Ishmael.",
+      "kr_sha256": "48854372f1bbbc0e9a4fe1d8a2a6cf2d5d313530c83405f0021692645c0aa02c",
+      "en_sha256": "fd62182a8146017ec3bb3842deb5b7aea7fea45c3a16a6b00e84bf3c149dea7b",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_90].desc": {
+      "pl": "- Myślałem, że wszystkie potwory są albo Anomaliami, albo Wypaczeniami, ale wygląda na to, że jest odwrotnie. Wszystkie Anomalie są potworami, ale nie wszystkie potwory są Anomaliami… Chyba.\n- Mówią, że Trash Crabs są głównym przykładem potworów, które nie są Anomaliami.\n- Choć nie są zbyt powszechne, myślę, że czasem wspominają o nich w mrocznych opowieściach albo legendach Miasta.\n- Podobno Peryferia i Wielkie Jezioro roi się od tych „potworów”…\n- Mimo to oznacza to, że są potwory i w Mieście, i poza nim. Nie wiem jeszcze, jak mam je klasyfikować.",
+      "kr_sha256": "d450540abb3c8ff6527f6c57b6f848dfc0fd26c07943752e1fd4ee55fd3aee53",
+      "en_sha256": "1b5145c3b6e09aaa790e1a7f0bf9f7f3e06049c243d7609870133f3b79dcfe47",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_91].desc": {
+      "pl": "- Zdaje się to być szczególny okres, w którym możemy wydobywać Tożsamości i E.G.O, których normalnie nie możemy.\n- Choć w tym okresie rozszerzają się osie czasu i światy, do których mamy dostęp, to nie tak, że będziemy wydobywać przypadkowe Tożsamości i E.G.O zewsząd. Faust wyjaśniła, że ktokolwiek wypadnie nam wydobyć w tym okresie, będzie istotny dla nas wszystkich. Istotny… w jakiś sposób dla obecnego stanu Limbus Company.\n- Noc Walpurgii zdaje się przybywać od czasu do czasu. Jak zwykle Faust nie mówi mi wszystkiego, ale przynajmniej mogłem wywnioskować, że następna Noc Walpurgii będzie inna od tej.",
+      "kr_sha256": "5da518b7e63c6570ac1fa539964b041659119f0075fb6546a2c17be783c184f2",
+      "en_sha256": "c7459ff222a885c730e7704d68724fbfb069dd3d97f6563773e439ba14bf885e",
+      "origin": "ai"
+    }
+  }
+}

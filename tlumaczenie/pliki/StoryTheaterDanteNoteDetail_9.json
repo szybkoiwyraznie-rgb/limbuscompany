@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_131].desc": {
+      "pl": "- Limbus Company Enkephalin\n- To departament badań i wytwarzania energii Limbus Company.\n- Pod kierownictwem Głównego Badacza Hohenheim departament ten prowadzi rozmaite studia i badania.\n- Badają Anomalie, Wypaczenia, a nawet Peccatula — izolując i studiując je. Ich wnętrza zaprojektowano trochę podobnie do wnętrz dawnej L Corp., Lobotomy Corporation.\n- Pracownicy wszyscy nosili osprzęt E.G.O wydobyty z Anomalii. Według nich ich osprzęt różni się od osprzętu E.G.O Lobotomy Corporation tym, że przejawia więcej idiosynkrazji każdej źródłowej Anomalii.\n- Z tego, co mogłem usłyszeć od Tożsamości ze Światów Lustrzanych o tym osprzęcie LCE, nie zdaje się to być do końca rzecz pozytywna. Podobno ich umysły mogą łatwo ulec skorodowaniu przez noszony osprzęt… Czuję, że ta technologia ma jeszcze sporo do wzrostu.",
+      "kr_sha256": "e7314751362501bdb22e36e01028cf09528dc42838954a42e3d4194662e84127",
+      "en_sha256": "cf550ca8abbc03e6d40ffe970069b226e27b3d65162e9192d3e79bed900f662f",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_132].desc": {
+      "pl": "- Dowiedzieliśmy się więcej o nowych kodach Klasyfikacji i Poziomach Ryzyka.\n- Do teraz było nam dość trudno od razu wiedzieć, czy to WAW czy HE miał być bardziej niebezpieczny, i… była też istota dziwnie potężna jak na istotę poziomu TETH… Cóż, teraz, gdy mamy „skalę oczekiwanych obrażeń” obok skali opartej na poziomach produkcji energii, powinniśmy być w stanie powiedzieć, że HE-5 zwiastuje więcej potencjalnych niebezpieczeństw w walce niż WAW-4.\n- Hohenheim kazał nam nie myśleć o tym jako o pojedynczej numerycznej skali mocy, ale… czuje się to bardziej intuicyjnie obok systemu Poziomów Ryzyka używanego wcześniej przez Lobotomy Corporation. W każdym razie technicznie znaczy to, że mogłyby też istnieć istoty ZAYIN-10… Zastanawiam się, jak by to wyglądało.",
+      "kr_sha256": "cfa0d04df78d6bffb7036625599ba6c76a39e21a34af008c6c02c32fcbae1690",
+      "en_sha256": "9ef7b93885c6100bd923e4f01dc6397a65ae2c2022340cfafc5ae0c8491f2bee",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_133].desc": {
+      "pl": "- Ich Gniazdo leży w Dystrykcie 24… tak mi przynajmniej powiedziano.\n- Nie byłem tam, nie wiem, czy mamy plany, by tam iść, ale pamiętam, że słyszałem, jak łódka Starca Indygo była wykonana ze stopu X Corp.\n- Według Tożsamości można wykopywać z ich wykopisk wszelakie rzeczy, jak mikrofalówki czy opony samochodowe. Czyżby więc po prostu odkopywali te gotowe produkty i… natychmiast ich używali? Jak to w ogóle możliwe?",
+      "kr_sha256": "725258e5c3ae57db206842810555308fe0114977ad19603bac676304214e6498",
+      "en_sha256": "5ce7dd9a315b5014b87ecb321733b9e66e0022483fe9a48e104a1300ce0ce2a3",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_134].desc": {
+      "pl": "- Ich Gniazdo leży w Dystrykcie 13.\n- Zdaje się, mają kontrolę nad Osobliwością zwaną „Kamieniami Księżycowymi”. Podobno pozwalają ludziom skupić się wyłącznie na jednym temacie albo wyeliminować wszelkie rozpraszające myśli… A skoro mają tę instytucję zwaną „Zakładem Korekcyjnym Traum Otchłani”, może wyspecjalizowują się w opiece psychologicznej albo biznesie relaksu.\n- Hej, może powinniśmy kupić te Kamienie Księżycowe dla Grzeszników, żeby zapobiegać Korozjom E.G.O albo pomagać im się uspokoić i zrelaksować, gdy przyjdzie ich „kolej”?\n- Przekazałem ten pozornie dobry pomysł Faust, ale został on jednoznacznie odrzucony. Nie dała mi nawet wyjaśnienia dlaczego — po prostu powiedziała, że to jeszcze nie czas, by o nich rozmawiać. Skoro praktycznie każda technologia Miasta ma te różne oblicza… może i te rzeczy mają jakiś rodzaj skutków ubocznych.",
+      "kr_sha256": "a584a3e9acc7628566a3638a5214497afe3cdafa1aa754ade69653f7962a58ef",
+      "en_sha256": "a295fea9ad3ef67eef324b9690531e07a35247af3c33081530d2f3a45785897f",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_135].desc": {
+      "pl": "- Ich hasłem jest tworzenie bardzo bezpiecznego domu, a ich Osobliwość potrafi rozszerzać albo wypaczać samą przestrzeń.\n- Powiedziano mi, że konstrukcje zbudowane z użyciem Osobliwości P Corp. są wszystkie bardzo… elastyczne. Okazało się to zaskakująco dosłowne, bo gdy La Manchaland zaczęło się manifestować, widziałem, jak budynki stykające się z La Manchaland wyginały się na zewnątrz jak guma. Mówili, że w środku jest całkowicie bezpiecznie, nawet jeśli zewnętrze budynku wygina i skręca się w ten sposób, ale… nie umiem sobie wyobrazić, jak to mogłoby być prawdą.\n- Wiele technologii rozszerzania przestrzeni w Mieście pozwala, by rzeczy były większe w środku, ale wersja P Corp. skupia się konkretnie na bezpieczeństwie.\n- To tylko mój domysł, ale… wspominając naszą rozmowę z Cesarą, zdaje się, że La Manchaland silnie wpłynęło na Osobliwość P Corp. Zastanawiam się, czy możliwe jest rozwinięcie Osobliwości inspirowanej czymś innym?",
+      "kr_sha256": "bb03b427d4e25e9b635b50a164f37f13e2a6c10c61cd470022ea2441be01e697",
+      "en_sha256": "103f405e2f63c0d34a26a7c3b485fa487a3b5d1c3598e3d4b222640cb6f52078",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_136].desc": {
+      "pl": "- Po raz pierwszy napotkane w rezydencji Wuthering Heights, są to istoty, które przeszły dalej niż 2. stadium wzrostu.\n- LCE skategoryzowało je w „Klasy” — odpowiednio Klasa 1, 2 i 3 — i zdaje się, że te Peccatula 3. stadium są ostatnim etapem ich ewolucji. Ale Hohenheim powiedział nam, że jeszcze nie jest tego całkiem pewien.\n- Hohenheim nazwał Peccatula „przeciętnymi powłokami”. Jeśli Peccatula to nic prócz pustych powłok, to… co odróżnia ich stadia?",
+      "kr_sha256": "35642028abbb62d73b55debc6280b0ae2d41ff6ae15584359caf9875525a3164",
+      "en_sha256": "474fd7163a5f1ffb2008ca3b4f04c12591474757ead917d59d0b0c6331f92fe0",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_137].desc": {
+      "pl": "- To nie Anomalie ani potwory. Gdybym miał ich opisać etykietą, powiedziałbym, że są najbliższe Wypaczeniom, ale to ledwie naciągane skojarzenie. Liderka Zespołu LCD Moses też powiedziała, że to fundamentalnie różne istoty, więc… no, chyba raczej nie.\n- Wszyscy Krwiożercy mają czerwone oczy. Ale to nie najłatwiejsza metoda odróżnienia ich od ludzi, bo to też najczęstszy kolor bojowych wszczepień ocznych. I byłoby to całkowicie bezużyteczne, gdyby wymienili całą głowę na protezę, jak ja.\n- Mają silne zdolności regeneracyjne, więc zabicie ich jest strasznie trudne, jeśli mają dość krwi do skonsumowania. Jednym ze sposobów, by powstrzymać ich regenerację, jest jednak zmiażdżenie im głowy… Mieliśmy z tego piekło na pokładzie pociągu WARP, dzięki unikatowości środowiska pociągu, która czyniła to opcję nieosiągalną dla nas.\n- Głowa naprawdę zdaje się być kluczowym elementem sprawności tych metod „regeneracji”. Głowa musiała być nienaruszona, żeby Ubezpieczenie Na Życie działało, żeby ampułki K Corp. działały, i tak dalej. …No, konkretnie mózg.\n- Wszyscy mają przytłaczające pragnienie krwi. Krwiożercy z La Manchaland podobno próbowali konsumować Hemobary ze sztucznymi albo zwierzęcymi dodatkami krwi jako substytut, ale… wygląda na to, że tylko płynąca krew potrafi naprawdę zaspokoić ich głód i wyrzenie.\n- Mogliby to przezwyciężyć, gdyby samo pragnienie zostało zapomniane, ale… znalezienie wód rzeki Lethe, która służy dokładnie tej funkcji, nie zdaje się być najłatwiejszym zadaniem. Gdzie na świecie fikserka ze wspomnień Don Quixote, Bari, znalazła taką rzecz?\n- Obok tego pragnienia krwi zdają się mieć też silne pragnienie rozmnóżki swojej „Rodziny”. Zdaje się… „Sancho” była nietypowa tym, że nie stworzyła własnej Rodziny. Generacje Kindred różnicuje oddzielenie od First Kindred, a po przyjęciu w poczet Rodziny zaczynają naprawdę o siebie dbać i traktować się nawzajem jak… no, rodzina.\n\n- Rocinante maskuje bardziej oczywiste rysy Krwiożerczej Don Quixote i częściowo tłumi jej pragnienie krwi. Ale o Rocinante wciąż dużo nie wiemy — jak działa albo czy ma coś wspólnego z ciałem „Don Quixote”, które wciąż jest w P Corp…\n- Ale i tak nie może w pełni stłumić jej naturalnych instynktów, jak pragnienia krwi i rozmnóżki Rodziny, więc Don Quixote znosi to wszystko czystą siłą woli. Zastanawia mnie jednak… co takiego różni naszą Don Quixote od First Kindred Don Quixote, że mają tak silną odporność na pragnienie krwi w porównaniu z innymi Krwiożerczymi?\n- Centrala Limbus Company wysyła Don Quixote stałe dostawy wysokiej jakości torebek z krwią. Kiedy zapytałem, czemu nie zrobili tego samego w La Manchaland, odpowiedziała, że to po prostu kwestia popytu ogromnie przewyższającego podaż — było po prostu za dużo Krwiożerczych do nakarmienia w porównaniu z ilością krwi, jaką mogli pobrać od chętnych odwiedzających. I właśnie dlatego musieli rozwinąć Hemobary, by zaspokoić popyt przy jak najmniejszej ilości krwi. Poza tym… mam przeczucie, że i tak pewnie by się nie udało… nawet gdyby mieli dość torebek z krwią…",
+      "kr_sha256": "771fa6a55a61eb6c14c2116147db25b9a737d87847fa7ff680b6d3e4a5eff124",
+      "en_sha256": "120e4da49e14c12734a49723aa939c7ac260a0a9a11912902a206ca2ac31780e",
+      "origin": "ai"
+    }
+  }
+}
