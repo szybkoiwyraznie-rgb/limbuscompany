@@ -1,10 +1,10 @@
 # Limbus Company — Canto I: Nieprzynależny — deploymenty misji
 
-Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData.
+Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData. Walki z Anomaliami bez przypisanego etapu (lochy) → sekcja „Spotkania z Anomalią”.
 
-## Część: Część `1-1`
+## Część: Canto I (`1-1`)
 
-### Etap 1-1 · Brum-brum
+### Etap 1-2 · Pora tańca
 
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 1); Ostry Chuligan ×1 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 - **Fala 2:** Chuligan Liczący Liczby ×2 (poz. 1); Ostry Chuligan ×2 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
@@ -87,7 +87,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
 
-### Etap 1-2 · Pora tańca
+### Etap 1-3 · Pokład autobusu
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 1); Ostry Chuligan ×1 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 
@@ -163,7 +163,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
 
-### Etap 1-3 · Pokład autobusu
+### Etap 1-4 · Enkefalina
 
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 1); Wygłodniały Chuligan ×1 (poz. 1)
 - **Fala 2:** Wygłodniały Chuligan ×2 (poz. 1); Chuligan Liczący Liczby ×1 (poz. 1)
@@ -220,7 +220,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
 
-### Etap 1-4 · Enkefalina
+### Etap 1-5 · Yuri
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 2); Ostry Chuligan ×1 (poz. 2); Wygłodniały Chuligan ×1 (poz. 2)
 - **Fala 2:** Chuligan Liczący Liczby ×1 (poz. 2); Ostry Chuligan ×1 (poz. 2); Wygłodniały Chuligan ×1 (poz. 2); Chuligan z Wielkim Łbem ×1 (poz. 2)
@@ -341,7 +341,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
-### Etap 1-5 · Yuri
+### Etap 1-6 · Mapa
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 3); Ostry Chuligan ×1 (poz. 3); Wygłodniały Chuligan ×1 (poz. 3)
 - **Fala 2:** Chuligan z Wielkim Łbem ×2 (poz. 3); Obdarty Rozbity Żołnierz ×1 (poz. 3)
@@ -494,7 +494,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-### Etap 1-6 · Mapa
+### Etap 1-7 · Trójka
 
 - **Fala 1:** Ostry Chuligan ×1 (poz. 3); Wygłodniały Chuligan ×1 (poz. 3); Chuligan z Wielkim Łbem ×1 (poz. 3)
 - **Fala 2:** Chuligan z Wielkim Łbem ×2 (poz. 3); Zakłopotany Rozbity Żołnierz ×1 (poz. 3); Obdarty Rozbity Żołnierz ×1 (poz. 3)
@@ -647,7 +647,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
-### Etap 1-7 · Trójka
+### Etap 1-8 · Szkodniki
 
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 4); Ostry Chuligan ×1 (poz. 4); Chuligan z Wielkim Łbem ×1 (poz. 4); Wygłodniały Chuligan ×1 (poz. 4)
 
@@ -747,7 +747,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
 
-### Etap 1-8 · Szkodniki
+### Etap 1-9 · Przewodnicy
 
 - **Fala 1:** Zakłopotany Rozbity Żołnierz ×2 (poz. 4); Obdarty Rozbity Żołnierz ×2 (poz. 4); Zakłopotany Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Zakłopotany Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Obdarty Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Obdarty Rozbity Żołnierz ×1 (poz. 4) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 4) (wsparcie)
 
@@ -839,7 +839,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Injured Augmentation** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.
 
-### Etap 1-9 · Przewodnicy
+### Etap 1-10 · Fikserzy 8. stopnia
 
 - **Fala 1:** Rozgniewany Rozbity Żołnierz ×1 (poz. 5); Zakłopotany Rozbity Żołnierz ×1 (poz. 5); Brudnojęzyczny Rozbity Żołnierz ×1 (poz. 5); Naostrzony Rozbity Żołnierz ×1 (poz. 5); Podły Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Podły Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Umocniony Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Zmroczony Rozbity Żołnierz ×1 (poz. 5) (wsparcie); Zacięty Rozbity Żołnierz ×1 (poz. 5) (wsparcie)
 
@@ -1105,10 +1105,58 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 - **Augmented Body** — na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.
 
-### Etap 100101
+### Etap 1-11 · Filia D-02
+
+Spotkania z Anomaliami (loch; kolejność wg danych gry):
+
+**Spotkanie 1**
 
 - **Fala 1:** Peccatulum Obżarstwa ×4 (poz. 5)
 - **Fala 2:** Peccatulum Obżarstwa ×2 (poz. 5); Peccatulum Obżarstwa ×2 (poz. 5)
+
+**Spotkanie 2**
+
+- **Fala 1:** Peccatulum Lenistwa ×2 (poz. 4); Peccatulum Obżarstwa ×2 (poz. 4)
+
+**Spotkanie 3**
+
+- **Fala 1:** Peccatulum Gniewu ×2 (poz. 4); Peccatulum Obżarstwa ×2 (poz. 4)
+
+**Spotkanie 4**
+
+- **Fala 1:** Peccatulum Obżarstwa ×2 (poz. 6); Peccatulum Lenistwa ×2 (poz. 6); Peccatulum Gniewu ×1 (poz. 6)
+
+**Spotkanie 5**
+
+- **Fala 1:** Lalka z Gliny Zagłady ×3 (poz. 5)
+
+**Spotkanie 6**
+
+- **Fala 1:** Lalka z Gliny Zagłady ×2 (poz. 5); Peccatulum Gniewu ×2 (poz. 5)
+
+**Spotkanie 7**
+
+- **Fala 1:** Jabłko Hebanowej Królowej ×1 (poz. 6)
+
+**Spotkanie 8**
+
+- **Fala 1:** Kalendarz Zagłady ×1 (poz. 6); Lalka z Gliny Zagłady ×2 (poz. 6); Lalka z Gliny Zagłady ×3 (poz. 6) (wsparcie); Płonąca Lalka z Gliny Zagłady ×4 (poz. 6) (wsparcie); Płonąca Lalka z Gliny Zagłady ×4 (poz. 6) (wsparcie)
+
+**Spotkanie 9**
+
+- **Fala 1:** Złociste Jabłko ×1 (poz. 8)
+
+**Spotkanie 10**
+
+- **Fala 1:** Peccatulum Gniewu ×3 (poz. 6); Peccatulum Obżarstwa ×2 (poz. 6)
+
+**Spotkanie 11**
+
+- **Fala 1:** Peccatulum Lenistwa ×3 (poz. 6); Peccatulum Gniewu ×2 (poz. 6)
+
+**Spotkanie 12**
+
+- **Fala 1:** Lalka z Gliny Zagłady ×3 (poz. 7)
 
 #### Peccatulum Obżarstwa
 
@@ -1178,214 +1226,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 #### Peccatulum Obżarstwa
 
-*Wystąpienia: ×2 (poz. 5).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                 |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                       |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
-| Szybkość           | 1–4                                                                                                                                     |
-| Progi oszołomienia | 50%                                                                                                                                     |
-| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Bite (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Chciwe Żarcie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-### Etap 100102
-
-- **Fala 1:** Peccatulum Lenistwa ×2 (poz. 4); Peccatulum Obżarstwa ×2 (poz. 4)
-
-#### Peccatulum Lenistwa
-
-*Wystąpienia: ×2 (poz. 4).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
-| Szybkość           | 1–2                                                                                                                                        |
-| Progi oszołomienia | 30%                                                                                                                                        |
-| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Przetaczanie (×3)
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
-
-##### Umiejętność: Leniwy Uścisk
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
-
-#### Peccatulum Obżarstwa
-
-*Wystąpienia: ×2 (poz. 4).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                 |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                       |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
-| Szybkość           | 1–4                                                                                                                                     |
-| Progi oszołomienia | 50%                                                                                                                                     |
-| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Bite (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Chciwe Żarcie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-### Etap 100103
-
-- **Fala 1:** Peccatulum Gniewu ×2 (poz. 4); Peccatulum Obżarstwa ×2 (poz. 4)
-
-#### Peccatulum Gniewu
-
-*Wystąpienia: ×2 (poz. 4).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wypalanie (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
-
-##### Umiejętność: Wybuchowy Gniew
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
-
-#### Peccatulum Obżarstwa
-
-*Wystąpienia: ×2 (poz. 4).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                 |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                       |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
-| Szybkość           | 1–4                                                                                                                                     |
-| Progi oszołomienia | 50%                                                                                                                                     |
-| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Bite (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Chciwe Żarcie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-### Etap 100104
-
-- **Fala 1:** Peccatulum Obżarstwa ×2 (poz. 6); Peccatulum Lenistwa ×2 (poz. 6); Peccatulum Gniewu ×1 (poz. 6)
-
-#### Peccatulum Obżarstwa
-
-*Wystąpienia: ×2 (poz. 6).*
+*Wystąpienia: ×10 (poz. 4, 5, 6).*
 
 | Parametr    | Wartość               |
 | ----------- | --------------------- |
@@ -1424,7 +1265,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 #### Peccatulum Lenistwa
 
-*Wystąpienia: ×2 (poz. 6).*
+*Wystąpienia: ×7 (poz. 4, 6).*
 
 | Parametr    | Wartość               |
 | ----------- | --------------------- |
@@ -1463,7 +1304,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 #### Peccatulum Gniewu
 
-*Wystąpienia: ×1 (poz. 6).*
+*Wystąpienia: ×10 (poz. 4, 5, 6).*
 
 | Parametr    | Wartość               |
 | ----------- | --------------------- |
@@ -1500,13 +1341,9 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
-### Etap 100105
-
-- **Fala 1:** Lalka z Gliny Zagłady ×3 (poz. 5)
-
 #### Lalka z Gliny Zagłady
 
-*Wystąpienia: ×3 (poz. 5).*
+*Wystąpienia: ×13 (poz. 5, 6, 7) · też jako wsparcie.*
 
 | Parametr    | Wartość               |
 | ----------- | --------------------- |
@@ -1541,91 +1378,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
-
-### Etap 100106
-
-- **Fala 1:** Lalka z Gliny Zagłady ×2 (poz. 5); Peccatulum Gniewu ×2 (poz. 5)
-
-#### Lalka z Gliny Zagłady
-
-*Wystąpienia: ×2 (poz. 5).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 6                     |
-| HP          | 35 (+0,89 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Głowa
-
-| Parametr   | Wartość                                                                                                                           |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom     | —                                                                                                                                 |
-| HP         | 35 (+0,89 za poziom)                                                                                                              |
-| Szybkość   | 1–4                                                                                                                               |
-| Odporności | Obuch ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Pchnięcie (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
-
-##### Umiejętność: Clawing
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
-
-#### Peccatulum Gniewu
-
-*Wystąpienia: ×2 (poz. 5).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wypalanie (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
-
-##### Umiejętność: Wybuchowy Gniew
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
-
-### Etap 100107
-
-- **Fala 1:** Jabłko Hebanowej Królowej ×1 (poz. 6)
 
 #### Jabłko Hebanowej Królowej
 
@@ -1723,10 +1475,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +3 |      1 |    1 |
 
-### Etap 100108
-
-- **Fala 1:** Kalendarz Zagłady ×1 (poz. 6); Lalka z Gliny Zagłady ×2 (poz. 6); Lalka z Gliny Zagłady ×3 (poz. 6) (wsparcie); Płonąca Lalka z Gliny Zagłady ×4 (poz. 6) (wsparcie); Płonąca Lalka z Gliny Zagłady ×4 (poz. 6) (wsparcie)
-
 #### Kalendarz Zagłady
 
 *Wystąpienia: ×1 (poz. 6).*
@@ -1746,44 +1494,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Pasywki:**
 
 - **Let the Blood Festival Flow** — Bitwa przechodzi do następnej fazy po pokonaniu wszystkich Clay Dollów.
-
-#### Lalka z Gliny Zagłady
-
-*Wystąpienia: ×5 (poz. 6) · też jako wsparcie.*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 6                     |
-| HP          | 35 (+0,89 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Głowa
-
-| Parametr   | Wartość                                                                                                                           |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom     | —                                                                                                                                 |
-| HP         | 35 (+0,89 za poziom)                                                                                                              |
-| Szybkość   | 1–4                                                                                                                               |
-| Odporności | Obuch ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Pchnięcie (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
-
-##### Umiejętność: Clawing
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
 
 #### Płonąca Lalka z Gliny Zagłady
 
@@ -1828,10 +1538,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +4 |      2 |    1 |
-
-### Etap 100109
-
-- **Fala 1:** Złociste Jabłko ×1 (poz. 8)
 
 #### Złociste Jabłko
 
@@ -1880,209 +1586,3 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 **Pasywki:**
 
 - **Cracked Gold** — przywraca HP co turę proporcjonalnie do wartości Złotego Blasku.
-
-### Etap 100110
-
-- **Fala 1:** Peccatulum Gniewu ×3 (poz. 6); Peccatulum Obżarstwa ×2 (poz. 6)
-
-#### Peccatulum Gniewu
-
-*Wystąpienia: ×3 (poz. 6).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wypalanie (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
-
-##### Umiejętność: Wybuchowy Gniew
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
-
-#### Peccatulum Obżarstwa
-
-*Wystąpienia: ×2 (poz. 6).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                 |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                       |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
-| Szybkość           | 1–4                                                                                                                                     |
-| Progi oszołomienia | 50%                                                                                                                                     |
-| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Bite (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Chciwe Żarcie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-### Etap 100111
-
-- **Fala 1:** Peccatulum Lenistwa ×3 (poz. 6); Peccatulum Gniewu ×2 (poz. 6)
-
-#### Peccatulum Lenistwa
-
-*Wystąpienia: ×3 (poz. 6).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
-| Szybkość           | 1–2                                                                                                                                        |
-| Progi oszołomienia | 30%                                                                                                                                        |
-| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Przetaczanie (×3)
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
-
-##### Umiejętność: Leniwy Uścisk
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
-
-#### Peccatulum Gniewu
-
-*Wystąpienia: ×2 (poz. 6).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wypalanie (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
-
-##### Umiejętność: Wybuchowy Gniew
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
-
-### Etap 100112
-
-- **Fala 1:** Lalka z Gliny Zagłady ×3 (poz. 7)
-
-#### Lalka z Gliny Zagłady
-
-*Wystąpienia: ×3 (poz. 7).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 6                     |
-| HP          | 35 (+0,89 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Głowa
-
-| Parametr   | Wartość                                                                                                                           |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom     | —                                                                                                                                 |
-| HP         | 35 (+0,89 za poziom)                                                                                                              |
-| Szybkość   | 1–4                                                                                                                               |
-| Odporności | Obuch ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Pchnięcie (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
-
-##### Umiejętność: Clawing
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |

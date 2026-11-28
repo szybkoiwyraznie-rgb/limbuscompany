@@ -1,6 +1,6 @@
 # Limbus Company — Canto VIII: Skazany na patrzenie — deploymenty misji
 
-Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData.
+Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData. Walki z Anomaliami bez przypisanego etapu (lochy) → sekcja „Spotkania z Anomalią”.
 
 ## Część: Canto VIII · część 1 (`a1c8p1`)
 
@@ -109,88 +109,6 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 jeżeli celem jest Hong Lu, dodatkowo zyskuje 1 [Wzrost Mocy Starcia] i 1 [Wzrost Obrażeń] w następnej turze
 - **oh no** — po przegranej w Starciu traci 5 SP
 w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
-
-### Etap 8-2 · Bicie Dzwonu
-
-- **Fala 1:** Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46)
-
-#### Peccatulum Obżarstwa
-
-*Wystąpienia: ×2 (poz. 46).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                 |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                       |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
-| Szybkość           | 1–4                                                                                                                                     |
-| Progi oszołomienia | 50%                                                                                                                                     |
-| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Bite (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Chciwe Żarcie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
-
-#### Peccatulum Pychy
-
-*Wystąpienia: ×2 (poz. 46).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 33 (+2,81 za poziom)  |
-| Sloty akcji | start: 1 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                    |
-| HP                 | 33 (+2,81 za poziom)                                                                                                                 |
-| Szybkość           | 3–5                                                                                                                                  |
-| Progi oszołomienia | 40%                                                                                                                                  |
-| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Grinding
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Dumne Miażdżenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
 
 ### Etap 8-3 · Zakłócenie
 
@@ -403,188 +321,6 @@ w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
 jeżeli celem jest Hong Lu, dodatkowo zyskuje 1 [Wzrost Mocy Starcia] i 1 [Wzrost Obrażeń] w następnej turze
 - **oh no** — po przegranej w Starciu traci 5 SP
 w Oszołamieniu zyskuje 2 [Wrażliwość] w następnej turze (1 raz na turę)
-
-### Etap 8-7 · Xue Baochai
-
-- **Fala 1:** Peccatulum Lenistwa ×1 (poz. 48); Peccatulum Pigritiae? ×1 (poz. 48); Peccatulum Posępności ×1 (poz. 48); Peccatulum Morositatis? ×1 (poz. 48)
-
-#### Peccatulum Lenistwa
-
-*Wystąpienia: ×1 (poz. 48).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
-| Szybkość           | 1–2                                                                                                                                        |
-| Progi oszołomienia | 30%                                                                                                                                        |
-| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Przetaczanie (×3)
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
-
-##### Umiejętność: Leniwy Uścisk
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
-
-#### Peccatulum Pigritiae?
-
-*Wystąpienia: ×1 (poz. 48).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 83 (+2,86 za poziom)  |
-| Sloty akcji | start: 2 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                 |
-| ------------------ | --------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                       |
-| HP                 | 83 (+2,86 za poziom)                                                                    |
-| Szybkość           | 1–2                                                                                     |
-| Progi oszołomienia | 30% / 0%                                                                                |
-| Odporności         | Obuch ×1,75; Lenistwo ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×1,75; Pycha ×0,5 (Ineff.) |
-
-*Opis:* Część
-
-##### Umiejętność: Chwyt
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Układanie Kamieni
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
-
-##### Umiejętność: Leniwy Zgniot
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
-
-##### Umiejętność: Garda
-
-| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
-
-#### Peccatulum Posępności
-
-*Wystąpienia: ×1 (poz. 48).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 33 (+0,67 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
-| Szybkość           | 4–6                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Strzelanie Serią
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Wybuchająca Posępność
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
-
-#### Peccatulum Morositatis?
-
-*Wystąpienia: ×1 (poz. 48).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 69 (+2,36 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                       |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                             |
-| HP                 | 69 (+2,36 za poziom)                                                                                                          |
-| Szybkość           | 2–4                                                                                                                           |
-| Progi oszołomienia | 50% / 0%                                                                                                                      |
-| Odporności         | Kłucie ×1,75; Gniew ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×0,5 (Ineff.); Zawiść ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wpadnięcie
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
-
-##### Umiejętność: Zgryzienie
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
-
-##### Umiejętność: Wodna Bomba
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
-
-##### Umiejętność: Unik
-
-| Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
 
 ### Etap 8-8 · Yihongyuan
 
@@ -1486,151 +1222,6 @@ Szybkość w następnej turze jest ustalona na 10
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 - **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
-### Etap 8-19 · Lin Daiyu
-
-- **Fala 1:** Peccatulum Morositatis?? ×1 (poz. 50); Peccatulum Morositatis? ×1 (poz. 50); Peccatulum Posępności ×1 (poz. 50); Peccatulum Posępności ×1 (poz. 50)
-
-#### Peccatulum Morositatis??
-
-*Wystąpienia: ×1 (poz. 50).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 50                    |
-| HP          | 157 (+8,12 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                                                                |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                                                      |
-| HP                 | 157 (+8,12 za poziom)                                                                                                                                                                  |
-| Szybkość           | 2–5                                                                                                                                                                                    |
-| Progi oszołomienia | 20%                                                                                                                                                                                    |
-| Odporności         | Cięcie ×0,5; Kłucie ×0,5; Obuch ×0,5; Gniew ×0,5 (Ineff.); Żądza ×0,8; Lenistwo ×0,8; Obżar. ×1,5 (Weak); Posępność ×0,5 (Ineff.); Zawiść ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Zderzenie Rozkładu
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          5 |         +6 |      1 |    1 |
-
-##### Umiejętność: Nawał Wody
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          4 |         +8 |      1 |    1 |
-
-##### Umiejętność: Kaskada Posępności
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          6 |         +6 |      2 |    1 |
-
-##### Umiejętność: Unik
-
-| Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: unik |          3 |        +12 |      1 |    1 |
-
-#### Peccatulum Morositatis?
-
-*Wystąpienia: ×1 (poz. 50).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 69 (+2,36 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                       |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                             |
-| HP                 | 69 (+2,36 za poziom)                                                                                                          |
-| Szybkość           | 2–4                                                                                                                           |
-| Progi oszołomienia | 50% / 0%                                                                                                                      |
-| Odporności         | Kłucie ×1,75; Gniew ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×0,5 (Ineff.); Zawiść ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wpadnięcie
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
-
-##### Umiejętność: Zgryzienie
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
-
-##### Umiejętność: Wodna Bomba
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
-
-##### Umiejętność: Unik
-
-| Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
-
-#### Peccatulum Posępności
-
-*Wystąpienia: ×2 (poz. 50).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 33 (+0,67 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
-| Szybkość           | 4–6                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Strzelanie Serią
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Wybuchająca Posępność
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
-
 ## Pula Canto VIII · część 1 (`a1c8p1`) — jednostki bez przypisanego etapu
 
 #### Night Drifter of the Drunken Palm
@@ -1710,1735 +1301,7 @@ poniżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością,
 
 ## Część: Canto VIII · część 2 (`a1c8p2`)
 
-### Etap 8-35
-
-- **Fala 1:** Shi Hua... something? ×1 (poz. 52); Swift Shi Family Mercenary ×2 (poz. 52); Veteran Shi Family Mercenary ×2 (poz. 52); Heavy Shi Family Mercenary ×1 (poz. 52)
-
-#### Shi Hua... something?
-
-*Wystąpienia: ×1 (poz. 52).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 192 (+6,63 za poziom)                          |
-| Sloty akcji  | start: 2 · maks. 4                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                         |
-| ------------------ | --------------------------------------------------------------- |
-| Poziom             | —                                                               |
-| HP                 | 192 (+6,63 za poziom)                                           |
-| Szybkość           | 3–5                                                             |
-| Progi oszołomienia | 60% / 0%                                                        |
-| Odporności         | Cięcie ×1,25; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Góry
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Zamachem
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          6 |         +4 |      2 |    1 |
-
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Zgniatające Cięcie (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          6 |         +4 |      3 |    1 |
-
-##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Płynne Cięcie
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Swift Shi Family Mercenary
-
-*Wystąpienia: ×2 (poz. 52).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 65 (+2,69 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                       |
-| ------------------ | ------------------------------------------------------------- |
-| Poziom             | —                                                             |
-| HP                 | 65 (+2,69 za poziom)                                          |
-| Szybkość           | 1–3                                                           |
-| Progi oszołomienia | 60% / 20% / 0%                                                |
-| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-
-#### Veteran Shi Family Mercenary
-
-*Wystąpienia: ×2 (poz. 52).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 65 (+2,69 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                       |
-| ------------------ | ------------------------------------------------------------- |
-| Poziom             | —                                                             |
-| HP                 | 65 (+2,69 za poziom)                                          |
-| Szybkość           | 1–3                                                           |
-| Progi oszołomienia | 60% / 20% / 0%                                                |
-| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-
-#### Heavy Shi Family Mercenary
-
-*Wystąpienia: ×1 (poz. 52).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 91 (+3,14 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 2                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                         |
-| ------------------ | --------------------------------------------------------------- |
-| Poziom             | —                                                               |
-| HP                 | 91 (+3,14 za poziom)                                            |
-| Szybkość           | 1–4                                                             |
-| Progi oszołomienia | 60% / 20% / 0%                                                  |
-| Odporności         | Cięcie ×1,5; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          5 |         +7 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          4 |         +6 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          3 |         +4 |      3 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: kontra |          5 |         +4 |      2 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-
-### Etap 8-36
-
-- **Fala 1:** Wang Qingshan ×1 (poz. 53); Wicked Deathrite Monk ×2 (poz. 53); Evil-possessed Deathrite Monk ×2 (poz. 53); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Evil-possessed Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie)
-
-#### Wang Qingshan
-
-*Wystąpienia: ×1 (poz. 53).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 184 (+6,34 za poziom)                          |
-| Sloty akcji  | start: 3 · maks. 5                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Rozgoryczenie                                  |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
-**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 184 (+6,34 za poziom)                                                                                                                      |
-| Szybkość           | 2–4                                                                                                                                        |
-| Progi oszołomienia | 60% / 0%                                                                                                                                   |
-| Odporności         | Cięcie ×1,25; Obuch ×0,5; Żądza ×0,5 (Ineff.); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          4 |         +4 |      1 |    1 |
-
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |          5 |         +3 |      2 |    1 |
-
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
-
-##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetna Wściekłość
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
-
-**Pasywki:**
-
-- **Wounded** — Początek walki: wchodzi do walki z 80% HP
-- **Master of the Deathrite Monks** — Koniec tury: przy SP równym 20 lub mniej wysysa 10 SP od 3 losowych sojuszników z najwyższym SP, przywracając tyle SP
-
-na Początku tury nakłada 2 [Wzrost Obrażeń] wszystkim pozostałym sojusznikom ze SP równym -20 lub mniej
-- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa do 3 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
-- **Dammit... Take them out!** — w tej walce, jeżeli ta jednostka otrzymuje obrażenia sprowadzające jej HP do połowy lub mniej, niweluje te obrażenia, natychmiast kończy turę i przesuwa się na sam koniec kolejki pojawiania (jeżeli jest w Oszołamieniu, natychmiast z niego dochodzi do siebie)
-
-jeżeli nie ma już wrogów do zastąpienia albo jest ich za mało (tzn. jeżeli liczba wrogów zabitych w tej turze przewyższa liczbę oczekujących na pojawienie się), ten efekt nie uruchamia się
-- **The Battle's End** — gdy Wang Qingshan traci w tej walce całe HP, walka się kończy
-- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Wicked Deathrite Monk
-
-*Wystąpienia: ×6 (poz. 53) · też jako wsparcie.*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 75 (+2,59 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Złe Zamiary                                    |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
-**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                            |
-| HP                 | 75 (+2,59 za poziom)                                                                                                                         |
-| Szybkość           | 2–3                                                                                                                                          |
-| Progi oszołomienia | 60% / 30% / 0%                                                                                                                               |
-| Odporności         | Cięcie ×1,5; Obuch ×0,75; Żądza ×0,75 (Endured); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: blok |         10 |         −6 |      1 |    1 |
-
-**Pasywki:**
-
-- **Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
-
-wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (maks. 30%, min. 0%)
-- **Proliferating Misfortune** — przy śmierci nakłada 10 [Złowieszczy Talizman] losowemu wrogowi bez [Złowieszczy Talizman]
-- jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
-- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa 1–2 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
-
-#### Evil-possessed Deathrite Monk
-
-*Wystąpienia: ×3 (poz. 53) · też jako wsparcie.*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 99 (+3,41 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Mroczne Zamiary                                |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
-**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 99 (+3,41 za poziom)                                                                                                                       |
-| Szybkość           | 3–5                                                                                                                                        |
-| Progi oszołomienia | 60% / 20% / 0%                                                                                                                             |
-| Odporności         | Cięcie ×1,25; Obuch ×0,5; Żądza ×0,5 (Ineff.); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: blok |         12 |         −8 |      1 |    1 |
-
-**Pasywki:**
-
-- **Skilled Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
-
-wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (maks. 50%, min. 0%)
-- **Soul Siphon Technique** — na Początku tury, przy HP równym 50% lub mniej, poświęca losowego Wicked Deathrite Monk, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
-- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa do 3 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
-
-### Etap 8-37
-
-- **Fala 1:** Shi Sijing ×1 (poz. 55); Swift Shi Family Mercenary ×2 (poz. 53); Veteran Shi Family Mercenary ×2 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie)
-
-#### Shi Sijing
-
-*Wystąpienia: ×1 (poz. 55).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 205 (+7,07 za poziom)                          |
-| Sloty akcji  | start: 3 · maks. 5                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                        |
-| ------------------ | -------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                              |
-| HP                 | 205 (+7,07 za poziom)                                                                                          |
-| Szybkość           | 3–5                                                                                                            |
-| Progi oszołomienia | 60% / 20% / 0%                                                                                                 |
-| Odporności         | Obuch ×0,5; Lenistwo ×1,25; Obżar. ×1,25; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Konfrontacja (×2)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          7 |         +4 |      1 |    1 |
-
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Cios Okrężny (×2)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Rozbijanie
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          3 |         +4 |      3 |    1 |
-
-##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Trzymanie Rytmu
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
-
-**Pasywki:**
-
-- **That's how you use your human resources** — na Początku tury, jeżeli HP jednostki wynosi 50% lub mniej, poświęca losowego Shi Family Mercenary, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
-- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-- **The Battle's End** — gdy Shi Sijing traci w tej walce całe HP, walka się kończy
-
-#### Swift Shi Family Mercenary
-
-*Wystąpienia: ×4 (poz. 53) · też jako wsparcie.*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 65 (+2,69 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                       |
-| ------------------ | ------------------------------------------------------------- |
-| Poziom             | —                                                             |
-| HP                 | 65 (+2,69 za poziom)                                          |
-| Szybkość           | 1–3                                                           |
-| Progi oszołomienia | 60% / 20% / 0%                                                |
-| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-
-#### Veteran Shi Family Mercenary
-
-*Wystąpienia: ×4 (poz. 53) · też jako wsparcie.*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 65 (+2,69 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                       |
-| ------------------ | ------------------------------------------------------------- |
-| Poziom             | —                                                             |
-| HP                 | 65 (+2,69 za poziom)                                          |
-| Szybkość           | 1–3                                                           |
-| Progi oszołomienia | 60% / 20% / 0%                                                |
-| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-
-### Etap 8-38
-
-- **Fala 1:** Xue Pan ×1 (poz. 58); Talisman Jar Monster ×1 (poz. 55); Nailed Jar Monster ×1 (poz. 55); Entangled Jar Monster ×1 (poz. 55); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 55); Talisman Jar Monster ×1 (poz. 55) (wsparcie); Nailed Jar Monster ×1 (poz. 55) (wsparcie); Entangled Jar Monster ×1 (poz. 55) (wsparcie)
-
-#### Xue Pan
-
-*Wystąpienia: ×1 (poz. 58).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 261 (+13,5 za poziom)                          |
-| Sloty akcji  | start: 3 · maks. 5                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Rozkaz Szturmu                                 |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wrażliwość] i nałóż 1 [Wzrost Obrażeń] na wszystkich sojuszników
-**Efekt Paniki:** Początek Tury: zyskaj 2 [Wrażliwość] i nałóż 2 [Wzrost Obrażeń] na wszystkich sojuszników
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                              |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                    |
-| HP                 | 261 (+13,5 za poziom)                                                                                                                                |
-| Szybkość           | 3–5                                                                                                                                                  |
-| Progi oszołomienia | 40% / 0%                                                                                                                                             |
-| Odporności         | Obuch ×0,8; Gniew ×1,25; Żądza ×0,75 (Endured); Lenistwo ×0,75 (Endured); Posępność ×1,25; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Słabeusze...
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
-
-##### Umiejętność: Gapie...
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          4 |         +4 |      2 |    1 |
-
-##### Umiejętność: Zabiję Cię!
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
-
-##### Umiejętność: Wpadnij!!
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
-
-##### Umiejętność: Ten Spektakl Warto Oglądać Wszyscy!
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
-
-**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
-
-#### Talisman Jar Monster
-
-*Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 65 (+2,24 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                            |
-| HP                 | 65 (+2,24 za poziom)                                                                                                                         |
-| Szybkość           | 2–4                                                                                                                                          |
-| Progi oszołomienia | 80% / 0%                                                                                                                                     |
-| Odporności         | Kłucie ×1,2; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Drapanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Dzikie Drapanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
-
-##### Umiejętność: Zdarcie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
-
-##### Umiejętność: Kontra
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
-
-#### Nailed Jar Monster
-
-*Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 66 (+2,28 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                            |
-| HP                 | 66 (+2,28 za poziom)                                                                                                                         |
-| Szybkość           | 2–4                                                                                                                                          |
-| Progi oszołomienia | 70% / 0%                                                                                                                                     |
-| Odporności         | Kłucie ×1,2; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Grzebanie Paznokciami
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Dzikie Rypanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
-
-##### Umiejętność: Oblepienie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
-
-##### Umiejętność: Kontra
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
-
-#### Entangled Jar Monster
-
-*Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 68 (+2,34 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                            |
-| HP                 | 68 (+2,34 za poziom)                                                                                                                         |
-| Szybkość           | 2–4                                                                                                                                          |
-| Progi oszołomienia | 75% / 0%                                                                                                                                     |
-| Odporności         | Kłucie ×1,2; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Grzebanie w Ranach
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Dzikie Grzebanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
-
-##### Umiejętność: Grzebanie w Mięsie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
-
-##### Umiejętność: Kontra
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
-
-#### Monster from the Gorged and Devoured Jar of Loneliness
-
-*Wystąpienia: ×1 (poz. 55).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 73 (+2,52 za poziom)  |
-| Sloty akcji | start: 2 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                              |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                    |
-| HP                 | 73 (+2,52 za poziom)                                                                                                                                 |
-| Szybkość           | 3–5                                                                                                                                                  |
-| Progi oszołomienia | 60% / 0%                                                                                                                                             |
-| Odporności         | Cięcie ×0,8; Obuch ×0,8; Gniew ×0,5 (Ineff.); Żądza ×0,5 (Ineff.); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Drapanie Ran
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +7 |      2 |    1 |
-
-##### Umiejętność: Dzieranie Mięsa
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +4 |      1 |    1 |
-
-##### Umiejętność: Miętołenie w Samotności
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Cięcie |          4 |         +3 |      4 |    1 |
-
-##### Umiejętność: Kontra
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          3 |         +2 |      1 |    1 |
-
-### Etap 8-39
-
-- **Fala 1:** Shi Yihua ×1 (poz. 60); Swift Shi Family Mercenary ×1 (poz. 55); Veteran Shi Family Mercenary ×1 (poz. 55); Wicked Deathrite Monk ×1 (poz. 55); Evil-possessed Deathrite Monk ×1 (poz. 55)
-
-#### Shi Yihua
-
-*Wystąpienia: ×1 (poz. 60).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 313 (+12,3 za poziom)                          |
-| Sloty akcji  | start: 1 · maks. 2                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Obosieczne Pióro                               |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wrażliwości i 1 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia
-**Efekt Paniki:** Początek Tury: zyskaj 2 Wrażliwości i 2 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                                                             |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                                                   |
-| HP                 | 313 (+12,3 za poziom)                                                                                                                                                               |
-| Szybkość           | 4–6                                                                                                                                                                                 |
-| Progi oszołomienia | 40% / 0%                                                                                                                                                                            |
-| Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,5 (Ineff.); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Bierz To!
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |          4 |         +3 |      2 |    1 |
-
-##### Umiejętność: Padnij na Kolana!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    5 |
-
-##### Umiejętność: Popatrzcie na Siebie, Dziecinady!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Kłucie |          4 |         +5 |      2 |    3 |
-
-##### Umiejętność: Znaj Swoje Miejsce!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          5 |         +3 |      3 |    3 |
-
-##### Umiejętność: Padnijcie Na Twarze!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Kłucie |          6 |         +3 |      2 |   10 |
-
-##### Umiejętność: Dam Ci Szansę
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: kontra |          5 |         +4 |      2 |    1 |
-
-**Pasywki:**
-
-- **Bolus of... Immortality?** — przy trafieniu Umiejętnością: przywraca HP równe 10% zadanych obrażeń (zaokrąglając w dół)
-jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba [Pióro z Gałką Oczową] celu)%
-- **I'VE NEVER FELT BETTER!** — przy trafieniu własnym atakiem przywraca 3 SP
-- **MY REVENGEANCE HAS JUST BEGUN!** — za każdą przegraną w Starciu zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (maks. 3)
-- **Rupture by Feathers** — za każde 3 trafienia tym samym celem w jednej turze nakłada 1 [Wrażliwość] temu celowi w następnej turze
-- **Rampage** — Poziom Ataku +1 i Poziom Obrony -1 za każde 15% HP łącznie utracone przez jednostkę w tej walce (maks. 6)
-- **The Battle's End** — gdy Shi Yihua traci w tej walce całe HP, walka się kończy
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
-
-#### Swift Shi Family Mercenary
-
-*Wystąpienia: ×1 (poz. 55).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 65 (+2,69 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                       |
-| ------------------ | ------------------------------------------------------------- |
-| Poziom             | —                                                             |
-| HP                 | 65 (+2,69 za poziom)                                          |
-| Szybkość           | 1–3                                                           |
-| Progi oszołomienia | 60% / 20% / 0%                                                |
-| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-
-#### Veteran Shi Family Mercenary
-
-*Wystąpienia: ×1 (poz. 55).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 65 (+2,69 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 1                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
-**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                       |
-| ------------------ | ------------------------------------------------------------- |
-| Poziom             | —                                                             |
-| HP                 | 65 (+2,69 za poziom)                                          |
-| Szybkość           | 1–3                                                           |
-| Progi oszołomienia | 60% / 20% / 0%                                                |
-| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy) (×2)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
-- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
-
-#### Wicked Deathrite Monk
-
-*Wystąpienia: ×1 (poz. 55).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 75 (+2,59 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Złe Zamiary                                    |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
-**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                            |
-| HP                 | 75 (+2,59 za poziom)                                                                                                                         |
-| Szybkość           | 2–3                                                                                                                                          |
-| Progi oszołomienia | 60% / 30% / 0%                                                                                                                               |
-| Odporności         | Cięcie ×1,5; Obuch ×0,75; Żądza ×0,75 (Endured); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: blok |         10 |         −6 |      1 |    1 |
-
-**Pasywki:**
-
-- **Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
-
-wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (maks. 30%, min. 0%)
-- **Proliferating Misfortune** — przy śmierci nakłada 10 [Złowieszczy Talizman] losowemu wrogowi bez [Złowieszczy Talizman]
-- jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
-- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa 1–2 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
-
-#### Evil-possessed Deathrite Monk
-
-*Wystąpienia: ×1 (poz. 55).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 99 (+3,41 za poziom)                           |
-| Sloty akcji  | start: 1 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Mroczne Zamiary                                |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
-**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
-Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
-
-*Opis:* jednostka
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 99 (+3,41 za poziom)                                                                                                                       |
-| Szybkość           | 3–5                                                                                                                                        |
-| Progi oszołomienia | 60% / 20% / 0%                                                                                                                             |
-| Odporności         | Cięcie ×1,25; Obuch ×0,5; Żądza ×0,5 (Ineff.); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: blok |         12 |         −8 |      1 |    1 |
-
-**Pasywki:**
-
-- **Skilled Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
-
-wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (maks. 50%, min. 0%)
-- **Soul Siphon Technique** — na Początku tury, przy HP równym 50% lub mniej, poświęca losowego Wicked Deathrite Monk, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
-- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa do 3 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
-
 ## Pula Canto VIII · część 2 (`a1c8p2`) — jednostki bez przypisanego etapu
-
-#### Heishou Pack - Mao: Featherstriker
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 52 (+3,59 za poziom)                           |
-| Sloty akcji  | start: 3 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Podstęp                                        |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
-**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                      |
-| ------------------ | ------------------------------------------------------------ |
-| Poziom             | —                                                            |
-| HP                 | 52 (+3,59 za poziom)                                         |
-| Szybkość           | 2–5                                                          |
-| Progi oszołomienia | 75% / 50% / 25%                                              |
-| Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Niespodziewane Uderzenie (×5)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Powstrzymanie (×4)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: Strzał Piór (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +4 |      3 |    1 |
-
-##### Umiejętność: Zamachnięcie
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: kontra |          4 |         +8 |      1 |    1 |
-
-**Pasywki:**
-
-- **Jia Qiu's Test** — Początek 1. tury: zyskuje [Skryta Krwiożerczość]
-kończy walkę, gdy Hong Lu ginie
-
-#### Heishou Pack - Mao: Umbrastriker
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 52 (+3,59 za poziom)                           |
-| Sloty akcji  | start: 3 · maks. 3                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Podstęp                                        |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
-**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                      |
-| ------------------ | ------------------------------------------------------------ |
-| Poziom             | —                                                            |
-| HP                 | 52 (+3,59 za poziom)                                         |
-| Szybkość           | 2–5                                                          |
-| Progi oszołomienia | 75% / 50% / 25%                                              |
-| Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Pościg (×5)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Przytłoczenie (×4)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
-
-##### Umiejętność: Cios z Cienia (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          4 |         +4 |      3 |    1 |
-
-##### Umiejętność: Zamachnięcie
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: kontra |          4 |         +8 |      1 |    1 |
-
-**Pasywki:**
-
-- **Jia Qiu's Test** — Początek 1. tury: zyskuje [Skryta Krwiożerczość]
-kończy walkę, gdy Hong Lu ginie
-
-#### Zilu
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 209 (+26,67 za poziom)                         |
-| Sloty akcji  | start: 5 · maks. 5                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Podstęp                                        |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
-**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                  |
-| ------------------ | ------------------------ |
-| Poziom             | —                        |
-| HP                 | 209 (+26,67 za poziom)   |
-| Szybkość           | 3–5                      |
-| Progi oszołomienia | 50% / 0%                 |
-| Odporności         | Cięcie ×1,25; Obuch ×0,5 |
-
-*Opis:* Część
-
-##### Umiejętność: Niespodziewane Uderzenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Zabójcze Wiercenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
-
-##### Umiejętność: Uderzenie Grawerem
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Cięcie |          5 |         +5 |      2 |    1 |
-
-##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          5 |         +4 |      3 |    1 |
-
-##### Umiejętność: Klętwopis
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          5 |         +4 |      3 |    1 |
-
-##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu>
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          4 |         +6 |      3 |    1 |
-
-##### Umiejętność: Ochrona Zwinnych Stóp
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: blok |          4 |        +10 |      1 |    1 |
-
-##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: kontra |          4 |         +6 |      3 |    1 |
-
-**Pasywki:**
-
-- **Shin (心) Radiance** — Początek 1. tury: przywraca 30 SP
-przy 85% HP przybiera nowy wzorzec
-na Początku tury przy 60% HP lub mniej zyskuje 500 Tarczy
-- po uruchomieniu tego efektu HP jednostki nie spada poniżej 1
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Jia Qiu
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 182 (+25,08 za poziom)                         |
-| Sloty akcji  | start: 6 · maks. 6                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Jia Qiu                                        |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Zadawane obrażenia +10% celom innym niż Hong Lu
-**Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                              |
-| HP                 | 182 (+25,08 za poziom)                                                                                                         |
-| Szybkość           | 3–5                                                                                                                            |
-| Progi oszołomienia | 30% / 0%                                                                                                                       |
-| Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Żądza ×1,2; Lenistwo ×0,75 (Endured); Obżar. ×1,3; Posępność ×0,75 (Endured); Pycha ×1,2 |
-
-*Opis:* Część
-
-##### Umiejętność: Pytanie (問)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Odpowiedź (答)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          3 |         +8 |      1 |    1 |
-
-##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動)
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          5 |         +4 |      2 |    1 |
-
-##### Umiejętność: Unik
-
-| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
-
-##### Umiejętność: Gromobójcze Miażdżenie
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          4 |         +8 |      1 |    1 |
-
-##### Umiejętność: Ścinaj, Mao
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |          4 |         +6 |      2 |    1 |
-
-##### Umiejętność: Muszę Was Napierać Mocniej
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Obuch |          5 |         +5 |      4 |    1 |
-
-##### Umiejętność: Nie Mieszajcie Się
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | obrona: kontra |          4 |         +5 |      2 |    1 |
-
-**Pasywki:**
-
-- **Effloresced E.G.O::Érlì** — Początek 1. tury: przywraca 30 SP i zyskuje [Iskra Oczekiwania]
-- **Heed me, Zilu** — przy 85% HP przybiera nowy wzorzec
-przy 60% HP przechodzi do nowej Fazy
-- **This is where your path ends** — kończy walkę, gdy Hong Lu ginie
-- **Infinite Song of Erudition** — Koniec ataku: przywraca 5 SP za każdy Deathrite celu
-przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruchomiony Deathrite
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Jia Qiu
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 173 (+35,89 za poziom)                         |
-| Sloty akcji  | start: 6 · maks. 6                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Jia Qiu                                        |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Zadawane obrażenia +10% celom innym niż Hong Lu
-**Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                              |
-| HP                 | 173 (+35,89 za poziom)                                                                                                         |
-| Szybkość           | 3–5                                                                                                                            |
-| Progi oszołomienia | 30% / 0%                                                                                                                       |
-| Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Żądza ×1,2; Lenistwo ×0,75 (Endured); Obżar. ×1,3; Posępność ×0,75 (Endured); Pycha ×1,2 |
-
-*Opis:* Część
-
-##### Umiejętność: Zapytam Jeszcze Raz
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
-
-##### Umiejętność: Nie Wypada Się Wtrącać
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
-
-##### Umiejętność: Gromobójcze Miażdżenie - Fala (波)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Obuch |          7 |        +13 |      1 |    3 |
-
-##### Umiejętność: Heishou - Mao Linkstrike - Bladestorm
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          3 |         +3 |      4 |    1 |
-
-##### Umiejętność: Usłuchaj, Zilu
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          4 |         +3 |      4 |    1 |
-
-##### Umiejętność: Powódź Obrzędu Śmierci
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |          7 |        +13 |      1 |    1 |
-
-##### Umiejętność: Odpowiedz Mi, Jia Baoyu
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          3 |         +2 |      4 |    1 |
-
-##### Umiejętność: Gwiazda Tiangan - Forma (格)
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |          5 |         +8 |      4 |    7 |
-
-##### Umiejętność: Jak Rycząca Burza
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |          5 |         +8 |      1 |    6 |
-
-**Pasywki:**
-
-- **This is where your path ends** — kończy walkę, gdy Hong Lu ginie
-- **Infinite Song of Erudition** — Koniec ataku: przywraca 5 SP za każdy Deathrite celu
-przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruchomiony Deathrite
-- **Effloresced E.G.O::Érlì** — Początek 1. tury: zyskuje [Iskra Oczekiwania]
-- **Focus** — rozpoczyna walkę z połową Siły i Licznika efektów [Rozdarcie], [Podpalenie], [Zatonięcie], [Wstrząs] i [Krwawienie], jakie ta jednostka miała na początku tej Fazy.
-- **I still await your answer.** — na każdym Początku tury Korpus i Części zyskują 900 Tarczy.
-- o 300 mniej za każdy [Dialogi] Hong Lua
-- jeżeli Hong Lu ma 3+ [Dialogi], ta jednostka nie zyskuje Tarczy do końca walki
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Zilu
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | —                                              |
-| HP           | 209 (+26,67 za poziom)                         |
-| Sloty akcji  | start: 5 · maks. 5                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Podstęp                                        |
-| Odporności   | wszystkie ×1 (Normal)                          |
-
-**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
-**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                  |
-| ------------------ | ------------------------ |
-| Poziom             | —                        |
-| HP                 | 209 (+26,67 za poziom)   |
-| Szybkość           | 3–5                      |
-| Progi oszołomienia | 0%                       |
-| Odporności         | Cięcie ×1,25; Obuch ×0,5 |
-
-*Opis:* Część
-
-##### Umiejętność: Niespodziewane Uderzenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Zabójcze Wiercenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
-
-##### Umiejętność: Uderzenie Grawerem
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Cięcie |          5 |         +5 |      2 |    1 |
-
-##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          5 |         +4 |      3 |    1 |
-
-##### Umiejętność: Klętwopis
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: kontra |          5 |         +4 |      3 |    1 |
-
-##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu>
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          4 |         +6 |      3 |    1 |
-
-##### Umiejętność: Ochrona Zwinnych Stóp
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | obrona: blok |          4 |        +10 |      1 |    1 |
-
-##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: kontra |          4 |         +6 |      3 |    1 |
-
-**Pasywki:**
-
-- **My Lord** — na Początku tury przywraca 30 SP
-na Początku tury zyskuje do 500 Tarczy
-- HP jednostki nie spada poniżej 1
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
 #### Impaled Failure
 
@@ -4184,153 +2047,6 @@ na koniec tury, przy 2+ [Ładowanie], zyskuje 1 [Wzrost Mocy Starcia] w następn
 - **Severe Overload** — Koniec tury: przy 5+ [Ładowanie], zyskuje 4 [Spadek Poziomu Obrony] i 3 [Wzrost Obrażeń] w następnej turze
 
 ## Część: Canto VIII · część 3 (`a1c8p3`)
-
-### Etap 8-21 · Głowa Rodu Hongyuanu
-
-- **Fala 1:** Peccatulum Pigritiae?? ×1 (poz. 51); Peccatulum Pigritiae?? ×1 (poz. 51)
-
-#### Peccatulum Pigritiae??
-
-*Wystąpienia: ×2 (poz. 51).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 50                    |
-| HP          | 104 (+7,17 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Korpus
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                                                               |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                                                     |
-| HP                 | 104 (+7,17 za poziom)                                                                                                                                                                 |
-| Szybkość           | 2–5                                                                                                                                                                                   |
-| Progi oszołomienia | 60%                                                                                                                                                                                   |
-| Odporności         | Cięcie ×0,5; Kłucie ×0,5; Obuch ×0,5; Gniew ×0,8; Żądza ×0,8; Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,75; Pycha ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Kamienna Kąpiel
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
-
-##### Umiejętność: Zbieranie Kamieni
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
-
-##### Umiejętność: Wzrastające Lenistwo
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          8 |        +10 |      1 |    1 |
-
-##### Umiejętność: Garda
-
-| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
-
-### Etap 8-23 · Cudza Sprawiedliwość
-
-- **Fala 1:** Peccatulum Pigritiae? ×1 (poz. 52); Peccatulum Pigritiae? ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52)
-
-#### Peccatulum Pigritiae?
-
-*Wystąpienia: ×2 (poz. 52).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 83 (+2,86 za poziom)  |
-| Sloty akcji | start: 2 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                 |
-| ------------------ | --------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                       |
-| HP                 | 83 (+2,86 za poziom)                                                                    |
-| Szybkość           | 1–2                                                                                     |
-| Progi oszołomienia | 30% / 0%                                                                                |
-| Odporności         | Obuch ×1,75; Lenistwo ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×1,75; Pycha ×0,5 (Ineff.) |
-
-*Opis:* Część
-
-##### Umiejętność: Chwyt
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Układanie Kamieni
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
-
-##### Umiejętność: Leniwy Zgniot
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
-
-##### Umiejętność: Garda
-
-| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
-
-#### Peccatulum Lenistwa
-
-*Wystąpienia: ×3 (poz. 52).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
-| Szybkość           | 1–2                                                                                                                                        |
-| Progi oszołomienia | 30%                                                                                                                                        |
-| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Przetaczanie (×3)
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
-
-##### Umiejętność: Leniwy Uścisk
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
 
 ### Etap 8-24 · Postępek Złodzieja
 
@@ -5941,3 +3657,2926 @@ na etapie początku walki, jeżeli sojusznik z [Oddech] zada wrogowi trafienie k
 - **Four-leaf Clover** — na Początku tury zyskuje 5 [Oddech] i 2 Licznika [Oddech]
 na etapie początku walki, jeżeli sojusznik z [Oddech] zada wrogowi trafienie krytyczne Umiejętnością, na następnym Początku tury nakłada losowemu sojusznikowi 5 Siły [Oddech] i 2 Licznika [Oddech]. (uruchamia się 1 raz na turę)
 - **Tasty Flesh** — przy 50% HP lub mniej: przy trafieniu wrogów z [Krwawienie], przywraca 1% całkowitego HP za każdy [Krwawienie] celu (maks. 10%; 1 raz na walkę)
+
+## Spotkania z Anomalią — Canto VIII
+
+Walki z Anomaliami tego rozdziału wg danych gry — numer to porządek spotkania; dane nie wskazują, przy której misji lub na którym piętrze lochu każde występuje.
+
+### Spotkanie 1
+
+- **Fala 1:** Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46)
+
+#### Peccatulum Obżarstwa
+
+*Wystąpienia: ×2 (poz. 46).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                       |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
+| Szybkość           | 1–4                                                                                                                                     |
+| Progi oszołomienia | 50%                                                                                                                                     |
+| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Bite (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Chciwe Żarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×2 (poz. 46).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+2,81 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+2,81 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+### Spotkanie 2
+
+- **Fala 1:** Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Obżarstwa ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46); Peccatulum Pychy ×1 (poz. 46)
+
+#### Peccatulum Obżarstwa
+
+*Wystąpienia: ×2 (poz. 46).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                       |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
+| Szybkość           | 1–4                                                                                                                                     |
+| Progi oszołomienia | 50%                                                                                                                                     |
+| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Bite (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Chciwe Żarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×2 (poz. 46).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+2,81 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+2,81 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+### Spotkanie 7
+
+- **Fala 1:** Peccatulum Lenistwa ×1 (poz. 48); Peccatulum Pigritiae? ×1 (poz. 48); Peccatulum Posępności ×1 (poz. 48); Peccatulum Morositatis? ×1 (poz. 48)
+
+#### Peccatulum Lenistwa
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
+| Szybkość           | 1–2                                                                                                                                        |
+| Progi oszołomienia | 30%                                                                                                                                        |
+| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Przetaczanie (×3)
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
+
+##### Umiejętność: Leniwy Uścisk
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+#### Peccatulum Pigritiae?
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 83 (+2,86 za poziom)  |
+| Sloty akcji | start: 2 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                       |
+| HP                 | 83 (+2,86 za poziom)                                                                    |
+| Szybkość           | 1–2                                                                                     |
+| Progi oszołomienia | 30% / 0%                                                                                |
+| Odporności         | Obuch ×1,75; Lenistwo ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×1,75; Pycha ×0,5 (Ineff.) |
+
+*Opis:* Część
+
+##### Umiejętność: Chwyt
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Układanie Kamieni
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Leniwy Zgniot
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
+
+##### Umiejętność: Garda
+
+| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+#### Peccatulum Posępności
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
+| Szybkość           | 4–6                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Strzelanie Serią
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Wybuchająca Posępność
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+#### Peccatulum Morositatis?
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 69 (+2,36 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                             |
+| HP                 | 69 (+2,36 za poziom)                                                                                                          |
+| Szybkość           | 2–4                                                                                                                           |
+| Progi oszołomienia | 50% / 0%                                                                                                                      |
+| Odporności         | Kłucie ×1,75; Gniew ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×0,5 (Ineff.); Zawiść ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wpadnięcie
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
+
+##### Umiejętność: Zgryzienie
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
+
+##### Umiejętność: Wodna Bomba
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
+
+##### Umiejętność: Unik
+
+| Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+### Spotkanie 8
+
+- **Fala 1:** Peccatulum Gniewu ×1 (poz. 48); Peccatulum Irae? ×1 (poz. 48); Peccatulum Posępności ×1 (poz. 48); Peccatulum Morositatis? ×1 (poz. 48)
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+#### Peccatulum Irae?
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 75 (+2,6 za poziom)   |
+| Sloty akcji | start: 2 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                             |
+| HP                 | 75 (+2,6 za poziom)                                                                                                           |
+| Szybkość           | 1–3                                                                                                                           |
+| Progi oszołomienia | 50% / 0%                                                                                                                      |
+| Odporności         | Obuch ×1,75; Gniew ×0,5 (Ineff.); Żądza ×1,75; Lenistwo ×0,5 (Ineff.); Posępność ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wbicie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
+
+##### Umiejętność: Bicz Ogonem
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Wdmuchnięcie Tchnienia
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+#### Peccatulum Posępności
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
+| Szybkość           | 4–6                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Strzelanie Serią
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Wybuchająca Posępność
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+#### Peccatulum Morositatis?
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 69 (+2,36 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                             |
+| HP                 | 69 (+2,36 za poziom)                                                                                                          |
+| Szybkość           | 2–4                                                                                                                           |
+| Progi oszołomienia | 50% / 0%                                                                                                                      |
+| Odporności         | Kłucie ×1,75; Gniew ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×0,5 (Ineff.); Zawiść ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wpadnięcie
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
+
+##### Umiejętność: Zgryzienie
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
+
+##### Umiejętność: Wodna Bomba
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
+
+##### Umiejętność: Unik
+
+| Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+### Spotkanie 12
+
+- **Fala 1:** Peccatulum Obżarstwa ×1 (poz. 48); Peccatulum Gulae? ×1 (poz. 48); Peccatulum Pychy ×1 (poz. 48); Peccatulum Superbiae? ×1 (poz. 48)
+
+#### Peccatulum Obżarstwa
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                       |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
+| Szybkość           | 1–4                                                                                                                                     |
+| Progi oszołomienia | 50%                                                                                                                                     |
+| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Bite (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Chciwe Żarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+#### Peccatulum Gulae?
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 52 (+1,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                     |
+| HP                 | 52 (+1,79 za poziom)                                                                  |
+| Szybkość           | 1–4                                                                                   |
+| Progi oszołomienia | 60% / 0%                                                                              |
+| Odporności         | Cięcie ×1,75; Gniew ×1,75; Żądza ×1,75; Obżar. ×0,5 (Ineff.); Posępność ×0,5 (Ineff.) |
+
+*Opis:* Część
+
+##### Umiejętność: Rozszarpanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Czas Na Żarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
+
+##### Umiejętność: Zarłaczna Uczta
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+2,81 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+2,81 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+#### Peccatulum Superbiae?
+
+*Wystąpienia: ×1 (poz. 48).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 63 (+4,34 za poziom)  |
+| Sloty akcji | start: 2 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                             |
+| HP                 | 63 (+4,34 za poziom)                                                                                                          |
+| Szybkość           | 1–3                                                                                                                           |
+| Progi oszołomienia | 40%                                                                                                                           |
+| Odporności         | Obuch ×1,75; Gniew ×1,75; Żądza ×0,75 (Endured); Lenistwo ×1,75; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mielenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Rozgniotenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
+
+##### Umiejętność: Dumny Zgniot
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+### Spotkanie 16
+
+- **Fala 1:** Peccatulum Obżarstwa ×1 (poz. 50); Peccatulum Gulae? ×1 (poz. 50); Peccatulum Pychy ×1 (poz. 50); Peccatulum Superbiae? ×1 (poz. 50)
+
+#### Peccatulum Obżarstwa
+
+*Wystąpienia: ×1 (poz. 50).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                       |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                    |
+| Szybkość           | 1–4                                                                                                                                     |
+| Progi oszołomienia | 50%                                                                                                                                     |
+| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Bite (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Chciwe Żarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+#### Peccatulum Gulae?
+
+*Wystąpienia: ×1 (poz. 50).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 52 (+1,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                     |
+| HP                 | 52 (+1,79 za poziom)                                                                  |
+| Szybkość           | 1–4                                                                                   |
+| Progi oszołomienia | 60% / 0%                                                                              |
+| Odporności         | Cięcie ×1,75; Gniew ×1,75; Żądza ×1,75; Obżar. ×0,5 (Ineff.); Posępność ×0,5 (Ineff.) |
+
+*Opis:* Część
+
+##### Umiejętność: Rozszarpanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Czas Na Żarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
+
+##### Umiejętność: Zarłaczna Uczta
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×1 (poz. 50).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+2,81 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+2,81 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+#### Peccatulum Superbiae?
+
+*Wystąpienia: ×1 (poz. 50).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 63 (+4,34 za poziom)  |
+| Sloty akcji | start: 2 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                             |
+| HP                 | 63 (+4,34 za poziom)                                                                                                          |
+| Szybkość           | 1–3                                                                                                                           |
+| Progi oszołomienia | 40%                                                                                                                           |
+| Odporności         | Obuch ×1,75; Gniew ×1,75; Żądza ×0,75 (Endured); Lenistwo ×1,75; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mielenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Rozgniotenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
+
+##### Umiejętność: Dumny Zgniot
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+### Spotkanie 19
+
+- **Fala 1:** Peccatulum Morositatis?? ×1 (poz. 50); Peccatulum Morositatis? ×1 (poz. 50); Peccatulum Posępności ×1 (poz. 50); Peccatulum Posępności ×1 (poz. 50)
+
+#### Peccatulum Morositatis??
+
+*Wystąpienia: ×1 (poz. 50).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 50                    |
+| HP          | 157 (+8,12 za poziom) |
+| Sloty akcji | start: 3 · maks. 3    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                                                                |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                                                      |
+| HP                 | 157 (+8,12 za poziom)                                                                                                                                                                  |
+| Szybkość           | 2–5                                                                                                                                                                                    |
+| Progi oszołomienia | 20%                                                                                                                                                                                    |
+| Odporności         | Cięcie ×0,5; Kłucie ×0,5; Obuch ×0,5; Gniew ×0,5 (Ineff.); Żądza ×0,8; Lenistwo ×0,8; Obżar. ×1,5 (Weak); Posępność ×0,5 (Ineff.); Zawiść ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Zderzenie Rozkładu
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          5 |         +6 |      1 |    1 |
+
+##### Umiejętność: Nawał Wody
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          4 |         +8 |      1 |    1 |
+
+##### Umiejętność: Kaskada Posępności
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          6 |         +6 |      2 |    1 |
+
+##### Umiejętność: Unik
+
+| Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: unik |          3 |        +12 |      1 |    1 |
+
+#### Peccatulum Morositatis?
+
+*Wystąpienia: ×1 (poz. 50).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 69 (+2,36 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                             |
+| HP                 | 69 (+2,36 za poziom)                                                                                                          |
+| Szybkość           | 2–4                                                                                                                           |
+| Progi oszołomienia | 50% / 0%                                                                                                                      |
+| Odporności         | Kłucie ×1,75; Gniew ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×0,5 (Ineff.); Zawiść ×1,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wpadnięcie
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
+
+##### Umiejętność: Zgryzienie
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
+
+##### Umiejętność: Wodna Bomba
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          6 |        +10 |      1 |    1 |
+
+##### Umiejętność: Unik
+
+| Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+#### Peccatulum Posępności
+
+*Wystąpienia: ×2 (poz. 50).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
+| Szybkość           | 4–6                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Strzelanie Serią
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Wybuchająca Posępność
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+### Spotkanie 21
+
+- **Fala 1:** Peccatulum Pigritiae?? ×1 (poz. 51); Peccatulum Pigritiae?? ×1 (poz. 51)
+
+#### Peccatulum Pigritiae??
+
+*Wystąpienia: ×2 (poz. 51).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 50                    |
+| HP          | 104 (+7,17 za poziom) |
+| Sloty akcji | start: 3 · maks. 3    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Korpus
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                                                     |
+| HP                 | 104 (+7,17 za poziom)                                                                                                                                                                 |
+| Szybkość           | 2–5                                                                                                                                                                                   |
+| Progi oszołomienia | 60%                                                                                                                                                                                   |
+| Odporności         | Cięcie ×0,5; Kłucie ×0,5; Obuch ×0,5; Gniew ×0,8; Żądza ×0,8; Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,75; Pycha ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Kamienna Kąpiel
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Zbieranie Kamieni
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
+
+##### Umiejętność: Wzrastające Lenistwo
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          8 |        +10 |      1 |    1 |
+
+##### Umiejętność: Garda
+
+| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+### Spotkanie 23
+
+- **Fala 1:** Peccatulum Pigritiae? ×1 (poz. 52); Peccatulum Pigritiae? ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52); Peccatulum Lenistwa ×1 (poz. 52)
+
+#### Peccatulum Pigritiae?
+
+*Wystąpienia: ×2 (poz. 52).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 83 (+2,86 za poziom)  |
+| Sloty akcji | start: 2 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                       |
+| HP                 | 83 (+2,86 za poziom)                                                                    |
+| Szybkość           | 1–2                                                                                     |
+| Progi oszołomienia | 30% / 0%                                                                                |
+| Odporności         | Obuch ×1,75; Lenistwo ×0,5 (Ineff.); Obżar. ×1,75; Posępność ×1,75; Pycha ×0,5 (Ineff.) |
+
+*Opis:* Część
+
+##### Umiejętność: Chwyt
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Układanie Kamieni
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Leniwy Zgniot
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
+
+##### Umiejętność: Garda
+
+| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+#### Peccatulum Lenistwa
+
+*Wystąpienia: ×3 (poz. 52).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
+| Szybkość           | 1–2                                                                                                                                        |
+| Progi oszołomienia | 30%                                                                                                                                        |
+| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Przetaczanie (×3)
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
+
+##### Umiejętność: Leniwy Uścisk
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+### Spotkanie 27
+
+- **Fala 1:** Heishou Pack - Mao: Featherstriker ×2 (poz. 60); Heishou Pack - Mao: Umbrastriker ×2 (poz. 60)
+- **Fala 2:** Jia Qiu ×1 (poz. 90); Zilu ×1 (poz. 75); Jia Qiu ×1 (poz. 90) (wsparcie); Heishou Pack - Mao: Featherstriker ×1 (poz. 60) (wsparcie); Heishou Pack - Mao: Umbrastriker ×1 (poz. 60) (wsparcie); Zilu ×1 (poz. 75) (wsparcie)
+
+#### Heishou Pack - Mao: Featherstriker
+
+*Wystąpienia: ×3 (poz. 60) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+3,59 za poziom)                           |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podstęp                                        |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                      |
+| ------------------ | ------------------------------------------------------------ |
+| Poziom             | —                                                            |
+| HP                 | 52 (+3,59 za poziom)                                         |
+| Szybkość           | 2–5                                                          |
+| Progi oszołomienia | 75% / 50% / 25%                                              |
+| Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Niespodziewane Uderzenie (×5)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Powstrzymanie (×4)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: Strzał Piór (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +4 |      3 |    1 |
+
+##### Umiejętność: Zamachnięcie
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          4 |         +8 |      1 |    1 |
+
+**Pasywki:**
+
+- **Jia Qiu's Test** — Początek 1. tury: zyskuje [Skryta Krwiożerczość]
+kończy walkę, gdy Hong Lu ginie
+
+#### Heishou Pack - Mao: Umbrastriker
+
+*Wystąpienia: ×3 (poz. 60) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+3,59 za poziom)                           |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podstęp                                        |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                      |
+| ------------------ | ------------------------------------------------------------ |
+| Poziom             | —                                                            |
+| HP                 | 52 (+3,59 za poziom)                                         |
+| Szybkość           | 2–5                                                          |
+| Progi oszołomienia | 75% / 50% / 25%                                              |
+| Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Pościg (×5)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Przytłoczenie (×4)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: Cios z Cienia (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +4 |      3 |    1 |
+
+##### Umiejętność: Zamachnięcie
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          4 |         +8 |      1 |    1 |
+
+**Pasywki:**
+
+- **Jia Qiu's Test** — Początek 1. tury: zyskuje [Skryta Krwiożerczość]
+kończy walkę, gdy Hong Lu ginie
+
+#### Jia Qiu
+
+*Wystąpienia: ×1 (poz. 90).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 182 (+25,08 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Jia Qiu                                        |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Zadawane obrażenia +10% celom innym niż Hong Lu
+**Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                              |
+| HP                 | 182 (+25,08 za poziom)                                                                                                         |
+| Szybkość           | 3–5                                                                                                                            |
+| Progi oszołomienia | 30% / 0%                                                                                                                       |
+| Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Żądza ×1,2; Lenistwo ×0,75 (Endured); Obżar. ×1,3; Posępność ×0,75 (Endured); Pycha ×1,2 |
+
+*Opis:* Część
+
+##### Umiejętność: Pytanie (問)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Odpowiedź (答)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          3 |         +8 |      1 |    1 |
+
+##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動)
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          5 |         +4 |      2 |    1 |
+
+##### Umiejętność: Unik
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
+
+##### Umiejętność: Gromobójcze Miażdżenie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |          4 |         +8 |      1 |    1 |
+
+##### Umiejętność: Ścinaj, Mao
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          4 |         +6 |      2 |    1 |
+
+##### Umiejętność: Muszę Was Napierać Mocniej
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Obuch |          5 |         +5 |      4 |    1 |
+
+##### Umiejętność: Nie Mieszajcie Się
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | obrona: kontra |          4 |         +5 |      2 |    1 |
+
+**Pasywki:**
+
+- **Effloresced E.G.O::Érlì** — Początek 1. tury: przywraca 30 SP i zyskuje [Iskra Oczekiwania]
+- **Heed me, Zilu** — przy 85% HP przybiera nowy wzorzec
+przy 60% HP przechodzi do nowej Fazy
+- **This is where your path ends** — kończy walkę, gdy Hong Lu ginie
+- **Infinite Song of Erudition** — Koniec ataku: przywraca 5 SP za każdy Deathrite celu
+przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruchomiony Deathrite
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Zilu
+
+*Wystąpienia: ×1 (poz. 75).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 209 (+26,67 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podstęp                                        |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                  |
+| ------------------ | ------------------------ |
+| Poziom             | —                        |
+| HP                 | 209 (+26,67 za poziom)   |
+| Szybkość           | 3–5                      |
+| Progi oszołomienia | 50% / 0%                 |
+| Odporności         | Cięcie ×1,25; Obuch ×0,5 |
+
+*Opis:* Część
+
+##### Umiejętność: Niespodziewane Uderzenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Zabójcze Wiercenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
+
+##### Umiejętność: Uderzenie Grawerem
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Cięcie |          5 |         +5 |      2 |    1 |
+
+##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          5 |         +4 |      3 |    1 |
+
+##### Umiejętność: Klętwopis
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          5 |         +4 |      3 |    1 |
+
+##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu>
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +6 |      3 |    1 |
+
+##### Umiejętność: Ochrona Zwinnych Stóp
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: blok |          4 |        +10 |      1 |    1 |
+
+##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          4 |         +6 |      3 |    1 |
+
+**Pasywki:**
+
+- **Shin (心) Radiance** — Początek 1. tury: przywraca 30 SP
+przy 85% HP przybiera nowy wzorzec
+na Początku tury przy 60% HP lub mniej zyskuje 500 Tarczy
+- po uruchomieniu tego efektu HP jednostki nie spada poniżej 1
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Jia Qiu
+
+*Wystąpienia: ×1 (poz. 90) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 173 (+35,89 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Jia Qiu                                        |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Zadawane obrażenia +10% celom innym niż Hong Lu
+**Efekt Paniki:** Zadawane obrażenia +20% celom innym niż Hong Lu
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                              |
+| HP                 | 173 (+35,89 za poziom)                                                                                                         |
+| Szybkość           | 3–5                                                                                                                            |
+| Progi oszołomienia | 30% / 0%                                                                                                                       |
+| Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Żądza ×1,2; Lenistwo ×0,75 (Endured); Obżar. ×1,3; Posępność ×0,75 (Endured); Pycha ×1,2 |
+
+*Opis:* Część
+
+##### Umiejętność: Zapytam Jeszcze Raz
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Nie Działaj Niewłaściwie (非禮勿動)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Nie Wypada Się Wtrącać
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Gromobójcze Miażdżenie - Fala (波)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Obuch |          7 |        +13 |      1 |    3 |
+
+##### Umiejętność: Heishou - Mao Linkstrike - Bladestorm
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |          3 |         +3 |      4 |    1 |
+
+##### Umiejętność: Usłuchaj, Zilu
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |          4 |         +3 |      4 |    1 |
+
+##### Umiejętność: Powódź Obrzędu Śmierci
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          7 |        +13 |      1 |    1 |
+
+##### Umiejętność: Odpowiedz Mi, Jia Baoyu
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          3 |         +2 |      4 |    1 |
+
+##### Umiejętność: Gwiazda Tiangan - Forma (格)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          5 |         +8 |      4 |    7 |
+
+##### Umiejętność: Jak Rycząca Burza
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          5 |         +8 |      1 |    6 |
+
+**Pasywki:**
+
+- **This is where your path ends** — kończy walkę, gdy Hong Lu ginie
+- **Infinite Song of Erudition** — Koniec ataku: przywraca 5 SP za każdy Deathrite celu
+przy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruchomiony Deathrite
+- **Effloresced E.G.O::Érlì** — Początek 1. tury: zyskuje [Iskra Oczekiwania]
+- **Focus** — rozpoczyna walkę z połową Siły i Licznika efektów [Rozdarcie], [Podpalenie], [Zatonięcie], [Wstrząs] i [Krwawienie], jakie ta jednostka miała na początku tej Fazy.
+- **I still await your answer.** — na każdym Początku tury Korpus i Części zyskują 900 Tarczy.
+- o 300 mniej za każdy [Dialogi] Hong Lua
+- jeżeli Hong Lu ma 3+ [Dialogi], ta jednostka nie zyskuje Tarczy do końca walki
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Zilu
+
+*Wystąpienia: ×1 (poz. 75) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 209 (+26,67 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podstęp                                        |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                  |
+| ------------------ | ------------------------ |
+| Poziom             | —                        |
+| HP                 | 209 (+26,67 za poziom)   |
+| Szybkość           | 3–5                      |
+| Progi oszołomienia | 0%                       |
+| Odporności         | Cięcie ×1,25; Obuch ×0,5 |
+
+*Opis:* Część
+
+##### Umiejętność: Niespodziewane Uderzenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Zabójcze Wiercenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
+
+##### Umiejętność: Uderzenie Grawerem
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Cięcie |          5 |         +5 |      2 |    1 |
+
+##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          5 |         +4 |      3 |    1 |
+
+##### Umiejętność: Klętwopis
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          5 |         +4 |      3 |    1 |
+
+##### Umiejętność: Częściowe Uwolnienie Złotej Pieczęci: \<Klinga Gwiazdy Tianjiu>
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +6 |      3 |    1 |
+
+##### Umiejętność: Ochrona Zwinnych Stóp
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: blok |          4 |        +10 |      1 |    1 |
+
+##### Umiejętność: Wyższy Heishou - Technika Mao: Objawienie Morza Chmur
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          4 |         +6 |      3 |    1 |
+
+**Pasywki:**
+
+- **My Lord** — na Początku tury przywraca 30 SP
+na Początku tury zyskuje do 500 Tarczy
+- HP jednostki nie spada poniżej 1
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+### Spotkanie 35
+
+- **Fala 1:** Shi Hua... something? ×1 (poz. 52); Swift Shi Family Mercenary ×2 (poz. 52); Veteran Shi Family Mercenary ×2 (poz. 52); Heavy Shi Family Mercenary ×1 (poz. 52)
+
+#### Shi Hua... something?
+
+*Wystąpienia: ×1 (poz. 52).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 192 (+6,63 za poziom)                          |
+| Sloty akcji  | start: 2 · maks. 4                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                         |
+| ------------------ | --------------------------------------------------------------- |
+| Poziom             | —                                                               |
+| HP                 | 192 (+6,63 za poziom)                                           |
+| Szybkość           | 3–5                                                             |
+| Progi oszołomienia | 60% / 0%                                                        |
+| Odporności         | Cięcie ×1,25; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Góry
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Cięcie z Zamachem
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          6 |         +4 |      2 |    1 |
+
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Zgniatające Cięcie (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          6 |         +4 |      3 |    1 |
+
+##### Umiejętność: Styl Naładowanej Klingi (充刀流) - Płynne Cięcie
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Swift Shi Family Mercenary
+
+*Wystąpienia: ×2 (poz. 52).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 65 (+2,69 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Poziom             | —                                                             |
+| HP                 | 65 (+2,69 za poziom)                                          |
+| Szybkość           | 1–3                                                           |
+| Progi oszołomienia | 60% / 20% / 0%                                                |
+| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+
+#### Veteran Shi Family Mercenary
+
+*Wystąpienia: ×2 (poz. 52).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 65 (+2,69 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Poziom             | —                                                             |
+| HP                 | 65 (+2,69 za poziom)                                          |
+| Szybkość           | 1–3                                                           |
+| Progi oszołomienia | 60% / 20% / 0%                                                |
+| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+
+#### Heavy Shi Family Mercenary
+
+*Wystąpienia: ×1 (poz. 52).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 91 (+3,14 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                         |
+| ------------------ | --------------------------------------------------------------- |
+| Poziom             | —                                                               |
+| HP                 | 91 (+3,14 za poziom)                                            |
+| Szybkość           | 1–4                                                             |
+| Progi oszołomienia | 60% / 20% / 0%                                                  |
+| Odporności         | Cięcie ×1,5; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          5 |         +7 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          4 |         +6 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          3 |         +4 |      3 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: kontra |          5 |         +4 |      2 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+
+### Spotkanie 36
+
+- **Fala 1:** Wang Qingshan ×1 (poz. 53); Wicked Deathrite Monk ×2 (poz. 53); Evil-possessed Deathrite Monk ×2 (poz. 53); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Evil-possessed Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie); Wicked Deathrite Monk ×1 (poz. 53) (wsparcie)
+
+#### Wang Qingshan
+
+*Wystąpienia: ×1 (poz. 53).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 184 (+6,34 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Rozgoryczenie                                  |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
+**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 184 (+6,34 za poziom)                                                                                                                      |
+| Szybkość           | 2–4                                                                                                                                        |
+| Progi oszołomienia | 60% / 0%                                                                                                                                   |
+| Odporności         | Cięcie ×1,25; Obuch ×0,5; Żądza ×0,5 (Ineff.); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          4 |         +4 |      1 |    1 |
+
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          5 |         +3 |      2 |    1 |
+
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
+
+##### Umiejętność: Szkoła Talizmanów Ducha (符靈術) - Szpetna Wściekłość
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
+
+**Pasywki:**
+
+- **Wounded** — Początek walki: wchodzi do walki z 80% HP
+- **Master of the Deathrite Monks** — Koniec tury: przy SP równym 20 lub mniej wysysa 10 SP od 3 losowych sojuszników z najwyższym SP, przywracając tyle SP
+
+na Początku tury nakłada 2 [Wzrost Obrażeń] wszystkim pozostałym sojusznikom ze SP równym -20 lub mniej
+- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa do 3 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
+- **Dammit... Take them out!** — w tej walce, jeżeli ta jednostka otrzymuje obrażenia sprowadzające jej HP do połowy lub mniej, niweluje te obrażenia, natychmiast kończy turę i przesuwa się na sam koniec kolejki pojawiania (jeżeli jest w Oszołamieniu, natychmiast z niego dochodzi do siebie)
+
+jeżeli nie ma już wrogów do zastąpienia albo jest ich za mało (tzn. jeżeli liczba wrogów zabitych w tej turze przewyższa liczbę oczekujących na pojawienie się), ten efekt nie uruchamia się
+- **The Battle's End** — gdy Wang Qingshan traci w tej walce całe HP, walka się kończy
+- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Wicked Deathrite Monk
+
+*Wystąpienia: ×6 (poz. 53) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 75 (+2,59 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złe Zamiary                                    |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
+**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                            |
+| HP                 | 75 (+2,59 za poziom)                                                                                                                         |
+| Szybkość           | 2–3                                                                                                                                          |
+| Progi oszołomienia | 60% / 30% / 0%                                                                                                                               |
+| Odporności         | Cięcie ×1,5; Obuch ×0,75; Żądza ×0,75 (Endured); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: blok |         10 |         −6 |      1 |    1 |
+
+**Pasywki:**
+
+- **Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
+
+wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (maks. 30%, min. 0%)
+- **Proliferating Misfortune** — przy śmierci nakłada 10 [Złowieszczy Talizman] losowemu wrogowi bez [Złowieszczy Talizman]
+- jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
+- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa 1–2 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
+
+#### Evil-possessed Deathrite Monk
+
+*Wystąpienia: ×3 (poz. 53) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 99 (+3,41 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Mroczne Zamiary                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
+**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 99 (+3,41 za poziom)                                                                                                                       |
+| Szybkość           | 3–5                                                                                                                                        |
+| Progi oszołomienia | 60% / 20% / 0%                                                                                                                             |
+| Odporności         | Cięcie ×1,25; Obuch ×0,5; Żądza ×0,5 (Ineff.); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: blok |         12 |         −8 |      1 |    1 |
+
+**Pasywki:**
+
+- **Skilled Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
+
+wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (maks. 50%, min. 0%)
+- **Soul Siphon Technique** — na Początku tury, przy HP równym 50% lub mniej, poświęca losowego Wicked Deathrite Monk, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
+- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa do 3 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
+
+### Spotkanie 37
+
+- **Fala 1:** Shi Sijing ×1 (poz. 55); Swift Shi Family Mercenary ×2 (poz. 53); Veteran Shi Family Mercenary ×2 (poz. 53); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie); Swift Shi Family Mercenary ×1 (poz. 53) (wsparcie); Veteran Shi Family Mercenary ×1 (poz. 53) (wsparcie)
+
+#### Shi Sijing
+
+*Wystąpienia: ×1 (poz. 55).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 205 (+7,07 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                        |
+| ------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                              |
+| HP                 | 205 (+7,07 za poziom)                                                                                          |
+| Szybkość           | 3–5                                                                                                            |
+| Progi oszołomienia | 60% / 20% / 0%                                                                                                 |
+| Odporności         | Obuch ×0,5; Lenistwo ×1,25; Obżar. ×1,25; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Konfrontacja (×2)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          7 |         +4 |      1 |    1 |
+
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Cios Okrężny (×2)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Rozbijanie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          3 |         +4 |      3 |    1 |
+
+##### Umiejętność: Styl Naładowanej Pięści (充拳流) - Trzymanie Rytmu
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
+
+**Pasywki:**
+
+- **That's how you use your human resources** — na Początku tury, jeżeli HP jednostki wynosi 50% lub mniej, poświęca losowego Shi Family Mercenary, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
+- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+- **The Battle's End** — gdy Shi Sijing traci w tej walce całe HP, walka się kończy
+
+#### Swift Shi Family Mercenary
+
+*Wystąpienia: ×4 (poz. 53) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 65 (+2,69 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Poziom             | —                                                             |
+| HP                 | 65 (+2,69 za poziom)                                          |
+| Szybkość           | 1–3                                                           |
+| Progi oszołomienia | 60% / 20% / 0%                                                |
+| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+
+#### Veteran Shi Family Mercenary
+
+*Wystąpienia: ×4 (poz. 53) · też jako wsparcie.*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 65 (+2,69 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Poziom             | —                                                             |
+| HP                 | 65 (+2,69 za poziom)                                          |
+| Szybkość           | 1–3                                                           |
+| Progi oszołomienia | 60% / 20% / 0%                                                |
+| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+
+### Spotkanie 38
+
+- **Fala 1:** Xue Pan ×1 (poz. 58); Talisman Jar Monster ×1 (poz. 55); Nailed Jar Monster ×1 (poz. 55); Entangled Jar Monster ×1 (poz. 55); Monster from the Gorged and Devoured Jar of Loneliness ×1 (poz. 55); Talisman Jar Monster ×1 (poz. 55) (wsparcie); Nailed Jar Monster ×1 (poz. 55) (wsparcie); Entangled Jar Monster ×1 (poz. 55) (wsparcie)
+
+#### Xue Pan
+
+*Wystąpienia: ×1 (poz. 58).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 261 (+13,5 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Rozkaz Szturmu                                 |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wrażliwość] i nałóż 1 [Wzrost Obrażeń] na wszystkich sojuszników
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wrażliwość] i nałóż 2 [Wzrost Obrażeń] na wszystkich sojuszników
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                    |
+| HP                 | 261 (+13,5 za poziom)                                                                                                                                |
+| Szybkość           | 3–5                                                                                                                                                  |
+| Progi oszołomienia | 40% / 0%                                                                                                                                             |
+| Odporności         | Obuch ×0,8; Gniew ×1,25; Żądza ×0,75 (Endured); Lenistwo ×0,75 (Endured); Posępność ×1,25; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Słabeusze...
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
+
+##### Umiejętność: Gapie...
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Zabiję Cię!
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
+
+##### Umiejętność: Wpadnij!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
+
+##### Umiejętność: Ten Spektakl Warto Oglądać Wszyscy!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          6 |         +8 |      1 |    1 |
+
+**Pasywki:** *(przypisane pasywki bez danych lokalizacji)*
+
+#### Talisman Jar Monster
+
+*Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | —                     |
+| HP          | 65 (+2,24 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                            |
+| HP                 | 65 (+2,24 za poziom)                                                                                                                         |
+| Szybkość           | 2–4                                                                                                                                          |
+| Progi oszołomienia | 80% / 0%                                                                                                                                     |
+| Odporności         | Kłucie ×1,2; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Drapanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Dzikie Drapanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
+
+##### Umiejętność: Zdarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
+
+#### Nailed Jar Monster
+
+*Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | —                     |
+| HP          | 66 (+2,28 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                            |
+| HP                 | 66 (+2,28 za poziom)                                                                                                                         |
+| Szybkość           | 2–4                                                                                                                                          |
+| Progi oszołomienia | 70% / 0%                                                                                                                                     |
+| Odporności         | Kłucie ×1,2; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grzebanie Paznokciami
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Dzikie Rypanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
+
+##### Umiejętność: Oblepienie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
+
+#### Entangled Jar Monster
+
+*Wystąpienia: ×2 (poz. 55) · też jako wsparcie.*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | —                     |
+| HP          | 68 (+2,34 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                            |
+| HP                 | 68 (+2,34 za poziom)                                                                                                                         |
+| Szybkość           | 2–4                                                                                                                                          |
+| Progi oszołomienia | 75% / 0%                                                                                                                                     |
+| Odporności         | Kłucie ×1,2; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grzebanie w Ranach
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Dzikie Grzebanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          3 |         +4 |      2 |    1 |
+
+##### Umiejętność: Grzebanie w Mięsie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Cięcie |          3 |         +3 |      4 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          3 |         +4 |      1 |    1 |
+
+#### Monster from the Gorged and Devoured Jar of Loneliness
+
+*Wystąpienia: ×1 (poz. 55).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | —                     |
+| HP          | 73 (+2,52 za poziom)  |
+| Sloty akcji | start: 2 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                    |
+| HP                 | 73 (+2,52 za poziom)                                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                                  |
+| Progi oszołomienia | 60% / 0%                                                                                                                                             |
+| Odporności         | Cięcie ×0,8; Obuch ×0,8; Gniew ×0,5 (Ineff.); Żądza ×0,5 (Ineff.); Obżar. ×1,3; Posępność ×1,25; Zawiść ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Drapanie Ran
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         +7 |      2 |    1 |
+
+##### Umiejętność: Dzieranie Mięsa
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +4 |      1 |    1 |
+
+##### Umiejętność: Miętołenie w Samotności
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Cięcie |          4 |         +3 |      4 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: kontra |          3 |         +2 |      1 |    1 |
+
+### Spotkanie 39
+
+- **Fala 1:** Shi Yihua ×1 (poz. 60); Swift Shi Family Mercenary ×1 (poz. 55); Veteran Shi Family Mercenary ×1 (poz. 55); Wicked Deathrite Monk ×1 (poz. 55); Evil-possessed Deathrite Monk ×1 (poz. 55)
+
+#### Shi Yihua
+
+*Wystąpienia: ×1 (poz. 60).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 313 (+12,3 za poziom)                          |
+| Sloty akcji  | start: 1 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Obosieczne Pióro                               |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wrażliwości i 1 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wrażliwości i 2 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                                                   |
+| HP                 | 313 (+12,3 za poziom)                                                                                                                                                               |
+| Szybkość           | 4–6                                                                                                                                                                                 |
+| Progi oszołomienia | 40% / 0%                                                                                                                                                                            |
+| Odporności         | Cięcie ×0,8; Kłucie ×0,8; Obuch ×0,8; Gniew ×0,75 (Endured); Żądza ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,5 (Ineff.); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Bierz To!
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Padnij na Kolana!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    5 |
+
+##### Umiejętność: Popatrzcie na Siebie, Dziecinady!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          4 |         +5 |      2 |    3 |
+
+##### Umiejętność: Znaj Swoje Miejsce!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          5 |         +3 |      3 |    3 |
+
+##### Umiejętność: Padnijcie Na Twarze!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          6 |         +3 |      2 |   10 |
+
+##### Umiejętność: Dam Ci Szansę
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          5 |         +4 |      2 |    1 |
+
+**Pasywki:**
+
+- **Bolus of... Immortality?** — przy trafieniu Umiejętnością: przywraca HP równe 10% zadanych obrażeń (zaokrąglając w dół)
+jeżeli cel ma [Pióro z Gałką Oczową], dodatkowo przywraca HP równe (liczba [Pióro z Gałką Oczową] celu)%
+- **I'VE NEVER FELT BETTER!** — przy trafieniu własnym atakiem przywraca 3 SP
+- **MY REVENGEANCE HAS JUST BEGUN!** — za każdą przegraną w Starciu zyskuje 1 [Wzrost Poziomu Ataku] w następnej turze (maks. 3)
+- **Rupture by Feathers** — za każde 3 trafienia tym samym celem w jednej turze nakłada 1 [Wrażliwość] temu celowi w następnej turze
+- **Rampage** — Poziom Ataku +1 i Poziom Obrony -1 za każde 15% HP łącznie utracone przez jednostkę w tej walce (maks. 6)
+- **The Battle's End** — gdy Shi Yihua traci w tej walce całe HP, walka się kończy
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+- **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
+
+#### Swift Shi Family Mercenary
+
+*Wystąpienia: ×1 (poz. 55).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 65 (+2,69 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Poziom             | —                                                             |
+| HP                 | 65 (+2,69 za poziom)                                          |
+| Szybkość           | 1–3                                                           |
+| Progi oszołomienia | 60% / 20% / 0%                                                |
+| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+
+#### Veteran Shi Family Mercenary
+
+*Wystąpienia: ×1 (poz. 55).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 65 (+2,69 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Prąd Wsteczny Obwodu Ładunku                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +3 Licznika [Ładowanie] i 1 [Wrażliwość] (2 razy na turę)
+**Efekt Paniki:** W Starciu z celami mającymi [Rozdarcie]: zyskaj +5 Licznika [Ładowanie], 1 [Wzrost Obrażeń] i 2 [Wrażliwość] (2 razy na turę)
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Poziom             | —                                                             |
+| HP                 | 65 (+2,69 za poziom)                                          |
+| Szybkość           | 1–3                                                           |
+| Progi oszołomienia | 60% / 20% / 0%                                                |
+| Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy) (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +5 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | obrona: kontra |          5 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Rival Candidate** — zadaje +10% obrażeń Hong Lu
+- **Charge Circuitry Activation** — zadaje +5% obrażeń za każde 6 [Rozdarcie] celu (maks. 10%)
+
+#### Wicked Deathrite Monk
+
+*Wystąpienia: ×1 (poz. 55).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 75 (+2,59 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złe Zamiary                                    |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 1 [Wrażliwość]
+**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                            |
+| HP                 | 75 (+2,59 za poziom)                                                                                                                         |
+| Szybkość           | 2–3                                                                                                                                          |
+| Progi oszołomienia | 60% / 30% / 0%                                                                                                                               |
+| Odporności         | Cięcie ×1,5; Obuch ×0,75; Żądza ×0,75 (Endured); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          7 |         −4 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |         10 |         −4 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |         11 |         −6 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: blok |         10 |         −6 |      1 |    1 |
+
+**Pasywki:**
+
+- **Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
+
+wobec celów z [Złowieszczy Talizman] zadaje +(0 - SP jednostki)% obrażeń (maks. 30%, min. 0%)
+- **Proliferating Misfortune** — przy śmierci nakłada 10 [Złowieszczy Talizman] losowemu wrogowi bez [Złowieszczy Talizman]
+- jeżeli wszyscy wrogowie już mają [Złowieszczy Talizman], zamiast tego zmniejsza [Złowieszczy Talizman] wszystkich wrogów o 1
+- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa 1–2 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej
+
+#### Evil-possessed Deathrite Monk
+
+*Wystąpienia: ×1 (poz. 55).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 99 (+3,41 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Mroczne Zamiary                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
+
+**Efekt Niskiego Morale:** Moc Starcia +2 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 3 [Wzrost Obrażeń] i 1 [Wrażliwość]
+**Efekt Paniki:** Moc Starcia +3 przeciw celom z [Złowieszczy Talizman]
+Początek Tury: zyskaj 4 [Wzrost Obrażeń] i 2 [Wrażliwość]
+
+*Opis:* jednostka
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 99 (+3,41 za poziom)                                                                                                                       |
+| Szybkość           | 3–5                                                                                                                                        |
+| Progi oszołomienia | 60% / 20% / 0%                                                                                                                             |
+| Odporności         | Cięcie ×1,25; Obuch ×0,5; Żądza ×0,5 (Ineff.); Obżar. ×1,25; Posępność ×0,75 (Endured); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          8 |         −4 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |         11 |         −4 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |         12 |         −4 |      3 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |         14 |         −4 |      2 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | obrona: blok |         12 |         −8 |      1 |    1 |
+
+**Pasywki:**
+
+- **Skilled Talisman Sorcerer** — za każdym razem, gdy nakłada [Złowieszczy Talizman] wrogowi, traci 10 SP
+
+wobec celów z [Złowieszczy Talizman] zadaje +(10 - SP jednostki)% obrażeń (maks. 50%, min. 0%)
+- **Soul Siphon Technique** — na Początku tury, przy HP równym 50% lub mniej, poświęca losowego Wicked Deathrite Monk, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)
+- **Wicked Energy** — gdy nakłada [Złowieszczy Talizman] wrogowi, jeżeli cel już posiada [Złowieszczy Talizman], zużywa do 3 [Złowieszczy Talizman] celu i nakłada tyle samo [Spadek Poziomu Obrony] temu celowi w tej turze i następnej

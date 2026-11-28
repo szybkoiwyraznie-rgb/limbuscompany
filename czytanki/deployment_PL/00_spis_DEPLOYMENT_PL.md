@@ -5,25 +5,25 @@ Dla każdego etapu: fale przeciwników i pełne karty jednostek (statystyki, opi
 | Plik                                                | Część                                                            | Etapy | Karty jednostek |
 | --------------------------------------------------- | ---------------------------------------------------------------- | ----: | --------------: |
 | `01_prolog_PL.md`                                   | Prolog                                                           |     4 |              13 |
-| `02_canto_i_PL.md`                                  | Canto I: Nieprzynależny                                          |    21 |              60 |
-| `03_canto_ii_PL.md`                                 | Canto II: Niekochająca                                           |    29 |              76 |
-| `04_canto_iii_PL.md`                                | Canto III: Unikający                                             |    34 |             105 |
+| `02_canto_i_PL.md`                                  | Canto I: Nieprzynależny                                          |    10 |              37 |
+| `03_canto_ii_PL.md`                                 | Canto II: Niekochająca                                           |    38 |              97 |
+| `04_canto_iii_PL.md`                                | Canto III: Unikający                                             |    41 |             118 |
 | `05_intervallo_i_hells_chicken_PL.md`               | Intervallo I: Hell's Chicken                                     |    10 |              35 |
-| `06_canto_iv_PL.md`                                 | Canto IV: Niezmienny                                             |    47 |             134 |
+| `06_canto_iv_PL.md`                                 | Canto IV: Niezmienny                                             |    62 |             162 |
 | `07_intervallo_ii_morze_PL.md`                      | Intervallo II: M.O.R.Z.E.                                        |     8 |              27 |
-| `08_canto_v_PL.md`                                  | Canto V: Uznana za zło                                           |    26 |             122 |
+| `08_canto_v_PL.md`                                  | Canto V: Uznana za zło                                           |    31 |             125 |
 | `09_intervallo_iii_miracle_in_district_20_PL.md`    | Intervallo III: Cud w Dystrykcie 20                              |    10 |              37 |
 | `10_intervallo_iii_yield_my_flesh_PL.md`            | Intervallo III: Poświęcić ciało, by zmiażdżyć kości              |    10 |              32 |
-| `11_canto_vi_PL.md`                                 | Canto VI: Rozdarty                                               |    34 |             133 |
+| `11_canto_vi_PL.md`                                 | Canto VI: Rozdarty                                               |    34 |             132 |
 | `12_walpurgis_3rd_night_PL.md`                      | 3. Noc Walpurgii                                                 |     3 |               6 |
 | `13_intervallo_iv_timekilling_time_PL.md`           | Intervallo IV: Czas zabijania czasu                              |    16 |              35 |
 | `14_intervallo_iv_murder_on_the_warp_express_PL.md` | Intervallo IV: Morderstwo w Warp Expressie                       |    18 |             101 |
 | `15_walpurgis_4th_night_PL.md`                      | 4. Noc Walpurgii                                                 |     4 |              18 |
-| `16_canto_vii_PL.md`                                | Canto VII: Koniec Snu                                            |    26 |             132 |
+| `16_canto_vii_PL.md`                                | Canto VII: Koniec Snu                                            |    32 |             134 |
 | `17_walpurgis_5th_night_PL.md`                      | 5. Noc Walpurgii                                                 |     4 |              15 |
 | `18_intervallo_v_lcb_regular_check_up_PL.md`        | Intervallo V: Okresowe badania LCB                               |    18 |              70 |
 | `19_intervallo_v_nocturnal_sweeping_PL.md`          | Intervallo V: Nocne zamiatanie                                   |     7 |              19 |
-| `20_canto_viii_PL.md`                               | Canto VIII: Skazany na patrzenie                                 |    29 |             102 |
+| `20_canto_viii_PL.md`                               | Canto VIII: Skazany na patrzenie                                 |    34 |             116 |
 | `21_walpurgis_6th_night_PL.md`                      | 6. Noc Walpurgii                                                 |     4 |              12 |
 | `22_intervallo_vi_spring_cultivation_PL.md`         | Intervallo VI: Wiosenne szlify                                   |     6 |              15 |
 | `23_8_5_ex_pilgrimage_of_compassion_PL.md`          | 8.5-EX: Pielgrzymka dobrej woli                                  |    20 |              72 |

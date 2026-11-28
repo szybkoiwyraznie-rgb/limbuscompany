@@ -1,51 +1,8 @@
 # Limbus Company — Canto II: Niekochająca — deploymenty misji
 
-Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData.
+Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData. Walki z Anomaliami bez przypisanego etapu (lochy) → sekcja „Spotkania z Anomalią”.
 
-## Część: Część `1-2`
-
-### Etap 2-1 · Kasyno
-
-- **Fala 1:** Peccatulum Gniewu ×3 (poz. 12)
-
-#### Peccatulum Gniewu
-
-*Wystąpienia: ×3 (poz. 12).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wypalanie (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
-
-##### Umiejętność: Wybuchowy Gniew
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+## Część: Canto II (`1-2`)
 
 ### Etap 2-2 · Lombard
 
@@ -1579,242 +1536,6 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
-### Etap 2-16 · Wejście zawodniczki
-
-- **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
-
-#### Urzekające Różowe Buciki
-
-*Wystąpienia: ×2 (poz. 13).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 68 (+1,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                                   |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                         |
-| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
-| Szybkość           | 2–5                                                                                                                                                       |
-| Progi oszołomienia | 50%                                                                                                                                                       |
-| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Stłumiony Gest
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
-
-##### Umiejętność: Ściskające Pożądania
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
-
-##### Umiejętność: Różowy Taniec
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
-
-**Pasywki:**
-
-- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
-- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
-
-#### Opętane Różowe Buciki
-
-*Wystąpienia: ×2 (poz. 13).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 68 (+1,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                                   |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                         |
-| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
-| Szybkość           | 2–5                                                                                                                                                       |
-| Progi oszołomienia | 50%                                                                                                                                                       |
-| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Stłumiony Gest
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Ściskające Pożądania
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
-
-##### Umiejętność: Różowy Taniec
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
-
-**Pasywki:**
-
-- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
-- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
-
-### Etap 2-17 · Stój no
-
-- **Fala 1:** Peccatulum Lenistwa ×1 (poz. 13); Peccatulum Posępności ×1 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
-
-#### Peccatulum Lenistwa
-
-*Wystąpienia: ×1 (poz. 13).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
-| Szybkość           | 1–2                                                                                                                                        |
-| Progi oszołomienia | 30%                                                                                                                                        |
-| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Przetaczanie (×3)
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
-
-##### Umiejętność: Leniwy Uścisk
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
-
-#### Peccatulum Posępności
-
-*Wystąpienia: ×1 (poz. 13).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 33 (+0,67 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
-| Szybkość           | 4–6                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Strzelanie Serią
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Wybuchająca Posępność
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
-
-#### Opętane Różowe Buciki
-
-*Wystąpienia: ×2 (poz. 13).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 68 (+1,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                                   |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                         |
-| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
-| Szybkość           | 2–5                                                                                                                                                       |
-| Progi oszołomienia | 50%                                                                                                                                                       |
-| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Stłumiony Gest
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
-
-##### Umiejętność: Ściskające Pożądania
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
-
-##### Umiejętność: Różowy Taniec
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
-
-**Pasywki:**
-
-- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
-- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
-
 ### Etap 2-18 · Zwycięzca
 
 - **Fala 1:** Wesoły Członek Gangu Mariachi ×2 (poz. 13); Ożywiony Członek Gangu Mariachi ×2 (poz. 13); Wesoły Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ożywiony Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Wesoły Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ożywiony Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Wesoły Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ożywiony Członek Gangu Mariachi ×1 (poz. 13) (wsparcie); Ayed ×1 (poz. 13) (wsparcie)
@@ -1969,7 +1690,1382 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na początku tury.
 - **Se Acabó la Fiesta** — gdy ta jednostka zostaje pokonana, wszyscy jej sojusznicy tracą 45 Poczytalności.
 
-### Etap 2-19 · Filia J-03
+## Spotkania z Anomalią — Canto II
+
+Walki z Anomaliami tego rozdziału wg danych gry — numer to porządek spotkania; dane nie wskazują, przy której misji lub na którym piętrze lochu każde występuje.
+
+### Spotkanie 1
+
+- **Fala 1:** Peccatulum Gniewu ×3 (poz. 12)
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×3 (poz. 12).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+### Spotkanie 7
+
+- **Fala 1:** Peccatulum Lenistwa ×2 (poz. 13); Peccatulum Gniewu ×2 (poz. 13)
+
+#### Peccatulum Lenistwa
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
+| Szybkość           | 1–2                                                                                                                                        |
+| Progi oszołomienia | 30%                                                                                                                                        |
+| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Przetaczanie (×3)
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
+
+##### Umiejętność: Leniwy Uścisk
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+### Spotkanie 9
+
+- **Fala 1:** Peccatulum Lenistwa ×2 (poz. 13); Czy Zostałem Silniejszy? Naprawdę? ×2 (poz. 13)
+
+#### Peccatulum Lenistwa
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
+| Szybkość           | 1–2                                                                                                                                        |
+| Progi oszołomienia | 30%                                                                                                                                        |
+| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Przetaczanie (×3)
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
+
+##### Umiejętność: Leniwy Uścisk
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+#### Czy Zostałem Silniejszy? Naprawdę?
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mocno Pracuj! (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
+
+##### Umiejętność: Do Pracy…
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+### Spotkanie 10
+
+- **Fala 1:** Peccatulum Gniewu ×2 (poz. 13); Zrobiłem Się Mocny! Serio? ×2 (poz. 13)
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+#### Zrobiłem Się Mocny! Serio?
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Sumiennie!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+### Spotkanie 11
+
+- **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×4 (poz. 13)
+
+#### Czy Zostałem Silniejszy? Naprawdę?
+
+*Wystąpienia: ×4 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mocno Pracuj! (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
+
+##### Umiejętność: Do Pracy…
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+### Spotkanie 12
+
+- **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×2 (poz. 13); Zrobiłem Się Mocny! Serio? ×2 (poz. 13)
+
+#### Czy Zostałem Silniejszy? Naprawdę?
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mocno Pracuj! (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
+
+##### Umiejętność: Do Pracy…
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+#### Zrobiłem Się Mocny! Serio?
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Sumiennie!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+### Spotkanie 13
+
+- **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×1 (poz. 13); Zrobiłem Się Mocny! Serio? ×1 (poz. 13); Chcesz oberwać? Mocno? ×1 (poz. 13)
+
+#### Czy Zostałem Silniejszy? Naprawdę?
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mocno Pracuj! (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
+
+##### Umiejętność: Do Pracy…
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+#### Zrobiłem Się Mocny! Serio?
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Sumiennie!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+#### Chcesz oberwać? Mocno?
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 104 (+3,575 za poziom) |
+| Sloty akcji | start: 1 · maks. 4     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                            |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                  |
+| HP                 | 44 (+1,53 za poziom)                                                                                                               |
+| Szybkość           | 1–2                                                                                                                                |
+| Progi oszołomienia | 40%                                                                                                                                |
+| Odporności         | Kłucie ×1,5; Gniew ×2 (Fatal); Żądza ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Czas Na Robotę!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          9 |         −7 |      1 |    1 |
+
+##### Umiejętność: Do Roboty!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |         13 |        −10 |      1 |    1 |
+
+##### Umiejętność: Ale Radość!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          5 |         −2 |      2 |    1 |
+
+##### Umiejętność: UKA☆RANIE
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          3 |         +6 |      2 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+##### Umiejętność: Nie Zawracaj Mi?!
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          7 |         −2 |      1 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 2 Ochrony.
+
+### Spotkanie 14
+
+- **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×2 (poz. 13); Zrobiłem Się Mocny! Serio? ×2 (poz. 13)
+
+#### Czy Zostałem Silniejszy? Naprawdę?
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mocno Pracuj! (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
+
+##### Umiejętność: Do Pracy…
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+#### Zrobiłem Się Mocny! Serio?
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Sumiennie!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+### Spotkanie 15
+
+- **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×1 (poz. 13); Zrobiłem Się Mocny! Serio? ×1 (poz. 13); Urzekające Różowe Buciki ×2 (poz. 13)
+
+#### Czy Zostałem Silniejszy? Naprawdę?
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Mocno Pracuj! (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
+
+##### Umiejętność: Do Pracy…
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+#### Zrobiłem Się Mocny! Serio?
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość                |
+| ----------- | ---------------------- |
+| Poziom      | 10                     |
+| HP          | 39 (+0,9375 za poziom) |
+| Sloty akcji | start: 1 · maks. 1     |
+| Odporności  | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 40 (+0,96 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Posępność ×1,5 (Weak); Pycha ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
+
+##### Umiejętność: Sumiennie!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
+
+##### Umiejętność: Zajęty...
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
+
+##### Umiejętność: A-L-A-R-M!!!
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |          1 |         +1 |      3 |    1 |
+
+**Pasywki:**
+
+- **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
+
+#### Urzekające Różowe Buciki
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 68 (+1,88 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Stłumiony Gest
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
+
+##### Umiejętność: Ściskające Pożądania
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
+
+##### Umiejętność: Różowy Taniec
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
+
+**Pasywki:**
+
+- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
+- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
+
+### Spotkanie 16
+
+- **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
+
+#### Urzekające Różowe Buciki
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 68 (+1,88 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Stłumiony Gest
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
+
+##### Umiejętność: Ściskające Pożądania
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
+
+##### Umiejętność: Różowy Taniec
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
+
+**Pasywki:**
+
+- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
+- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
+
+#### Opętane Różowe Buciki
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 68 (+1,88 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Stłumiony Gest
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Ściskające Pożądania
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
+
+##### Umiejętność: Różowy Taniec
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
+
+**Pasywki:**
+
+- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
+- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
+
+### Spotkanie 17
+
+- **Fala 1:** Peccatulum Lenistwa ×1 (poz. 13); Peccatulum Posępności ×1 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
+
+#### Peccatulum Lenistwa
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                       |
+| Szybkość           | 1–2                                                                                                                                        |
+| Progi oszołomienia | 30%                                                                                                                                        |
+| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Przetaczanie (×3)
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
+
+##### Umiejętność: Leniwy Uścisk
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+#### Peccatulum Posępności
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
+| Szybkość           | 4–6                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Strzelanie Serią
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Wybuchająca Posępność
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+#### Opętane Różowe Buciki
+
+*Wystąpienia: ×2 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 68 (+1,88 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Stłumiony Gest
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Ściskające Pożądania
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
+
+##### Umiejętność: Różowy Taniec
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
+
+**Pasywki:**
+
+- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
+- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
+
+### Spotkanie 18
+
+- **Fala 1:** Peccatulum Posępności ×1 (poz. 13); Peccatulum Gniewu ×1 (poz. 13); Urzekające Różowe Buciki ×1 (poz. 13); Opętane Różowe Buciki ×1 (poz. 13)
+
+#### Peccatulum Posępności
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                     |
+| Szybkość           | 4–6                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Strzelanie Serią
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Wybuchająca Posępność
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+#### Urzekające Różowe Buciki
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 68 (+1,88 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Stłumiony Gest
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
+
+##### Umiejętność: Ściskające Pożądania
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
+
+##### Umiejętność: Różowy Taniec
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
+
+**Pasywki:**
+
+- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
+- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
+
+#### Opętane Różowe Buciki
+
+*Wystąpienia: ×1 (poz. 13).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 68 (+1,88 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 68 (+1,88 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 50%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Stłumiony Gest
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
+
+##### Umiejętność: Ściskające Pożądania
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
+
+##### Umiejętność: Różowy Taniec
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
+
+**Pasywki:**
+
+- **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
+- **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
+
+### Spotkanie 19
 
 - **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×1 (poz. 13); Zrobiłem Się Mocny! Serio? ×1 (poz. 13); Urzekające Różowe Buciki ×1 (poz. 13); Opętane Różowe Buciki ×1 (poz. 13)
 
@@ -2183,7 +3279,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-### Etap 2-20
+### Spotkanie 20
 
 - **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 13); Opętane Różowe Buciki ×2 (poz. 13)
 
@@ -2287,7 +3383,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-### Etap 2-21
+### Spotkanie 21
 
 - **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 14); Opętane Różowe Buciki ×1 (poz. 14); Stuk-stuk? Marsz! ×1 (poz. 14)
 
@@ -2448,7 +3544,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 - **Wavering Desires** — w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.
 - **Ensnaring Desires** — jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.
 
-### Etap 2-22
+### Spotkanie 22
 
 - **Fala 1:** Peccatulum Posępności ×4 (poz. 14)
 
@@ -2491,7 +3587,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-### Etap 2-23
+### Spotkanie 23
 
 - **Fala 1:** Peccatulum Lenistwa ×2 (poz. 14); Peccatulum Posępności ×2 (poz. 14)
 
@@ -2573,7 +3669,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
 
-### Etap 2-24
+### Spotkanie 24
 
 - **Fala 1:** Peccatulum Posępności ×2 (poz. 14); Zamierający z Zimna Niewolnik Kopalni ×1 (poz. 14); Dygotający Niewolnik Kopalni ×1 (poz. 14)
 
@@ -2714,7 +3810,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-### Etap 2-25
+### Spotkanie 25
 
 - **Fala 1:** Peccatulum Lenistwa ×2 (poz. 14); Zamierający z Zimna Niewolnik Kopalni ×1 (poz. 14); Dygotający Niewolnik Kopalni ×1 (poz. 14)
 
@@ -2855,7 +3951,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-### Etap 2-26
+### Spotkanie 26
 
 - **Fala 1:** Zamierający z Zimna Niewolnik Kopalni ×2 (poz. 14); Dygotający Niewolnik Kopalni ×1 (poz. 14)
 
@@ -2957,7 +4053,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-### Etap 2-27
+### Spotkanie 27
 
 - **Fala 1:** Zamierający z Zimna Niewolnik Kopalni ×1 (poz. 14); Dygotający Niewolnik Kopalni ×2 (poz. 14)
 
@@ -3059,7 +4155,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-### Etap 2-28
+### Spotkanie 28
 
 - **Fala 1:** Sąsiad Zbudzony ze Snu ×2 (poz. 15); Sąsiad Powstały Ponownie ×1 (poz. 15)
 - **Fala 2:** Sąsiad Zbudzony ze Snu ×2 (poz. 15); Sąsiad Powstały Ponownie ×2 (poz. 15)
@@ -3262,7 +4358,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **Shuddering Terror** — zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)
 
-### Etap 2-29
+### Spotkanie 29
 
 - **Fala 1:** Czy Zostałem Silniejszy? Naprawdę? ×2 (poz. 15); Zrobiłem Się Mocny! Serio? ×2 (poz. 15)
 
@@ -3376,7 +4472,7 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 - **You Must Become Strong** — na początku tury zyskuje 1 Ochrony.
 
-### Etap 2-30
+### Spotkanie 30
 
 - **Fala 1:** Urzekające Różowe Buciki ×2 (poz. 15); Opętane Różowe Buciki ×2 (poz. 15)
 

@@ -9,11 +9,18 @@ Pliki grupują etapy według kolejności fabuły (Prolog → Canto I–X → Int
 → Noce Walpurgii → pozostałe wydarzenia), jak seria ``fabula_<LANG>``. Pule
 jednostek części etapów pochodzą z tabel ``enemy``/``abnormality-unit`` (poza
 proceduralnymi Lustrzanymi Lochami); fale z tabel ``battle-story`` (walka
-fabularna) i uzupełniająco ``battle-ab`` (walki z Anomaliami). Nazwy i opisy z
+fabularna). Wiersze ``battle-ab`` (walki z Anomaliami) NIE używają id misji —
+ich id to podrozdział + porządkowy numer spotkania, więc trafiają do sekcji
+„Spotkania z Anomalią” danego rozdziału (poza zakotwiczonymi skryptem
+``TutorialRenewal_*``, np. Loch D-02 = etap 1-11). Nazwy i opisy z
 ``Localize`` (mapowanie przez pole ``nameID``); wersja PL z fallbackiem EN.
+
+Wiersze walk rozdziału 1 są przesunięte o +1 względem id misji (wiersz 10101 =
+misja 1-2) — mapowanie przez kotwice skryptów ``TutorialRenewal_C_N``.
 """
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path, PurePosixPath
@@ -130,6 +137,11 @@ def _fam_label(fam: str) -> str:
     if match:
         canto = int(match.group(1))
         return f"Canto {ROMAN.get(canto, canto)} · część {int(match.group(2))} (`{fam}`)"
+    # ``1-N`` = cały rozdział N (rozdziały 1–4 mają pojedynczą część etapów)
+    match = re.match(r"^1-([1-4])$", fam)
+    if match:
+        canto = int(match.group(1))
+        return f"Canto {ROMAN.get(canto, canto)} (`{fam}`)"
     return f"Część `{fam}`"
 
 
@@ -181,21 +193,126 @@ def _stage_fam_map(texts: Texts) -> dict[int, str]:
 
 
 def _all_waves(static: StaticData, stage_fam: dict[int, str]) -> dict[int, dict]:
-    """stage_id → ``{"waves": [...], "fam": …}``; walka fabularna wygrywa."""
+    """misja → ``{"waves": [...], "fam": …, "encounters": [...]}``; spotkania
+    z Anomaliami głównych rozdziałów idą do osobnych pul (``_ab_pools``)."""
     out: dict[int, dict] = {}
-    for folder, prefix in (("battle-story", "storybattle"), ("battle-ab", "abbattle")):
-        for path in static.files(folder):
-            fam = _family_of(path.stem, prefix)
-            if folder == "battle-story" and path.stem == "stage_Tutorial":
-                fam = "tutorialRenewal"
-            for row in _rows_file(static, f"{folder}/{path.name}"):
-                sid = row.get("id")
-                if not row.get("waveList") or sid is None:
+    remap = _story_mission_remap(static)
+    # 1) walki fabularne: id wiersza = id misji (rozdział 1: przesunięte o +1)
+    for path in static.files("battle-story"):
+        fam = _family_of(path.stem, "storybattle")
+        if path.stem == "stage_Tutorial":
+            fam = "tutorialRenewal"
+        for row in _rows_file(static, f"battle-story/{path.name}"):
+            if not row.get("waveList") or row.get("id") is None:
+                continue
+            sid = remap.get(int(row["id"]), int(row["id"]))
+            rec = out.setdefault(sid, {"waves": [], "fam": stage_fam.get(sid, fam),
+                                       "encounters": []})
+            rec["waves"] += row["waveList"]
+    # 2) walki z Anomaliami: wydarzenia przypisane po id etapu (jak dotąd),
+    #    rozdziały główne — tylko zakotwiczone skryptem; reszta do pul.
+    for path in static.files("battle-ab"):
+        fam = _family_of(path.stem, "abbattle")
+        rows = [r for r in _rows_file(static, f"battle-ab/{path.name}")
+                if r.get("waveList") and r.get("id") is not None]
+        dungeon_mission = None
+        for row in rows:
+            pairs = _row_anchors(row)
+            if pairs:
+                dungeon_mission = _anchor_mission(*pairs[0])
+                break
+        for row in rows:
+            sid = int(row["id"])
+            ch = _ab_chapter(sid)
+            if ch is None:
+                if sid in out:  # walka fabularna wygrywa
                     continue
-                rec = {"waves": row["waveList"], "fam": stage_fam.get(int(sid), fam)}
-                if folder == "battle-story" or int(sid) not in out:
-                    out[int(sid)] = rec
+                out[sid] = {"waves": row["waveList"],
+                            "fam": stage_fam.get(sid, fam), "encounters": []}
+            elif dungeon_mission is not None:
+                rec = out.setdefault(dungeon_mission, {"waves": [], "fam": CHAPTER_FAM[ch],
+                                                       "encounters": []})
+                rec["encounters"].append({"ord": sid % 100, "waves": row["waveList"]})
     return out
+
+
+def _ab_pools(static: StaticData) -> dict[int, list]:
+    """rozdział → nieprzypisane spotkania z Anomaliami (kolejność wg id)."""
+    pools: dict[int, list] = {}
+    for path in static.files("battle-ab"):
+        rows = [r for r in _rows_file(static, f"battle-ab/{path.name}")
+                if r.get("waveList") and r.get("id") is not None]
+        has_dungeon_mission = any(_row_anchors(r) for r in rows
+                                  if _ab_chapter(int(r["id"])) is not None)
+        for row in rows:
+            sid = int(row["id"])
+            ch = _ab_chapter(sid)
+            if ch is None or has_dungeon_mission:
+                continue  # wydarzenia i loch rozdz. 1 obsłuży _all_waves
+            pools.setdefault(ch, []).append(
+                {"ord": sid % 100, "waves": row["waveList"],
+                 "fam": CHAPTER_FAM[ch]})
+    for recs in pools.values():
+        recs.sort(key=lambda r: r["ord"])
+    return pools
+
+
+CHAPTER_FAM = {1: "1-1", 2: "1-2", 3: "1-3", 4: "1-4", 5: "a1c5p1", 6: "a1c6p1",
+               7: "a1c7p1", 8: "a1c8p1", 9: "a1c9p1", 10: "a1c10p1"}
+ANCHOR_RE = re.compile(r"TutorialRenewal_(\d+)_(\d+)")
+
+
+def _row_anchors(row: dict) -> list[tuple[int, int]]:
+    """Kotwice misji ze skryptów ``TutorialRenewal_C_N`` wiersza walki."""
+    scripts = row.get("stageScriptList") or []
+    if isinstance(scripts, str):
+        try:
+            scripts = json.loads(scripts)
+        except Exception:
+            scripts = [scripts]
+    out = []
+    for script in scripts or []:
+        match = ANCHOR_RE.search(str(script))
+        if match:
+            out.append((int(match.group(1)), int(match.group(2))))
+    return out
+
+
+def _anchor_mission(chapter: int, number: int) -> int:
+    """Kotwica ``TutorialRenewal_C_N`` → id misji (``1CCNN``)."""
+    return (100 + chapter) * 100 + number
+
+
+def _ab_chapter(sid: int) -> int | None:
+    """Rozdział z id wiersza battle-ab (``1CCNN`` / loch rozdz. 1 = ``1001NN``)."""
+    text = str(sid)
+    if len(text) == 5 and text[0] == "1" and text[1:3].isdigit():
+        return int(text[1:3])
+    if 100100 <= sid <= 100199:
+        return 1
+    return None
+
+
+def _story_mission_remap(static: StaticData) -> dict[int, int]:
+    """id wiersza battle-story → id misji; dla plików z kotwicami niepasującymi
+    do id (rozdział 1) stosuje wspólne przesunięcie także dla wierszy bez kotwic."""
+    remap: dict[int, int] = {}
+    for path in static.files("battle-story"):
+        rows = [r for r in _rows_file(static, f"battle-story/{path.name}")
+                if r.get("waveList") and r.get("id") is not None]
+        anchored = [(int(r["id"]), _anchor_mission(*_row_anchors(r)[0]))
+                    for r in rows if _row_anchors(r)]
+        if not anchored:
+            continue
+        offsets = {mission - rid for rid, mission in anchored}
+        if len(offsets) == 1 and offsets != {0}:
+            off = offsets.pop()
+            for r in rows:
+                remap[int(r["id"])] = int(r["id"]) + off
+        else:
+            for rid, mission in anchored:
+                remap[rid] = mission
+    return remap
 
 
 def _uid2static(static: StaticData) -> dict[int, tuple[str, dict]]:
@@ -463,17 +580,25 @@ class Context:
         self.panic_map = _panic_map(texts.snapshot)
         self.stage_fam = _stage_fam_map(texts)
         self.waves = _all_waves(self.static, self.stage_fam)
+        self.pools = _ab_pools(self.static)
         self.families = _families(self.static)
         for rec in self.waves.values():
             self.families.setdefault(rec["fam"], {}).setdefault("waves", True)
+        for recs in self.pools.values():
+            for rec in recs:
+                self.families.setdefault(rec["fam"], {}).setdefault("waves", True)
         self.used_uids: set[int] = set()
-        for rec in self.waves.values():
-            for wave in rec["waves"]:
-                for bucket in ("unitList", "subUnitList"):
-                    for unit in wave.get(bucket) or []:
-                        uid = int(unit.get("unitID", 0) or 0)
-                        if uid:
-                            self.used_uids.add(uid)
+        all_waves = [w for rec in self.waves.values() for w in rec["waves"]]
+        all_waves += [w for rec in self.waves.values()
+                      for enc in rec["encounters"] for w in enc["waves"]]
+        all_waves += [w for recs in self.pools.values()
+                      for rec in recs for w in rec["waves"]]
+        for wave in all_waves:
+            for bucket in ("unitList", "subUnitList"):
+                for unit in wave.get(bucket) or []:
+                    uid = int(unit.get("unitID", 0) or 0)
+                    if uid:
+                        self.used_uids.add(uid)
         self.unit2fam: dict[int, str] = {}
         for fam, flags in self.families.items():
             for rel, kind in self._fam_tables(fam):
@@ -572,11 +697,22 @@ def _stage_block(ctx: Context, out: list[str], sid: int) -> None:
         if title:
             heading += f" · {title}"
     out += [heading, ""]
+    all_waves = list(rec["waves"])
     for wi, wave in enumerate(rec["waves"], 1):
         line = _wave_line(ctx.enemies_loc, ctx.unit2nameid, wave)
         out += [f"- **Fala {wi}:** {line}"]
-    out.append("")
-    for uid, occ in _occurrences(ctx, rec["waves"]).items():
+    if rec["waves"]:
+        out.append("")
+    if rec["encounters"]:
+        out += ["Spotkania z Anomaliami (loch; kolejność wg danych gry):", ""]
+        for enc in rec["encounters"]:
+            out += [f"**Spotkanie {enc['ord']}**", ""]
+            for wi, wave in enumerate(enc["waves"], 1):
+                line = _wave_line(ctx.enemies_loc, ctx.unit2nameid, wave)
+                out += [f"- **Fala {wi}:** {line}"]
+            out.append("")
+            all_waves += enc["waves"]
+    for uid, occ in _occurrences(ctx, all_waves).items():
         ctx.card(out, uid, occ)
 
 
@@ -609,7 +745,33 @@ INTRO = ("Dla każdego etapu: fale przeciwników, a pod nimi pełne karty"
          " (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z"
          " częściami). Dane celowo powtarzają się między etapami. „poz.” ="
          " poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca;"
-         " „×N” = liczba sztuk. Wartości bazowe z StaticData.")
+         " „×N” = liczba sztuk. Wartości bazowe z StaticData. Walki z Anomaliami"
+         " bez przypisanego etapu (lochy) → sekcja „Spotkania z Anomalią”.")
+
+POOL_INTRO = ("Walki z Anomaliami tego rozdziału wg danych gry — numer to"
+              " porządek spotkania; dane nie wskazują, przy której misji lub"
+              " na którym piętrze lochu każde występuje.")
+
+
+def _pool_section(ctx: Context, out: list[str], chapter: int,
+                  records: list[dict]) -> tuple[int, int]:
+    """Sekcja spotkań z Anomaliami rozdziału → (spotkania, karty)."""
+    if not records:
+        return 0, 0
+    label = f"Canto {ROMAN.get(chapter, chapter)}"
+    out += [f"## Spotkania z Anomalią — {label}", "", POOL_INTRO, ""]
+    encounters = cards = 0
+    for rec in records:
+        out += [f"### Spotkanie {rec['ord']}", ""]
+        for wi, wave in enumerate(rec["waves"], 1):
+            line = _wave_line(ctx.enemies_loc, ctx.unit2nameid, wave)
+            out += [f"- **Fala {wi}:** {line}"]
+        out.append("")
+        for uid, occ in _occurrences(ctx, rec["waves"]).items():
+            ctx.card(out, uid, occ)
+            cards += 1
+        encounters += 1
+    return encounters, cards
 
 
 def _slug_numbered(n: int, slug: str) -> str:
@@ -648,6 +810,12 @@ def build_deployments_series(texts: Texts, lang: str, out_dir: Path) -> list[dic
             stages += s
             cards += c
             any_content = any_content or bool(s or c)
+        for chapter, pool_fam in CHAPTER_FAM.items():
+            if pool_fam in fams:
+                e, c = _pool_section(ctx, out, chapter, ctx.pools.get(chapter, []))
+                stages += e
+                cards += c
+                any_content = any_content or bool(e or c)
         if not any_content:
             continue
         write_file(slug, title, out, stages, cards)

@@ -251,9 +251,14 @@ powtarzają między etapami):
 * pliki grupują etapy według kolejności fabuły, jak seria `fabula_PL`
   (Prolog → Canto I–X → Intervallo → Noce Walpurgii → inne wydarzenia →
   zestaw wspólny); tytuły części zgodne ze spisem `fabula_PL`;
-* fale: `battle-story` (walka fabularna; 457 stage'ów z `waveList`, w tym
-  `stage_Tutorial` = Prolog), uzupełniająco `battle-ab` (walki z Anomaliami;
-  walka fabularna wygrywa kolizje);
+* fale: `battle-story` (walka fabularna; id wiersza = id misji, w rozdziale 1
+  wiersze są przesunięte o +1 — mapowanie kotwicami skryptów
+  `TutorialRenewal_C_N` z E-025; etapy czysto fabularne jak 1-1 nie mają
+  wiersza i nie renderują się wcale), uzupełniająco `battle-ab` — jego id NIE
+  są id misji (podrozdział + porządkowy numer spotkania): pliki wydarzeń
+  przypisywane po id etapu jak dotąd, rozdziały główne tylko zakotwiczone
+  skryptem (Loch D-02 = etap 1-11 jako „Spotkanie N”), reszta → sekcja
+  „Spotkania z Anomalią — Canto N” na końcu pliku rozdziału (E-025);
 * karty bez technicznych identyfikatorów (E-023): nagłówki „Nazwa” zamiast
   „Nazwa — id NNN”; statystyki (poziom, HP z przyrostem, szybkość, sloty
   akcji, progi oszołomienia, poczytalność z progami Niskiego

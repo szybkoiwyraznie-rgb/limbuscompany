@@ -899,3 +899,49 @@ potwierdza **0 nagłówków bez poprzedzającej pustej linii**.
   `76d758f1aa0d71bf371796b86ab22b6b63e4c7db22a7f7b19ad8a6f0fd0bacb8`;
   Drive `1inkiQ5DS5_cd3Ej2a4JyLclcpdyA3ITX`; v7 w koszu. Patch v6 bez zmian.
 - **Testy:** `76/76`.
+
+## E-025 · 2026-11-28 · Fale czysto fabularnych etapów i przesunięte misje rozdz. 1 (zgłoszenie z gry) — Czytanki v9
+
+**Zgłoszenie:** właściciel (gra w Canto I): „1-1 jest czysto fabularna, nie ma
+żadnej walki" — czytanka pokazywała fale chuliganów pod „Etap 1-1 ·
+Brum-brum", a kolejne etapy były przesunięte o jeden.
+
+**Diagnoza (dane + wiki jako ground truth):** wiersze `battle-story` rozdziału
+1 są przesunięte o +1 względem id misji (wiersz 10101 = misja 1-2 „Dance
+Time"): kotwice skryptów `TutorialRenewal_C_N` (10101 → 1-2) i wiki (1-1 =
+story episode, no battle; jednostki 1-2..1-10) zgadzają się po przesunięciu.
+Dla rozdziałów 2+ id wiersza = id misji (wiersz 10202 = wiki 2-2 „The
+Pawnshop": 90004 ×3 + wzmocnienia 90005/90007, Lv 6 = `unitCount` +
+`subUnitList` wiersza ✓). Wiersze `battle-ab` NIE używają id misji — id =
+podrozdział + porządkowy numer spotkania z Anomalią (dowody: ab „2-16/2-17"
+istnieją, a wiki podaje 2-16/2-17 = czysto fabularne; ab „5-13..5-15" — wiki
+bez walk; ab 10220..10230 = loch J-03: Pink Shoes, Baba Yaga; wyjątek
+potwierdzony: ab 10403 = „Focused Encounter" misji 4-3 wg wiki). Stary kod
+przypinał ab do misji o zbieżnych id (fałszywe „Etap 2-1 · Kasyno" z
+anomaliami, „Etap 2-20..2-30", surowe „Etap 100101") i gubił 85 wierszy ab w
+kolizjach z story.
+
+**Fix (`tools/build_deployments.py`):**
+- **(a) Remap misji:** kotwice `TutorialRenewal_C_N` → id misji; gdy wszystkie
+  kotwice pliku mają jedno przesunięcie ≠ 0, stosowane też dla wierszy bez
+  kotwic (rozdział 1: +1). Prolog i rozdziały 2–10: bez zmian (offset 0).
+- **(b) battle-ab odpięte od id misji:** rozdziały główne — tylko wiersze z
+  kotwicą (Loch D-02: wszystkie 12 wierszy 1001NN → etap 1-11 „Filia D-02"
+  jako „Spotkanie N"); pozostałe → sekcja „Spotkania z Anomalią — Canto N"
+  na końcu pliku rozdziału (kolejność = porządkowy numer; nagłówek „Spotkanie
+  N", bez fałszywych numerów misji). Pliki wydarzeń (id 91CCNN ⊂ etapy
+  wydarzeń) — przypisanie po id bez zmian.
+- **(c) Konsekwencje:** etapy czysto fabularne (1-1, 2-1, 2-16/2-17, 3-1,
+  5-13..5-15, 7-1..7-2 itd.) zniknęły z serii deploymentów; odzyskane 85
+  wierszy anomalii renderuje się w pulach rozdziałów II/III/IV/V/VII/VIII
+  (24/25/18/8/9/15 spotkań); karta ×0 „Peccatulum Irae??" z puli Canto VI
+  znikła (jednostka ląduje w puli Canto VII, gdzie faktycznie jest walka);
+  etykiety części rozdziałów 1–4: „Część `1-N`" → „Canto N (`1-N`)".
+- **Pozostawione (bez kotwic, poza zakresem):** surowe nagłówki „Etap
+  1100401"/„Etap 110999" (sekcja RPG Canto X) i „Etap 20250401" (wydarzenie)
+  — zgłosić właścicielowi przy okazji.
+- **Czytanki v9:** `dist/LCB_Czytanki_PL_2026-11-28_v9.zip` = 99 plików MD,
+  2 532 807 B, SHA-256
+  `2f198dc2c7a7743b044abc1ba2c47625d1d73355f9d95f0d728038eaee06ea25`;
+  Drive `1ZdqbWMCSPpIK6eUhSpTcWXDRhsvC9r0R`; v8 w koszu. Patch v6 bez zmian.
+- **Testy:** `76/76`. `docs/CZYTANKI.md` i `docs/STATUS.md` zaktualizowane.

@@ -1,6 +1,6 @@
 # Limbus Company — Canto V: Uznana za zło — deploymenty misji
 
-Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData.
+Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData. Walki z Anomaliami bez przypisanego etapu (lochy) → sekcja „Spotkania z Anomalią”.
 
 ## Część: Canto V · część 1 (`a1c5p1`)
 
@@ -1645,537 +1645,6 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze
 - **To the Front Lines!!** — zyskując Ochronę, przy Szybkości 1 zyskuje dodatkowo 1 Ochrony.
 - **Ain't That a Prick?** — przy trafieniu, jeżeli cel ma Krwawienie, przywraca SP równe Krwawieniu celu
-
-### Etap 5-13 · Pilot
-
-- **Fala 1:** Peccatulum Lenistwa ×2 (poz. 39); Peccatulum Posępności ×1 (poz. 39); Peccatulum Pychy ×2 (poz. 39)
-
-#### Peccatulum Lenistwa
-
-*Wystąpienia: ×2 (poz. 39).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 65 (+2,7 za poziom)   |
-| Sloty akcji | start: 1 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                          |
-| HP                 | 48 (+1,28 za poziom)                                                                                                                       |
-| Szybkość           | 1–2                                                                                                                                        |
-| Progi oszołomienia | 30%                                                                                                                                        |
-| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Przetaczanie (×3)
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Leniwy Uścisk
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
-
-#### Peccatulum Posępności
-
-*Wystąpienia: ×1 (poz. 39).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 65 (+2,25 za poziom)  |
-| Sloty akcji | start: 1 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 48 (+1,07 za poziom)                                                                                                                     |
-| Szybkość           | 4–6                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Strzelanie Serią
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          2 |         +4 |      2 |    1 |
-
-##### Umiejętność: Wybuchająca Posępność
-
-| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Obuch |          4 |         +6 |      1 |    1 |
-
-#### Peccatulum Pychy
-
-*Wystąpienia: ×2 (poz. 39).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 65 (+2,25 za poziom)  |
-| Sloty akcji | start: 1 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                    |
-| HP                 | 48 (+1,07 za poziom)                                                                                                                 |
-| Szybkość           | 3–5                                                                                                                                  |
-| Progi oszołomienia | 40%                                                                                                                                  |
-| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Grinding
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Dumne Miażdżenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
-
-### Etap 5-14 · Pilot 2
-
-- **Fala 1:** Dream-Devouring Siltcurrent ×1 (poz. 40); Flotsam ×1 (poz. 40) (wsparcie)
-
-#### Dream-Devouring Siltcurrent
-
-*Wystąpienia: ×1 (poz. 40).*
-
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 438 (+16,61 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                                       |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                             |
-| HP                 | 350 (+13,29 za poziom)                                                                                                                                        |
-| Szybkość           | 2–4                                                                                                                                                           |
-| Progi oszołomienia | 50% / 0%                                                                                                                                                      |
-| Odporności         | Obuch ×0,5; Gniew ×0,75 (Endured); Żądza ×0,5 (Ineff.); Posępność ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Fluorescence
-
-| Parametr           | Wartość                                                                                                                                                                    |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                                          |
-| HP                 | 131 (+4,98 za poziom)                                                                                                                                                      |
-| Szybkość           | 2–4                                                                                                                                                                        |
-| Progi oszołomienia | 0% / -50%                                                                                                                                                                  |
-| Odporności         | Kłucie ×1,5; Obuch ×0,5; Gniew ×0,75 (Endured); Żądza ×0,5 (Ineff.); Posępność ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Bodnięcie Głową
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +5 |      1 |    1 |
-
-##### Umiejętność: Waliszenie
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +3 |      2 |    1 |
-
-##### Umiejętność: Ugniatanie
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          5 |         +4 |      2 |    1 |
-
-##### Umiejętność: Zaślepiona Obsesja
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |         15 |         +2 |      4 |    1 |
-
-##### Umiejętność: Uderzający Prąd Mułu
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |          4 |         +1 |      2 |    6 |
-
-##### Umiejętność: Zabłąkana Zaślepota
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Obuch |         15 |         +5 |      1 |    1 |
-
-##### Umiejętność: Zamiatanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Kłucie |          4 |         +4 |      2 |    1 |
-
-##### Umiejętność: Wiercenie
-
-| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Posępność | Kłucie |         10 |         +5 |      1 |    1 |
-
-**Pasywki:**
-
-- **Expanding Oxygen** — gdy część Fluorescence zostaje zniszczona, nakłada [Odłamek Świetlówki] wszystkim wrogom.
-część Fluorescence odrasta po 2 turach.
-- **Oddychanie Pod Wodą** — od 2. tury, jeżeli część Fluorescence nie jest zniszczona, zyskuje 8 Oddechu w tej turze.
-zwiększa Licznik Oddechu o 3. od 2. tury, jeżeli część Fluorescence jest zniszczona, zyskuje w tej turze 2 Paraliżu i 2 Spadek Obrażeń.
-- **Siltcurrent** — od 2. tury nakłada 1 Wiązania i 1 Paraliżu Tożsamościom bez [Odłamek Świetlówki]; Tożsamości bez [Odłamek Świetlówki] tracą 3 SP.
-
-#### Flotsam
-
-*Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 21 (+0,72 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Flotsam
-
-| Parametr   | Wartość                                                                                                                                   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom     | —                                                                                                                                         |
-| HP         | 21 (+0,72 za poziom)                                                                                                                      |
-| Szybkość   | 1–1                                                                                                                                       |
-| Odporności | Cięcie ×2; Kłucie ×2; Obuch ×2; Lenistwo ×1,5 (Weak); Posępność ×0,75 (Endured); Pycha ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-**Pasywki:**
-
-- **Harden** — otrzymuje obrażenia tylko przy wartości równej lub wyższej niż 12.
-obrażenia poniżej 12 są zerowane.
-- **Rolling Flotsam** — gdy Dream-Devouring Siltcurrent użyje Blind Obsession, a ta jednostka nie zostanie zniszczona do końca tury, zadaje 20 obrażeń losowej Tożsamości.
-- **Destroyed Flotsam** — przy śmierci HP nie spada poniżej 1.
-staje się Destroyed Flotsam.
-
-### Etap 5-15 · Lody
-
-- **Fala 1:** Ahab ×1 (poz. 40); Queequeg ×1 (poz. 40); Starbuck ×1 (poz. 40)
-
-#### Ahab
-
-*Wystąpienia: ×1 (poz. 40).*
-
-| Parametr     | Wartość                                                      |
-| ------------ | ------------------------------------------------------------ |
-| Poziom       | 2                                                            |
-| HP           | 250 (+9 za poziom)                                           |
-| Sloty akcji  | start: 5 · maks. 5                                           |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
-| Typ paniki   | Skaza                                                        |
-| Odporności   | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
-**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                 |
-| ------------------ | ----------------------- |
-| Poziom             | —                       |
-| HP                 | 250 (+9 za poziom)      |
-| Szybkość           | 2–3                     |
-| Progi oszołomienia | 60% / 30% / 0%          |
-| Odporności         | Kłucie ×1,5; Pycha ×1,2 |
-
-*Opis:* Część
-
-##### Umiejętność: Słuchaj Moich Rozkazów
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: unik |          3 |        +10 |      1 |    1 |
-
-##### Umiejętność: Do mnie!
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | obrona: blok |         15 |         +5 |      1 |    1 |
-
-##### Umiejętność: Gonicie Ich Do Końca!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Kłucie |          4 |         +8 |      1 |    1 |
-
-##### Umiejętność: Harpun Weterana
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Kłucie |          3 |         +3 |      2 |    1 |
-
-##### Umiejętność: Płonący Harpun
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
-
-##### Umiejętność: Głupstwo!
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: unik |          3 |         +8 |      1 |    1 |
-
-##### Umiejętność: Wydal Tchnienie!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
-
-##### Umiejętność: Hartowanie Śmierci
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          6 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
-- **Captain of the Pequod** — Początek tury: przy SP innym niż -45 przywraca 15 SP.
-Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
-- **Muddled Orders** — gdy ta jednostka przechodzi w Oszołamienie, na koniec tury, jeżeli SP wszystkich pozostałych sojuszników jest poniżej 0, ich SP wraca do 0.
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Queequeg
-
-*Wystąpienia: ×1 (poz. 40).*
-
-| Parametr     | Wartość                                        |
-| ------------ | ---------------------------------------------- |
-| Poziom       | 2                                              |
-| HP           | 300 (+15,8 za poziom)                          |
-| Sloty akcji  | start: 5 · maks. 5                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
-| Typ paniki   | Blada Panika                                   |
-| Odporności   | Cięcie ×0,5; Obuch ×1,5; Zawiść ×1,25          |
-
-**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
-**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
-Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                  |
-| ------------------ | ------------------------ |
-| Poziom             | —                        |
-| HP                 | 300 (+15,8 za poziom)    |
-| Szybkość           | 1–2                      |
-| Progi oszołomienia | 50% / 0% / -50%          |
-| Odporności         | Obuch ×1,5; Zawiść ×1,25 |
-
-*Opis:* Część
-
-##### Umiejętność: Harpunowanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Przebijający Harpun
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
-
-##### Umiejętność: Tropienie Zdobyczy
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
-
-##### Umiejętność: Przecięcie Gardła
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
-
-##### Umiejętność: Głęboki Oddech
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: blok |          8 |         +1 |      1 |    1 |
-
-##### Umiejętność: Muszę... Chronić
-
-| Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | obrona: kontra |          4 |         +4 |      1 |    1 |
-
-##### Umiejętność: Harpun Uporu
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |         14 |         −3 |      3 |    1 |
-
-##### Umiejętność: Trzeba Skończyć Polowanie...
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |         18 |        −10 |      1 |    3 |
-
-**Pasywki:**
-
-- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
-- **Captain's Orders** — Początek tury: przy SP innym niż -45 przywraca (liczba innych żyjących sojuszników x 5) SP.
-Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki i SP wraca do 0.
-- **Mutilated Tattoos** — za każdym razem, gdy ginie sojusznik frakcji Pequod Town, traci 1 Licznika Oddechu i 10 SP.
-- **The Indomitable Harpooneer** — im niższe HP tej jednostki, tym więcej obrażeń zadają jej Umiejętności.
-- **Clouded Mind** — gdy przechodzi w Oszołamienie i przy SP poniżej 0 na koniec tury, jej SP wraca do 0.
-- **Engraved Hatred and Animosity** — przy 1 HP przywraca HP do 50% Maks. HP i zyskuje 2 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Starbuck
-
-*Wystąpienia: ×1 (poz. 40).*
-
-| Parametr     | Wartość                                                      |
-| ------------ | ------------------------------------------------------------ |
-| Poziom       | 2                                                            |
-| HP           | 200 (+6,5 za poziom)                                         |
-| Sloty akcji  | start: 5 · maks. 5                                           |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
-| Typ paniki   | Blada Panika                                                 |
-| Odporności   | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
-**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
-Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                   |
-| ------------------ | ------------------------- |
-| Poziom             | —                         |
-| HP                 | 200 (+6,5 za poziom)      |
-| Szybkość           | 3–5                       |
-| Progi oszołomienia | 70% / 40% / 20% / 0%      |
-| Odporności         | Kłucie ×1,5; Obżar. ×1,25 |
-
-*Opis:* Część
-
-##### Umiejętność: Przebicie na Wylot
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Kłucie |          3 |         +2 |      3 |    1 |
-
-##### Umiejętność: Przebijające Dzierżenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
-
-##### Umiejętność: Wykonuję Rozkazy...
-
-| Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | obrona: kontra |          5 |         +5 |      1 |    1 |
-
-##### Umiejętność: Zasadzka
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          6 |         +9 |      1 |    1 |
-
-##### Umiejętność: Westchnienie Strachu
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |         12 |         −3 |      3 |    1 |
-
-##### Umiejętność: Harpun Determinacji
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |         16 |         −5 |      2 |    1 |
-
-##### Umiejętność: Aby Się Stąd Wyrwać...
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |         20 |        −10 |      1 |    1 |
-
-##### Umiejętność: (bez nazwy)
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |          5 |         +5 |      1 |    1 |
-
-**Pasywki:**
-
-- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
-- **Captain's Orders** — Początek tury: przy SP innym niż -45 przywraca (liczba innych żyjących sojuszników x 5) SP.
-Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki i SP wraca do 0.
-- **Puncturing Harpoon** — przy trafieniu krytycznym nakłada o 1 więcej negatywnych Efektów efektami Umiejętności.
-- **Clouded Mind** — gdy przechodzi w Oszołamienie i przy SP poniżej 0 na koniec tury, jej SP wraca do 0.
-- **Engraved Hatred and Animosity** — Koniec tury: przy 50% HP lub mniej zyskuje 2 Pośpiechu i 2 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
 
 ### Etap 5-16 · Piraci
 
@@ -5845,542 +5314,6 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 ## Pula Canto V · część 3 (`a1c5p3`) — jednostki bez przypisanego etapu
 
-#### Skin Prophet
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 380 (+14,4 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                                              |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                                    |
-| HP                 | 380 (+14,4 za poziom)                                                                                                                                                |
-| Szybkość           | 2–4                                                                                                                                                                  |
-| Progi oszołomienia | 50% / 0%                                                                                                                                                             |
-| Odporności         | Cięcie ×1,2; Obuch ×0,5; Żądza ×0,5 (Ineff.); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wszystko Się Rozpadnie
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
-
-##### Umiejętność: Tęsknota...
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
-
-##### Umiejętność: 9:2
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |         20 |         −4 |      2 |    7 |
-
-##### Umiejętność: 6:5
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |         20 |         −4 |      2 |    1 |
-
-##### Umiejętność: Wszystko Będzie Wyjawione
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
-
-##### Umiejętność: Wszystko Spłonie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
-
-##### Umiejętność: Nie Pogardzaj Przepowiednią
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | obrona: kontra |          5 |         +5 |      1 |    1 |
-
-**Pasywki:**
-
-- **Darkness Deterred** — co 4 tury od zgaszenia światła, jeżeli są zgaszone Candle, zapala je sama. HP wszystkich Candle spada do 1.
-
-#### Ambling Pearl
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 470 (+19,45 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Muszla
-
-| Parametr           | Wartość                                                                                                                                                                  |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                                                        |
-| HP                 | 165 (+6,81 za poziom)                                                                                                                                                    |
-| Szybkość           | 1–3                                                                                                                                                                      |
-| Progi oszołomienia | 50% / 0% / -50%                                                                                                                                                          |
-| Odporności         | Cięcie ×0,7; Kłucie ×0,7; Obuch ×0,7; Gniew ×0,7; Żądza ×0,7; Lenistwo ×0,7; Obżar. ×0,7; Posępność ×0,7; Pycha ×0,7; Zawiść ×0,7; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Pearl
-
-| Parametr           | Wartość                                                       |
-| ------------------ | ------------------------------------------------------------- |
-| Poziom             | —                                                             |
-| HP                 | 306 (+12 za poziom)                                           |
-| Szybkość           | 1–3                                                           |
-| Progi oszołomienia | 50%                                                           |
-| Odporności         | Gniew ×1,2; Pycha ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Toksykiczny Śluz
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
-
-##### Umiejętność: Korozyjny Śluz
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
-
-##### Umiejętność: Płyn Porażający
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Obuch |          5 |         +4 |      2 |    1 |
-
-##### Umiejętność: Płyn Podżerający
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Obżar. | Kłucie |          4 |         +6 |      2 |    1 |
-
-##### Umiejętność: Wrzący Zielony Śluz
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |         15 |        +10 |      1 |    5 |
-
-##### Umiejętność: Drapieżność
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |         50 |         +1 |      1 |    1 |
-
-##### Umiejętność: Przepełniająca Trucizna
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: unik |          8 |         +8 |      1 |    1 |
-
-**Pasywki:**
-
-- **Obnażona Perła** — Początek tury: jeżeli jej Green Slime wynosi 0, przechodzi w Oszołamienie. Odporności Afinności Pearl maleją o 0.5 każda.
-gdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.
-- **Zbierający Się Śluz** — w turze użycia Devouring Fluid Szybkość tej części wynosi 1.
-
-#### ???
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                                      |
-| ------------ | ------------------------------------------------------------ |
-| Poziom       | 2                                                            |
-| HP           | 300 (+15 za poziom)                                          |
-| Sloty akcji  | start: 4 · maks. 4                                           |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
-| Typ paniki   | Blada Panika                                                 |
-| Odporności   | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
-**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
-Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość             |
-| ------------------ | ------------------- |
-| Poziom             | —                   |
-| HP                 | 300 (+15 za poziom) |
-| Szybkość           | 1–2                 |
-| Progi oszołomienia | 50% / 0% / -50%     |
-| Odporności         | Obuch ×2            |
-
-*Opis:* Część
-
-##### Umiejętność: Początek Polowania
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Harpunowanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Przebijający Harpun
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
-
-##### Umiejętność: Głęboki Wdech
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: kontra |          4 |         +3 |      2 |    1 |
-
-##### Umiejętność: Kontra
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | obrona: kontra |          3 |         +5 |      1 |    1 |
-
-##### Umiejętność: Tropienie Zdobyczy
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
-
-##### Umiejętność: Przecięcie Gardła
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
-
-**Pasywki:**
-
-- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
-- **Captain's Orders** — Początek tury: przy SP innym niż -45 przywraca (liczba innych żyjących sojuszników x 5) SP.
-Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki i SP wraca do 0.
-- **Mutilated Tattoos** — za każdym razem, gdy ginie sojusznik frakcji Pequod Town, traci 1 Licznika Oddechu i 10 SP.
-- **The Indomitable Harpooneer** — im niższe HP tej jednostki, tym więcej obrażeń zadają jej Umiejętności.
-- **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% Maks. HP lub mniej przechodzi do Fazy 2.
-do rozpoczęcia Fazy 2 jej HP nie spada poniżej 1.
-Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na początku każdej tury nakłada [Piętno Zdobyczy] na 1 wroga z najniższym procentem aktualnego HP.
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Effloresced E.G.O::GasHarpoon
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                                        |
-| ------------ | -------------------------------------------------------------- |
-| Poziom       | 2                                                              |
-| HP           | 280 (+9,5 za poziom)                                           |
-| Sloty akcji  | start: 6 · maks. 6                                             |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                 |
-| Typ paniki   | Skaza                                                          |
-| Odporności   | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
-
-**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
-**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                        |
-| ------------------ | -------------------------------------------------------------- |
-| Poziom             | —                                                              |
-| HP                 | 280 (+9,5 za poziom)                                           |
-| Szybkość           | 2–3                                                            |
-| Progi oszołomienia | 50% / 0% / -20%                                                |
-| Odporności         | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
-
-*Opis:* Część
-
-##### Umiejętność: Spróbuj Mnie Dobić!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
-
-##### Umiejętność: Sztych na Śmierć
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
-
-##### Umiejętność: Nieśmiertelna Dusza
-
-| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | obrona: unik |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Poblakła Niewinność
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
-
-##### Umiejętność: Ciężar Poczucia Winy
-
-| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Obuch |          8 |         +2 |      1 |    3 |
-
-**Pasywki:**
-
-- **Price of Nobility** — za każdym razem, gdy zyskuje Ego innych postaci, Poziom Ataku i Poziom Obrony rosną
-po przegranej w Starciu z określoną Umiejętnością traci SP
-- **Ahab** — Początek tury: przy SP innym niż -45 przywraca 15 SP.
-Koniec tury: jeżeli jest w Panice, dochodzi do siebie, SP wraca do 0, a w następnej turze zyskuje 2 Wzrost Mocy Ataku i 2 Wzrost Mocy Obrony.
-- **Pip's Sin and Innocence** — Początek fazy: zyskuje 20 Pipów.
-Koniec tury: przywraca 3 SP za każde 1 Pipy.
-Koniec tury: jeżeli [Ego Pipa] wynosi 0, przechodzi w Oszołamienie w następnej turze.
-- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
-
-#### Candle
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 11 (+0,39 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Candle
-
-| Parametr   | Wartość                                                                                                                                     |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom     | —                                                                                                                                           |
-| HP         | 11 (+0,39 za poziom)                                                                                                                        |
-| Szybkość   | 1–1                                                                                                                                         |
-| Odporności | Żądza ×0,5 (Ineff.); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Rozpalony Żar
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          5 |         +5 |      1 |    1 |
-
-##### Umiejętność: Aby Nie Zgasło
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | obrona: kontra |          2 |         +2 |      1 |    1 |
-
-**Pasywki:**
-
-- **Burning Embers** — HP nie spada poniżej 1.
-przy 1 HP zapala Candle i używa Umiejętności ataku.
-- **Sinking Darkness** — gdy wszystkie Candle są zapalone, używa Umiejętności obrony.
-gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
-
-#### Green Slime
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 11 (+0,36 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Green Slime
-
-| Parametr   | Wartość                                                       |
-| ---------- | ------------------------------------------------------------- |
-| Poziom     | —                                                             |
-| HP         | 11 (+0,36 za poziom)                                          |
-| Szybkość   | 1–2                                                           |
-| Odporności | Gniew ×1,2; Pycha ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętności
-
-*Brak danych o umiejętnościach.*
-
-**Pasywki:**
-
-- **Green Slime** — gdy zostaje pokonana przez Ambling Pearl, Ambling Pearl zyskuje 3 Green Slime.
-- **Skażający Śluz** — Koniec tury: nakłada (2 + liczba żyjących Green Slime) Zatrucia wszystkim wrogom.
-
-#### Blinded Pequod Town Villager
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                                       |
-| ------------ | ------------------------------------------------------------- |
-| Poziom       | 2                                                             |
-| HP           | 26 (+0,75 za poziom)                                          |
-| Sloty akcji  | start: 1 · maks. 1                                            |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                |
-| Typ paniki   | Blada Panika                                                  |
-| Odporności   | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
-**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
-Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | —                    |
-| HP                 | 26 (+0,75 za poziom) |
-| Szybkość           | 1–2                  |
-| Progi oszołomienia | 60% / 20%            |
-| Odporności         | Kłucie ×2            |
-
-*Opis:* Część
-
-##### Umiejętność: Pchnięcie (×2)
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Rozdzieranie Ran
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |          3 |         +4 |      3 |    1 |
-
-##### Umiejętność: Chrońcie Miasteczko!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
-
-##### Umiejętność: Oszczep Splatujący
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
-
-##### Umiejętność: Garda
-
-| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | obrona: blok |         10 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
-- **Captain's Orders** — Początek tury: przywraca (liczba innych żyjących sojuszników x 3) SP.
-- **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
-- **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
-
-#### Gagged Pequod Town Villager
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr     | Wartość                                                       |
-| ------------ | ------------------------------------------------------------- |
-| Poziom       | 2                                                             |
-| HP           | 26 (+0,75 za poziom)                                          |
-| Sloty akcji  | start: 1 · maks. 1                                            |
-| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                |
-| Typ paniki   | Blada Panika                                                  |
-| Odporności   | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
-**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
-Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | —                    |
-| HP                 | 26 (+0,75 za poziom) |
-| Szybkość           | 1–2                  |
-| Progi oszołomienia | 60% / 20%            |
-| Odporności         | Kłucie ×2            |
-
-*Opis:* Część
-
-##### Umiejętność: Seria Pchnięć (×2)
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |          3 |         +4 |      2 |    1 |
-
-##### Umiejętność: Wyzłobienie Rany
-
-| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | Kłucie |          4 |         +2 |      4 |    1 |
-
-##### Umiejętność: Chrońcie Miasteczko!
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
-
-##### Umiejętność: Włócznia Pojmująca
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
-
-##### Umiejętność: Unik
-
-| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Lenistwo | obrona: unik |          3 |        +10 |      1 |    1 |
-
-**Pasywki:**
-
-- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
-- **Captain's Orders** — Początek tury: przywraca (liczba innych żyjących sojuszników x 3) SP.
-- **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
-- **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
-
 #### ???
 
 *Wystąpienia: ×0 (poz. —).*
@@ -6849,3 +5782,1211 @@ Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 - **Captain's Orders** — Początek tury: przywraca (liczba innych żyjących sojuszników x 3) SP.
 - **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
 - **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
+
+## Spotkania z Anomalią — Canto V
+
+Walki z Anomaliami tego rozdziału wg danych gry — numer to porządek spotkania; dane nie wskazują, przy której misji lub na którym piętrze lochu każde występuje.
+
+### Spotkanie 6
+
+- **Fala 1:** ??? ×1 (poz. 39); Blinded Pequod Town Villager ×1 (poz. 39) (wsparcie); Gagged Pequod Town Villager ×1 (poz. 39) (wsparcie)
+
+#### ???
+
+*Wystąpienia: ×1 (poz. 39).*
+
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 300 (+15 za poziom)                                          |
+| Sloty akcji  | start: 4 · maks. 4                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Blada Panika                                                 |
+| Odporności   | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość             |
+| ------------------ | ------------------- |
+| Poziom             | —                   |
+| HP                 | 300 (+15 za poziom) |
+| Szybkość           | 1–2                 |
+| Progi oszołomienia | 50% / 0% / -50%     |
+| Odporności         | Obuch ×2            |
+
+*Opis:* Część
+
+##### Umiejętność: Początek Polowania
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Harpunowanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Przebijający Harpun
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
+
+##### Umiejętność: Głęboki Wdech
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Kontra
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: kontra |          3 |         +5 |      1 |    1 |
+
+##### Umiejętność: Tropienie Zdobyczy
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
+
+##### Umiejętność: Przecięcie Gardła
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
+
+**Pasywki:**
+
+- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
+- **Captain's Orders** — Początek tury: przy SP innym niż -45 przywraca (liczba innych żyjących sojuszników x 5) SP.
+Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki i SP wraca do 0.
+- **Mutilated Tattoos** — za każdym razem, gdy ginie sojusznik frakcji Pequod Town, traci 1 Licznika Oddechu i 10 SP.
+- **The Indomitable Harpooneer** — im niższe HP tej jednostki, tym więcej obrażeń zadają jej Umiejętności.
+- **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% Maks. HP lub mniej przechodzi do Fazy 2.
+do rozpoczęcia Fazy 2 jej HP nie spada poniżej 1.
+Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na początku każdej tury nakłada [Piętno Zdobyczy] na 1 wroga z najniższym procentem aktualnego HP.
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Blinded Pequod Town Villager
+
+*Wystąpienia: ×1 (poz. 39) · też jako wsparcie.*
+
+| Parametr     | Wartość                                                       |
+| ------------ | ------------------------------------------------------------- |
+| Poziom       | 2                                                             |
+| HP           | 26 (+0,75 za poziom)                                          |
+| Sloty akcji  | start: 1 · maks. 1                                            |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki   | Blada Panika                                                  |
+| Odporności   | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość              |
+| ------------------ | -------------------- |
+| Poziom             | —                    |
+| HP                 | 26 (+0,75 za poziom) |
+| Szybkość           | 1–2                  |
+| Progi oszołomienia | 60% / 20%            |
+| Odporności         | Kłucie ×2            |
+
+*Opis:* Część
+
+##### Umiejętność: Pchnięcie (×2)
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Rozdzieranie Ran
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |          3 |         +4 |      3 |    1 |
+
+##### Umiejętność: Chrońcie Miasteczko!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
+
+##### Umiejętność: Oszczep Splatujący
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
+
+##### Umiejętność: Garda
+
+| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | obrona: blok |         10 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
+- **Captain's Orders** — Początek tury: przywraca (liczba innych żyjących sojuszników x 3) SP.
+- **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
+- **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
+
+#### Gagged Pequod Town Villager
+
+*Wystąpienia: ×1 (poz. 39) · też jako wsparcie.*
+
+| Parametr     | Wartość                                                       |
+| ------------ | ------------------------------------------------------------- |
+| Poziom       | 2                                                             |
+| HP           | 26 (+0,75 za poziom)                                          |
+| Sloty akcji  | start: 1 · maks. 1                                            |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki   | Blada Panika                                                  |
+| Odporności   | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość              |
+| ------------------ | -------------------- |
+| Poziom             | —                    |
+| HP                 | 26 (+0,75 za poziom) |
+| Szybkość           | 1–2                  |
+| Progi oszołomienia | 60% / 20%            |
+| Odporności         | Kłucie ×2            |
+
+*Opis:* Część
+
+##### Umiejętność: Seria Pchnięć (×2)
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |          3 |         +4 |      2 |    1 |
+
+##### Umiejętność: Wyzłobienie Rany
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |          4 |         +2 |      4 |    1 |
+
+##### Umiejętność: Chrońcie Miasteczko!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
+
+##### Umiejętność: Włócznia Pojmująca
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
+
+##### Umiejętność: Unik
+
+| Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | obrona: unik |          3 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
+- **Captain's Orders** — Początek tury: przywraca (liczba innych żyjących sojuszników x 3) SP.
+- **Wstrzyknięta Nienawiść i Wrogość** — Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
+- **Crashing Pallidification** — Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.
+
+### Spotkanie 9
+
+- **Fala 1:** Ambling Pearl ×1 (poz. 39); Green Slime ×1 (poz. 39) (wsparcie)
+
+#### Ambling Pearl
+
+*Wystąpienia: ×1 (poz. 39).*
+
+| Parametr   | Wartość                |
+| ---------- | ---------------------- |
+| Poziom     | —                      |
+| HP         | 470 (+19,45 za poziom) |
+| Odporności | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Muszla
+
+| Parametr           | Wartość                                                                                                                                                                  |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                                                        |
+| HP                 | 165 (+6,81 za poziom)                                                                                                                                                    |
+| Szybkość           | 1–3                                                                                                                                                                      |
+| Progi oszołomienia | 50% / 0% / -50%                                                                                                                                                          |
+| Odporności         | Cięcie ×0,7; Kłucie ×0,7; Obuch ×0,7; Gniew ×0,7; Żądza ×0,7; Lenistwo ×0,7; Obżar. ×0,7; Posępność ×0,7; Pycha ×0,7; Zawiść ×0,7; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Pearl
+
+| Parametr           | Wartość                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Poziom             | —                                                             |
+| HP                 | 306 (+12 za poziom)                                           |
+| Szybkość           | 1–3                                                           |
+| Progi oszołomienia | 50%                                                           |
+| Odporności         | Gniew ×1,2; Pycha ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Toksykiczny Śluz
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Korozyjny Śluz
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Płyn Porażający
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Obuch |          5 |         +4 |      2 |    1 |
+
+##### Umiejętność: Płyn Podżerający
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          4 |         +6 |      2 |    1 |
+
+##### Umiejętność: Wrzący Zielony Śluz
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |         15 |        +10 |      1 |    5 |
+
+##### Umiejętność: Drapieżność
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |         50 |         +1 |      1 |    1 |
+
+##### Umiejętność: Przepełniająca Trucizna
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: unik |          8 |         +8 |      1 |    1 |
+
+**Pasywki:**
+
+- **Obnażona Perła** — Początek tury: jeżeli jej Green Slime wynosi 0, przechodzi w Oszołamienie. Odporności Afinności Pearl maleją o 0.5 każda.
+gdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.
+- **Zbierający Się Śluz** — w turze użycia Devouring Fluid Szybkość tej części wynosi 1.
+
+#### Green Slime
+
+*Wystąpienia: ×1 (poz. 39) · też jako wsparcie.*
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | 11 (+0,36 za poziom)  |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Green Slime
+
+| Parametr   | Wartość                                                       |
+| ---------- | ------------------------------------------------------------- |
+| Poziom     | —                                                             |
+| HP         | 11 (+0,36 za poziom)                                          |
+| Szybkość   | 1–2                                                           |
+| Odporności | Gniew ×1,2; Pycha ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+**Pasywki:**
+
+- **Green Slime** — gdy zostaje pokonana przez Ambling Pearl, Ambling Pearl zyskuje 3 Green Slime.
+- **Skażający Śluz** — Koniec tury: nakłada (2 + liczba żyjących Green Slime) Zatrucia wszystkim wrogom.
+
+### Spotkanie 10
+
+- **Fala 1:** Peccatulum Obżarstwa ×2 (poz. 38); Peccatulum Posępności ×2 (poz. 38); Peccatulum Gniewu ×1 (poz. 38)
+
+#### Peccatulum Obżarstwa
+
+*Wystąpienia: ×2 (poz. 38).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 65 (+2,46 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                       |
+| HP                 | 48 (+1,18 za poziom)                                                                                                                    |
+| Szybkość           | 1–4                                                                                                                                     |
+| Progi oszołomienia | 50%                                                                                                                                     |
+| Odporności         | Cięcie ×2; Gniew ×2 (Fatal); Obżar. ×0,75 (Endured); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Bite (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Chciwe Żarcie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
+
+#### Peccatulum Posępności
+
+*Wystąpienia: ×2 (poz. 38).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 65 (+2,25 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 48 (+1,07 za poziom)                                                                                                                     |
+| Szybkość           | 4–6                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Strzelanie Serią
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          2 |         +4 |      2 |    1 |
+
+##### Umiejętność: Wybuchająca Posępność
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          4 |         +6 |      1 |    1 |
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×1 (poz. 38).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 65 (+2,02 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 48 (+0,96 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          5 |        +10 |      1 |    1 |
+
+### Spotkanie 12
+
+- **Fala 1:** Skin Prophet ×1 (poz. 39); Candle ×4 (poz. 39)
+
+#### Skin Prophet
+
+*Wystąpienia: ×1 (poz. 39).*
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | 380 (+14,4 za poziom) |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                                              |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                                    |
+| HP                 | 380 (+14,4 za poziom)                                                                                                                                                |
+| Szybkość           | 2–4                                                                                                                                                                  |
+| Progi oszołomienia | 50% / 0%                                                                                                                                                             |
+| Odporności         | Cięcie ×1,2; Obuch ×0,5; Żądza ×0,5 (Ineff.); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wszystko Się Rozpadnie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
+
+##### Umiejętność: Tęsknota...
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |          5 |         +3 |      2 |    1 |
+
+##### Umiejętność: 9:2
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Obuch |         20 |         −4 |      2 |    7 |
+
+##### Umiejętność: 6:5
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |         20 |         −4 |      2 |    1 |
+
+##### Umiejętność: Wszystko Będzie Wyjawione
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
+
+##### Umiejętność: Wszystko Spłonie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
+
+##### Umiejętność: Nie Pogardzaj Przepowiednią
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | obrona: kontra |          5 |         +5 |      1 |    1 |
+
+**Pasywki:**
+
+- **Darkness Deterred** — co 4 tury od zgaszenia światła, jeżeli są zgaszone Candle, zapala je sama. HP wszystkich Candle spada do 1.
+
+#### Candle
+
+*Wystąpienia: ×4 (poz. 39).*
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | 11 (+0,39 za poziom)  |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Candle
+
+| Parametr   | Wartość                                                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom     | —                                                                                                                                           |
+| HP         | 11 (+0,39 za poziom)                                                                                                                        |
+| Szybkość   | 1–1                                                                                                                                         |
+| Odporności | Żądza ×0,5 (Ineff.); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Pycha ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Rozpalony Żar
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          5 |         +5 |      1 |    1 |
+
+##### Umiejętność: Aby Nie Zgasło
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | obrona: kontra |          2 |         +2 |      1 |    1 |
+
+**Pasywki:**
+
+- **Burning Embers** — HP nie spada poniżej 1.
+przy 1 HP zapala Candle i używa Umiejętności ataku.
+- **Sinking Darkness** — gdy wszystkie Candle są zapalone, używa Umiejętności obrony.
+gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
+
+### Spotkanie 13
+
+- **Fala 1:** Peccatulum Lenistwa ×2 (poz. 39); Peccatulum Posępności ×1 (poz. 39); Peccatulum Pychy ×2 (poz. 39)
+
+#### Peccatulum Lenistwa
+
+*Wystąpienia: ×2 (poz. 39).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 65 (+2,7 za poziom)   |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                          |
+| HP                 | 48 (+1,28 za poziom)                                                                                                                       |
+| Szybkość           | 1–2                                                                                                                                        |
+| Progi oszołomienia | 30%                                                                                                                                        |
+| Odporności         | Obuch ×2; Lenistwo ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×2 (Fatal); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Przetaczanie (×3)
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Leniwy Uścisk
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
+
+#### Peccatulum Posępności
+
+*Wystąpienia: ×1 (poz. 39).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 65 (+2,25 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 48 (+1,07 za poziom)                                                                                                                     |
+| Szybkość           | 4–6                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Kłucie ×2; Gniew ×0,75 (Endured); Obżar. ×2 (Fatal); Posępność ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Strzelanie Serią
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          2 |         +4 |      2 |    1 |
+
+##### Umiejętność: Wybuchająca Posępność
+
+| Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Obuch |          4 |         +6 |      1 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×2 (poz. 39).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 65 (+2,25 za poziom)  |
+| Sloty akcji | start: 1 · maks. 2    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 48 (+1,07 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+### Spotkanie 14
+
+- **Fala 1:** Dream-Devouring Siltcurrent ×1 (poz. 40); Flotsam ×1 (poz. 40) (wsparcie)
+
+#### Dream-Devouring Siltcurrent
+
+*Wystąpienia: ×1 (poz. 40).*
+
+| Parametr   | Wartość                |
+| ---------- | ---------------------- |
+| Poziom     | —                      |
+| HP         | 438 (+16,61 za poziom) |
+| Odporności | wszystkie ×1 (Normal)  |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                                                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                             |
+| HP                 | 350 (+13,29 za poziom)                                                                                                                                        |
+| Szybkość           | 2–4                                                                                                                                                           |
+| Progi oszołomienia | 50% / 0%                                                                                                                                                      |
+| Odporności         | Obuch ×0,5; Gniew ×0,75 (Endured); Żądza ×0,5 (Ineff.); Posępność ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Fluorescence
+
+| Parametr           | Wartość                                                                                                                                                                    |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                                          |
+| HP                 | 131 (+4,98 za poziom)                                                                                                                                                      |
+| Szybkość           | 2–4                                                                                                                                                                        |
+| Progi oszołomienia | 0% / -50%                                                                                                                                                                  |
+| Odporności         | Kłucie ×1,5; Obuch ×0,5; Gniew ×0,75 (Endured); Żądza ×0,5 (Ineff.); Posępność ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Bodnięcie Głową
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +5 |      1 |    1 |
+
+##### Umiejętność: Waliszenie
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +3 |      2 |    1 |
+
+##### Umiejętność: Ugniatanie
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          5 |         +4 |      2 |    1 |
+
+##### Umiejętność: Zaślepiona Obsesja
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |         15 |         +2 |      4 |    1 |
+
+##### Umiejętność: Uderzający Prąd Mułu
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |          4 |         +1 |      2 |    6 |
+
+##### Umiejętność: Zabłąkana Zaślepota
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Obuch |         15 |         +5 |      1 |    1 |
+
+##### Umiejętność: Zamiatanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          4 |         +4 |      2 |    1 |
+
+##### Umiejętność: Wiercenie
+
+| Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Posępność | Kłucie |         10 |         +5 |      1 |    1 |
+
+**Pasywki:**
+
+- **Expanding Oxygen** — gdy część Fluorescence zostaje zniszczona, nakłada [Odłamek Świetlówki] wszystkim wrogom.
+część Fluorescence odrasta po 2 turach.
+- **Oddychanie Pod Wodą** — od 2. tury, jeżeli część Fluorescence nie jest zniszczona, zyskuje 8 Oddechu w tej turze.
+zwiększa Licznik Oddechu o 3. od 2. tury, jeżeli część Fluorescence jest zniszczona, zyskuje w tej turze 2 Paraliżu i 2 Spadek Obrażeń.
+- **Siltcurrent** — od 2. tury nakłada 1 Wiązania i 1 Paraliżu Tożsamościom bez [Odłamek Świetlówki]; Tożsamości bez [Odłamek Świetlówki] tracą 3 SP.
+
+#### Flotsam
+
+*Wystąpienia: ×1 (poz. 40) · też jako wsparcie.*
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | —                     |
+| HP         | 21 (+0,72 za poziom)  |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Flotsam
+
+| Parametr   | Wartość                                                                                                                                   |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom     | —                                                                                                                                         |
+| HP         | 21 (+0,72 za poziom)                                                                                                                      |
+| Szybkość   | 1–1                                                                                                                                       |
+| Odporności | Cięcie ×2; Kłucie ×2; Obuch ×2; Lenistwo ×1,5 (Weak); Posępność ×0,75 (Endured); Pycha ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętności
+
+*Brak danych o umiejętnościach.*
+
+**Pasywki:**
+
+- **Harden** — otrzymuje obrażenia tylko przy wartości równej lub wyższej niż 12.
+obrażenia poniżej 12 są zerowane.
+- **Rolling Flotsam** — gdy Dream-Devouring Siltcurrent użyje Blind Obsession, a ta jednostka nie zostanie zniszczona do końca tury, zadaje 20 obrażeń losowej Tożsamości.
+- **Destroyed Flotsam** — przy śmierci HP nie spada poniżej 1.
+staje się Destroyed Flotsam.
+
+### Spotkanie 15
+
+- **Fala 1:** Ahab ×1 (poz. 40); Queequeg ×1 (poz. 40); Starbuck ×1 (poz. 40)
+
+#### Ahab
+
+*Wystąpienia: ×1 (poz. 40).*
+
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 250 (+9 za poziom)                                           |
+| Sloty akcji  | start: 5 · maks. 5                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Skaza                                                        |
+| Odporności   | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                 |
+| ------------------ | ----------------------- |
+| Poziom             | —                       |
+| HP                 | 250 (+9 za poziom)      |
+| Szybkość           | 2–3                     |
+| Progi oszołomienia | 60% / 30% / 0%          |
+| Odporności         | Kłucie ×1,5; Pycha ×1,2 |
+
+*Opis:* Część
+
+##### Umiejętność: Słuchaj Moich Rozkazów
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: unik |          3 |        +10 |      1 |    1 |
+
+##### Umiejętność: Do mnie!
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | obrona: blok |         15 |         +5 |      1 |    1 |
+
+##### Umiejętność: Gonicie Ich Do Końca!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          4 |         +8 |      1 |    1 |
+
+##### Umiejętność: Harpun Weterana
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         +3 |      2 |    1 |
+
+##### Umiejętność: Płonący Harpun
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
+
+##### Umiejętność: Głupstwo!
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: unik |          3 |         +8 |      1 |    1 |
+
+##### Umiejętność: Wydal Tchnienie!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
+
+##### Umiejętność: Hartowanie Śmierci
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          6 |        +10 |      1 |    1 |
+
+**Pasywki:**
+
+- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
+- **Captain of the Pequod** — Początek tury: przy SP innym niż -45 przywraca 15 SP.
+Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
+- **Muddled Orders** — gdy ta jednostka przechodzi w Oszołamienie, na koniec tury, jeżeli SP wszystkich pozostałych sojuszników jest poniżej 0, ich SP wraca do 0.
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Queequeg
+
+*Wystąpienia: ×1 (poz. 40).*
+
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 2                                              |
+| HP           | 300 (+15,8 za poziom)                          |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Blada Panika                                   |
+| Odporności   | Cięcie ×0,5; Obuch ×1,5; Zawiść ×1,25          |
+
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                  |
+| ------------------ | ------------------------ |
+| Poziom             | —                        |
+| HP                 | 300 (+15,8 za poziom)    |
+| Szybkość           | 1–2                      |
+| Progi oszołomienia | 50% / 0% / -50%          |
+| Odporności         | Obuch ×1,5; Zawiść ×1,25 |
+
+*Opis:* Część
+
+##### Umiejętność: Harpunowanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Przebijający Harpun
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
+
+##### Umiejętność: Tropienie Zdobyczy
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
+
+##### Umiejętność: Przecięcie Gardła
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
+
+##### Umiejętność: Głęboki Oddech
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | obrona: blok |          8 |         +1 |      1 |    1 |
+
+##### Umiejętność: Muszę... Chronić
+
+| Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+##### Umiejętność: Harpun Uporu
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |         14 |         −3 |      3 |    1 |
+
+##### Umiejętność: Trzeba Skończyć Polowanie...
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |         18 |        −10 |      1 |    3 |
+
+**Pasywki:**
+
+- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
+- **Captain's Orders** — Początek tury: przy SP innym niż -45 przywraca (liczba innych żyjących sojuszników x 5) SP.
+Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki i SP wraca do 0.
+- **Mutilated Tattoos** — za każdym razem, gdy ginie sojusznik frakcji Pequod Town, traci 1 Licznika Oddechu i 10 SP.
+- **The Indomitable Harpooneer** — im niższe HP tej jednostki, tym więcej obrażeń zadają jej Umiejętności.
+- **Clouded Mind** — gdy przechodzi w Oszołamienie i przy SP poniżej 0 na koniec tury, jej SP wraca do 0.
+- **Engraved Hatred and Animosity** — przy 1 HP przywraca HP do 50% Maks. HP i zyskuje 2 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+#### Starbuck
+
+*Wystąpienia: ×1 (poz. 40).*
+
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 200 (+6,5 za poziom)                                         |
+| Sloty akcji  | start: 5 · maks. 5                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Blada Panika                                                 |
+| Odporności   | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                   |
+| ------------------ | ------------------------- |
+| Poziom             | —                         |
+| HP                 | 200 (+6,5 za poziom)      |
+| Szybkość           | 3–5                       |
+| Progi oszołomienia | 70% / 40% / 20% / 0%      |
+| Odporności         | Kłucie ×1,5; Obżar. ×1,25 |
+
+*Opis:* Część
+
+##### Umiejętność: Przebicie na Wylot
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          3 |         +2 |      3 |    1 |
+
+##### Umiejętność: Przebijające Dzierżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
+
+##### Umiejętność: Wykonuję Rozkazy...
+
+| Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | obrona: kontra |          5 |         +5 |      1 |    1 |
+
+##### Umiejętność: Zasadzka
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          6 |         +9 |      1 |    1 |
+
+##### Umiejętność: Westchnienie Strachu
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |         12 |         −3 |      3 |    1 |
+
+##### Umiejętność: Harpun Determinacji
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |         16 |         −5 |      2 |    1 |
+
+##### Umiejętność: Aby Się Stąd Wyrwać...
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |         20 |        −10 |      1 |    1 |
+
+##### Umiejętność: (bez nazwy)
+
+| Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Kłucie |          5 |         +5 |      1 |    1 |
+
+**Pasywki:**
+
+- **Suppressed Pallidification** — Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)
+- **Captain's Orders** — Początek tury: przy SP innym niż -45 przywraca (liczba innych żyjących sojuszników x 5) SP.
+Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki i SP wraca do 0.
+- **Puncturing Harpoon** — przy trafieniu krytycznym nakłada o 1 więcej negatywnych Efektów efektami Umiejętności.
+- **Clouded Mind** — gdy przechodzi w Oszołamienie i przy SP poniżej 0 na koniec tury, jej SP wraca do 0.
+- **Engraved Hatred and Animosity** — Koniec tury: przy 50% HP lub mniej zyskuje 2 Pośpiechu i 2 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.
+
+### Spotkanie 16
+
+- **Fala 1:** Effloresced E.G.O::GasHarpoon ×1 (poz. 40)
+
+#### Effloresced E.G.O::GasHarpoon
+
+*Wystąpienia: ×1 (poz. 40).*
+
+| Parametr     | Wartość                                                        |
+| ------------ | -------------------------------------------------------------- |
+| Poziom       | 2                                                              |
+| HP           | 280 (+9,5 za poziom)                                           |
+| Sloty akcji  | start: 6 · maks. 6                                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki   | Skaza                                                          |
+| Odporności   | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
+
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Korpus
+
+| Parametr           | Wartość                                                        |
+| ------------------ | -------------------------------------------------------------- |
+| Poziom             | —                                                              |
+| HP                 | 280 (+9,5 za poziom)                                           |
+| Szybkość           | 2–3                                                            |
+| Progi oszołomienia | 50% / 0% / -20%                                                |
+| Odporności         | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
+
+*Opis:* Część
+
+##### Umiejętność: Spróbuj Mnie Dobić!
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
+
+##### Umiejętność: Sztych na Śmierć
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
+
+##### Umiejętność: Nieśmiertelna Dusza
+
+| Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | obrona: unik |          4 |         +7 |      1 |    1 |
+
+##### Umiejętność: Poblakła Niewinność
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
+
+##### Umiejętność: Ciężar Poczucia Winy
+
+| Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Lenistwo | Obuch |          8 |         +2 |      1 |    3 |
+
+**Pasywki:**
+
+- **Price of Nobility** — za każdym razem, gdy zyskuje Ego innych postaci, Poziom Ataku i Poziom Obrony rosną
+po przegranej w Starciu z określoną Umiejętnością traci SP
+- **Ahab** — Początek tury: przy SP innym niż -45 przywraca 15 SP.
+Koniec tury: jeżeli jest w Panice, dochodzi do siebie, SP wraca do 0, a w następnej turze zyskuje 2 Wzrost Mocy Ataku i 2 Wzrost Mocy Obrony.
+- **Pip's Sin and Innocence** — Początek fazy: zyskuje 20 Pipów.
+Koniec tury: przywraca 3 SP za każde 1 Pipy.
+Koniec tury: jeżeli [Ego Pipa] wynosi 0, przechodzi w Oszołamienie w następnej turze.
+- **Panika zablokowana** — gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.

@@ -1,90 +1,8 @@
 # Limbus Company — Canto III: Unikający — deploymenty misji
 
-Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData.
+Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData. Walki z Anomaliami bez przypisanego etapu (lochy) → sekcja „Spotkania z Anomalią”.
 
-## Część: Część `1-3`
-
-### Etap 3-1 · Nucenie
-
-- **Fala 1:** Peccatulum Gniewu ×2 (poz. 23); Peccatulum Pychy ×1 (poz. 23)
-
-#### Peccatulum Gniewu
-
-*Wystąpienia: ×2 (poz. 23).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wypalanie (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
-
-##### Umiejętność: Wybuchowy Gniew
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
-
-#### Peccatulum Pychy
-
-*Wystąpienia: ×1 (poz. 23).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 33 (+0,67 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                    |
-| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
-| Szybkość           | 3–5                                                                                                                                  |
-| Progi oszołomienia | 40%                                                                                                                                  |
-| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Grinding
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
-
-##### Umiejętność: Dumne Miażdżenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+## Część: Canto III (`1-3`)
 
 ### Etap 3-2 · Kontrola
 
@@ -684,302 +602,6 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 - **HP Bullets** — na początku tury przywraca 15 HP
 przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
-
-### Etap 3-7 · Siegfried
-
-- **Fala 1:** Inkwizytor Idący Naprzód ×1 (poz. 24); Inkwizytor Mający Wszystko ×1 (poz. 24)
-
-#### Inkwizytor Idący Naprzód
-
-*Wystąpienia: ×1 (poz. 24).*
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 10                    |
-| HP         | 141 (+3,9 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Prawe Ramię
-
-| Parametr           | Wartość                                                                                                                                              |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                    |
-| HP                 | 99 (+2,73 za poziom)                                                                                                                                 |
-| Szybkość           | 1–4                                                                                                                                                  |
-| Progi oszołomienia | 50%                                                                                                                                                  |
-| Odporności         | Cięcie ×0,5; Kłucie ×0,75; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Pycha ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Dziwne Oczy
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
-
-##### Umiejętność: Niedoskonała Imitacja
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Poprawa Skorupy
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
-
-##### Umiejętność: Wybuch Kości
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          4 |         +2 |      2 |    1 |
-
-**Pasywki:**
-
-- **Pulsating Arms** — na początku tury zyskuje Wzrost Mocy Ataku i Ochrony w liczbie równej Licznikowi Instynktów.
-- **Damaged Arms** — traci 1 Instynkt za każdym razem, gdy jednostka otrzyma obrażenia od ataków.
-- **Regenerating Shell** — na koniec tury, jeżeli jednostka nie otrzymała obrażeń od ataków w tej turze, przywraca 5% HP i zyskuje 1 Instynkt.
-- **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
-przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
-
-#### Inkwizytor Mający Wszystko
-
-*Wystąpienia: ×1 (poz. 24).*
-
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 10                    |
-| HP         | 167 (+5,19 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                              |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                    |
-| HP                 | 117 (+3,63 za poziom)                                                                                                                                |
-| Szybkość           | 1–4                                                                                                                                                  |
-| Progi oszołomienia | 50%                                                                                                                                                  |
-| Odporności         | Cięcie ×0,5; Kłucie ×0,75; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Pycha ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Dziwne Oczy
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
-
-##### Umiejętność: Niedoskonała Imitacja
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
-
-##### Umiejętność: Poprawa Skorupy
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
-
-##### Umiejętność: Wybuch Kości
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          4 |         +2 |      2 |    1 |
-
-**Pasywki:**
-
-- **Pulsating Arms** — na początku tury zyskuje Wzrost Mocy Ataku i Ochrony w liczbie równej Licznikowi Instynktów.
-- **Damaged Arms** — traci 1 Instynkt za każdym razem, gdy jednostka otrzyma obrażenia od ataków.
-- **Regenerating Shell** — na koniec tury, jeżeli jednostka nie otrzymała obrażeń od ataków w tej turze, przywraca 5% HP i zyskuje 1 Instynkt.
-- **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
-przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
-
-### Etap 3-8 · Znów Effie-zod. I Saude
-
-- **Fala 1:** Peccatulum Żądzy ×1 (poz. 24); Peccatulum Pychy ×2 (poz. 24)
-
-#### Peccatulum Żądzy
-
-*Wystąpienia: ×1 (poz. 24).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 33 (+0,67 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                    |
-| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
-| Szybkość           | 1–3                                                                                                                                  |
-| Progi oszołomienia | 50%                                                                                                                                  |
-| Odporności         | Cięcie ×2; Żądza ×0,75 (Endured); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Ściągnięcie
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
-
-##### Umiejętność: Przebijające Pożądanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
-
-#### Peccatulum Pychy
-
-*Wystąpienia: ×2 (poz. 24).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 33 (+0,67 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Poziom             | —                                                                                                                                    |
-| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
-| Szybkość           | 3–5                                                                                                                                  |
-| Progi oszołomienia | 40%                                                                                                                                  |
-| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Grinding
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
-
-##### Umiejętność: Dumne Miażdżenie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
-
-### Etap 3-9 · Umowa z tamtego dnia
-
-- **Fala 1:** Pełzający Inkwizytor ×1 (poz. 24); Peccatulum Gniewu ×2 (poz. 24)
-
-#### Pełzający Inkwizytor
-
-*Wystąpienia: ×1 (poz. 24).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 131 (+3,16 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                                   |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                                         |
-| HP                 | 131 (+3,16 za poziom)                                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                                       |
-| Progi oszołomienia | 25%                                                                                                                                                       |
-| Odporności         | Cięcie ×2; Kłucie ×0,75; Gniew ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×0,75 (Endured); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Clawing
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
-
-##### Umiejętność: Wypatrywanie
-
-| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
-|    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
-
-##### Umiejętność: Ślepy Szturm
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Żądza  | Kłucie |          2 |         +3 |      2 |    1 |
-
-**Pasywki:**
-
-- **Amplified Aggression** — gdy jednostka zostanie trafiona atakiem, zyskuje 1 Instynkt.
-jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
-- **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
-
-#### Peccatulum Gniewu
-
-*Wystąpienia: ×2 (poz. 24).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 33 (+0,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-*Opis:* Główne Ciało
-
-**Części (anatomia):**
-
-##### Tułów
-
-| Parametr           | Wartość                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                        |
-| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
-| Szybkość           | 2–5                                                                                                                                      |
-| Progi oszołomienia | 60%                                                                                                                                      |
-| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
-
-*Opis:* Część
-
-##### Umiejętność: Wypalanie (×3)
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
-
-##### Umiejętność: Wybuchowy Gniew
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
 
 ### Etap 3-10 · Inkwizytorzy
 
@@ -3589,7 +3211,961 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 - **Noble be Thy Sacrifice** — gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.
 - **Joy of Execution** — po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.
 
-### Etap 3-23
+## Spotkania z Anomalią — Canto III
+
+Walki z Anomaliami tego rozdziału wg danych gry — numer to porządek spotkania; dane nie wskazują, przy której misji lub na którym piętrze lochu każde występuje.
+
+### Spotkanie 1
+
+- **Fala 1:** Peccatulum Gniewu ×2 (poz. 23); Peccatulum Pychy ×1 (poz. 23)
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×2 (poz. 23).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×1 (poz. 23).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+### Spotkanie 2
+
+- **Fala 1:** Peccatulum Gniewu ×1 (poz. 23); Peccatulum Żądzy ×1 (poz. 23); Peccatulum Pychy ×1 (poz. 23)
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×1 (poz. 23).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+#### Peccatulum Żądzy
+
+*Wystąpienia: ×1 (poz. 23).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 1–3                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                  |
+| Odporności         | Cięcie ×2; Żądza ×0,75 (Endured); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Ściągnięcie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Przebijające Pożądanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×1 (poz. 23).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+### Spotkanie 5
+
+- **Fala 1:** Peccatulum Gniewu ×2 (poz. 23); Peccatulum Żądzy ×1 (poz. 23)
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×2 (poz. 23).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+#### Peccatulum Żądzy
+
+*Wystąpienia: ×1 (poz. 23).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 1–3                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                  |
+| Odporności         | Cięcie ×2; Żądza ×0,75 (Endured); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Ściągnięcie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Przebijające Pożądanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+### Spotkanie 6
+
+- **Fala 1:** Peccatulum Żądzy ×2 (poz. 24); Peccatulum Pychy ×1 (poz. 24)
+
+#### Peccatulum Żądzy
+
+*Wystąpienia: ×2 (poz. 24).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 1–3                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                  |
+| Odporności         | Cięcie ×2; Żądza ×0,75 (Endured); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Ściągnięcie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Przebijające Pożądanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×1 (poz. 24).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+### Spotkanie 7
+
+- **Fala 1:** Inkwizytor Idący Naprzód ×1 (poz. 24); Inkwizytor Mający Wszystko ×1 (poz. 24)
+
+#### Inkwizytor Idący Naprzód
+
+*Wystąpienia: ×1 (poz. 24).*
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | 10                    |
+| HP         | 141 (+3,9 za poziom)  |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Prawe Ramię
+
+| Parametr           | Wartość                                                                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                    |
+| HP                 | 99 (+2,73 za poziom)                                                                                                                                 |
+| Szybkość           | 1–4                                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                                  |
+| Odporności         | Cięcie ×0,5; Kłucie ×0,75; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Pycha ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Dziwne Oczy
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
+
+##### Umiejętność: Niedoskonała Imitacja
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Poprawa Skorupy
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
+
+##### Umiejętność: Wybuch Kości
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:**
+
+- **Pulsating Arms** — na początku tury zyskuje Wzrost Mocy Ataku i Ochrony w liczbie równej Licznikowi Instynktów.
+- **Damaged Arms** — traci 1 Instynkt za każdym razem, gdy jednostka otrzyma obrażenia od ataków.
+- **Regenerating Shell** — na koniec tury, jeżeli jednostka nie otrzymała obrażeń od ataków w tej turze, przywraca 5% HP i zyskuje 1 Instynkt.
+- **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
+przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
+
+#### Inkwizytor Mający Wszystko
+
+*Wystąpienia: ×1 (poz. 24).*
+
+| Parametr   | Wartość               |
+| ---------- | --------------------- |
+| Poziom     | 10                    |
+| HP         | 167 (+5,19 za poziom) |
+| Odporności | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                    |
+| HP                 | 117 (+3,63 za poziom)                                                                                                                                |
+| Szybkość           | 1–4                                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                                  |
+| Odporności         | Cięcie ×0,5; Kłucie ×0,75; Gniew ×1,5 (Weak); Żądza ×0,75 (Endured); Pycha ×0,75 (Endured); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Dziwne Oczy
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
+
+##### Umiejętność: Niedoskonała Imitacja
+
+| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
+
+##### Umiejętność: Poprawa Skorupy
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
+
+##### Umiejętność: Wybuch Kości
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:**
+
+- **Pulsating Arms** — na początku tury zyskuje Wzrost Mocy Ataku i Ochrony w liczbie równej Licznikowi Instynktów.
+- **Damaged Arms** — traci 1 Instynkt za każdym razem, gdy jednostka otrzyma obrażenia od ataków.
+- **Regenerating Shell** — na koniec tury, jeżeli jednostka nie otrzymała obrażeń od ataków w tej turze, przywraca 5% HP i zyskuje 1 Instynkt.
+- **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
+przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
+
+### Spotkanie 8
+
+- **Fala 1:** Peccatulum Żądzy ×1 (poz. 24); Peccatulum Pychy ×2 (poz. 24)
+
+#### Peccatulum Żądzy
+
+*Wystąpienia: ×1 (poz. 24).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 1–3                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                  |
+| Odporności         | Cięcie ×2; Żądza ×0,75 (Endured); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Ściągnięcie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Przebijające Pożądanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×2 (poz. 24).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+### Spotkanie 9
+
+- **Fala 1:** Pełzający Inkwizytor ×1 (poz. 24); Peccatulum Gniewu ×2 (poz. 24)
+
+#### Pełzający Inkwizytor
+
+*Wystąpienia: ×1 (poz. 24).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 131 (+3,16 za poziom) |
+| Sloty akcji | start: 3 · maks. 3    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 131 (+3,16 za poziom)                                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 25%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Kłucie ×0,75; Gniew ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×0,75 (Endured); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Clawing
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
+
+##### Umiejętność: Wypatrywanie
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Ślepy Szturm
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +3 |      2 |    1 |
+
+**Pasywki:**
+
+- **Amplified Aggression** — gdy jednostka zostanie trafiona atakiem, zyskuje 1 Instynkt.
+jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
+- **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×2 (poz. 24).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+### Spotkanie 12
+
+- **Fala 1:** Czteronoga Bestia ×2 (poz. 25)
+
+#### Czteronoga Bestia
+
+*Wystąpienia: ×2 (poz. 25).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 203 (+6,3 za poziom)  |
+| Sloty akcji | start: 3 · maks. 4    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 203 (+6,3 za poziom)                                                                                                                                      |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 25%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Kłucie ×0,75; Gniew ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×0,75 (Endured); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Gwałtowne Drapanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          3 |         +1 |      3 |    1 |
+
+##### Umiejętność: Wściekły Taran
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +4 |      2 |    1 |
+
+##### Umiejętność: Poszarpanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          3 |         +1 |      4 |    1 |
+
+##### Umiejętność: Wściekły Pościg
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |         13 |        −10 |      1 |    1 |
+
+##### Umiejętność: Ostra Czujność
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: unik |          2 |         +8 |      1 |    1 |
+
+**Pasywki:**
+
+- **Amplified Aggression** — gdy jednostka zostanie trafiona atakiem, zyskuje 1 Instynkt.
+jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
+- **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
+- **Shimmering Rage** — przy mniej niż 50% HP wchodzi w stan Szału co turę.
+
+### Spotkanie 17
+
+- **Fala 1:** Peccatulum Gniewu ×2 (poz. 25); Peccatulum Żądzy ×1 (poz. 25)
+
+#### Peccatulum Gniewu
+
+*Wystąpienia: ×2 (poz. 25).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 5                     |
+| HP          | 33 (+0,79 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                        |
+| HP                 | 33 (+0,79 za poziom)                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                      |
+| Progi oszołomienia | 60%                                                                                                                                      |
+| Odporności         | Obuch ×2; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Wypalanie (×3)
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
+
+##### Umiejętność: Wybuchowy Gniew
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+#### Peccatulum Żądzy
+
+*Wystąpienia: ×1 (poz. 25).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 1–3                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                  |
+| Odporności         | Cięcie ×2; Żądza ×0,75 (Endured); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Ściągnięcie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Przebijające Pożądanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+### Spotkanie 20
+
+- **Fala 1:** Peccatulum Żądzy ×1 (poz. 25); Peccatulum Pychy ×2 (poz. 25)
+
+#### Peccatulum Żądzy
+
+*Wystąpienia: ×1 (poz. 25).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 1–3                                                                                                                                  |
+| Progi oszołomienia | 50%                                                                                                                                  |
+| Odporności         | Cięcie ×2; Żądza ×0,75 (Endured); Obżar. ×0,75 (Endured); Pycha ×2 (Fatal); Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Ściągnięcie
+
+| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Przebijające Pożądanie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+#### Peccatulum Pychy
+
+*Wystąpienia: ×2 (poz. 25).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 33 (+0,67 za poziom)  |
+| Sloty akcji | start: 1 · maks. 1    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Poziom             | —                                                                                                                                    |
+| HP                 | 33 (+0,67 za poziom)                                                                                                                 |
+| Szybkość           | 3–5                                                                                                                                  |
+| Progi oszołomienia | 40%                                                                                                                                  |
+| Odporności         | Obuch ×2; Gniew ×2 (Fatal); Żądza ×0,75 (Endured); Lenistwo ×2 (Fatal); Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Grinding
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
+
+##### Umiejętność: Dumne Miażdżenie
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+### Spotkanie 21
+
+- **Fala 1:** Pełzający Inkwizytor ×2 (poz. 25)
+
+#### Pełzający Inkwizytor
+
+*Wystąpienia: ×2 (poz. 25).*
+
+| Parametr    | Wartość               |
+| ----------- | --------------------- |
+| Poziom      | 10                    |
+| HP          | 131 (+3,16 za poziom) |
+| Sloty akcji | start: 3 · maks. 3    |
+| Odporności  | wszystkie ×1 (Normal) |
+
+*Opis:* Główne Ciało
+
+**Części (anatomia):**
+
+##### Tułów
+
+| Parametr           | Wartość                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Poziom             | —                                                                                                                                                         |
+| HP                 | 131 (+3,16 za poziom)                                                                                                                                     |
+| Szybkość           | 2–5                                                                                                                                                       |
+| Progi oszołomienia | 25%                                                                                                                                                       |
+| Odporności         | Cięcie ×2; Kłucie ×0,75; Gniew ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×0,75 (Endured); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+
+*Opis:* Część
+
+##### Umiejętność: Clawing
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
+
+##### Umiejętność: Wypatrywanie
+
+| Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
+|    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
+
+##### Umiejętność: Ślepy Szturm
+
+| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
+| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
+|    1 | Żądza  | Kłucie |          2 |         +3 |      2 |    1 |
+
+**Pasywki:**
+
+- **Amplified Aggression** — gdy jednostka zostanie trafiona atakiem, zyskuje 1 Instynkt.
+jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
+- **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
+
+### Spotkanie 23
 
 - **Fala 1:** Peccatulum Gniewu ×1 (poz. 25); Peccatulum Żądzy ×2 (poz. 25); Peccatulum Pychy ×1 (poz. 25)
 
@@ -3710,7 +4286,7 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-### Etap 3-25
+### Spotkanie 25
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×1 (poz. 25); Peccatulum Żądzy ×3 (poz. 25)
 
@@ -3811,7 +4387,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-### Etap 3-27
+### Spotkanie 27
 
 - **Fala 1:** Wijąca Się Bestia ×2 (poz. 24); Inkwizytor Idący Naprzód ×2 (poz. 24)
 
@@ -3930,7 +4506,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-### Etap 3-28
+### Spotkanie 28
 
 - **Fala 1:** Pełzający Inkwizytor ×1 (poz. 26); Peccatulum Pychy ×2 (poz. 26); Peccatulum Żądzy ×1 (poz. 26)
 
@@ -4063,7 +4639,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-### Etap 3-29
+### Spotkanie 29
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×2 (poz. 26); Inkwizytor Idący Naprzód ×2 (poz. 26)
 
@@ -4183,7 +4759,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-### Etap 3-32
+### Spotkanie 32
 
 - **Fala 1:** Peccatulum Gniewu ×1 (poz. 26); Peccatulum Żądzy ×1 (poz. 26); Peccatulum Pychy ×1 (poz. 26)
 
@@ -4304,7 +4880,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-### Etap 3-36
+### Spotkanie 36
 
 - **Fala 1:** Wijący Się Inkwizytor ×1 (poz. 26)
 
@@ -4394,7 +4970,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 - **Wriggling Instincts** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 0 — defensywnych.
 
-### Etap 3-38
+### Spotkanie 38
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×1 (poz. 26); Inkwizytor Idący Naprzód ×1 (poz. 26)
 
@@ -4514,7 +5090,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 - **Frantic Eyes** — zachowanie zależy od Licznika Instynktów.
 przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.
 
-### Etap 3-39
+### Spotkanie 39
 
 - **Fala 1:** Czteronoga Bestia ×1 (poz. 27); Pełzający Inkwizytor ×2 (poz. 27)
 
@@ -4633,7 +5209,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
 
-### Etap 3-42
+### Spotkanie 42
 
 - **Fala 1:** Peccatulum Żądzy ×1 (poz. 28); Peccatulum Gniewu ×2 (poz. 28); Peccatulum Żądzy ×1 (poz. 28) (wsparcie); Peccatulum Pychy ×1 (poz. 28) (wsparcie); Peccatulum Pychy ×1 (poz. 28) (wsparcie)
 
@@ -4754,7 +5330,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
 
-### Etap 3-44
+### Spotkanie 44
 
 - **Fala 1:** Czteronoga Bestia ×1 (poz. 28); Pełzający Inkwizytor ×1 (poz. 28)
 
@@ -4873,7 +5449,7 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 - **Szał** — w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.
 
-### Etap 3-46
+### Spotkanie 46
 
 - **Fala 1:** Inkwizytor Mający Wszystko ×1 (poz. 29); Peccatulum Żądzy ×3 (poz. 29)
 
@@ -4974,7 +5550,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-### Etap 3-47
+### Spotkanie 47
 
 - **Fala 1:** Wijąca Się Bestia ×3 (poz. 29)
 
@@ -5035,7 +5611,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         −2 |      2 |    1 |
 
-### Etap 3-48
+### Spotkanie 48
 
 - **Fala 1:** Kromer ×1 (poz. 30)
 

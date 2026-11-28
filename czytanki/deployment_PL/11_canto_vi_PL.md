@@ -1,6 +1,6 @@
 # Limbus Company — Canto VI: Rozdarty — deploymenty misji
 
-Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData.
+Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z częściami). Dane celowo powtarzają się między etapami. „poz.” = poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca; „×N” = liczba sztuk. Wartości bazowe z StaticData. Walki z Anomaliami bez przypisanego etapu (lochy) → sekcja „Spotkania z Anomalią”.
 
 ## Część: Canto VI · część 1 (`a1c6p1`)
 
@@ -6628,55 +6628,6 @@ Koniec Tury: zyskaj 2 [Pośpiech] w następnej turze
 - **Panic Recovery** — Koniec tury: jeżeli jest w Panice, SP wraca do 0.
 
 ## Pula Canto VI · część 3 (`a1c6p3`) — jednostki bez przypisanego etapu
-
-#### Peccatulum Irae??
-
-*Wystąpienia: ×0 (poz. —).*
-
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 5                     |
-| HP          | 203 (+7,01 za poziom) |
-| Sloty akcji | start: 2 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
-
-**Części (anatomia):**
-
-##### Korpus
-
-| Parametr           | Wartość                                                                                                                                        |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poziom             | —                                                                                                                                              |
-| HP                 | 66 (+2,27 za poziom)                                                                                                                           |
-| Szybkość           | 2–5                                                                                                                                            |
-| Progi oszołomienia | 60% / 0%                                                                                                                                       |
-| Odporności         | Cięcie ×0,5; Kłucie ×0,5; Obuch ×0,5; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×0,8; Posępność ×1,75; Pycha ×0,8 |
-
-*Opis:* Część
-
-##### Umiejętność: Kolejne Sztychy
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
-
-##### Umiejętność: Rąbanie
-
-| Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
-
-##### Umiejętność: Erupcja Wściekłości
-
-| Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | Obuch |          6 |         +4 |      3 |    1 |
-
-##### Umiejętność: Kontra
-
-| Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
-| ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
-|    1 | Gniew  | obrona: kontra |          6 |         +4 |      1 |    1 |
 
 #### Erlking Heathcliff
 
