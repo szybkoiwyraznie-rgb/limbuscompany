@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=853901].title": {
+      "pl": "Drifting Fox",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=854101].title": {
+      "pl": "Shock Centipede",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=854201].title": {
+      "pl": "Fairy Gentleman",
+      "kr_sha256": "e23e5a9a7e2c1c1d68583f7f74a8a123325ae1fc90cc99cbe0c86f75d7b1b0f0",
+      "en_sha256": "9e73cfce0aad0c0e914038930f9d254c361d6e551c16a7797e29a2293f8535b8",
+      "origin": "ai"
+    },
+    "dataList[id=854401].title": {
+      "pl": "So That No One Will Cry",
+      "kr_sha256": "2c54ae6796f8f632ca927767e50556d5f7ea02e127cf782f8a6fc4423a34d8c6",
+      "en_sha256": "5b0d4e31944a59cebca590808f82da35e272f3b52ec801ab3aa76c70685b457e",
+      "origin": "ai"
+    },
+    "dataList[id=854501].title": {
+      "pl": "Fairy-Long-Legs",
+      "kr_sha256": "3f9fdc150789304a9c321e502144e7f271541222a769fdd130571b5f204cfd20",
+      "en_sha256": "a7430a50b0b5cb78f5cc5503028f7e61f6df160ad67db8d5b58152bf2def9804",
+      "origin": "ai"
+    },
+    "dataList[id=854901].title": {
+      "pl": "Faelantern",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=855001].title": {
+      "pl": "Wayward Passenger",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=855501].title": {
+      "pl": "Steam Transport Machine",
+      "kr_sha256": "ce49388c698aeb00ac802c21e3422c70abc2703a602b05de3ab5773795871192",
+      "en_sha256": "c531672179e03aa8c13519aa5f0a08fc264203a70bc8bdc7c102aaa8217ee3d9",
+      "origin": "ai"
+    },
+    "dataList[id=85560101].title": {
+      "pl": "Sign of Roses",
+      "kr_sha256": "802c452f55c07f80d5b0859ea3ea3c4530f80de7fcecbefdfe05e29ab40b3fb9",
+      "en_sha256": "c53c5c3e2bb7705e71df5d4f54d36bd48b51a8f2ed8b02f0287cc8985ef80138",
+      "origin": "ai"
+    }
+  }
+}

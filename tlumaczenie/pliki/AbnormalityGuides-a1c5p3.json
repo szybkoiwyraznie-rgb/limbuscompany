@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "dataList[id=8100].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8100].name": {
+      "pl": "Skin Prophet",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=8100].storyList[level=0].story": {
+      "pl": "Wykonuję sprawozdanie poobojowe zgodnie z rozkazem Zarządcy Wykonawczego.\\n\\nPierwsze spotkanie z tą istotą nastąpiło około godziny 16:00 dzisiejszego dnia… lecz zanim zdaliśmy sobie sprawę, że ją napotkaliśmy, upłynęło nieco czasu. Całe oświetlenie wokół było zgaszone, przez co trudno było rozpoznać jej kształt.\\n\\nA zatem pewne rozpoznanie nastąpiło około 16:10 dzisiejszego dnia.\\n\\nIstota siedziała obok świec i bez końca coś spisywała w wielkiej księdze. W dłoniach trzymała pióro wyglądające jak płonące pióro w kształcie płomienia.\\n\\nŚwiece nie paliły się należycie, więc samo rozpoznanie jej sylwetki zajęło nam, jak sądzę, sporo czasu.\\n\\nNie wiem, jak w tej ciemności czyta pismo i nadal je spisuje, lecz… być może radzi sobie dzięki trzem gałkom ocznym przypominającym lampki do czytania i małemu płomykowi, który wytwarza falujące pióro.\\n\\nOceniam, że istota może przejawiać ataki z użyciem światła. Najrozsądniej powstrzymać się od atakowania, dopóki nie zaobserwujemy istotnych zmian.\\n\\nWyczekuję, by wskazówka ta okazała się pożyteczna przy przyszłych rozkazach.\\n\\nDziękuję.\\n\\n→ … Ile jeszcze mieliśmy „powstrzymywać się od atakowania”, co?\\n\\n→ Stwierdzono, że atakowanie istoty przed zapaleniem świec wokół niej był wysiłkiem na marne. Nasze długie wyczekiwanie zdaje się być pozbawione sensu.\\n\\n→ Błędne osądy zdarzają się w bitwach. Poniosłem odpowiedzialność za swój błąd, przyjmując atak świec. (Niektóre litery lśnią, jakby były poplamione woskiem.)",
+      "kr_sha256": "afb0e9ae9c349f5744ff7c038fcea9de23bc0c20eedcd61adf2f6c7d485d4a8d",
+      "en_sha256": "845807977539212ac9a499b793b4935df66498531744d4db856233993927be7d",
+      "origin": "ai"
+    },
+    "dataList[id=8100].storyList[level=1].story": {
+      "pl": "Choć bitwa toczyła się znacznie inaczej, niż początkowo przewidywałem, będę kontynuować to sprawozdanie zgodnie z ustaleniami.\\n\\nOkło godziny 22:15 dzisiejszego dnia podjęliśmy z tą istotą wymianę ciosów o istotnym znaczeniu.\\n\\nJej strategie są wręcz elementarne. Można by rzec, że zapowiada swoje ataki z kilometra — nie jest to, moim zdaniem, najbardziej uzasadniona strategia w nowoczesnym wojnictwie.\\n\\nPo upływie czasu lub gdy Grzesznicy podrażnią Świece i wszystkie się rozświetlą, dopiero wtedy istota zdaje się dostrzegać, że jest atakowana, i przystępuje do bezpośredniego ataku na przeciwników.\\n\\nOznacza to, że przed pełnym ujawnieniem jej sił mamy mnóstwo czasu na strategię i namysł.\\n\\nSposobów walki z nią jest wiele, a skoro mamy przewagę liczebną, a dawnej agresywne Świece przestały być wrogie, wystarczy po prostu nie spuszczać czujności.\\n\\nJeżeli jednak przewyższy naszego sojusznika w sporze sił z powodu jego niekompetencji, wywoła to u istoty szeroko zakrojony atak, który może trafić nas wszystkich naraz.\\n\\nPłomień stale migocze, gaśnie i zapala się, więc i na to trzeba mieć oko podczas bitwy.\\n\\nKończę sprawozdanie.\\n\\nDziękuję.",
+      "kr_sha256": "bd413439a4fd77cb33a04ba7002999a8b33e5327b826dab0cfbfaf336e667da8",
+      "en_sha256": "f9b317798c500b8edea09a32d88cc9d72aa0892ee8cce88f09fea83d2d9f99bd",
+      "origin": "ai"
+    },
+    "dataList[id=8100].storyList[level=2].story": {
+      "pl": "Ujawniła się dodatkowa wiedza, więc dodam aneks do sprawozdania.\\n\\nOpracowałem plan minimalizacji naszych strat w walce z tym wrogiem.\\n\\nPamiętajcie: istota rozpoznaje naszą obecność tylko wtedy, gdy Świece są rozpalone. Dlatego przyduszenie Świec w momencie, gdy istota przygotowywała na nas atak, okazało się całkiem skuteczne.\\n\\nKiedy zapadła ciemność, istota miała wielki kłopot z kierowaniem ataków w naszą stronę… w końcu zniszczyła się własnymi atakami. Głupstwo.\\n\\nAch, i jeszcze jeden aneks muszę dodać do tego sprawozdania.\\n\\nKsięga, którą trzyma istota, nie zdaje się być zwykłą księgą. Choć nie następowało to za każdym razem, jedno zerknięcie na księgę wystarczyło, by u Grzeszników wywołać dotkliwe bóle głowy i konsternację.\\n\\nProszę wziąć powyższe informacje pod uwagę przy przyszłych rozkazach.\\n\\nKończę sprawozdanie.\\n\\nDziękuję.",
+      "kr_sha256": "58d94d88f20d9e57dfa8485b2e3a33c483bca29300f74b4d68c8fb8153ca76c8",
+      "en_sha256": "7dfca683873153057badf2745577c45b82fc531a1abc0f6cece35500e89d1b96",
+      "origin": "ai"
+    },
+    "dataList[id=8101].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8101].name": {
+      "pl": "Ambling Pearl",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=8101].storyList[level=0].story": {
+      "pl": "Um… Chodzi o tę zieloną małżę, tak?\\n\\nZdecydowanie przypominała mi tamte Trash Craby. Zielony szlam, zapach oceanu… wiecie.\\n\\nWyglądała i zachowywała się jak… małż. Tak myślę. Miała te skorupy zamknięte na głucho.\\n\\n… Choć małże, które znam, nie miały ramion ani nóg jak ta.\\n\\nI… nie były aż tak wielkie.\\n\\nPostanowiliśmy poczekać i popatrzeć, zamiast atakować, a… jej skorupy od czasu do czasu się otwierały.\\n\\nA w środku był jakiś… chluboczący, klęczący zielony płyn, który wychlapywał się na zewnątrz, i… o.\\n\\nTak… Były tam jakieś dziwne… larwopodobne rzeczy, i…\\n\\n(Na stronie jest plama. Coś mokrego skapnęło tutaj i wyschło.)\\n\\n→ Co? Co to tu jest? Dokąd poszedł delikwent, nie dokończywszy dziennika?\\n\\n→ Jeśli pod „delikwentem” rozumiesz Sinclaira, widziałem, jak w pośpiechu wychodził na pokład. Z bledsy jego twarzy wniosłem, że podobnie jak ja cierpiał na chorobę morską…\\n\\n→ Agh, cholerna ziemia! Obrzydliwe!\\n\\n→ Bliższe przyjrzenie się pozostałości ujawnia, że jest to pot, nie wymioty. Nie martw się; nie wpłynie to negatywnie na czystość zapisów.\\n\\n→ Fau… Też nie musiałem tego słyszeć…",
+      "kr_sha256": "59f8447f947050dcbc21089d54268d38950771434ce7738e0a5218581a0b975f",
+      "en_sha256": "a93bdc88d2d182cf3626533e48c6878cfad34620046fce8a81428f87b88289b8",
+      "origin": "ai"
+    },
+    "dataList[id=8101].storyList[level=1].story": {
+      "pl": "Jej skorupa… była zbyt wytrzymała.\\n\\nMożemy bić w nią latami i nie pęknie. Jakby nasze ataki nic nie robiły…\\n\\nE, no… Próbowałem jednak czegoś.\\n\\nSkoro moja halabarda jest całkiem długa, pomyślałem, że może wpiętnuję ją między skorupy i spróbuję wykręcić, dociskając w dół…\\n\\nUczono mnie tego w szkole, e… jak to było? Jak przeciwwaga na dźwigni…\\n\\nCóż… Nie poskutkowało. Udało się jedynie przełamać mi halabardę na pół.\\n\\nAle myślę, że z tamtego eksperymentu coś wyniosłem.\\n\\nKiedy skorupy tej rzeczy są zamknięte, wokół nich zbiera się kleisty zielony szlam, który pilnuje, by skorupy się nie rozwarły.\\n\\nWięc choć nie zdołałem jej otworzyć… przynajmniej zdołałem część szlamu oderwać.\\n\\nMoże pozbycie się tego szlamu najpierw pomoże nam ją otworzyć i zaatakować jej miękkie części?\\n\\n→ Hm, dlaczego nie zanotowałeś części, w której machałeś bezładnie połamanymi kawałkami halabardy, żołnierzu?\\n\\n→ J-jak to się ma do rzeczy?!\\n\\n→ To istotna informacja. Mimo twoich bezskutecznych prób przyciągnięcia ich uwagi larwy z wypływów istoty zdecydowały się atakować sojuszników w lepszym stanie niż ty.\\n\\n→ To było doniosłe odkrycie. Twoje bezsensowne zmagania z nieskuteczną bronią również mogły znaleźć się w tym zapisie.\\n\\n→ … Meursault… Faust… no weźcie…",
+      "kr_sha256": "a210e13399868b6bb79c21e1823f374f8887b606c36a202851b918b43816b3a8",
+      "en_sha256": "00151f39c7b187b64339cf1f8f56137feda6c4ec6516763ede9afd549600375b",
+      "origin": "ai"
+    },
+    "dataList[id=8101].storyList[level=2].story": {
+      "pl": "W małży była perła.\\n\\nNie… Czy wolno ją w ogóle nazywać perłą? To światło, które ukazuje się od czasu do czasu miga wśród klęczącej trucizny…\\n\\nAle jedno jest pewne: to światło jest sednem tej anomalii.\\n\\nSzkoda tylko, że zanim dostaliśmy szansę zaatakować tę perłę, musieliśmy sporo wycierpieć…\\n\\nJa… chyba powinienem powiedzieć, że już to rozumiem. A może po prostu się przyzwyczaiłem…\\n\\nW końcu nigdy nie rozwiązaliśmy niczego bez poświęceń.\\n\\n→ Cieszę się, że uczysz się czegoś nowego, kiddo… Ale co powiesz na to? Na przykład… na działanie zamiast stanie z boku w nagłej sytuacji?\\n\\n→ Nie rozkapiajaj go. Ej, my wszyscy pomarli, bo ty świętowałeś „Udało mi się!” gdy małży paszczę rozwarł.\\n\\n→ … Przepraszam…",
+      "kr_sha256": "ed77880182ca200baaae00524dd8b8ea2557eeb8f7b9f3ec4f10a92d9b323539",
+      "en_sha256": "0e6fcad88ef5162f13dc164601112bfa573f154d0bb257779b7f6bce4eb1aa11",
+      "origin": "ai"
+    },
+    "dataList[id=8102].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8102].name": {
+      "pl": "Dream-Devouring Siltcurrent",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=8102].storyList[level=0].story": {
+      "pl": "Pozwólcie, że opiszę tę wielką i majestatyczną istotę!\\n\\nMiała formę morskiego stwora, a jednak unosiła się tam, gdzie wody nie było!\\n\\nHm, nie jestem pewien, czy wolno to mianować jej „grzbietem”. Tak czy inaczej, grzbiet stwora był gęsto usiany długimi, żarzącymi się, fluorescencyjnymi prętami świetlnymi.\\n\\nCóż mogły one czynić, nie do rozgadania… ale czyż nie są podobne do pięknych bibelotów? Popatrzcie, to migoczą i przygasają powoli!\\n\\nChciałem zbliżyć się, by go pogłaskać, lecz moi towarzysze z całych sił mnie powstrzymali… szkoda!\\n\\nAha! Oto sposobność! (Dalsze zapiski są nieczytelne, jakby przemoczyły je w wodzie, zanim atrament zdążył wyschnąć)\\n\\n→ Powierzyłem jej zadanie spisywania większych Anomalii, by zapobiec podobnym zdarzeniom jak tamto… z kurczakami. A jednak… nieoczekiwane wypadki zdają się zdarzać niezależnie od wielkości Anomalii.\\n\\n→ … Byłbym wdzięczny, gdybyście przed naszymi pierwszymi spotkaniami z Anomaliami podali, którego Grzesznika wyznaczono do spisywania zapisów.\\n\\n→ To pierwszy raz, gdy odczuwam topienie się 12 razy. Jednocześnie. … Spróbujmy… nie powtarzać tego. Proszę…",
+      "kr_sha256": "8da38464ff51b4089876bcd7059e72d632dbee2ecfc07e38c2fa93e89e5d3ae2",
+      "en_sha256": "0d024178f9b7729165c8d0c4802017e75a7ed1075f4f3f6dadeef5eb0b029ac1",
+      "origin": "ai"
+    },
+    "dataList[id=8102].storyList[level=1].story": {
+      "pl": "Mieliśmy awanturę!\\n\\nSkoro awantura się zaczęła, istota natychmiast zalała wszystko wodą, zatapiając nie tylko siebie, lecz i naszą dzielną kompanię!\\n\\n… Ach, straszny ciężar winy czuję za błąd, który popełniłem w swej niecierpliwości. Wybaczcie, musiałem…\\n\\nLecz! To ja! Kto przed każdym innym…\\n\\n… rozgadł funkcję tamtych fluorescencyjnych prętów!\\n\\nPytacie, cóż czyniły te pręty? To nic innego jak narzędzia, które pozwalały nam oddychać! Dzięki niemu mogłem oddychać pod wodą!\\n\\nChoć przyczyny nie znam, pręty te są dość łamliwe! To zagadka… Jeśli to narzędzie do oddychania, czemu jest tak kruche, nie trzeba się dziwić!\\n\\nMam więc myśl! Jeśli ten morski stwór odbiera nam oddech… a gdybym ten pręt podzielił między nas?!\\n\\nTak jak przeczuwałem! Rozbicie pręta na kawałki i podzielenie ich między moich towarzyszy pozwoliło nam oddychać!\\n\\nOtóż to! Teraz możemy z należyta uwagą walczyć z morskim stworem…!",
+      "kr_sha256": "297f7e917c74f75c0fd5a893efbd29f01b4dcc914e23b0be5f7ce96bb93ce03f",
+      "en_sha256": "85b4beb62914eb24c4f4772f0acc22093f5d4a987953e5aef548775e884998b9",
+      "origin": "ai"
+    },
+    "dataList[id=8102].storyList[level=2].story": {
+      "pl": "To nic nadzwyczajnego, lecz jeszcze kilka rad ci przekażę!\\n\\nKiedy pozwolono nam oddychać, w walce morskiego stwora nie było nic zbyt trudnego! Moment, w którym dostajemy oddech, jest momentem naszej wiktorii, zaiste!\\n\\nA jednak dalej szykuję te zapiski, licząc zmniejszyć krzywdy, jakie i tak może nam wyrządzić!\\n\\nPręty, które można odłamać od morskiego stwora, są dość ostre.\\n\\nJak napisałem przedtem, jego głównym sposobem ataku jest taranowanie nas własnym, niemałym korpusem.\\n\\nTeraz połącz te dwie prawdy!\\n\\nJa, Don Quixote, dostąpiłem objawienia!\\n\\nA gdyby rozbić pręty na ostre, spicaste kawałki i przyciągnąć uwagę morskiego stwora…?\\n\\nMożemy przechytrzyć jego szarżę, stawiając między nami a nim te pręty! Prawdziwy plan łapiący dwa ptaki jednym kamieniem, nieprawdaż?\\n\\nOutis nazwała to… jak to… bary? Chyba Outis nazwała to bary-kadą!\\n\\nStrategia częsta w wojnictwie, zaiste.\\n\\nNiech to będzie użyteczny przewodnik dla ciebie, drogi Zarządco Esquire!",
+      "kr_sha256": "e6bfef5fbc8bced3f75661ac1f1759bdc8cbcb84d6081aef26c13cb031bb8072",
+      "en_sha256": "68fb3155f859a45384d860ab67e74f9ac1834b7474322db189a3e27744ffd35c",
+      "origin": "ai"
+    },
+    "dataList[id=81062].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=81062].name": {
+      "pl": "Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "d4a420ec1e64a8706464d9209a40f3186bc23ab4d4b57abcc9fadeeaa31663e7",
+      "en_sha256": "4778e4924bcb57d566316b510071b4b698b5904d06597d3f03a5a16691d60c5a",
+      "origin": "ai"
+    },
+    "dataList[id=81062].storyList[level=0].story": {
+      "pl": "Kiedyś wpatrywałam się w nią z podziwem.\\n\\nBył czas, gdy… chciałam być taka jak ona.\\n\\nMoże tak naprawdę nie obchodziło mnie polowanie na Wieloryba.\\n\\nZamiast tego… zazdrościłam jej. Za jej umiejętność skupienia się na czymś tak bardzo, że inni uważali cię za szaloną. Mieć powód do życia, mieć coś, czemu możesz poświęcić całe swoje istnienie.\\n\\nAhab… Tak. To była przynęta, którą zatapiała w ludzkich sercach.\\n\\nNie pojmiesz tego, dopóki nie wyciągnie cię na powierzchnię z hakiem w ustach. Bo przez wodę wydawała się tak promieniująca.\\n\\nMiałam szczęście.\\n\\nKiedy użyła Stubb jak sieci, by złapać całą załogę, zdołałam zostać z boku.\\n\\nGdybym nie… dziś byłabym jednym z jej Pallidified członków załogi.\\n\\n… Ale to wszystko, co zrobiłam. Całe moje zasługi to stan z boku.\\n\\nNie mogłam — nie. Myślałam, że nie mogę nic zrobić.\\n\\nJedynie, co zdołałam… przetrwać.\\n\\nI wszystko, co zostało w moim sercu, to zemsta. Obsesja.\\n\\nNawet teraz… płonę pragnieniem, by wycisnąć z niej ostatnie tchnienie życia.",
+      "kr_sha256": "acf98ee1d2f7576388cb9903b935fd06cb7c513b8fe95301ba7e674fb0135b22",
+      "en_sha256": "b41827ab54073924b208083d86fed07c598f69076904b4ce893c51c4b08a7bd8",
+      "origin": "ai"
+    },
+    "dataList[id=81063].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=81063].name": {
+      "pl": "Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "d4a420ec1e64a8706464d9209a40f3186bc23ab4d4b57abcc9fadeeaa31663e7",
+      "en_sha256": "4778e4924bcb57d566316b510071b4b698b5904d06597d3f03a5a16691d60c5a",
+      "origin": "ai"
+    },
+    "dataList[id=81063].storyList[level=0].story": {
+      "pl": "Kiedyś wpatrywałam się w nią z podziwem.\\n\\nBył czas, gdy… chciałam być taka jak ona.\\n\\nMoże tak naprawdę nie obchodziło mnie polowanie na Wieloryba.\\n\\nZamiast tego… zazdrościłam jej. Za jej umiejętność skupienia się na czymś tak bardzo, że inni uważali cię za szaloną. Mieć powód do życia, mieć coś, czemu możesz poświęcić całe swoje istnienie.\\n\\nAhab… Tak. To była przynęta, którą zatapiała w ludzkich sercach.\\n\\nNie pojmiesz tego, dopóki nie wyciągnie cię na powierzchnię z hakiem w ustach. Bo przez wodę wydawała się tak promieniująca.\\n\\nMiałam szczęście.\\n\\nKiedy użyła Stubb jak sieci, by złapać całą załogę, zdołałam zostać z boku.\\n\\nGdybym nie… dziś byłabym jednym z jej Pallidified członków załogi.\\n\\n… Ale to wszystko, co zrobiłam. Całe moje zasługi to stan z boku.\\n\\nNie mogłam — nie. Myślałam, że nie mogę nic zrobić.\\n\\nJedynie, co zdołałam… przetrwać.\\n\\nI wszystko, co zostało w moim sercu, to zemsta. Obsesja.\\n\\nNawet teraz… płonę pragnieniem, by wycisnąć z niej ostatnie tchnienie życia.",
+      "kr_sha256": "acf98ee1d2f7576388cb9903b935fd06cb7c513b8fe95301ba7e674fb0135b22",
+      "en_sha256": "b41827ab54073924b208083d86fed07c598f69076904b4ce893c51c4b08a7bd8",
+      "origin": "ai"
+    },
+    "dataList[id=8106].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8106].name": {
+      "pl": "Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "d4a420ec1e64a8706464d9209a40f3186bc23ab4d4b57abcc9fadeeaa31663e7",
+      "en_sha256": "4778e4924bcb57d566316b510071b4b698b5904d06597d3f03a5a16691d60c5a",
+      "origin": "ai"
+    },
+    "dataList[id=8106].storyList[level=0].story": {
+      "pl": "Kiedyś wpatrywałam się w nią z podziwem.\\n\\nBył czas, gdy… chciałam być taka jak ona.\\n\\nMoże tak naprawdę nie obchodziło mnie polowanie na Wieloryba.\\n\\nZamiast tego… zazdrościłam jej. Za jej umiejętność skupienia się na czymś tak bardzo, że inni uważali cię za szaloną. Mieć powód do życia, mieć coś, czemu możesz poświęcić całe swoje istnienie.\\n\\nAhab… Tak. To była przynęta, którą zatapiała w ludzkich sercach.\\n\\nNie pojmiesz tego, dopóki nie wyciągnie cię na powierzchnię z hakiem w ustach. Bo przez wodę wydawała się tak promieniująca.\\n\\nMiałam szczęście.\\n\\nKiedy użyła Stubb jak sieci, by złapać całą załogę, zdołałam zostać z boku.\\n\\nGdybym nie… dziś byłabym jednym z jej Pallidified członków załogi.\\n\\n… Ale to wszystko, co zrobiłam. Całe moje zasługi to stan z boku.\\n\\nNie mogłam — nie. Myślałam, że nie mogę nic zrobić.\\n\\nJedynie, co zdołałam… przetrwać.\\n\\nI wszystko, co zostało w moim sercu, to zemsta. Obsesja.\\n\\nNawet teraz… płonę pragnieniem, by wycisnąć z niej ostatnie tchnienie życia.",
+      "kr_sha256": "c748e6a3b65ae3e64b8151effdf17ca6a9ae16a65ea28c09b745f1e07bcaa5d6",
+      "en_sha256": "b41827ab54073924b208083d86fed07c598f69076904b4ce893c51c4b08a7bd8",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[id=8373].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8373].name": {
+      "pl": "Peccatulum Luxuriae??",
+      "kr_sha256": "fb1f4a87eb7ca258fe629b0ce07a7874cd87de38744130df09b0417c55c03b33",
+      "en_sha256": "81e9200fde9aa963bab611b025ee65b89907ee37072fb541c71575e1cbebdcdd",
+      "origin": "ai"
+    },
+    "dataList[id=8373].storyList[level=1].story": {
+      "pl": "Ta masa ciała… urósł jeszcze bardziej niż przedtem.\\n\\nNadal podnosił górną część ciała, jakby szykował się… coś nadziać.\\n\\nTa gigantyczna… paszcza, która była niemal jak głowa… rozszczepiła się jeszcze bardziej, do punktu, gdzie całe jego ciało zdawało się być pionową mordą.\\n\\nJego ciało jest równie odrażające jak przedtem. Ta nieprzyjemna, zgniło-owocowa tekstura…\\n\\nAch, tak… wciąż ma te ręce wewnątrz mordy, ale…\\n\\n… złączyły się ze sobą, ich nerwy i tkanka mięśniowa zdają się… wszystko skręcone w jedno wielkie ramię. Już nie ta dziwna spirala.\\n\\nRęka na końcu tego ramienia próbowała chwycić wszystko, co wpadło w jej zasięg…\\n\\nJej oko, dziko się obracając, szukało czegoś, co mogłoby… ją wypełnić.\\n\\nAle ręka była tak nieporęczna, jakby z początku nie była stworzona do chwytania…\\n\\nW końcu, gdy nie zdołała niczego należycie chwycić, zmieniła się w coś jak… gwóźdź lub pal, i przebiła nas…\\n\\nCo znaczy, że… ten…\\n\\nAh… Przepraszam… Trochę mi słabo. Obiecuję, dokończę ten wpis następnym razem…\\n\\n→ Hę? To gdzie reszta sprawozdania?\\n\\n→ Najwyraźniej przypomniał sobie tamtą koleżankę ze szkoły~\\n\\n→ Gdybym był tamtym chłopcem, nie nazwałbym tamtej dziewczyny „koleżanką”.\\n\\n→ Myślę, że mamy wszystko, czego potrzebujemy? Nie martw się powrotem do tego, Sinclair.\\n\\n→ Zgadza się. To zdaje się być wystarczająca informacja, by stanowić sprawozdanie.\\n\\n→ … Dzięki.",
+      "kr_sha256": "8f82239080ebcad7cba32b9072b43485794b7b03fa3cb91d94d974e246c4c9a7",
+      "en_sha256": "fd3d9ea2f8dda7586d43900adb62cd5b97351ba806c218ac2bf50a10b241adc8",
+      "origin": "ai"
+    },
+    "dataList[id=8374].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8374].name": {
+      "pl": "Peccatulum Superbiae??",
+      "kr_sha256": "ab4fca20dfba18d7647cf5e23e5e127c48c68c2a4c361a6727e183e9c35cd600",
+      "en_sha256": "6ec3e80564a3c93834ac76c0bec78fb032677a2a23cd73a720cab149ba09f975",
+      "origin": "ai"
+    },
+    "dataList[id=8374].storyList[level=1].story": {
+      "pl": "Ludzkie dłonie i ramiona nie są wyłącznie częściami ciała, lecz również niezbędnymi narzędziami tworzenia.\\n\\nOd małych wyrobów, przez proste mechanizmy, po skomplikowane projekty broni z Warsztatu.\\n\\nSą to narzędzia dane ludziom w chwili narodzin; narzędzia, które wyniosły ludzkość na niekończące się wyżyny.\\n\\nDlatego druga Duma ma swobodne użycie ramion.\\n\\nA jednak fakt, że pozostaje skuta do koła, musi wynikać z dążenia do wygody, którą umożliwiają dwa wolne, zręczne ramiona.\\n\\nA jednak Duma nie użyje, tak jak uczynili ludzie, swoich największych narzędzi wyłącznie do tworzenia.\\n\\nBędzie smagać i rwać ramionami i dłońmi… i nieuchronnie stać się częścią jakiegoś zniszczenia.\\n\\nJej motywacja do takiej przemocy jest prosta.\\n\\nBo może.\\n\\n→ To tragiczna rzecz, gdy wynalazek oddala się od umysłu, który go pierwszy powiał. Większym smutkiem jest… że tak stało się z większością stworzeń ludzkich. Wliczając te z mej miary…\\n\\n→ Czy musi być tragiczne? Zniszczenie jest pięknią częścią tworzenia.\\n\\n→ To również niekoniecznie jest sentymentem błędnym.",
+      "kr_sha256": "723ab6e44f1dc9883f246adb393feb6f2a00051527b2bd9de58b08f71630a19f",
+      "en_sha256": "62eea5362c2b9bbec47a78213049a2fd4219e31a65944d3bafd588ad36a2c586",
+      "origin": "ai"
+    },
+    "dataList[id=8375].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8375].name": {
+      "pl": "Four-hundred Roses",
+      "kr_sha256": "1e44ceb270f4f8bcde8bb61c18aeddfefbe315ae8eae32752830c8895c35567e",
+      "en_sha256": "8be5b465e620dce26a4909f8847bcabdf938a2ee5824e092628da72d4103495c",
+      "origin": "ai"
+    },
+    "dataList[id=8375].storyList[level=1].story": {
+      "pl": "- Porównując tę istotę z pod-istotami innych Anomalii, nie zaobserwowano istotnych różnic.\\n\\n- Ich wygląd zewnętrzny, choć częściowo zależy od pierwotnego wyglądu żywiciela, dzieli następujące cechy wspólne: ciała skutowane pnączami i kwiat rozkwitający na ich głowach.\\n\\n- Po skorodowaniu żywicieli zaobserwowano następujące objawy: poważną utratę racjonalności oraz nieustanną tęsknotę za krwią.\\n\\n- Jednakże kolejna zaobserwowana cecha tego skorodowanego stanu: świadomość nie zostaje całkowicie utracona i możliwe jest nawiązanie podstawowej komunikacji.\\n\\n- W przypadku skorodowanych ludzi zaobserwowano przemianę w stan podobny do głodnych Bloodfiendów; zaobserwowano również, że zdolność skorodowanych ludzi do utrzymania świadomości była względnie obniżona w porównaniu ze skorodowanymi Bloodfiendami (jednakże z powodu małej próby w przyszłych badaniach mogą pojawić się ustalenia sprzeczne).\\n\\n- W przypadku Bloodfiendów nieskorodowane osobniki również wykazywały cechę tęsknoty za krwią. Wydaje się, że długi okres głodowania obniża ich zdolność racjonalizacji.\\n\\n- Zatem do ustalenia czynników różnicujących głodnych Bloodfiendów i Bloodfiendów skorodowanych przez różę wymagana będzie głębsza obserwacja i studia.\\n\\n- Nowe odkrycia odnotuję w przyszłym sprawozdaniu.",
+      "kr_sha256": "79a9275ddf610e1a6c0f8f7b4dcc40bd114d38c5e0d8c076d2823a3f4f6167ff",
+      "en_sha256": "ccf012eefef6528d31449e65c74bc38c055034c3afe0471f54b9fee9cd5b91ce",
+      "origin": "ai"
+    },
+    "dataList[id=8375].storyList[level=2].story": {
+      "pl": "- Inni Grzesznicy wysunęli przypuszczenie, że skorodowane istoty atakowałyby wykorzystując swoje róże lub pnącza.\\n\\n- Potwierdzono jednak, że stosują ten sam sposób walki co przed skorodowaniem.\\n\\n- Istota dzierżąca wielki miecz dalej go dzierżyła, a istoty walczące parasolami dalej nimi walczyły.\\n\\n- Ich zdolności bojowe nie wydają się zmienione w miarę istotnej skali w porównaniu z nimi samymi przed skorodowaniem.\\n\\n- Odkryto dwa fakty godne uwagi: wszystkie skorodowane istoty były otoczone światłami o niezidentyfikowanym źródle oraz zaobserwowano, że wysysają część krwi traconej przez Grzeszników.\\n\\n- Wysysana krew służy do rekonstrukcji samych istot, lecz jej część zdaje się być kierowana do oddzielnej istoty.\\n\\n- Nowe odkrycia odnotuję w przyszłym sprawozdaniu.\\n\\n→ Prawdopodobne, że istotą otrzymującą kierowaną krew jest sama Anomalia.",
+      "kr_sha256": "0c3138a6b4e0280863750e19215e114f49c1927f447554e9907ea8e93cac8ebe",
+      "en_sha256": "8fdc9c9ed11bc8d7ef6b6d470c88ff9c4f345df2a99b645385e119e624951056",
+      "origin": "ai"
+    },
+    "dataList[id=8375].storyList[level=3].story": {
+      "pl": "- Po zestawieniu i odniesieniu wszystkich dostępnych danych zgromadzonych podczas starć można wnioskować, że istoty te są bardzo podobne do Bloodbagów.\\n\\n- Istnieje wysokie prawdopodobieństwo, że wysysana krew jest kierowana do źródłowej anomalii, która je skorodowała.\\n\\n- Grzesznik #11 zadał następujące pytanie: co się dzieje, gdy skorodowany Bloodfiend próbuje stworzyć Kindreda lub Bloodbaga?\\n\\n- Jednakże skorodowane Bloodfiendy nie podejmowały takich działań, więc nie da się wysnuć żadnych dalszych wniosków w tym kierunku.\\n\\n- Przy pośmiertnym badaniu zmarłych istot na ich ciałach nadal można było zaobserwować małe róże.\\n\\n- Róże te żywią się pozostałą na zwłokach krwią; po wyczerpaniu tego źródła prawdopodobnie zaczną więdnać.\\n\\n- Brak dalszych odkryć. Niniejszy dziennik obserwacji zamknięto.\\n\\n→ Skoro róża również jest kategoryzowana jako Anomalia, rozsądne jest założenie, że istota niekoniecznie podąża za prawem natury.\\n\\n→ Poprawki do sprawozdania zostaną wprowadzone, jeżeli odkryjemy próbkę obalającą moje twierdzenie.",
+      "kr_sha256": "dffd373cfe55f772564f8f960a128eeb30d7b466e969fc145bf8d5c7fed2d343",
+      "en_sha256": "420b642bdd99ca35b68cac9e8209eb67a2bb3df010622d666f1e204648a343e9",
+      "origin": "ai"
+    },
+    "dataList[id=8376].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8376].name": {
+      "pl": "Rose Hunter",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=8376].storyList[level=1].story": {
+      "pl": "Woah~ Wygląda na to, że ta Anomalia jest myśliwym, na którego czubku głowy rozkwita róża~\\n\\nPrzybył niczym wiatr, dosiadając przystojnego rumaka, z którego oczu rozkwitały róże.\\n\\nByłam tak zaskoczona, bo kiedy się po raz pierwszy spotkaliśmy, przywitał mnie rzucając lasso!\\n\\nCiągnął lasso, które ciągnęło mnie od wszystkich... to było trochę kłopotliwe.\\n\\nMogło być dość źle, gdyby nie Ryōshū, która przecięła lasso.\\n\\nDobrze, że dało się przeciąć, bo pamiętam niektóre niezniszczalne liny z domu.\\n\\nMartwiłam się, czy to nie to samo, ale wygląda na to, że liny pana Łowcy nie są zbyt trudne do przecięcia!\\n\\n→ Więc… Anomalia nie zawahała się skutować każdego, ale… czemu to mnie samego ciągle smagał lassem jak biczem, hm?\\n\\n→ Wydaje się przedkładać oplotenie i smaganie celów o słabościach psychicznych. To pewnie dlatego jego bicze tak skupiały się na Sinclairze.\\n\\n→ Ohh~ Cóż, Sinclair ma bardzo delikatną wrażliwość, niczym rzeźba z cukru.\\n\\n→ Dzięki za ten… komplement…\\n\\n→ S.S.O.F.T.",
+      "kr_sha256": "ef83218473c6ae0878a534cf45e58812dca562840c84e8b0c98fce64ebbeb208",
+      "en_sha256": "73898aa27e2ea41875b86e847ffe907cb48345383c436896225f125e1a46d362",
+      "origin": "ai"
+    },
+    "dataList[id=8376].storyList[level=2].story": {
+      "pl": "Im więcej ludzi ma skutowanych, tym szybszym zdaje się być pan Łowca.\\n\\nCzyż mając tyle do ciągnięcia, nie powinien zwalniać?\\n\\nMoże tyle ludzi uwięzionych lassami tak rozpierucha konia.\\n\\nAlbo może musi się gdzieś śpieszyć z tak wieloma ludźmi przywiązanymi do siebie?\\n\\nHmm, to czemu by tak było, ciekawskie?\\n\\nCzy podróż do domu nie powinna być sposobnością, by widzieć więcej rzeczy, doświadczać ile się da?\\n\\nJazda zbyt szybko z tunelowym widokiem może sprawić, że tyle rzeczy ujdzie uwadze.\\n\\n→ Cóż. Trudno, w drodze powrotnej serce zawsze się śpieszy.\\n\\n→ Zgadzam się, po raz pierwszy. Na drodze powrotnej nie ma potrzeby zwlekać. Im szybciej, tym lepiej.\\n\\n→ Chciałam zapytać— No więc co cię tak rozpierało, by wracać do tamtego dworku, Heathcliff?\\n\\n→ Huh... Dobre pytanie. No tak, o co chodziło z tamtym pośpiechem? Ten, kto wysłał list, nawet nie był w dworku.\\n\\n→ Ej, ty— (Coś tu kiedyś było zapisane w dzikim gniewie, lecz zniknęło)\\n\\n→ Lepiej przestańcie o tym gadać, ludzie.",
+      "kr_sha256": "15b15ee1937af6639b9b5bc54f23a2261bd912f25c72670a6f128e4b4ca7f067",
+      "en_sha256": "7c78f6f9a6b213d3104be54fce0e51e3d1e88e71b9fd212eb87caaeb25cf4aa9",
+      "origin": "ai"
+    },
+    "dataList[id=8376].storyList[level=3].story": {
+      "pl": "Pan Łowca to zapewne bardzo Obsesyjny dżentelmen.\\n\\nNie mogłam uniknąć jego rzutów lasso, choćbym próbowała ile w łeb strzeli.\\n\\nRzucał coraz to więcej lass, a za każdym razem... celował coraz dokładniej.\\n\\nW końcu zaczął rzucać dwa lassa jednocześnie, bez ani jednej pomyłki!\\n\\nAh, ale trudno było mu unikać naszych ataków, bo był tak skupiony na rzucaniu lass.\\n\\nTo jednak każe mi się zastanowić. Czemu po prostu nie uciekł, skoro uwięził nas wszystkich w sidłach?\\n\\nMoże tak naprawdę nie chodziło mu o nasze schwytanie?\\n\\nW takim razie może jego celem było zmęczenie nas tak szybko, jak to możliwe, by mógł stąd odejść.\\n\\nI jeśli to była jego intencja... ciekawe, co chciał schwytać tym kolu sidłem?\\n\\nChciałabym go zapytać, jeśli znowu się spotkamy.\\n\\n→ Prawdopodobne, że istota ta ściga jabłko, rozważając spotkanie w Mirror Dungeon.\\n\\n→ Więc musiał desperacko szukać czegoś. Znałam takich ludzi w domu, rozumiem~\\n\\n→ Oh... czy twoja młodsza siostra nie mówiła, że... twoja rodzina cię szuka?\\n\\n→ Naprawdę muszą za mną tęsknić. Hehe, cieszę się.",
+      "kr_sha256": "7874f0005b8b89ea85f1d97d4b6f02751449023cbe591a38f4eb672d3609b24e",
+      "en_sha256": "a5fae3928b784bf4bc3ed188d3a3b916fa6dd75ef27f677a0afd3801c43dcc07",
+      "origin": "ai"
+    },
+    "dataList[id=8377].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8377].name": {
+      "pl": "Rose Hunter",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=8379].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8379].name": {
+      "pl": "Hurting Teddy Bear",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=8379].storyList[level=1].story": {
+      "pl": "Cieszę się, że ten nie wygląda tak ohydnie~\\n\\nAle... e, nie wygląda raczej trochę... strasznie?\\n\\nMiś pluszak musi wyglądać miękko, pluszowo i uroczo, czy nie?\\n\\nMa popękane szwy na całej powierzchni, a... mnóstwo gwoździ wbitych w niego z każdej strony.\\n\\nMa odwagę prosić nas o przytulanie... bo kto chciałby przytulać tę rzecz?\\n\\nJest więcej. Kiedy zagrliśmy, robił się coraz bardziej agresywny...\\n\\nHm? Ohh, mam pomysł! A gdybyśmy po prostu zupełnie go zignorowali?\\n\\nNie bawmy się w jego gry i po prostu idźmy w ofensywę. Atak, atak, atak.\\n\\nWiesz, o czym mówię, co? Ta taktyka, którą Dante czasem sugeruje, gdzie mamy atakować, rzucając ostrożność na wiatr, idąc na dno z szablem.\\n\\nMogę się mylić, ale... hej, całkiem prawdopodobne, co?\\n\\nDante, spróbujmy mojej taktyki tym razem. Hm?\\n\\n→ Nie powiedziałbym, że część z „idąc na dno z szablem” jest prawdziwa, ale... to pomysł. Spróbujmy.\\n\\n→ Mm... jego ataki pazurami bolą bardziej, niż się spodziewałem. Lepiej wypróbować inne podejście.\\n\\n→ Z tej próby można wnioskować, że zupełna obojętność może wywołać gniew.\\n\\n→ Psia jucha... To jak powiemy? Zagrajmy z nim wszyscy razem następnym razem.",
+      "kr_sha256": "3d4d27da293559e63d4e90b1028b0ccae9a5cd1bfbc0eccfd7ec7780410fe6fa",
+      "en_sha256": "a51efb4f8547431ecfe6d3d247f82475571978e4380d4aea40cb043927171eef",
+      "origin": "ai"
+    },
+    "dataList[id=8379].storyList[level=2].story": {
+      "pl": "Okay... granie z nim wszystkimi razem też nie było rozwiązaniem, co...\\n\\nRobił się coraz surowszy, aż w końcu przytulił nas wszystkich! Jak, jak wielki uścisk niedźwiedzia!\\n\\nI gwoździe w jego ciele zaczęły nas kłuć w trakcie, i...\\n\\nUgh! Ohydne, ohydne doświadczenie. Kłucie to najgorsze uczucie.\\n\\nCo teraz? Nie możemy go zignorować, nie możemy się z nim bawić, więc...\\n\\nHm, może chodzi o coś w... nastroju tego misia?\\n\\nWyczuliście to też, prawda? To jak... wiecie, to dziwnie smutne uczucie?\\n\\nZa każdym razem, gdy się z nim bawiliśmy, to „uczucie” zdawało się trochę zanikać.\\n\\nA więc tak: nie bawić się z nim za dużo, ale też nie ignorować go zupełnie.\\n\\nBawić się z nim w samą właściwą miarę.\\n\\n→ Serce mi nie spoczywa na widok tej słabej smutku, choć głowa wiedziała doskonale, że to tylko Anomalia.\\n\\n→ No tak. To po prostu musimy... kopnąć go w tyłek w samą właściwą miarę, co?\\n\\n→ Właściwa miara rozrywki może być dozwolona, lecz nie toleruję niedbałego podejścia do walki\\n\\n→ To... co dokładnie znaczy „właściwa miara”...?",
+      "kr_sha256": "d8246bda610f5194ab21e2a3584788c6b11e9a9c5cb6e4cb9d0840da11ac7277",
+      "en_sha256": "a2e93ccd2a1bb55f5f5ab6209f8a100a10dc8e510654bd7e4670f63ed55bd244",
+      "origin": "ai"
+    },
+    "dataList[id=8379].storyList[level=3].story": {
+      "pl": "Gdy znowu pędził na mnie agresywnie, by mnie przytulić, pomyślałam, że dziś znów mnie zabije, # cokolwiek.\\n\\nAle... nie.\\n\\nPrzytulił mnie tak mocno, a ja czułam się tak... wygodnie i ciepło.\\n\\nWcale nie bolało. Nawet jego ostre paznokcie zmieniły się w miękkie i gąbczaste.\\n\\nMoże próbował nam to wynagrodzić za zabawę?\\n\\nTak czy inaczej, po tym po prostu... siedział, nic nie robiąc, jakby był zadowolony.\\n\\nJakby skończył czas zabawy.\\n\\nZabiliśmy go, skoro to tylko Anomalia, która akurat stała nam na drodze, ale...\\n\\nNie podobało mi się to.\\n\\n... Zresztą, był trochę słodki, jeśli się zastanowić.\\n\\n→ ...Pisząc takie rzeczy... Faust może przyjść cię skarcić...\\n\\n→ Ja nie „skarcam”. Te komentarze są jedynie racjonalnymi ostrzeżeniami przed emocjonalnym traktowaniem Anomalii, które nie bierze pod uwagę definicji i osobliwości każdej anomalii.\\n\\n→ No weź, odpuść mi, Fau~ Pozwól mi pogłębić się trochę nad słodką Abno po serii ohydnych obiektów~\\n\\n→ ... Zostanie wprowadzona miara, by do twojego dziennika obserwacyjnego przydzielano mniej... zewnętrznie groteskowe istoty.",
+      "kr_sha256": "acf6678de8144eef80e97c248e4b2d1178b7cec0b8ec48a23c993684eff19615",
+      "en_sha256": "155a1b31527113e234f2f14cf68376cc4adddb372548e5636c976b91005d6983",
+      "origin": "ai"
+    }
+  }
+}

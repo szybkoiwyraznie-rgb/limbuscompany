@@ -1,0 +1,334 @@
+{
+  "entries": {
+    "dataList[id=8082].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8082].name": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[id=8082].storyList[level=0].story": {
+      "pl": "Naprawdę nie czuję ochoty na pisanie dzienników...\\nLecz zrobię to... jeśli muszę.\\nNie walczyłam z Kromer przedtem ani nie widziałam, jak wojska N Corp walczą... Lecz z tego, co mogłam wywnioskować, ona pewnie zna się na szermierce. Zawsze nosiła przy sobie jeden.\\nJeśli chodzi o jej wygląd... Nie za bardzo różniący się od tego, co pamiętam, oprócz trochę wyższego wzrostu...\\nI, ten dezorientujący śmiech...\\nUnnh, czy mogę skończyć tu?\\n→ Nic z tego nie pomaga.",
+      "kr_sha256": "4df73f85a1b33ba33c1ae8b874b2fcd9baa137bffbc5b94d3692a5a44e24f7ad",
+      "en_sha256": "a5c2d886691bd8a45ed671a26022d935513f49f86716e0e5fc0a5a8d2f0998a1",
+      "origin": "ai"
+    },
+    "dataList[id=8082].storyList[level=1].story": {
+      "pl": "Ten drań, ona zabija naszych Grzeszników!\\nZamordowała wszystkich w tylnych szeregach...\\nWydmuchując ten głupi gwizdek... Przybyła także do mnie...\\nNie mogłem nic zrobić... Słysząc ten dźwięk, moje ciało sztywnieje...\\nMogłem tylko patrzeć, jak Kromer wycina pozostałych...\\nTak pragnąłem rozcruszyć jej czaszkę... Ale nie mogłem poruszyć ani mięśnia.\\nCo mam robić... Czy możesz mi powiedzieć, zarządczynio?",
+      "kr_sha256": "0bb3e42edf46f8e69a46665c6a4d0e85aac1b886efbdfbf2caeae03208517c38",
+      "en_sha256": "4221a14c99a5b9ce3ab09df0075dbf22fa109ca480113cb9599dbef40bd8905c",
+      "origin": "ai"
+    },
+    "dataList[id=8082].storyList[level=2].story": {
+      "pl": "Ja...\\nJa, wciąż boję się Kromer.\\nPatrzenie na jej twarz sprawia, że czuję drgnięcie mięśni twarzy, a jej ostrze daje mi ciarki.\\nJej szalone oczy przypominają mi tragedię w Boże Narodzenie, a jej dziwaczny uśmiech z uniesionym jednym końcem wciąż sprawia, że moje oczy drżą.\\nAle...\\nAle teraz jest okej.\\nTeraz mogę stanąć dumnie naprzeciw jej gwizdów.\\nRzeczy, które ona narobiła, są zbyt plugawe, bym mógł stać z boku, i byłbym zbyt hańbiący, by patrzeć na Grzeszników, których zabiła, gdybym pozwolił tej piezorze odejść.\\nDużo się zmieniłem od tamtego czasu.\\nDoświadczyłem wielu śmierci i zadałem wiele życia.\\nJa też, teraz mogę oszaleć tak samo.\\nDlatego na pewno…\\nWbiję pal w jej pierś, raz za razem.\\n→ Masz dobre nastawienie. Podoba mi się to.\\n→ Choć gotowość do walki jest godna podziwu, ten dziennik jest do obserwacji, a nie dekretów twojej determinacji.\\n→ Przepraszam… Następnym razem zrobię to właściwie.",
+      "kr_sha256": "462c4d2350237dd242bdee308e64c1bb11eaea571fe7056de035e3cb6563cf75",
+      "en_sha256": "10a191811ae50a9a7aff6d8de8e54c87b91193f0b5e369c96dd316d3a76d6e63",
+      "origin": "ai"
+    },
+    "dataList[id=8083].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8083].name": {
+      "pl": "Kromer the Attempted Protoplast",
+      "kr_sha256": "9929c42b2cb80c876009e7d8b9bf3857b0b803db6bb5467fa1e86b196b92c988",
+      "en_sha256": "9961c2158b9107654a6b25476c2356f4d0b363d0fe17a146c59bea84c5008bfe",
+      "origin": "ai"
+    },
+    "dataList[id=8083].storyList[level=0].story": {
+      "pl": "Gdy o tym myślę, Kromer zawsze miała obsesję na punkcie ciała.\\nI ta obsesja skumulowała się w to, co teraz widzimy... Ohydne stworzenie.\\nPierwotnie... Zgadzałam się z nią. Pomysł na zastąpienie ciała czymś innym był nieprzyjemny dla mnie.\\nLecz teraz widzę. Co naprawdę jest nieprzyjemne... to wierzyć, że twoja myśl jest jedyną poprawną... i pozwalać, by ta myśl połknęła twój umysł w całości.",
+      "kr_sha256": "e94fd7dcc88cf7da8a34f42806362a8a9e6b69764f56ae2808a10eb97bd16ba9",
+      "en_sha256": "5e1a5ace80f4a0bc1dd70106edf1ebb7cc5088cd77cb2b497fba00093c2352a7",
+      "origin": "ai"
+    },
+    "dataList[id=8084].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8084].name": {
+      "pl": "Headless Ichthys",
+      "kr_sha256": "b4f6872f9cd092e6b1d3a3099cd7b873be9d5292431fea651a91b11291e45047",
+      "en_sha256": "a8fa217d2974000b703cfab2e142f009e2d799d6a9abebdbbc2d292307c9f24b",
+      "origin": "ai"
+    },
+    "dataList[id=8084].storyList[level=0].story": {
+      "pl": "Ma wygląd ryby.\\n-Jej głowa została odcięta.\\n-Powierzchnia cięcia jest czysta; zdaje się być dokonana jednostronnym ostrzem, takim jak nóż czy kosa.\\n-Przejawia ruch mimo braku głowy. Świadom jestem tego, że to, czy anomalia ma nietkniętą głowę, jest zupełnie nieistotne dla jej zdolności do przejawiania aktywności, lecz odnotuję to tak czy inaczej.\\n-Nadmuchany worek widoczny w okolicy klatki piersiowej. Nie zdołałem dokonać jasnej obserwacji.\\n-Nowe odkrycia odnotuję w przyszłym sprawozdaniu.",
+      "kr_sha256": "fc1bd58d0ac56fbc88c10dd1e2f1d4561eb025d590e7f6e4f71757ffc5835fa0",
+      "en_sha256": "fa0701c1d98a5575eeee882507331b02d7312f6c2db7e472519df6bee5cf1da2",
+      "origin": "ai"
+    },
+    "dataList[id=8084].storyList[level=1].story": {
+      "pl": "Sylwetka jest obserwowana wewnątrz nadmuchiwanego worka wokół klatki piersiowej.\\n-Zdaje się przypominać kwiat, lub ośrodkowy system nerwowy człowieka.\\n-Rozszerza worek, by używać go jako tępe narzędzie, i może ścisnąć go z wielką prędkością, by wyprawić płyn.\\n-Ogólnie worek uznaje się za główny komponent jej ataków; szybkie zniszczenie powinno okazać się skuteczne.\\n-Nowe odkrycia odnotuję w przyszłym sprawozdaniu.",
+      "kr_sha256": "c54fbd97e0a210b114c664bfc8e4ee71bb19c2357eb23a6d7b3052b77e7ad7fe",
+      "en_sha256": "fd6b9b2e0800084f34d81812a69d91804f20c0de55b65cb2c64c560e208e649d",
+      "origin": "ai"
+    },
+    "dataList[id=8085].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8085].name": {
+      "pl": "Alleyway Watchdog",
+      "kr_sha256": "c4f0cb1fa9dbfc6198496adb1e4756fc86484268658a0eeaf69b070e3b2760b3",
+      "en_sha256": "c80a0ef10c8fb477b5ac1b5cfe46e25ae2119d761a3158d3a93536388b64ce7a",
+      "origin": "ai"
+    },
+    "dataList[id=8085].storyList[level=0].story": {
+      "pl": "Opiszę moje wrażenia ze starcia z tym.\\nMa wygląd trzech ciemno umaszczonych wilków zszytych razem w delikatnej operacji. Nie, być może było ich więcej, gdyż posiadała więcej niż trzy pyski.\\nNa wierzchu psich łbów była postać osoby, zwęglonej ponad rozpoznanie. Choć spalenie tamtego stopnia normalnie zredukowałoby taką postać do popiołów, jej forma była stała jak się da, jej mięśnie nawet przejawiały ruch.\\nDodatkowo stos drewnianych słupów telefonicznych jest wbity w ciała wilków, jak kołki w więźnia. Zdają się periodycznie wydobywać elektryczność, lecz nie mogłem pojąć, jakimi środkami zdołają to uczynić.\\nTyle mam do podania.",
+      "kr_sha256": "6411c8cb198f80ba906f7509c0c8eab9e1351f2acd704cae0e48c9685661d8cc",
+      "en_sha256": "fb2dcea2319a7ae32bbb392d66d528c0b908311a31ed3e79e87c8812ab654309",
+      "origin": "ai"
+    },
+    "dataList[id=8085].storyList[level=1].story": {
+      "pl": "Miałem sposobność starcia z nią w walce.\\nPędziła na mnie, galopując w opętany sposób.\\nJej wizerunek był dalekim krzykiem od psa rozkazanego do walki lub bestii tęskniącej, by się nakarmić.\\nPędzenie na mnie mogło być jej jedynym wyborem.\\nWidziałem purpurowy łuk elektryczności pędzący przez jej grzbiet. Co przypomniało mi zwierzęta testowane w podobnych warunkach w laboratorium.\\nPrzy pomocy bodźców elektrycznych zwierzęta te były zmuszane do ruchu, jaki zamierzało inne istnienie.\\nZastanowiło mnie, czy to samo dzieje się z tym stworzeniem.\\nChoć jej pazury bolały mnie dotkliwie, poczułem i odrobinę litości.\\nTyle mam do podania.",
+      "kr_sha256": "0e9ecf146d20619b280ec34067491dcdaa3ab6ec90e0b53ca3c3dba7ba449b2e",
+      "en_sha256": "95f47ccd862ef00c4e090aaf9d4f9312887d086dd095e2e4f1ec13ae7f5c8bfa",
+      "origin": "ai"
+    },
+    "dataList[id=8085].storyList[level=2].story": {
+      "pl": "Miała gromogłosny ryk.\\n\\nOpisując to szczegółowiej, zbierała sztylety błyskawic, jakby wszystkie burze i gromy świata uderzyły ją naraz, więc nie byłoby przesadą rzec, że jej ryk ma gromowłasność.\\n\\nNaturalnie, zdołałem zidentyfikować źródło jej elektryczności.\\n\\nTo stworzenie było jak żywa bateria. Zbierając błyskawice w swoim ciele, używała mocy, by napędzać samą siebie.\\n\\nNiestety, jej użycie energii błyskawic nie było dla celów własnego podrażenia, jakiegoś pogoni za siłą;\\n\\nakumulowane siły elektryczne zdawały się dyktować jej ruch, dając mi wrażenie, że to była wola nieba, którą podążała.\\n\\nPodnosząc takie myśli, pani Faust przypomniała mi, że nie jest właściwie mieć takich wrażeń o anomalii.\\n\\nStąd zamykam dziennik tu, by nie stał się zbyt sentymentalny.",
+      "kr_sha256": "2934845cdacd3322df57aeda6b4d36223f4c2de9294908656132464144a53958",
+      "en_sha256": "2c98ac762c70574cff4404bf7e778898c7b50b6f1e4a5c6cab0a952d781f916c",
+      "origin": "ai"
+    },
+    "dataList[id=8086].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8086].name": {
+      "pl": "Shock Centipede",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=8086].storyList[level=1].story": {
+      "pl": "Tak... Ta stonogopodobna rzecz, co?\\n\\nTak ją mianują, ale nie jestem pewien, czy to właściwa nazwa dla czegoś ubranego w wielki łańcuch stalowego pancerza.\\n\\nAh, cóż… Chyba takimi są anomalie.\\n\\nDobrze… Zaczynając od wyglądu, wygląda jak ogromna seria błękitnych płyt stali połączonych razem. Jakoś jak robot.\\n\\nOczy były czerwone… i mignęły czasem.\\n\\nCzasem… Nie, czy to właściwie całkiem częste? Widziałem iskry odbijające się wokół jego ciała, jakby płynęła elektryczność. Jeśli widoczne gołym okiem, to znaczy, że napięcie jest całkiem wysokie... Nie skończy się jedynie na ukłuciu, gdy cię dotknie, to na pewno.\\n\\n→ Stonoga… Mi wyglądała bardziej jak wąż. Zwijała się w spiralę i tylko pałała wzrokiem.\\n\\n→ Słusznie, ale… Czy węże miały nogi tam, gdzie żyłeś? Nie wolno mianować tamtej wężem.\\n\\n→ No miały, co?\\n\\n→ Są nogate węże.\\n\\n→ O, ja też je widziałem.\\n\\n→ ... Czy jestem jedynym dziwakiem?\\n\\n→ Jesteś taki zabawny, kochanie~",
+      "kr_sha256": "0aaec4f990b43e820ae565d5b58eb87527e37aa03f06833d5bd5d20d0f8a5ec1",
+      "en_sha256": "db0da48688353de7e6360d079475971f4b9da9795c3554c96fd571f91e8e2f3a",
+      "origin": "ai"
+    },
+    "dataList[id=8086].storyList[level=2].story": {
+      "pl": "Haah... Elektryfikacja nie była tym, o czym powinniśmy się martwić.\\n\\nOpisałem ją jako noszącą jakiś stalowy pancerz, nieprawdaż? Muszę skorygować; raczej niż pancerz, była bardziej jak... ostrza zaostrzone ze wszystkich stron okrywające jej ciało.\\n\\nWyobraź sobie, że dźga, odpycha... nawet owija się wokół nas takim ciałem. Wyrządziła Grzesznikom krzywdę.\\n\\nWszyscy krwawiliśmy do sucha, walcząc...\\n\\nTo nie znaczy, że elektryczność nie miała z tym nic. Wyglądało na to, że musiała przerwać wszystko, co robiła, i zwinąć się w spiralę, by nas porazić.\\n\\nNie dziwota, że tak było, gdy pierwszy raz się z nią zmierzyliśmy...\\n\\nCóż, chyba to znaczy, że ma jedną wyraźną słabość.\\n\\nGdy jej głowa została rozbita, nie mogła już zwinąć się w spiralę... To musi znaczyć, koniec elektryfikacji, co?\\n\\n→ Wybaczam, Gregor. Ufałam ci i pędziłaś naprzód tylko po to, by zostać zpieczoną na węgiel. Co masz do powiedzenia w tej sprawie?\\n\\n→ Mogę zaświadczyć. Jej przebarwione włosy przypominały zepsute brokuły. Nie jadłbym takiej rzeczy jak pomarańczowe brokuły nawet w bitwie.\\n\\n→ ...Jeśli masz problem z moimi włosami, powiedz to wprost.\\n\\n→ W-Whoa, spokojnie... Ochłoń. Patrz, przepraszam za to, co się stało... Kto mógł pomyśleć, że rozbicie głowy sprawi, że elektryczność popłynie przez całe jej ciało?",
+      "kr_sha256": "ce6819dee58149afc98871e07f694c4df851335cc2adb565aecb627bfe19662c",
+      "en_sha256": "5afedb8099a6319e8431c624cd1d5034c2e7867acf7a0cc2cc22e7a6cc089491",
+      "origin": "ai"
+    },
+    "dataList[id=8086].storyList[level=3].story": {
+      "pl": "Czy wiesz...? Najwyraźniej nerwy stonóg pozostają aktywne i szaleją przez dobry czas nawet po zatrzymaniu bicia serca.\\n\\nTa jest taka sama.\\n\\nZdaje się być jakimś ostatnim zmaganiem... Opuściliśmy czujność, ale wtedy bogaty kumpel zginął.\\n\\nFaust powiedziała: „Skoro nerwy są aktywowane elektrycznymi bodźcami, to może być problem elektryczny.”\\n\\nCóż... Dodała, że „Choć nie ma gwarancji, że taka logika nadal obowiązuje z anomaliami.” Lecz ja się z nią tam nie zgadzam.\\n\\nGdy rozbiliśmy jej głowę ostatnim razem, spostrzegłem coś... Przynajmniej ten gość musi podążać za pewnymi prawami, które mają sens. Już widzieliśmy zwarcia i prądy elektryczne z nią działać, prawda?\\n\\nJeśli tak... Gdy poczekamy, aż wyczerpie moc... Zejdzie sama.\\n\\nSprawdź, czy mam rację, co?",
+      "kr_sha256": "e03736cd342f1f918b83b376c4dd366881cd7e13360d091d971a8c70319c024c",
+      "en_sha256": "a52e975e1b4c46b9629949c0175cc4ab0d4274872c4ae412530e0e6fbe0a43d1",
+      "origin": "ai"
+    },
+    "dataList[id=8087].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8087].name": {
+      "pl": "Drifting Fox",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=8087].storyList[level=1].story": {
+      "pl": "Hmm... Jak to ubrać...\\n\\nMoje pierwsze wrażenie o niej było, żałosne... i nędzne.\\n\\nWyglądała jak wielki wilk... nie, właściwie lis. Patrzyła na nas i warczała.\\n\\nNa jej ciele... stare parasole były wpięte. Nie jeden, kilka.\\n\\nNie wygląda, jakby zostawili je ktoś próbujący ją zaatakować... Gdyby tak było, ostre części byłyby wpięte w jej ciało najpierw.\\n\\nZastanawiam się, czemu uchwyty parasoli były wpięte w nią.\\n\\nZdawała się być ekstremalnie czujna wobec nas. Nie tak, jakby było dużo anomalii, które nie przejawiały wrogości, ale... Nie sądzę, by wiele z nich pozostawało „czujnych” jak ta.\\n\\n... Mm, zatrzymam się tu na razie...",
+      "kr_sha256": "4bf407989ce4208bec3e1fadb4369d506b4af25e1a67e009c8e0b9f4c28a92df",
+      "en_sha256": "1fd0fe327d97ee732e8300ef6c1af8276893a7dc7142cd3e9843d0dcf03b86d0",
+      "origin": "ai"
+    },
+    "dataList[id=8087].storyList[level=2].story": {
+      "pl": "Im więcej parasoli otwartych, tym gwałtowniejszy zdaje się być lis.\\n\\nW szczególności... czasem nic nie robi i czeka, ale atak, który nadejdzie potem, był zwłaszcza potężny.\\n\\n...Hę.\\n\\nLis... czasem płacze.\\n\\nPatrząc w niebo, wyjąc długo... jakby obnażała jakiś smutek na niebo.\\n\\nNie tak, że rozmawiałem z nią, ani nic z jej przeszłości poznałem, ale... za każdym razem, gdy słyszę ten dźwięk, moje serce tak mocno boli.\\n\\nRobi się jeszcze gorzej, gdy łamię jeden z parasoli na jej ciele... Jak moje własne serce się łamie...\\n\\nTak się czuje.\\n\\n→ Sinclair, to, czego doświadczasz, to prosta utrata rozumu podczas walki. Nie pozwól, by anomalia na ciebie wpłynęła.\\n\\n→ Ale... lis czuje się inaczej niż anomalie, z którymi walczyliśmy... Jestem pewien, że nie była zawsze wroga…\\n\\n→ Nie odnoś się do niej jako lis albo pies. To nic więcej niż anomalia. Nie wolno ci jej mylić ze zwierzęciem, które można znaleźć w Mieście.\\n\\n→ Zbieraj się, myślisz, że ta podróbka wróżki z grubym galaretowym tułowiem była łatwiejsza do opanowania? Wszystko, co musimy robić, to walczyć i spać, gdy nam każą. Skończysz martwy, starając się troszczyć o bzdury!",
+      "kr_sha256": "99211e9456fc223eb73e488806dcee33debee6e6d2358cab927350fca05208a5",
+      "en_sha256": "92c3ed43f7153594ec6a1156f0775f0627acf49be31d82a0004d1831718434ac",
+      "origin": "ai"
+    },
+    "dataList[id=8087].storyList[level=3].story": {
+      "pl": "Ah... W końcu to pojąłem.\\n\\nLis gniewał się na tych, którzy rzucają jej jedynie bezsensowną uwagę, po czym odchodzą.\\n\\nPatrząc na nędzną, porzuconą rzecz na ulicy i dając jej nic oprócz parasola...\\n\\nLudzie, którzy dawali jej taką marną troskę i myśleli o sobie jako łaskawych dobroczyńcach, karmiąc własne ego...\\n\\nO tym lis był smutny i gniewna.\\n\\nJa, ja rozumiem, skąd to się bierze…\\n\\nMusimy zabrać zużyte parasole na tamtym biednym dziecku, i sami ją objąć. My-\\n\\n→ Tu nie było wyboru. Zdawało się, że to coś, z czego mógł się otrząsnąć dopiero po śmierci. (Na dzienniku widać ślady krwi.)\\n\\n→ Choć metoda była raczej skrajna... Na pewno nie był to stan, który dałoby się rozwiązać w krótkim czasie inaczej.",
+      "kr_sha256": "3524575d1cf25436a5475996897dc4f9874931ad0c6ec2a09e52579b459094e6",
+      "en_sha256": "c43fe4bba967fe658c621559abde6f61ee3d682fd4c62d15ccc13b1a752feb25",
+      "origin": "ai"
+    },
+    "dataList[id=8089].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8089].name": {
+      "pl": "So That No One Will Cry",
+      "kr_sha256": "2c54ae6796f8f632ca927767e50556d5f7ea02e127cf782f8a6fc4423a34d8c6",
+      "en_sha256": "5b0d4e31944a59cebca590808f82da35e272f3b52ec801ab3aa76c70685b457e",
+      "origin": "ai"
+    },
+    "dataList[id=8089].storyList[level=1].story": {
+      "pl": "Cóż... To wygląda jak upiornie wyglądający klocek drewna.\\n\\nMa krew po całym... i papiery, także.\\n\\nNie były częste, ale widziałem takie rzeczy w Zakamarkach od czasu do czasu. O czym to było, przekleństwa...? Było śmieszne dla mnie, że niektórzy cwaniaczki naprawdę wierzyli w tę głupotę.\\n\\n...Gah, chyba nie była to totalna bzdura, skąd widzę tamtą rzecz własnymi oczami.\\n\\nTen klocek drewna, ta rzecz się rusza.\\n\\nPrzysięgnąłbym, że była sztywna jak drewno, gdy widzieliśmy ją w Mirror Dungeonach czy co, jak rekwizyty do filmu horroru.\\n\\nAtaki nie są dużo, ale gdy widzisz pełny blok drewna jak tamten... lecący na ciebie z taką prędkością, trochę to straszy.\\n\\nCzuje się, jakby jeden cios mógł pęknąć kość czy dwie.\\n\\n...Cóż, nie zamierzam usiąść i pozwolić jej na trafienie mnie.",
+      "kr_sha256": "1618e0cf0f3b52ee3529ed97f20411998e0fd8383646b72aea321abb437eab68",
+      "en_sha256": "0dd9baed0d6a7776bd3e5fe3ab58c4ba61ed809a9c07252571b7a9fdefbac0f2",
+      "origin": "ai"
+    },
+    "dataList[id=8089].storyList[level=2].story": {
+      "pl": "Kor, czemu jest tak piekielnie lepiące... (Substancja zdająca się być żółtym klejem jest rozmazana wokół tej części.)\\n\\nZałożę się, że ten szmatarowicz rozlewał ulotki w Zakamarkach na żywot, gdyby był człowiekiem... nic poza tym przez lata, ręczę ci.\\n\\nPrzykleił kilka talizmanów na moje ciało, zanim zdołałam spostrzec. Cholera...\\n\\nNie jestem pewna, czy to te upiorne kawałki papieru mnie wkurzały, ale czuło się trochę, jakby kij działał lepiej. Cokolwiek było, nie czuło się jak zła rzecz.\\n\\nO, i talizmany na jej ciele przeniosły się na mój kij, także. Nie wiem, jak to działa, ale... Chyba owinęły się wokół niego.\\n\\nTak czy inaczej, ta rzecz tym bardziej mnie wkurza, im bardziej ją biję. Niektóre rodzaje stresu trzeba ulżyć bicie rzeczy, ale to nie pomaga.\\n\\n→ To coś, co mógłby powiedzieć jedynie rzezimieszek. Naprawdę jesteś szorstka.\\n\\n→...Hę? Jak on powstrzymuje swój gniew, gdy tamten komentarz jest wprost wyżej?\\n\\n→ Faust celowo powstrzymała go od patrzenia na to. Byłoby to marnowaniem, by wypełnić przestrzeń bezużytecznymi informacjami.\\n\\n→ Oto nasz mądry kumpel.\\n\\n→ Tak btw... Chyba czułam się silniejsza z większą ilością talizmanów na mnie, także. Nawet jeśli nie denerwowały mnie ani nie sprawiały, że czułam niczego.\\n\\n→ W takim razie... Talizmany same w sobie mogą mieć jakiś efekt. Co powiemy na próbowanie przyklejenia ich wielu celowo?",
+      "kr_sha256": "9633270c34bff3734f897008eb0b9e2ec81ae59131a3d40735556e174afcd139",
+      "en_sha256": "cada4e66960760416c885c37b357f6dea7ec906bf4ce9eb506e9f4a7820c66e7",
+      "origin": "ai"
+    },
+    "dataList[id=8089].storyList[level=3].story": {
+      "pl": "Cholera, czemu każecie mi pisać to osobno?\\n\\nMogłam po prostu pisać dalej tam, gdzie pisałam, wiesz... Co to za szczególne traktowanie? Irytuje mnie.\\n\\nNieważne, czuję się świetnie, zamieniając ten klocek drewna w stos opału, więc tym razem to odpuść.\\n\\nPróbowaliśmy dostać mnóstwo talizmanów na nas, jak sugerował któryś z nas... ale zbyt dużo talizmanów w rzeczywistości nas obciążało. Jest dziwnie męczące, jak powiedzieli inni.\\n\\nZamiast tego... Ten klocek drewna czasem stawia wartę zamiast atakować, widzisz...?\\n\\nMały chłopak wymachnął wtedy halabardą, i talizmany na tej broni zostały wciągnięte do klocka drewna.\\n\\nPotem zmienił się w purpurę...\\n\\nHeh, wtedy to pojęłam. Nie mógł nic zrobić, gdy trzymaliśmy papier na nim, więc zamieniliśmy go w zwykły opał.\\n\\n→ Korekta: anomalia wróciła do swej jajowatej postaci. Żadne eksperymentalne działania, jak rzeczywiste zamienianie się w stos opału lub podpalanie go, nie miały miejsca.",
+      "kr_sha256": "842e58c14510aa82cafa3aac58b3bbc9a6e28af744fd560bc54566bade4859ee",
+      "en_sha256": "25209d6dc4f176410ef3764891fd031213e7ac9546db81754e068bf3605f080c",
+      "origin": "ai"
+    },
+    "dataList[id=8090].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8090].name": {
+      "pl": "Fairy Gentleman",
+      "kr_sha256": "e23e5a9a7e2c1c1d68583f7f74a8a123325ae1fc90cc99cbe0c86f75d7b1b0f0",
+      "en_sha256": "9e73cfce0aad0c0e914038930f9d254c361d6e551c16a7797e29a2293f8535b8",
+      "origin": "ai"
+    },
+    "dataList[id=8090].storyList[level=1].story": {
+      "pl": "Czuje się okropnie dużo jakbyście ciągle kazali mi robić wszystkie ohydne rzeczy... To tylko przeczucie, prawda…?\\n\\nEh, tak czy inaczej... Zapiszę, co wiem o tamtej zgniłej galaretce o smaku herbaty.\\n\\nJeśli pytacie, czemu znam to w takim szczególe~\\n\\n...Bo zostałam włożona do tamtej ohydnej mordy jego.\\n\\nZnaczy, gdy tylko spojrzenia się spotkały, poleciał w górę, jak swush~ znienacka, a potem zgniotł mnie ustami na jego brzuchu! Jak, splorch, wiesz?\\n\\nŚmierdziało tak źle… Ugh, tak to nienawidzę.\\n\\nOh... Teraz, gdy o tym myślę, zapach sam w sobie nie był taki dziwny.\\n\\nBył tylko zbyt... beznadziejnie słodki, chyba? Mój nos prawie zdrętwiał.\\n\\nTak czy inaczej, czuło się naprawdę dziwnie.\\n\\n→ Hmm... Czy był tak plugawy? Jeśli chodzi o mnie, zapach tych... galaretopodobnych kawałków odbijających się przy każdym ataku był całkiem w porządku.\\n\\n→ Stymulowała mnie. (Popiół papierosowy przesiąkł w ten odcinek notatki.)\\n\\n→ Miał właściwości wzmacniające i dawał ogólne uniesienie psychiczne.",
+      "kr_sha256": "6654148f24c50c5e881a0e9a6be61c0dd8d672f44bb1a6928d42a5d910dd1f5c",
+      "en_sha256": "3232f819501636d4b47eed481ede10c2fa1fa85aa4527c915ed4e982a842f0d9",
+      "origin": "ai"
+    },
+    "dataList[id=8090].storyList[level=2].story": {
+      "pl": "Grr... Ten gość naprawdę mnie wkurza.\\n\\nNie wiem, czy to chwiejne ciało, ale każdy ruch jego czuje się tak irytująco! Zwłaszcza gdy unika moich ataków.\\n\\nTak samo jak radzenie sobie z dręczycielami na ulicach jako dziecko. Wiesz, jak śmieją się do ciebie „Haha, nie umiesz nawet trafić?”. To jest dokładnie jak tamto...\\n\\nHngh... Chyba naprawdę się zestresowałam. Czuję się trochę zawrotnie, także...\\n\\nZatrzymam się tu na razie. Przepraszam, Dante~\\n\\n→ Czy ona jest pijana?\\n\\n→ Niemożliwe. Nie było sytuacji, w której alkohol mógłby być spożyty.\\n\\n→ ...Właśnie! G-Gdy walczyliśmy z anomalią, czy nie rozbiła jakiegoś wielkiego kubka czy czegoś takiego? Myślę, że jest taka od tamtej pory...\\n\\n→ Ah. Teraz, gdy o tym mówisz, pamiętam, że gruby zmykał przed jej toporem i sprawiał, że rozbijała się o szklaną czarę.",
+      "kr_sha256": "a3aa207400414881a6517c32407234ddc470fef8c81532a4e2c4af95348419c6",
+      "en_sha256": "0414fa8727b263c5c81f28d5d67aee3e770d7e07195f7636321d9ed0c4cec31b",
+      "origin": "ai"
+    },
+    "dataList[id=8090].storyList[level=3].story": {
+      "pl": "Przepraszam~ Byłam trochę nieuporządkowana z moim ostatnim dziennikiem.\\n\\nSpytałam Fau, czy mogę wymazać go i napisać nowy, ale powiedziała, że absolutnie nie mogę. Czyż nie jest złośliwa?\\n\\nTak czy inaczej... Pomogło to rozgryźć pewne rzeczy, więc mam nadzieję, że pokażecie jakąś wyrozumiałość.\\n\\nOto co mogę powiedzieć na pewno: te kawałki galarety, które lecą dookoła, gdy walczymy, podnoszą nasze morale.\\n\\nI, uniesienie staje się potężniejsze, gdy bitwa trwa.\\n\\nGdy ktoś, czyje morale jest na najwyższym... Znaczy, jak MAX! Najwyższym z najwyższych... rozbije szklankę trunku~\\n\\nBingo! Ta osoba robi się super pijana od razu!\\n\\nGdy ktoś zrobił się pijany, jego ataki stawały się słabsze i pudłowały dużo łatwiej.\\n\\nI tu haczyk~ Galaretowaty grubasek zjadł kiedyś jednego z naszych pijanych kumpli, prawda? Wtedy nagle zrobił się dziwny i potykał się!\\n\\nWykorzystaliśmy sposobność i zmiataliśmy go z podłogi~~\\n\\nWidzisz, byłam super pomocna!\\n\\n→ Gdybyś była tylko trochę szybsza w pojmowaniu, na pewno byś była.\\n\\n→ W takich chwilach trzeba po prostu powiedzieć tak…",
+      "kr_sha256": "ffd9266802cc763c0752b88914bd42370084efc06e80154dc52de923549393f7",
+      "en_sha256": "06175719d30ff61297871dcf520efb8b56973a198bcc14fb00c60da90d000582",
+      "origin": "ai"
+    },
+    "dataList[id=8092].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8092].name": {
+      "pl": "Fairy-Long-Legs",
+      "kr_sha256": "3f9fdc150789304a9c321e502144e7f271541222a769fdd130571b5f204cfd20",
+      "en_sha256": "a7430a50b0b5cb78f5cc5503028f7e61f6df160ad67db8d5b58152bf2def9804",
+      "origin": "ai"
+    },
+    "dataList[id=8092].storyList[level=1].story": {
+      "pl": "To... było jak zielona, półprzezroczysta galareta.\\n\\nTo nie jest mój pierwszy raz widzenia takich rzeczy... Więc gdy zajrzałem do dzienników obserwacji, te rzeczy były wszystkie mianowane wróżkami. W takim razie obstawiam, że ta rzecz jest wróżką, także. Nawet ma niezwykle małe skrzydła.\\n\\nCóż, cokolwiek jest mianowane, chyba jest to nic więcej niż anomalia pod koniec dnia.\\n\\nTak czy inaczej... Jego lewe ramię było jak długa łopatka, jeśli wolno to tak nazwać... Dobrze, było także jak te kleiste taśmy, które czasem widuje się w restauracjach Zakamarków.\\n\\nI na drugiej ręce... dzierżyła wielki liść. Czterolistna koniczynka, prawda? Trzymała ją jak parasol.\\n\\nHę... Parasol.\\n\\nDokładnie. Wyglądało, jakby w tamtej okolicy zawsze padało.\\n\\nDeszcz był nieprzyjemny... Czuł się błotnisto i duszno. To było jak być ochlapanym morską wodą z łamiącej się fali.\\n\\nNie czuło się zbyt silne. Cóż, rozgryzę więcej, gdy będziemy walczyć.",
+      "kr_sha256": "278dcb349f03e0a74ebf558ecf96bf27a6db4c134009a22286a5bed14841f065",
+      "en_sha256": "ca871399447be2487a6cf8cf07cfc6467688b0a15e2d929ab4f06b4b3e5c9713",
+      "origin": "ai"
+    },
+    "dataList[id=8092].storyList[level=2].story": {
+      "pl": "Ugh... To na pewno anomalia. Tytuł „wróżki” dał mi trochę fantastycznych uprzedzeń, przyznaję. Byłem szczerze oczekujący, że bitwa będzie bardziej normalna niż to, co się stało.\\n\\nHaah... Ta kleista, rosiczka-podobna ręka rozciągnęła się i musnęła nas. Nie sądziłem, że rozciągnie się tak długo, więc nie mogłem pomyśleć o zablokowaniu.\\n\\nCo zrobiła potem było równie trudne do odpowiedzi. Zanim zdołałem podjąć jakiekolwiek decyzje, cofnęła ramię. Na czubku tego ramienia... były kawałki naszego ciała.\\n\\nWciskała te kawałki ciała do ust (nie jestem pewien, czy to właściwy sposób nazywania, ale nie przychodzi mi nic innego) na swoim tułowiu i gryzła je jak smaczne kawałki steka.\\n\\nZdaje się, że tak leczy samą siebie. Powinniśmy próbować powstrzymać ją od brania naszego ciała...\\n\\nAle atak jest szybki, więc chcemy rozplanować nasz kurs działania.",
+      "kr_sha256": "125d8963e370cd0d1a629817804d2e2e799c53ad26e6e59f23cc92d2fe555cce",
+      "en_sha256": "7cb42bcb5a71bfbb926a621b426cef47b23de4ea1caa14b3a1c48945e7c94754",
+      "origin": "ai"
+    },
+    "dataList[id=8092].storyList[level=3].story": {
+      "pl": "Od czasu do czasu tworzyła tę wielką koniczynę...drzewo-rzecz?\\n\\nGdy się nad tym rozmyślam, rzadko byliśmy trafiani deszczem, gdy staliśmy pod nią. I... wróżka zdawała się robić to celowo.\\n\\nKoniczyna, którą trzymała, czasem była rozdzierana podczas bitwy; gdy to nastąpiło, wyglądała dość niezadowolona, sądząc z jej reakcji. Co więcej... zdawała się zwalniać.\\n\\n„Relish jest utracony”...? Myślę, że powiedziała coś w tych granicach. Jej palenie w nas było intensywne na pewno.\\n\\nDeszcz może mieć rzeczywiste efekty na walkę, inne niż tylko czucie się ohydnie w nim.\\n\\nAha.\\n\\nJeśli tak, powód, dla którego tworzy drzewo koniczyny... to powstrzymywanie nas przed byciem trafianym przez szkodliwy deszcz, by zyskiwać więcej korzyści przy jedzeniu naszego ciała?\\n\\nBy... uczynić swoje posiłki smaczniejszymi.\\n\\nUgh, naprawdę sądzę, że ta rzecz nie zasługuje na bycie mianowaną wróżką.",
+      "kr_sha256": "ec1cffdc0890db2fcf16eb2801d03717a3836f92cea3cf2350253f3ab4499e43",
+      "en_sha256": "789d30cbc9733abbc153ac020d1d111cc652039d478ade82c29868bf924b86df",
+      "origin": "ai"
+    },
+    "dataList[id=8094].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8094].name": {
+      "pl": "Golden Apple",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=8094].storyList[level=0].story": {
+      "pl": "Ostatni raz pisałem dziennik obserwacji, gdy byłem dzieckiem, więc nie jestem pewien, czy dam radę, ale...\\nChyba rozkazy są rozkazami.\\nNo, ehh... Zacząć od opisu jego wyglądu?\\nHm, dobrze. To było jabłko.\\nOgromne, groteskowe jabłko z kończynami.\\nOsobiście mówiąc, czy to nie przeraża was, gdy produkt spożywczy robi się cały masywny albo zaczyna chodzić sam? Czy tylko ja tak mam?\\nZszedłem z tematu. Tak czy inaczej, tamto jabłko było złote. Zdecydowanie nie coś z przeciętnego sadu. Mmm, dobrze. To to, co się mianuje anomalią, co?\\nNo więc tak, ta anomalijna jabłkarska szła sobie dumnie sama.\\nWięc ja... Narastała we mnie rosnąca ochota, by posiekać to jabłko. Było to prawie magnetyczne. Trudno wyjaśnić.\\n...Cóż, nie znajdziecie wielu ludzi, którzy nienawidzą jabłek tak jak ja. Chyba to kwestia mojej niezwykłej przeszłości.\\nPostanowiliśmy cofnąć się na razie, bo mieliśmy zbyt mało wywiadu, by próbować walczyć.\\nPewnie weźmiemy się do tego w pewnym momencie, więc zapiszę więcej, gdy ten czas nadejdzie.\\n→ Jak nieuporządkowane. Czy twoje sprawozdania były równie żałosne podczas służby wojskowej?\\n→ Vergilius rozkazał nam pisać te jakkolwiek chcemy. Dante też się z tym zgadzał.\\n→ …Jeśli Zarządca Wykonawczy jest z tym w porządku, nie będę protestował.\\n→ [Na papierze pozostaje oparzenie papierosowe.] S.P.C.\\n→ Serio, jakie to drobne zażalenie.",
+      "kr_sha256": "54ffcdc99e77e5ac967a74cebae7527f4bbac5c2d53c9118b69d0bc083842950",
+      "en_sha256": "e2d5033e5fec9d212ecfa0220696215713bd1bf03cb5507178b46b03415f8eb1",
+      "origin": "ai"
+    },
+    "dataList[id=8094].storyList[level=1].story": {
+      "pl": "Człowiek, to było męczące.\\nCiągle się leczył albo co, po prostu nie upadał po tym, jak cięliśmy, rzewaliśmy, rozbijaliśmy i wyrządzaliśmy mu wszelkie rodzaje uszczerbku.\\nWalka z nim była dość prosta... Cóż, nie tak, jakbyśmy wszyscy wyszli bez szwanku. Co robi to taranowanie nas ciałem. Nie zbyt trudne do opanowania, gdy się przyzwyczaisz.\\nChyba rozumiem jego fikuś po kilku walkach z nim. Widzisz, ma złotą aurę unoszącą się wokół niego, co?\\nAle aura zniknęła po tym, jak jabłko odzyskało się kilka razy.\\nMoże to jego próg regeneracji.\\nPowiem o tym panu zarządcy. To może być to, co pomoże zakończyć tę mozolną walkę.",
+      "kr_sha256": "2508619401e305ffdcded338976734dccca679cc3a96ad1d9b41b482f5d80f2e",
+      "en_sha256": "73c86e815fabc761707434251cc3e104a1fad82a053c9bb2d6af75b07a3f6867",
+      "origin": "ai"
+    },
+    "dataList[id=8094].storyList[level=2].story": {
+      "pl": "…[Co zdaje się być wulgarnymi słowami jest wykreślone.]. Dlatego mnie wyznaczyliście do obserwacji?\\nWiedzieliście, że ta głupota się wydarzy, i…\\nNo tak, nie. Nie mieliście jak…\\nŻaden z nas nie mógł, to był nasz pierwszy raz.\\nAgh… Gdy wysadziłem to złote jabłko, rozszczepiło się.\\nPotem jakieś [Co zdaje się być wulgarnymi słowami jest wykreślone.]-owane gałęzie wyskoczyły z pęknięcia, i... Ta rzecz, ten drań…\\nZabrał Yuri…\\nI z tym nowym składnikiem odżywczym, roją się gęby gąsiorów ułożyły się wewnątrz…\\n„Metamorfozując” w obrzydliwą twarz.\\nHaha, śmieszne, co? Czułem poczucie pokrewieństwa z tamtym pełzaczem. Chyba dlatego, że obaj byliśmy szkodnikami…\\nZdając sobie z tego sprawę, po prostu nie mogłem zachować spokoju. Musiałem rozdarć tę odrażającą twarz, by zaznać spokoju.\\nI potem, i potem...\\n→ Gregor miał trudność z utrzymaniem chłodnej głowy w swoim piśmie, więc ulżyłem mu pióra. I tak nie miał wiele do zaoferowania w kwestii informacji.\\n→ Te gąsiory wiły się mocniej niż się spodziewałem, gdy oparzyłem je papierosem. Czy to się liczy jako wywiad?",
+      "kr_sha256": "5ffc22fde71d6e3a50498fa645ba168270327dd2d76b0d7a7bacd3f73242698f",
+      "en_sha256": "0c38e91d382df0ad9eb35f3a4d30ddaa032e12f928418c64be707d3d7fef88bb",
+      "origin": "ai"
+    },
+    "dataList[id=8095].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8095].name": {
+      "pl": "False Apple",
+      "kr_sha256": "e35a677c1a700fc49b6eb2d6e46c910cb5d881708ee5fd3b7a97eb8ac8368e39",
+      "en_sha256": "dfc65a6ba5ac6d3378013c7e657ba2739c7a5ccaa541c7a5106917f573eb250e",
+      "origin": "ai"
+    },
+    "dataList[id=8095].storyList[level=0].story": {
+      "pl": "Ostatni raz pisałem dziennik obserwacji, gdy byłem dzieckiem, więc nie jestem pewien, czy dam radę, ale...\\nChyba rozkazy są rozkazami.\\nNo, ehh... Zacząć od opisu jego wyglądu?\\nHm, dobrze. To było jabłko.\\nOgromne, groteskowe jabłko z kończynami.\\nOsobiście mówiąc, czy to nie przeraża was, gdy produkt spożywczy robi się cały masywny albo zaczyna chodzić sam? Czy tylko ja tak mam?\\nZszedłem z tematu. Tak czy inaczej, tamto jabłko było złote. Zdecydowanie nie coś z przeciętnego sadu. Mmm, dobrze. To to, co się mianuje anomalią, co?\\nNo więc tak, ta anomalijna jabłkarska szła sobie dumnie sama.\\nWięc ja... Narastała we mnie rosnąca ochota, by posiekać to jabłko. Było to prawie magnetyczne. Trudno wyjaśnić.\\n...Cóż, nie znajdziecie wielu ludzi, którzy nienawidzą jabłek tak jak ja. Chyba to kwestia mojej niezwykłej przeszłości.\\nPostanowiliśmy cofnąć się na razie, bo mieliśmy zbyt mało wywiadu, by próbować walczyć.\\nPewnie weźmiemy się do tego w pewnym momencie, więc zapiszę więcej, gdy ten czas nadejdzie.\\n→ Jak nieuporządkowane. Czy twoje sprawozdania były równie żałosne podczas służby wojskowej?\\n→ Vergilius rozkazał nam pisać te jakkolwiek chcemy. Dante też się z tym zgadzał.\\n→ …Jeśli Zarządca Wykonawczy jest z tym w porządku, nie będę protestował.\\n→ [Na papierze pozostaje oparzenie papierosowe.] S.P.C.\\n→ Serio, jakie to drobne zażalenie.",
+      "kr_sha256": "54ffcdc99e77e5ac967a74cebae7527f4bbac5c2d53c9118b69d0bc083842950",
+      "en_sha256": "e2d5033e5fec9d212ecfa0220696215713bd1bf03cb5507178b46b03415f8eb1",
+      "origin": "ai"
+    },
+    "dataList[id=8095].storyList[level=1].story": {
+      "pl": "Człowiek, to było męczące.\\nCiągle się leczył albo co, po prostu nie upadał po tym, jak cięliśmy, rzewaliśmy, rozbijaliśmy i wyrządzaliśmy mu wszelkie rodzaje uszczerbku.\\nWalka z nim była dość prosta... Cóż, nie tak, jakbyśmy wszyscy wyszli bez szwanku. Co robi to taranowanie nas ciałem. Nie zbyt trudne do opanowania, gdy się przyzwyczaisz.\\nChyba rozumiem jego fikuś po kilku walkach z nim. Widzisz, ma złotą aurę unoszącą się wokół niego, co?\\nAle aura zniknęła po tym, jak jabłko odzyskało się kilka razy.\\nMoże to jego próg regeneracji.\\nPowiem o tym panu zarządcy. To może być to, co pomoże zakończyć tę mozolną walkę.",
+      "kr_sha256": "2508619401e305ffdcded338976734dccca679cc3a96ad1d9b41b482f5d80f2e",
+      "en_sha256": "73c86e815fabc761707434251cc3e104a1fad82a053c9bb2d6af75b07a3f6867",
+      "origin": "ai"
+    },
+    "dataList[id=8095].storyList[level=2].story": {
+      "pl": "…[Co zdaje się być wulgarnymi słowami jest wykreślone.]. Dlatego mnie wyznaczyliście do obserwacji?\\nWiedzieliście, że ta głupota się wydarzy, i…\\nNo tak, nie. Nie mieliście jak…\\nŻaden z nas nie mógł, to był nasz pierwszy raz.\\nAgh… Gdy wysadziłem to złote jabłko, rozszczepiło się.\\nPotem jakieś [Co zdaje się być wulgarnymi słowami jest wykreślone.]-owane gałęzie wyskoczyły z pęknięcia, i... Ta rzecz, ten drań…\\nZabrał Yuri…\\nI z tym nowym składnikiem odżywczym, roją się gęby gąsiorów ułożyły się wewnątrz…\\n„Metamorfozując” w obrzydliwą twarz.\\nHaha, śmieszne, co? Czułem poczucie pokrewieństwa z tamtym pełzaczem. Chyba dlatego, że obaj byliśmy szkodnikami…\\nZdając sobie z tego sprawę, po prostu nie mogłem zachować spokoju. Musiałem rozdarć tę odrażającą twarz, by zaznać spokoju.\\nI potem, i potem...\\n→ Gregor miał trudność z utrzymaniem chłodnej głowy w swoim piśmie, więc ulżyłem mu pióra. I tak nie miał wiele do zaoferowania w kwestii informacji.\\n→ Te gąsiory wiły się mocniej niż się spodziewałem, gdy oparzyłem je papierosem. Czy to się liczy jako wywiad?",
+      "kr_sha256": "5ffc22fde71d6e3a50498fa645ba168270327dd2d76b0d7a7bacd3f73242698f",
+      "en_sha256": "0c38e91d382df0ad9eb35f3a4d30ddaa032e12f928418c64be707d3d7fef88bb",
+      "origin": "ai"
+    },
+    "dataList[id=8096].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8096].name": {
+      "pl": "Brazen Bull - Tearful",
+      "kr_sha256": "1c5404374e42d495151949e75d4b56fca0555a5ee1f7f915e30087ffc610925c",
+      "en_sha256": "6074430456a3f06815d5d23e7a71bc47e108fc2523d05c13c5733d2744b8cca2",
+      "origin": "ai"
+    },
+    "dataList[id=8096].storyList[level=1].story": {
+      "pl": "-Zbudowana z płyt stalowych z sinego rdzy i znaków pozostawionych przez ciepło.\\n-Jej wygląd przypomina zwierzę powszechnie nazywane bykiem.\\n-Chociaż analiza nie jest precyzyjna, właściwości materiału sugerują stop miedzi i cynku.\\n-Ma inny komponent niż płyty stalowe; zdaje się być w nim humanoidalne istnienie.\\n-Drony K Corp krążą wokół niej. Zdają się od czasu do czasu filmować Grzeszników.\\n-Chociaż przyczyna lub zasada jest niejasna, jest rzucana w stan poruszenia. Ponieważ oczekiwano, że uczyni walkę dla nas mniej korzystną w miarę postępu, zasugerowałem zarządcy, by drony zostały zniszczone najpierw.\\n-Istnienie wewnątrz nieustannie miało wyraz twarzy, jaki czyni się w bólu.\\n-Jego ruch zdąża być chaotyczny i nagły, możliwe z powodu bólu spowodowanego przez ciepło.\\n-Jego ciało uznaje się za mające intensywne ciepło. Zawsze, gdy Grzesznik był atakowany przez nią, kauzalgią i oparzenia mogły być zaobserwowane.\\n-Chmury gazu uznane za oddechy lub parę były obserwowane w pobliżu jej głowy.\\n-Czasami unosiła ciało, by przydusić Grzesznika swoją wagą. I innym razem z głowy... humanoidalne istnienie wynurzało się do ataku. Jej zawracające głowę krzyk pozostawił trwałe wrażenie.\\n-Gdy Grzesznik był atakowany przez humanoidalne istnienie, przejawiał poważną depresję. Ucisk psychiczny prawdopodobnie sprawiał, że był unieruchomiony lub stawał się niechętny w walce. Oczekuje się, że ten efekt jest tymczasowy.\\n-Martwiąc się, że może to sprawić Grzeszników niezdolnymi do dalszego udziału w walce, zarządca rozkazał priorytetowo wyłączyć jej głowę. Uznano to za skuteczne podejście. Humanoidalne istnienie nie mogło być już dłużej obserwowane w walce po rozwiązaniu tego.\\n-Brak dalszych odkryć do poczynienia; dziennik obserwacji zamknięto.\\n\\n→ Aah… Cierpiała przez tak długi czas… Niezdolna nic poradzić z szalejącym pragnieniem, ciało nieskończenie parzące i żarzące…\\n\\n→ Ej, dzieciak wciąż niespokojny.\\n\\n→ Faust się tym zajmie.",
+      "kr_sha256": "72e8101d417d045f273ac5c4e646fd6bc819222a33324ba807cdabeaf00fc233",
+      "en_sha256": "588b97ac023ded59a7812fecc2ac558d4dc65d5f5464d0fb751b1dfddf7ed7ef",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=8151].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8151].name": {
+      "pl": "Peccatulum Irae?",
+      "kr_sha256": "2045a78841c3a514fb80c81bbf7f9ad69dbd66c81bec2b33a706fe04a4858e22",
+      "en_sha256": "88ae96df0ab24ace7baeb047b5fac9a8343c17dab432a0a730bb8dae4605071a",
+      "origin": "ai"
+    },
+    "dataList[id=8151].storyList[level=0].story": {
+      "pl": "O, urósł!\\n\\nJego oczy są bardziej zapalne i pałają na mnie ostro... Ma też ogon.\\n\\nChyba mogę streścić to sprawozdanie słowami „stał się creepier”.\\n\\nWygląda, jakby jego mignięte wysuszone ośmiornicze nóżki zostały nawodnione i lekko pogrubiły się. Wciąż ma ten czerwony sok, który daje mi zgagę.\\n\\nWciąż ma ten nabijający atak... ale na pewno zdywersyfikował wzorce.\\n\\nOto najbardziej pamiętny. Spróbował przywalić mnie ogonem! Pamiętasz? Nie mógł tego przedtem.\\n\\nAlbo mógł, ale jego patyczakowe nóżki nie były w stanie utrzymać jego ciężaru.\\n\\nCóż, to nie do końca moja sprawa.\\n\\nO, jeszcze coś. Robal nauczył się wzniecać ogień. Uważaj na te oparzenia, co?\\n\\nPrzypuszczam, że nie muszę pozwolić mu na trafienie, by wiedzieć, że mnie zirytuje.\\n\\nPogłaskam go kijem, zanim zdąży wykonać swój ruch.",
+      "kr_sha256": "21afc7ce85c963610593437d29a00a9c8cc0ceec8dd8726029217a630a38e00e",
+      "en_sha256": "24f049f4254bfe4508dfba8152fb0cd5afcbbe2f99bddc78751eaade0dfd809e",
+      "origin": "ai"
+    },
+    "dataList[id=8152].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8152].name": {
+      "pl": "Peccatulum Morositatis?",
+      "kr_sha256": "b27a34a40b2aca0488c0d47525ebffb65149188e812bdffcee80b07eec954ed4",
+      "en_sha256": "010e8d50c283a1c097fbf5ef059db3d45773f5b4c1891dc015faca68bdfff02e",
+      "origin": "ai"
+    },
+    "dataList[id=8152].storyList[level=0].story": {
+      "pl": "- To jest przypominające wcześniej obserwowaną owadopodobną istotę o półprzezroczystym ciele.\\n\\n- Wewnątrz jego ciała zidentyfikowano więcej organów wymaganych do utrzymania organizmu biologicznego. Niektóre z nich dojrzały dalej.\\n\\n- Jednakże nie zidentyfikowano cech fizjologicznych wystarczających, by spełnić kryteria konstytuujące organizm żywy.\\n\\n- Zidentyfikowano to, co zdaje się być „ręką”. Jest widoczne z zewnątrz i dzierży okrągły obiekt.\\n\\n- Bliska analiza jego zachowań i wzorców ataku ujawnia, że owy okrągły obiekt jest jakby workiem płynu.\\n\\n- Płyn wewnątrz ciała istoty zdaje się być połączony z workiem. Gdy worek nadmuchuje się, płyn wewnętrzny jego głównego ciała maleje.\\n\\n- Zidentyfikowano kilka organów, które mogą konstytuować „nogę” lub „antemę”. Nie odnaleziono szczególnego użycia poza ofensywnym.\\n\\n- Rozciągnięta obserwacja tej istoty pozostaje nieodradzana.\\n\\n- Przypomnienia negatywnych zdarzeń z przeszłości pozostają nieprzyjemne.",
+      "kr_sha256": "6913218812046f1b884cb44ff6febc61723fc35de55d30c9256bc17145af9621",
+      "en_sha256": "58cf30243c9463ec3f67f444b0af17373a7d6c458d1f969e550d4c47343aabb0",
+      "origin": "ai"
+    },
+    "dataList[id=8154].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8154].name": {
+      "pl": "Wypaczony Kim w Bambusowym Kapeluszu",
+      "kr_sha256": "7507f569211eea6ae7e187a1c8a4752933e5d5faf86e97cf5ec81b25eb94ca7c",
+      "en_sha256": "c9cd75b1d8735dd786c4008038c514248c970c5362e71bba66a3e1793df2c9c9",
+      "origin": "ai"
+    },
+    "dataList[id=8154].storyList[level=0].story": {
+      "pl": "Wykonuję sprawozdanie pośmiertne zgodnie z rozkazem Zarządcy Wykonawczego.\\n\\nTak jak przewidywałem, wejście w głębiny zdaje się intensyfikować Distortion tego „Bamboo-hatted Kim”.\\n\\nOto kilka dowodów wspierających to pojęcie: niezidentyfikowalne czarne wici wylewające się z jego ciała, dalej zintensyfikowany niebieski blask z jego oczu, oraz niemożność właściwej komunikacji środkami słownymi.\\n\\n... Choć ta ostatnia część zawsze była prawdziwa, przypuszczam.\\n\\nNawet z szybkiej obserwacji jednakże, jest oczywiste, że ta jednostka trzyma wielki smutek w swoim sercu.\\n\\nMianują to „han”… jakby urazą. To pewien rodzaj urazy zrodzony, gdy intensywna żałoba zmienia się w gniew. Pozwolenie jej wzrastać wpłynęłoby na jego zdolności bojowe.\\n\\nJeśli pozwolicie mi wyrazić moją opinię... Ktoś mianowany „mentorem”, przypuszczalnie ktoś na stanowisku dowódczym, nie powinien utrzymywać takiego emocjonalnego stanu przez rozciągnięty okres czasu.\\n\\nJeśli utracił także rozum, to... przypuszczam, że jest bezwartościowy jako wódz ludzi.\\n\\nNie ma znaczenia, jak sławny kiedyś był, jak potężny mówią, że kiedyś był. My możemy więcej niż łatwo opanować takiego słabowitego dowódcę.\\n\\nKończę sprawozdanie.\\n\\nDziękuję.",
+      "kr_sha256": "9359c8c7adbf58a4c260b5758dade41c35669ad4408cdaf2e4d764b4d6ca7c1c",
+      "en_sha256": "eb209ecd7b99109487086efb0a8145eda1792182128f53c4d5097471f75afff4",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=1320].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1320].name": {
+      "pl": "Ardor Blossom Moth",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=1320].storyList[level=0].story": {
+      "pl": "W regularnych odstępach korytarz przed jednostką izolacyjną Ardor Blossom Moth był zasypany żarem.\\nGdy żar osiadł na 5 pracownikach, istota zniszczyła izolację.\\nZawsze sprawdzajcie obecność żaru przed wejściem w ten odcinek korytarza — jest ekstremalnie gorący i, rzecz jasna, przysporzy niemało bólu, gdy na was spadnie.\\nPamiętajcie też, że zwykłe środki gaszenia pożaru na niego nie działają.\\n- Marton\\n\\nGdy Wynik Pracy był „Dobry”, istniało wysokie prawdopodobieństwo, że cały żar zniknie.\\n- Hohenheim, główny badacz\\n\\nPracownicy w pobliżu odzyskali stabilność psychiczną po zniszczeniu skrzydeł uciekłej Ardor Blossom Moth.\\nPoziomy Dostrojenia E.G.O również odnotowały istotny wzrost.\\nI proszę — powtarzam — proszę, NIE używajcie sprzętu E.G.O związanego z ogniem przy próbach jego tłumienia. Nie wtedy, gdy jest w stanie Partial Deterrence Release wskutek naruszenia izolacji.\\n<i>Proszę.</i>\\n- Alyssa",
+      "kr_sha256": "4922d1efeb601cdaeab1cff7e1e3bfd0a15d7e4098d5076bba20dcd604d3d52b",
+      "en_sha256": "960dc6cdeb17d1275e680f212547f761df4c4bc8c4f78a56bfb5e26dc57f9476",
+      "origin": "ai"
+    },
+    "dataList[id=1321].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1321].name": {
+      "pl": "Shock Centipede",
+      "kr_sha256": "7da0f622536e8ea677e7fb98547199ad0aaf1d7d5133b8c63203de47569a6d90",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=1321].storyList[level=0].story": {
+      "pl": "Gdy Wynik Pracy był „Zły”, zaobserwowano istotny wzrost generacji Enkefaliny.\\nGdy Wynik Pracy był „Dobry”, pracownicy, którzy ukończyli Pracę Zarządczą, doświadczyli ogólnego wzrostu szybkości reakcji.\\nJeśli nie ma wyraźnych problemów, Praca Zarządcza powinna być orientowana na opcje dające większą energię, Marton.\\n- Hohenheim, główny badacz\\n\\nDotąd nie zaobserwowano problemów wymagających szczególnych środków ostrożności, szefie.\\n- Marton\\n\\nCo do wyników eksperymentów bojowych <i>jest</i> wyraźny szczegół.\\nIm wyższy wewnętrzny poziom ładunku, tym ostrzej rosły ogólne wskaźniki bojowe tej anomalii.\\nW takim wypadku zaleca się unik, blok, lub przynajmniej ocenę sytuacji przed przeprowadzeniem kontrataku.\\n- Alyssa",
+      "kr_sha256": "1a7ba0d328d4a83734db277ffc812569adfa179a89bcafaf4b4688a21ff044b6",
+      "en_sha256": "389db3d573a02d5830898da24f7f2321d8d2aa358a9c9fd4359815a81654ecfc",
+      "origin": "ai"
+    }
+  }
+}

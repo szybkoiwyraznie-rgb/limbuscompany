@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=1501].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1501].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=1501].storyList[level=1].story": {
+      "pl": "Anomalia znająca narodziny wiosny i przemijanie jesieni.\\n\\nJej powierzchnia jest gładka, jakby wykonana z ceramiki. W miejscu, gdzie powinny znajdować się oczy, pustka. Pęknięcia wypełniają rosnące rośliny.\\n\\n\\nZ Distortion w anomalię... Wydaje mi się, że to właśnie ta osoba opiekowała się kiedyś zgubionymi dziećmi domu towarowego. Cóż mogło sprawić, że się przemieniła?\\n- Hong Lu\\n\\nPrzez to, że nieustannie się przemieszczała, pan Dante i pan Meursault nie mamiali biegu za nią po całym Centrum Zgubionych Dzieci. Czasem zdawała się uciekać, a czasem wabić nas... Hmm, być może po prostu nie chciała z nami walczyć.\\n- Hong Lu",
+      "kr_sha256": "283c3abed20ac71162ad96c625b16c9fb046dcd367ee689728cc196b521a4cfe",
+      "en_sha256": "25dfeb21cec849fe0a82ef5ac4b47efab742b2802094dc20549d4d94c0a3c299",
+      "origin": "ai"
+    },
+    "dataList[id=1501].storyList[level=2].story": {
+      "pl": "Alriune, istota pełna czaru; lalka, która pragnęła być człowiekiem. Ludzie ją rozpieszczali, a jej źrenice kryły duszę.\\n\\nAlriune, porzucona w ciemnym lesie; wrony żądne blasku ukradły jej oczy. Umysł, życie i serce więdły powoli.\\n\\n\\nIlekroć popadaliśmy w korozję albo psychika dochodziła do granic, odsyłali nas do dom— ... Odsyłali nas do ziemi, tak jak panią Dorotheę.\\n- Hong Lu\\n\\nOd czasu do czasu rozkwitała płatkami i wieńczyła nas wawrzynem. Pan Meursault mówił, że noszenie wieńca rozjaśniało mu myśli i... sprawiało, że płatki wyglądały żywiej.\\n- Hong Lu",
+      "kr_sha256": "444d1cbbae6893b9c4e3ef51440210c54dd4b04f39f42c719e7490fa1365ffd5",
+      "en_sha256": "91e69c3433ced81952fd7ed6258bec8d9cfdead00ef3de1c20c6770641bb8b5c",
+      "origin": "ai"
+    },
+    "dataList[id=1501].storyList[level=3].story": {
+      "pl": "Alriune, bez oczu lecz wszystko widzące; człowiek, który pragnął być lalką. Niosąc nadzieję powrotu do prochu, wróci do grobu wraz ze wszystkim, co pragnie żyć.\\n\\n\\nA potem... zebraliśmy pozostawione kwiatowe kapcie i założyliśmy je Pwie. To wszystko.\\n- Hong Lu\\n\\nNiemniej—[Obserwacja Zredagowana]\\n- Hong Lu",
+      "kr_sha256": "96c1af0faaa0976abf786f94d2b91993d3176fc4ea6dc2150f4893e8cb49c425",
+      "en_sha256": "9df52ae5aa90b6ca9a6c387084ffac5702a55514a469384d1117e7bf977668be",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[id=8280].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8280].name": {
+      "pl": "Peccatulum Invidiae",
+      "kr_sha256": "d5e2b3b9d66cef39bc9fd0dabf63f745e3b5eb8e5f5bfac15020f0c127ac2d0f",
+      "en_sha256": "a2f79cf6a085b6be739acd83b801544c0bc34fee552c73379b84cae1197f61be",
+      "origin": "ai"
+    },
+    "dataList[id=8280].storyList[level=1].story": {
+      "pl": "Ugh, jesteś pewien, że to czas na pisanie sprawozdania?\\n\\nZnaczy, „Peccatula” mają być jak tamte monstrualne rzeczy, nieprawdaż?\\n\\nJak tamta masa ciała, albo tamta roślina pełna zębów…\\n\\nLecz… oni są tacy jak my.\\n\\nNie tylko w swoim wyglądzie, także. Kopiują nasze ruchy!\\n\\nJesteś pewien, że nie zostawiasz tamtych „Kart Tożsamości” wszędzie, Dante?\\n\\nUff. Dobrze. Teraz, gdy przyglądam się im bliżej… Chyba nie są „tacy jak my”.\\n\\nJest tamta ciemna warstwa na nich, i oni wszyscy wyglądają trochę nieprzezroczysto, także.\\n\\nNo cóż, dobrze, że zdają się być słabsi od nas. To tylko naśladowcy.\\n\\nHeh heh, naprawdę nie było wiele do martwienia się, co?\\n\\nTo tylko tanie podróbki, prawda~?\\n\\nNaprawdę mnie to wystraszyło, gdy użyli E.G.O, jednakże…\\n\\nTakże, um, jesteś pewien, że nie wpuściłeś niektórych naszych Kart Tożsamości z kieszeni? Powinieneś sprawdzić, na wszelki wypadek.\\n\\n→ Nie wiem, czy byli „słabsi od nas”… Rzekłbym, że byli mniej więcej tak silni jak wy. Poza tym, nigdy nie zostawię czegoś ważnego takiego leżeć.\\n\\n→ Hm… Widziałem cię pośpiesznie grzebiącego w kieszeniach, gdy wychodziliśmy, Zarządco Pąku. Jesteś pewien?\\n\\n→ Dante, przenigdy nie wolno ci gubić swoich Kart Tożsamości. Proszę wziąć większą ostrożność w przechowywaniu ich bezpiecznie. Strata ich skutkuje konsekwencją większą niż konieczność napisania raportu incydentu.\\n\\n→ ... Czy naprawdę są tak kosztowne?\\n\\n→ Nie są rzeczami, które można mierzyć wartością pieniężną. Proszę zachować najwyższą ostrożność przy ich przechowywaniu.",
+      "kr_sha256": "9ce6411eea128579832ab8eac89d46165580718a861a906c07686c2b8ae6aa47",
+      "en_sha256": "8c9bfd4bcedc6e8cea915148856e53223cf0ab11500bf906839c38a0327b3000",
+      "origin": "ai"
+    },
+    "dataList[id=8292].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8292].name": {
+      "pl": "Peccatulum Invidiae?",
+      "kr_sha256": "729ea52f6bdf3d8f8531fbb5cc382a2138737dbf8471bf89ffe1db40bb322e45",
+      "en_sha256": "4c5d07a3b4f41007db808ecba1547c5cc57ba444415a99ce89659f16f6ddf215",
+      "origin": "ai"
+    },
+    "dataList[id=8292].storyList[level=1].story": {
+      "pl": "Mm… To jak patrzeć w lustro, lecz nie dokładnie.\\n\\nTe były wszystkie okryte jakąś ciemną, niepokojącą mgłą.\\n\\nSposób, w jaki ciemna mgła tańczyła nad ich ciałami... niemalże czułem, jakbym patrzył na własny cień.\\n\\nNo, „cień”. Niemalże jakby były manifestacjami naszych ciemniejszych stron. Wiem, że to nie ma sensu, lecz wciąż.\\n\\nOh, i... ta była silniejsza od ostatniej.\\n\\nUżywały tych samych technik, które my, lecz siła stojąca za nimi była dużo silniejsza.\\n\\nNasze ataki czuły się nieskuteczne, podczas gdy ich naprawdę bolały, gdy łączyły.\\n\\nHaah… Znają nasze ruchy, lecz są silniejsi od nas? To jest... oszukiwanie.\\n\\nPomogłoby wiele, gdybyśmy mieli ich ciemną mgłę. Naprawdę mógłbym użyć tamtej ekstra mocy.\\n\\nPoza tym, bycie zabitym przez te rzeczy nie jest... najlepszym odczuciem w świecie, wiesz?\\n\\nPo prostu stoją tam cicho, jakbyśmy nie byli dobrzy dość, by je pobić. To jest super irytujące.\\n\\nHaah… Nie, nie powinienem być takim marudą.\\n\\nHej, rozmyślmy o tym tak. Mogę patrzeć w lustro, lecz lustro pokazuje jedynie stronę mnie, prawda~?\\n\\nJestem pewien, że jest coś, czego tamte podróbki nie mogą skopiować z nas. Czegoś im brakuje.\\n\\nMy jesteśmy realni, a oni nie. Musi być droga, by pobić te irytujące Peccatula.\\n\\n→ Czego im brakuje, to naszego Zarządcy Wykonawczego i jego wspaniałego dowodzenia. To będzie decydujący czynnik w zwracaniu pływy tej bitwy.\\n\\n→ Jak rzekła pani Rodya. Triumfowaliśmy nad większymi wrogami w przeszłości; droga otworzy się dla nas, na pewno.\\n\\n→ No jasne~ Oni są niczym w porównaniu do tego, co my…(coś było napisane tu, lecz zostało wymazane) spotkali przedtem!",
+      "kr_sha256": "2998dc49e27d7a66139ce4eed3b59b0fa2ffcfcfb522f025be6216e9fa067c08",
+      "en_sha256": "0a0bcd2e38a4649680636892b612c5e83734dd78ebcccec5e4df86efe9493d51",
+      "origin": "ai"
+    },
+    "dataList[id=8605].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8605].name": {
+      "pl": "Portrait of a Certain Day",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=8605].storyList[level=1].story": {
+      "pl": "Ten kolega znów. Pamiętasz? Zawsześmy się z nim spotykali w jakimś korytarzu.\\n\\nHmm… Jedna część tej bezgłowej postaci nosi szykowny garnitur, lecz ohydna twarz jest przyłączona do jej dolnej połowy.\\n\\nMogłem zebrać z moich wymian z tą rzeczą, że pracowała jako kamerdyner pewnego dworu…\\n\\nCóż, wiem, że to nieprawda. To anomalia, po wszystkim. Po prostu zapisuję, co mi powiedziała.\\n\\nNoszenie wokół portretu mistrza… pytanie nas, czy możemy go widzieć…\\n\\nO, no tak. Pozwólcie mi zejść z tematu na moment i porozmawiać o starych czasach.\\n\\nPrzełożeni zmuszali mnie kiedyś do marszu po ulicach z portretami lub obrazami zmarłych w moich rękach.\\n\\nByło trochę... nie, bardzo ohydne.\\n\\nParadowanie portretów, obrazów, lub nawet mementów zmarłych tak jak tamto jest... jak by to rzec?\\n\\nTak, to jest tak, jakbyśmy wykorzystywali ich śmierci, co nie?\\n\\nI to jest po prostu... Człowieku, to nic.",
+      "kr_sha256": "e9292e7a84f4b1c7d69ddafcffca72094c0ba719cda995ce4c6a008fcbefd967",
+      "en_sha256": "1a5e91752baaae27580f6d84ddb1a90645eddd788ccd2460ba79f704e189e94a",
+      "origin": "ai"
+    },
+    "dataList[id=8605].storyList[level=2].story": {
+      "pl": "No… co tam. Okazuje się, że nie niósł tylko jednego portretu.\n\nMiało być jedno, a tam kilka dziesiątek latających wokół pola bitwy… huh.\n\nNagle zapytał nas, który z jego portretów jest jego panem. I… chłopaki, skąd mam to wiedzieć, nie?\n\nTak więc strzeliłem na chybił trafił, a… te beztwarze portrety nagle wszystkie odwróciły się ku mnie. Wiem, że brzmi to dziwacznie, ale jestem prawie pewien, że to poczułem!\n\nCzłowieku, to naprawdę wywołało we mnie dreszcze.\n\nW każdym razie nauczyliśmy się, że fałszywe portrety znikają z rechotem, gdy się w nie trafi.\n\nAle to, że trafiłeś w prawdziwego, poczujesz od razu. Naprawdę czuć uderzenie na czubku dłoni.\n\nFałszywe nie bolą aż tak bardzo, więc nie jestem pewien, czy warto tracić czas i siły na rozbijanie ich po kolei.\n\n→ Um… więc, to tylko propozycja, ale… a gdyby zaatakować najpierw tego prawdziwego?\n\n→ Ooh, czyż to strategem naszego Zarządcy Wykonawczego? Tak genialny pomysł może wyjść wyłącznie z geniuszu takiego jak Pan.\n\n→ To zdrowy plan, Dante. Przystąpmy do dzieła w tej kolejności i obserwujmy skutki tego trudu.",
+      "kr_sha256": "9003c5211cbb447cd7814ab4e2f1b74b439d668b8284c285750ca05eec0ed2f6",
+      "en_sha256": "f35dba991ac70a974221090e5ac071db993380a901c845df2b454ebab1587691",
+      "origin": "ai"
+    },
+    "dataList[id=8605].storyList[level=3].story": {
+      "pl": "Cóż, przechodząc do sedna… Zarządca miał rację.\n\nPróba skupienia się na każdym z fałszywych portretów zajęłaby całą wieczność.\n\nWalka z prawdziwym portretem była trochę bardziej kłopotliwa, ale… gdy tylko ogarnęliśmy tamten, wszystkie pozostałe spłonęły też w perzynę.\n\nAle po tym…\n\n… czyżby ta Anomalia potraktowała nas odtąd jako wrogów w pełnym wymiarze? Ten odrażający stworek zmienił się całkowicie w coś wybuchowego. Chyba go dopiął gniew, tak to ująć, hm.\n\nZwłaszcza napastliwie obsesyjnie celował w osobę, która portret rozwaliła jako ostatnią.\n\nNo, w końcu ten skup rozlał się na nas wszystkich. Chyba ta furia nie pomagała mu zachować chłodnej głowy.\n\nChciał chyba pomścić portret albo coś… Człowieku, nie wiem nawet, czy zemsta to dobre słowo, skoro nigdy faktycznie nie pracował jako kamerdyner ani nic z tych rzeczy.\n\n… Poza tym… rzucanie życia na stos dla zemsty to… głupota.\n\nŻywi muszą dalej żyć, nie? Zemsta nie jest warta ani złamanego grosza, jeśli zabije cię przy niej.\n\nCś, chwilka. Na wszelki wypadek, gdyby ten raport wywołał nieporozumienie…\n\nJ-ja nie mówiąc o was tych słowach wcale, dobra? Nie wywołujcie góry z kreta.\n\n→ N-nie ma żadnego nieporozumienia… Nie przejmuj się tym aż tak.\n\n→ Kwiat, który kwitł raz tak oślepiająco, zwiędł na próżno. … To, co tu zapisałeś, niesie pewien rys prawdy.\n\n→ Naprawdę nie myślałem o tym, aż to napisałeś. To o tym myślisz, co? Gregor.\n\n→ Nie ma tu się czego wstydzić, stary. Jestem w tym samym obozie. Żywi muszą dalej żyć, żeby… pamiętać.\n\n→ Możesz dać mi trochę czasu na poprawki po napisaniu tych raportów, Frau Faust? Człowieku, to jest… haah, o panie.",
+      "kr_sha256": "6c445baf4c5ab8d14389d54205b004ae3e162d6ee0230769e177c91ed379b380",
+      "en_sha256": "f5200c1a0d18d4d25231427dbeeae03644852d456442ce050217c310502c2225",
+      "origin": "ai"
+    },
+    "dataList[id=8606].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8606].name": {
+      "pl": "Portrait",
+      "kr_sha256": "4432af40eaa2a35f4479feb77f3d01ae8a53cf224f452035260a443fde196b21",
+      "en_sha256": "f71094c30160d155c9b29fd67e3b6f86ad254003a163da4c24d1f0061b0ed0ad",
+      "origin": "ai"
+    },
+    "dataList[id=8608].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8608].name": {
+      "pl": "Śniąca Elektryczna Owca",
+      "kr_sha256": "325226144eb3a17c821aaaf08065bbfb5a219a4a361071d31a11b6573f69841f",
+      "en_sha256": "632ae70ba2a82564c74635ab1f4741e18f71ed800f0a6de63f00fa685011f437",
+      "origin": "ai"
+    },
+    "dataList[id=8608].storyList[level=1].story": {
+      "pl": "Um… myślałem na początku, że to wielka burzowa chmura.\n\nZ fioletową błyskawicą przebijającą przez mgielne chmury i tak dalej, i… A no tak, wznosiła się wysoko na niebie.\n\nAle nie patrzyłem na burzową chmurę. Patrzyłem na owcę z… z bardzo, bardzo długimi nogami.\n\nNie wiem, czy to burzowe chmury rzucały na nią cień, czy tam od zawsze było ciemno, ale jej nogi były tak długie i ciemne, że zlewały się z tłem.\n\nZa każdym błyskiem pioruna dostrzegałem coś nowego, z każdym rozbłyskiem…\n\nPrawie jak sen. Czteronożna chmura, oświetlana w rozbłyskach fioletu…\n\nO, i… było coś, co wyróżniało się na tle tego sennego widoku jako dziwne.\n\nStała tam maszyna, z kablami i wtyczkami porozrzucanymi wszędzie. … Chyba jak generator prądu, czy coś?\n\nZarządca powiedział coś w stylu „może te kable są kluczem do obłędu z tą Anomalią”…\n\nMyślicie, że trzeba te kable wpiąć w owcę? A, rozumiem… Co jeśli ta owca tak krzyczy przez pioruny w jej ciele…?\n\nNo… to w sumie jak bycie wiecznie szarpanym prądem. Oczywiście boli.\n\nN-no może powinniśmy wpiąć ten kabel w owcę…?\n\nNie mogę przecież siedzieć z tyłu i nic nie robić w nieskończoność, wiesz…\n\n→ Huh, więc o tym myślałeś, gdy nagle pobiegłeś krzycząc w stronę tej rzeczy, dzieciaku? Był to jeden dziwaczny okrzyk bojowy, przyznaję.\n\n→ Gdy Sinclair wróci, przekażę mu, że nie ma potrzeby nadwyrężać się.",
+      "kr_sha256": "e18de0616e8c1677a3eb9bf0011ebaa8d05f77e314791b1f759d0478d802ff95",
+      "en_sha256": "623988f1582d750b66fbd781b8da157454202a3d9a5ca65f6022aaa43cf09176",
+      "origin": "ai"
+    },
+    "dataList[id=8608].storyList[level=2].story": {
+      "pl": "(Widać tu ciemne, popieliste pozostałości. Zostały zatarte, ale pozostawiły ślad.)\n\nAh… przepraszam, zakaszlałem i popiół rozsypał się na papier. N-nie sprawi to żadnych problemów, prawda? Dla pewności go zatarłem.\n\nW każdym razie, co się stało…\n\n… Owca zaczęła mnie atakować, ledwo wziąłem kabel z generatora.\n\nWystrzeliwała piorunami… albo próbowała taranować mnie całym ciałem.\n\nAh…! Hej, myślę, że wpinanie kabli w owcę pomogło! Iskry tryskające z owcy stały się trochę słabsze.\n\nTeraz, gdy nie męczy jej już błyskawica, mam nadzieję, że jest spokojn (ten fragment raportu spłonął — treść tego zapisu pozostaje tajemnicą…)\n\n→ Gdzie można zobaczyć resztę tego zapisu? Zostawił raport niedokończony.\n\n→ T.P. Nudna śmierć, doszczętnie zmiażdżony przez taranującą owcę.\n\n→ Można ustalić, że jego przyczyną śmierci było zaniedbanie czujności na pole walki do samego końca. Nie powinien był odwracać uwagi ku pisaniu tego zapisu w środku walki.\n\n→ Naprawdę myślałem, że to zadziała… Może to nie błyskawica była źródłem jego bólu?\n\n→ Chyba nie dosyć piorunu wyciągnięto z jego ciała, co? Może wpierw przebijemy go resztą kabli, a potem obserwujemy?!",
+      "kr_sha256": "9fd191b1b073896927d8b2581ae0cb1c33e200079f12a88c9f911f3bc6cad219",
+      "en_sha256": "7b0d8e839d1e09744143d3bb21a048e4c4924bf02ae5160e7533cf5b3d58daac",
+      "origin": "ai"
+    },
+    "dataList[id=8608].storyList[level=3].story": {
+      "pl": "Ledwo założyliśmy wszystkie kable na owcę, gdy uderzył piorun i fioletowe iskry poleciały wszędzie…\n\n… a owca po prostu osunęła się na ziemi. Pewnie śpi, prawda? Nie wygląda na m-martwą…\n\nO, i… w-wiem, że brzmi to dziwacznie, ale…\n\nMm, tak. Nie sądzę, by ta owca umarła. Myślę, że ta elektryczna owca śni… Z-zobacz, właśnie drgnęła!\n\nNic nie mówi, że Anomalie śnią o Anomaliach, prawda?\n\nMoże rozkoszuje się łagodnym snem, wolnym od bolesnych uderzeń piorunów. Może cierpi nocny koszmar, bo odebraliśmy jej iskrę…\n\nCóż, nie ma teraz sposobu, by to sprawdzić, ale… zastanawiam się, czy błyskawica faktycznie boli tę Anomalię. Albo… może bardziej boli jej odebranie.\n\n→ Hm? Frau Faust nie zostawiła tu notatki. To zaskoczenie.\n\n→ Faust nie zawsze uznaje takie rozmyślania za niepotrzebne. W rzeczywistości uznaje to za interesujący temat.\n\n→ Czy Anomalie w ogóle mogą śnić? Widziałem istoty wśród Potworów Peryferii, które zapadały w katatonię jak ta owca.\n\n→ Hmph, czyż odpowiedź nie jest oczywista? Są jedynie naśladownictwem ludzkich zachowań, niczym więcej.\n\n→ Zdolność wspominania może stać się mostem Anomalii ze świata czuwania do krainy snów. A jednak nie wiemy, czy to, co wspominają, jest ich przeszłością, czy wyłącznie jej urojeniami. Brak mi dowodów, by mówić z większą pewnością.",
+      "kr_sha256": "3436783cdf1a7d974b4ef37843ff1f71b6f2e92637a9aea40adf92321fc43704",
+      "en_sha256": "39a70387685eb5531ba54eba105d1a66e731b5eb7aa3668229785a64c3d54424",
+      "origin": "ai"
+    },
+    "dataList[id=8629].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8629].name": {
+      "pl": "The King in Binds",
+      "kr_sha256": "fcb57fc25729c4559666f2f949ba022607f8891714afb69115fd2faf362dd4b3",
+      "en_sha256": "136295ed0633523630baf3864d64dc49be3f27377baec1c5c9fc2bb76a62215d",
+      "origin": "ai"
+    },
+    "dataList[id=8629].storyList[level=1].story": {
+      "pl": "Wszedłem do Great Hall przystrojonej szkarłatem.\n\nWygląd tej sali przywołuje na myśl kształt sali bankietowej.\n\nCzłowiek owinięty czerwonym suknem spoczywał na tronie szkarłatnej sali. Podniósł dłonie w wysiłku i delikatnie wskazał ku zgromadzeniu masek najwyraźniej stworzonych na maskaradę.\n\nPaleta emocji była wyryta na palecie masek porozkładanych wszędzie.\n\nByła maska smutku, maska gniewu, lecz jak najbardziej upodobałem sobie maskę radości.\n\nNie znam przyczyny, dla której ta maska ucieleśnia taki wyraz euforii; ale czyż nie wystarczy, że podzieli się tą samą radością z innymi?\n\nDwie pieczenie na jednym ogniu; ukojenie dzielone, smutek owinięty, oboje pod kołdrą uniesienia.\n\nZakładam maskę i czuję, jak myśli mi się klarują jak jesienne niebo.\n\nGdy się zbliżyłem, król naprężył ramiona na moment tak krótki, że prawie niezauważalny.\n\nChyba to był gest zrodzony nie z myśli, lecz z instynktu, ukształtowany przez przygwożdżone sukieniem pragnienie wyrazu.\n\nMieliśmy tylko chwilę, by się temu przyjrzeć, zanim pojawiły się istoty podobne do nas.\n\nChoć ich postacie były nieprzejrzyste, a kształty na pół owinięte cieniem, nosiły pewne podobieństwa do naszych własnych form.\n\nMonarcha, z pewną powściągliwością, przechylił głowę na bok na znak zamiaru przyjrzenia się naszej walce.\n\nDługie lata spędzone w okowach wypełniły próżnię po twoich dawno odeszłych zainteresowaniach nudą, czyż nie?\n\nStrasznie tragiczna opowieść. A przecież walczymy w nadziei, że nasze starcia przyniosą temu skutemu w okowy królowi najmniejsze uniesienie.\n\nTyle mam do powiedzenia.",
+      "kr_sha256": "cb96555e6518482e5416292e25f8aefde5b17fac9ed53cac17f85f404844ce39",
+      "en_sha256": "21273188ff7568624e1b457ef5ee9af3bd535dab05fab9a1844ac14f1480242b",
+      "origin": "ai"
+    },
+    "dataList[id=8629].storyList[level=2].story": {
+      "pl": "Te umbralne odbicia nas samych przywodzą na myśl „Karty Tożsamości”, które dzierży Dante.\n\nInkarnacja przejawionych „Tożsamości” pozbawiona ego może nosić pewne podobieństwo do tego, jak jawią się przed nami.\n\nPokonanie jednej z nich czyni jedynie wakat, który druga wypełni, albowiem ich liczba równa jest naszej.\n\nTeraz, gdy poświęciłem pewien czas na obserwację ich poczynań, dostrzegłem rzucająco znaczną kolekcję podobieństw między nami.\n\nMogę przypuszczać, że ich liczba jest najpewniej równoważna naszej; ich techniki zaś paralelne do naszych.\n\nLecz czego brakuje tym Peccatula, to woli podejmowania własnych decyzji.\n\nJak kart do zagrania i odrzucenia według kaprysu króla.\n\nKrólowie, i starych czasów, i nowi — jak się zdaje — lubują sztuki lalek, musical manekinów.\n\nWładanie ludźmi jako zimnymi narzędziami, wymachiwanie nimi i poruszanie nimi beztrosko, łamanie ich. A gdy nieuchronnie pękną, król wypełni ich miejsce kolejną marionetką, której nieobecności nikt nie zaważy.\n\nLecz ten król może być dość przywiązany do swoich.\n\nSypać na jego świtę nieustającymi błogosławieństwami, nie zostawiając nic dla nas reszty.\n\nMm… tyle mam do powiedzenia.\n\n→ I-ile ich tam jest?\n\n→ Jeśli król pragnie oglądać wyrównaną batalię, można przyjąć, że istoty mają w swoich szeregach tyleż sojuszników co my. Jeśli jednak tak nie jest, wszelkie dalsze spekulacje mogą być wysiłkiem pozbawionym sensu.",
+      "kr_sha256": "dba410982deb35ef8e51da50366d441129be0447aa3143f2866514d3a59f4b38",
+      "en_sha256": "e40ab5eefd395ccd695932ebab9762b8c099e5645052aa523e8bfec5b8dd88bf",
+      "origin": "ai"
+    },
+    "dataList[id=8629].storyList[level=3].story": {
+      "pl": "Tak więc batalia zakończyła się naszym zwycięstwem.\n\nTak zaledwie zdawała się kończyć uczta, lecz nuda Króla wciąż nie była zaspokojona; skuty monarcha wstał z tronu, rwąc swe corpus z łańcuchów z bandaży.\n\nDługi czas spędzony w niewoli skorodował jego stawy, lecz jego donośna obecność i gracja uraży jedynie do straszliwej wielkości jego sublimacji.\n\nJego zdecydowane postanowienie wzbudziło niedowierzanie w sercach tych, którzy oglądali jego wyłonienie.\n\nLecz niedowierzanie nie było jedynym wrażeniem; zrodziło się też pytanie.\n\nPo co król trwał przykuty do tronu, skoro miał moc wstać samodzielnie?\n\nJa… nie wiem, czemu krół trwał w siedzącej ciszy, skuty nie nitkami, lecz własną wolą.\n\nPiszę tu jeszcze parę słów, bo nie wypada ugasić smażących się rozmyślań…\n\nWygląda na to, że król ma co przekazać.\n\nMonarcha przykuty do tego miejsca, zanim grad zechce przeniknąć jego głębie. Upiór podobny stan przybrał władca.\n\nTe ponure rozmyślanie narasta i narasta z każdym zderzeniem ostrzy, aż do kopca smutku, gdy współczucie tonie.\n\nCzemuż więc urządza on taką ucztę, swe corpus przykute do tronu, by Try w tak dziwacznej zabawie?\n\nTo wzykpie litościwa tragedia, albowiem otchłań ta jest głęboka i owinięta niewytłumaczalnością.\n\nTyle mam do powiedzenia.\n\n→ Tragedia? Gówno.\n\n→ Dowodzić innymi, panować nad innym — to deklaracja, że jeden zniesie odpowiedzialności i cierpienie, które przychodzą z władzą. Chciałbym przy tej okazji wyrazić najgłębszą wdzięczność naszemu Zarządcy Wykonawczemu, który prowadzi nas twardą lecz sprawiedliwą, doskonałą ręką.",
+      "kr_sha256": "faecab2ca36566f2a5bd1948b0bb664c1a38d35cea0c1929ea696394284deee9",
+      "en_sha256": "2cfee99c74411c8cc16701a1063fe3c3e7231798544b750a4f9fa6401c6174eb",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=860501].title": {
+      "pl": "Portrait of a Certain Day",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=860801].title": {
+      "pl": "Śniąca Elektryczna Owca",
+      "kr_sha256": "325226144eb3a17c821aaaf08065bbfb5a219a4a361071d31a11b6573f69841f",
+      "en_sha256": "632ae70ba2a82564c74635ab1f4741e18f71ed800f0a6de63f00fa685011f437",
+      "origin": "ai"
+    },
+    "dataList[id=862903].title": {
+      "pl": "The King in Binds",
+      "kr_sha256": "fcb57fc25729c4559666f2f949ba022607f8891714afb69115fd2faf362dd4b3",
+      "en_sha256": "136295ed0633523630baf3864d64dc49be3f27377baec1c5c9fc2bb76a62215d",
+      "origin": "ai"
+    }
+  }
+}

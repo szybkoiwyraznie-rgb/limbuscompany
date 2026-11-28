@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1146].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1146].name": {
+      "pl": "Muddled Heishou of the Corpse Palanquin",
+      "kr_sha256": "bf59cb4cd6fb485bb50157b9eab5ba429b43498ceaeb6cc1722fd688412b8c92",
+      "en_sha256": "d4c2f4b2b9e4a949b070d1bbf713d92d1fd7a7b8fad33c5fb9e58717e282b197",
+      "origin": "ai"
+    },
+    "dataList[id=1146].storyList[level=1].story": {
+      "pl": "Babcia była bardzo zdolną osobą.\\n\\nW przeciwieństwie do mnie, która była jedynie biernym świadkiem, ona… nigdy nie pozwalała, by wahanie powstrzymało ją od planowania, osądzania i przenoszenia woli na świat.\\n\\nNawet gdy więźniowie w głębi Hongyuan byli poświęcani w pogoni za nieśmiertelnością,\\n\\nnawet gdy jej skrzywiona uraza doprowadziła do zagłady rodziny Kong…\\n\\n... nie zawahała się ani razu. Nie sądzę, by kiedykolwiek poczuła z tego powodu skruchę.\\n\\nBo nie miała wątpliwości co do siebie, że wszystko, co czyniła, było dla dobra Hongyuan i Daguanyuan.\\n\\nWspółczucie jest słabością. Emocje są przeszkodą.\\n\\nDlatego uznawała moje cierpienie za konieczne, za moje przeznaczenie.\\n\\nPrzypuszczam, że w umyśle babci było to… „to, czego Hongyuan potrzebuje”.\\n\\nŻelazne rządy wsparte mocnymi Bolusami i dominującą obecnością Heishou Packs.\\n\\nDziedziczyć pamięć założyciela, podążać za wolą starszych.\\n\\nHongyuan było… potężnym Skrzydłem. Widok tych ziem był monumentalny i budzący podziw.\\n\\nLecz ja przyglądałam się pejzażom, które skrywa w sobie, raz za razem.\\n\\nZimnej, dusznie suchej ziemi. Zniszczonej ziemi, która otacza cię dźwiękami upadających… rzeczy.\\n\\nWiem, że szukanie odrobiny ciepła w Mieście jest daremne. Nie jestem naiwna.\\n\\nAle… i tak zamierzam opuścić te ziemie w pogoni za owym ciepłem, daremne, jakby mogło być.\\n\\nPatrzysz, babci? Hongyuan, ziemia, którą tak pokochałaś i pielęgnowałaś… nie zawali się, mimo twoich zmartwień.\\n\\nAle… zmieni się.\\n\\nWątpię, by Xichun pozwoliła, by twoje wybory, które przyniosły tej ziemi bezprawie i okrucieństwo, dalej na nią wpływały pod jej rządami.\\n\\nPrawdopodobnie nie słyszysz i nie widzisz mnie już zbyt dobrze, ale…\\n\\nChcę przekazać moje ostatnie pożegnanie i podzielić się moimi ostatnimi, ostatnimi uczuciami względem wszystkich.\\n\\nŻegnaj, babcio.\\n\\nŻegnaj, poważane starsze.\\n\\nPragnę dla was wszystkich tylko największego, wiecznego pokoju w niekończącym się Awici Naraka.",
+      "kr_sha256": "f2f23bcf1faa37c8d0296125f35bda63c621a4ff9e422ac6ba86b700ef75ce63",
+      "en_sha256": "a42aa149716220efc308860a2eb52eafdd52b3be98d6d28851e7d5bb7ca4c1d6",
+      "origin": "ai"
+    }
+  }
+}
