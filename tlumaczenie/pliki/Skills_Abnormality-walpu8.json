@@ -1,0 +1,328 @@
+{
+  "entries": {
+    "dataList[id=136601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136601].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najwyższym procentem HP\n[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Bazowa +1",
+      "kr_sha256": "2838e434f935e42b85bb0817d4703ed93f432bbfb9ce4fb16e6eef4a59783be9",
+      "en_sha256": "7812cc553abdebf6a9fb4d7e78258e727db8c48595e3aca9b3f279d88a83ee64",
+      "origin": "ai"
+    },
+    "dataList[id=136601].levelList[level=1].name": {
+      "pl": "Pounce",
+      "kr_sha256": "8a8da6fe11212f11b7583ba6f766730931a0bcdb5ab5d67ffd5dd509f712b85e",
+      "en_sha256": "706a5cdec2608e34262b1ab36b3d8ff24e87054b4041ddf2a63e9083775430c9",
+      "origin": "ai"
+    },
+    "dataList[id=136602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], nakłada 2 [PenetrateResistDown] w następnej turze",
+      "kr_sha256": "e140c9a22fabf9757c57f588586fe300f7cd43589a3b130921a74f0da8e927e5",
+      "en_sha256": "b3dbae3e52593abee2805ed96274f1c09211683c1fdf35a44e6690c1f9b077a3",
+      "origin": "ai"
+    },
+    "dataList[id=136602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=136602].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najwyższym procentem HP\n[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Bazowa +1",
+      "kr_sha256": "2838e434f935e42b85bb0817d4703ed93f432bbfb9ce4fb16e6eef4a59783be9",
+      "en_sha256": "7812cc553abdebf6a9fb4d7e78258e727db8c48595e3aca9b3f279d88a83ee64",
+      "origin": "ai"
+    },
+    "dataList[id=136602].levelList[level=1].name": {
+      "pl": "Gnawing Gobble",
+      "kr_sha256": "54e203161caed830fe9495a286ea557c1a90a94156b276b842a969382812188e",
+      "en_sha256": "4146d72cfde8a9420e629562c5c337839e9d5580c1973a65ad91ee04639c485c",
+      "origin": "ai"
+    },
+    "dataList[id=136603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=136603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=136603].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=136603].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najwyższym procentem HP\n[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Monet +1",
+      "kr_sha256": "37b59eac39eacd174584183ad301d2c2df3980e039a6214f1c191e5ef8ccea8c",
+      "en_sha256": "1ca6beab8d48c944f889b13c1bb3eed541ec54fb27207de7cd2fcd0e56543ce2",
+      "origin": "ai"
+    },
+    "dataList[id=136603].levelList[level=1].name": {
+      "pl": "Orange-flavored Bubble Supplement",
+      "kr_sha256": "614b67021606a4c14da5664daf3d4a58d444569784cb2ed3d5f89d81acd989ee",
+      "en_sha256": "31a24b7d0d82f0688e816d879a689e8e49bf82bed94adb45581fed10d658827b",
+      "origin": "ai"
+    },
+    "dataList[id=136604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], nakłada 2 [PenetrateResistDown] w następnej turze",
+      "kr_sha256": "e140c9a22fabf9757c57f588586fe300f7cd43589a3b130921a74f0da8e927e5",
+      "en_sha256": "b3dbae3e52593abee2805ed96274f1c09211683c1fdf35a44e6690c1f9b077a3",
+      "origin": "ai"
+    },
+    "dataList[id=136604].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136604].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136604].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136604].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=136604].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +1 za każde 4 [Laceration] na celu (maks. 2)",
+      "kr_sha256": "250e45058663ae303af4a86c7097fa53ccaa5dc9e4e67831f5a49acbf7447fba",
+      "en_sha256": "47171446ce9c34412c2f311cc08b4e9aa60f56e85941ca4524a2d41f7c602b8a",
+      "origin": "ai"
+    },
+    "dataList[id=136604].levelList[level=1].name": {
+      "pl": "Add a Note of Bubbly Flavor",
+      "kr_sha256": "bd07c5fda9cf95b73b555a671c94394058e5074a606734d300bb2a32a8e828d9",
+      "en_sha256": "2610a3929360ce92ab4dd5e4f176f69c9f34ffff54b3b3a435c5b1914fecae0c",
+      "origin": "ai"
+    },
+    "dataList[id=136605].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] nakłada 2 [Binding] w następnej turze\n[EndBattle] [RunHallway] wygasa, po czym aktywuje się [NextHallway]",
+      "kr_sha256": "5125245e6fcd562ec89910c2f11028c58d4b9f818203a6f51f0f1f95ee1f3a28",
+      "en_sha256": "ef71198fcf39c80c1fe25562d4c0c65c2869ac03e51dfc27389a9777217a849a",
+      "origin": "ai"
+    },
+    "dataList[id=136605].levelList[level=1].name": {
+      "pl": "Herd Migration",
+      "kr_sha256": "a9f85db2b5fabc5367da900c3313074af615e598f456f1242a3467509adab53d",
+      "en_sha256": "0271e3580f1367eb79fcfb91c0dcdacab084dde615e6439db973f7b17b8b435b",
+      "origin": "ai"
+    },
+    "dataList[id=136901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136901].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "2ef38290fa0b6311cb9b45e01cefadefc95f07e91a3966033744283f4b4b4ccc",
+      "en_sha256": "60df86a5c49c2c80d1855e701f219fa2e8dc708fcf15a55814218d5b4934b4b4",
+      "origin": "ai"
+    },
+    "dataList[id=136901].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najniższą Szybkością\n[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Bazowa +1\n[BeforeAttack] Moc Bazowa -1 za każdą zniszczoną monetę",
+      "kr_sha256": "90daed500bcac3993f30e836c46f1f0f850f171d75affee6b7e4c636a6a5c4f0",
+      "en_sha256": "cad327aba92b2a3016ef8eb69dcd5194a4d7dd55515b41bf200786ec67dcde00",
+      "origin": "ai"
+    },
+    "dataList[id=136901].levelList[level=1].name": {
+      "pl": "Chomping Gobble",
+      "kr_sha256": "82df53b2e4dd4209f887305c3d267fd94dc41ac8c5a10647a3a2efb4a8e00583",
+      "en_sha256": "1e770ac2f10ac09323723c214f9d2a0f827a0eecb719dea01552e269b11bf8b3",
+      "origin": "ai"
+    },
+    "dataList[id=136902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136902].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136902].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136902].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable] w następnej turze",
+      "kr_sha256": "1c244844170b2a039abc19a8de5522921b277b9c22b48f9a66ef5311412c0497",
+      "en_sha256": "42a5ae8462a38a4e717bd0a6f733dca5323d3860d9e5e8da48be22a3d6cde8d7",
+      "origin": "ai"
+    },
+    "dataList[id=136902].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najniższą Szybkością\n[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Monet +1\n[BeforeAttack] Moc Bazowa -1 za każdą zniszczoną monetę",
+      "kr_sha256": "fcf6d73a9d2b2e94288b23057ad5e2852e0e1a80fd6a27bbeaf320a73b50900d",
+      "en_sha256": "b40bd57ff025c92898e5b8822bfba061fef9112be40a48eb59775658f4bc29c5",
+      "origin": "ai"
+    },
+    "dataList[id=136902].levelList[level=1].name": {
+      "pl": "Filling a Medium-sized Orange Bubble",
+      "kr_sha256": "6730518683fed9049a99a448be7ed2c4ff0ba7857a03fef2c7a937e3130b9b01",
+      "en_sha256": "6ddb763856701fdb042170fad4e83adf6e0469422ebb4d33d488124beaf9f06d",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 4",
+      "kr_sha256": "91e5206c0bad40989c5d94f3c0d82d2775fffe31b9625757a962b2cde02611d6",
+      "en_sha256": "b6a7210ee81efe5effcd9a594e38b78ce17c7c646116dd7aac0c5e11c6ebc9f2",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [PenetrateResistDown] w następnej turze",
+      "kr_sha256": "9bb4210ffe63ea9a00e2249cb6e09783445885af2f8a82ed50fad2aa97eda496",
+      "en_sha256": "c4b25beb23967ce191b18c37ffba8418a069e27b92c73db279b3d5048ab17f47",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najniższą Szybkością\n[WhenUse] Moc Monet +1 za każde 3 [Laceration] na celu (maks. 2)\n[BeforeAttack] Moc Bazowa -1 za każdą zniszczoną monetę",
+      "kr_sha256": "85ccd93bdcb18a03b4d0402841090206eaf45a2465d7daf73e6537d2557822ae",
+      "en_sha256": "cedea336a67a83ebbf44feb79389e91184ee66063aa8fd11782cb0cd6c96d4ce",
+      "origin": "ai"
+    },
+    "dataList[id=136903].levelList[level=1].name": {
+      "pl": "More Potent, More Plentiful",
+      "kr_sha256": "40a01a47f54eba8b99ad966a425158cbcc9e5920dc30c26a97e4670e10fd5559",
+      "en_sha256": "ba55e1d2798a8deeddd6a9c0c240a02873bcf1631817a1c1673aa6d56d5a7ccc",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najniższą Szybkością\n[WhenUse] Moc Monet +1 za każde 3 [Laceration] na celu (maks. 2)\n[BeforeAttack] Moc Bazowa -1 za każdą zniszczoną monetę",
+      "kr_sha256": "85ccd93bdcb18a03b4d0402841090206eaf45a2465d7daf73e6537d2557822ae",
+      "en_sha256": "cedea336a67a83ebbf44feb79389e91184ee66063aa8fd11782cb0cd6c96d4ce",
+      "origin": "ai"
+    },
+    "dataList[id=136904].levelList[level=1].name": {
+      "pl": "Feed Consumption for BongBong Procreation",
+      "kr_sha256": "0d9f3adcdd4b8c984dd94dd60dc53142d275343f4b002279cf02ba9921c74d12",
+      "en_sha256": "6a4bcd437d1e7a3dddbfb99e662935155a0b2cc122b413e7edab3ffb3db6b463",
+      "origin": "ai"
+    },
+    "dataList[id=136905].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136905].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[EndBattle] [RunHallway] wygasa, po czym [NextHallway] aktywuje się dla „tej jednostki\" i „The Perfect Food przywołanej przez tę jednostkę\"",
+      "kr_sha256": "66a2514af102c48fb274fd2d3f4d2a9b2d1be1ce4499b28c1d29f3b346c90eb4",
+      "en_sha256": "a52205aa5029b7b0e6407c2b6cf974b7434c9a795319cd13bc660671d5692eaa",
+      "origin": "ai"
+    },
+    "dataList[id=136905].levelList[level=1].name": {
+      "pl": "Herd Migration",
+      "kr_sha256": "a9f85db2b5fabc5367da900c3313074af615e598f456f1242a3467509adab53d",
+      "en_sha256": "0271e3580f1367eb79fcfb91c0dcdacab084dde615e6439db973f7b17b8b435b",
+      "origin": "ai"
+    }
+  }
+}

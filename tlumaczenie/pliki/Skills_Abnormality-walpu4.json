@@ -1,0 +1,232 @@
+{
+  "entries": {
+    "dataList[id=836301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836301].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 10 lub mniej Poczytalności, Moc Starcia +1\n[WhenUse] zyskuje 1 [VioletUnderstand]",
+      "kr_sha256": "2f49f375661126d10c9f78786cb333e83b463e2b7367d94ad50e544b3f6486c5",
+      "en_sha256": "9bb5647696833494da9e8c6ba0dece1925ef69be6ff0634c4eca2f424bd68716",
+      "origin": "ai"
+    },
+    "dataList[id=836301].levelList[level=1].name": {
+      "pl": "Understanding",
+      "kr_sha256": "da2995a8c183c1cabd41954740ecd5db28218079d148e888b12055c20562be2c",
+      "en_sha256": "6bec5244819cfbe8df72d47698b8acd3181c92af1045e733d8d76811ac659795",
+      "origin": "ai"
+    },
+    "dataList[id=836302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [VioletTakeDamageUp]",
+      "kr_sha256": "7ff2d6193c10752e121a9c7b68a38476546f6a43456d91a71bf58d8f777d2022",
+      "en_sha256": "f593f8769b6ffc4fd8062b0f7fe832a8ad697d15df80b83feb2610bb2b303866",
+      "origin": "ai"
+    },
+    "dataList[id=836302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836302].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 10 lub mniej Poczytalności, Moc Starcia +1\n[WhenUse] zyskuje 2 [VioletUnderstand]",
+      "kr_sha256": "b56ea6f7de1a69910116a492463fd6bd370f93e66b0e1cc7fd971bf870991c9f",
+      "en_sha256": "2b646f1bc8d20ed537293bf136f04153bbd48b07a46bbe7e6eeddcd873aa5d22",
+      "origin": "ai"
+    },
+    "dataList[id=836302].levelList[level=1].name": {
+      "pl": "Perception",
+      "kr_sha256": "d60b48313e5c7a459cb9d9f3c22de791b7ff5414c06dee7c4a70cad47375aafc",
+      "en_sha256": "bd18e320a6bb9f539bf38e7c789035e1da2897d310fd54fc9c868f2365d776c7",
+      "origin": "ai"
+    },
+    "dataList[id=836303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [VioletTakeDamageUp]",
+      "kr_sha256": "7ff2d6193c10752e121a9c7b68a38476546f6a43456d91a71bf58d8f777d2022",
+      "en_sha256": "f593f8769b6ffc4fd8062b0f7fe832a8ad697d15df80b83feb2610bb2b303866",
+      "origin": "ai"
+    },
+    "dataList[id=836303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836303].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 10 lub mniej Poczytalności, Moc Starcia +1\n[WhenUse] zyskuje 1 [VioletUnderstand]",
+      "kr_sha256": "2f49f375661126d10c9f78786cb333e83b463e2b7367d94ad50e544b3f6486c5",
+      "en_sha256": "9bb5647696833494da9e8c6ba0dece1925ef69be6ff0634c4eca2f424bd68716",
+      "origin": "ai"
+    },
+    "dataList[id=836303].levelList[level=1].name": {
+      "pl": "Salvation",
+      "kr_sha256": "7545ea04e45a19d1ab5a68fb7f92078d2e11ea54028294bc0379ba51cb5623ae",
+      "en_sha256": "9b60e05640e9ed1f5da8b5ed8092d3b6c23ba57cdb7c4cd667386209b3930a03",
+      "origin": "ai"
+    },
+    "dataList[id=836304].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 [VioletUnderstand]",
+      "kr_sha256": "09ccf1e276c2acffc2d2a35f7154e759251a2b0b84363b31cc6986628d4dfdaa",
+      "en_sha256": "b833eceb0f95ea67689d6e26d617d36f60edb4691f5e5bb93b533cc172d4b883",
+      "origin": "ai"
+    },
+    "dataList[id=836304].levelList[level=1].name": {
+      "pl": "What is Incomprehensible",
+      "kr_sha256": "6f434d330ac242377d12ba80be7f544bfa1a54d8b7f269cd6068fc198420ccf3",
+      "en_sha256": "52b263512dc880e9f1fd02ed9fef71a64b433964a1144a4ace5d3746c66431b7",
+      "origin": "ai"
+    },
+    "dataList[id=836305].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [VioletTakeDamageUp] w następnej turze",
+      "kr_sha256": "4d2f9cc1efe6d34c355fb3cd6c9de398edf7ad8737729d4f94b1ae39795324f9",
+      "en_sha256": "884ed0ad39523d73dd4633801d45b23be1f48d46030d9598a428dc611448a8f9",
+      "origin": "ai"
+    },
+    "dataList[id=836305].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 10~14 obrażeń Poczytalności",
+      "kr_sha256": "c8c917620a9d61b27d33a0338dc7f60a2448df62212d39047c7a28f86497e34a",
+      "en_sha256": "1bfa4c4684e37066c301f50344f7731a16d3e93598a6f9c506b2c21dad8f4be6",
+      "origin": "ai"
+    },
+    "dataList[id=836305].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[EndSkill] ginie",
+      "kr_sha256": "cd33da87dde662ce74da554980903402402360bb76bdbd3e9ebd16ea11ee9851",
+      "en_sha256": "f07e21e6c4288154eb0bc3f85be84d21cba17286b53c1aa24ba6cfba63b1e57b",
+      "origin": "ai"
+    },
+    "dataList[id=836305].levelList[level=1].name": {
+      "pl": "Decay",
+      "kr_sha256": "a28cfc3e381319b2816b32fecfde1ed4e06b3814e10fd6aaba6f27a6aac8588b",
+      "en_sha256": "e4a3905e56d1f25bf92e4e8d2c3aafc77271397691df3762dcddbfa16ccb3d43",
+      "origin": "ai"
+    },
+    "dataList[id=836601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [VioletTakeDamageUp]",
+      "kr_sha256": "7ff2d6193c10752e121a9c7b68a38476546f6a43456d91a71bf58d8f777d2022",
+      "en_sha256": "f593f8769b6ffc4fd8062b0f7fe832a8ad697d15df80b83feb2610bb2b303866",
+      "origin": "ai"
+    },
+    "dataList[id=836601].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836601].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 20 lub mniej Poczytalności, Moc Starcia +1",
+      "kr_sha256": "ecdf36f1536d1818f11c5046f57784e85de212d8c708a4948a5cd9d082f905f7",
+      "en_sha256": "6fac8f792a7691e824c8dce83f4b6bd41e77f9250f5fc675ea43f50ea0d3b06d",
+      "origin": "ai"
+    },
+    "dataList[id=836601].levelList[level=1].name": {
+      "pl": "Mercy",
+      "kr_sha256": "8708138b7c1e65694aaba9f9f77c49495966245d31c57f80b7c3f295c49727a5",
+      "en_sha256": "103111bf115232fe7b9bca9e4401d0b07eadafc06f4fef89568f88020de7f2ab",
+      "origin": "ai"
+    },
+    "dataList[id=836602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [VioletTakeDamageUp]",
+      "kr_sha256": "7ff2d6193c10752e121a9c7b68a38476546f6a43456d91a71bf58d8f777d2022",
+      "en_sha256": "f593f8769b6ffc4fd8062b0f7fe832a8ad697d15df80b83feb2610bb2b303866",
+      "origin": "ai"
+    },
+    "dataList[id=836602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836602].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 20 lub mniej Poczytalności, Moc Starcia +1",
+      "kr_sha256": "ecdf36f1536d1818f11c5046f57784e85de212d8c708a4948a5cd9d082f905f7",
+      "en_sha256": "6fac8f792a7691e824c8dce83f4b6bd41e77f9250f5fc675ea43f50ea0d3b06d",
+      "origin": "ai"
+    },
+    "dataList[id=836602].levelList[level=1].name": {
+      "pl": "Love",
+      "kr_sha256": "ff2763f11c21f16783f8f382446808c669914af759bebf01281536877bfb1366",
+      "en_sha256": "9f4024faec10ef6d29aa32d7935d94b1a816fd4fe0359fbf12d49d44b5ff33b8",
+      "origin": "ai"
+    },
+    "dataList[id=836603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836603].levelList[level=1].desc": {
+      "pl": "[CantDuel]",
+      "kr_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "en_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "origin": "ai"
+    },
+    "dataList[id=836603].levelList[level=1].name": {
+      "pl": "Flickering Glyphs of Understanding",
+      "kr_sha256": "8cef6c98322b775bb7e5b44a736b4cdabc410648668dfcc2259f4528f5376f92",
+      "en_sha256": "cc68db803fb4140f4fee87931d5e4bd6c69c0445b642abba369c3d1efa20982d",
+      "origin": "ai"
+    },
+    "dataList[id=836604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [VioletTakeDamageUp]",
+      "kr_sha256": "66e4fbdde97d6467a9396ee614baa95aff9cd3c95f06ca8e8127994ceb441245",
+      "en_sha256": "e48811604a7ab2fac18246b76bbabd370be0e959299f60351988133252f1129a",
+      "origin": "ai"
+    },
+    "dataList[id=836604].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [MentalCrack]",
+      "kr_sha256": "2c2a87dd12e4d2b17d3fffee7d8a6ae9a3f3f2f1219269aa8e1c1ba5157d9f3d",
+      "en_sha256": "e5a6af9e824c925f24e4e6d9b5f53ce7b0db82e04ac839a60c5fb2d6f9694fcc",
+      "origin": "ai"
+    },
+    "dataList[id=836604].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 20 lub mniej Poczytalności, Moc Starcia +1",
+      "kr_sha256": "ecdf36f1536d1818f11c5046f57784e85de212d8c708a4948a5cd9d082f905f7",
+      "en_sha256": "6fac8f792a7691e824c8dce83f4b6bd41e77f9250f5fc675ea43f50ea0d3b06d",
+      "origin": "ai"
+    },
+    "dataList[id=836604].levelList[level=1].name": {
+      "pl": "Flickering Glyphs of Understanding",
+      "kr_sha256": "8cef6c98322b775bb7e5b44a736b4cdabc410648668dfcc2259f4528f5376f92",
+      "en_sha256": "cc68db803fb4140f4fee87931d5e4bd6c69c0445b642abba369c3d1efa20982d",
+      "origin": "ai"
+    },
+    "dataList[id=836605].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 [Protection]",
+      "kr_sha256": "fb35800c3ebef9d25253ede34629b3bbbbd72a0b500d93421064e21ff5b949a6",
+      "en_sha256": "09d9f365d31e43d0d3e12b98fc85860226bca4036e248d01fc2c1a26a418be7e",
+      "origin": "ai"
+    },
+    "dataList[id=836605].levelList[level=1].name": {
+      "pl": "What is Incomprehensible",
+      "kr_sha256": "6f434d330ac242377d12ba80be7f544bfa1a54d8b7f269cd6068fc198420ccf3",
+      "en_sha256": "52b263512dc880e9f1fd02ed9fef71a64b433964a1144a4ace5d3746c66431b7",
+      "origin": "ai"
+    },
+    "dataList[id=836606].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 100 obrażeń",
+      "kr_sha256": "c5252f0da65938f965d7dd3f176776cbfd048253c2d30e74ecf3334f1a1e985d",
+      "en_sha256": "bd62523033725d4e92250c7e89f085f56a13cbbe7b4ccc9b0e236d8269bc3bfb",
+      "origin": "ai"
+    },
+    "dataList[id=836606].levelList[level=1].desc": {
+      "pl": "[CantDuel]",
+      "kr_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "en_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "origin": "ai"
+    },
+    "dataList[id=836606].levelList[level=1].name": {
+      "pl": "Rushing Arms of Rest",
+      "kr_sha256": "b71a711908fd650a8425e6837e50513c731eaa6d7f6e952512c0e0ef06921fb2",
+      "en_sha256": "78f4f9374e5e939461f3644e1ffb84ec5fdc3a1b1343fce7f1597c1d91fba405",
+      "origin": "ai"
+    }
+  }
+}

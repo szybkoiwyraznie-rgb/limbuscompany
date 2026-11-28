@@ -1,0 +1,96 @@
+517||[[walpu10] Pasywka wroga [158302] — opis] 스테이지 첫 등장 시, 아래 효과 적용\n- 정신력 45 회복\n- 모든 쐐기 사무소 소속 아군에게 [WalpuTenWedgeOffice] 3 부여\n\n턴 시작 시 <color=#ff6000><mark color=#ff000040><b><u>흐트러짐 상태인 아군이 있으면</color></mark></b></u> 쐐기 사무소 대표 오스카가 [SupportProtect] 2 얻음 (자신 제외)\n<color=#ff6000><mark color=#ff000040><b><u>전투 중 아군이 흐트러지면</color></mark></b></u>, 쐐기 사무소 대표 오스카가 [SupportProtect] 1 얻음 (턴당 1회, 상시 체크)\n- 위 두 효과로 [SupportProtect] 획득 시 쐐기 사무소 대표 오스카가 흐트러짐 상태면, 흐트러짐을 해제 (강제 흐트러짐 제외)|Upon entering the Encounter for the first time, activate the following effects:\n- Heal 45 SP\n- Apply 3 [WalpuTenWedgeOffice] to all Wedge Office[TabExplain] allies\n\nTurn Start: <color=#ff6000><mark color=#ff000040><b><u>If an ally is Staggered,</color></mark></b></u> Wedge Office[TabExplain] Rep Oscar gains 2 [SupportProtect] (excluding self)\n<color=#ff6000><mark color=#ff000040><b><u>When an ally becomes Staggered during combat,</color></mark></b></u> Wedge Office[TabExplain] Rep Oscar gains 1 [SupportProtect] (once per turn; checked continuously)\n- If Wedge Office[TabExplain] Rep Oscar is Staggered when gaining [SupportProtect] from the above two effects, recover from Stagger (excluding forced Staggers)
+518||[[walpu10] Pasywka wroga [158303] — nazwa] 쐐기 원호|Assistance of the Wedge
+519||[[walpu10] Pasywka wroga [158303] — opis] 자신을 포함한 아군이 아래 조건 만족시, [WalpuTenComboWedge] 1 얻음 (조건별로 캐릭터당 턴당 1회)\n해당 캐릭터가 쐐기 사무소 소속이면, 대신 [WalpuTenComboWedge] 2 얻음\n- 스킬 사용시\n- 합 승리시\n- 자신의 기본 스킬로 [VibrationExplosion] 발생시|When an ally, including this unit, meets the following conditions, gain 1 [WalpuTenComboWedge] (once per condition per character per turn)\nIf the said character is in "Wedge Office[TabExplain]", gain 2 [WalpuTenComboWedge] instead\n- On Skill Use\n- On Clash Win\n- When triggering [VibrationExplosion] using Base Skills
+520||[[walpu10] Pasywka wroga [158303] — tekst klimatyczny] 대부분의 해결사 사무소는 협력을 통해 서로의 부족함을 보완한다.\n그중에서도 호흡이 잘 맞는 사무소들은 더 많은 정보를 교류하고 신뢰를 쌓아 형제처럼 지내기도 한다.|Most Fixer Offices work together to make up for one another's shortcomings.\n\nSome Offices, however, find themselves so perfectly in sync that their partnership grows into something more. As they exchange information and forge deeper bonds of trust, they may eventually come to regard one another as siblings.
+521||[[walpu10] Pasywka wroga [158304] — nazwa] 쐐기식 창술|Wedge-style Spearmanship
+522||[[walpu10] Pasywka wroga [158304] — opis] [VibrationExplosion]로 가하는 흐트러짐 피해량 +10%\n턴 시작 시 [PenetrateResultUp], [PenetrateDamageUp] 1 얻음\n\n<color=#ff6000><mark color=#ff000040><b><u>현재 체력 비율이 50% 이상이거나 보호막을 보유한 대상에게 가하는 피해량 +20%</color></mark></b></u>\n\n기본 스킬로 피해를 줄 때 대상의 방어 레벨이 적중한 스킬의 공격 레벨보다 높으면, 수치 차이 1당 피해량 +2% (최대 30%)|+10% to Stagger Threshold raised by [VibrationExplosion]\nTurn Start: Gain 1 [PenetrateResultUp] and [PenetrateDamageUp]\n\n<color=#ff6000><mark color=#ff000040><b><u>Deal +20% damage to targets at 50%+ current HP and targets that have Shield</color></mark></b></u>\n\nWhen dealing damage using Base Skills, if the target's Defense Level is higher than the Offense Level of the Skill that hit, deal +2% damage for every 1 Level of difference (max 30%)
+523||[[walpu10] Pasywka wroga [158304] — tekst klimatyczny] 창끝을 날카롭게 가는 것만으로는 관통력을 높이는 데 한계가 있고, 특허 받은 합금이나 유적에서 발견되는 재료로 만든 창은 어지간한 사무소의 몇년치 예산과 맞먹는다. 반면 주변에 흐르는 바람을 무기에 휘감는 기술은, 다루는 공방이 많고 들어가는 값에 비해 관통력 또한 뛰어나다.\n\n쐐기 사무소의 창도 이러한 기술을 다루는 공방에서 만들어졌다. 이는 회전을 적극적으로 섞는 쐐기 사무소의 창술과 합쳐져, 여태껏 수많은 적을 꿰뚫었다.|There is only so much piercing power to be gained from sharpening a spearhead. Spears forged from Patented alloys or rare materials recovered from the Ruins may offer greater results, but their price can rival several years' worth of an ordinary Fixer Office's budget. A far more economical approach is to harness the surrounding currents of wind and coil them around the weapon, granting it formidable piercing power at a fraction of the cost. The technique is well-established, with many Workshops offering their own implementations.\n\nWedge Office's spears are the handiwork of one such Workshop. Combined with the Office's distinctive spearwork, which makes masterful use of twisting and rotational movements, these weapons have run countless foes through.
+524||[[walpu10] Pasywka wroga [158401] — nazwa] 쐐기 박기|Wedge Drive
+525||[[walpu10] Pasywka wroga [158401] — opis] 아래 조건 중 하나라도 만족하면 [WalpuTenBattleFieldKnow] 1 얻음 (턴당 1회)\n- 전투 중 적이 사망했거나 흐트러짐 상태가 될 경우\n- <color=#ff6000><mark color=#ff000040><b><u>부정적인 효과가 4종류 이상 있는 대상에게 공격 적중 시</color></mark></b></u>\n- [WalpuTenWedgeMarkSilver]가 있는 대상에게 공격 적중 시\n\n관통 스킬로 마지막 코인 적중 시 메인 타겟에게 [WalpuTenWedgeMarkGold] 1 부여 (스킬당 1회)|When any of the following conditions are met, gain 1 [WalpuTenBattleFieldKnow] (once per turn)\n- When an enemy is defeated or becomes Staggered during combat\n- <color=#ff6000><mark color=#ff000040><b><u>On Hit against a target that has 4 or more types of negative effect</color></mark></b></u>\n- On Hit against a target that has [WalpuTenWedgeMarkSilver]\n\nOn final Coin Hit using Pierce Skills, inflict 1 [WalpuTenWedgeMarkGold] on the main target (once per Skill)
+526||[[walpu10] Pasywka wroga [158402] — nazwa] 도시의 사냥꾼|Hunters of the City
+527||[[walpu10] Pasywka wroga [158402] — opis] 스테이지 첫 등장시, 정신력 45 회복\n\n턴 종료 시 자신의 [Breath] 위력이 10 이상이면, 다음 턴에 [Agility] 1 얻음\n\n자신의 [Breath] 위력이 20을 초과했으면, 기본 스킬로 가하는 크리티컬 피해량 +(초과한 수치)% (최대 25%)|Upon entering the Encounter for the first time, heal 45 SP\n\nTurn End: At 10+ [Breath] Potency, gain 1 [Agility] next turn\n\nAt 20+ [Breath] Potency, Base Skills deal +(excess Potency)% damage on Critical Hit (max 25%)
+528||[[walpu10] Pasywka wroga [158402] — tekst klimatyczny] 도시의 밤거리는 언제나 비열하고 야만적인 것들로 우글거린다.\n인생 역전을 노리는 쥐들부터 복수를 꿈꾸는 뒷골목 주민, 이권을 다투는 조직들과 손가락 그리고 청소부까지.\n그렇기에 밤에 이루어지는 의뢰는 대개 보수가 높음에도 인기가 없다.\n하지만 그런 심야의 의뢰를 기회로 여기는 자들도 있다.\n뛰어난 상황 판단 능력과 우환을 남기지 않는 신속하고 빈틈없는 마무리.\n그 두 가지를 무기로 쐐기 사무소는 매번 살아남아 높은 보수를 챙겨 왔다.|The streets of the City are never short of vile and savage company after dark. Rats desperate to turn their lives around, denizens of the Backstreets harboring dreams of revenge, Syndicates and Fingers embroiled in struggles over their interests... and, of course, the Sweepers.\n\nFor all the fortunes to be made from working after sundown, few Fixers are eager to accept such contracts. There are, however, those who find their greatest opportunities precisely where others dare not tread.\n\nThe discernment to read any situation with remarkable precision. The swiftness and thoroughness to bring a job to its conclusion without inviting further trouble. With these two qualities as its greatest assets, Wedge Office has weathered every contract and walked away with the handsome compensation that follows.
+530||[[walpu10] Pasywka wroga [158501] — opis] 합 시작 시 [WalpuTenBattleFieldKnow] 1 얻음 (턴당 1회)\n\n관통 스킬로 마지막 코인 적중 시 메인 타겟에게 [WalpuTenWedgeMarkSilver] 1 부여 (스킬당 1회)|Clash Start: Gain 1 [WalpuTenBattleFieldKnow] (once per turn)\n\nOn Pierce Skill final Coin Hit, inflict 1 [WalpuTenWedgeMarkSilver] on the main target (once per Skill)
+537||[[walpu10] Pasywka wroga [158602] — opis] <color=#ff6000><mark color=#ff000040><b><u>자신의 정신력이 20/40 이상이면</color></mark></b></u>, 코인 위력이 1/2씩 증가\n\n<color=#ff6000><mark color=#ff000040><b><u>체력이 50% 이하면</color></mark></b></u>, 최종 위력 +1|<color=#ff6000><mark color=#ff000040><b><u>At 20+/40+ SP,</color></mark></b></u> Coin Power +1/+2\n\n<color=#ff6000><mark color=#ff000040><b><u>At 50%- HP,</color></mark></b></u> Final Power +1
+539||[[walpu10] Pasywka wroga [158603] — opis] 스테이지 첫 등장시, 정신력 45 회복\n[Combustion] 효과로 받는 피해량 -40% (소수점 버림)\n\n[PanicChangeLock] 효과가 적용되며, 턴 종료 시 패닉 상태면 정신력이 45로 변경됨\n\n체력이 10이 되면…|Upon entering the Encounter for the first time, heal 45 SP\nTake -40% damage from [Combustion] (rounded down)\n\nApply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, change SP to 45\n\nAt 10 HP...
+541||[[walpu10] Pasywka wroga [158701] — opis] 턴 종료시 흐트러짐 상태가 아니라면 모든 적에게 [Combustion] 2 부여\n\n<color=#ff6000><mark color=#ff000040><b><u>자신의 정신력이 20/40/45 이상이면</color></mark></b></u>, 최종 위력이 1/2/3씩 증가\n\n<color=#ff6000><mark color=#ff000040><b><u>자신의 체력이 50% 이하면</color></mark></b></u>, 최종 위력 +1|Turn End: If this unit is not Staggered, inflict 2 [Combustion] on all enemies\n\n<color=#ff6000><mark color=#ff000040><b><u>At 20+/40+/45+ SP,</color></mark></b></u> Final Power +1/+2/+3\n\n<color=#ff6000><mark color=#ff000040><b><u>At 50%- HP,</color></mark></b></u> Final Power +1
+542||[[walpu10] Pasywka wroga [158702] — nazwa] 불안정한 자아의 껍질|Unstable Shell of Ego
+543||[[walpu10] Pasywka wroga [158702] — opis] 피격 시 공격자에게 [Combustion]을 부여하는 [PhilipShield] 상태와 공격 적중 시 대상에게 [Combustion]을 부여하는 [PhilipSword] 상태가 반복됨\n\n[PhilipReady]가 0이면, ‘타오르는 일격’을 사용함\n- 해당 턴 종료 후 다음 턴에 다시 [PhilipReady] 4 얻음|Regularly shifts between [PhilipShield] and [PhilipSword] modes, inflicting [Combustion] after taking hits and upon attacking, respectively.\n\nAt 0 [PhilipReady], use "Blazing[TabExplain] Strike"\n- Gain 4 [PhilipReady] again next turn after the end of the turn this unit used "Blazing[TabExplain] Strike"
+545||[[walpu10] Pasywka wroga [158703] — opis] 스테이지 첫 등장시 정신력 45로 시작하고, [PhilipPower] 얻음\n\n[Combustion] 효과로 받는 피해량 -50% (소수점 버림)\n- 체력이 50% 미만이면, 효과가 강화 되어, [Combustion] 효과로 받는 피해량 -75%\n\n[PanicChangeLock] 효과가 적용되며, 턴 종료 시 패닉 상태면 정신력이 45로 변경됨|Upon entering the Encounter for the first time, enter with 45 SP and gain [PhilipPower]\n\nTake -50% damage from [Combustion] (rounded down)\n- At lower than 50% HP, this effect is enhanced and this unit takes -75% damage from [Combustion]\n\nApply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, raise SP to 45
+546||[[walpu10] Pasywka wroga [158703] — tekst klimatyczny] 날아오를 하늘을 아직 정하지 못한 어중간한 날개.|Half-formed wings, yet to choose the skies in which they shall soar.
+547||[[walpu10] Pasywka wroga [158704] — nazwa] 정해진 결말|The Conclusion Prewritten
+548||[[walpu10] Pasywka wroga [158704] — opis] 체력이 10이 되면…|At 10 HP...
+549||[[walpu2] Wróg / część [8147] — nazwa] 녹빛 여명 - 의문 - α|Dawn of Green - Doubt - α
+550||[[walpu2] Wróg / część [8147] — opis] 적 잡몹|Enemy Unit
+551||[[walpu2] Wróg / część [8148] — nazwa] 녹빛 여명 - 의문 - β|Dawn of Green - Doubt - β
+553||[[walpu2] Wróg / część [8149] — nazwa] 녹빛 여명 - 의문 - γ|Dawn of Green - Doubt - γ
+555||[[walpu2] Wróg / część [8150] — nazwa] 녹빛 여명 - 의문 - δ|Dawn of Green - Doubt - δ
+557||[[walpu2] Wróg / część [814701] — nazwa] 몸통|Body
+558||[[walpu2] Wróg / część [814701] — opis] 부위|Part
+573||[Umiejętność wroga [814701] (ulepszenie 1) — nazwa] 찌르기|Stab
+574||[Umiejętność wroga [814701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 2 부여. 대상에게 출혈이 있으면 출혈 횟수 1 추가 부여|[OnSucceedAttack] Inflict 2 Bleed. If target has Bleed, inflict +1 Bleed Count
+575||[Umiejętność wroga [814702] (ulepszenie 1) — nazwa] 찍어누르기|Pin Down
+576||[Umiejętność wroga [814702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 2 증가|[OnSucceedAttack] Inflict +2 Bleed Count
+577||[Umiejętność wroga [814702] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 2 부여|[OnSucceedAttack] Inflict 2 Bleed
+578||[Umiejętność wroga [814703] (ulepszenie 1) — nazwa] 고통|Pain
+579||[Umiejętność wroga [814703] (ulepszenie 1) — opis] 출혈이 있는 대상 우선 공격|Prioritizes enemies with Bleed
+580||[Umiejętność wroga [814703] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 출혈이 있다면, 피해량의 10%만큼 추가 피해|[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage
+582||[Umiejętność wroga [814703] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 출혈만큼 출혈 부여|[OnSucceedAttack] Inflict Bleed by Bleed on target
+583||[Umiejętność wroga [814704] (ulepszenie 1) — nazwa] 방어|Defend
+584||[Umiejętność wroga [814704] (ulepszenie 1) — opis] 보호막 체력이 있을 때, 피격 시 다음 턴에 출혈 2 부여|If this unit has Shield HP, inflict 2 Bleed next turn On Hit
+586||[Umiejętność wroga [814801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여. 대상에게 출혈이 있으면 출혈 횟수 2 추가 부여|[OnSucceedAttack] Inflict 3 Bleed. If target has Bleed, inflict +2 Bleed Count
+589||[Umiejętność wroga [814802] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed
+591||[Umiejętność wroga [814803] (ulepszenie 1) — opis] 출혈이 있는 대상 우선 공격\n자신의 공격으로 대상을 처치했다면, 정신력이 가장 낮은 적 정신력 10 감소.|Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.
+593||[Umiejętność wroga [814803] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 대상의 출혈만큼 정신력 피해|[OnSucceedAttackHead] Target loses (Bleed on target) SP
+601||[Umiejętność wroga [814902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count
+604||[Umiejętność wroga [814903] (ulepszenie 1) — opis] 출혈이 있는 대상 우선 공격\n자신의 공격으로 대상을 처치했다면, 정신력이 가장 낮은 적 정신력 10 감소.\n자신의 공격으로 대상을 처치했다면, 다른 대상에게 재사용.|Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.
+605||[Umiejętność wroga [814903] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 출혈이 있다면, 피해량의 20%만큼 추가 피해|[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage
+606||[Umiejętność wroga [814903] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 출혈만큼 정신력 피해|[OnSucceedAttack] Target loses (Bleed on target) SP
+610||[Umiejętność wroga [814903] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 출혈이 10 이상이라면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 10+ Bleed, Reuse this Coin once
+611||[Umiejętność wroga [814904] (ulepszenie 1) — nazwa] 반격|Counter
+613||[Umiejętność wroga [815001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 4 부여. 대상에게 출혈이 있으면 출혈 횟수 2 추가 부여|[OnSucceedAttack] Inflict 4 Bleed. If target has Bleed, inflict +2 Bleed Count
+614||[Umiejętność wroga [815001] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 출혈 횟수 2 증가|[OnSucceedAttackHead] Inflict +2 Bleed Count
+615||[Umiejętność wroga [815001] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed
+622||[Umiejętność wroga [815003] (ulepszenie 1) — opis] 출혈이 있는 대상 우선 공격\n자신의 공격으로 대상을 처치했다면, 정신력이 가장 낮은 적 정신력 15 감소.\n자신의 공격으로 대상을 처치했다면, 다른 대상에게 재사용.|Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 15 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.
+624||[Umiejętność wroga [815003] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] (대상의 출혈/2)만큼 정신력 피해|[OnSucceedAttack] Target loses (Bleed on target/2) SP
+630||[Umiejętność wroga [815003] (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 출혈이 7 이상이라면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 7+ Bleed, Reuse this Coin once
+632||[[walpu4] Wróg / część [8363] — nazwa] 이해의 과실|Fruit of Understanding
+638||[[walpu4] Wróg / część [8366] — nazwa] 사랑을 주소서|Grant Us Love
+640||[[walpu4] Wróg / część [836602] — nazwa] 왼팔|Left Arm
+642||[[walpu4] Wróg / część [836603] — nazwa] 오른팔|Right Arm
+644||[Umiejętność wroga [836301] (ulepszenie 1) — nazwa] 이해|Understanding
+645||[Umiejętność wroga [836301] (ulepszenie 1) — opis] 대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 1 얻음|If target has 10- SP, Clash Power +1\n[WhenUse] Gain 1 [VioletUnderstand]
+646||[Umiejętność wroga [836301] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [MentalCrack] 1 부여|[OnSucceedAttack] Inflict 1 [MentalCrack]
+647||[Umiejętność wroga [836302] (ulepszenie 1) — nazwa] 인지|Perception
+648||[Umiejętność wroga [836302] (ulepszenie 1) — opis] 대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 2 얻음|If target has 10- SP, Clash Power +1\n[WhenUse] Gain 2 [VioletUnderstand]
+649||[Umiejętność wroga [836302] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VioletTakeDamageUp] 1 부여|[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]
+651||[Umiejętność wroga [836303] (ulepszenie 1) — nazwa] 구원|Salvation
+655||[Umiejętność wroga [836304] (ulepszenie 1) — nazwa] 이해 불능|What is Incomprehensible
+656||[Umiejętność wroga [836304] (ulepszenie 1) — opis] [WhenUse] [VioletUnderstand] 2 얻음|[WhenUse] Gain 2 [VioletUnderstand]
+657||[Umiejętność wroga [836305] (ulepszenie 1) — nazwa] 붕괴|Decay
+658||[Umiejętność wroga [836305] (ulepszenie 1) — opis] [CantDuel]\n[EndSkill] 사망|[CantDuel]\n[EndSkill] Dies
+659||[Umiejętność wroga [836305] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [VioletTakeDamageUp] 2 부여|[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp] next turn
+660||[Umiejętność wroga [836305] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 정신력 피해를 10 ~ 14 입힘|[OnSucceedAttack] Deal 10~14 SP damage
+661||[Umiejętność wroga [836601] (ulepszenie 1) — nazwa] 자비|Mercy
+662||[Umiejętność wroga [836601] (ulepszenie 1) — opis] 대상의 정신력이 20 이하면 합 위력 +1|If target has 20- SP, Clash Power +1
+665||[Umiejętność wroga [836602] (ulepszenie 1) — nazwa] 사랑|Love
+669||[Umiejętność wroga [836603] (ulepszenie 1) — nazwa] 점멸하는 이해의 문자|Flickering Glyphs of Understanding
+670||[Umiejętność wroga [836603] (ulepszenie 1) — opis] [CantDuel]|[CantDuel]
+675||[Umiejętność wroga [836604] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VioletTakeDamageUp] 2 부여|[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp]
+678||[Umiejętność wroga [836605] (ulepszenie 1) — opis] [WhenUse] [Protection] 2 얻음|[WhenUse] Gain 2 [Protection]
+679||[Umiejętność wroga [836606] (ulepszenie 1) — nazwa] 쇄도하는 안식의 팔|Rushing Arms of Rest
+681||[Umiejętność wroga [836606] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 체력 100 피해|[OnSucceedAttack] Deal 100 HP damage
+682||[[walpu4] Pasywka wroga [836301] — nazwa] BLACK 피해|BLACK Damage
+683||[[walpu4] Pasywka wroga [836301] — opis] 이 유닛이 피해를 입힐 때, 정신력 1 ~ 3 피해|When this unit deals damage, it also deals 1~3 SP damage
+685||[[walpu4] Pasywka wroga [836401] — opis] 이 유닛은 일정 턴 뒤에 자멸함|This unit self-terminates after a certain number of turns passes
+690||[[walpu4] Pasywka wroga [836601] — nazwa] 침식|Corrosion
+691||[[walpu4] Pasywka wroga [836601] — opis] 턴 종료 시, 모든 적에게 3의 피해를 입힘|Turn End: Deal 3 damage to all enemies
+692||[[walpu4] Pasywka wroga [836302] — nazwa] 붕괴 임박|Imminent Decay
+694||[[walpu4] Pasywka wroga [836602] — nazwa] 팔 부위 패시브|Passive for the Arm Part
+695||[[walpu4] Pasywka wroga [836602] — opis] 팔 부위 파괴 시 특정 스킬 사용 불가|Break the Arm to disable certain Skills
+696||[[walpu5] Wróg / część [90178] — nazwa] 위협적인 톱니 신도|Threatening Gear Worshipper
+698||[[walpu5] Wróg / część [90179] — nazwa] 기민한 톱니 신도|Nimble Gear Worshipper
+700||[[walpu5] Wróg / część [90180] — nazwa] 저돌적인 톱니 광신도|Aggressive Gear Fanatic
+702||[Umiejętność wroga [9017801] (ulepszenie 1) — nazwa] 톱니가 이끄는 대로|Guidance of the Gears
+703||[Umiejętność wroga [9017801] (ulepszenie 1) — opis] [WhenUse] [Smoke] 2 얻음|[WhenUse] Gain 2 [Smoke]
+704||[Umiejętność wroga [9017801] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Smoke] 횟수 1 증가|[OnSucceedAttack] Gain +1 [Smoke] Count

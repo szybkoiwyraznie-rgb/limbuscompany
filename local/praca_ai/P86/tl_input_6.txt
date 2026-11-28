@@ -1,0 +1,80 @@
+937||[[walpu6] Pasywka wroga [122402] — opis] 자신의 [SuperCoin]이 파괴된 채 적중시, 대상의 [Sinking] 효과를 발동하지 않음|If this unit hits with a Cracked [SuperCoin], it does not activate the target's [Sinking] effect
+938||[[walpu6] Pasywka wroga [122403] — nazwa] 칼 끝이 향하는 건 보호해 주지 못한 모든 이들|The Sword Points Toward Those Who Could Not be Protected
+939||[[walpu6] Pasywka wroga [122403] — opis] [ChasingArcana]를 지닌 적이 있다면, 그 대상을 우선 타겟 지정함|If there is an enemy with [ChasingArcana], prioritizes that unit
+940||[[walpu6] Pasywka wroga [122404] — nazwa] 휴식|Respite
+941||[[walpu6] Pasywka wroga [122404] — opis] [HelplessTear]이 없는 상태에서 체력이 1 미만으로 감소하지 않음.\n턴 종료 시 [HelplessTear]이 없는 상태에서 체력이 1일 경우, 체력을 최대로 회복함|This unit's HP does not drop below 1 when it does not have [HelplessTear]\nTurn End: if this unit's HP drops to 1 when it does not have [HelplessTear], heals back to full HP
+943||[[walpu6] Pasywka wroga [122405] — opis] [HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂히고, 다음 턴에 임의의 검 1개에게 자신의 물리 내성 중 취약인 내성을 똑같이 취약으로 바꿈|If a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair[TabExplain]; then, transfers its Fatal Resistance value to 1 other random Sword next turn
+944||[[walpu8] Wróg / część [1366] — nazwa] 뀽뀽이[오렌지맛]|BongBong [Orange]
+945||[[walpu8] Wróg / część [1366] — opis] 여명 시련 - 무리 이동 준비 1|Dawn Ordeal - Swarm Movement Prep 1
+947||[[walpu8] Wróg / część [136601] — opis] 뀽뀽이[오렌지맛] 몸통|BongBong [Orange] Body
+949||[[walpu8] Wróg / część [1367] — opis] 여명 시련 - 무리 이동 준비 2|Dawn Ordeal - Swarm Movement Prep 2
+953||[[walpu8] Wróg / część [1368] — opis] 여명 시련 - 무리 이동 준비 3|Dawn Ordeal - Swarm Movement Prep 3
+956||[[walpu8] Wróg / część [1369] — nazwa] 큥큥이[오렌지맛 착즙기]|BunBun [Juicy Squeezer - Orange]
+957||[[walpu8] Wróg / część [1369] — opis] 어스름 시련|Ordeal of Dusk
+959||[[walpu8] Wróg / część [136901] — opis] 큥큥이[오렌지맛 착즙기] 몸통|BunBun [Juicy Squeezer - Orange] Body
+992||[Umiejętność wroga [136601] (ulepszenie 1) — nazwa] 달려들기|Pounce
+993||[Umiejętność wroga [136601] (ulepszenie 1) — opis] 체력 비율이 가장 높은 대상 우선 공격\n[WhenUse] 대상에게 [Laceration]이 4이상 있으면, 기본 위력 +1|Prioritizes targets with the highest HP percentage\n[WhenUse] If target has 4+ [Laceration], Base Power +1
+995||[Umiejętność wroga [136602] (ulepszenie 1) — nazwa] 깨물어 먹기|Gnawing Gobble
+997||[Umiejętność wroga [136602] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [Laceration]이 있을 경우, 다음 턴에 [PenetrateResistDown] 2 부여|[OnSucceedAttack] If target has [Laceration], Inflict 2 [PenetrateResistDown] next turn
+999||[Umiejętność wroga [136603] (ulepszenie 1) — nazwa] 오렌지맛 버블 보충|Orange-flavored Bubble Supplement
+1000||[Umiejętność wroga [136603] (ulepszenie 1) — opis] 체력 비율이 가장 높은 대상 우선 공격\n[WhenUse] 대상에게 [Laceration]이 4이상 있으면, 코인 위력 +1|Prioritizes targets with the highest HP percentage\n[WhenUse] If target has 4+ [Laceration], Coin Power +1
+1004||[Umiejętność wroga [136604] (ulepszenie 1) — nazwa] 버블 풍미 더하기|Add a Note of Bubbly Flavor
+1005||[Umiejętność wroga [136604] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)
+1011||[Umiejętność wroga [136605] (ulepszenie 1) — nazwa] 무리 이동|Herd Migration
+1012||[Umiejętność wroga [136605] (ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [Binding] 2 부여\n[EndBattle] 자신의 [RunHallway]소멸 후 [NextHallway] 발동|[OnSucceedEvade] Inflict 2 [Binding] next turn\n[EndBattle] [RunHallway] expires; then, activate [NextHallway]
+1013||[Umiejętność wroga [136901] (ulepszenie 1) — nazwa] 씹어 먹기|Chomping Gobble
+1014||[Umiejętność wroga [136901] (ulepszenie 1) — opis] 속도가 가장 낮은 대상 우선 공격\n[WhenUse] 대상에게 [Laceration]이 4이상 있으면, 기본 위력 +1\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -1|Prioritizes targets with the slowest Speed\n[WhenUse] If target has 4+ [Laceration], Base Power +1\n[BeforeAttack] Base Power -1 for every Cracked Coin
+1016||[Umiejętność wroga [136901] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +3 [Laceration] Count
+1017||[Umiejętność wroga [136902] (ulepszenie 1) — nazwa] 중형 오렌지 버블 채우기|Filling a Medium-sized Orange Bubble
+1018||[Umiejętność wroga [136902] (ulepszenie 1) — opis] 속도가 가장 낮은 대상 우선 공격\n[WhenUse] 대상에게 [Laceration]이 4이상 있으면, 코인 위력 +1\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -1|Prioritizes targets with the slowest Speed\n[WhenUse] If target has 4+ [Laceration], Coin Power +1\n[BeforeAttack] Base Power -1 for every Cracked Coin
+1023||[Umiejętność wroga [136902] (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable] next turn
+1024||[Umiejętność wroga [136903] (ulepszenie 1) — nazwa] 더 진하고 더 많이|More Potent, More Plentiful
+1025||[Umiejętność wroga [136903] (ulepszenie 1) — opis] 속도가 가장 낮은 대상 우선 공격\n[WhenUse] 대상의 [Laceration] 3당, 코인 위력 +1 (최대 2)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -1|Prioritizes targets with the slowest Speed\n[WhenUse] Coin Power +1 for every 3 [Laceration] on target (max 2)\n[BeforeAttack] Base Power -1 for every Cracked Coin
+1027||[Umiejętność wroga [136903] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Laceration] Count
+1032||[Umiejętność wroga [136903] (ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [PenetrateResistDown] 2 부여|[OnSucceedAttack] Inflict 2 [PenetrateResistDown] next turn
+1033||[Umiejętność wroga [136904] (ulepszenie 1) — nazwa] 뀽뀽이 번식을 위한 사료 포식|Feed Consumption for BongBong Procreation
+1044||[Umiejętność wroga [136905] (ulepszenie 1) — opis] [CanDuelGuard]\n[EndBattle] 자신의 [RunHallway]소멸 후 ‘자신’과 ‘자신이 소환한 완전 식품’에게 [NextHallway] 발동|[CanDuelGuard]\n[EndBattle] [RunHallway] expires; then, activate [NextHallway] for 'self' and 'The Perfect Food summoned by self'
+1046||[[walpu8] Pasywka wroga [136601] — nazwa] 방황하는 시련|Wandering Ordeal
+1047||[[walpu8] Pasywka wroga [136601] — opis] 등장 시 [RunHallway]를 1~3 얻음\n턴 시작 시 [RunHallway]가 0이면, ‘무리 이동’ 스킬 사용\n(흐트러짐 상태 일 시, 흐트러짐 상태를 해제하고 발동)\n\n전투에 ‘큥큥이’가 있으면, 해당 패시브 발동하지 않음|Upon entry, gain 1~3 [RunHallway]\nTurn Start: At 0 [RunHallway], use 'Herd Migration'\n(If this unit is Staggered, recover from Stagger when this effect triggers)\n\nIf 'BunBun' is on the battlefield, this passive does not activate
+1048||[[walpu8] Pasywka wroga [136601] — tekst klimatyczny] ‘시련은 환상체와 사뭇 다르다. 시련은 이 회사 깊은 곳에서 흐르는 인류의 꿈에서 무작위적으로 끌어올려진 강렬한 트라우마들의 표상이다.’|'Ordeals are quite distinct from Abnormalities—they are vivid representations of intense traumas, dredged up at random from humanity's dreams that course through the farthest depths of this company.'
+1049||[[walpu8] Pasywka wroga [136602] — nazwa] 입맛 저격|Tailored for the Palate
+1050||[[walpu8] Pasywka wroga [136602] — opis] 대상의 약점,  취약 속성(내성 1 초과)으로 공격 적중 시, 다음 턴에 [Binding] 1 부여 (스킬당 1회)|On Attack Hit against a target with a damage type the target is "Weak" or "Fatal" (Resistance > 1) to, inflict 1 [Binding] next turn (once per Skill)
+1051||[[walpu8] Pasywka wroga [136602] — tekst klimatyczny] ‘이렇게 맛있는 음료 이름이 왜 뀽뀽이일까요?’|"How could such a flavorful beverage end up being called BongBong?"
+1052||[[walpu8] Pasywka wroga [136603] — nazwa] 맛의 비밀|The Secret of Taste
+1053||[[walpu8] Pasywka wroga [136603] — opis] 자신을 처치한 대상에게 [PumpkinJelly] 1 부여|Inflict 1 [PumpkinJelly] on the target that killed this unit
+1055||[[walpu8] Pasywka wroga [136901] — opis] 스테이지 시작 시 [RunHallway] 3 얻음\n턴 시작 시 [RunHallway]가 0이면, ‘무리 이동’ 스킬 사용\n(흐트러짐 상태 일 시, 흐트러짐 상태를 해제하고 발동)\n\n전투 중 ‘자신이 소환한 뀽뀽이’ 이외 남은 ‘뀽뀽이’가 없는 경우\n‘무리 이동’의 스킬 효과가 발동하지 않으며, 다음 턴 [RunHallway] 3 얻음|Encounter Start: Gain 3 [RunHallway]\nTurn Start: At 0 [RunHallway], use 'Herd Migration'\n(If this unit is Staggered, recover from Stagger when this effect triggers)\n\nIf there are no BongBongs left on the battlefield except for "BongBongs spawned by this unit", the Skill effects of 'Herd Migration' do not trigger, and this unit gains 3 [RunHallway] next turn
+1056||[[walpu8] Pasywka wroga [136901] — tekst klimatyczny] ‘저 희끄무레한 연기 속에서 시련이란 것들이 튀어나오는데… 저 연기는 대체 뭔가요, 팀장님!’|"These Ordeal things keep popping out from that murky-white smoke... just what is that smoke supposed to be, Captain?!"
+1057||[[walpu8] Pasywka wroga [136902] — nazwa] 이어지는 시련|Lasting Ordeal
+1058||[[walpu8] Pasywka wroga [136902] — opis] 퇴각 후 4턴이 지나면, ‘자신’과 ‘자신이 소환한 뀽뀽이’가 등장 가능한 수만큼 전투 복귀. 이후 [RunHallway] 3 얻음\n\n자신이 복귀하려할 때 전투 인원이 꽉 찼으면, 무작위 뀽뀽이 1개체를 퇴각 시키고 자신만 전투 복귀|Once 4 turns pass after this unit Retreats, this unit and all available "BongBongs spawned by this unit" Return to the battlefield. Then, gain 3 [RunHallway]\n\nIf all available combat participant spots are filled, Retreat a random BongBong unit and Return to the battlefield.
+1059||[[walpu8] Pasywka wroga [136903] — nazwa] 취약한 오렌지 버블|Fragile Orange Bubble
+1060||[[walpu8] Pasywka wroga [136903] — opis] 일방 공격으로 피격 시 받는 피해 +100%\n<color=#ff6000><mark color=#ff000040><b><u>탄환을 소모하는 스킬</color></mark></b></u>과 합 진행 시 합 위력 -3, 공격 스킬의 모든 코인이 일반 코인으로 변경됨.|When hit by Unopposed Attacks, take +100% damage\nWhen clashing against <color=#ff6000><mark color=#ff000040><b><u>Skills that spend Ammo</color></mark></b></u>, Clash Power -3 and convert all Coins on its Attack Skills to Regular Coins.
+1061||[[walpu8] Pasywka wroga [136903] — tekst klimatyczny] ‘아직 가공되지 않은 탄산을 품고 있는 버블은 맛있지만 강력한 산성을 띠니 다들 조심해. 작은 뀽뀽이들의 톡 쏘는 버블 탄산이면 몰라도, 저 정도로 큰 큥큥이들이 가지고 있는 원액을 뒤집어 썼다간 온몸이 녹아내릴 테니까.’|"I know those carbonated bubbles are tasty, but be careful around them, okay? They're unprocessed and highly acidic. Sure, a few spatters of little BongBongs' pop bubbles might not be so dangerous, but getting doused in the undiluted fluid of those massive BunBuns'll melt you guys into a puddle."
+1062||[[walpu8] Pasywka wroga [136904] — nazwa] 식품 생산|Food Production
+1063||[[walpu8] Pasywka wroga [136904] — opis] 적 처치 시 뀽뀽이 1개체 소환\n턴 종료 시 [RunHallway] 수치가 0이면, 다음 턴에 ‘뀽뀽이’를 가능한 만큼 소환|On Kill, summon 1 BongBong\nTurn End: At 0 [RunHallway] Stack, summon as many BongBongs as possible next turn
+1064||[[walpu8] Pasywka wroga [136904] — tekst klimatyczny] ‘이런 탄산 제조법은 비밀이래요. 그들만의 레시피가 있다는 거죠.’|"Apparently, they've got this special, top-secret carbonation formula. Like an in-house recipe."
+1065||[[x1p1c1] Wróg / część [1365] — nazwa] 뽕이황쩨|Da Boingy Empworoar
+1066||[[x1p1c1] Wróg / część [1365] — opis] 거대 봉이|Huge Bongy
+1069||[[x1p1c1] Wróg / część [91039] — nazwa] 봉이 벌레|Bongybug
+1070||[[x1p1c1] Wróg / część [91039] — opis] 1장 G사 직원(ver.봉이)|Chapter 1 G Corp. Staff (ver. Bongy)
+1071||[[x1p1c1] Wróg / część [91040] — nazwa] 봉이 경호단|Bongyguard
+1072||[[x1p1c1] Wróg / część [91040] — opis] 2장 경비원 (ver.봉이)|Chapter 2 Security Guard (ver. Bongy)
+1073||[[x1p1c1] Wróg / część [91041] — nazwa] 봉이 요원|Bongy Security
+1074||[[x1p1c1] Wróg / część [91041] — opis] 3장 K사 직원(ver.봉이)|Chapter 3 K Corp. Staff (ver. Bongy)
+1087||[[x1p1c1] Wróg / część [1387] — nazwa] 거짓 봉이|False Bongy
+1091||[Umiejętność wroga [136501] (ulepszenie 1) — nazwa] 꼬!|Cluck!
+1093||[Umiejętność wroga [136501] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 정신력 5 피해|[OnSucceedAttack] Deal 5 SP damage
+1095||[Umiejętność wroga [136502] (ulepszenie 1) — nazwa] 꾸꼬!|Cluckcoo!
+1096||[Umiejętność wroga [136502] (ulepszenie 1) — opis] [WideAreaRampage]|[WideAreaRampage]
+1098||[Umiejętność wroga [136502] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 정신력 3 피해|[OnSucceedAttack] Deal 3 SP damage
+1099||[Umiejętność wroga [136502] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Vibration] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vibration]
+1106||[Umiejętność wroga [136503] (ulepszenie 1) — nazwa] 뽀꼭!|Bawkcoo!
+1113||[Umiejętność wroga [136504] (ulepszenie 1) — nazwa] 뿌꼭꼬!|Bawkkawkcoo!
+1115||[Umiejętność wroga [136504] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]|[OnSucceedAttack] Trigger [VibrationExplosion]
+1116||[Umiejętność wroga [136504] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Paralysis] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]
+1117||[Umiejętność wroga [136505] (ulepszenie 1) — nazwa] 뽕꼬뽀꽁!|Bawkkawkcluckcoo!
+1118||[Umiejętność wroga [136505] (ulepszenie 1) — opis] [DefeatDuel] 피해량이 50% 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+1120||[Umiejętność wroga [136505] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Paralysis] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Paralysis]
+1121||[Umiejętność wroga [136505] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttackHead] 정신력 3 피해|[OnSucceedAttackHead] Deal 3 SP damage
+1128||[Umiejętność wroga [136506] (ulepszenie 1) — nazwa] 꾸꾹!|Khhcluck!
+1129||[Umiejętność wroga [136506] (ulepszenie 1) — opis] [CanDuelGuard]\n[WinDuel] 정신력 5 피해|[CanDuelGuard]\n[WinDuel] Deal 5 SP damage
+1131||[Umiejętność wroga [138701] (ulepszenie 1) — nazwa] 끄!|Kgh!

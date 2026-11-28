@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=122301].desc": {
+      "pl": "KoD Part",
+      "kr_sha256": "93c612596560f5c03ab18baff7fd05ff9a0cfefeab17c2f8244605ff739a2d72",
+      "en_sha256": "5e8919d9319e675d61da0cd5d181852f1e8ea45b6ccad27578542f453562400a",
+      "origin": "ai"
+    },
+    "dataList[id=122301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1223].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=1223].name": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=122401].desc": {
+      "pl": "KoD Sword Part",
+      "kr_sha256": "58d1d320ae774efc03b8a10b94adeda81d896311d1de4976447f486ffead1d71",
+      "en_sha256": "ab3363e215359201c9ca542be16cef7c566201e9a04d0e047827c7b4c8193f61",
+      "origin": "ai"
+    },
+    "dataList[id=122401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1224].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=1224].name": {
+      "pl": "Sword of a Forgotten Knight",
+      "kr_sha256": "d8c65cdbab2134b0bbe9c397fa30d9c09bf1915008e6725c0f613a2aff3fabe0",
+      "en_sha256": "fe210e3c2d661812fcf215837e93476e9e39ce726da13ad0489454a37e9c8557",
+      "origin": "ai"
+    },
+    "dataList[id=122501].desc": {
+      "pl": "KoD Sword Part",
+      "kr_sha256": "58d1d320ae774efc03b8a10b94adeda81d896311d1de4976447f486ffead1d71",
+      "en_sha256": "ab3363e215359201c9ca542be16cef7c566201e9a04d0e047827c7b4c8193f61",
+      "origin": "ai"
+    },
+    "dataList[id=122501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1225].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=1225].name": {
+      "pl": "Heart-breaking Sword",
+      "kr_sha256": "fe23bf8ee5a6dcf0d13b3b5ae56fa138b9fe3a809c6e7dc9e8e652c8a4651d22",
+      "en_sha256": "2aab312c10f385afffac6ee835a792011aae8ec6945562bff4a6a64599d19987",
+      "origin": "ai"
+    },
+    "dataList[id=122601].desc": {
+      "pl": "KoD Sword Part",
+      "kr_sha256": "58d1d320ae774efc03b8a10b94adeda81d896311d1de4976447f486ffead1d71",
+      "en_sha256": "ab3363e215359201c9ca542be16cef7c566201e9a04d0e047827c7b4c8193f61",
+      "origin": "ai"
+    },
+    "dataList[id=122601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1226].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=1226].name": {
+      "pl": "Heart-tearing Sword",
+      "kr_sha256": "090aa36b9d5294ad45dea3b39603762017fe69ad353b217709bab2e1e49aa39a",
+      "en_sha256": "12de6c7e2cdb4d9ff1a0139c3afcb669234badd397104d931de93fca1f56749a",
+      "origin": "ai"
+    },
+    "dataList[id=122701].desc": {
+      "pl": "KoD Sword Part",
+      "kr_sha256": "58d1d320ae774efc03b8a10b94adeda81d896311d1de4976447f486ffead1d71",
+      "en_sha256": "ab3363e215359201c9ca542be16cef7c566201e9a04d0e047827c7b4c8193f61",
+      "origin": "ai"
+    },
+    "dataList[id=122701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1227].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=1227].name": {
+      "pl": "Heart-piercing Sword",
+      "kr_sha256": "b7d5f0fcb7c8dd214cdf0d5a527a89d9c641bc4a950ac038623e2dad60cc7973",
+      "en_sha256": "ee7c3d39ce64e484db11842f25c2bfe01c80a42d81ad983418aec552c4770dcf",
+      "origin": "ai"
+    }
+  }
+}

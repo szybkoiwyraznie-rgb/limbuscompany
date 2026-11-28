@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=9017801].desc": {
+      "pl": "zamiast otrzymywać większe obrażenia z powodu [Smoke] na sobie, zadaje większe obrażenia.",
+      "kr_sha256": "ab8b7b3ffb9aeb8c4b2ac0c2f4b2c9c508e6560b22391d80442dd984d07f4776",
+      "en_sha256": "c6baf3aa7ee82dfd00af2a71d8881b996fec6a73b1b1679bc3e70b7c3228c3d6",
+      "origin": "ai"
+    },
+    "dataList[id=9017801].name": {
+      "pl": "Puffy Brume",
+      "kr_sha256": "6d509af5501fc0deaca54ff937bbac57c465b5fff9fa984759d491f8846d2f7b",
+      "en_sha256": "2df0fbcdc17ba63d15055325773310d9b60d238c2364039fe04159606588c644",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].desc": {
+      "pl": "przy zdobywaniu [Smoke] zyskuje dodatkowo 1 [Smoke]",
+      "kr_sha256": "83e39fc0f7bcb80e989c025b1155c0044971482d1bee793dc45f8c697fffc632",
+      "en_sha256": "2372234571a5c3994b87842880d98a510b992efe00e732e1eeaba7b9bb4e1a58",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].name": {
+      "pl": "Internal Combustion Engine",
+      "kr_sha256": "427b7b8c236121e92f6bfdb708fb43541a16624832b7a3d561dde694b4d353f4",
+      "en_sha256": "d0640ddff0649a829a160c3a03b8e14caa63559d1e9e1ff53c59a9a4a719b292",
+      "origin": "ai"
+    },
+    "dataList[id=9017803].desc": {
+      "pl": "pierwsza moneta trafiająca w walce zadaje +10% obrażeń",
+      "kr_sha256": "01e26243b006293fa60977f76073e8d549b992af81f5e33dbb65608fdf64ecc1",
+      "en_sha256": "c3c00fabf5b93a8591df73bcc64faf1d2e0aaca1fab96ab0ec0c8fc1a0d55755",
+      "origin": "ai"
+    },
+    "dataList[id=9017803].name": {
+      "pl": "Meat Gear",
+      "kr_sha256": "ccb3d5b4e0db609a0717f38a94ab6e26364e0d26ba56824e66c5c2bafc24c4a6",
+      "en_sha256": "c5679564bced9d317933e4120c7be941ee103fc9e65aeffbc59aae24c06a68be",
+      "origin": "ai"
+    },
+    "dataList[id=9017804].desc": {
+      "pl": "przy użyciu Umiejętności Uniku: Moc Bazowa +1",
+      "kr_sha256": "bfec185f22c26a91a8ee787fcb08d8c6f4ff3f983ea92aa91ce4b0f6d1d10c0a",
+      "en_sha256": "6752053759e7228ed7f875fc60f06859467d110d7ab327fb3a982286ccbe52a7",
+      "origin": "ai"
+    },
+    "dataList[id=9017804].name": {
+      "pl": "Thought Gear",
+      "kr_sha256": "a4fabbeffaa4d7275a90b75dfa45587ce2ae40a6804f1c6d00d95754b72c3494",
+      "en_sha256": "e9620a21a381445af2f105743c9a69546a70cbfab30c39f56b654512ae001bf2",
+      "origin": "ai"
+    },
+    "dataList[id=9017805].desc": {
+      "pl": "po wpadnięciu w Oszołamienie traci wszystkie [Smoke] na sobie",
+      "kr_sha256": "6675c9be5395eded471f6873589b74cba53c47a9ec5972b274d0cdc4587f8413",
+      "en_sha256": "21a72be2c90d294450f9f15dab1e262d0c674128f8c6a8c511b28e7f66faa04a",
+      "origin": "ai"
+    },
+    "dataList[id=9017805].name": {
+      "pl": "Internal Combustion Engine Malfunction",
+      "kr_sha256": "0194a3623a04127e2cb63c97e17953b0e3f7f51b0d83b5dea7d87862fa9d1941",
+      "en_sha256": "487addebcc18328a4570d73d94bc705aa23741974b0d8ae373af5c20350a7562",
+      "origin": "ai"
+    },
+    "dataList[id=9018001].desc": {
+      "pl": "jeżeli są inni żyjący sojusznicy, na początku tury nakłada wszystkim sojusznikom 1 [ParryingResultUp] i 2 [AttackDmgUp] (maks. 2 razy na cel)\njeżeli nie ma innych żyjących sojuszników, na początku tury zyskuje 8 [Smoke]",
+      "kr_sha256": "2288eddb982704e54ff3a5992bd0a5f8c714c30822dc4d281bb586e852bfe766",
+      "en_sha256": "a7c7058f437e8d8d1b84e538e4cdb125eb9ea264d56bd10b753af5cb6deacbce",
+      "origin": "ai"
+    },
+    "dataList[id=9018001].name": {
+      "pl": "Meat Gear: Enhance",
+      "kr_sha256": "e9df4c2e859cbf6eb4c9d6e570979f205821d4ca4dffee108d1856bb98124a00",
+      "en_sha256": "0d7a74c020259f042bbe2639f83c4a70906b1dc48dfa6cf5e983a05b0db17cd2",
+      "origin": "ai"
+    },
+    "dataList[id=9018002].desc": {
+      "pl": "jeżeli ta jednostka żyje, na koniec tury nie generowani są wrogowie.",
+      "kr_sha256": "cdc950bd86119ad971ea5a940dfabc5e4672d6a752c36008b19bfe5836f9939a",
+      "en_sha256": "d5927bc1fc5a2cae827533582712ccc4356814a29e284e1e601dbcb898d98d88",
+      "origin": "ai"
+    },
+    "dataList[id=9018002].name": {
+      "pl": "Thought Gear: Delay",
+      "kr_sha256": "8ee60f69edff36d9767737a1e85038aa7415c9f6486128a1aeaadc2ec497e865",
+      "en_sha256": "b53286e88f59df9b7e1f1ef87eb8935f6513e1d22da045713429dad764cd529b",
+      "origin": "ai"
+    },
+    "dataList[id=9018003].desc": {
+      "pl": "przy użyciu Umiejętności obronnej: Moc Bazowa Umiejętności obronnej +1",
+      "kr_sha256": "ce8e0810e8387193c8cec2b099ca58cde89d1b7255046986a22ad6b476a48a1c",
+      "en_sha256": "c9d4e3d3afce1e3a0891b0a5000df070c9cd41403841ece42414826856d5f724",
+      "origin": "ai"
+    },
+    "dataList[id=9018003].name": {
+      "pl": "Thought Gear: Risk",
+      "kr_sha256": "22663c2a3714bea8dbca767e6e87ae3330c618216e6b7dcd1f42a84ac2ec2e08",
+      "en_sha256": "60f3520f5b71c0354de0707efc0b2f6a7622eb4f897a8b3f0c9cbf5476743469",
+      "origin": "ai"
+    }
+  }
+}

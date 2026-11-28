@@ -1,0 +1,364 @@
+{
+  "entries": {
+    "dataList[id=158001].desc": {
+      "pl": "na początku tury nakłada 2 [Protection] sojusznikowi z najniższym procentem pozostałego HP\n\n<color=#ff6000><mark color=#ff000040><b><u>przy 30% HP lub mniej,</color></mark></b></u> gdy sojusznik z tej samej frakcji trafi Umiejętnością 3, używa Umiejętności „Flash of Sunup\" przeciwko wskazanemu wrogowi (1 raz na turę)",
+      "kr_sha256": "4e88115d2050b4a736bd8f57c207110086ff52a3d171830d9634773345d24c8a",
+      "en_sha256": "651fdc55bcdb9964f16a9d3b351eaafebbba8be7097ffb145ce7e0b00e758a88",
+      "origin": "ai"
+    },
+    "dataList[id=158001].name": {
+      "pl": "Biuro Świtu - Strażnik",
+      "kr_sha256": "b8867835c0fd05d2a70732ed19d7becd0c481101c3abfb473268665b99b98578",
+      "en_sha256": "0d7ee1a7f7eda7689c25802877bc82307f47c5bfa9e188e3c24174b7dbcc7f52",
+      "origin": "ai"
+    },
+    "dataList[id=158002].desc": {
+      "pl": "przy pierwszym wejściu na scenę: zyskuje 0 [DawnOfficeStigmaSOne]\n\nzyskuje [DawnOfficeStigmaSOne], gdy spełnione są poniższe warunki\n- przy trafieniu podstawową Umiejętnością: zyskuje 3 Stosy (1 raz na Umiejętność)\n · jeżeli to „Flash of Sunup\" użyta przez pasyw <noparse>Biuro Świtu</noparse> - Strażnik, zyskuje dodatkowo 1 Stos\n · jeżeli cel ma [Combustion], zyskuje 1 więcej\n- zyskuje Stosy równe (obrażenia otrzymane z aktywacji [Combustion] na sobie / 2)\n\nprzy 30 [DawnOfficeStigmaSOne] używa potężnej Umiejętności\n\n<color=#ff6000><mark color=#ff000040><b><u>przy trafieniu Umiejętnością tej jednostki, jeżeli cel ma [Combustion], podnosi Próg Oszołomienia celu o 30% końcowych obrażeń ostatniej monety tej Umiejętności</color></mark></b></u>\n- ten efekt nie aktywuje się na zniszczonych monetach",
+      "kr_sha256": "68a1d7cfaddcbd2185ba47f46ad7d4b8417d2cbee95cd1d02b6eb3eea1b57f75",
+      "en_sha256": "47d9ff620321bca1f54b804a6d4d8450f22723b6542959091cb76c95433980b6",
+      "origin": "ai"
+    },
+    "dataList[id=158002].flavor": {
+      "pl": "Broń warsztatowa klasy A+, niezmienny towarzysz swojego właściciela, <i>Fiksera Świtu</i>, od pierwszych dni pracy Fiksera, przez Wojnę Dymu i jej następstwa. Każdy dobrze wykonany kontrakt przydawał sławy Warsztatowi Stigma, który w dowodzie wdzięczności wielokrotnie ulepszał i rozbudowywał możliwości tej broni. Tak jak z czasem budowała się ugruntowana renoma Fiksera, tak i ten miecz był kuty, przekuwany i dostrajany przez lata.\nMorgenfeuer, niegdyś oceniane jako broń klasy S, nieuchronnie traciło żar i ostrość w schyłkowych latach Fiksera Świtu, gdy ten wycofał się z pierwszej linii na rzecz kształcenia następnego pokolenia.",
+      "kr_sha256": "c1769bb349e66acb616cbd5b0c687a71591a28e977117ab1c266cbbf83f95469",
+      "en_sha256": "596248e9698e152ad34184115ff960fdcfcae20a19aa4fb8d09e75055762aa9b",
+      "origin": "ai"
+    },
+    "dataList[id=158002].name": {
+      "pl": "Morgenfeuer [Warsztat Stigma]",
+      "kr_sha256": "84c5011eaf128b31941bb5c23a9d87d47d0d20614d03c6e77be2624f964d49e8",
+      "en_sha256": "e5ec6cbdb15e4fcbd5fe964a1aea4d7c447723c63be5b259ef7edeba6591f8bd",
+      "origin": "ai"
+    },
+    "dataList[id=158003].desc": {
+      "pl": "nakładając [Combustion] Umiejętnościami tej jednostki, nakłada o 1 więcej Mocy [Combustion] i Licznika [Combustion]\n- jeżeli wróg trafiony Umiejętnością tej jednostki ma mniej niż 3 Licznika [Combustion], zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "2f906e0917030dfa57df205a17d5aa9fb602fc71c467cfe01bf656461b4079bc",
+      "en_sha256": "571b5d6d2463887ccb59b9113e1808ef260f0379e93e66cd3c2ed899e7013afe",
+      "origin": "ai"
+    },
+    "dataList[id=158003].name": {
+      "pl": "Broń Warsztatu Stigma",
+      "kr_sha256": "4e195748e7b9831fcd74227a2791194eec9cff6dace8ce7824ff1ecc552f8959",
+      "en_sha256": "8d3afd82f0004d7d189698c2075384858d69a8182d56f8a2eb72a3b9a64c76aa",
+      "origin": "ai"
+    },
+    "dataList[id=158004].desc": {
+      "pl": "wszyscy Grzesznicy przywracają 20 Poczytalności (1 raz na walkę; Tożsamości z monetami ujemnymi tracą Poczytalność zamiast tego)\n\notrzymuje -50% obrażeń z [Combustion] (zaokrąglone w dół)\n- przy poniżej 50% HP efekt jest wzmocniony: otrzymuje -75% obrażeń z [Combustion]\n\notrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 45",
+      "kr_sha256": "1894e58d041cef8269860482ff3eb8422b4443f52a3cae4613c7915cd9d0d86b",
+      "en_sha256": "af792ccf22eb63a4d9c34dd737bc7538d9379aa2846be41e085ca06d4bbdb4e6",
+      "origin": "ai"
+    },
+    "dataList[id=158004].name": {
+      "pl": "The Fixer at the Crack of Dawn",
+      "kr_sha256": "9acb7d0c46c0560bab54a7544efd0d6f870ca5edca2be5ccc8d90d5e130394c9",
+      "en_sha256": "7e50f4d19aa899e994e9cbea4c72822271b8227e35e01dbf8dd6b859aedf8efb",
+      "origin": "ai"
+    },
+    "dataList[id=158101].desc": {
+      "pl": "na początku tury nakłada 2 [ParryingResultUp] sojusznikowi z najwyższą Szybkością\n- przy równej Szybkości, w kolejności: Philip, Salvador, Yuna\n\n<color=#ff6000><mark color=#ff000040><b><u>przy 30% HP lub mniej,</color></mark></b></u> gdy sojusznik z tej samej frakcji trafi Umiejętnością 3, używa „<noparse>Seconded Offensive</noparse>\" przeciwko wskazanemu wrogowi (1 raz na turę)",
+      "kr_sha256": "a673f761ff1a617d7a0acde6edb8eda2d3659c5e6340bb6d67eb50d8fa877d2c",
+      "en_sha256": "b37bfdd0127bae7ef0ebe672ff847d8d471fd36417148a336964bee7d47f6bcd",
+      "origin": "ai"
+    },
+    "dataList[id=158101].name": {
+      "pl": "Biuro Świtu - Seonbae",
+      "kr_sha256": "c870736e3b4f3b0c4dc5bcb60154b1792804c9f9a4126f0c5fc9b7f624142a51",
+      "en_sha256": "f9b2dfd742a17ba798bc4bb76f15af738fb0aa82a1a388c372573ccdf5c3e1c9",
+      "origin": "ai"
+    },
+    "dataList[id=158102].desc": {
+      "pl": "przy pierwszym wejściu na scenę: zyskuje 0 [DawnOfficeStigmaYOne]\n\nzyskuje [DawnOfficeStigmaYOne], gdy spełnione są poniższe warunki\n- przy trafieniu podstawową Umiejętnością: zyskuje 3 Stosy (1 raz na Umiejętność)\n · jeżeli to „<noparse>Seconded Offensive</noparse>\" użyta przez pasyw <noparse>Biura Świtu</noparse> - Seonbae, zyskuje dodatkowo 1 Stos\n · jeżeli cel ma [Combustion], zyskuje 1 więcej\n- zyskuje Stosy równe (obrażenia otrzymane z aktywacji [Combustion] na sobie / 2)\n\n<color=#ff6000><mark color=#ff000040><b><u>przy 30 [DawnOfficeStigmaYOne] używa potężnej Umiejętności</color></mark></b></u>",
+      "kr_sha256": "e823e81cdeca29a026ec772d0b4d9a0f8bd7dfae65081e0ceda42f86e5593ed5",
+      "en_sha256": "de663f25180d3b2812a248af65b47b3982c0e7a00d0fcba32f4570404d3c7a9c",
+      "origin": "ai"
+    },
+    "dataList[id=158102].flavor": {
+      "pl": "Urok broni w kształcie walizki lub futerału na instrument jest oczywisty.\n\nPo pierwsze, użytkownik może wtopić się w codzienne życie, nie wzbudzając podejrzeń. Choć broń tego typu jest nieporęczna i skomplikowana w użyciu w boju, to właśnie jej pozorna nieporęczność sprawia, że rzadko bywa rozpoznawana jako narzędzie zabijania.\n\nPo drugie, broń w formie pojemnika daje przestrzeń na przechowywanie. Broń w kształcie kontenerów aktywnie używają na przykład Fikserzy Towarzystwa Devyat.\n\nTaka praktyczność nie zdobywa jednak automatycznie uznania wśród tych, którzy wybierają sprzęt warsztatowy. Powszechna opinia głosi, że każdy, kto poświęciłby tyle czasu na opanowanie tej broni, zrobiłby lepiej, ćwicząc z czymś innym — użytkownik często słyszy złośliwe uwagi w stylu „dzisiejsi fikserzy\" czy „przesadne i pretensjonalne\".\n\nAle gdy przeciwnik uzbrojony w tak kapryśny sprzęt okaże się wysokorankingowym Fikserem albo funkcjonariuszem Syndykatu, śmieszne „pojemniki\" czy „walizki\" niosą zupełnie inną wagę — taką, że każdy warsztat, który czci swoje imię, nazywa je „trumnami\". A trumny, jak wiadomo, mają to do siebie, że zwabiają motyle.",
+      "kr_sha256": "9a899d5dc0e0866a5bbab781265185e0d20aafff92566e00fbb438af58622e22",
+      "en_sha256": "2af39fd29b7b540bb15f7968929ef5f44deae38824bd4df84a8d21604ffaf24a",
+      "origin": "ai"
+    },
+    "dataList[id=158102].name": {
+      "pl": "Feuerfalter [Warsztat Stigma]",
+      "kr_sha256": "5b6aa64374a1859acaabab59f7b5ad2b6115bb0ea91cc9e53a9498ac8797fc9c",
+      "en_sha256": "289fc1053a465833f8a234dc082942b73e53c35b6d4551c432b8d6be2b4be06d",
+      "origin": "ai"
+    },
+    "dataList[id=158103].desc": {
+      "pl": "nakładając [Combustion] Umiejętnościami tej jednostki, nakłada o 1 więcej Mocy [Combustion] i Licznika [Combustion]\n- jeżeli wróg trafiony Umiejętnością tej jednostki ma mniej niż 3 Licznika [Combustion], zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "2f906e0917030dfa57df205a17d5aa9fb602fc71c467cfe01bf656461b4079bc",
+      "en_sha256": "571b5d6d2463887ccb59b9113e1808ef260f0379e93e66cd3c2ed899e7013afe",
+      "origin": "ai"
+    },
+    "dataList[id=158103].name": {
+      "pl": "Broń Warsztatu Stigma",
+      "kr_sha256": "4e195748e7b9831fcd74227a2791194eec9cff6dace8ce7824ff1ecc552f8959",
+      "en_sha256": "8d3afd82f0004d7d189698c2075384858d69a8182d56f8a2eb72a3b9a64c76aa",
+      "origin": "ai"
+    },
+    "dataList[id=158104].desc": {
+      "pl": "<color=#ff6000><mark color=#ff000040><b><u>na koniec tury, jeżeli nie ma innych sojuszników na polu, zyskuje [LoneFixer]</color></mark></b></u>\n\notrzymuje -50% obrażeń z [Combustion] (zaokrąglone w dół)\n- przy poniżej 50% HP efekt jest wzmocniony: otrzymuje -75% obrażeń z [Combustion]\n\notrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 45",
+      "kr_sha256": "3444b2fc8a334ed7ab70d1833d55fef204976302d3c6066aa6ddbfb7f98eb8a4",
+      "en_sha256": "cabce31a3ce43527df5ed411d3fd218999adddecf5426c3a504c11c55e181fab",
+      "origin": "ai"
+    },
+    "dataList[id=158104].flavor": {
+      "pl": "„Wiesz, co to samotność? To kiedy ktoś ci drogi odejdzie daleko i nie możesz już z nim zjeść obiadu. Dla mnie to właśnie samotność. Mam nadzieję... że ty nigdy nie będziesz musiał się tego dowiedzieć, Philip.\"",
+      "kr_sha256": "82ebb12620e2802103f11a4c082ba8ba5317cb93efeea74d984098acba1d10d5",
+      "en_sha256": "47b7e5536f96fb31e950d489e30442fa07bad55c3bc8ab4bf72a11911bfb6b0e",
+      "origin": "ai"
+    },
+    "dataList[id=158104].name": {
+      "pl": "The Lone Fixer",
+      "kr_sha256": "ec698a149e919a48ebc1f79c120db1434398069cc2a6bd38eb85ea08cdf78c71",
+      "en_sha256": "ba94931cee42791eca4020a57a72730eddf6da99060c9de97149ac1238ac55bd",
+      "origin": "ai"
+    },
+    "dataList[id=158201].desc": {
+      "pl": "nakładając [Combustion] Umiejętnościami tej jednostki, nakłada o 1 więcej Mocy [Combustion] i Licznika [Combustion]\n- jeżeli wróg trafiony Umiejętnością tej jednostki ma mniej niż 3 Licznika [Combustion], zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "2f906e0917030dfa57df205a17d5aa9fb602fc71c467cfe01bf656461b4079bc",
+      "en_sha256": "571b5d6d2463887ccb59b9113e1808ef260f0379e93e66cd3c2ed899e7013afe",
+      "origin": "ai"
+    },
+    "dataList[id=158201].name": {
+      "pl": "Broń Warsztatu Stigma",
+      "kr_sha256": "4e195748e7b9831fcd74227a2791194eec9cff6dace8ce7824ff1ecc552f8959",
+      "en_sha256": "8d3afd82f0004d7d189698c2075384858d69a8182d56f8a2eb72a3b9a64c76aa",
+      "origin": "ai"
+    },
+    "dataList[id=158202].desc": {
+      "pl": "<color=#ff6000><mark color=#ff000040><b><u>przy 20+/40+ Poczytalności,</color></mark></b></u> Moc Monet +1/+2",
+      "kr_sha256": "dea5c002b3b41cbb0124ed2ef0fa95ba715900e4d12c870c4ce121fb578da085",
+      "en_sha256": "b31d537445c4cf41be15f672f624f53604807b95e29a276a0032fab7eb7cef1a",
+      "origin": "ai"
+    },
+    "dataList[id=158202].name": {
+      "pl": "Passion",
+      "kr_sha256": "b00aa3ab3fe75872ae8b2f561d3765dff80e93a6351d8daa02284152e3070aff",
+      "en_sha256": "8079e01915b63ec9f3f2247cf456976e634a13c3cab2cb7a8a030c56de719132",
+      "origin": "ai"
+    },
+    "dataList[id=158203].desc": {
+      "pl": "otrzymuje -40% obrażeń z [Combustion] (zaokrąglone w dół)\n\notrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 45\n\njeżeli HP spadnie do 0...",
+      "kr_sha256": "9e83afb5935a04cf296b4364c11dd782bc8041f608615fe5a959c3cb28f26940",
+      "en_sha256": "73b9f0df49f7b2f5defe0f11ec96ec7e5d8b8d1f441659e104a2ba143148f148",
+      "origin": "ai"
+    },
+    "dataList[id=158203].name": {
+      "pl": "Biuro Świtu - Nowicjusz",
+      "kr_sha256": "706d8fb6963e7490222ffe50e8699e3ab6735e66a21fc2334105efd170dd3bef",
+      "en_sha256": "474047bc61e6ac2d980a3e45f107090dd6d5c40fa7ecd5df76ff8329c3d3b453",
+      "origin": "ai"
+    },
+    "dataList[id=158301].desc": {
+      "pl": "<color=#ff6000><mark color=#ff000040><b><u>w tej walce, gdy ta jednostka otrzyma obrażenia redukujące jej HP do 0,</color></mark></b></u> aktywują się następujące efekty (1 raz na walkę)\n- nie otrzymuje tych obrażeń, a w tej turze HP tej jednostki nie może spaść poniżej 1\n- na koniec tury przywraca 50% HP\n- po aktywacji tego efektu otrzymuje -20% obrażeń w tej walce",
+      "kr_sha256": "2771322ef89371b2f36823b38175eddbdff0c16a6aba5e2a531c2ffb7e0bce07",
+      "en_sha256": "70e0bb69c038f485be63b155938073889b5929e47fd267af2658e18d555171e8",
+      "origin": "ai"
+    },
+    "dataList[id=158301].name": {
+      "pl": "Unrelenting",
+      "kr_sha256": "ee6ad6be52463e4d5ec4682822ed68525d84fd93eba55c10e97acd5ad9991245",
+      "en_sha256": "43da1d0a042ea19273c97e05f174cd7c3a8398fa6f19e49ef65b590dfd5979a6",
+      "origin": "ai"
+    },
+    "dataList[id=158302].desc": {
+      "pl": "przy pierwszym wejściu na scenę, aktywują się następujące efekty\n- przywraca 45 Poczytalności\n- nakłada 3 [WalpuTenWedgeOffice] wszystkim sojusznikom Biura Klina\n\nna początku tury, <color=#ff6000><mark color=#ff000040><b><u>jeżeli jakiś sojusznik jest Oszołamiony</color></mark></b></u>, Biuro Klina[TabExplain] Rep Oscar zyskuje 2 [SupportProtect] (z wyłączeniem siebie)\n<color=#ff6000><mark color=#ff000040><b><u>gdy w trakcie walki sojusznik zostanie Oszołamiony</color></mark></b></u>, Biuro Klina[TabExplain] Rep Oscar zyskuje 1 [SupportProtect] (1 raz na turę; sprawdzane stale)\n- jeżeli Biuro Klina[TabExplain] Rep Oscar jest Oszołamiony w chwili zdobycia [SupportProtect] z powyższych dwóch efektów, dochodzi do siebie z Oszołamienia (z wyłączeniem wymuszonego Oszołamienia)",
+      "kr_sha256": "cd16a597078167acc70d605b036cef2622aede152beeaa447c922e92fad1e7fe",
+      "en_sha256": "7d3350e95c33a99790f2ac9b2ef18430610bbb61aa872b84a82e8e48504997aa",
+      "origin": "ai"
+    },
+    "dataList[id=158302].name": {
+      "pl": "Biuro Klina",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    },
+    "dataList[id=158303].desc": {
+      "pl": "gdy sojusznik, łącznie z tą jednostką, spełni poniższe warunki, zyskuje 1 [WalpuTenComboWedge] (1 raz na warunek na postać na turę)\njeżeli ta postać należy do Biura Klina[TabExplain], zamiast tego zyskuje 2 [WalpuTenComboWedge]\n- przy użyciu Umiejętności\n- po wygranej Starcia\n- gdy wywoła [VibrationExplosion] podstawową Umiejętnością",
+      "kr_sha256": "26393074015039a1ec2c588fe18c0ff22d1f92ef5a8cbf13023415645343c22e",
+      "en_sha256": "123dabc0e6180a62e3f0652da31f824965cc266d75e13d77f2a7bb11643b7044",
+      "origin": "ai"
+    },
+    "dataList[id=158303].flavor": {
+      "pl": "Większość biur fikserów współpracuje ze sobą, by uzupełniać swoje braki.\n\nNiektóre biura działają jednak tak zgodnie, że ich partnerstwo przeradza się w coś więcej. Wymieniając informacje i budując głębsze więzi zaufania, mogą z czasem zacząć traktować się jak rodzeństwo.",
+      "kr_sha256": "73d9781491bf79ba1e5df914305bbd3afe2a3443ac4e93291173665b2e7e0aa2",
+      "en_sha256": "67cb69ad977d1728a3acf96f71ae75f5bf3992547f75f2a001f41b4f765fd36c",
+      "origin": "ai"
+    },
+    "dataList[id=158303].name": {
+      "pl": "Assistance of the Wedge",
+      "kr_sha256": "07da7d8694870c20690cdc3b4ba73817028c703587c0b9c062329871a74f3090",
+      "en_sha256": "90f7db30304e872817099dd141ecf6a21e706bc88670cb9151119eeb7d64584e",
+      "origin": "ai"
+    },
+    "dataList[id=158304].desc": {
+      "pl": "Podnosi Próg Oszołomienia wywoływany przez [VibrationExplosion] o 10%\nna początku tury zyskuje 1 [PenetrateResultUp] i 1 [PenetrateDamageUp]\n\n<color=#ff6000><mark color=#ff000040><b><u>zadaje +20% obrażeń celom z 50%+ aktualnego HP i celom posiadającym Tarczę</color></mark></b></u>\n\nzadając obrażenia podstawową Umiejętnością, jeżeli Poziom Obrony celu jest wyższy niż Poziom Ataku trafionej Umiejętności, zadaje +2% obrażeń za każdą 1 jednostkę różnicy (maks. 30%)",
+      "kr_sha256": "c471202dd57d0d14b0b89389d4cf1ee4e8f6d3e9aa6ec5f19508736466f8072d",
+      "en_sha256": "e241e0b70e727273031693658854d3ff6e5218eea98f6a1a10fa1a283ed10765",
+      "origin": "ai"
+    },
+    "dataList[id=158304].flavor": {
+      "pl": "Samo naostrzenie grotu ma ograniczone możliwości zwiększania siły przebicia, a włócznia kuta z opatentowanych stopów albo materiałów odnalezionych w Ruinach kosztuje tyle, co kilkaletni budżet niejednego biura. Znacznie oszczędniejszą metodą jest uchwycenie okolicznych prądów powietrza i oplecenie nimi broni — to daje imponującą siłę przebicia za ułamek ceny. Technika jest dobrze ugruntowana, wiele warsztatów oferuje własne jej warianty.\n\nWłócznie Biura Klina pochodzą właśnie z takiego warsztatu. W połączeniu z charakterystycznym włócznictwem biura, mistrzowsko wykorzystującym ruchy skrętne i obrotowe, przebiły niezliczone rzesze przeciwników.",
+      "kr_sha256": "700fda59fe9d8d728f8de6f77ff594f39342f2e642bdacc07fd1c267754ef9f2",
+      "en_sha256": "619293e5fd77d0041a74c6e9122fe55465aff1be14e826180689406600d6971c",
+      "origin": "ai"
+    },
+    "dataList[id=158304].name": {
+      "pl": "Wedge-style Spearmanship",
+      "kr_sha256": "613f5aae946c70a235fa6b0bb8c97be5141dc9630ad8844cf985834f997200d9",
+      "en_sha256": "1a9f15d5faec0ca674cd5a85097927ecc126b68319e1fbb5fd120857d5738546",
+      "origin": "ai"
+    },
+    "dataList[id=158401].desc": {
+      "pl": "gdy spełniony zostanie dowolny z poniższych warunków, zyskuje 1 [WalpuTenBattleFieldKnow] (1 raz na turę)\n- gdy w trakcie walki wróg zginie lub wpadnie w Oszołamienie\n- <color=#ff6000><mark color=#ff000040><b><u>gdy atak trafi cel mający 4 lub więcej rodzaje negatywnych efektów</color></mark></b></u>\n- gdy atak trafi cel mający [WalpuTenWedgeMarkSilver]\n\nprzy trafieniu ostatnią monetą Umiejętności Przebicia nakłada 1 [WalpuTenWedgeMarkGold] na główny cel (1 raz na Umiejętność)",
+      "kr_sha256": "69a479bafb0014ae1213ede6967cf02316804b095d2310c9a5932f670d339562",
+      "en_sha256": "d836962a2b0de97f61e598e853d5dae43a4786b854470b89a778da56f7787f94",
+      "origin": "ai"
+    },
+    "dataList[id=158401].name": {
+      "pl": "Wedge Drive",
+      "kr_sha256": "44dfe4ba94e2cfa43545193987ec9c91a5f2e2c0abea0e23c76c3cb54c6bafa3",
+      "en_sha256": "0a82783826f2216e5f776bed08fd2fd490d63f21d6a6c1284fc3ea1695c78a06",
+      "origin": "ai"
+    },
+    "dataList[id=158402].desc": {
+      "pl": "przy pierwszym wejściu na scenę, przywraca 45 Poczytalności\n\nna koniec tury, przy 10+ Mocy [Breath], zyskuje 1 [Agility] w następnej turze\n\nprzy 20+ Mocy [Breath], podstawowe Umiejętności zadają +(nadwyżka Mocy)% obrażeń przy trafieniu krytycznym (maks. 25%)",
+      "kr_sha256": "667a05cd23be960420074e03b97449d674327013dd3efed42e67e901ac417840",
+      "en_sha256": "6fb351030616932bfb7b5d2d52414d56a83620f37f03d95cc61c03e7ebc04fe5",
+      "origin": "ai"
+    },
+    "dataList[id=158402].flavor": {
+      "pl": "Nocturne w mieście zawsze roi się od podłych i dzikich istot. Od szczurów dążących do odwrócenia losu, przez mieszkańców Zaułków karmionych marzeniami o zemście, po Syndykaty i Palce spłatające z siebie i na siebie intrygi... i oczywiście Zamiataczy.\n\nMimo że nocne zlecenia zwykle dobrze płacą, niewielu fikserów chce je przyjmować. Są jednak tacy, którzy w nocnych zleceniach widzą swoją największą szansę.\nPrzenikliwość pozwalająca odczytać każdą sytuację ze zdumiewającą precyzją. Szybkość i dokładność, dzięki którym sprawa dobiega końca bez rodzenia kolejnych kłopotów. Z tymi dwoma atutami Biuro Klin przeżyło każdy kontrakt i odchodziło z bogatą rekompensatą, która szła za nimi.",
+      "kr_sha256": "b863116996cbec3d857b2a2e4c15b72a787a91bf86948f615d87586549bbb786",
+      "en_sha256": "8c70c79b8ca84b5ee3ea5332d4106169fbccc09c79554ee3cc2b92eac278ff3b",
+      "origin": "ai"
+    },
+    "dataList[id=158402].name": {
+      "pl": "Hunters of the City",
+      "kr_sha256": "8535d79c983d0cde08853a6db4912d842cc0ed56c6098b93e2f1911f651c951f",
+      "en_sha256": "59e97f1270e5e9357313ce113f1280c871aef7e24b2a1e26c11bee188a6b80af",
+      "origin": "ai"
+    },
+    "dataList[id=158501].desc": {
+      "pl": "na początku Starcia: zyskuje 1 [WalpuTenBattleFieldKnow] (1 raz na turę)\n\nprzy trafieniu ostatnią monetą Umiejętności Przebicia nakłada 1 [WalpuTenWedgeMarkSilver] na główny cel (1 raz na Umiejętność)",
+      "kr_sha256": "6f418b42cdf7b588fdc01af0e628e4caa3969f956742143df2f2923305b90bd0",
+      "en_sha256": "4dcdcf8b1804fc4ca49db09d9202e5d2ce6d9da47222bf6f7962d9399696a508",
+      "origin": "ai"
+    },
+    "dataList[id=158501].name": {
+      "pl": "Wedge Drive",
+      "kr_sha256": "44dfe4ba94e2cfa43545193987ec9c91a5f2e2c0abea0e23c76c3cb54c6bafa3",
+      "en_sha256": "0a82783826f2216e5f776bed08fd2fd490d63f21d6a6c1284fc3ea1695c78a06",
+      "origin": "ai"
+    },
+    "dataList[id=158502].desc": {
+      "pl": "przy pierwszym wejściu na scenę, przywraca 45 Poczytalności\n\nna koniec tury, przy 10+ Mocy [Breath], zyskuje 1 [Agility] w następnej turze\n\nprzy 20+ Mocy [Breath], podstawowe Umiejętności zadają +(nadwyżka Mocy)% obrażeń przy trafieniu krytycznym (maks. 25%)",
+      "kr_sha256": "667a05cd23be960420074e03b97449d674327013dd3efed42e67e901ac417840",
+      "en_sha256": "6fb351030616932bfb7b5d2d52414d56a83620f37f03d95cc61c03e7ebc04fe5",
+      "origin": "ai"
+    },
+    "dataList[id=158502].flavor": {
+      "pl": "Nocturne w mieście zawsze roi się od podłych i dzikich istot. Od szczurów dążących do odwrócenia losu, przez mieszkańców Zaułków karmionych marzeniami o zemście, po Syndykaty i Palce spłatające z siebie i na siebie intrygi... i oczywiście Zamiataczy.\n\nMimo że nocne zlecenia zwykle dobrze płacą, niewielu fikserów chce je przyjmować. Są jednak tacy, którzy w nocnych zleceniach widzą swoją największą szansę.\nPrzenikliwość pozwalająca odczytać każdą sytuację ze zdumiewającą precyzją. Szybkość i dokładność, dzięki którym sprawa dobiega końca bez rodzenia kolejnych kłopotów. Z tymi dwoma atutami Biuro Klin przeżyło każdy kontrakt i odchodziło z bogatą rekompensatą, która szła za nimi.",
+      "kr_sha256": "b863116996cbec3d857b2a2e4c15b72a787a91bf86948f615d87586549bbb786",
+      "en_sha256": "8c70c79b8ca84b5ee3ea5332d4106169fbccc09c79554ee3cc2b92eac278ff3b",
+      "origin": "ai"
+    },
+    "dataList[id=158502].name": {
+      "pl": "Hunters of the City",
+      "kr_sha256": "8535d79c983d0cde08853a6db4912d842cc0ed56c6098b93e2f1911f651c951f",
+      "en_sha256": "59e97f1270e5e9357313ce113f1280c871aef7e24b2a1e26c11bee188a6b80af",
+      "origin": "ai"
+    },
+    "dataList[id=158601].desc": {
+      "pl": "nakładając [Combustion] Umiejętnościami tej jednostki, nakłada o 1 więcej Mocy [Combustion] i Licznika [Combustion]\n- jeżeli wróg trafiony Umiejętnością tej jednostki ma mniej niż 3 Licznika [Combustion], zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "2f906e0917030dfa57df205a17d5aa9fb602fc71c467cfe01bf656461b4079bc",
+      "en_sha256": "571b5d6d2463887ccb59b9113e1808ef260f0379e93e66cd3c2ed899e7013afe",
+      "origin": "ai"
+    },
+    "dataList[id=158601].name": {
+      "pl": "Broń Warsztatu Stigma",
+      "kr_sha256": "4e195748e7b9831fcd74227a2791194eec9cff6dace8ce7824ff1ecc552f8959",
+      "en_sha256": "8d3afd82f0004d7d189698c2075384858d69a8182d56f8a2eb72a3b9a64c76aa",
+      "origin": "ai"
+    },
+    "dataList[id=158602].desc": {
+      "pl": "<color=#ff6000><mark color=#ff000040><b><u>przy 20+/40+ Poczytalności</color></mark></b></u>, Moc Monet +1/+2\n\n<color=#ff6000><mark color=#ff000040><b><u>przy 50% HP lub mniej</color></mark></b></u>, Moc Końcowa +1",
+      "kr_sha256": "1085d63db78475099dbe4fa10e229380a35bc35995d483f7ce59c10674343ae0",
+      "en_sha256": "819ca978332111d880a9a10bcfb2ff29fe3f56c789753b52e74805caa30b2300",
+      "origin": "ai"
+    },
+    "dataList[id=158602].name": {
+      "pl": "Passion",
+      "kr_sha256": "b00aa3ab3fe75872ae8b2f561d3765dff80e93a6351d8daa02284152e3070aff",
+      "en_sha256": "8079e01915b63ec9f3f2247cf456976e634a13c3cab2cb7a8a030c56de719132",
+      "origin": "ai"
+    },
+    "dataList[id=158603].desc": {
+      "pl": "przy pierwszym wejściu na scenę, przywraca 45 Poczytalności\notrzymuje -40% obrażeń z [Combustion] (zaokrąglone w dół)\n\notrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 45\n\njeżeli HP wynosi 10...",
+      "kr_sha256": "e90d83d91ecfd7830c0c0098597c3900bf196007a905f6909818c53ef6ca24df",
+      "en_sha256": "3aebe4dcf2a9256a1123f6f51027156027885887a79c77112b4a86c88d211d1b",
+      "origin": "ai"
+    },
+    "dataList[id=158603].name": {
+      "pl": "Biuro Świtu - Nowicjusz",
+      "kr_sha256": "706d8fb6963e7490222ffe50e8699e3ab6735e66a21fc2334105efd170dd3bef",
+      "en_sha256": "474047bc61e6ac2d980a3e45f107090dd6d5c40fa7ecd5df76ff8329c3d3b453",
+      "origin": "ai"
+    },
+    "dataList[id=158701].desc": {
+      "pl": "na koniec tury, jeżeli jednostka nie jest Oszołamiona, nakłada 2 [Combustion] wszystkim wrogom\n\n<color=#ff6000><mark color=#ff000040><b><u>przy 20+/40+/45+ Poczytalności</color></mark></b></u>, Moc Końcowa +1/+2/+3\n\n<color=#ff6000><mark color=#ff000040><b><u>przy 50% HP lub mniej</color></mark></b></u>, Moc Końcowa +1",
+      "kr_sha256": "5985fc0d7fd892c87a2f1b42068b3a052416b39532a9e3ee301b63acb3dee1c8",
+      "en_sha256": "bc0fdeb56e2ed8e9d632e47c63f28fb8722419e124bfc367a11b3d39d7379cd7",
+      "origin": "ai"
+    },
+    "dataList[id=158701].name": {
+      "pl": "Passion",
+      "kr_sha256": "b00aa3ab3fe75872ae8b2f561d3765dff80e93a6351d8daa02284152e3070aff",
+      "en_sha256": "8079e01915b63ec9f3f2247cf456976e634a13c3cab2cb7a8a030c56de719132",
+      "origin": "ai"
+    },
+    "dataList[id=158702].desc": {
+      "pl": "naprzemiennie przechodzi między stanami [PhilipShield] i [PhilipSword], nakładając [Combustion] odpowiednio przy otrzymaniu trafienia i przy atakowaniu\n\nprzy 0 [PhilipReady] używa „Blazing Strike\"\n- po zakończeniu tury użycia „Blazing Strike\" zyskuje ponownie 4 [PhilipReady] w następnej turze",
+      "kr_sha256": "478a24edfa74d57e0c70c3d9884dd119f3bfe93eab07fab6abf054ce078b34b5",
+      "en_sha256": "8552b11c3c21ee129a4c7310c3a791b7083f562e9f8b87bcef16c4cad54432c8",
+      "origin": "ai"
+    },
+    "dataList[id=158702].name": {
+      "pl": "Unstable Shell of Ego",
+      "kr_sha256": "ca39cac46e679f00c47eedc65f405ef95f6f021cf7d1be1c55867b5ae7f4ca79",
+      "en_sha256": "2a93a6e5e50ab435783c3e2895eaac844837455341c13bf8aec6c6e7ffb113a8",
+      "origin": "ai"
+    },
+    "dataList[id=158703].desc": {
+      "pl": "przy pierwszym wejściu na scenę rozpoczyna z 45 Poczytalności i zyskuje [PhilipPower]\n\notrzymuje -50% obrażeń z [Combustion] (zaokrąglone w dół)\n- przy poniżej 50% HP efekt jest wzmocniony: otrzymuje -75% obrażeń z [Combustion]\n\notrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 45",
+      "kr_sha256": "d0520a0d1159b098d32691098e3e36f9bea2d4a436ffd60bdfef966501ca15ee",
+      "en_sha256": "f0145b67eab20a1644de40c7c48e9cd0663eaa03b6537bcd405693d7f7a729df",
+      "origin": "ai"
+    },
+    "dataList[id=158703].flavor": {
+      "pl": "Niekształtowane skrzydła, które jeszcze nie wybrały nieba, w którym mają szybować.",
+      "kr_sha256": "05eec3ef5094d175c41473ae996510a4d29b7d43db0d30c62424183de05522ed",
+      "en_sha256": "906024108285d5deffe9335cf23a3a060aacf519cf7c88be1ad2df15b9144af6",
+      "origin": "ai"
+    },
+    "dataList[id=158703].name": {
+      "pl": "Volatile Effloresced E.G.O::Waxen Pinion",
+      "kr_sha256": "7d985975e7c31b4d943c8b649518a4d56d5e1a819f48b91090a7b9f9184a527f",
+      "en_sha256": "07621a822a3c580019d5fe962566c0d7dd5074ac66dc4bd8093a1a90d2b6bded",
+      "origin": "ai"
+    },
+    "dataList[id=158704].desc": {
+      "pl": "jeżeli HP wynosi 10...",
+      "kr_sha256": "1a53caae9a34a23c89d9eca4e0c156d0b0159c4d11c4ac27cf56ac4b47a3f05c",
+      "en_sha256": "84e6946e3d0f0fd16c0f9fbd320da5fd06bb0acc5c7d8efb1832453e41979594",
+      "origin": "ai"
+    },
+    "dataList[id=158704].name": {
+      "pl": "The Conclusion Prewritten",
+      "kr_sha256": "f5739a142140e259d186e0a05cd3da893753e1d65758535690469b78eb816817",
+      "en_sha256": "af78a61cd881663be92a5782ccd7ae78a897125578fe6fcdc853c2896d7dcef8",
+      "origin": "ai"
+    }
+  }
+}

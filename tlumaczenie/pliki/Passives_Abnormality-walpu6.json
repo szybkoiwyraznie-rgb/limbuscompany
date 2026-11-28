@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=122301].desc": {
+      "pl": "otrzymuje -50% obrażeń z [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (zaokrąglone w dół)\njeżeli trafi zniszczonym [SuperCoin], nie aktywuje efektu [Sinking] celu (nie zużywa też Licznika)",
+      "kr_sha256": "7a8e8ef40e7c4d203d3ff09b30fec2ad9407ef964406f98b2086b40849c38750",
+      "en_sha256": "09db60796d58ac7174e5c7f9055eb31e4dd55e2f8dda85034bff05832e5c27f2",
+      "origin": "ai"
+    },
+    "dataList[id=122301].name": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=122302].desc": {
+      "pl": "na początku tury, jeżeli żaden z mieczy na polu nie ma [HelplessTear], nakłada [HelplessTear] na 1 losowy miecz (1 raz na turę; nie aktywuje się, jeżeli jakiś miecz ma [HelplessTear])",
+      "kr_sha256": "bf28ce4eeb7e175de1b90b6e96af2d048e3b1967b8f73fcc49bee5444576e992",
+      "en_sha256": "922d29f1e9214316a16e535e651422e10c7981a5faedebd56f9a50997e61b973",
+      "origin": "ai"
+    },
+    "dataList[id=122302].name": {
+      "pl": "River of Helpless Tears",
+      "kr_sha256": "b540a764d6eb330dc66f6b7218600375cc37fc1814b390415127f56e4204a011",
+      "en_sha256": "3896ed1bac1af2a28758e44323376c14c775be355dc07fc900bad20d852a7b5f",
+      "origin": "ai"
+    },
+    "dataList[id=122303].desc": {
+      "pl": "na koniec tury po pierwszym Oszołamieniu, jeżeli jakiś Grzesznik ma 5+ [ColdBlackTear], używa w następnej turze Umiejętności obszarowej\nna koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [ColdBlackTear], zyskuje w następnej turze [SignOfDespair]",
+      "kr_sha256": "81ca349741ba2d546f0c1a9523f99ae5f2cba946f7bbaf3d6a81f1a2c57e81c2",
+      "en_sha256": "2dcb32fadafcae055494a080ea17af5334152b5961fa93034c922ce6f87c3d4e",
+      "origin": "ai"
+    },
+    "dataList[id=122303].name": {
+      "pl": "Hollow Pride",
+      "kr_sha256": "b255804ceab004547ec0a1205acbcafc50291f3c2c91b36e52963258e47c1454",
+      "en_sha256": "ed791c7805c5d261510f1970340c8d7cd2f9644d626aae0f59ba19d7628e4404",
+      "origin": "ai"
+    },
+    "dataList[id=122304].desc": {
+      "pl": "przy pierwszym Oszołamieniu dochodzi do siebie z Oszołamienia w następnej turze, po czym co turę zyskuje 10 [Protection] i 500 Tarczy\nw następnej turze przyzywa Sword of a Forgotten Knight",
+      "kr_sha256": "327d8e7a2eec356bd75ab07995060eb89ac2a7dcabc3f036dbde3dde1bb8d72c",
+      "en_sha256": "fcc5a4324eabbbfc97520100f52b526826788c9289166b6ff019cb0e33cbc4b8",
+      "origin": "ai"
+    },
+    "dataList[id=122304].name": {
+      "pl": "Shared Sorrow",
+      "kr_sha256": "a7480b20d22c55343fe108c4d53f80899d7a6080af3d1696930c32f6db6cafd4",
+      "en_sha256": "8def5e6e79950c66329f895f107a0114f1bf8d7d5f921fab1cdf85070b18881c",
+      "origin": "ai"
+    },
+    "dataList[id=122305].desc": {
+      "pl": "za każdym razem, gdy miecz wbije się w tę jednostkę, zyskuje 1 [CollapsedPride], a zyskiwane co turę [Protection] maleje o 3, a zyskiwane co turę HP Tarczy maleje o 100\nprzy 3 [CollapsedPride] jednostka przestaje zyskiwać [Protection] i Tarczę co turę, a zamiast tego zostaje Oszołamiona w następnej turze i zyskuje [WornOutKnight]",
+      "kr_sha256": "c1cc7c67a3b37f9317fb5747fe7abfb88b6355aca44cecb3f2790f165e5a8dbc",
+      "en_sha256": "5d2a6a1b8583f35912a0af5dc45c36d7dc88d1a1a02e48b627b1631002fb254b",
+      "origin": "ai"
+    },
+    "dataList[id=122305].name": {
+      "pl": "Weathered Knight",
+      "kr_sha256": "77f781468394962499d35eff968d3b7c81c6494428f1386cb8a2e2d244805084",
+      "en_sha256": "dbbf4a55726ba6f38eb19d02ea300a2f788a6bb55d20d27c4492bad16b81bb6b",
+      "origin": "ai"
+    },
+    "dataList[id=122306].desc": {
+      "pl": "gdy ta jednostka zostanie trafiona ARCANA[TabExplain] SLAVE mając [WornOutKnight]: nie traci HP poniżej 5%, a na koniec tury unicestwia się",
+      "kr_sha256": "154cba6cfcfd4a54acac37cd8c3e860c2e681e851f64e2d373add9f1c966151f",
+      "en_sha256": "2e81a0b1d43eb0063b2d37c8e18e4d91e2b4dbd4735f79fafe925713bfa48f27",
+      "origin": "ai"
+    },
+    "dataList[id=122306].name": {
+      "pl": "One Last Justice",
+      "kr_sha256": "2b98e5ec610c18a4c2d35df5052cd13910a920625ed109fbc30ca042d543ca43",
+      "en_sha256": "457a515eeefdbaf89f236411a177c3489e31ceed1e96ba733dee5d3da3701c69",
+      "origin": "ai"
+    },
+    "dataList[id=122307].desc": {
+      "pl": "przy pierwszym Oszołamieniu dochodzi do siebie z Oszołamienia w następnej turze, po czym co turę zyskuje 10 [Protection] i 500 Tarczy\nw następnej turze przyzywa Heart-breaking Sword, Heart-tearing Sword i Heart-piercing Sword",
+      "kr_sha256": "b07a8e7962d029875494f5d535092452b701e1bae9f175362d3340f496cd03a6",
+      "en_sha256": "8d292a3a718efa6af5014a947839eeeb2271e52698678b584461ec5a06be66b0",
+      "origin": "ai"
+    },
+    "dataList[id=122307].name": {
+      "pl": "Shared Sorrow",
+      "kr_sha256": "a7480b20d22c55343fe108c4d53f80899d7a6080af3d1696930c32f6db6cafd4",
+      "en_sha256": "8def5e6e79950c66329f895f107a0114f1bf8d7d5f921fab1cdf85070b18881c",
+      "origin": "ai"
+    },
+    "dataList[id=122308].desc": {
+      "pl": "gdy ta jednostka zostanie trafiona ARCANA[TabExplain] SLAVE mając [WornOutKnight] i mniej niż 600 HP: nie traci HP poniżej 5%, a na koniec tury unicestwia się",
+      "kr_sha256": "390aebdc3b1123b75d2297805184c294b80396900f1f5a9864787b299321446c",
+      "en_sha256": "b02e7f0124389085e617b0ad33721ccc98be8804121e88cb381316603b76b86d",
+      "origin": "ai"
+    },
+    "dataList[id=122308].name": {
+      "pl": "One Last Justice",
+      "kr_sha256": "2b98e5ec610c18a4c2d35df5052cd13910a920625ed109fbc30ca042d543ca43",
+      "en_sha256": "457a515eeefdbaf89f236411a177c3489e31ceed1e96ba733dee5d3da3701c69",
+      "origin": "ai"
+    },
+    "dataList[id=122401].desc": {
+      "pl": "jeżeli miecz z [HelplessTear] osiągnie 0 HP, wbija się w Rycerza Rozpaczy[TabExplain]",
+      "kr_sha256": "4b7dac3739b14535b6dfbe02d3a4fe0d9f7910728e0c8e7d9c0781e4573fd1d6",
+      "en_sha256": "2619a69efbc936ae59a7b51d802c63e87f5aba46f9ac3655dec97ac5c276c663",
+      "origin": "ai"
+    },
+    "dataList[id=122401].name": {
+      "pl": "Despair-piercing Sword",
+      "kr_sha256": "49e63d3a84239ed5893ec941855f6eda347f085cc8c92b297471b59ef57dde98",
+      "en_sha256": "d04ba36bda5459d149a43a852610fe2af24e303d5bb6ac7f0a1756e4e61783fe",
+      "origin": "ai"
+    },
+    "dataList[id=122402].desc": {
+      "pl": "jeżeli trafi zniszczonym [SuperCoin], nie aktywuje efektu [Sinking] celu",
+      "kr_sha256": "81513b73e1788154cbabf54d638d2c252afbb60f25158daa6de9de4525cd8ddf",
+      "en_sha256": "11c187f203d38e35fc45df1c0e561fc78aaa0a3cf968eb0f942b353e1c5dfb5a",
+      "origin": "ai"
+    },
+    "dataList[id=122402].name": {
+      "pl": "Sword of a Forgotten Knight",
+      "kr_sha256": "d8c65cdbab2134b0bbe9c397fa30d9c09bf1915008e6725c0f613a2aff3fabe0",
+      "en_sha256": "fe210e3c2d661812fcf215837e93476e9e39ce726da13ad0489454a37e9c8557",
+      "origin": "ai"
+    },
+    "dataList[id=122403].desc": {
+      "pl": "jeżeli jest wróg z [ChasingArcana], priorytet: ta jednostka",
+      "kr_sha256": "d37a8a8c5fb60e8ec0246a7fe338110937482c288a9cc648faf9d98999387263",
+      "en_sha256": "dedf4c5a136c58693b9a45495f28093896bc2938f7ed2d456a9a472262ca6598",
+      "origin": "ai"
+    },
+    "dataList[id=122403].name": {
+      "pl": "The Sword Points Toward Those Who Could Not be Protected",
+      "kr_sha256": "94fdf22c5fde3da55375a8fadd08543730312c2d754426bbdac94513ee744c2e",
+      "en_sha256": "4ca93d3750027e792762329c773d15d0b68b4d72e6a288fd17b748ff5c8da7be",
+      "origin": "ai"
+    },
+    "dataList[id=122404].desc": {
+      "pl": "HP tej jednostki nie spada poniżej 1, gdy nie ma [HelplessTear]\nna koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [HelplessTear], przywraca HP do maksimum",
+      "kr_sha256": "8864d0ebcff5522b5e5f599190c7bbb8b620393986bdcbab8213247c85eb45c8",
+      "en_sha256": "84fcf989f5a6340bd9398cb9bd0407239765cbdb11d5df05d5b703bb8d4d8b1a",
+      "origin": "ai"
+    },
+    "dataList[id=122404].name": {
+      "pl": "Respite",
+      "kr_sha256": "5c75df710af3f2ee069c73175a081977ba96fda9d4d5372c8eb92beb8fc9360e",
+      "en_sha256": "1d34a7ba955f926f8fd7245ba5d34adeeb03998da958eec9f15777005fa2aeb6",
+      "origin": "ai"
+    },
+    "dataList[id=122405].desc": {
+      "pl": "jeżeli miecz z [HelplessTear] osiągnie 0 HP, wbija się w Rycerza Rozpaczy[TabExplain], po czym w następnej turze przenosi swoją odporność „Fatal\" na 1 inny losowy Miecz",
+      "kr_sha256": "1b3208d3ec99145fabc063206c3dd019c896efaf831e9306591624b639e65236",
+      "en_sha256": "e4fb8b6cb61077a06fc1f74dacf1492acbc7c03e2b95031ed02f3f9406d9649f",
+      "origin": "ai"
+    },
+    "dataList[id=122405].name": {
+      "pl": "Despair-piercing Sword",
+      "kr_sha256": "49e63d3a84239ed5893ec941855f6eda347f085cc8c92b297471b59ef57dde98",
+      "en_sha256": "d04ba36bda5459d149a43a852610fe2af24e303d5bb6ac7f0a1756e4e61783fe",
+      "origin": "ai"
+    }
+  }
+}

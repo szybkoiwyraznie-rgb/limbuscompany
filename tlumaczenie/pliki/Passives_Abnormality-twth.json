@@ -1,0 +1,322 @@
+{
+  "entries": {
+    "dataList[id=142201].desc": {
+      "pl": "na początku tury zyskuje <color=#ff6000><mark=#ff000040><b><u>2 [Protection]</u></b></mark></color> za każdego sojusznika Fauvist Student of the Ring\n- jeżeli jednostka użyła „Critique\" w tej walce, od następnej tury efekt jest wzmocniony: zamiast tego zyskuje 2 [Protection] i przywraca 5 Poczytalności\n(poniżej -15 Poczytalności efekt przywracania Poczytalności działa podwójnie)\n- jeżeli nie ma sojuszników Fauvist Student of the Ring, zamiast tego zyskuje 2 [Vulnerable] i traci Poczytalność do 0\n\nbezpośrednio przed otrzymaniem trafienia Umiejętnością o Wadze Ataku 1, jeżeli jest inny sojusznik Student, ta jednostka <color=#ff6000><mark=#ff000040><b><u>przyjmuje atak zamiast celu (2 razy na turę, z wyłączeniem jednostek wsparcia)</u></b></mark></color>\n\nna koniec tury, w której jednostka użyła „Critique\", jeżeli w tej walce pokonano sojusznika Fauvist Student of the Ring, jego miejsce zostaje <color=#ff6000><mark=#ff000040><b><u>ponownie zapełnione tą samą jednostką Student</u></b></mark></color>\n- na początku każdej tury Student, który zapełnił miejsce tym efektem, zyskuje (liczba pokonanych w tej walce sojuszników) [Vulnerable] i [AttackDown] (każdy maks. 10)",
+      "kr_sha256": "e56446ce8542aa569093fd90db97816b7d8742038158d3654afc0287dd54e4f4",
+      "en_sha256": "e6ff4e2e1f70b0b6ad36eb64ede8389a999946ac8a79899b96da363e56328eb9",
+      "origin": "ai"
+    },
+    "dataList[id=142201].name": {
+      "pl": "The Ring's Docent of Fauvism",
+      "kr_sha256": "3e93990eb56cd7595e1b90f4a9a88bb45930ab4a9efa7f178f7f0a7b6a243f41",
+      "en_sha256": "dcbc1dbf7fdd4ba8af43884329f5690e430e3a7631592ea0e618aaf94cafd0a3",
+      "origin": "ai"
+    },
+    "dataList[id=142201].summary": {
+      "pl": "bezpośrednio przed otrzymaniem trafienia wymusza, by atak przyjął sojusznik Student",
+      "kr_sha256": "d289956fd3236c48ac3fba2243740208d8b5b96b5718e0379e94ad28acb94114",
+      "en_sha256": "7facfeb199adc89bb4620ef0c7cb65c0c7d7ede47fde1b1a8a12bee25ec9015c",
+      "origin": "ai"
+    },
+    "dataList[id=142202].desc": {
+      "pl": "na początku tury nakłada sojusznikom Fauvist Student of the Ring losowo [AttackUp] i [DefenseUp] w liczbie równej liczbie tur (włącznie z bieżącą), które każdy z nich przeżył (maks. 5)\n\nna koniec tury, jeżeli sojusznik Student jest Oszołamiony, <color=#ff6000><mark=#ff000040><b><u>przywraca go z Oszołamienia</u></b></mark></color>\n- wszystkie odporności na Typy Ataku i Atrybuty Studentów, którzy doszli do siebie z Oszołamienia tym efektem, zmieniają się w następnej turze na „Fatal\"\n\nna koniec tury, jeżeli Student jest w Panice, przywraca jego Poczytalność do 45",
+      "kr_sha256": "270ffc60a353ec96cc5b596628f5ae93d845841c0495b408eb84848723cdd520",
+      "en_sha256": "bfb83db3c6b621f67a61968a60250c109878904c2ca1739b6b661fd677839788",
+      "origin": "ai"
+    },
+    "dataList[id=142202].name": {
+      "pl": "Mentorship",
+      "kr_sha256": "df621094d8cdd63080c3eb13fd59988586d2abc3cdf4d60a435cd1ab6020296d",
+      "en_sha256": "737250f70bb33b35b515147673bd1e3ff398a9e5a6deaa48b90b4ae53813a3cd",
+      "origin": "ai"
+    },
+    "dataList[id=142203].desc": {
+      "pl": "na koniec walki <color=#ff6000><mark=#ff000040><b><u>nakłada 1 [IntenseColors] w następnej turze</u></b></mark></color> Grzesznikom, którzy jednocześnie mają [BearClawWound], [EagleClawWound] i [BoldBrushstrokes]\n- jeżeli cel ma odpowiednio 3+/6+/9+ [BearClawWound] i [EagleClawWound], zamiast tego nakłada 2/3/4 [IntenseColors] (ilość zależy od efektu z najmniejszą liczbą Stosów)",
+      "kr_sha256": "27bf8cf66a6ce6383a174510b8561400d3a8b6577463345bcee9872acc325ec3",
+      "en_sha256": "5af5f55520b66255523a624152d8d8a2c0b90552466d80a6c397e6bbdb37bdb8",
+      "origin": "ai"
+    },
+    "dataList[id=142203].flavor": {
+      "pl": "Każde zwierzę ma w swojej postaci ukryty cel. A my, les Fauves, obudzimy i wyeksponujemy dzikość tych spośród nich, których nazywamy bestiami.",
+      "kr_sha256": "793c16966acbc6e57b49afe4623ea4be2fbf6e6824e4697c42e68a01ec834eaa",
+      "en_sha256": "37de42dde4631c53cfeb997e97fe85d5b282c1ecda79fc60f7bc062dab869a74",
+      "origin": "ai"
+    },
+    "dataList[id=142203].name": {
+      "pl": "Le Fauvisme - Couleurs Sauvages",
+      "kr_sha256": "146b57ce1070978fc5aff81e926432e4b1b620801a35c8974d72373ffbace978",
+      "en_sha256": "c07f9de3fb84ee0712cd212e7e165033ef206851fa0b8d69a72f443749151672",
+      "origin": "ai"
+    },
+    "dataList[id=142203].summary": {
+      "pl": "Inflict Palette Vibrante",
+      "kr_sha256": "f654cb80c69bd1d479fa77e58e58f9fdf4b5652b5b0e4f40720a0f3c66e36e07",
+      "en_sha256": "4cb3c702e14d311ac53d12a05fb72a83978500dc4a93371679b000c67390178b",
+      "origin": "ai"
+    },
+    "dataList[id=142204].desc": {
+      "pl": "otrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 20\n\n<color=#ff6000><mark=#ff000040><b><u>przy 70% HP lub mniej zmienia wzorzec</u></b></mark></color>\n- usuwa wszystkie efekty poza efektami unikatowymi dla tej jednostki\n- na początku pierwszej tury nowego wzorca: zyskuje [FaubismWolfMask] i przywraca Poczytalność do 45",
+      "kr_sha256": "8857b7cb68f352fcf507792a318831ef4c4288d9a044ac650d34dc6d2f11ff2a",
+      "en_sha256": "2b160523539ed60bba6b155c5d51512bbb1dc9ba92ab30c05366b0451a250dc8",
+      "origin": "ai"
+    },
+    "dataList[id=142204].name": {
+      "pl": "Casque de Fauve - Empreinte Vitale",
+      "kr_sha256": "c4cd49d6d73af4b97a0a6b9b37fc36dfba79df1c53abab01642e3b265b74bfaf",
+      "en_sha256": "695fb52b6633edd902837331351c282d0e4685a99eca7e403d4ff214ccf81633",
+      "origin": "ai"
+    },
+    "dataList[id=142301].desc": {
+      "pl": "w turze użycia potężnego ataku Min. i Maks. Szybkość +15\n\notrzymuje -30% obrażeń od ataków bez kontr\nzadaje +30% obrażeń atakami bez kontr\n- jeżeli slot wskazany przez atak bez kontr tej jednostki ma 2+ [Aggro], zwiększenie obrażeń z tego efektu maleje o 5% za każdy Stos [Aggro] (min. 0%)\n\npo przegranej Starcia zyskuje 1 [AttackDmgUp] (maks. 5 na turę)\n- na koniec tury lub po zakończeniu ataku Umiejętności, która trafiła Grzesznika, [AttackDmgUp] zdobyty tym efektem wygasa",
+      "kr_sha256": "18a9c605e43c6c08e6afb1d17b85b66de017575f975c29f2dd9d4709ba877b4c",
+      "en_sha256": "0976737fbc8a0a077c7fb4176474cda1b18977b59d739c09e7bb053b54df2d28",
+      "origin": "ai"
+    },
+    "dataList[id=142301].name": {
+      "pl": "Rufo, a Docent of The Ring's School of Fauvism",
+      "kr_sha256": "edfd9bfaeb41320206d0522eacfedb5a508534b1ebc1b872ac21a678c5e66db1",
+      "en_sha256": "406bda369cf2c5d07385168b1c482ba84c4a98221b5daf4a9e3f31fa75cc4582",
+      "origin": "ai"
+    },
+    "dataList[id=142301].summary": {
+      "pl": "mniejsze obrażenia od ataków bez kontr, większe zadawane takimi atakami\npo przegranej Starcia zyskuje Wzrost Obrażeń",
+      "kr_sha256": "8657724bf3d2c484731fcf0cb56d2010ee1e05ce93afaf055e2888c0b30995bd",
+      "en_sha256": "85305b3d41d9f88606fabd902d196029c1b5cf948a278a21c4cb4f83daa78ca5",
+      "origin": "ai"
+    },
+    "dataList[id=142302].desc": {
+      "pl": "na początku tury, <color=#ff6000><mark=#ff000040><b><u>zyskuje 8 [Protection]</u></b></mark></color>\n- liczba zyskiwana na początku tury maleje o 2 za każdy posiadany negatywny efekt\n- po przegranej Starcia Umiejętnością „Burst Forth the Pulsing Crimson under Your Skin.\", <color=#ff6000><mark=#ff000040><b><u>przez następną turę efekt ten zmienia się w zyskiwanie 2 [Vulnerable]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>za każde trafienie tą jednostki monetą Umiejętności zyskuje 1 Poziomu Obrony</u></b></mark></color> (maks. 20 na turę)\n- na koniec tury Poziom Obrony zdobyty tym efektem wygasa\n- po przegranej Starcia Umiejętnością „Burst Forth the Pulsing Crimson under Your Skin.\", <color=#ff6000><mark=#ff000040><b><u>przez następną turę za każde trafienie monetą Umiejętności traci zamiast tego 1 Poziomu Obrony</u></b></mark></color> (maks. 20; wygasa na koniec tury)",
+      "kr_sha256": "e565ea71da31a221ffb5cec738a5e4c0d160ddf89eea9516270f389b15b85628",
+      "en_sha256": "35632d1e63c76585ba82ad435010033e5271bc2a1306dc77806db7cb0fd5c9ca",
+      "origin": "ai"
+    },
+    "dataList[id=142302].name": {
+      "pl": "Le Fauvisme - Masque de Loup : Résurgence de la Sauvagerie",
+      "kr_sha256": "79501dcbdaaab485fc77991c26e8201e1937058c6fce62a3b7f59efa70d580fc",
+      "en_sha256": "6e5099c89bbe726bb87fac16a2947f4ae1b6a52ee94000a7e687dba88b6e2f98",
+      "origin": "ai"
+    },
+    "dataList[id=142302].summary": {
+      "pl": "przy otrzymaniu trafienia zyskuje Poziom Obrony\njeżeli jednostka przegrała Starcie określoną Umiejętnością, zamiast tego traci Poziom Obrony",
+      "kr_sha256": "bd8bbdd9782bea2ffe130d100de3b2ac2ff2bc66fbc4798cd602a0e347868637",
+      "en_sha256": "0ff9800f2e71d12461a6b540b8e09dfbb4fc8ce844ed30f08ac9853df726d114",
+      "origin": "ai"
+    },
+    "dataList[id=142303].desc": {
+      "pl": "na koniec walki <color=#ff6000><mark=#ff000040><b><u>nakłada 1 [IntenseColors] w następnej turze</u></b></mark></color> Grzesznikom, którzy jednocześnie mają [BearClawWound], [EagleClawWound] i [BoldBrushstrokes]\n- jeżeli cel ma odpowiednio 3+/6+/9+ [BearClawWound] i [EagleClawWound], zamiast tego nakłada 2/3/4 [IntenseColors] (ilość zależy od efektu z najmniejszą liczbą Stosów)",
+      "kr_sha256": "27bf8cf66a6ce6383a174510b8561400d3a8b6577463345bcee9872acc325ec3",
+      "en_sha256": "5af5f55520b66255523a624152d8d8a2c0b90552466d80a6c397e6bbdb37bdb8",
+      "origin": "ai"
+    },
+    "dataList[id=142303].flavor": {
+      "pl": "Każde zwierzę ma w swojej postaci ukryty cel. A my, les Fauves, obudzimy i wyeksponujemy dzikość tych spośród nich, których nazywamy bestiami.",
+      "kr_sha256": "793c16966acbc6e57b49afe4623ea4be2fbf6e6824e4697c42e68a01ec834eaa",
+      "en_sha256": "37de42dde4631c53cfeb997e97fe85d5b282c1ecda79fc60f7bc062dab869a74",
+      "origin": "ai"
+    },
+    "dataList[id=142303].name": {
+      "pl": "Le Fauvisme - Couleurs Sauvages",
+      "kr_sha256": "146b57ce1070978fc5aff81e926432e4b1b620801a35c8974d72373ffbace978",
+      "en_sha256": "c07f9de3fb84ee0712cd212e7e165033ef206851fa0b8d69a72f443749151672",
+      "origin": "ai"
+    },
+    "dataList[id=142303].summary": {
+      "pl": "Inflict Palette Vibrante",
+      "kr_sha256": "f654cb80c69bd1d479fa77e58e58f9fdf4b5652b5b0e4f40720a0f3c66e36e07",
+      "en_sha256": "4cb3c702e14d311ac53d12a05fb72a83978500dc4a93371679b000c67390178b",
+      "origin": "ai"
+    },
+    "dataList[id=142304].desc": {
+      "pl": "otrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 30\n\n<color=#ff6000><mark=#ff000040><b><u>przy 35% HP lub mniej</u></b></mark></color>, <color=#ff6000><mark=#ff000040><b><u>[FaubismWolfMask] zmienia się w [FaubismWolfMaskBlooded], a Poczytalność wraca do 45</u></b></mark></color>",
+      "kr_sha256": "c4bc139f9e1b374b9ef9d924e1c6db660ccceb049de14ef50746a84d5429b4a7",
+      "en_sha256": "11daa32881b140945b7b07a948d9dbf40de24a5986be4966b9ede24f2ce46c9f",
+      "origin": "ai"
+    },
+    "dataList[id=142304].name": {
+      "pl": "Le Fauvisme - Maximum Paint Tolerance Dose",
+      "kr_sha256": "bcd7ffb2bbe9ac2cfa30b9c1710ffd3c0de857faf22f094266559f920e4c26ae",
+      "en_sha256": "cd65052d15aa8b66dd53218c39bd18a8da4b8d589bb43c53be7e6b16cc7ed410",
+      "origin": "ai"
+    },
+    "dataList[id=142401].desc": {
+      "pl": "przy śmierci daje +2 Zasobów E.G.O najrzadziej posiadanego Atrybutu",
+      "kr_sha256": "7417309e5ca379e5e7bb8769dd73063cd94e5c8042a72d434ac7ea4d9c8c8af9",
+      "en_sha256": "ae96e8c24c21ad0826f74ad6886fb16973c7c8709d333a5ede44e3afb59d490a",
+      "origin": "ai"
+    },
+    "dataList[id=142401].name": {
+      "pl": "Remnant of Art",
+      "kr_sha256": "aec82eeb6e59c04d740f9cd90692e7e9c5067fb34a747e41debdebbacbfec295",
+      "en_sha256": "d460efcd0ea92da9c4e08f26be8ab62eaebc80eec1f1bb784131d5b516d7bba7",
+      "origin": "ai"
+    },
+    "dataList[id=142401].summary": {
+      "pl": "daje Zasoby E.G.O przy śmierci",
+      "kr_sha256": "a039d959829173f1ebd15f4bc91bd44189152cf74d29ec9fadff5e652edbf448",
+      "en_sha256": "ab3421bb4555cc8585fccc4ab84cb30b1e8b78fc5f4a891791215ac0d4d2ef25",
+      "origin": "ai"
+    },
+    "dataList[id=500601].desc": {
+      "pl": "przy 10+ Starciach z tym samym wrogiem Moc Starcia w Starciach losowo rośnie lub maleje o (Liczba Starć/10) (zaokrąglone w dół)\n\nMoc [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] akumuluje się do maks. 30, a Licznik do maks. 10",
+      "kr_sha256": "9717894c840769cfb5fc0784e5b596ab7bad47e3abfdef4bf415aa29bf764988",
+      "en_sha256": "a5ecce8a6193664a85249e0e9aaa0691ad4481520a11356eea4c9ba720a6b73e",
+      "origin": "ai"
+    },
+    "dataList[id=500601].name": {
+      "pl": "Reflectrial",
+      "kr_sha256": "b434bcdbec69b70038646e62c70bf4394fdf0399d97e87d9fa81c9c4c4584a2d",
+      "en_sha256": "7e8e89da7dd575c88060fd38e5166c3dbc2d556e25f07c35e2fb9caba30f2447",
+      "origin": "ai"
+    },
+    "dataList[id=500602].desc": {
+      "pl": "na początku tury zyskuje <color=#ff6000><mark=#ff000040><b><u>2 [Protection]</u></b></mark></color> za każdego sojusznika Fauvist Student of the Ring\n- jeżeli jednostka użyła „Critique\" w tej walce, od następnej tury efekt jest wzmocniony: zamiast tego zyskuje 2 [Protection] i przywraca 5 Poczytalności\n(poniżej -15 Poczytalności efekt przywracania działa podwójnie)\n- jeżeli nie ma sojuszników Fauvist Student of the Ring, zamiast tego zyskuje 2 [Vulnerable] i traci Poczytalność do 0\n\nbezpośrednio przed otrzymaniem trafienia Umiejętnością o Wadze Ataku 1, jeżeli jest inny sojusznik Student, nakłada na tę jednostkę 2 [Protection], po czym <color=#ff6000><mark=#ff000040><b><u>ta jednostka przyjmuje atak zamiast celu (2 razy na turę)</u></b></mark></color>\n\nna koniec tury, w której jednostka użyła „Critique\", jeżeli w tej walce pokonano sojusznika Fauvist Student of the Ring, jego miejsce zostaje <color=#ff6000><mark=#ff000040><b><u>ponownie zapełnione tą samą jednostką Student</u></b></mark></color>\n- na początku każdej tury Student, który zapełnił miejsce tym efektem, zyskuje (liczba pokonanych w tej walce sojuszników) [Vulnerable] i [AttackDown] (każdy maks. 10)",
+      "kr_sha256": "8c045d2c741c21721300d409a37495cd91b10387abbb81e96d8491b6f9dc516a",
+      "en_sha256": "7e99a98df2ac227acc164c364219a200d3967740240042b4a2462ffb3854f9f4",
+      "origin": "ai"
+    },
+    "dataList[id=500602].name": {
+      "pl": "The Ring's Docent of Fauvism",
+      "kr_sha256": "3e93990eb56cd7595e1b90f4a9a88bb45930ab4a9efa7f178f7f0a7b6a243f41",
+      "en_sha256": "dcbc1dbf7fdd4ba8af43884329f5690e430e3a7631592ea0e618aaf94cafd0a3",
+      "origin": "ai"
+    },
+    "dataList[id=500602].summary": {
+      "pl": "bezpośrednio przed otrzymaniem trafienia wymusza, by atak przyjął sojusznik Student",
+      "kr_sha256": "d289956fd3236c48ac3fba2243740208d8b5b96b5718e0379e94ad28acb94114",
+      "en_sha256": "7facfeb199adc89bb4620ef0c7cb65c0c7d7ede47fde1b1a8a12bee25ec9015c",
+      "origin": "ai"
+    },
+    "dataList[id=500603].desc": {
+      "pl": "na początku tury nakłada sojusznikom Fauvist Student of the Ring losowo [AttackUp] i [DefenseUp] w liczbie równej liczbie tur (włącznie z bieżącą), które każdy z nich przeżył (maks. 5)\n\nna koniec tury, jeżeli sojusznik Student jest Oszołamiony, <color=#ff6000><mark=#ff000040><b><u>przywraca go z Oszołamienia</u></b></mark></color>\n- wszystkie odporności na Typy Ataku i Atrybuty Studentów, którzy doszli do siebie z Oszołamienia tym efektem, zmieniają się w następnej turze na „Fatal\"\n\nna koniec tury, jeżeli Student jest w Panice, przywraca jego Poczytalność do 45",
+      "kr_sha256": "270ffc60a353ec96cc5b596628f5ae93d845841c0495b408eb84848723cdd520",
+      "en_sha256": "bfb83db3c6b621f67a61968a60250c109878904c2ca1739b6b661fd677839788",
+      "origin": "ai"
+    },
+    "dataList[id=500603].name": {
+      "pl": "Mentorship",
+      "kr_sha256": "df621094d8cdd63080c3eb13fd59988586d2abc3cdf4d60a435cd1ab6020296d",
+      "en_sha256": "737250f70bb33b35b515147673bd1e3ff398a9e5a6deaa48b90b4ae53813a3cd",
+      "origin": "ai"
+    },
+    "dataList[id=500604].desc": {
+      "pl": "na koniec walki <color=#ff6000><mark=#ff000040><b><u>nakłada 1 [IntenseColors] w następnej turze</u></b></mark></color> Grzesznikom, którzy jednocześnie mają [BearClawWound], [EagleClawWound] i [BoldBrushstrokes]\n- jeżeli cel ma odpowiednio 3+/6+/9+ [BearClawWound] i [EagleClawWound], zamiast tego nakłada 2/3/4 [IntenseColors] (ilość zależy od efektu z najmniejszą liczbą Stosów)",
+      "kr_sha256": "27bf8cf66a6ce6383a174510b8561400d3a8b6577463345bcee9872acc325ec3",
+      "en_sha256": "5af5f55520b66255523a624152d8d8a2c0b90552466d80a6c397e6bbdb37bdb8",
+      "origin": "ai"
+    },
+    "dataList[id=500604].flavor": {
+      "pl": "Każde zwierzę ma w swojej postaci ukryty cel. A my, les Fauves, obudzimy i wyeksponujemy dzikość tych spośród nich, których nazywamy bestiami.",
+      "kr_sha256": "793c16966acbc6e57b49afe4623ea4be2fbf6e6824e4697c42e68a01ec834eaa",
+      "en_sha256": "37de42dde4631c53cfeb997e97fe85d5b282c1ecda79fc60f7bc062dab869a74",
+      "origin": "ai"
+    },
+    "dataList[id=500604].name": {
+      "pl": "Le Fauvisme - Couleurs Sauvages",
+      "kr_sha256": "146b57ce1070978fc5aff81e926432e4b1b620801a35c8974d72373ffbace978",
+      "en_sha256": "c07f9de3fb84ee0712cd212e7e165033ef206851fa0b8d69a72f443749151672",
+      "origin": "ai"
+    },
+    "dataList[id=500604].summary": {
+      "pl": "Inflict Palette Vibrante",
+      "kr_sha256": "f654cb80c69bd1d479fa77e58e58f9fdf4b5652b5b0e4f40720a0f3c66e36e07",
+      "en_sha256": "4cb3c702e14d311ac53d12a05fb72a83978500dc4a93371679b000c67390178b",
+      "origin": "ai"
+    },
+    "dataList[id=500605].desc": {
+      "pl": "otrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 45\n\n<color=#ff6000><mark=#ff000040><b><u>przy 70% HP lub mniej zmienia wzorzec</u></b></mark></color>\n- usuwa wszystkie efekty poza efektami unikatowymi dla tej jednostki\n- nakłada <color=#ff6000><mark=#ff000040><b><u>8 [Laceration], zwiększa Licznik [Laceration] o 8, 8 [Sinking], a Licznik [Sinking] o 8</u></b></mark></color> wszystkim Grzesznikom na polu\n- na początku pierwszej tury nowego wzorca: zyskuje [FaubismWolfMask] i przywraca Poczytalność do 45",
+      "kr_sha256": "a7a9ecbaead64dce351e38f2decbb42adbccf222427b1c146c11dfe06d85d698",
+      "en_sha256": "937227c059e8162a30bf0f597c5524e532203defe6d323e0cdfcf6bcd1950a50",
+      "origin": "ai"
+    },
+    "dataList[id=500605].name": {
+      "pl": "Casque de Fauve - Empreinte Vitale",
+      "kr_sha256": "c4cd49d6d73af4b97a0a6b9b37fc36dfba79df1c53abab01642e3b265b74bfaf",
+      "en_sha256": "695fb52b6633edd902837331351c282d0e4685a99eca7e403d4ff214ccf81633",
+      "origin": "ai"
+    },
+    "dataList[id=500701].desc": {
+      "pl": "przy 10+ Starciach z tym samym wrogiem Moc Starcia w Starciach losowo rośnie lub maleje o (Liczba Starć/10) (zaokrąglone w dół)\n\nMoc [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] akumuluje się do maks. 30, a Licznik do maks. 10",
+      "kr_sha256": "9717894c840769cfb5fc0784e5b596ab7bad47e3abfdef4bf415aa29bf764988",
+      "en_sha256": "a5ecce8a6193664a85249e0e9aaa0691ad4481520a11356eea4c9ba720a6b73e",
+      "origin": "ai"
+    },
+    "dataList[id=500701].name": {
+      "pl": "Reflectrial",
+      "kr_sha256": "b434bcdbec69b70038646e62c70bf4394fdf0399d97e87d9fa81c9c4c4584a2d",
+      "en_sha256": "7e8e89da7dd575c88060fd38e5166c3dbc2d556e25f07c35e2fb9caba30f2447",
+      "origin": "ai"
+    },
+    "dataList[id=500702].desc": {
+      "pl": "w turze użycia potężnego ataku Min. i Maks. Szybkość +15\n\notrzymuje -50% obrażeń od ataków bez kontr\nzadaje +50% obrażeń atakami bez kontr\n- jeżeli slot wskazany przez atak bez kontr tej jednostki ma 2+ [Aggro], zwiększenie obrażeń z tego efektu maleje o 5% za każdy Stos [Aggro] (min. 0%)\n\npo przegranej Starcia zyskuje 1 [AttackDmgUp] (maks. 5 na turę)\n- na koniec tury lub po zakończeniu ataku Umiejętności, która trafiła Grzesznika, [AttackDmgUp] zdobyty tym efektem wygasa",
+      "kr_sha256": "364ce3b37d0fce3d02a65e9f24e33328a050222978fa9208e8125e0e954ab375",
+      "en_sha256": "f16f746b09c1cb52ebc47e48e9a6fed37f9a6e8df6cfcb2a367640f7bef12924",
+      "origin": "ai"
+    },
+    "dataList[id=500702].name": {
+      "pl": "Rufo, a Docent of The Ring's School of Fauvism",
+      "kr_sha256": "edfd9bfaeb41320206d0522eacfedb5a508534b1ebc1b872ac21a678c5e66db1",
+      "en_sha256": "406bda369cf2c5d07385168b1c482ba84c4a98221b5daf4a9e3f31fa75cc4582",
+      "origin": "ai"
+    },
+    "dataList[id=500702].summary": {
+      "pl": "mniejsze obrażenia od ataków bez kontr, większe zadawane takimi atakami\npo przegranej Starcia zyskuje Wzrost Obrażeń",
+      "kr_sha256": "8657724bf3d2c484731fcf0cb56d2010ee1e05ce93afaf055e2888c0b30995bd",
+      "en_sha256": "85305b3d41d9f88606fabd902d196029c1b5cf948a278a21c4cb4f83daa78ca5",
+      "origin": "ai"
+    },
+    "dataList[id=500703].desc": {
+      "pl": "na początku tury, <color=#ff6000><mark=#ff000040><b><u>zyskuje 10 [Protection]</u></b></mark></color>\n- liczba zyskiwana na początku tury maleje o 1 za każdy posiadany negatywny efekt\n- po przegranej Starcia Umiejętnością „Burst Forth the Pulsing Crimson under Your Skin.\", <color=#ff6000><mark=#ff000040><b><u>przez następną turę efekt ten zmienia się w zyskiwanie 2 [Vulnerable]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>za każde trafienie tą jednostki monetą Umiejętności zyskuje 1 Poziomu Obrony</u></b></mark></color> (maks. 20 na turę)\n- na koniec tury Poziom Obrony zdobyty tym efektem wygasa\n- po przegranej Starcia Umiejętnością „Burst Forth the Pulsing Crimson under Your Skin.\", <color=#ff6000><mark=#ff000040><b><u>przez następną turę za każde trafienie monetą Umiejętności traci zamiast tego 1 Poziomu Obrony</u></b></mark></color> (maks. 20; wygasa na koniec tury)",
+      "kr_sha256": "80abd401ce4b3ea3cd1722a74ce73d5c0a8a8d0c99ab4ae04b39a080efabb7f4",
+      "en_sha256": "0b12aebff885bbe010d69e0d371861f223a6791e9c66b9287fea600b03a73b5b",
+      "origin": "ai"
+    },
+    "dataList[id=500703].name": {
+      "pl": "Le Fauvisme - Masque de Loup : Résurgence de la Sauvagerie",
+      "kr_sha256": "79501dcbdaaab485fc77991c26e8201e1937058c6fce62a3b7f59efa70d580fc",
+      "en_sha256": "6e5099c89bbe726bb87fac16a2947f4ae1b6a52ee94000a7e687dba88b6e2f98",
+      "origin": "ai"
+    },
+    "dataList[id=500703].summary": {
+      "pl": "przy otrzymaniu trafienia zyskuje Poziom Obrony\njeżeli jednostka przegrała Starcie określoną Umiejętnością, zamiast tego traci Poziom Obrony",
+      "kr_sha256": "bd8bbdd9782bea2ffe130d100de3b2ac2ff2bc66fbc4798cd602a0e347868637",
+      "en_sha256": "0ff9800f2e71d12461a6b540b8e09dfbb4fc8ce844ed30f08ac9853df726d114",
+      "origin": "ai"
+    },
+    "dataList[id=500704].desc": {
+      "pl": "na koniec walki <color=#ff6000><mark=#ff000040><b><u>nakłada 1 [IntenseColors] w następnej turze</u></b></mark></color> Grzesznikom, którzy jednocześnie mają [BearClawWound], [EagleClawWound] i [BoldBrushstrokes]\n- jeżeli cel ma odpowiednio 3+/6+/9+ [BearClawWound] i [EagleClawWound], zamiast tego nakłada 2/3/4 [IntenseColors] (ilość zależy od efektu z najmniejszą liczbą Stosów)",
+      "kr_sha256": "27bf8cf66a6ce6383a174510b8561400d3a8b6577463345bcee9872acc325ec3",
+      "en_sha256": "5af5f55520b66255523a624152d8d8a2c0b90552466d80a6c397e6bbdb37bdb8",
+      "origin": "ai"
+    },
+    "dataList[id=500704].flavor": {
+      "pl": "Każde zwierzę ma w swojej postaci ukryty cel. A my, les Fauves, obudzimy i wyeksponujemy dzikość tych spośród nich, których nazywamy bestiami.",
+      "kr_sha256": "793c16966acbc6e57b49afe4623ea4be2fbf6e6824e4697c42e68a01ec834eaa",
+      "en_sha256": "37de42dde4631c53cfeb997e97fe85d5b282c1ecda79fc60f7bc062dab869a74",
+      "origin": "ai"
+    },
+    "dataList[id=500704].name": {
+      "pl": "Le Fauvisme - Couleurs Sauvages",
+      "kr_sha256": "146b57ce1070978fc5aff81e926432e4b1b620801a35c8974d72373ffbace978",
+      "en_sha256": "c07f9de3fb84ee0712cd212e7e165033ef206851fa0b8d69a72f443749151672",
+      "origin": "ai"
+    },
+    "dataList[id=500704].summary": {
+      "pl": "Inflict Palette Vibrante",
+      "kr_sha256": "f654cb80c69bd1d479fa77e58e58f9fdf4b5652b5b0e4f40720a0f3c66e36e07",
+      "en_sha256": "4cb3c702e14d311ac53d12a05fb72a83978500dc4a93371679b000c67390178b",
+      "origin": "ai"
+    },
+    "dataList[id=500705].desc": {
+      "pl": "otrzymuje efekty [PanicChangeLock]\nna koniec tury, jeżeli jednostka jest w Panice, ustawia Poczytalność na 45\n\n<color=#ff6000><mark=#ff000040><b><u>przy 35% HP lub mniej</u></b></mark></color>, <color=#ff6000><mark=#ff000040><b><u>[FaubismWolfMask] zmienia się w [FaubismWolfMaskBlooded], a Poczytalność wraca do 45</u></b></mark></color>",
+      "kr_sha256": "40a836f16e11ca4bff15405205df31deea5e67691619458ba612e9a61b0f1809",
+      "en_sha256": "df16789984565529cc9af9ca40cdc02f09374b4b2e851b8b51ceaad383653e42",
+      "origin": "ai"
+    },
+    "dataList[id=500705].name": {
+      "pl": "Le Fauvisme - Maximum Paint Tolerance Dose",
+      "kr_sha256": "bcd7ffb2bbe9ac2cfa30b9c1710ffd3c0de857faf22f094266559f920e4c26ae",
+      "en_sha256": "cd65052d15aa8b66dd53218c39bd18a8da4b8d589bb43c53be7e6b16cc7ed410",
+      "origin": "ai"
+    }
+  }
+}
