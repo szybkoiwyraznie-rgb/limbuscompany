@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=837105].levelList[level=1].name": {
-      "pl": "Parry",
+      "pl": "Paryzacja",
       "kr_sha256": "b0d246d09499bdfd49392b3f3e872d41ada5d49077fecf4f17116e2220f66895",
       "en_sha256": "e5567f841f437ac99989eab2e477ba8eebe7f39bc9b55311bf7037b30444f024",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=837201].levelList[level=1].name": {
-      "pl": "I'll Cut You Up All Pretty!",
+      "pl": "Poszatkuję Cię Pięknie!",
       "kr_sha256": "4948566503162f6d77d2c2145d1c0eb799a2c8cf001370951738eb8f9ff8e3c0",
       "en_sha256": "ce932f14a865863b5b0d0a70eb4c482024c48323c88261f0592c2eb0c5e6cb73",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=837202].levelList[level=1].name": {
-      "pl": "Even Sharper",
+      "pl": "Jeszcze Ostrościej",
       "kr_sha256": "edc903281381e2e830c25a651894279a2cef0d3435438ebd2d6bffbc438e6bf7",
       "en_sha256": "407d810e968379fa0895d97e537d0472cdb78d54631665cc25680a2621933a17",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=837203].levelList[level=1].name": {
-      "pl": "SNIP!!",
+      "pl": "CIACH!!",
       "kr_sha256": "7c78d1ed2ca271ee578319ebca185f373afb4997221667c031ab8fda3ea45731",
       "en_sha256": "92d01bb2220431656f1e05f226fee7a8b548ba48ae44a6e6dba026214ee0ddea",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=837204].levelList[level=1].name": {
-      "pl": "I'll Cut You Up Too!",
+      "pl": "Ciebie Też Poszatkuję!",
       "kr_sha256": "86aa4301e8addb3edc7c072c7c1cc82e348b6619e2c5b810d152e1b4c0cb328e",
       "en_sha256": "0097488586a9644628601eaeb80ddce89f4579e4907d64f2bc73a46a5ae391b6",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=837205].levelList[level=1].name": {
-      "pl": "Now, It's Your Turn",
+      "pl": "Teraz Twoja Kolej",
       "kr_sha256": "3a7b156344e73804e4ef3e771f37a48adbba63ca9cf7a4557eee1294baf60003",
       "en_sha256": "8ccec695445e14d0a9260d4df533d7407278d6f0f96be574135129aa0eb26e1d",
       "origin": "ai"
@@ -379,7 +379,7 @@
       "origin": "ai"
     },
     "dataList[id=837206].levelList[level=1].name": {
-      "pl": "I'll Cut You Together!",
+      "pl": "Poszatkuję Was Wspólnie!",
       "kr_sha256": "b92022340bde9d1cbd4a941824102e5668b1572161c8a48eaab49b59d3ed3923",
       "en_sha256": "868bd1aa3c9d9477ea016de49db4e8d872c5e3f2236cccc3b63972744959c863",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=837207].levelList[level=1].name": {
-      "pl": "How Discourteous!",
+      "pl": "To Niewypada!",
       "kr_sha256": "17d90c7214c715c1817b00a9b3d2f5d16013449d5687fe5f10755d791cbea733",
       "en_sha256": "b036a880829603850caed8c9f09959e67e44e0a7dd392b0d325953fa045fb82b",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=837208].levelList[level=1].name": {
-      "pl": "I Don't Need Ugly Things!!",
+      "pl": "Brzydkie Rzeczy Mi Niepotrzebne!!",
       "kr_sha256": "a00f335d719489f9e6d93deb501c41265d2b06f1ebb904133c618d07f0942f52",
       "en_sha256": "00edc32d8e70507eb4ee32dce7e9d65a1f3b8dbc64999153151b02fd1231fca5",
       "origin": "ai"

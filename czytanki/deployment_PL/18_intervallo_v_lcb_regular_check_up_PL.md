@@ -12,12 +12,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 47).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -37,16 +38,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1111
 
 *Wystąpienia: ×1 (poz. 47).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -66,16 +70,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1112
 
 *Wystąpienia: ×1 (poz. 47).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -95,16 +102,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1113
 
 *Wystąpienia: ×1 (poz. 47).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -124,16 +134,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1114
 
 *Wystąpienia: ×1 (poz. 47).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -153,16 +166,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1115
 
 *Wystąpienia: ×1 (poz. 47).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -181,6 +197,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 ##### Umiejętności
 
 *Brak danych o umiejętnościach.*
+
+**Pasywki:** brak
 
 ### Etap 4 · Hohenheim
 
@@ -215,17 +233,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -254,19 +274,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -277,6 +297,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 1089
 
@@ -305,17 +327,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 1091
 
@@ -344,17 +368,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 1096
 
@@ -389,11 +415,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 1094
 
@@ -428,11 +456,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 5 · Asystentka
 
@@ -465,17 +495,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -504,19 +536,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -527,6 +559,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 1089
 
@@ -555,17 +589,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 6 · Bezcelowy Gniew
 
@@ -600,17 +636,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -639,19 +677,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -662,6 +700,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae?? — id 1085
 
@@ -688,29 +728,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Impaling — id 816101
+##### Umiejętność: Kolejne Sztychy — id 816101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hewing — id 816102
+##### Umiejętność: Rąbanie — id 816102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Erupting Wrath — id 816103
+##### Umiejętność: Erupcja Wściekłości — id 816103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 816104
+##### Umiejętność: Kontra — id 816104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          6 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 7 · Bezładne Lenistwo
 
@@ -745,17 +787,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pigritiae? — id 1087
 
@@ -782,29 +826,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grasp — id 815901
+##### Umiejętność: Chwyt — id 815901
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Piling Rocks — id 815902
+##### Umiejętność: Układanie Kamieni — id 815902
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Slothful Press — id 815903
+##### Umiejętność: Leniwy Zgniot — id 815903
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Guard — id 815904
+##### Umiejętność: Garda — id 815904
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pigritiae?? — id 1088
 
@@ -833,29 +879,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Stoneshower — id 108001
+##### Umiejętność: Kamienna Kąpiel — id 108001
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Gather Stones — id 108002
+##### Umiejętność: Zbieranie Kamieni — id 108002
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rising Sloth — id 108003
+##### Umiejętność: Wzrastające Lenistwo — id 108003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Guard — id 108004
+##### Umiejętność: Garda — id 108004
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 8 · Dobrowolne Zatonięcie
 
@@ -890,17 +938,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 1091
 
@@ -929,17 +979,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gulae? — id 1090
 
@@ -966,29 +1018,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Maul — id 816001
+##### Umiejętność: Rozszarpanie — id 816001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Devouring — id 816002
+##### Umiejętność: Czas Na Żarcie — id 816002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ravenous Devouring — id 816003
+##### Umiejętność: Zarłaczna Uczta — id 816003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Counter — id 816004
+##### Umiejętność: Kontra — id 816004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis? — id 1092
 
@@ -1017,19 +1071,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Leap In — id 815201
+##### Umiejętność: Wpadnięcie — id 815201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Snap At — id 815202
+##### Umiejętność: Zgryzienie — id 815202
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Water Bomb — id 815203
+##### Umiejętność: Wodna Bomba — id 815203
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1040,6 +1094,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis?? — id 1081
 
@@ -1068,29 +1124,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Decay Collission — id 108101
+##### Umiejętność: Zderzenie Rozkładu — id 108101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Torrent — id 108102
+##### Umiejętność: Nawał Wody — id 108102
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Cascading Gloom — id 108103
+##### Umiejętność: Kaskada Posępności — id 108103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Evade — id 108104
+##### Umiejętność: Unik — id 108104
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          3 |        +12 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 9 · Stępiony Harpun
 
@@ -1130,11 +1188,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 1094
 
@@ -1169,11 +1229,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Luxuriae? — id 1095
 
@@ -1202,29 +1264,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pin Down — id 837301
+##### Umiejętność: Przygniecenie — id 837301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Impaled Desire — id 837302
+##### Umiejętność: Przebite Pożądanie — id 837302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Repressed Desire — id 837303
+##### Umiejętność: Stłumione Pożądanie — id 837303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Guard — id 837304
+##### Umiejętność: Garda — id 837304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Superbiae? — id 1097
 
@@ -1253,29 +1317,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 837401
+##### Umiejętność: Mielenie — id 837401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Crush — id 837402
+##### Umiejętność: Rozgniotenie — id 837402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Prideful Crush — id 837403
+##### Umiejętność: Dumny Zgniot — id 837403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Counter — id 837404
+##### Umiejętność: Kontra — id 837404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 10 · Ukłucie
 
@@ -1286,12 +1352,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1319,12 +1386,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1352,12 +1420,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1385,12 +1454,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1422,13 +1492,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 383 (+26,43 za poziom) |
-| Sloty akcji | start: 1 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 383 (+26,43 za poziom)                         |
+| Sloty akcji  | start: 1 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Przebudzona Euforia Rzezi                      |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Co Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]; skuteczność SP +2
+**Efekt Paniki:** Początek Tury: zyskaj 6 [Wzrost Poziomu Obrony] oraz 3 [Wzrost Poziomu Ataku] w następnej turze
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -1445,7 +1519,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Topple — id 107901
+##### Umiejętność: Powalenie — id 107901
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1469,13 +1543,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Variant Don Quixote Style: Sancho Arts 4 - Track — id 107905
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie — id 107905
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Variant Don Quixote Style: Sancho Arts 3 - Ambush — id 107906
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka — id 107906
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1499,6 +1573,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         20 |        +14 |      1 |    6 |
 
+**Pasywki:** *(wpisy id: 107904 — brak danych lokalizacji)*
+
 ## Część: Część `91-24`
 
 ### Etap 1 · Zbieranie Danych
@@ -1509,12 +1585,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1534,16 +1611,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1111
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1563,16 +1643,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1112
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1592,16 +1675,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1113
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1621,16 +1707,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1114
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1650,16 +1739,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Peccatulum Invidiae — id 1115
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -1678,6 +1770,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 ##### Umiejętności
 
 *Brak danych o umiejętnościach.*
+
+**Pasywki:** brak
 
 ### Etap 4 · Hohenheim
 
@@ -1712,17 +1806,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -1751,19 +1847,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1774,6 +1870,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 1089
 
@@ -1802,17 +1900,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 1091
 
@@ -1841,17 +1941,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 1096
 
@@ -1886,11 +1988,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 1094
 
@@ -1925,11 +2029,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 5 · Asystentka
 
@@ -1962,17 +2068,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -2001,19 +2109,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2024,6 +2132,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 1089
 
@@ -2052,17 +2162,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 6 · Bezcelowy Gniew
 
@@ -2097,17 +2209,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -2136,19 +2250,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2159,6 +2273,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae?? — id 1085
 
@@ -2185,29 +2301,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Impaling — id 816101
+##### Umiejętność: Kolejne Sztychy — id 816101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hewing — id 816102
+##### Umiejętność: Rąbanie — id 816102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Erupting Wrath — id 816103
+##### Umiejętność: Erupcja Wściekłości — id 816103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 816104
+##### Umiejętność: Kontra — id 816104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          6 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 7 · Bezładne Lenistwo
 
@@ -2242,17 +2360,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pigritiae? — id 1087
 
@@ -2279,29 +2399,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grasp — id 815901
+##### Umiejętność: Chwyt — id 815901
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Piling Rocks — id 815902
+##### Umiejętność: Układanie Kamieni — id 815902
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Slothful Press — id 815903
+##### Umiejętność: Leniwy Zgniot — id 815903
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Guard — id 815904
+##### Umiejętność: Garda — id 815904
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pigritiae?? — id 1088
 
@@ -2330,29 +2452,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Stoneshower — id 108001
+##### Umiejętność: Kamienna Kąpiel — id 108001
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Gather Stones — id 108002
+##### Umiejętność: Zbieranie Kamieni — id 108002
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rising Sloth — id 108003
+##### Umiejętność: Wzrastające Lenistwo — id 108003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Guard — id 108004
+##### Umiejętność: Garda — id 108004
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 8 · Dobrowolne Zatonięcie
 
@@ -2387,17 +2511,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 1091
 
@@ -2426,17 +2552,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gulae? — id 1090
 
@@ -2463,29 +2591,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Maul — id 816001
+##### Umiejętność: Rozszarpanie — id 816001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Devouring — id 816002
+##### Umiejętność: Czas Na Żarcie — id 816002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ravenous Devouring — id 816003
+##### Umiejętność: Zarłaczna Uczta — id 816003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Counter — id 816004
+##### Umiejętność: Kontra — id 816004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis? — id 1092
 
@@ -2514,19 +2644,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Leap In — id 815201
+##### Umiejętność: Wpadnięcie — id 815201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Snap At — id 815202
+##### Umiejętność: Zgryzienie — id 815202
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Water Bomb — id 815203
+##### Umiejętność: Wodna Bomba — id 815203
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2537,6 +2667,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis?? — id 1081
 
@@ -2565,29 +2697,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Decay Collission — id 108101
+##### Umiejętność: Zderzenie Rozkładu — id 108101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Torrent — id 108102
+##### Umiejętność: Nawał Wody — id 108102
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Cascading Gloom — id 108103
+##### Umiejętność: Kaskada Posępności — id 108103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Evade — id 108104
+##### Umiejętność: Unik — id 108104
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          3 |        +12 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 9 · Stępiony Harpun
 
@@ -2627,11 +2761,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 1094
 
@@ -2666,11 +2802,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Luxuriae? — id 1095
 
@@ -2699,29 +2837,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pin Down — id 837301
+##### Umiejętność: Przygniecenie — id 837301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Impaled Desire — id 837302
+##### Umiejętność: Przebite Pożądanie — id 837302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Repressed Desire — id 837303
+##### Umiejętność: Stłumione Pożądanie — id 837303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Guard — id 837304
+##### Umiejętność: Garda — id 837304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Superbiae? — id 1097
 
@@ -2750,29 +2890,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 837401
+##### Umiejętność: Mielenie — id 837401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Crush — id 837402
+##### Umiejętność: Rozgniotenie — id 837402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Prideful Crush — id 837403
+##### Umiejętność: Dumny Zgniot — id 837403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Counter — id 837404
+##### Umiejętność: Kontra — id 837404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 10 · Ukłucie
 
@@ -2783,12 +2925,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2816,12 +2959,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2849,12 +2993,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2882,12 +3027,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | — (+— za poziom)      |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | — (+— za poziom)                               |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -46 · Panika przy SP -46 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
 *Opis:* Korpus
 
@@ -2919,13 +3065,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 383 (+26,43 za poziom) |
-| Sloty akcji | start: 1 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 383 (+26,43 za poziom)                         |
+| Sloty akcji  | start: 1 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Przebudzona Euforia Rzezi                      |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Co Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]; skuteczność SP +2
+**Efekt Paniki:** Początek Tury: zyskaj 6 [Wzrost Poziomu Obrony] oraz 3 [Wzrost Poziomu Ataku] w następnej turze
 *Opis:* Korpus
 
 **Części (anatomia):**
@@ -2942,7 +3092,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Topple — id 107901
+##### Umiejętność: Powalenie — id 107901
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2966,13 +3116,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Variant Don Quixote Style: Sancho Arts 4 - Track — id 107905
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie — id 107905
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Variant Don Quixote Style: Sancho Arts 3 - Ambush — id 107906
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka — id 107906
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2995,3 +3145,5 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         20 |        +14 |      1 |    6 |
+
+**Pasywki:** *(wpisy id: 138904 — brak danych lokalizacji)*

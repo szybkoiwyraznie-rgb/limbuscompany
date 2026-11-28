@@ -20,8 +20,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka — id 9000401
@@ -29,6 +33,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Ostry Chuligan — id 90005
 
@@ -41,8 +47,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie — id 9000501
@@ -50,6 +60,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Wygłodniały Chuligan — id 90006
 
@@ -62,8 +74,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie — id 9000601
@@ -71,6 +87,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 1-2 · Pora tańca
 
@@ -80,58 +98,76 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 5–5                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 5–5                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902201 — id 9902201
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Nieudolna Rąbanka — id 9902201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ostry Chuligan — id 99023
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 4–4                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 4–4                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902301 — id 9902301
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Skolcone Pchnięcie — id 9902301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Wygłodniały Chuligan — id 99026
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 1–1                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 1–1                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902601 — id 9902601
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Słabiutkie Uderzenie — id 9902601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 1-3 · Pokład autobusu
 
@@ -149,8 +185,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka — id 9000401
@@ -158,6 +198,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Wygłodniały Chuligan — id 90006
 
@@ -170,8 +212,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie — id 9000601
@@ -179,6 +225,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 1-4 · Enkefalina
 
@@ -196,8 +244,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka — id 9000401
@@ -205,6 +257,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Ostry Chuligan — id 90005
 
@@ -217,8 +271,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie — id 9000501
@@ -226,6 +284,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Wygłodniały Chuligan — id 90006
 
@@ -238,8 +298,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie — id 9000601
@@ -247,6 +311,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Chuligan z Wielkim Łbem — id 90007
 
@@ -259,8 +325,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3) — id 9000701
@@ -280,6 +350,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 1-5 · Yuri
 
@@ -297,8 +369,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka — id 9000401
@@ -306,6 +382,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Ostry Chuligan — id 90005
 
@@ -318,8 +396,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie — id 9000501
@@ -327,6 +409,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Wygłodniały Chuligan — id 90006
 
@@ -339,8 +423,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie — id 9000601
@@ -348,6 +436,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Chuligan z Wielkim Łbem — id 90007
 
@@ -360,8 +450,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3) — id 9000701
@@ -382,6 +476,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Obdarty Rozbity Żołnierz — id 90010
 
 *Wystąpienia: ×1 (poz. 3).*
@@ -393,8 +489,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–6                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 50%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2) — id 9001001
@@ -408,6 +508,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 1-6 · Mapa
 
@@ -425,8 +527,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie — id 9000501
@@ -434,6 +540,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Wygłodniały Chuligan — id 90006
 
@@ -446,8 +554,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie — id 9000601
@@ -455,6 +567,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Chuligan z Wielkim Łbem — id 90007
 
@@ -467,8 +581,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3) — id 9000701
@@ -489,6 +607,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Zakłopotany Rozbity Żołnierz — id 90009
 
 *Wystąpienia: ×1 (poz. 3).*
@@ -500,8 +620,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3) — id 9000901
@@ -509,6 +633,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Obdarty Rozbity Żołnierz — id 90010
 
@@ -521,8 +647,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–6                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 50%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2) — id 9001001
@@ -537,6 +667,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 1-7 · Trójka
 
 - **Fala 1:** Chuligan Liczący Liczby ×2 (poz. 4); Ostry Chuligan ×1 (poz. 4); Chuligan z Wielkim Łbem ×1 (poz. 4); Wygłodniały Chuligan ×1 (poz. 4)
@@ -545,77 +677,101 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×2 (poz. 4).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 5–5                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 5–5                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902201 — id 9902201
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Nieudolna Rąbanka — id 9902201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ostry Chuligan — id 99023
 
 *Wystąpienia: ×1 (poz. 4).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 4–4                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 4–4                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902301 — id 9902301
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Skolcone Pchnięcie — id 9902301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Chuligan z Wielkim Łbem — id 99024
 
 *Wystąpienia: ×1 (poz. 4).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 3–3                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 3–3                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902401 — id 9902401
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Ciężkie Uderzenie — id 9902401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         13 |         +0 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Wygłodniały Chuligan — id 99026
 
 *Wystąpienia: ×1 (poz. 4).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 1–1                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 1–1                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902601 — id 9902601
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Słabiutkie Uderzenie — id 9902601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 1-8 · Szkodniki
 
@@ -632,8 +788,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3) — id 9000901
@@ -641,6 +801,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Obdarty Rozbity Żołnierz — id 90010
 
@@ -653,8 +815,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–6                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 50%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2) — id 9001001
@@ -669,6 +835,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +7 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Podły Rozbity Żołnierz — id 90011
 
 *Wystąpienia: ×3 (poz. 4) · też jako wsparcie.*
@@ -680,8 +848,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3) — id 9001101
@@ -709,8 +881,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3) — id 9000801
@@ -718,6 +894,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Zakłopotany Rozbity Żołnierz — id 90009
 
@@ -730,8 +908,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3) — id 9000901
@@ -739,6 +921,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Brudnojęzyczny Rozbity Żołnierz — id 90012
 
@@ -751,8 +935,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3) — id 9001201
@@ -782,8 +970,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–6                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 50%                                              |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2) — id 9001301
@@ -813,8 +1005,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3) — id 9001101
@@ -838,8 +1034,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zmiatanie (×3) — id 9000103
@@ -869,8 +1069,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pchnięcie (×3) — id 9000203
@@ -900,8 +1104,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–6                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 50%                                              |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×2) — id 9000303
@@ -952,11 +1160,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble — id 800501
+##### Umiejętność: Bite — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 1143
 
@@ -985,11 +1195,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pursue and Bite — id 114301
+##### Umiejętność: Gonicie i Gryzienie — id 114301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 8005
 
@@ -1018,17 +1230,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100102
 
@@ -1061,17 +1275,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 8005
 
@@ -1100,17 +1316,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100103
 
@@ -1143,17 +1361,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 8005
 
@@ -1182,17 +1402,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100104
 
@@ -1225,17 +1447,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Lenistwa — id 8006
 
@@ -1264,17 +1488,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 8007
 
@@ -1303,17 +1529,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100105
 
@@ -1345,17 +1573,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Lunge (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2) — id 800301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Claw — id 800302
+##### Umiejętność: Clawing — id 800302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100106
 
@@ -1387,17 +1617,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Lunge (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2) — id 800301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Claw — id 800302
+##### Umiejętność: Clawing — id 800302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 8007
 
@@ -1426,17 +1658,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100107
 
@@ -1502,41 +1736,43 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Distrust — id 8001001
+##### Umiejętność: Nieufność — id 8001001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Pale Stem (×3) — id 8001002
+##### Umiejętność: Blady Pęd (×3) — id 8001002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Pale Stem (×3) — id 8001003
+##### Umiejętność: Blady Pęd (×3) — id 8001003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Root Spike (×2) — id 8001004
+##### Umiejętność: Korzeniowy Kolec (×2) — id 8001004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Shared Pain — id 8001005
+##### Umiejętność: Wspólny Ból — id 8001005
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +2 |      1 |    5 |
 
-##### Umiejętność: Vain Fruit — id 8001006
+##### Umiejętność: Owoc Marności — id 8001006
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100108
 
@@ -1588,17 +1824,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Lunge (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2) — id 800301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Claw — id 800302
+##### Umiejętność: Clawing — id 800302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Płonąca Lalka z Gliny Zagłady — id 8004
 
@@ -1626,23 +1864,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Belch Fire (×2) — id 800401
+##### Umiejętność: Ziajanie Ogniem (×2) — id 800401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Severe Lunge — id 800402
+##### Umiejętność: Brutalny Sztych — id 800402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: Raw Claw — id 800403
+##### Umiejętność: Bolesne Drapanie — id 800403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100109
 
@@ -1674,19 +1914,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sprout — id 800801
+##### Umiejętność: Kiełkowanie — id 800801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Golden Fruit — id 800802
+##### Umiejętność: Złoty Owoc — id 800802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Solid Gold — id 800803
+##### Umiejętność: Lite Złoto — id 800803
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1727,17 +1967,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 8005
 
@@ -1766,17 +2008,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100111
 
@@ -1809,17 +2053,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 8007
 
@@ -1848,17 +2094,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 100112
 
@@ -1890,14 +2138,16 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Lunge (×2) — id 800301
+##### Umiejętność: Pchnięcie (×2) — id 800301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: Claw — id 800302
+##### Umiejętność: Clawing — id 800302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +3 |      2 |    1 |
+
+**Pasywki:** brak

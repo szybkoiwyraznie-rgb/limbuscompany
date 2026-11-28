@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=600201].levelList[level=1].name": {
-      "pl": "Cloudwalking",
+      "pl": "Kroki po Chmurach",
       "kr_sha256": "3c9b183ad09bd1e3b89b5901afebe26f9c3c443fc8f226a388da202287ee3077",
       "en_sha256": "7ff130b5f2c9552321112d0f82d200b3a2498deaf236bc4f5173920db8f61201",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=600202].levelList[level=1].name": {
-      "pl": "Gloomcloud",
+      "pl": "Posępna Chmura",
       "kr_sha256": "45b43b2c13c1326bda00bd29625fb84090325cdf1b7341b840765bad29708cd2",
       "en_sha256": "f7ecf7c9e65289246bbfea39e61b3da536e270d897f9e680b149c2a668ce0888",
       "origin": "ai"
@@ -343,7 +343,7 @@
       "origin": "ai"
     },
     "dataList[id=600207].levelList[level=1].name": {
-      "pl": "Rend Space [Kurokumo]",
+      "pl": "Cięcie Przestrzeni [Kurokumo]",
       "kr_sha256": "c87f3205cf76b15e7fc1bce7afc656b66b6cd2f08a48d0179db934b3b5a64e4c",
       "en_sha256": "fc481357b93edf0c0126c3aa392381d852afafbfd59d72b32b54635cc14ef0fc",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=600703].levelList[level=1].name": {
-      "pl": "Trash Disposal",
+      "pl": "Wywóz Śmieci",
       "kr_sha256": "400fc1a8c51b370bce7e07d9d325695e67d791f09b1527be62854648354671ad",
       "en_sha256": "789e4608f0e9fde05716fd537e7c495adea26faa55b9e2e82c18e37e486b5492",
       "origin": "ai"
@@ -493,7 +493,7 @@
       "origin": "ai"
     },
     "dataList[id=601101].levelList[level=1].name": {
-      "pl": "Electromotive Pursuit",
+      "pl": "Elektromotoryczny Pościg",
       "kr_sha256": "e6e3c1eec2b55ad04cd195441b52959a0747a880a319d7145b57862a78f855eb",
       "en_sha256": "078590f9026b057bb7adbba0c74d9ab9f7906e315f822c0fc4420da759174bf7",
       "origin": "ai"
@@ -511,7 +511,7 @@
       "origin": "ai"
     },
     "dataList[id=601102].levelList[level=1].name": {
-      "pl": "Lightning Rod",
+      "pl": "Piorunochron",
       "kr_sha256": "27d465063232a608d3acae920052946de5c4128135cd956476c204e7c0e86dc1",
       "en_sha256": "5d907e09f9c22fec429d7e0e83ddf443cd4f6d0204328c3d7203456032a48dab",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=601103].levelList[level=1].name": {
-      "pl": "Red Bolts",
+      "pl": "Czerwone Pociski",
       "kr_sha256": "8bc9b7a77c2f2bc9ccb8cb74b0d235b3798b79664959b9df9573ee962066e7f8",
       "en_sha256": "db3d6c8d4580a48c4b6d3aa596399c183a478a401d41fac32c1e0529fa5111e3",
       "origin": "ai"

@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=811301].levelList[level=1].name": {
-      "pl": "Be The Joy",
+      "pl": "Bądź Radością",
       "kr_sha256": "620e46e021ec8e6b1d028efa01a86a8288bb6e748d9f992a51e46aae37d56868",
       "en_sha256": "74ca44d0bf775cf267701dc4c2099e754fd764f8905d28c74f6df0a70a485f5e",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=811302].levelList[level=1].name": {
-      "pl": "Be The Comfort",
+      "pl": "Bądź Ukojeniem",
       "kr_sha256": "c69a01e3f445d12176e2899525458bc1c068342c3e7dbbb1f89ed23012cd0038",
       "en_sha256": "bcb47f328fb3b064a296fdea87730115e37fbe83a5663df6b543e29e535e0187",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=811303].levelList[level=1].name": {
-      "pl": "Here's a Gift",
+      "pl": "Prezent od Mnie",
       "kr_sha256": "7429e29b6e80fef363b446d600099dd7775386765e6f735c55a499ba897193c9",
       "en_sha256": "be94155b4ea8ed2ba7ef249fd174dc1a4ee45455952b5aaff0f45d9c31de1da4",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=811304].levelList[level=1].name": {
-      "pl": "Let's Get Packing",
+      "pl": "Pakuję",
       "kr_sha256": "f0a2b40c19e206f38cbf47bf8330575a9efb149685c4c9e27f91d8602865d7b4",
       "en_sha256": "e8a3771287d4a74ecadc7604ac9f4875c2f2927e264f76f7d489b3dbcc3456aa",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=811305].levelList[level=1].name": {
-      "pl": "Time to Get Boxed",
+      "pl": "Czas Zapakować Prezent",
       "kr_sha256": "cc7ed054279cce2170bfec8ae4a6504bfd51f22a6a1b277f77bcab8115fe3927",
       "en_sha256": "1e59bd8c6e5b202cba79be5e32e49079238ae9ffff0bb2ee2953d58af7e83fb4",
       "origin": "ai"

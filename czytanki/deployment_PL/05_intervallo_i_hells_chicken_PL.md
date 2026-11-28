@@ -19,8 +19,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 45%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                 |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrii (×4) — id 9004201
@@ -61,8 +65,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 45%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                 |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrii (×4) — id 9004201
@@ -99,8 +107,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 45%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                 |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skriik (×4) — id 9004301
@@ -137,8 +149,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 50%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                 |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrik! (×4) — id 9004401
@@ -175,8 +191,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                 |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skrikiik (×4) — id 9004501

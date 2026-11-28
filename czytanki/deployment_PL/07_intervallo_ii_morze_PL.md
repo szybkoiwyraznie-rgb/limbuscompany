@@ -19,6 +19,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -29,7 +30,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -41,13 +42,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007704
+##### Umiejętność: Pienienie — id 9007704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007705
+##### Umiejętność: Pustelnik — id 9007705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -70,6 +71,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -80,7 +82,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -92,13 +94,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007804
+##### Umiejętność: Pienienie — id 9007804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007805
+##### Umiejętność: Pustelnik — id 9007805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -121,6 +123,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -131,7 +134,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -143,13 +146,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007904
+##### Umiejętność: Pienienie — id 9007904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007905
+##### Umiejętność: Pustelnik — id 9007905
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -176,6 +179,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -186,7 +190,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -198,13 +202,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007704
+##### Umiejętność: Pienienie — id 9007704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007705
+##### Umiejętność: Pustelnik — id 9007705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -227,6 +231,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -237,7 +242,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -249,13 +254,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007904
+##### Umiejętność: Pienienie — id 9007904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007905
+##### Umiejętność: Pustelnik — id 9007905
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -282,6 +287,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -292,7 +298,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -304,13 +310,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007704
+##### Umiejętność: Pienienie — id 9007704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007705
+##### Umiejętność: Pustelnik — id 9007705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -333,6 +339,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -343,7 +350,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -355,13 +362,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007904
+##### Umiejętność: Pienienie — id 9007904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007905
+##### Umiejętność: Pustelnik — id 9007905
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -384,29 +391,30 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 2–4                                                                                                                                                |
 | Sloty akcji        | start: 2/2/2 · maks. 3                                                                                                                             |
 | Progi oszołomienia | 35% / 0%                                                                                                                                           |
+| Typ paniki         | Przytłoczenie                                                                                                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,2; Obżar. ×0,75 (Endured); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Thwack (×3) — id 9008001
+##### Umiejętność: Bęc (×3) — id 9008001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Thwack Thwack Thwack (×2) — id 9008002
+##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9008003
+##### Umiejętność: Pienienie — id 9008003
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    2 |
 
-##### Umiejętność: Delicious Crab Guts! — id 9008004
+##### Umiejętność: Ostrzał Krabiem! — id 9008004
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -439,6 +447,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -449,7 +458,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -461,13 +470,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007704
+##### Umiejętność: Pienienie — id 9007704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007705
+##### Umiejętność: Pustelnik — id 9007705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -490,6 +499,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -500,7 +510,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -512,13 +522,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007804
+##### Umiejętność: Pienienie — id 9007804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007805
+##### Umiejętność: Pustelnik — id 9007805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -545,6 +555,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -555,7 +566,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -567,13 +578,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007804
+##### Umiejętność: Pienienie — id 9007804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007805
+##### Umiejętność: Pustelnik — id 9007805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -596,6 +607,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -606,7 +618,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -618,13 +630,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007904
+##### Umiejętność: Pienienie — id 9007904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007905
+##### Umiejętność: Pustelnik — id 9007905
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -651,6 +663,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -661,7 +674,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -673,13 +686,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007804
+##### Umiejętność: Pienienie — id 9007804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007805
+##### Umiejętność: Pustelnik — id 9007805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -702,6 +715,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 1–4                                                                                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                                    |
 | Progi oszołomienia | 35% / 0%                                                                                                                                                  |
+| Typ paniki         | Przytłoczenie                                                                                                                                             |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,5 (Weak); Obżar. ×0,75 (Endured); Posępność ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -712,7 +726,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -724,13 +738,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007904
+##### Umiejętność: Pienienie — id 9007904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007905
+##### Umiejętność: Pustelnik — id 9007905
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -753,35 +767,36 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | Szybkość           | 2–4                                                                                                                                                |
 | Sloty akcji        | start: 2/2/2 · maks. 3                                                                                                                             |
 | Progi oszołomienia | 35% / 0%                                                                                                                                           |
+| Typ paniki         | Przytłoczenie                                                                                                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Żądza ×0,75 (Endured); Lenistwo ×1,2; Obżar. ×0,75 (Endured); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Thwack (×3) — id 9008101
+##### Umiejętność: Bęc (×3) — id 9008101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Thwack Thwack Thwack (×2) — id 9008102
+##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9008103
+##### Umiejętność: Pienienie — id 9008103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    2 |
 
-##### Umiejętność: Shell Tackle!!! — id 9008104
+##### Umiejętność: Pancerne Tarany!!! — id 9008104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Firing Molted Shell Shot — id 9008105
+##### Umiejętność: Strzał Wylinki — id 9008105
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -833,25 +848,25 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Thwack (×3) — id 9008001
+##### Umiejętność: Bęc (×3) — id 9008001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Thwack Thwack Thwack (×2) — id 9008002
+##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9008003
+##### Umiejętność: Pienienie — id 9008003
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    2 |
 
-##### Umiejętność: Delicious Crab Guts! — id 9008004
+##### Umiejętność: Ostrzał Krabiem! — id 9008004
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -902,7 +917,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -914,13 +929,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007704
+##### Umiejętność: Pienienie — id 9007704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007705
+##### Umiejętność: Pustelnik — id 9007705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -965,7 +980,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -977,13 +992,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007904
+##### Umiejętność: Pienienie — id 9007904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007905
+##### Umiejętność: Pustelnik — id 9007905
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1022,31 +1037,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Thwack (×3) — id 9008101
+##### Umiejętność: Bęc (×3) — id 9008101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Thwack Thwack Thwack (×2) — id 9008102
+##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9008103
+##### Umiejętność: Pienienie — id 9008103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    2 |
 
-##### Umiejętność: Shell Tackle!!! — id 9008104
+##### Umiejętność: Pancerne Tarany!!! — id 9008104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Firing Molted Shell Shot — id 9008105
+##### Umiejętność: Strzał Wylinki — id 9008105
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1098,7 +1113,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1110,13 +1125,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007804
+##### Umiejętność: Pienienie — id 9007804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007805
+##### Umiejętność: Pustelnik — id 9007805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1167,43 +1182,43 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Brutal Pummelling — id 806301
+##### Umiejętność: Brutalne Walicie — id 806301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Powerful! Pummel — id 806302
+##### Umiejętność: Mocne! Bicie — id 806302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +7 |      1 |    3 |
 
-##### Umiejętność: Foaming — id 806303
+##### Umiejętność: Pienienie — id 806303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    5 |
 
-##### Umiejętność: Shell Attack!!! — id 806304
+##### Umiejętność: Atak Pancerzem!!! — id 806304
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +10 |      1 |    5 |
 
-##### Umiejętność: Crab Rave — id 806305
+##### Umiejętność: Krabia Balanga — id 806305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +11 |      1 |    5 |
 
-##### Umiejętność: Foam Armor — id 806306
+##### Umiejętność: Pancerz z Piany — id 806306
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Foam Armor — id 806307
+##### Umiejętność: Pancerz z Piany — id 806307
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1250,25 +1265,25 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Thwack (×3) — id 9008001
+##### Umiejętność: Bęc (×3) — id 9008001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Thwack Thwack Thwack (×2) — id 9008002
+##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9008003
+##### Umiejętność: Pienienie — id 9008003
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    2 |
 
-##### Umiejętność: Delicious Crab Guts! — id 9008004
+##### Umiejętność: Ostrzał Krabiem! — id 9008004
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1319,7 +1334,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007702
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1331,13 +1346,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007704
+##### Umiejętność: Pienienie — id 9007704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007705
+##### Umiejętność: Pustelnik — id 9007705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1382,7 +1397,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007902
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1394,13 +1409,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007904
+##### Umiejętność: Pienienie — id 9007904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007905
+##### Umiejętność: Pustelnik — id 9007905
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1439,31 +1454,31 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Thwack (×3) — id 9008101
+##### Umiejętność: Bęc (×3) — id 9008101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Thwack Thwack Thwack (×2) — id 9008102
+##### Umiejętność: Bęc Bęc Bęc (×2) — id 9008102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9008103
+##### Umiejętność: Pienienie — id 9008103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      2 |    2 |
 
-##### Umiejętność: Shell Tackle!!! — id 9008104
+##### Umiejętność: Pancerne Tarany!!! — id 9008104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Firing Molted Shell Shot — id 9008105
+##### Umiejętność: Strzał Wylinki — id 9008105
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1515,7 +1530,7 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Shell Tackle! (×2) — id 9007802
+##### Umiejętność: Pancerne Tarany! (×2) — id 9007802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1527,13 +1542,13 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Foaming — id 9007804
+##### Umiejętność: Pienienie — id 9007804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    2 |
 
-##### Umiejętność: Hermit Crab — id 9007805
+##### Umiejętność: Pustelnik — id 9007805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1584,43 +1599,43 @@ zabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.
 
 *Opis:* Część
 
-##### Umiejętność: Brutal Pummelling — id 806301
+##### Umiejętność: Brutalne Walicie — id 806301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Powerful! Pummel — id 806302
+##### Umiejętność: Mocne! Bicie — id 806302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +7 |      1 |    3 |
 
-##### Umiejętność: Foaming — id 806303
+##### Umiejętność: Pienienie — id 806303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +4 |      2 |    5 |
 
-##### Umiejętność: Shell Attack!!! — id 806304
+##### Umiejętność: Atak Pancerzem!!! — id 806304
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +10 |      1 |    5 |
 
-##### Umiejętność: Crab Rave — id 806305
+##### Umiejętność: Krabia Balanga — id 806305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |        +11 |      1 |    5 |
 
-##### Umiejętność: Foam Armor — id 806306
+##### Umiejętność: Pancerz z Piany — id 806306
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Foam Armor — id 806307
+##### Umiejętność: Pancerz z Piany — id 806307
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

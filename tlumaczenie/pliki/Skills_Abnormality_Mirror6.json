@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=117501].levelList[level=1].name": {
-      "pl": "Tenacious Wound",
+      "pl": "Uparte Ranienie",
       "kr_sha256": "1c5f5a29b1fa55dfb4cc30805a196e32348f0dc46a63e7ed7b23c38cb1e4bc19",
       "en_sha256": "6b183876fbbe15facc1fccfbd5a54561244226ff91e54ae33f2c8931febcd523",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=117503].levelList[level=1].name": {
-      "pl": "Brambles that Constrict",
+      "pl": "Zwijające się Cierniste Pnącza",
       "kr_sha256": "6c558b797e9797d713ea1ce79ad463c004a67ada06516e54563d29c8206bd5bf",
       "en_sha256": "deb82a92525a79983db9129e5be3c7b1e345a7aac91633632b71acf4e9a04d0f",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=117511].levelList[level=1].name": {
-      "pl": "Polydipsic Petals",
+      "pl": "Spragnione Płatki",
       "kr_sha256": "4cd4ee702c4b2ef7d0e5ea36bb80f5283a08141a3bee156071da9a4b962b0f2e",
       "en_sha256": "b44cde96e569e757d6a4cfbaf4cd9a0ec6c7fa2ed8147ce48a8aa6551b7a3399",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=117512].levelList[level=1].name": {
-      "pl": "Bursting Petals",
+      "pl": "Wybuchające Płatki",
       "kr_sha256": "57361d34e6cb4daac2e04566d96fa7879636e2f3388aab284ebc586a8415a621",
       "en_sha256": "780ad68b7a6e956b8edfc568d9a21f94a250c283fbe403f5af797b2584807bf6",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=117513].levelList[level=1].name": {
-      "pl": "Storm of Spikes",
+      "pl": "Sztorm Kolców",
       "kr_sha256": "cd5c3862374da1a2832e73e833bf3dff36ef79032e0b176022d3349045319a0b",
       "en_sha256": "a89fb50fce1d02e82039f84843c822824c9e8ff549290a98db9823a6d48be6d7",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=117514].levelList[level=1].name": {
-      "pl": "Polydipsic Thorn",
+      "pl": "Spragniony Cierń",
       "kr_sha256": "3043630c82d297af449535712b5842baddcaaf01adaa6e7095a874cc538a559f",
       "en_sha256": "48101e1ce093c8871e9186d3524be946a861ad85301d2b642c750a33dc05dd74",
       "origin": "ai"
@@ -265,7 +265,7 @@
       "origin": "ai"
     },
     "dataList[id=117515].levelList[level=1].name": {
-      "pl": "Endless Spring of Blood",
+      "pl": "Nieskończone Źródło Krwi",
       "kr_sha256": "7ebca5da4a084abc0a3b7fb9dc94a60652241e488bbd7c4e117a1fc7f1425ffe",
       "en_sha256": "323c73a69680c5dc7e2a8e662b875dfde92c98db02e3a0170dd31d21409461dd",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=117516].levelList[level=1].name": {
-      "pl": "Nutrient Craving",
+      "pl": "Pragnienie Pokarmu",
       "kr_sha256": "739462457dcf1065b3f48a2fbe95332c711a32e7cbff75dc2a0e4fd41f093043",
       "en_sha256": "36d7ee0d2d322a2496615e09692b885e4540bdbc02b3c2c3fb246080e0b0e1d9",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=117517].levelList[level=1].name": {
-      "pl": "Brambles that Yearn",
+      "pl": "Pnącza Tęsknoty",
       "kr_sha256": "368560ae20957daac4e00f959b58b7aa7453c18a97a559ea84d9a3b77dd1e25a",
       "en_sha256": "7a4258a3e753e5c3e78a3f6eb0c2f34def62058d7ea8eb684f166758b13c9ff4",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=118308].levelList[level=1].name": {
-      "pl": "Answer Me, Jia Baoyu",
+      "pl": "Odpowiedz Mi, Jia Baoyu",
       "kr_sha256": "3b23d91a34b34af9a1ca84467c24e536c969c832a6c0822b2fb3652d044bf100",
       "en_sha256": "ac67b0deb87368302c50de4838b04c94bcceafef5cea46b028740d348683f9e7",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=118309].levelList[level=1].name": {
-      "pl": "Tiangang Star - Form (格)",
+      "pl": "Gwiazda Tiangan - Forma (格)",
       "kr_sha256": "23ec1ae734cfb7e483094cb36f9b9f8719d2dd2fac402c3d142a8ebcbebe3682",
       "en_sha256": "1c8d0a014dee26fd4517a3535f7cd9a256c65b8da46602b8f57ff19331aceec9",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=118310].levelList[level=1].name": {
-      "pl": "Like a Roaring Storm",
+      "pl": "Jak Rycząca Burza",
       "kr_sha256": "8f3939865835b427584716a30e9bb27f8b1b141b035d38f2247c03d04736b523",
       "en_sha256": "184183fc227dac5aed8948bc0db6c77094ab123bf8b5c2f63c2da12f9f8053e0",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=118701].levelList[level=1].name": {
-      "pl": "Precious Jade's Cradle [寶玉搖籃]",
+      "pl": "Kołyska z Klejnotów [寶玉搖籃]",
       "kr_sha256": "41a9362ef93763d407219358bd534f61cfb0345a037cd95c86b7230573c6ef63",
       "en_sha256": "147ff2c8b4e5f2b165a6a8cbeb2deb620ba97ba5a2c77bb56bb47095e02f11a8",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=118703].levelList[level=1].name": {
-      "pl": "You do not know the fathoms of the eye's powers, its special nature",
+      "pl": "Wciąż nie znacie otchłani mocy tego oka, jego wyjątkowości",
       "kr_sha256": "fe210953b5bdc99e3749b352562f9ddf266e661f222bcb4f4b44057148260b12",
       "en_sha256": "bad9ecff642ebb5f10437d240edb8a6e17fc7366bcfe54c3e700715f4b5bdd8f",
       "origin": "ai"
@@ -499,7 +499,7 @@
       "origin": "ai"
     },
     "dataList[id=118704].levelList[level=1].name": {
-      "pl": "Please Watch me, O Xianren...!",
+      "pl": "Proszę, Bądźcie mi świadkami, O Xianren...!",
       "kr_sha256": "1f1be99c06621308f07fe3adb3c5f2955dd60dbe52ac04356ed79a75da7a988e",
       "en_sha256": "fd76256c26831f292f3b6b93db85336b394c9a054591f817af7a0665ed2abc10",
       "origin": "ai"
@@ -541,7 +541,7 @@
       "origin": "ai"
     },
     "dataList[id=118707].levelList[level=1].name": {
-      "pl": "Still, you can do nothing",
+      "pl": "I tak nie możesz nic zrobić",
       "kr_sha256": "6cdce76944a1f33b4bdf266209e4cea2d426e6ec3c2beed6884df2ab4123cc10",
       "en_sha256": "f2a9afccd9d632dc2f372491e770089f71f8533db4dcb664b671120423be72d2",
       "origin": "ai"
@@ -553,7 +553,7 @@
       "origin": "ai"
     },
     "dataList[id=123901].levelList[level=1].name": {
-      "pl": "The Infinite Parade",
+      "pl": "Nieskończony Festiwal",
       "kr_sha256": "4f0aec9c42605419ba74ed1c6f04fdeff572decddd23a8f133fd8dc39ae05680",
       "en_sha256": "2d3533ecc571ea5f133c2cbc9b8d1560990771de0ddcd9757a589553bc3ce4a0",
       "origin": "ai"
@@ -565,7 +565,7 @@
       "origin": "ai"
     },
     "dataList[id=123902].levelList[level=1].name": {
-      "pl": "The Eternal Festival",
+      "pl": "Wieczny Festiwal",
       "kr_sha256": "1e00b01c1454855e6bfcf9c0ec911b8f1573b9d3194cba592d1aa78cac5ac884",
       "en_sha256": "f57eb4ad4b0bb83f80ce73880f1a2fec3b043ee76e5ee1f7d384e25bb92fdc4d",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=124001].levelList[level=1].name": {
-      "pl": "Burning Thirst",
+      "pl": "Palące Pragnienie",
       "kr_sha256": "31dddca6bc822c98fcbbe98bade690cd80d9b1722bbaa1e4ec7fa194df102542",
       "en_sha256": "d6853961c5d5be0b39da8a90d8a336023ac73d289c90cd8261328661f8a16396",
       "origin": "ai"
@@ -613,7 +613,7 @@
       "origin": "ai"
     },
     "dataList[id=124002].levelList[level=1].name": {
-      "pl": "Be Impaled",
+      "pl": "Bądź Nadziany",
       "kr_sha256": "e4dd153af8c7d863015659ff6300cb9144dcab60236c43da919b428fc7c54d1b",
       "en_sha256": "9b1d5f0fb1dd1fa93ee79ca07af51813272ae74ab11b752d28a0d82cec22d9f8",
       "origin": "ai"
@@ -775,7 +775,7 @@
       "origin": "ai"
     },
     "dataList[id=124005].levelList[level=1].name": {
-      "pl": "Desire for Blood",
+      "pl": "Żądza Krwi",
       "kr_sha256": "ad488b0949d712d098717ee9fe9f2dbcc970b8eb574a4387842ab43589584a72",
       "en_sha256": "745929e5fc64de6893ca886b8b89220d1d99a2cb77d3a3ab4c475be3b3af37e8",
       "origin": "ai"
@@ -793,7 +793,7 @@
       "origin": "ai"
     },
     "dataList[id=124006].levelList[level=1].name": {
-      "pl": "Moment of Bloodfeast",
+      "pl": "Czas Uczty Krwi",
       "kr_sha256": "42bd1547735610c4e8d34c818e31d75db2399df9b851219aede0129c8437807e",
       "en_sha256": "7cdf062153bdef15e97f00cdb64713238d9aba6a0040bf1cd1f642916e0cdb1a",
       "origin": "ai"
@@ -865,7 +865,7 @@
       "origin": "ai"
     },
     "dataList[id=124009].levelList[level=1].name": {
-      "pl": "Frail, So Frail",
+      "pl": "Słaby, Ach Słaby",
       "kr_sha256": "3d964f007be15bfddc2d6bd003a00a15ca88a770ba95b0b3c2df3ad09a0c459a",
       "en_sha256": "5c009fc8b376d876a924849b7d6e18bd25289b352af14fcb2b8fc3458f37a93f",
       "origin": "ai"
@@ -931,7 +931,7 @@
       "origin": "ai"
     },
     "dataList[id=124011].levelList[level=1].name": {
-      "pl": "Be Impaled",
+      "pl": "Bądź Nadziany",
       "kr_sha256": "c56c91fe5bd673a4c341fd0c018be57ae9eb78cc1346120c8081f86c353e088d",
       "en_sha256": "9b1d5f0fb1dd1fa93ee79ca07af51813272ae74ab11b752d28a0d82cec22d9f8",
       "origin": "ai"
@@ -1057,7 +1057,7 @@
       "origin": "ai"
     },
     "dataList[id=124105].levelList[level=1].name": {
-      "pl": "Blasting Shatterslash [爆碎斬]",
+      "pl": "Wybuchowe Cięcie Roztrzaskujące [爆碎斬]",
       "kr_sha256": "1251ce910eb228964fe6c71bd4054d6f453318565f6fdcfeac17a0029110639c",
       "en_sha256": "5f00573a709e15de561dc9aaf754ead3275e00eee4f0ffc83a909087aa13f05c",
       "origin": "ai"
@@ -1219,7 +1219,7 @@
       "origin": "ai"
     },
     "dataList[id=124107].levelList[level=1].name": {
-      "pl": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
+      "pl": "Najdziksze Wybuchowe Szaleństwo Rzeźnika Tygrysów [超絕猛虎殺擊亂斬]",
       "kr_sha256": "5320e364e320a5633dd1f78d3128e41fab87b859925829c2ceea08c8f362e59a",
       "en_sha256": "0058a092edee0577598924bad76537f1473659268f8ddb9fbc1858977e0a07e2",
       "origin": "ai"
@@ -1255,7 +1255,7 @@
       "origin": "ai"
     },
     "dataList[id=124201].levelList[level=1].name": {
-      "pl": "Punching",
+      "pl": "Uderzenia Pięścią",
       "kr_sha256": "57992fc3e44c762d91dd8b2186a5de0b4deb8b8d1621e6065551dceb898e7802",
       "en_sha256": "122224098ac978ae16bf5a4224fc0221d6e05be1ca7d4416a697af6745cee37b",
       "origin": "ai"
@@ -1279,7 +1279,7 @@
       "origin": "ai"
     },
     "dataList[id=124202].levelList[level=1].name": {
-      "pl": "Kicking",
+      "pl": "Kopniak",
       "kr_sha256": "4c25db1ce7c09dd5dc15c846102aeeb788af33cb84035a699202e42e34c89979",
       "en_sha256": "1479215c83d910453c77b6ca61247a90339d553f03076298ebc988efc4dc4f6e",
       "origin": "ai"
@@ -1291,7 +1291,7 @@
       "origin": "ai"
     },
     "dataList[id=124203].levelList[level=1].name": {
-      "pl": "Payback",
+      "pl": "Odwet",
       "kr_sha256": "85daf541fa07a3bb4a30419144bdca0e511091bd1944ed28748afe3a1bd726a4",
       "en_sha256": "debb0b1b8f38af9cc24bd716b46de16bb10ef8b07d196b28c894e0f5327ed986",
       "origin": "ai"
@@ -1321,7 +1321,7 @@
       "origin": "ai"
     },
     "dataList[id=124204].levelList[level=1].name": {
-      "pl": "Watch Your Back!",
+      "pl": "Uważaj na Kark!",
       "kr_sha256": "c5bd9e28ee54691dd3ea9ef67b12d09be8a1f4c3689f691757ef05f0942eea19",
       "en_sha256": "2ad4831aee9851b6b5e8708a9fbef6dbd1411f00fb352fe632605f72b0b7ce0c",
       "origin": "ai"
@@ -1333,7 +1333,7 @@
       "origin": "ai"
     },
     "dataList[id=124205].levelList[level=1].name": {
-      "pl": "Assemble",
+      "pl": "Zbiórka",
       "kr_sha256": "7bcf832aeaf41d3cc77a404f686983b0165f72eeb18034865ad2a5c0c5fae740",
       "en_sha256": "cfc3f8e950bb812b948d85c1d4e52c27c29f6b8faa0b7215577b675f4225aba4",
       "origin": "ai"
@@ -1351,7 +1351,7 @@
       "origin": "ai"
     },
     "dataList[id=124206].levelList[level=1].name": {
-      "pl": "No More Tests",
+      "pl": "Testy Zakończone",
       "kr_sha256": "2c56eb8c9494f9755010b249ca97962c960480456e16ff6db12ed23bfb418815",
       "en_sha256": "0437fe9ac5e72590a7b54f2adfff1dd883f212b0d6d2c4bbb07f18f4695898d6",
       "origin": "ai"
@@ -1387,7 +1387,7 @@
       "origin": "ai"
     },
     "dataList[id=124207].levelList[level=1].name": {
-      "pl": "Promised Suffering",
+      "pl": "Obiecane Cierpienie",
       "kr_sha256": "0b51554170e237d72d47ce275e16b35c5a635af38321ea52ec385f6a3b67ad84",
       "en_sha256": "18f761b8cb50b282a2c7aa13ea2dba36628f08813a59aab697e4b19daa5a2264",
       "origin": "ai"
@@ -1399,7 +1399,7 @@
       "origin": "ai"
     },
     "dataList[id=124208].levelList[level=1].name": {
-      "pl": "Enough games",
+      "pl": "Zabawa się Skończyła",
       "kr_sha256": "0516751cf716cf2ed8134682f8c114f09536db9eb44b1a2260905925aec7089b",
       "en_sha256": "82fa1baecd5e96f36a044b6ec9ad37457693b34fad5d6ec91a86b0711d1e1acc",
       "origin": "ai"
@@ -1423,7 +1423,7 @@
       "origin": "ai"
     },
     "dataList[id=124209].levelList[level=1].name": {
-      "pl": "COMPLETE AND TOTAL EXTERMINATION!!!",
+      "pl": "WSZYSCY — DO EKSTERMINACJI!!!",
       "kr_sha256": "4003c8619c1d657283cc99b455afbbcdc03ef44fe178aa24e4f1e504a80070a9",
       "en_sha256": "8e1de781c004c73b55b72c8005bdb5f4962f2fd582fd99d3da477351850e1778",
       "origin": "ai"
@@ -1459,7 +1459,7 @@
       "origin": "ai"
     },
     "dataList[id=124301].levelList[level=1].name": {
-      "pl": "Gimme Candy.",
+      "pl": "Daj Cukierek.",
       "kr_sha256": "683d32678d670bc011d95ed91b1fb099b6f68df5672375a1b5e19b8c91c86d23",
       "en_sha256": "8b173aee375f1fef3405673139eb13cf3cd11783bc85e20d26d45a3b166374ec",
       "origin": "ai"
@@ -1471,7 +1471,7 @@
       "origin": "ai"
     },
     "dataList[id=124302].levelList[level=1].name": {
-      "pl": "No Candy.",
+      "pl": "Nie ma. Cukierka.",
       "kr_sha256": "e140261a673ec84b3d2d34606057bab9486812307ef04b1c62cd0b6e8bb5f82d",
       "en_sha256": "a4713194f7522c2178c11f62f99f6ecf6ae3b42787c8405c20147469cbaa31d6",
       "origin": "ai"
@@ -1495,7 +1495,7 @@
       "origin": "ai"
     },
     "dataList[id=124303].levelList[level=1].name": {
-      "pl": "All of you...",
+      "pl": "Wy wszyscy...",
       "kr_sha256": "a5cd4b36c814e87dd5f34cb61c4339f1b354d5432c0937f36016813968aba510",
       "en_sha256": "e81efb64541535df320dc7faff6cec73894d191615b5ba524b8c4d5d1cefe862",
       "origin": "ai"
@@ -1507,7 +1507,7 @@
       "origin": "ai"
     },
     "dataList[id=124304].levelList[level=1].name": {
-      "pl": "Vroom-Vroom",
+      "pl": "Wru-Wru",
       "kr_sha256": "3341cbe43e528465289d37b966c52bcd9f5bef4b964acd3600e13d4972491f45",
       "en_sha256": "4bb14541b5cb7c31e204a12d3818397c296854cb3cea5a1929c583195f4b9248",
       "origin": "ai"
@@ -1519,7 +1519,7 @@
       "origin": "ai"
     },
     "dataList[id=124305].levelList[level=1].name": {
-      "pl": "Eat. Together.",
+      "pl": "Jedz. Wspólnie.",
       "kr_sha256": "e65bf5cd24edb3fd1eb4046b5a78d83245fe2f4301d2f9e8ab3532d70fa47453",
       "en_sha256": "31fd037a354e40d2084a906ef6328c68bc2a77b337d0d490bd71dac19b7970ac",
       "origin": "ai"

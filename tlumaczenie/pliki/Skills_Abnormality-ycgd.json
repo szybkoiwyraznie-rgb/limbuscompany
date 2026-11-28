@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=815101].levelList[level=1].name": {
-      "pl": "Plunge In",
+      "pl": "Wbicie",
       "kr_sha256": "92fb0c209941b125efdc8142ff948181404c0f26cc12e0e075020c4003d28f59",
       "en_sha256": "fdbcce10bb64e78278fa01ea32ceef3c85079a4356ad7861441ef199eca1252f",
       "origin": "ai"
@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=815102].levelList[level=1].name": {
-      "pl": "Tail Whisk",
+      "pl": "Bicz Ogonem",
       "kr_sha256": "cb42108e99ee13e68fd6ede1a82c57ed915775da213e6dd5279c16504a0627ac",
       "en_sha256": "032b86c554fe85ae206596c237763df5ba5448163fca0708206d2cbb5057f814",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=815103].levelList[level=1].name": {
-      "pl": "Blow in Breath",
+      "pl": "Wdmuchnięcie Tchnienia",
       "kr_sha256": "ef7a7c58c065bd5ec76410951523edb8a4f2a0eae2200a34ba6919066d817e9b",
       "en_sha256": "4cab7fd4a16d3ea38ab295d31c28adfaf9a240bca2cef989e44ded22680214d2",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=815201].levelList[level=1].name": {
-      "pl": "Leap In",
+      "pl": "Wpadnięcie",
       "kr_sha256": "5d9c6c751f037bad358bef26affb2892ed251c8823817770bd42dcb4c10fc580",
       "en_sha256": "74300134a107a4a069f0b800f46a06e330a86be7daac8d7740d944cc1f8ae325",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=815202].levelList[level=1].name": {
-      "pl": "Snap At",
+      "pl": "Zgryzienie",
       "kr_sha256": "0673d9b05eab5e3a81bed492ebd6c6f245bb8db8c574b52c1509691a4d75d051",
       "en_sha256": "47cd91d6d8bba3819f26df8f70e249b39dc8933036b3f6849d4007aa81cc7fa7",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=815203].levelList[level=1].name": {
-      "pl": "Water Bomb",
+      "pl": "Wodna Bomba",
       "kr_sha256": "b3574b7e1ac1dd19ed4024f7a414e18cb9f1b9bc2e041ea0a9974b09fa76cead",
       "en_sha256": "db9b18ee60649063efec0457e63e8a8901fe75fc8e67d5010673aabfba9e8434",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=815302].levelList[level=1].name": {
-      "pl": "Paralyzer",
+      "pl": "Paraliżer",
       "kr_sha256": "324042f5f59ff749bd003527aa8db279bb8b951a4f44beafd2a60516fa0964a5",
       "en_sha256": "a14057f0214bae7282a0401f40fa85a184b8bc008dfec0c6a80630e8927934ab",
       "origin": "ai"
@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=815304].levelList[level=1].name": {
-      "pl": "Overthrow",
+      "pl": "Obalenie",
       "kr_sha256": "33f981dbc5d4b55125c3438cc18155e82756c9ed9a79dacb68fbbc4dab7f46de",
       "en_sha256": "d3b5249ceee7a323d32abd57f63205618fbba48fbde71cc1b871802bbf6f0ddd",
       "origin": "ai"
@@ -373,7 +373,7 @@
       "origin": "ai"
     },
     "dataList[id=815307].levelList[level=1].name": {
-      "pl": "Yield My Flesh",
+      "pl": "Oddam Ciało",
       "kr_sha256": "d944fcaef320d3d7fe1dff98413f36a7bc465c43fdebcb234ed1718cbbdb2034",
       "en_sha256": "880b673d55bd2fb9e2ee3b4ad59e152f564c0d214c001f360a94871c7cf654b0",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=815408].levelList[level=1].name": {
-      "pl": "Blade Dance",
+      "pl": "Taniec Klingi",
       "kr_sha256": "bdd3dcd95e4961d3f3645f0dc3776cda437cd3af7217161704f6c2f6a0eeefdb",
       "en_sha256": "d2f6facf21cd28d0a109a216d4c4288d1b2cc6d08016aae335c9538012108c7f",
       "origin": "ai"

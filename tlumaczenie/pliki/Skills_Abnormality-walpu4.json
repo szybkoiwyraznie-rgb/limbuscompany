@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=836301].levelList[level=1].name": {
-      "pl": "Understanding",
+      "pl": "Zrozumienie",
       "kr_sha256": "da2995a8c183c1cabd41954740ecd5db28218079d148e888b12055c20562be2c",
       "en_sha256": "6bec5244819cfbe8df72d47698b8acd3181c92af1045e733d8d76811ac659795",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=836302].levelList[level=1].name": {
-      "pl": "Perception",
+      "pl": "Percepcja",
       "kr_sha256": "d60b48313e5c7a459cb9d9f3c22de791b7ff5414c06dee7c4a70cad47375aafc",
       "en_sha256": "bd18e320a6bb9f539bf38e7c789035e1da2897d310fd54fc9c868f2365d776c7",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=836303].levelList[level=1].name": {
-      "pl": "Salvation",
+      "pl": "Zbawienie",
       "kr_sha256": "7545ea04e45a19d1ab5a68fb7f92078d2e11ea54028294bc0379ba51cb5623ae",
       "en_sha256": "9b60e05640e9ed1f5da8b5ed8092d3b6c23ba57cdb7c4cd667386209b3930a03",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=836304].levelList[level=1].name": {
-      "pl": "What is Incomprehensible",
+      "pl": "To, Czego Nie Zrozumieć",
       "kr_sha256": "6f434d330ac242377d12ba80be7f544bfa1a54d8b7f269cd6068fc198420ccf3",
       "en_sha256": "52b263512dc880e9f1fd02ed9fef71a64b433964a1144a4ace5d3746c66431b7",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=836305].levelList[level=1].name": {
-      "pl": "Decay",
+      "pl": "Rozkład",
       "kr_sha256": "a28cfc3e381319b2816b32fecfde1ed4e06b3814e10fd6aaba6f27a6aac8588b",
       "en_sha256": "e4a3905e56d1f25bf92e4e8d2c3aafc77271397691df3762dcddbfa16ccb3d43",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=836601].levelList[level=1].name": {
-      "pl": "Mercy",
+      "pl": "Łaska",
       "kr_sha256": "8708138b7c1e65694aaba9f9f77c49495966245d31c57f80b7c3f295c49727a5",
       "en_sha256": "103111bf115232fe7b9bca9e4401d0b07eadafc06f4fef89568f88020de7f2ab",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=836602].levelList[level=1].name": {
-      "pl": "Love",
+      "pl": "Miłość",
       "kr_sha256": "ff2763f11c21f16783f8f382446808c669914af759bebf01281536877bfb1366",
       "en_sha256": "9f4024faec10ef6d29aa32d7935d94b1a816fd4fe0359fbf12d49d44b5ff33b8",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=836603].levelList[level=1].name": {
-      "pl": "Flickering Glyphs of Understanding",
+      "pl": "Migoczące Glify Zrozumienia",
       "kr_sha256": "8cef6c98322b775bb7e5b44a736b4cdabc410648668dfcc2259f4528f5376f92",
       "en_sha256": "cc68db803fb4140f4fee87931d5e4bd6c69c0445b642abba369c3d1efa20982d",
       "origin": "ai"
@@ -193,7 +193,7 @@
       "origin": "ai"
     },
     "dataList[id=836604].levelList[level=1].name": {
-      "pl": "Flickering Glyphs of Understanding",
+      "pl": "Migoczące Glify Zrozumienia",
       "kr_sha256": "8cef6c98322b775bb7e5b44a736b4cdabc410648668dfcc2259f4528f5376f92",
       "en_sha256": "cc68db803fb4140f4fee87931d5e4bd6c69c0445b642abba369c3d1efa20982d",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=836605].levelList[level=1].name": {
-      "pl": "What is Incomprehensible",
+      "pl": "To, Czego Nie Zrozumieć",
       "kr_sha256": "6f434d330ac242377d12ba80be7f544bfa1a54d8b7f269cd6068fc198420ccf3",
       "en_sha256": "52b263512dc880e9f1fd02ed9fef71a64b433964a1144a4ace5d3746c66431b7",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=836606].levelList[level=1].name": {
-      "pl": "Rushing Arms of Rest",
+      "pl": "Pędzące Ramiona Odpoczynku",
       "kr_sha256": "b71a711908fd650a8425e6837e50513c731eaa6d7f6e952512c0e0ef06921fb2",
       "en_sha256": "78f4f9374e5e939461f3644e1ffb84ec5fdc3a1b1343fce7f1597c1d91fba405",
       "origin": "ai"

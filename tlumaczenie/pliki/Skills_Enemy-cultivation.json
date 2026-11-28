@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=9021501].levelList[level=1].name": {
-      "pl": "Elongating Palm",
+      "pl": "Rozciągająca Dłoń (伸長手)",
       "kr_sha256": "7242ba71e27788f4164e1cb344ce2a5fbdd825b17c4fc612780dbe157ff0aacc",
       "en_sha256": "368df173e8157902305ed58334fa0926a03593d425a6506781e243c5bc2ccfd1",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=9021502].levelList[level=1].name": {
-      "pl": "Puncturing Serpent Arm",
+      "pl": "Ręka Przebijającego Węża (蛇貫腕)",
       "kr_sha256": "e4369b82ec4bf0d40ac5db555808ffa42997266d879967c4a8eca9ec3708e1b7",
       "en_sha256": "10dbfe9e411eb8f92d187cf8bc09ffc51f05c4c18d434c83d48fb59fcdc28796",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=9021503].levelList[level=1].name": {
-      "pl": "Serpent's Concealed Puncture",
+      "pl": "Wężowe Skryte Przebicie (隱擊貫蛇)",
       "kr_sha256": "ca9dc8dbd0e60167b44e8b9323ba6b00c86027bd22ee5999018d43bdde60126a",
       "en_sha256": "bea319076124cb996bee14f41c56972a960f18f6578b8e6d17906ec394919c17",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=9021504].levelList[level=1].name": {
-      "pl": "Eyeing for a Chance",
+      "pl": "Rozglądanie za Okazją",
       "kr_sha256": "6f885ddd09f393359872e57aec7b1b434b1bf3858d6df70ab0a4246d448208e2",
       "en_sha256": "765e0430a77be07b7a1ef626b6a234545b00db091f46d8dfee4b50b50084de9d",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=9021601].levelList[level=1].name": {
-      "pl": "Elongating Arm",
+      "pl": "Rozciągająca Ręka (伸長腕)",
       "kr_sha256": "ca4470205498a5d1b24c541d6c831560f65891aa9817104d6656b84c780c0aec",
       "en_sha256": "7d11492e7af574abccd8cc7dfc6ee60729197bf11cb07e9e1ef07e7dacc77f8f",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=9021602].levelList[level=1].name": {
-      "pl": "Gnawing Serpent Arm",
+      "pl": "Ręka Gryzącego Węża (蛇噛腕)",
       "kr_sha256": "828196614d4ab9aa197a6f64094e7f3f3f140fe4d88a7de5c7151a26819b952a",
       "en_sha256": "fbfee0d7e49678d48ef802dd321c58381a5bc9ab9c221f3405cede0e87665344",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=9021603].levelList[level=1].name": {
-      "pl": "Serpent's Shadowed Puncture",
+      "pl": "Wężowe Cieniste Przebicie (陰擊貫蛇)",
       "kr_sha256": "68d5d1348105a8961c29191a30e0f74a25fb5f12407d5cc314644ebaa376a3dc",
       "en_sha256": "3061569ec7776d0a08400bc0e94dae45513f9838bb670c00418541f9b1db30b6",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=9021604].levelList[level=1].name": {
-      "pl": "Observe for a Chance",
+      "pl": "Szukam Okazji",
       "kr_sha256": "e9762db711e60aa920b4493b9d909ff166bbcc22c54adb52d103301542da42a9",
       "en_sha256": "8396e411369febb9d7c69342115263605c28fd223028c204b8943ae2c7512da2",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=9102301].levelList[level=1].name": {
-      "pl": "Mutated Elongating Arm",
+      "pl": "Zmutowana Rozciągnięta Ręka (變形伸腕)",
       "kr_sha256": "70724617a98452565a0e9d107052e06ac3860c908dcf80ce33cf26bd8319f807",
       "en_sha256": "93294fcea9356421e242e550b017271306fb7944b093437cf99d85ee810efa5e",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=9102302].levelList[level=1].name": {
-      "pl": "Elongating Serpent Arm",
+      "pl": "Ręka Rozciągającego Węża (蛇伸長腕)",
       "kr_sha256": "fa93d0fd4ad34c2bb86ed5c74ad28065ab239f0019fc8fa5791a420a08293201",
       "en_sha256": "d0ba7139043022585c373365a9b0936f0978d4e4bcf27287ce151e20037847de",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=9102303].levelList[level=1].name": {
-      "pl": "Serpent's Keenlance",
+      "pl": "Wężowy Ostry Kolec (蛇尖貫極)",
       "kr_sha256": "8e5342f90896180a2c680207bf95913c692d58cb617ee2fb2bdf98091f5d40f9",
       "en_sha256": "3f7cec1fa54502bf7dc08850a802c684afe64724663605be11fa438311fbb762",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=9102304].levelList[level=1].name": {
-      "pl": "Wait for a Chance",
+      "pl": "Czekaj na Okazję",
       "kr_sha256": "d5c7b7e0405b930b136133ccd071dac096e91cff14d87e3ac19e838a8e30ad5d",
       "en_sha256": "b3abded90e268a9972a5687922c2ad833313fafccfa5feea3f7defa8ddd6965a",
       "origin": "ai"

@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=132001].levelList[level=1].name": {
-      "pl": "Flame Strike",
+      "pl": "Uderzenie Ogniem",
       "kr_sha256": "b0a74d8ba19c9da26e788bc9260a4b37bf33849bfc6483584efb8ddd1c06bf2e",
       "en_sha256": "5a00094785687f0258a0624d2725165daa71f267fc0605ad10b0c33dc657f168",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=132002].levelList[level=1].name": {
-      "pl": "Ardor Blossom Pinions",
+      "pl": "Skrzydła Rozżarzenia",
       "kr_sha256": "b9ea580b8d55d2513544c7aaab392ce8b3f1b9f9517d953cb446f7b5cac84204",
       "en_sha256": "7e03be260d77b3327d9c65008f62528a845d75c036d50de53e041cd518242be0",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=132003].levelList[level=1].name": {
-      "pl": "Spark",
+      "pl": "Iskra",
       "kr_sha256": "adaaab0aedc42a23d799f41a242b3216c80842e05c043992b995f2600b330951",
       "en_sha256": "529bc3b07127ecb7e53a4dcf1991d9152c24537d919178022b2c42657f79a26b",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=132004].levelList[level=1].name": {
-      "pl": "Dust Explosion",
+      "pl": "Wybuch Pyłu",
       "kr_sha256": "5e4d1716090d9c73dea340b2cdd32be6b0f162c05a4763bccb150d446b97f61d",
       "en_sha256": "e2d4e698a7218c2659a7781aefd76eaf35c682772350bd80ee74d754fc57b627",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=132005].levelList[level=1].name": {
-      "pl": "Ardor Blossom Star",
+      "pl": "Gwiazda Żarzącego Kwiatu",
       "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
       "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=132006].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=132007].levelList[level=1].name": {
-      "pl": "Stoke the Flames",
+      "pl": "Rozdmuchanie Płomieni",
       "kr_sha256": "8dd46e15f1afaea7fba8f2306c8f12c8a6c879c24671c89a62aef7f14f9104da",
       "en_sha256": "efbd16f9756b85a56ac00b47f18887da836742d9a78d122ad370fae6dc91f514",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=132101].levelList[level=1].name": {
-      "pl": "Bite",
+      "pl": "Gryzienie",
       "kr_sha256": "f2a6f92047a8143ff4c57a92c5176f3e3004cf63b2ae696578d330901f3bbc39",
       "en_sha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=132102].levelList[level=1].name": {
-      "pl": "Tail Poke",
+      "pl": "Klu Ogonem",
       "kr_sha256": "a3a2ee8f75f6f824f6d37ca45a14e5bca20ebc8175d6fa7e5b7aec3019034899",
       "en_sha256": "39aa83d60986038d5cde577086957d5973bffcb7ffda946177c69eb107133a1d",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=132103].levelList[level=1].name": {
-      "pl": "Wrapping Coil",
+      "pl": "Owijka",
       "kr_sha256": "689931ea0ee39d6297b3c0029561965270faf346b42c657cfa7d1126a61333bb",
       "en_sha256": "5e36a36fa63c65dd1a7dc167fa9ca70b4ea7982f354cb60967a038aa68fa02da",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=132104].levelList[level=1].name": {
-      "pl": "Electric Load",
+      "pl": "Zalanie Prądem",
       "kr_sha256": "fc2533d3d86786a3fedfe76b6a796d1fb758510c75aaafc90991b8a11b37fd99",
       "en_sha256": "ad4d7115044be0af559fbbb1bfc9d79017ac90586e3f75d7d5f9846dd4b55240",
       "origin": "ai"
@@ -331,7 +331,7 @@
       "origin": "ai"
     },
     "dataList[id=132105].levelList[level=1].name": {
-      "pl": "Electric Release",
+      "pl": "Elektryczny Wyładowywnik",
       "kr_sha256": "777899f2c4d0fe4bf590b6ba4c12e780a626cc9e5b268acc7535fa80e9310a5c",
       "en_sha256": "d43a50ccd66612dad48de0b42b382a7074e2c9c5fb4cd80b834b8e2c2b6e86f9",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=132106].levelList[level=1].name": {
-      "pl": "Electric Discharge",
+      "pl": "Wyładowanie Elektryczne",
       "kr_sha256": "00dbc57d82cc3956ec3739ab5df9012ba7d50ae190c1e6a099dfd95533d90c0c",
       "en_sha256": "f967352e31f62b29c598204580e2198e8358fbe54126b222acc08afd5e567ef4",
       "origin": "ai"
@@ -403,7 +403,7 @@
       "origin": "ai"
     },
     "dataList[id=132107].levelList[level=1].name": {
-      "pl": "High-voltage Electric Discharge",
+      "pl": "Wyładowanie o Wysokim Napięciu",
       "kr_sha256": "acdcfe32d6fdfd42178cb40ea5a678d52b43e9247ef1e061d0b83454775b6b26",
       "en_sha256": "be75e635d997a0ecf525082c2b8943032e56f64fe8da0ff48be8f411bcda49da",
       "origin": "ai"
@@ -415,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=132108].levelList[level=1].name": {
-      "pl": "Coil Up",
+      "pl": "Zwinięcie w Kłębek",
       "kr_sha256": "ade2606cc63e08f2bbe8ed44c0fe49660fdfb0a8d9d57f748b864d632ca946d7",
       "en_sha256": "8271f3bf3fb116047a3d48c8422171f9ccaad3d87b6939be52ce0771395abe09",
       "origin": "ai"
@@ -439,7 +439,7 @@
       "origin": "ai"
     },
     "dataList[id=132109].levelList[level=1].name": {
-      "pl": "Wriggling Head",
+      "pl": "Wiercąca Głowa",
       "kr_sha256": "ec4b39c44c99afa145f86e9a3d404b8a350dd630f3fdba3ce3f058a50273e523",
       "en_sha256": "24a93ae94c3797c46ad42df3ac795405c4578f69ff75cfba5f263bded8d42e40",
       "origin": "ai"
@@ -469,7 +469,7 @@
       "origin": "ai"
     },
     "dataList[id=132110].levelList[level=1].name": {
-      "pl": "Wriggling Tail",
+      "pl": "Wiercący Ogon",
       "kr_sha256": "16aad1d9db70fa1f43ac79ea1b8d78b1771dc9fd4f782f21cf51c608dd6a89e6",
       "en_sha256": "df149127884993e34a36e6883690efe40969a49fbd409b484cdd437c75ea831d",
       "origin": "ai"
@@ -493,7 +493,7 @@
       "origin": "ai"
     },
     "dataList[id=132201].levelList[level=1].name": {
-      "pl": "Twinslash [二連]",
+      "pl": "Bliźniacze Cięcie [二連]",
       "kr_sha256": "6e021a0f3985e0c18ec8152b65b69f7de0dead7a08130bf2e81832f0a47d16a5",
       "en_sha256": "a76f344ca9ec6c337d66baef56248ad201bb1628c4df20dd5a2874eb1c3f247b",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=132202].levelList[level=1].name": {
-      "pl": "Tripleslash [三連]",
+      "pl": "Potrójne Cięcie [三連]",
       "kr_sha256": "f96299fbe92f8d0b289e5e27e05f1639c3f5f29baf36ab4a689c36c453a80104",
       "en_sha256": "2021f00c7fbcfa8f321a316f19b3a1f8b6b87a5713f14ccb81ee19a3ad673b81",
       "origin": "ai"
@@ -565,7 +565,7 @@
       "origin": "ai"
     },
     "dataList[id=132203].levelList[level=1].name": {
-      "pl": "Swift Glimmer [快閃]",
+      "pl": "Rychły Błysk [快閃]",
       "kr_sha256": "bd624a31682a2d3f6d8770c7c36335dc53d50ed74ae01618c45304ff03dc9c21",
       "en_sha256": "92663cf390d8cfe2dcd616d336f8d4ebb5d4b43ecb4df256813b12eaa62647b9",
       "origin": "ai"
@@ -607,7 +607,7 @@
       "origin": "ai"
     },
     "dataList[id=132204].levelList[level=1].name": {
-      "pl": "Formless Cut [無形斬]",
+      "pl": "Bezcielesne Cięcie [無形斬]",
       "kr_sha256": "086f7327f9b35dbd88cdc4b742e096524d7ff2e50b7e943616972f746b56904e",
       "en_sha256": "b4a61c0d6453ca8653291e1b5d37752d64ec553822355a449db5a59e0467cd70",
       "origin": "ai"
@@ -637,7 +637,7 @@
       "origin": "ai"
     },
     "dataList[id=132205].levelList[level=1].name": {
-      "pl": "Rend Space [空間斬]",
+      "pl": "Rozprucie Przestrzeni [空間斬]",
       "kr_sha256": "730d57a47b0042735c61635b3439cc4d2fb27b8433a6add257cb20b44852dcd2",
       "en_sha256": "e97feaa9e66348225017b5d0ab807cd8957cc682b647fe16e84672df8fc95042",
       "origin": "ai"
@@ -649,7 +649,7 @@
       "origin": "ai"
     },
     "dataList[id=132206].levelList[level=1].name": {
-      "pl": "Phantom Step [殘像步]",
+      "pl": "Krok Fantoma [殘像步]",
       "kr_sha256": "cb44d0d93f55f27d0d4601c5e744aff9a59a41aba225e9269c3910d71628235c",
       "en_sha256": "773036fe814bb07c31f277b6b540edb9534b634119164f801f3a6fe02fc64308",
       "origin": "ai"
@@ -667,7 +667,7 @@
       "origin": "ai"
     },
     "dataList[id=132207].levelList[level=1].name": {
-      "pl": "Silent Regard",
+      "pl": "Obserwacja",
       "kr_sha256": "b0e93f1c2082736286360df94e6ae9293074c2fb2988c090f722e55d347dfdcf",
       "en_sha256": "b374328a696f2702d1059c7f7f8e7dfbc5f9c1a82f82af05a80609cf3fc4d748",
       "origin": "ai"
@@ -733,7 +733,7 @@
       "origin": "ai"
     },
     "dataList[id=132209].levelList[level=1].name": {
-      "pl": "Rend Space - String Connection [空間斬-緣]",
+      "pl": "Cięcie Przestrzeni - Powiązanie [空間斬-緣]",
       "kr_sha256": "93bf95535ef5b3b77e7e3b8117a485f3096fcb936f04d3c07d2699336935948e",
       "en_sha256": "85b43e4286535db804d48785cca469dc41f4b4c6f11de8198a345e673c1bfb5d",
       "origin": "ai"
@@ -757,7 +757,7 @@
       "origin": "ai"
     },
     "dataList[id=132501].levelList[level=1].name": {
-      "pl": "Skull Crushing",
+      "pl": "Rozbicie Czaszki",
       "kr_sha256": "0f6d000fabc0ece068a96afaf54f67831b47e0765b7d28ea1bf42030838b3169",
       "en_sha256": "8efedbd30460ccc826ca29fc65ac146da1cea9f58ab0ca50a6bd93582740515d",
       "origin": "ai"
@@ -787,7 +787,7 @@
       "origin": "ai"
     },
     "dataList[id=132502].levelList[level=1].name": {
-      "pl": "Ah, Please be Quiet",
+      "pl": "Proszę o Ciszę",
       "kr_sha256": "3663b5f1dca06b0c928ab5387e2b3c6291517f7f5a6becd0e7929dc31074deca",
       "en_sha256": "a6355370f3c9cf1fb37a68bd8937b928c7c6ae6fa512f65ed33b05f27db8470a",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=132503].levelList[level=1].name": {
-      "pl": "I-I Have to Execute the Prescript Soon...!",
+      "pl": "M-muszę szybko wykonać Z-zlecenie...!",
       "kr_sha256": "cbdc461fc4ad43f1c5688f1e838cff7a2eef665c3067a4beb99c53664571ebbd",
       "en_sha256": "294412afd8cb2da446e40a092ccce2bd377dd7b3ceac630fea5cce9627aef3a1",
       "origin": "ai"
@@ -883,7 +883,7 @@
       "origin": "ai"
     },
     "dataList[id=132504].levelList[level=1].name": {
-      "pl": "Please Don't Resist and just be Crushed to Death",
+      "pl": "Proszę Nie Oporu, daj się Zgnieść",
       "kr_sha256": "6491e44f685f30912021e924f54c4b2b26ad88aadaab905e013b9c0ce8e0d3ee",
       "en_sha256": "38e70c35a476d5d94a23a55d6874b2eb2ddd96b31a394e39d4a7509851f0d19e",
       "origin": "ai"
@@ -907,7 +907,7 @@
       "origin": "ai"
     },
     "dataList[id=132505].levelList[level=1].name": {
-      "pl": "Let These Hands be the Proxy...",
+      "pl": "Niech te dłonie będą zastępstwem…",
       "kr_sha256": "8d8f2b4c6c25ffbeae4ca5fee4e9b9c5d7001d4bf96770d541faf547ad1cde0e",
       "en_sha256": "ab3ac9561d11ed83b96a93020a2185cc865f5796feb0a2be9060ff679d2762a9",
       "origin": "ai"
@@ -937,7 +937,7 @@
       "origin": "ai"
     },
     "dataList[id=132506].levelList[level=1].name": {
-      "pl": "Disembowel, Eviscerate...",
+      "pl": "Wypatroszyć, Wypatroszę...",
       "kr_sha256": "78235c52fb7c57a7e9dd2c6f3739049f6dc211e81a1a3dd9487b499ac350916e",
       "en_sha256": "dd7293b239ad1c6da7b1a8190892b3f6875bb94a36e786a8a430deceb0ca05bb",
       "origin": "ai"
@@ -961,7 +961,7 @@
       "origin": "ai"
     },
     "dataList[id=132507].levelList[level=1].name": {
-      "pl": "Procuration: Engrave",
+      "pl": "Pełnomocnictwo: Wyrycie",
       "kr_sha256": "1c38e2b9ef26147e4e8797a643116112792844f5b9c45f522975ab0e3a338780",
       "en_sha256": "996f17e62fae70b7d5c9a5fcd6ae164fba062baf04b2e015addf85866ebae91b",
       "origin": "ai"
@@ -1021,7 +1021,7 @@
       "origin": "ai"
     },
     "dataList[id=132508].levelList[level=1].name": {
-      "pl": "Procuration: Annihilate",
+      "pl": "Pełnomocnictwo: Zaznaczenie",
       "kr_sha256": "ebfb0e38393b2fe286eb4c54c4fc30678f3fdf59dc47b75e713b8af27174b10a",
       "en_sha256": "5997216546586d34944be0a9e7b2f451c85825c06304bb9b697f9c54a2d87731",
       "origin": "ai"
@@ -1093,7 +1093,7 @@
       "origin": "ai"
     },
     "dataList[id=132509].levelList[level=1].name": {
-      "pl": "Procuration: Annihilation - Mang of Immanent Yearning [本望]",
+      "pl": "Prokura: Zagłada - Mang Ostatecznej Tęsknoty [本望]",
       "kr_sha256": "47bb4d2a4eaa2007c109b91abb9acabd19ede0b3e19a8bcb3c23c76639ed4f03",
       "en_sha256": "c45796f1cefd2b11cdddb42f383c11e62a92faac9a06344d72ad0edd54424ecd",
       "origin": "ai"
@@ -1159,7 +1159,7 @@
       "origin": "ai"
     },
     "dataList[id=877205].levelList[level=1].name": {
-      "pl": "Ardor Blossom Star",
+      "pl": "Gwiazda Żarzącego Kwiatu",
       "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
       "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
       "origin": "ai"
@@ -1177,7 +1177,7 @@
       "origin": "ai"
     },
     "dataList[id=877311].levelList[level=1].name": {
-      "pl": "Envying Roots",
+      "pl": "Zazdrosne Korzenie",
       "kr_sha256": "20c97a5e6ef988ac9842a3daa0b903e1f2c6ddb1b6da49ef051fbe82a75ea0b3",
       "en_sha256": "00995ce79409241257932c9d3016006a838e1f325682bebe47c8730f6d5afc99",
       "origin": "ai"

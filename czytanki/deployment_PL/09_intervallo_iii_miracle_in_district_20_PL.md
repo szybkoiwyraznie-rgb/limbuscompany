@@ -22,23 +22,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 60% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Human-omes! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome — id 9010102
+##### Umiejętność: Złapać Ich-om! — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -60,23 +64,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -98,17 +106,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 50% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome — id 9010302
+##### Umiejętność: Ruchy z Tym-om! — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -136,29 +148,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                                                                                                            |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                                                         |
 | Progi oszołomienia | 45% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,2; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: I'll Get You-ome (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2) — id 9010401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: We Struck Gold-ome! — id 9010402
+##### Umiejętność: Złoto Znalezione-om! — id 9010402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Local Raw Material-omes! — id 9010403
+##### Umiejętność: Materiał Lokalny-om! — id 9010403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -184,23 +200,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 60% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Human-omes! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome — id 9010102
+##### Umiejętność: Złapać Ich-om! — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -222,23 +242,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -264,23 +288,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -302,17 +330,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 50% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome — id 9010302
+##### Umiejętność: Ruchy z Tym-om! — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -344,23 +376,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 60% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Human-omes! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome — id 9010102
+##### Umiejętność: Złapać Ich-om! — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -382,17 +418,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 50% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome — id 9010302
+##### Umiejętność: Ruchy z Tym-om! — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -420,23 +460,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -462,23 +506,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -500,17 +548,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 50% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome — id 9010302
+##### Umiejętność: Ruchy z Tym-om! — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -538,23 +590,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 60% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Human-omes! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome — id 9010102
+##### Umiejętność: Złapać Ich-om! — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -576,29 +632,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                         |
 | Progi oszołomienia | 45% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,2; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: I'll Get You-ome (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2) — id 9010401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: We Struck Gold-ome! — id 9010402
+##### Umiejętność: Złoto Znalezione-om! — id 9010402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Local Raw Material-omes! — id 9010403
+##### Umiejętność: Materiał Lokalny-om! — id 9010403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -624,23 +684,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 60% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Human-omes! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome — id 9010102
+##### Umiejętność: Złapać Ich-om! — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -662,23 +726,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -700,17 +768,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 50% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome — id 9010302
+##### Umiejętność: Ruchy z Tym-om! — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -738,29 +810,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                         |
 | Progi oszołomienia | 45% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,2; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: I'll Get You-ome (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2) — id 9010401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: We Struck Gold-ome! — id 9010402
+##### Umiejętność: Złoto Znalezione-om! — id 9010402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Local Raw Material-omes! — id 9010403
+##### Umiejętność: Materiał Lokalny-om! — id 9010403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -786,23 +862,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 60% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Human-omes! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome — id 9010102
+##### Umiejętność: Złapać Ich-om! — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -824,23 +904,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -862,17 +946,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 50% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome — id 9010302
+##### Umiejętność: Ruchy z Tym-om! — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -900,29 +988,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                         |
 | Progi oszołomienia | 45% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,2; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: I'll Get You-ome (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2) — id 9010401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: We Struck Gold-ome! — id 9010402
+##### Umiejętność: Złoto Znalezione-om! — id 9010402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Local Raw Material-omes! — id 9010403
+##### Umiejętność: Materiał Lokalny-om! — id 9010403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -948,23 +1040,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 60% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Human-omes! (×2) — id 9010101
+##### Umiejętność: Człowiek-om! (×2) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome — id 9010102
+##### Umiejętność: Złapać Ich-om! — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -986,23 +1082,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 70% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Fresh Meat-omes (×2) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×2) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1024,17 +1124,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                                                         |
 | Progi oszołomienia | 50% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,5; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×2) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×2) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome — id 9010302
+##### Umiejętność: Ruchy z Tym-om! — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1062,29 +1166,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                                                                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                                                         |
 | Progi oszołomienia | 45% / 0%                                                                                                                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                 |
+| Typ paniki         | Wzburzenie                                                                                                                                     |
 | Odporności         | Kłucie ×1,2; Gniew ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
-##### Umiejętność: I'll Get You-ome (×2) — id 9010401
+##### Umiejętność: Porwę Was-om! (×2) — id 9010401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: We Struck Gold-ome! — id 9010402
+##### Umiejętność: Złoto Znalezione-om! — id 9010402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Local Raw Material-omes! — id 9010403
+##### Umiejętność: Materiał Lokalny-om! — id 9010403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1105,13 +1213,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×2 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,61 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,61 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1128,35 +1240,41 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Human-omes! (×3) — id 9010101
+##### Umiejętność: Człowiek-om! (×3) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome (×2) — id 9010102
+##### Umiejętność: Złapać Ich-om! (×2) — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Cherry Gnome — id 8115
 
 *Wystąpienia: ×2 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,61 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,61 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1173,35 +1291,41 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Fresh Meat-omes (×3) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×3) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! (×2) — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! (×2) — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +7 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Shadowy Gnome — id 8116
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,61 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,61 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1218,13 +1342,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×3) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×3) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome (×2) — id 9010302
+##### Umiejętność: Ruchy z Tym-om! (×2) — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1236,17 +1360,23 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          5 |         +8 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Manager Gnome — id 8135
 
 *Wystąpienia: ×2 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 78 (+2,67 za poziom)  |
-| Sloty akcji | start: 2 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 78 (+2,67 za poziom)                           |
+| Sloty akcji  | start: 2 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1263,41 +1393,47 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: I'll Get You-ome (×3) — id 9010401
+##### Umiejętność: Porwę Was-om! (×3) — id 9010401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: We Struck Gold-ome! (×2) — id 9010402
+##### Umiejętność: Złoto Znalezione-om! (×2) — id 9010402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Local Raw Material-omes! — id 9010403
+##### Umiejętność: Materiał Lokalny-om! — id 9010403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Santata — id 8113
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 264 (+10 za poziom)   |
-| Sloty akcji | start: 5 · maks. 5    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 264 (+10 za poziom)                            |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1326,31 +1462,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Be The Joy — id 811301
+##### Umiejętność: Bądź Radością — id 811301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Be The Comfort — id 811302
+##### Umiejętność: Bądź Ukojeniem — id 811302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Here's a Gift — id 811303
+##### Umiejętność: Prezent od Mnie — id 811303
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Let's Get Packing — id 811304
+##### Umiejętność: Pakuję — id 811304
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          9 |         +3 |      3 |    1 |
 
-##### Umiejętność: Time to Get Boxed — id 811305
+##### Umiejętność: Czas Zapakować Prezent — id 811305
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1374,13 +1510,17 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Wystąpienia: ×2 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,61 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,61 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1397,35 +1537,41 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Human-omes! (×3) — id 9010101
+##### Umiejętność: Człowiek-om! (×3) — id 9010101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Capture them-ome (×2) — id 9010102
+##### Umiejętność: Złapać Ich-om! (×2) — id 9010102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Ome, Ome!! — id 9010103
+##### Umiejętność: Om, Om!! — id 9010103
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          3 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Cherry Gnome — id 8115
 
 *Wystąpienia: ×2 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,61 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,61 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1442,35 +1588,41 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Fresh Meat-omes (×3) — id 9010201
+##### Umiejętność: Świeżuteńkie Mięsko-om (×3) — id 9010201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Lookin' Lively-ome! (×2) — id 9010202
+##### Umiejętność: Żwawy Jak Trzeba-om! (×2) — id 9010202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010203
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010203
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +7 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Shadowy Gnome — id 8116
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,61 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,61 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1487,13 +1639,13 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Turn Ya Into Furniture-omes! (×3) — id 9010301
+##### Umiejętność: Zrobię z Was Mebel-om! (×3) — id 9010301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +1 |      2 |    1 |
 
-##### Umiejętność: Let's Get It Moving-ome (×2) — id 9010302
+##### Umiejętność: Ruchy z Tym-om! (×2) — id 9010302
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1505,17 +1657,23 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          5 |         +8 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Manager Gnome — id 8135
 
 *Wystąpienia: ×2 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 78 (+2,67 za poziom)  |
-| Sloty akcji | start: 2 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 78 (+2,67 za poziom)                           |
+| Sloty akcji  | start: 2 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1532,41 +1690,47 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: I'll Get You-ome (×3) — id 9010401
+##### Umiejętność: Porwę Was-om! (×3) — id 9010401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: We Struck Gold-ome! (×2) — id 9010402
+##### Umiejętność: Złoto Znalezione-om! (×2) — id 9010402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Local Raw Material-omes! — id 9010403
+##### Umiejętność: Materiał Lokalny-om! — id 9010403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: No Use-ome! — id 9010404
+##### Umiejętność: Niczego To Nie Daje-om! — id 9010404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Santata — id 8113
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 264 (+10 za poziom)   |
-| Sloty akcji | start: 5 · maks. 5    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 264 (+10 za poziom)                            |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* wroga jednostka
 
 **Części (anatomia):**
@@ -1595,31 +1759,31 @@ przy HP Korpusu 30% lub mniej, zyskuje [HO! HO! HO!] co turę.
 
 *Opis:* Część
 
-##### Umiejętność: Be The Joy — id 811301
+##### Umiejętność: Bądź Radością — id 811301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +3 |      1 |    1 |
 
-##### Umiejętność: Be The Comfort — id 811302
+##### Umiejętność: Bądź Ukojeniem — id 811302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Here's a Gift — id 811303
+##### Umiejętność: Prezent od Mnie — id 811303
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Let's Get Packing — id 811304
+##### Umiejętność: Pakuję — id 811304
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          9 |         +3 |      3 |    1 |
 
-##### Umiejętność: Time to Get Boxed — id 811305
+##### Umiejętność: Czas Zapakować Prezent — id 811305
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

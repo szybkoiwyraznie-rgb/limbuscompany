@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=115706].levelList[level=1].name": {
-      "pl": "Oh, damn...",
+      "pl": "No proszę...",
       "kr_sha256": "299447fd1abec2507faf1328709e03a855d533ead6b8f54d5f1d72117fd93a03",
       "en_sha256": "ebaf6361accc802e5b5d07fd4191d701429860f1a3fed60fc2e0f8136dc8f15d",
       "origin": "ai"
@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=115707].levelList[level=1].name": {
-      "pl": "What is this foolish pretend-fight?",
+      "pl": "Co to za głupia zabawa w wojenkę?",
       "kr_sha256": "58ed971ad0ff8052ffd085a6056cb5f5e0a0b358440634357b64f927d7122683",
       "en_sha256": "1b1ecd6414c934b6f46e5ffb20d1dbd7af6803dd1d6b7a3e74842ba09cd69746",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=115709].levelList[level=1].name": {
-      "pl": "What's this Child's Play?",
+      "pl": "Dziecinada jakaś?",
       "kr_sha256": "e5a98ea6ec76716d04b69e301e9ec9c87c09da2a4a35de820b09c8b0cb1e5fcd",
       "en_sha256": "fe867ea8a119a37bd403298237af89141a5e8c2fc4395bc5bbf26679b2211562",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=115905].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Vilerage",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Szpetna Wściekłość",
       "kr_sha256": "5a289d225405d7de9b9a8eb935a8d36e4199983b2b0f03fec3abc7c5d031d092",
       "en_sha256": "f230d6bdab1ee0ca0620321fdfa3de794bdc4c8aaa2a998ec6887a5489b56662",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=124701].levelList[level=1].name": {
-      "pl": "Ironsteed Trample",
+      "pl": "Zgniot Żelaznego Konia (鐵馬碎)",
       "kr_sha256": "37fcc2b8cc2dae95ecd4bc1fff3c1f0158cab15ae79a17e5866ee83f4685f78c",
       "en_sha256": "33cd21ee597a329cbbe575f77d6d630722b338bbb6f680400c37444b85ee6f47",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=124702].levelList[level=1].name": {
-      "pl": "Rupturing Trample",
+      "pl": "Zgniot Fal (破蹈碎)",
       "kr_sha256": "becdbc845460f29be7992bc6b591d05ef0b0bf69353f4068462ce55dd1fce550",
       "en_sha256": "259dafb58168df2bacdfe015d25a45fba6436711dc564edd00e62d70c5447c60",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=124703].levelList[level=1].name": {
-      "pl": "Line-Crushing Cavalry Charge",
+      "pl": "Miażdżenie Konnej Linii (馬陣粉碎)",
       "kr_sha256": "f44d66c1d3a55d3fb4900f30936e6a31e56cb903bced05b9bf1ad20365afdcfa",
       "en_sha256": "fc50641aaf28377d064a67f394b83d6efeb54c41cd078c370c555482a3916072",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=124704].levelList[level=1].name": {
-      "pl": "Trample and Decapitate",
+      "pl": "Zadeptanie i Ścięcie (擊碎斬)",
       "kr_sha256": "70f3c155b12f6ac6b5f8ea602592b22bc797e59db52ff95de2fc63e1b35b616b",
       "en_sha256": "e10387deb7a3632d73c255940d550d3fec01178fe0195ec51cfbef209c580fd3",
       "origin": "ai"
@@ -343,7 +343,7 @@
       "origin": "ai"
     },
     "dataList[id=124705].levelList[level=1].name": {
-      "pl": "Filthy snakes... I'll crush you all...",
+      "pl": "Brudne węże... Wszystkich Was Zgniotę...",
       "kr_sha256": "94a59a9f133bef0e6574c6d6f41238590e1dcd24800c7fbd6d468d47a0f7357c",
       "en_sha256": "869c22c894b51ba1437bee89beb53994611c322f26ac9e3b9efbffeb9ed7eb63",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=124706].levelList[level=1].name": {
-      "pl": "Swiftsteed Linebreaker",
+      "pl": "Gwałtowny Wierzchowiec Przebijający Szyk (奔馬穿陣)",
       "kr_sha256": "e297a5e7a997750bc0a953e26c004f34f4834ab2787377e13fb1c99cca31714e",
       "en_sha256": "6be540e2053b9d32be0caeee86a2798054376e32cc821323f4103918fa00e303",
       "origin": "ai"
@@ -451,7 +451,7 @@
       "origin": "ai"
     },
     "dataList[id=124707].levelList[level=1].name": {
-      "pl": "You Shall Not Pass...!",
+      "pl": "Nie Przejdziesz Dalej...!",
       "kr_sha256": "d4b097fd47032927e78917e606f02e0c2484593bf89cf8217e050933a1091403",
       "en_sha256": "7fb20b7d834e2d0b2b6f0fe5c98698832b20ecfc6f2813e66dc3b599e3b1e9c7",
       "origin": "ai"
@@ -529,7 +529,7 @@
       "origin": "ai"
     },
     "dataList[id=124708].levelList[level=1].name": {
-      "pl": "Mad Steed's Voidrender",
+      "pl": "Rozdarcie Pustki Szalonym Wierzchowcem (狂馬裂空衝)",
       "kr_sha256": "8a02e17c7e4b851e60f71b53b35d8dbc3b039c712fe93dc5defaf87425203613",
       "en_sha256": "f2d1a59b1c7b920ed031717b067a9d2192f6598b863897c3386bb1edf9acda30",
       "origin": "ai"
@@ -553,7 +553,7 @@
       "origin": "ai"
     },
     "dataList[id=127201].levelList[level=1].name": {
-      "pl": "Frontal Swirl (前旋斬)",
+      "pl": "Przednie Wirowanie (前旋斬)",
       "kr_sha256": "609db63246a60dabc6795c4ec0bab4ceebf404b3df299e03b983b4a4b378c556",
       "en_sha256": "d1e4309f8457a33d2ce2c2018147d982e2961a985e3ff9a71b7f3eeaede0f59d",
       "origin": "ai"
@@ -583,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=127202].levelList[level=1].name": {
-      "pl": "Way of the Open-throat Chugging (咽道酒)",
+      "pl": "Wino na Otwarte Gardło (咽道酒)",
       "kr_sha256": "e38c43b2195d1dce7920781bc973a549a4f10f810959cbdaabccd51a511ffcce",
       "en_sha256": "d010fe4f50888cd9e11b7a671b3a25b0f7d67a2f08c89d57d8c9ca44ee998988",
       "origin": "ai"
@@ -637,7 +637,7 @@
       "origin": "ai"
     },
     "dataList[id=127203].levelList[level=1].name": {
-      "pl": "Waterfall (落酒)",
+      "pl": "Wodospad (落酒)",
       "kr_sha256": "52283e5efd87d4aec106d4fe6bd1cf7638575f4aeb75e84fdfbb7c8875f50a66",
       "en_sha256": "958847bbb98865540a31203009a18ae7939b002dd28f018a71bd412586fcce16",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=127205].levelList[level=1].name": {
-      "pl": "True Decapitation Deathblow (眞鎭終斬)",
+      "pl": "Prawdziwa Dekapitacja (眞鎭終斬)",
       "kr_sha256": "c82988c3568ac87e06281e1474e2d7656ffa0a4351a5dc33a91a9d748f1944a1",
       "en_sha256": "0dddf664507f597478419242451df711ac6eaee67a2e82a0eaeb9e40385e55a8",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=127206].levelList[level=1].name": {
-      "pl": "Intoxicated Leaning (醉靠)",
+      "pl": "Pochył pijaka (醉靠)",
       "kr_sha256": "bc1f423c78dc45720e50b0d5d146925d081694e1c1fd89488197ceec346650a2",
       "en_sha256": "c56918d0201cde15fabe18c5e65acbafd5031a3c611625dc63467282738805f9",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=127207].levelList[level=1].name": {
-      "pl": "Drunken Returning Strike (醉回攻)",
+      "pl": "Pijacki Cios Powrotny (醉回攻)",
       "kr_sha256": "e6eaa73c0b62b990b26b6184375b281fb0ebdb3aa2f19bac862395c192d794a9",
       "en_sha256": "0635f8713d34f314ac24adf0323766631b10ad138dc58ca93cb3b5e83d273cbc",
       "origin": "ai"
@@ -787,7 +787,7 @@
       "origin": "ai"
     },
     "dataList[id=127208].levelList[level=1].name": {
-      "pl": "Ultimate True Decapitation Deathblow (眞-眞鎭終斬)",
+      "pl": "Ostateczna Prawdziwa Dekapitacja (眞-眞鎭終斬)",
       "kr_sha256": "39596bd326c9550fd89f53e3b2ca430d43578da8a70e5fa58c12986fdffdc41b",
       "en_sha256": "da751bbaa4bdbecb8fbc8089bd6c33a46415aa5e92f33b2804e859c834835702",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=127209].levelList[level=1].name": {
-      "pl": "Drunken Decapitation Bladefall (落醉斬)",
+      "pl": "Pijane Ścięcie (落醉斬)",
       "kr_sha256": "684f214f916063c035ed878f989e63d2354d283e150eb789c016dda0e22193ee",
       "en_sha256": "c94115693df549b693e44b8db5375b2e8eeba43c7cc2bd24a230cd89042fafa6",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=127210].levelList[level=1].name": {
-      "pl": "Drunken Shadowwalking (醉影步)",
+      "pl": "Pijackie Kroki Cienia (醉影步)",
       "kr_sha256": "f05e739963b41a80237d2194db5032e391d28d4691a43a44c518a8c48eb737af",
       "en_sha256": "f1a8b885d98a5a4e2f44e4faf94af2b88e6fff982eafb175a60d6c1d1766d215",
       "origin": "ai"
@@ -853,7 +853,7 @@
       "origin": "ai"
     },
     "dataList[id=9102506].levelList[level=1].name": {
-      "pl": "True Decapitation Deathblow",
+      "pl": "Prawdziwa Dekapitacja",
       "kr_sha256": "55c99ed7064772bf210462e3791c84f74500ea5bca5e1d1b5a6e93c1aa57e752",
       "en_sha256": "bd256c6f91624d148fcfc7b04531708c4b642a9d4a352d7e153bf6e4e3867580",
       "origin": "ai"
@@ -865,7 +865,7 @@
       "origin": "ai"
     },
     "dataList[id=9102601].levelList[level=1].name": {
-      "pl": "Downward Slam",
+      "pl": "Rozbicie",
       "kr_sha256": "da2b793754905366d755c754f52f0bfc32bebd558d664e9447b59ed41045085e",
       "en_sha256": "200df996c41f5b94dbc373d5073931fad7c12e915fb8a752cd0e0563699f8f20",
       "origin": "ai"
@@ -877,7 +877,7 @@
       "origin": "ai"
     },
     "dataList[id=9102602].levelList[level=1].name": {
-      "pl": "Stick Combo",
+      "pl": "Kombo Kijem",
       "kr_sha256": "58aa22a513575fd6da33abdf29b9f367b2b7b6bc431c609b96ee39f47cc98cf2",
       "en_sha256": "116c6d18e86ff1de774df8e6622ca0eee4a4d107a286c01aa3d51ebba1712587",
       "origin": "ai"
@@ -907,13 +907,13 @@
       "origin": "ai"
     },
     "dataList[id=9102603].levelList[level=1].name": {
-      "pl": "Powerful Swing",
+      "pl": "Mocne Machanie",
       "kr_sha256": "7fb0f0cd10fa7fe1d423ba411ebf63bd1e0ab63c08d11ccad069b4fe993fda5a",
       "en_sha256": "3bb4c4980f3d65484a127e1721b75f8701db270f02eefa9e604318e82c9c3000",
       "origin": "ai"
     },
     "dataList[id=9102604].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -985,7 +985,7 @@
       "origin": "ai"
     },
     "dataList[id=9102605].levelList[level=1].name": {
-      "pl": "Growth",
+      "pl": "Rozwój",
       "kr_sha256": "2008c71775593d82ab3c77a211aed8a80caa6613cf18cb9aaf668a15afd095cd",
       "en_sha256": "66b06e996553a4e70d0f3a5a50c6b6877d23fb448cad524fef307399ebe36d5e",
       "origin": "ai"

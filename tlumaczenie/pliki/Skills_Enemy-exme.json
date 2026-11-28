@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9105701].levelList[level=1].name": {
-      "pl": "Striker’s Stance",
+      "pl": "Postawa Uderzeniowa",
       "kr_sha256": "54c488d80aa644b5827dd9d35928daa644ad7388deb4533bd66a08ac22ff426a",
       "en_sha256": "2cf70fe0bc2344eec96b4517b55bc79a678454988691c3f26b19160ebe950158",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=9105702].levelList[level=1].name": {
-      "pl": "Acupuncture",
+      "pl": "Akupunktura",
       "kr_sha256": "bde60b7f1c5d4e0d79496eacafda9dec3ae850e9529506a910ca3892ed6ad231",
       "en_sha256": "811a2280c909f5f408f5e7e5f6b40e33cd1357047cb21bc234c9a48d69b44946",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=9105703].levelList[level=1].name": {
-      "pl": "Slash Series",
+      "pl": "Seria Cięć",
       "kr_sha256": "402c3cfa77eeda4b9ee61bb9e0058a3990ff326be08b8113327ceef0a710eb75",
       "en_sha256": "26b302212b210dc47154ba54cd35308fbdc0dca765fc1ef81e0aed6773568beb",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=9105704].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=9105801].levelList[level=1].name": {
-      "pl": "Striker’s Stance",
+      "pl": "Postawa Uderzeniowa",
       "kr_sha256": "54c488d80aa644b5827dd9d35928daa644ad7388deb4533bd66a08ac22ff426a",
       "en_sha256": "2cf70fe0bc2344eec96b4517b55bc79a678454988691c3f26b19160ebe950158",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9105802].levelList[level=1].name": {
-      "pl": "Acupuncture",
+      "pl": "Akupunktura",
       "kr_sha256": "bde60b7f1c5d4e0d79496eacafda9dec3ae850e9529506a910ca3892ed6ad231",
       "en_sha256": "811a2280c909f5f408f5e7e5f6b40e33cd1357047cb21bc234c9a48d69b44946",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=9105803].levelList[level=1].name": {
-      "pl": "Slash Series",
+      "pl": "Seria Cięć",
       "kr_sha256": "402c3cfa77eeda4b9ee61bb9e0058a3990ff326be08b8113327ceef0a710eb75",
       "en_sha256": "26b302212b210dc47154ba54cd35308fbdc0dca765fc1ef81e0aed6773568beb",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=9105804].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"

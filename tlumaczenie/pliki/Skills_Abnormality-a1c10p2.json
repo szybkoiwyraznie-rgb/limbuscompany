@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=148801].levelList[level=1].name": {
-      "pl": "Flaying",
+      "pl": "Zdzieranie Skóry",
       "kr_sha256": "f735e4a04b460ffa19b7c0d97df8217b253813b8bf1d6af8ef849566253c3ff7",
       "en_sha256": "7a3286c28a210222595d55aafc12704546c29294a17e6f97c10eb2a362293f26",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=148802].levelList[level=1].name": {
-      "pl": "Fleshing",
+      "pl": "Oskórowanie",
       "kr_sha256": "5efbb1b012e1f67fc32e11eadc22516b1bbba29bf05ac6df895c9f42a257b8c0",
       "en_sha256": "4776b972664a77fc94abea535093aa56bff597b1e260fae06ad761da6857c8bb",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=148804].levelList[level=1].name": {
-      "pl": "Splitting",
+      "pl": "Rozszczepianie",
       "kr_sha256": "e25d5e36212f3042e6518283f625d2f87d1182b4dddf9efb36efc012565fdad0",
       "en_sha256": "56f1d512baead8e090fe38a52a7f6a3bda83a2afc5ded484a532b9da64834c5a",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=148806].levelList[level=1].name": {
-      "pl": "Leather Tumbling in Brain Fat: Original Sin Style",
+      "pl": "Tumbling Skór w Tłuszczu Mózgu: W Stylu Grzechu Pierworodnego",
       "kr_sha256": "aa320cf1cfeb5c35625cedf59af1ec2218030d2b0da2b482316e02771940fcbf",
       "en_sha256": "6438a8d0f6024cec0e7a2662489d0ddab4413ad05c2db73b12d36c3ba9778496",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=149101].levelList[level=1].name": {
-      "pl": "Brain Fat Spray",
+      "pl": "Rozpylanie Łoju Mózgowego",
       "kr_sha256": "a5ff6ed056d159a8b237b6d112add4a5f30ac1995e910c850ba7e2abbd2888a6",
       "en_sha256": "7f781f5be8579e4c2cd3f9e02f6b4adc827976db4a6ebb54e1ea5f2a309da1bf",
       "origin": "ai"
@@ -295,7 +295,7 @@
       "origin": "ai"
     },
     "dataList[id=149102].levelList[level=1].name": {
-      "pl": "Brain Fat Buffing",
+      "pl": "Polerowanie Łojem Mózgowym",
       "kr_sha256": "8d89db363d125568d9b7d1acda682cb9759bcb130dd726c525dc45003210c7b8",
       "en_sha256": "c88de94280c264d4d32fe586abbed74d86bf8ee66dbd3c588d48f30bcc3951e3",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=149103].levelList[level=1].name": {
-      "pl": "Expiatory Embossing",
+      "pl": "Odkupieńcze Tłoczenie",
       "kr_sha256": "da8ca3f9935edd1ac6dd258e291ab8f81e63819d4b4502db1e7d5d5332fbdcf4",
       "en_sha256": "c64c6ed64667088c214624c015dfe3e84646fe3fe6fce977056df1b142c57d9e",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=149501].levelList[level=1].name": {
-      "pl": "Trimming",
+      "pl": "Docinka",
       "kr_sha256": "e85da9521ee45f5ab51ae925cbdedeadae28bdd9fbc667a53cad95fea02c4f81",
       "en_sha256": "9951e6d8ced017a761c57776993b073e05ca7b8f974e6e84d457524d5ab774cc",
       "origin": "ai"
@@ -403,7 +403,7 @@
       "origin": "ai"
     },
     "dataList[id=149502].levelList[level=1].name": {
-      "pl": "Cutting",
+      "pl": "Krojenie",
       "kr_sha256": "0cdb97d5e48d47865accc2d3f51cdb01264c3af7dad7785dc231c46d490d1b04",
       "en_sha256": "420c56554c57018ed778fce96e800c6668efc0dde033bf314c655159aa914b42",
       "origin": "ai"
@@ -481,7 +481,7 @@
       "origin": "ai"
     },
     "dataList[id=149503].levelList[level=1].name": {
-      "pl": "Pin and Trim Along the Patterns",
+      "pl": "Przypięcie i Docinanie według Szablonów",
       "kr_sha256": "5a581aae5a30f1803a66af19a426b292b5fdf5b7a9e6cb9c6fc8225286b2dba2",
       "en_sha256": "bfc8a357d0be29391657ef360fcf3c8f57257e3db8c616567fad8f619fe61eef",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=149505].levelList[level=1].name": {
-      "pl": "Patterning",
+      "pl": "Wycenianie Szablonów",
       "kr_sha256": "58ff39f85e2bec607e3f1aa8cbdc905afbeb85f873836988f6763775b3e1a844",
       "en_sha256": "7245ff4f65a99343d724c1e00af2e230b63f9ea9c3276387f62b5c094099ac0b",
       "origin": "ai"
@@ -685,7 +685,7 @@
       "origin": "ai"
     },
     "dataList[id=150101].levelList[level=1].name": {
-      "pl": "Spring's Genesis",
+      "pl": "Narodziny Wiosny",
       "kr_sha256": "e31db2813c0f1817f56ff47c6851b03993c59553303db760d8f06f1b9a638d4a",
       "en_sha256": "2654a2b7a218f86c7b8de7289b7cbd74f3d2d7970bbda49c49fdc6d7ea83b2e1",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=150102].levelList[level=1].name": {
-      "pl": "Autumn's Passing",
+      "pl": "Jesienny Zmierzch",
       "kr_sha256": "a6b29e70edf1c0e9199a72034907bbb0253acf70c77397c92a055fdcb46fab0f",
       "en_sha256": "6385ec3af048e327f4ef5b20ecefa3c1515989b2df1d8c5d50b4e02b8df0ee23",
       "origin": "ai"
@@ -733,7 +733,7 @@
       "origin": "ai"
     },
     "dataList[id=150103].levelList[level=1].name": {
-      "pl": "A Doll Who Yearned to be Human",
+      "pl": "Lalka, która Chciała Być Człowiekiem",
       "kr_sha256": "eed81efb7ab3255932169393e36300061818e44356b5817cf5a5a9b718318efe",
       "en_sha256": "88b10ae370ae0cf5f190f975775d85a23f4c6fbcd74a10587a2f53e68418c4af",
       "origin": "ai"
@@ -793,7 +793,7 @@
       "origin": "ai"
     },
     "dataList[id=150104].levelList[level=1].name": {
-      "pl": "A Human Who Yearned to be a Doll",
+      "pl": "Człowiek, który Chciał Być Lalką",
       "kr_sha256": "42d113358fef7a3d2227566d487fa0ff5a5417346f58e0cff0595b3db6589f11",
       "en_sha256": "0630bd8f8080540646f90a53453e08d711d6150ea6cce57fa7b174e27b0c418a",
       "origin": "ai"
@@ -817,7 +817,7 @@
       "origin": "ai"
     },
     "dataList[id=150105].levelList[level=1].name": {
-      "pl": "Fragrant Laurel Wreath",
+      "pl": "Pachnący Wieniec Laurowy",
       "kr_sha256": "13c00afc1912adaed7fc82c0b4685ee84bd6f2ec56b1b2baebbd49768ac6e881",
       "en_sha256": "694dc2d2656a52b7f5bb944d5274815a08e93d880f8e6ffed30e66d61b2800fa",
       "origin": "ai"
@@ -853,7 +853,7 @@
       "origin": "ai"
     },
     "dataList[id=150106].levelList[level=1].name": {
-      "pl": "Bearing the hope to return to dust...",
+      "pl": "Z Nadzieją Powrotu w Proch...",
       "kr_sha256": "68ce2c179812c966c320e70b3b2aded469b52190d03ac0663a794df8fb0b7b19",
       "en_sha256": "cab68567b092de65fdb78a1da0098eda91be6cc5d0cd2c9a8f4af5ece3460b6b",
       "origin": "ai"
@@ -871,7 +871,7 @@
       "origin": "ai"
     },
     "dataList[id=150107].levelList[level=1].name": {
-      "pl": "... It shall go back to the grave with all that desires to live",
+      "pl": "Zostanie złożone do grobu ze wszystkim, co chce żyć",
       "kr_sha256": "26cfe85d798f26eef2a0720c392012952906a15c8dbc190360d0da11830ea328",
       "en_sha256": "f1853921575b3dc28fbaa65b72651108e6f7fc5cc310838ac679734b0087566a",
       "origin": "ai"
@@ -895,7 +895,7 @@
       "origin": "ai"
     },
     "dataList[id=150108].levelList[level=1].name": {
-      "pl": "When flowers substitute all the desire in everyone's hearts...",
+      "pl": "Kiedy kwiaty zastąpią pożądanie w sercach wszystkich...",
       "kr_sha256": "aa25a1182b80fa9ce5d7f49e689792400e075b97b08e4a527a64f28a885a96ab",
       "en_sha256": "bc004884613e7dba2c6eea26e0e073589dd09437a8873564a02c53954d946d2a",
       "origin": "ai"
@@ -919,7 +919,7 @@
       "origin": "ai"
     },
     "dataList[id=150201].levelList[level=1].name": {
-      "pl": "Flower Mound",
+      "pl": "Kopiec Kwiatów",
       "kr_sha256": "75a7d81007766b7baff862d2bacde33c21a14158fed846781e9cf4ca696bb78c",
       "en_sha256": "dcc460b15fd48fd485364fd2c9f72282a817664039a994498f14ef680f695a5f",
       "origin": "ai"
@@ -949,7 +949,7 @@
       "origin": "ai"
     },
     "dataList[id=150202].levelList[level=1].name": {
-      "pl": "A Crack in the Heart",
+      "pl": "Pęknięcie w Sercu",
       "kr_sha256": "3930e823f6d78e936102cdede964143236048e2bbebda520e6a8bd708ff99532",
       "en_sha256": "86d4f5275c6614d31ae592e5ae9d1b3a9277e178a3c0d82bdd408e50034c9a1f",
       "origin": "ai"
@@ -979,7 +979,7 @@
       "origin": "ai"
     },
     "dataList[id=150203].levelList[level=1].name": {
-      "pl": "Entangling Despair",
+      "pl": "Splatająca Rozpacz",
       "kr_sha256": "87d4bf88e9a291af19fb0d779da7720f4102082a9e253242051fb072b106d9af",
       "en_sha256": "97caf1ab1b6a8e9d5b41355e1e4279dcbde97565832401144ce15b02edb0acf2",
       "origin": "ai"
@@ -1015,7 +1015,7 @@
       "origin": "ai"
     },
     "dataList[id=150301].levelList[level=1].name": {
-      "pl": "Give It Back...",
+      "pl": "Oddaj To...",
       "kr_sha256": "88d400e753e94e88689d60b086a089656e81fa4d356b555a24520c58b33421af",
       "en_sha256": "61a336fc73be524f7e4b6e222871a8c5be4248590bb7463cba554e1699f6249a",
       "origin": "ai"
@@ -1057,7 +1057,7 @@
       "origin": "ai"
     },
     "dataList[id=150302].levelList[level=1].name": {
-      "pl": "Hand It Over...",
+      "pl": "Oddaj...",
       "kr_sha256": "1f1283aacbc82b7c73016f98fd4821ba54c2e3993fa53f89e1e987727172c6c3",
       "en_sha256": "e36d8cd8d424a94d698ecae96716eb94f0a08f1f2b9458dac11cffc5e1e6824d",
       "origin": "ai"
@@ -1081,7 +1081,7 @@
       "origin": "ai"
     },
     "dataList[id=150303].levelList[level=1].name": {
-      "pl": "Don't Take It Away From Me...",
+      "pl": "Nie odbieraj Mi Tego...",
       "kr_sha256": "97a0455f816b529e8e25076ee05efdb9c5ec2d872875de7e93826a3fc4ce8aa7",
       "en_sha256": "ae5b5eafe7374ada321977dc1cfa0fe87168410e7411a1e80a90a5ed2394c674",
       "origin": "ai"
@@ -1147,7 +1147,7 @@
       "origin": "ai"
     },
     "dataList[id=150304].levelList[level=1].name": {
-      "pl": "Coiled and Tangled",
+      "pl": "Splecione i Skręcone",
       "kr_sha256": "d975e3aa548e0d50c5d010ca81e73c242cbc7dc98799ae3b533195e4549a3dc9",
       "en_sha256": "7d66ecd241d08e3cd72afae3423c312908d0c1a18c36dfa5d0c29239a64284f7",
       "origin": "ai"
@@ -1189,7 +1189,7 @@
       "origin": "ai"
     },
     "dataList[id=150305].levelList[level=1].name": {
-      "pl": "Thrashing of an Elden Being",
+      "pl": "Wiercenie Prastarej Istoty",
       "kr_sha256": "6384167a13601f56105f8842c69278154f7828c009c3b18c0e6818e7192f8fff",
       "en_sha256": "59236c184406b65b5b22bcdf1b9e15ea5145dd44a90efe8d5d273dec68dfa9c7",
       "origin": "ai"
@@ -1225,7 +1225,7 @@
       "origin": "ai"
     },
     "dataList[id=150306].levelList[level=1].name": {
-      "pl": "Tangling",
+      "pl": "Splot",
       "kr_sha256": "07f419ed66b68e196ea268b62b4bf2dcd36eb5ba1e95272d7ab8e4a1ba5b499f",
       "en_sha256": "099fb588fbf86ddb470b38678f3fa02384c87c2d1554791fe4786672092c1372",
       "origin": "ai"
@@ -1261,7 +1261,7 @@
       "origin": "ai"
     },
     "dataList[id=150307].levelList[level=1].name": {
-      "pl": "Abyssal Maw",
+      "pl": "Gęba Otchłani",
       "kr_sha256": "6282ecfe7beaa64964e7af474f29ccb4f842785471b3ba3322a7f088e004fbda",
       "en_sha256": "04f4fd1ef4896cee5d61e78d55b05c26642e983c4cadc384dee11dd1c56d20b7",
       "origin": "ai"
@@ -1291,7 +1291,7 @@
       "origin": "ai"
     },
     "dataList[id=150308].levelList[level=1].name": {
-      "pl": "Cleansing",
+      "pl": "Oczyszczenie",
       "kr_sha256": "6870f14c0f66b8f9d5345f59193b3a62b4967bc274ff05a7b045a35a59d569ea",
       "en_sha256": "43baf4eed30e497ed452e709bde116f2c68ac095bd4609217f25f0786c44bf69",
       "origin": "ai"
@@ -1315,7 +1315,7 @@
       "origin": "ai"
     },
     "dataList[id=150401].levelList[level=1].name": {
-      "pl": "Your purchase history, please?",
+      "pl": "Proszę o historię zakupów?",
       "kr_sha256": "56e7bb34a4cae04677f6ed232c36f0540c9c715b2906ece968f9ee5631c2f3ea",
       "en_sha256": "e9157f6b0358965891b7a4bed16e859251f549b322dd9e78fac817d3dd17cd02",
       "origin": "ai"
@@ -1351,7 +1351,7 @@
       "origin": "ai"
     },
     "dataList[id=150402].levelList[level=1].name": {
-      "pl": "Your purchasing rights, please?",
+      "pl": "Proszę o prawo zakupu?",
       "kr_sha256": "b3d85fc5ab3823fe257e15bb4b6ce163480ebf1a79bf5d83939fee5780f21446",
       "en_sha256": "69f44ef49cd791c93af044938679d271a03b86e8246ca00f9e094b5651bba738",
       "origin": "ai"
@@ -1399,7 +1399,7 @@
       "origin": "ai"
     },
     "dataList[id=150403].levelList[level=1].name": {
-      "pl": "Stamping [Flannel]",
+      "pl": "Tłoczenie [Flanela]",
       "kr_sha256": "1572bd6f39816f5f66f43d1e5c0df0aab099e7082026ad18a112a8aa646b4fc0",
       "en_sha256": "a0dcf2402385cf0295f521c4485f01e993222a637f99c292c656de3f522758d9",
       "origin": "ai"
@@ -1423,7 +1423,7 @@
       "origin": "ai"
     },
     "dataList[id=150404].levelList[level=1].name": {
-      "pl": "Reinforce Fabric",
+      "pl": "Wzmocnić Tkaninę",
       "kr_sha256": "d5b2e11993e374d17ec26ae6de9488ab2cbcea8e3e7c28f756a825de6f033388",
       "en_sha256": "e29134091a872b0d58f4b736e9bc15884223fe6e7bf1ec6ae3b185ae3054569b",
       "origin": "ai"
@@ -1447,7 +1447,7 @@
       "origin": "ai"
     },
     "dataList[id=150405].levelList[level=1].name": {
-      "pl": "For Conservation",
+      "pl": "Dla Zachowania",
       "kr_sha256": "fc82d3d00dfbee2a2902d9d95806c0892b9dd73e3887d5bf0718c09b33c077b5",
       "en_sha256": "6ffb55da5d219761b4a1a6a06362ec1333838df17e4a1bc03d847fadb9ca6a06",
       "origin": "ai"
@@ -1471,7 +1471,7 @@
       "origin": "ai"
     },
     "dataList[id=150501].levelList[level=1].name": {
-      "pl": "Your price range, please?",
+      "pl": "Ile Państwo Cenią?",
       "kr_sha256": "bc4dfd99d9e4635bf6c5d6434b84ab972a615b56e4a11405599be55dbe5586ee",
       "en_sha256": "19896ec0124d3989e010de7663a4d0d8061780fdaa7ca296a2089d9472a2c552",
       "origin": "ai"
@@ -1507,7 +1507,7 @@
       "origin": "ai"
     },
     "dataList[id=150502].levelList[level=1].name": {
-      "pl": "Disqualifying defects, all over",
+      "pl": "Wad Na Okrągło",
       "kr_sha256": "0c4d87bdbf4cd7cc42fd690102b516031baa4177ab0e4d63786afea3cd92705f",
       "en_sha256": "bf5773c6c5daf9a99f9692a078654edb5b6920985ac768a7419321603835bac9",
       "origin": "ai"
@@ -1561,7 +1561,7 @@
       "origin": "ai"
     },
     "dataList[id=150503].levelList[level=1].name": {
-      "pl": "Stamping [Felt]",
+      "pl": "Tłoczenie [Filc]",
       "kr_sha256": "a85b64336e72fe4b1cf0e61eff70509965743f00785f5509e5c41278c2fb33e1",
       "en_sha256": "4342d82e85812cf12a5494ee37e8949353f6b6cba555590782f4cba446bcb5e2",
       "origin": "ai"
@@ -1573,7 +1573,7 @@
       "origin": "ai"
     },
     "dataList[id=150504].levelList[level=1].name": {
-      "pl": "Stamping [Reverb]",
+      "pl": "Tłoczenie [Reverb]",
       "kr_sha256": "def79f7f5519f6e6731d3120ec812c96ed3eac736ac1949bead6b2646388d1b4",
       "en_sha256": "b4055e3bb0099141c9e63be2e04b097be09a99061cde7867f7c66ad895be2121",
       "origin": "ai"
@@ -1621,7 +1621,7 @@
       "origin": "ai"
     },
     "dataList[id=150601].levelList[level=1].name": {
-      "pl": "Cometh the Nail",
+      "pl": "Niech Wbije się Gwóźdź",
       "kr_sha256": "d9c9b0c6386e27ac1cf633c12a8e50a9e3780f86b151e5abf9705db9429442bd",
       "en_sha256": "d69e568261dcaf8d0873a76ad4ed95096dde7cad97efbe0324acb89322ecce5d",
       "origin": "ai"
@@ -1693,7 +1693,7 @@
       "origin": "ai"
     },
     "dataList[id=150602].levelList[level=1].name": {
-      "pl": "Summoneth the Nail",
+      "pl": "Niech Gwóźdź Się Przyzwie",
       "kr_sha256": "c8b2b422d466e10714d0b219dd8957e997caead9b06621566674925a678acecb",
       "en_sha256": "24339dcc1b611eacf0c327df46fdc220f216237d1982bb3c6e9915f69b1cc79d",
       "origin": "ai"
@@ -1723,7 +1723,7 @@
       "origin": "ai"
     },
     "dataList[id=150603].levelList[level=1].name": {
-      "pl": "Rapping",
+      "pl": "Stukanie",
       "kr_sha256": "df5d919ebe2063b773395ae496ecc2c5e09005ab699fc9a14b4b44fdccfcf376",
       "en_sha256": "a1dfc2663834c7918bbba434fe7e72c5d584ffb7ecd9d59c150d5df84e70a3b3",
       "origin": "ai"
@@ -1753,7 +1753,7 @@
       "origin": "ai"
     },
     "dataList[id=150604].levelList[level=1].name": {
-      "pl": "Witness Ye in Silence",
+      "pl": "W Świetle Przygładzonego Milczenia",
       "kr_sha256": "d8a5c04c218cd6215f627c84cfc9916869294ab79fe13bbce48ed62eb23a6efc",
       "en_sha256": "95bae354eb893090b8efa83dbad5131638e2de7abd3e47e4212b15cb77998a7d",
       "origin": "ai"
@@ -1813,7 +1813,7 @@
       "origin": "ai"
     },
     "dataList[id=150605].levelList[level=1].name": {
-      "pl": "Proclamation: Sanctum of Conservation",
+      "pl": "Ogłoszenie: Sanktuarium Zachowania",
       "kr_sha256": "504cf47b799cdcd7d52ff6fd4fd8635ffb157a0b37da2c79b5037c7263dfcadf",
       "en_sha256": "0fa35aa7ba044ac4979a61036ce81a28bf1cc3f761dc6ee75e5999774832530c",
       "origin": "ai"
@@ -1825,7 +1825,7 @@
       "origin": "ai"
     },
     "dataList[id=150606].levelList[level=1].name": {
-      "pl": "Revelations",
+      "pl": "Objawienia",
       "kr_sha256": "97c5ab95beebe04f96b5fc7bc797ebca297aad700cb502df28cc0f310a0fa615",
       "en_sha256": "44d8e8fd730119df538878852c0e15dfbc5fe93b1ac1a9543d748be03e804b12",
       "origin": "ai"
@@ -1837,7 +1837,7 @@
       "origin": "ai"
     },
     "dataList[id=150607].levelList[level=1].name": {
-      "pl": "Covenant",
+      "pl": "Przymierze",
       "kr_sha256": "88d7b5dd85f1d5ca9fe7775c8d79dcaf8a8a247069f19cf7d4fd9d3e04c703ff",
       "en_sha256": "92adf3600448e2741694b946d05db1afc014008decefe02964d25822285e200b",
       "origin": "ai"
@@ -1897,7 +1897,7 @@
       "origin": "ai"
     },
     "dataList[id=150608].levelList[level=1].name": {
-      "pl": "I sever thine advent.",
+      "pl": "Ucinam wasze narodziny.",
       "kr_sha256": "7129b0f0d5cbe76f8d17f28453e2abd9d7113efaaf9be9400e726e93019ebbdf",
       "en_sha256": "dec0fce7d3979993cfe8338419ace8d45ee079f32e7dd71783c97df1348dcb79",
       "origin": "ai"
@@ -1975,7 +1975,7 @@
       "origin": "ai"
     },
     "dataList[id=150609].levelList[level=1].name": {
-      "pl": "With each smite, I sever thine advent!",
+      "pl": "Każdym ciosem utnę twoje nadejście!",
       "kr_sha256": "fddd3251b83c9c0fff9d726d43bd5346b2b8ccecc7fba023962b351c2d88d44c",
       "en_sha256": "8ba579ef01133a1ef2e12491ed87f73ba7751a5a4add121b0fd18933b8ecb48c",
       "origin": "ai"
@@ -1999,7 +1999,7 @@
       "origin": "ai"
     },
     "dataList[id=150610].levelList[level=1].name": {
-      "pl": "Heed the calling, O faithful",
+      "pl": "Wierni, Odpowiedzcie na Wołanie",
       "kr_sha256": "404b0704cfedd015104ea9bb870a31831e8baf272de94f6ccd611f406a911a96",
       "en_sha256": "0a2e1ceb5b3211d90ddf758800388027fcce5c9905a11de78285ddc6e1c0ba1c",
       "origin": "ai"
@@ -2011,7 +2011,7 @@
       "origin": "ai"
     },
     "dataList[id=151901].levelList[level=1].name": {
-      "pl": "Revving Up",
+      "pl": "Odpalanie",
       "kr_sha256": "48143d7a0153344191924367b83825e6846025a01c39e084150f85910e62f6da",
       "en_sha256": "70b62231074ec4f63c0ba28e726c34e1febdd365ee6ce494799d27bd11b7e5e5",
       "origin": "ai"
@@ -2035,7 +2035,7 @@
       "origin": "ai"
     },
     "dataList[id=151902].levelList[level=1].name": {
-      "pl": "Threading",
+      "pl": "Nawlekanie Nitki",
       "kr_sha256": "d09668cf4ab69759f54ad9eaad792f9f34953f51179a6d17533fe71b315b564a",
       "en_sha256": "9178d6c961808769629581eda6e7ab98a21606043ee8228842ccdbef16e5a1aa",
       "origin": "ai"
@@ -2071,7 +2071,7 @@
       "origin": "ai"
     },
     "dataList[id=151903].levelList[level=1].name": {
-      "pl": "Lockstitch",
+      "pl": "Szew Maszynowy",
       "kr_sha256": "8e58b0ae796afbb3fe02ce1183c489f6f0c4120c5b5278d04819899f2f05ebf9",
       "en_sha256": "d028e550fd56716a7052cbf8226839b6479fef620170c33c6433e17a9530eee0",
       "origin": "ai"
@@ -2107,7 +2107,7 @@
       "origin": "ai"
     },
     "dataList[id=151904].levelList[level=1].name": {
-      "pl": "Chainstitch",
+      "pl": "Szew Łańcuszkowy",
       "kr_sha256": "9b40fd1bbd5a4ea32a8c96950c6e9ceea98c5847bb6d8a889adec76b1a3da972",
       "en_sha256": "002e5f9114877236fda91b30620dcf4ef0219d213471a5fc4791298744189aea",
       "origin": "ai"

@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=827701].levelList[level=1].name": {
-      "pl": "Are You Afraid?",
+      "pl": "Strach Cię Wziął?",
       "kr_sha256": "e9f163eb8a18ab49f7334c0f12dad88d0cc5eb4ae772b64c1522795ecedf0876",
       "en_sha256": "3d21b4710245ab9cdbc431a9784fb2996b18e4c899de4cd38602cd6afdd00245",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=827702].levelList[level=1].name": {
-      "pl": "Punishment For Time Killers",
+      "pl": "Kara za Zabijanie Czasu",
       "kr_sha256": "e4a35d1e0ee8082d76f3a8431c7e93d6e4ff12b30be82bb16896f26c44382f6a",
       "en_sha256": "436cae0e6ef7323da6ff84412b28ec029d04254028ac76a336b7c8c23e0e096f",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=827705].levelList[level=1].name": {
-      "pl": "Time to be Saved",
+      "pl": "Czas na Zbawienie",
       "kr_sha256": "4e07534b05b36e75a4bfb899b4ef98af3fcc9bf0d00f61057fec5a5ef61b584d",
       "en_sha256": "0bc6edf4c88ef23be3995c5e561bb179a3f65f5aa07f56b254e415f0c8964c60",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=827707].levelList[level=1].name": {
-      "pl": "My...",
+      "pl": "O nie...",
       "kr_sha256": "b125ef986cefafb8d82db8d5f47518a945fe2183374b4c0931827720365500d9",
       "en_sha256": "56ef9e2de10fe1ce5c4bede177e6fc95dbd990ac0ee0038d068808858770afd8",
       "origin": "ai"
@@ -193,7 +193,7 @@
       "origin": "ai"
     },
     "dataList[id=827708].levelList[level=1].name": {
-      "pl": "Running Out of Time",
+      "pl": "Brakuje Czasu",
       "kr_sha256": "e2b36355f33fb66fddce2c8873766ac8ef1d135cef206091c1f5b66a87980e82",
       "en_sha256": "53027df58fff214dce03b95b6633add226087fe3cfed2dae8b0f73b24a7bb4e6",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=827801].levelList[level=1].name": {
-      "pl": "Are You Afraid?",
+      "pl": "Strach Cię Wziął?",
       "kr_sha256": "e9f163eb8a18ab49f7334c0f12dad88d0cc5eb4ae772b64c1522795ecedf0876",
       "en_sha256": "3d21b4710245ab9cdbc431a9784fb2996b18e4c899de4cd38602cd6afdd00245",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=827802].levelList[level=1].name": {
-      "pl": "Punishment For Time Killers",
+      "pl": "Kara za Zabijanie Czasu",
       "kr_sha256": "e4a35d1e0ee8082d76f3a8431c7e93d6e4ff12b30be82bb16896f26c44382f6a",
       "en_sha256": "436cae0e6ef7323da6ff84412b28ec029d04254028ac76a336b7c8c23e0e096f",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=827805].levelList[level=1].name": {
-      "pl": "Time to be Saved",
+      "pl": "Czas na Zbawienie",
       "kr_sha256": "4e07534b05b36e75a4bfb899b4ef98af3fcc9bf0d00f61057fec5a5ef61b584d",
       "en_sha256": "0bc6edf4c88ef23be3995c5e561bb179a3f65f5aa07f56b254e415f0c8964c60",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=827808].levelList[level=1].name": {
-      "pl": "We Need More Time!",
+      "pl": "Potrzebujemy Więcej Czasu!",
       "kr_sha256": "46e23e9d4c99a31fa4dcee9ccb2ef4d4ec47ddac34f962a9bef24fecfe904f5d",
       "en_sha256": "5bf816c516e7880a6cea96ce7ade2e5676f6ff34754b78c382075f70e6cf0d01",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=827901].levelList[level=1].name": {
-      "pl": "Tick",
+      "pl": "Tik",
       "kr_sha256": "2af6518f42f376b2a80c3fde299f43e15c72db3a9a1041ca22b8f8d8bf186ef8",
       "en_sha256": "98c95268220bddfe87be5b5b26859bc35353518f5ab7ec1ce654a30e4e64c0e2",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=827902].levelList[level=1].name": {
-      "pl": "Tock",
+      "pl": "Ta-ak",
       "kr_sha256": "1c10e08aebeadd32cf9ec36dd60bb947ef25ebe770fbbc6b183310616dfb3c88",
       "en_sha256": "fda65fc2487fa371cda0cb5dfcb6b54bdd08df0fd8f719d49c0ad0ce3047e342",
       "origin": "ai"
@@ -427,13 +427,13 @@
       "origin": "ai"
     },
     "dataList[id=827903].levelList[level=1].name": {
-      "pl": "Ticktick-Tock",
+      "pl": "Tik-tik-Tak",
       "kr_sha256": "4104216e31722936bf382be9496b4211f7e95c5a37b11ffd0eb52fea697457f6",
       "en_sha256": "94bf3c588efd502b4d54134957adc554194ddf66521b121ad761f4af84b1acc9",
       "origin": "ai"
     },
     "dataList[id=827904].levelList[level=1].name": {
-      "pl": "Tock",
+      "pl": "Tak",
       "kr_sha256": "d5f93d3ba0d5174667a26c6be67c4e93ab57c849b3ce636b5189a39d6339065c",
       "en_sha256": "fda65fc2487fa371cda0cb5dfcb6b54bdd08df0fd8f719d49c0ad0ce3047e342",
       "origin": "ai"

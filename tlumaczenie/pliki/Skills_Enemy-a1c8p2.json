@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9020501].levelList[level=1].name": {
-      "pl": "Collide",
+      "pl": "Zderzenie",
       "kr_sha256": "8c5490c86aa508632ef90bcc74a085040878c6d8f446e44563dc8e599815cc52",
       "en_sha256": "164ae3d605e94ec6a6741d40913e0a82a65927a98bb8605228f7b3b3e6cfaf09",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=9020502].levelList[level=1].name": {
-      "pl": "Pandemonium",
+      "pl": "Robienie Zamieszania",
       "kr_sha256": "6e2ba8bf5f7b46da199205d88cf4c0b8119e3b04149b04b297946fd512ce3060",
       "en_sha256": "2bce2982deda92e4334e1eba413174b87e2853485b88b8b192f3d5178d886985",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=9020503].levelList[level=1].name": {
-      "pl": "Frantic Pummel",
+      "pl": "Desperackie Bicie",
       "kr_sha256": "539fbe21a726bfc670a34da3ac624fd1b160a403c8551a7d7b99b1e361902fef",
       "en_sha256": "70e186c7b6796c262ee6036509889f03c7569a23b492005f43f5876c7ffe02e2",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=9020601].levelList[level=1].name": {
-      "pl": "Collide",
+      "pl": "Zderzenie",
       "kr_sha256": "8c5490c86aa508632ef90bcc74a085040878c6d8f446e44563dc8e599815cc52",
       "en_sha256": "164ae3d605e94ec6a6741d40913e0a82a65927a98bb8605228f7b3b3e6cfaf09",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=9020602].levelList[level=1].name": {
-      "pl": "Pandemonium",
+      "pl": "Robienie Zamieszania",
       "kr_sha256": "6e2ba8bf5f7b46da199205d88cf4c0b8119e3b04149b04b297946fd512ce3060",
       "en_sha256": "2bce2982deda92e4334e1eba413174b87e2853485b88b8b192f3d5178d886985",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=9020603].levelList[level=1].name": {
-      "pl": "Frantic Volley",
+      "pl": "Desperacka Salwa",
       "kr_sha256": "53d8b87593618ab643f1a86385e2ab3cd44fabcc67db5aa4e1acc539325a7389",
       "en_sha256": "1affed166051859eb142f45e39cc57d3a6d56cb2a56ef7606a5d18aaf895db79",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=9020701].levelList[level=1].name": {
-      "pl": "Collide",
+      "pl": "Zderzenie",
       "kr_sha256": "8c5490c86aa508632ef90bcc74a085040878c6d8f446e44563dc8e599815cc52",
       "en_sha256": "164ae3d605e94ec6a6741d40913e0a82a65927a98bb8605228f7b3b3e6cfaf09",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=9020702].levelList[level=1].name": {
-      "pl": "Pandemonium",
+      "pl": "Robienie Zamieszania",
       "kr_sha256": "6e2ba8bf5f7b46da199205d88cf4c0b8119e3b04149b04b297946fd512ce3060",
       "en_sha256": "2bce2982deda92e4334e1eba413174b87e2853485b88b8b192f3d5178d886985",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=9020703].levelList[level=1].name": {
-      "pl": "Frantic Swinging",
+      "pl": "Desperackie Machanie",
       "kr_sha256": "ac6b96c2064f9b759d1498596bc656113c92f1472a1b3ad4a2d4cc40315de2a7",
       "en_sha256": "c373fd43f8df0338c5121e31bc4f366f8c4642afc303ff538885814b4ee48bd9",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=9020801].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Talisman Strike",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem",
       "kr_sha256": "7eef10d559931e83bafeacb96dd7b8891c9da075daf81e06769b6be6a7d5ff38",
       "en_sha256": "6fd7e51ce910cdf1665d41cde3c2905fdbca01ec649c02fc2f2af0ee0241eb6a",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=9020802].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Trigger Effect",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu",
       "kr_sha256": "a52cbdd465c2a88ccba7c0ce819af84b0e974c0ec3c2cd43e23e203298f306ae",
       "en_sha256": "884248bee94b61914e2adffb02f30843578e69ec21e15cf3fe4289919fe1a991",
       "origin": "ai"
@@ -325,7 +325,7 @@
       "origin": "ai"
     },
     "dataList[id=9020803].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Deathrite Doll",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci",
       "kr_sha256": "1b848bd8991f9789fecd59be3dca95f70e57055629175510fd027506776275bf",
       "en_sha256": "840f3d73843dcce036e57a45112cb280c575c14c020b44ef6da313d340e043b4",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=9020804].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Defend",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Obrona",
       "kr_sha256": "d545c4db62cbaf91a0c9141e5e458d9a89e7919d86badad2a12d123bfad57d11",
       "en_sha256": "6966761322888134a41b3b696ce8dccbd157a056c177f3c837f909d84124aca7",
       "origin": "ai"
@@ -361,7 +361,7 @@
       "origin": "ai"
     },
     "dataList[id=9020901].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Talisman Strike",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem",
       "kr_sha256": "7eef10d559931e83bafeacb96dd7b8891c9da075daf81e06769b6be6a7d5ff38",
       "en_sha256": "6fd7e51ce910cdf1665d41cde3c2905fdbca01ec649c02fc2f2af0ee0241eb6a",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=9020902].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Trigger Effect",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu",
       "kr_sha256": "a52cbdd465c2a88ccba7c0ce819af84b0e974c0ec3c2cd43e23e203298f306ae",
       "en_sha256": "884248bee94b61914e2adffb02f30843578e69ec21e15cf3fe4289919fe1a991",
       "origin": "ai"
@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=9020903].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Execution",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Egzekucja",
       "kr_sha256": "1ea7fbad271d2a91d58e4098b6f7dea09198c9d1f303f5307cffc69686a29761",
       "en_sha256": "e94840cc12a07f0c94c51ccf3d506ec81572a7881c780f5acb0587cb997ef74c",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=9020904].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Vile Burst",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Szpetny Wybuch",
       "kr_sha256": "7a332c9dee2e89ddb0611a4c0699e7a865971f60dcda36a82a466ae6f02e5150",
       "en_sha256": "cdc816869b5f9d0e73304ba7b2114ff82f9ba84829e5e6d92366a49476c5cca3",
       "origin": "ai"
@@ -487,7 +487,7 @@
       "origin": "ai"
     },
     "dataList[id=9020905].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Defend",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Obrona",
       "kr_sha256": "d545c4db62cbaf91a0c9141e5e458d9a89e7919d86badad2a12d123bfad57d11",
       "en_sha256": "6966761322888134a41b3b696ce8dccbd157a056c177f3c837f909d84124aca7",
       "origin": "ai"
@@ -511,7 +511,7 @@
       "origin": "ai"
     },
     "dataList[id=9021001].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Slam",
+      "pl": "Styl Naładowanej Topora (充斧流) - Bicie",
       "kr_sha256": "3fb867c622d8259152aad5348424cddce993e3202386214c950f052a8e12747c",
       "en_sha256": "6967b7cce7d342bb08ee9e304daa2ce3f1629af4131c806f6c5d387eb24c93cc",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=9021002].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Swing",
+      "pl": "Styl Naładowanej Topora (充斧流) - Machnięcie",
       "kr_sha256": "911dcdd44a7ab586a472e64517f370d35e1616df4fafc0f7d8dabef9b353f250",
       "en_sha256": "cbaf410a939ba1c664043e95c1ebda385bc1a80368bfe6c328a9ed61aa66538c",
       "origin": "ai"
@@ -571,7 +571,7 @@
       "origin": "ai"
     },
     "dataList[id=9021003].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Crush",
+      "pl": "Styl Naładowanej Topora (充斧流) - Rozgniotenie",
       "kr_sha256": "d910a3e11b89758bce99da7416b882e2936c301eefdd88dcad7c9d48ad6f2899",
       "en_sha256": "d0758dc8f2539653926ab733931ba3453dfd95fdae0c116b04f9cbe1e1272ef8",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=9021004].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Rhythm",
+      "pl": "Styl Naładowanej Topora (充斧流) - Rytm",
       "kr_sha256": "7c3a4ebf2391c04d9df632a1fd7e9827d8ed71b580c57aee3dcf0f61b1bc52b7",
       "en_sha256": "b830d2d494879998d16bd313d54bd4c9c1b07a21b3b07660f3625408b162182a",
       "origin": "ai"
@@ -607,7 +607,7 @@
       "origin": "ai"
     },
     "dataList[id=9021101].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Cleave",
+      "pl": "Styl Naładowanej Topora (充斧流) - Rozszczepienie",
       "kr_sha256": "1726509ac09c113cd1e30bfea6267ebb1b2aa888de8fc814370cfa28b4b72a42",
       "en_sha256": "b3e62c726c59ace082b5769ae3cc33443056397e7dd3f58412bcc70c0813fae1",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=9021102].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Coil",
+      "pl": "Styl Naładowanej Topora (充斧流) - Owinięcie",
       "kr_sha256": "e69225070ca5f1743e0eb0161eb2351f069b81930e9cfa90e050e3e2a21aae8f",
       "en_sha256": "4aed2720a730bf2556c56c09340960f5af9af41680429f2b919728592968e777",
       "origin": "ai"
@@ -667,7 +667,7 @@
       "origin": "ai"
     },
     "dataList[id=9021103].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Burst",
+      "pl": "Styl Naładowanej Topora (充斧流) - Wybuch",
       "kr_sha256": "3f46f01948ab0dfd262d9562c0c1883cdf2f9ae10fceab1e0947bfce772e5d15",
       "en_sha256": "3646b4a2c5f9b8dc04829aa7b4b8eb31f2650a49dcdf369361bd79c53128df66",
       "origin": "ai"
@@ -685,7 +685,7 @@
       "origin": "ai"
     },
     "dataList[id=9021104].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Rhythm",
+      "pl": "Styl Naładowanej Topora (充斧流) - Rytm",
       "kr_sha256": "7c3a4ebf2391c04d9df632a1fd7e9827d8ed71b580c57aee3dcf0f61b1bc52b7",
       "en_sha256": "b830d2d494879998d16bd313d54bd4c9c1b07a21b3b07660f3625408b162182a",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=9021201].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Cleave and Crush",
+      "pl": "Styl Naładowanej Topora (充斧流) - Rozszczepienie i Zgniot",
       "kr_sha256": "dda1c36c2861983584a5048a64f1d55c4b858e0d0677c77f64e110021d4a88b3",
       "en_sha256": "2571944e077a8cc44108bb0c4570d3eb8d6db60f56758a50c495c21632d988f1",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=9021202].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Windup Crush",
+      "pl": "Styl Naładowanej Topora (充斧流) - Zgniatający Zamach",
       "kr_sha256": "f9f19320fdf3746b735fd831b62f7d894e4cdc37c87692513908776222db5336",
       "en_sha256": "1ed87450b4715aeee1e2c4caaee2c50987612e04d34451d3a86584d0ff13e24f",
       "origin": "ai"
@@ -781,7 +781,7 @@
       "origin": "ai"
     },
     "dataList[id=9021203].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Shatter",
+      "pl": "Styl Naładowanej Topora (充斧流) - Roztrzaskanie",
       "kr_sha256": "a2988ab4c5d3c30a56deb28e7c85436d5769459ef29a6be01a0909f93ec8adee",
       "en_sha256": "851384488adbb21936659da8e80e7a408ccef9a26063f17876bebaf5d7db73b2",
       "origin": "ai"
@@ -805,7 +805,7 @@
       "origin": "ai"
     },
     "dataList[id=9021204].levelList[level=1].name": {
-      "pl": "Charge Axe Style - Rhythm Matching",
+      "pl": "Styl Naładowanej Topora (充斧流) - Trzymanie Rytmu",
       "kr_sha256": "7e4373a391779bb9166161ea198c507d1d9704388f58ca50f06be272f172da9c",
       "en_sha256": "915106a8b86289fff98fb07e78670cb1feb05f9424d788f7c92c2322861185d0",
       "origin": "ai"

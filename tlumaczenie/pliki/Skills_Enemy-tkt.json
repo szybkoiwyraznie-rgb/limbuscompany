@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=9014002].levelList[level=1].name": {
-      "pl": "My Secret Weapon",
+      "pl": "Mój Tajny Oręż",
       "kr_sha256": "2e50d9b3fd0e95d587bf9b3240a85870e17700da38aed53199f6daf101109b16",
       "en_sha256": "64e5dc5c0eafddbf16959dea5bdb64207b8d80406975eaa97f20a6434c369e56",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=9014003].levelList[level=1].name": {
-      "pl": "Filthy Watch Chains!",
+      "pl": "Plugawe Łańcuchy Zegarowe!",
       "kr_sha256": "6944c5db5a4050818f3b35d5f0c14ea9d41606adcf902c8228d87d066720ad0a",
       "en_sha256": "886c3cf340e63543499c5041446361703f4f530ed32ec312e49bfc568461a138",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=9014101].levelList[level=1].name": {
-      "pl": "Outta My Way",
+      "pl": "Z Drogi",
       "kr_sha256": "b50b52e0a33ee6a46d48b6ea855dbcc7ddf3e007a478e4f811b548362225e334",
       "en_sha256": "dfc37e0e00f790438c8dc481088e87feee0cac9e93910bc50ad7fa1bbd05d177",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9014102].levelList[level=1].name": {
-      "pl": "I'm Pretty Good, You Know",
+      "pl": "Mocny Jestem, Co Nie?",
       "kr_sha256": "cc2fdd30e929b8a2be065a760b097cc78a69c13f377f4c49883da09ec74b5517",
       "en_sha256": "d3d0894f74f0e010e5453cc91ff5655021b5ba5c648db5eabe456109d7d4df83",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=9014103].levelList[level=1].name": {
-      "pl": "Vile Watch Chains!",
+      "pl": "Plugawe Łańcuchy Zegarowe!",
       "kr_sha256": "1d850e3ec7bed4f5bad9b9371ed1f3a524d3f6cccb65b31d7c3cf278f611898e",
       "en_sha256": "65eb25277d0e5b9c290c9b7d85a96658022d572c2e258e5aa0bb187f92d4cb61",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=9014201].levelList[level=1].name": {
-      "pl": "Collection Stop-and-search",
+      "pl": "Naliczenie: Kontrola",
       "kr_sha256": "e370389bc330fc11c135265abb0cdd1ad7fb7578b52bb0ff4f6a3fc8b6053724",
       "en_sha256": "9b409eae1bdf5f8811c93cf17fcca4317aebc20b8777cd1e688b1f98a1546f6d",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=9014202].levelList[level=1].name": {
-      "pl": "Please Stop.",
+      "pl": "Proszę Się Zatrzymać.",
       "kr_sha256": "b164aa6223b4589a19885d23642af5d8406536c0271439a94e16658bf80df8dd",
       "en_sha256": "f8ce870af3ea462f9c0220a0db05a8f3ca0475168c2d1a2ab11efc8178ddef89",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=9014203].levelList[level=1].name": {
-      "pl": "Enforcing Collections.",
+      "pl": "Egzekwuję Naliczenie.",
       "kr_sha256": "60584709bf26747b823e7f5d4bb2ab74dbf935863f2f97596f3d988b84e3939a",
       "en_sha256": "8bf929dbd6858d91e4cd7bc26ec97cffaf535d53758aa3c36f5bcb50788f4382",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=9014303].levelList[level=1].name": {
-      "pl": "Your Timepiece, If You Will.",
+      "pl": "Twój Zegarek, jeśli wolno.",
       "kr_sha256": "d99c46b17eb0eac6748315d29118164a1c6b09f9c09ac744b944090613d4c5f9",
       "en_sha256": "5b86c1af900d20456b6878616f3782dc112c5921e38cd4079a50bcf4b0d8eb01",
       "origin": "ai"
@@ -487,7 +487,7 @@
       "origin": "ai"
     },
     "dataList[id=9014304].levelList[level=1].name": {
-      "pl": "Enforcing Collections.",
+      "pl": "Egzekwuję Naliczenie.",
       "kr_sha256": "60584709bf26747b823e7f5d4bb2ab74dbf935863f2f97596f3d988b84e3939a",
       "en_sha256": "8bf929dbd6858d91e4cd7bc26ec97cffaf535d53758aa3c36f5bcb50788f4382",
       "origin": "ai"
@@ -553,7 +553,7 @@
       "origin": "ai"
     },
     "dataList[id=9014402].levelList[level=1].name": {
-      "pl": "T Corp. Time Snare",
+      "pl": "Pułapka Czasu T Corp.",
       "kr_sha256": "41d8af5f56f8e9e36cd451080c06b483ae4991881cfca0870f576cd3f0c54df3",
       "en_sha256": "167cfddd4657f4c1d8f6dfb26df06b62434b7504e86a07bac30e5b6fecc01c42",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=9014403].levelList[level=1].name": {
-      "pl": "Stand Still.",
+      "pl": "Proszę Nie Ruszać się.",
       "kr_sha256": "badb4ff6797ab616bc58a6d30fd7a6b3568c6a6977db241cc0c9ac5e192eec38",
       "en_sha256": "64a25065c348f739493207c1b2d0833a6574aa8819a91d965ff844ab4eef5d23",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=9014404].levelList[level=1].name": {
-      "pl": "Enforcing Collections.",
+      "pl": "Egzekwuję Naliczenie.",
       "kr_sha256": "60584709bf26747b823e7f5d4bb2ab74dbf935863f2f97596f3d988b84e3939a",
       "en_sha256": "8bf929dbd6858d91e4cd7bc26ec97cffaf535d53758aa3c36f5bcb50788f4382",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=9101701].levelList[level=1].name": {
-      "pl": "Have You No Shame?",
+      "pl": "Wstydu Nie Masz?",
       "kr_sha256": "7981b0a391880d2123c8c91da6a3de23429a00613d1ebc5dfa008a0b78c4c229",
       "en_sha256": "807634baea68b077c71eae5717299d72c4db3c752927a48fdeeaffc30f3b2997",
       "origin": "ai"
@@ -679,7 +679,7 @@
       "origin": "ai"
     },
     "dataList[id=9101702].levelList[level=1].name": {
-      "pl": "I See, You Have No Shame",
+      "pl": "Widzę, Wstydu Nie Masz",
       "kr_sha256": "60a2fef6c65e94a423a132c27697d947b78bc6216c24d28f62af589a2c1b47a0",
       "en_sha256": "ca6a2ca06ce4212bc54efc57f07a4d71d2e6887b54713d9b0393e4cf459c05a7",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=9101703].levelList[level=1].name": {
-      "pl": "Can You Protect Them?",
+      "pl": "Zdołasz Ich Chronić?",
       "kr_sha256": "80c6d69aac610f589b13e281ce7d81ac3313cfee2854b4609c3fd545337b8a01",
       "en_sha256": "b90b880af1e77f8846ff77b06a0eaa424c297e67af45ef9d7bb3f00399366384",
       "origin": "ai"
@@ -739,7 +739,7 @@
       "origin": "ai"
     },
     "dataList[id=9101704].levelList[level=1].name": {
-      "pl": "Can't Use That Weapon Now",
+      "pl": "Tej Broni Już Nie Użyjesz",
       "kr_sha256": "3026d53716f357baa7938e158852fa8753c30b4166884506e19ba04c7704c2b5",
       "en_sha256": "c6582bae0e8150f0db0042b57ec0465fdea4665b5da405cf7b294ce38089c376",
       "origin": "ai"
@@ -763,7 +763,7 @@
       "origin": "ai"
     },
     "dataList[id=9101705].levelList[level=1].name": {
-      "pl": "Ready For A Beating?",
+      "pl": "Gotowy na Bitę?",
       "kr_sha256": "7aa53cc98cea4317094e75043bb5e29aaafd7ddca4de21185f489a24de4494a4",
       "en_sha256": "3dcb87311807c891d09a688a14cc2adc8da397245c6f0b4c513a6f6a20bf3ae7",
       "origin": "ai"
@@ -829,7 +829,7 @@
       "origin": "ai"
     },
     "dataList[id=9101707].levelList[level=1].name": {
-      "pl": "For the Greater Good",
+      "pl": "Dla Większego Dobra",
       "kr_sha256": "a6d392b0dca6bbf0b229a42785a470ea8510ff4fe3120fc48f0d59fed764b1e0",
       "en_sha256": "5d47399888143817f5af1e68a6e6cf757b416f2d9262ff66365b963a3bcc40c7",
       "origin": "ai"

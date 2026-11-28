@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=863001].levelList[level=1].name": {
-      "pl": "Rear Line Fire",
+      "pl": "Ostrzał z Tyłu",
       "kr_sha256": "6de821eeead41478e523273ad32d7e2c51058660d2f6949bd3627cc15e2c71a6",
       "en_sha256": "48304d29a9132afb6db1b6b7fd357a885c1d51125418368eb76256b8b0f4de12",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=863002].levelList[level=1].name": {
-      "pl": "Front Line Fire",
+      "pl": "Ostrzał z Przodu",
       "kr_sha256": "b6dfec9b55f4cea3d16afddc6275eefb101db9955fcb12cbf29c34b0d43f85e3",
       "en_sha256": "437d41b67e53a0d62de7aa830fa309e6d375f92f2a75defe6d33a09d0591539c",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=863004].levelList[level=1].name": {
-      "pl": "Reload, Fire",
+      "pl": "Przeładowanie, Ogień",
       "kr_sha256": "a9a9f2a01b3c6f2b2c8bd972a7fc6f98d7b5182b1812e8fc83910839cfc9a9ff",
       "en_sha256": "9544ad900c9f464ab2fd38f6a41f796ec7fd70619980930bc624cd9d505dcc44",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=863201].levelList[level=1].name": {
-      "pl": "Maul",
+      "pl": "Rozszarpanie",
       "kr_sha256": "4ed6ed4e5964d9e5ddc8f637ff7909aa3496a58f7cfdd3d017adf23724fdf53a",
       "en_sha256": "4d405e383765b0d5e2c6f3ac7fc288033808d159753029ebc9209182dbb2094f",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=863202].levelList[level=1].name": {
-      "pl": "Devastate",
+      "pl": "Zdemolowanie",
       "kr_sha256": "fe6c1074c79690983995de0bdf0cc30f2825f11f69aeef08cebe8fcd28885b4b",
       "en_sha256": "f1da5cda46a12fceb5c2695c088e969c1c3ee1de1f18f47049c82683288659bc",
       "origin": "ai"
@@ -331,7 +331,7 @@
       "origin": "ai"
     },
     "dataList[id=863203].levelList[level=1].name": {
-      "pl": "Labored Breathing",
+      "pl": "Ciężki Oddech",
       "kr_sha256": "202e0db0e5dab80b1c2da6564b500915065f035029fe674acc026bfda13d3e51",
       "en_sha256": "8e6599fc02dbffead35ece6e3e5c1aa37961ae87fab8c719423841d332f46017",
       "origin": "ai"
@@ -373,7 +373,7 @@
       "origin": "ai"
     },
     "dataList[id=863212].levelList[level=1].name": {
-      "pl": "That's... MINE!",
+      "pl": "To... MOJE!",
       "kr_sha256": "6cf2ba03c2f9d62210b32a6d36a174c216aaebce6404b8f0dd0f0a7680d127d3",
       "en_sha256": "708a52182121be4d0c5c3414fd54130aeb2370c8763a248402edb3a1d8fe4cc5",
       "origin": "ai"
@@ -421,7 +421,7 @@
       "origin": "ai"
     },
     "dataList[id=863213].levelList[level=1].name": {
-      "pl": "Share the Pain",
+      "pl": "Dziel Ból",
       "kr_sha256": "03d51b1154a375c6c5dbc189949d4a3839653607dc31e365d4bccb77c0b3632f",
       "en_sha256": "e26e43821fa36510ce5dcb920abf57667f16bb59439c04ed1de846d0bf8cd4d4",
       "origin": "ai"
@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=863221].levelList[level=1].name": {
-      "pl": "Freed from the Life of Suffering",
+      "pl": "Wyzwolenie z Życia Cierpienia",
       "kr_sha256": "2c2a715e6cd73e35cdc9330b9c5da66a1a0abf8773d9b26581014c68294741ab",
       "en_sha256": "dffcb79005f834929b8299438cb59412c3daaf2a4b6a74e3ada71f4f44e1c146",
       "origin": "ai"
@@ -469,7 +469,7 @@
       "origin": "ai"
     },
     "dataList[id=863301].levelList[level=1].name": {
-      "pl": "Tenacious Wound",
+      "pl": "Uparte Ranienie",
       "kr_sha256": "1c5f5a29b1fa55dfb4cc30805a196e32348f0dc46a63e7ed7b23c38cb1e4bc19",
       "en_sha256": "6b183876fbbe15facc1fccfbd5a54561244226ff91e54ae33f2c8931febcd523",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=863303].levelList[level=1].name": {
-      "pl": "Brambles that Constrict",
+      "pl": "Zwijające się Cierniste Pnącza",
       "kr_sha256": "6c558b797e9797d713ea1ce79ad463c004a67ada06516e54563d29c8206bd5bf",
       "en_sha256": "deb82a92525a79983db9129e5be3c7b1e345a7aac91633632b71acf4e9a04d0f",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=863311].levelList[level=1].name": {
-      "pl": "Polydipsic Petals",
+      "pl": "Spragnione Płatki",
       "kr_sha256": "4cd4ee702c4b2ef7d0e5ea36bb80f5283a08141a3bee156071da9a4b962b0f2e",
       "en_sha256": "b44cde96e569e757d6a4cfbaf4cd9a0ec6c7fa2ed8147ce48a8aa6551b7a3399",
       "origin": "ai"
@@ -571,7 +571,7 @@
       "origin": "ai"
     },
     "dataList[id=863312].levelList[level=1].name": {
-      "pl": "Bursting Petals",
+      "pl": "Wybuchające Płatki",
       "kr_sha256": "57361d34e6cb4daac2e04566d96fa7879636e2f3388aab284ebc586a8415a621",
       "en_sha256": "780ad68b7a6e956b8edfc568d9a21f94a250c283fbe403f5af797b2584807bf6",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=863313].levelList[level=1].name": {
-      "pl": "Storm of Spikes",
+      "pl": "Sztorm Kolców",
       "kr_sha256": "cd5c3862374da1a2832e73e833bf3dff36ef79032e0b176022d3349045319a0b",
       "en_sha256": "a89fb50fce1d02e82039f84843c822824c9e8ff549290a98db9823a6d48be6d7",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=863314].levelList[level=1].name": {
-      "pl": "Polydipsic Thorn",
+      "pl": "Spragniony Cierń",
       "kr_sha256": "3043630c82d297af449535712b5842baddcaaf01adaa6e7095a874cc538a559f",
       "en_sha256": "48101e1ce093c8871e9186d3524be946a861ad85301d2b642c750a33dc05dd74",
       "origin": "ai"
@@ -703,7 +703,7 @@
       "origin": "ai"
     },
     "dataList[id=863315].levelList[level=1].name": {
-      "pl": "Endless Spring of Blood",
+      "pl": "Nieskończone Źródło Krwi",
       "kr_sha256": "7ebca5da4a084abc0a3b7fb9dc94a60652241e488bbd7c4e117a1fc7f1425ffe",
       "en_sha256": "323c73a69680c5dc7e2a8e662b875dfde92c98db02e3a0170dd31d21409461dd",
       "origin": "ai"
@@ -715,7 +715,7 @@
       "origin": "ai"
     },
     "dataList[id=863316].levelList[level=1].name": {
-      "pl": "Nutrient Craving",
+      "pl": "Pragnienie Pokarmu",
       "kr_sha256": "739462457dcf1065b3f48a2fbe95332c711a32e7cbff75dc2a0e4fd41f093043",
       "en_sha256": "36d7ee0d2d322a2496615e09692b885e4540bdbc02b3c2c3fb246080e0b0e1d9",
       "origin": "ai"
@@ -727,7 +727,7 @@
       "origin": "ai"
     },
     "dataList[id=863317].levelList[level=1].name": {
-      "pl": "Brambles that Yearn",
+      "pl": "Pnącza Tęsknoty",
       "kr_sha256": "368560ae20957daac4e00f959b58b7aa7453c18a97a559ea84d9a3b77dd1e25a",
       "en_sha256": "7a4258a3e753e5c3e78a3f6eb0c2f34def62058d7ea8eb684f166758b13c9ff4",
       "origin": "ai"

@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9105901].levelList[level=1].name": {
-      "pl": "Batter",
+      "pl": "Bicie",
       "kr_sha256": "0f5c8c9784334fe6b282c9590af86cbaa4d014277dc83fd96254841095364938",
       "en_sha256": "ae2642c4d45cbfa1e6d208ca07452a04066d7895a060a1fdc7abd97126e9b257",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=9105902].levelList[level=1].name": {
-      "pl": "Body Slam",
+      "pl": "Bodnięcie Tułowiem",
       "kr_sha256": "85affe02bdbe2883851b37d9e6d5ea3b9e7bdd3c70d193f4dde98608168c2608",
       "en_sha256": "93d03dfd61e8b406dad952d09b53cc4727d5b7965bdf03a0f840520c5b5a9993",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=9105904].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=9106001].levelList[level=1].name": {
-      "pl": "Strike",
+      "pl": "Cios",
       "kr_sha256": "c7cbf66e278fb3585209bb1d2c37c039f3e804f799fb3936a66a2459f129d0be",
       "en_sha256": "92c872eb9eff1c86014894c6f5795808a22789c9f128b976fa98c196e66caf7f",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=9106002].levelList[level=1].name": {
-      "pl": "Body Check",
+      "pl": "Popychanie Tułowiem",
       "kr_sha256": "7bca7a246269ebe4f8a546093a852e372abcc3857bfa7f1fae72b7cf888d3c65",
       "en_sha256": "546779192e184129486552ae3eafcb9c65e400b43e65ad6078b3817ac2e24da9",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=9106004].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=9106101].levelList[level=1].name": {
-      "pl": "Rummage",
+      "pl": "Grzebanie",
       "kr_sha256": "41a313d80765b6171757d43ecf2a2765d2cabbe1727479809785853bc17df50a",
       "en_sha256": "8fd987363c46a8984f4a271db24548f3d561c4ca3af4c7885bbe17a40349306e",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=9106102].levelList[level=1].name": {
-      "pl": "Snatch Up",
+      "pl": "Wygrabienie",
       "kr_sha256": "c98c36c6729a0a9c852c76d2138bc1a65a34fea4cab9ed9dc53176eb5f3d01a2",
       "en_sha256": "f793d4d4c03a18615cf0042eff24c905ee852b9c34ff51c9b34a4a79dbc9b861",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=9106103].levelList[level=1].name": {
-      "pl": "Got one!",
+      "pl": "Złapany!",
       "kr_sha256": "c2e68c43cf7ee1ec5ef8e6dc7633f978042533bfefeca188146a02fc5c2c3222",
       "en_sha256": "2f288f3dfe9fd23822e5b4c367da1df5731fe73d01e320f6363092658cc3c20d",
       "origin": "ai"
@@ -331,7 +331,7 @@
       "origin": "ai"
     },
     "dataList[id=9106104].levelList[level=1].name": {
-      "pl": "Nah, man! That one's mine!",
+      "pl": "Ej! To Moje!",
       "kr_sha256": "34b46a25449aa44276960434420e76de850a04e4acdbecd7d7d6ce091ceab2de",
       "en_sha256": "e9514e840e28e86d68861107ab36f6349acb9f8cb28488882ade5f5f62824873",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=9106201].levelList[level=1].name": {
-      "pl": "Rummage",
+      "pl": "Grzebanie",
       "kr_sha256": "41a313d80765b6171757d43ecf2a2765d2cabbe1727479809785853bc17df50a",
       "en_sha256": "8fd987363c46a8984f4a271db24548f3d561c4ca3af4c7885bbe17a40349306e",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=9106202].levelList[level=1].name": {
-      "pl": "Snatch Up",
+      "pl": "Wygrabienie",
       "kr_sha256": "c98c36c6729a0a9c852c76d2138bc1a65a34fea4cab9ed9dc53176eb5f3d01a2",
       "en_sha256": "f793d4d4c03a18615cf0042eff24c905ee852b9c34ff51c9b34a4a79dbc9b861",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=9106203].levelList[level=1].name": {
-      "pl": "Got one!",
+      "pl": "Złapany!",
       "kr_sha256": "c2e68c43cf7ee1ec5ef8e6dc7633f978042533bfefeca188146a02fc5c2c3222",
       "en_sha256": "2f288f3dfe9fd23822e5b4c367da1df5731fe73d01e320f6363092658cc3c20d",
       "origin": "ai"
@@ -451,7 +451,7 @@
       "origin": "ai"
     },
     "dataList[id=9106204].levelList[level=1].name": {
-      "pl": "Nah, man! That one's mine!",
+      "pl": "Ej! To Moje!",
       "kr_sha256": "34b46a25449aa44276960434420e76de850a04e4acdbecd7d7d6ce091ceab2de",
       "en_sha256": "e9514e840e28e86d68861107ab36f6349acb9f8cb28488882ade5f5f62824873",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=9106301].levelList[level=1].name": {
-      "pl": "Running Stitch - Warp",
+      "pl": "Szew Bieżący - Osnowa",
       "kr_sha256": "0bdfaa257416350c8897da16d451dcaf4fc5b2def11f667fbbea52c1ce8df249",
       "en_sha256": "568c86cf20890d903d33cf4c989e4fc6a646cd603437dd4b48f5fb3f7c621224",
       "origin": "ai"
@@ -505,7 +505,7 @@
       "origin": "ai"
     },
     "dataList[id=9106302].levelList[level=1].name": {
-      "pl": "Tacking Stitch - Warp",
+      "pl": "Szew Tymczasowy - Osnowa",
       "kr_sha256": "2d25a5e0f63afb30b57fc797ffb3f8bbefd377bf6315b6c98b98cf6a2b743e35",
       "en_sha256": "4ae6f70efbaac4aedd6e815c78b6ab2dbdffbfd2c566a28e56a50685129ec825",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=9106303].levelList[level=1].name": {
-      "pl": "Backstitch - Warp",
+      "pl": "Zszywanie - Osnowa",
       "kr_sha256": "2a9b6192193a49ae36690d412f726aa21dad506d238654df35ef74181c7865cc",
       "en_sha256": "9583ed531fc9c7f9070e0da4a9ff18e7961e3c61c3ecd7f2ad06d185c6e49d58",
       "origin": "ai"
@@ -559,7 +559,7 @@
       "origin": "ai"
     },
     "dataList[id=9106304].levelList[level=1].name": {
-      "pl": "Blind Stitch - Warp",
+      "pl": "Ślepy Szew - Osnowa",
       "kr_sha256": "62c6729d626b81584864ea6abc52ce7fff87a659199ac2a9e018ed9a7762e5c8",
       "en_sha256": "68ae6c2eec62881d2a350e9cb544c25107a9708ff29752ec5e91071133f6667a",
       "origin": "ai"
@@ -583,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=9106401].levelList[level=1].name": {
-      "pl": "Running Stitch - Weft",
+      "pl": "Szew Bieżący - Wątek",
       "kr_sha256": "d664368a06cf50fbecd4a3ce708943d457503e63253ba2394deb585c07885dd3",
       "en_sha256": "6983dc5f326d4d6f9363596040ec202f6f5307276d07e0bbf697bdc9cc8a9f5a",
       "origin": "ai"
@@ -613,7 +613,7 @@
       "origin": "ai"
     },
     "dataList[id=9106402].levelList[level=1].name": {
-      "pl": "Tacking Stitch - Weft",
+      "pl": "Szew Tymczasowy - Wątek",
       "kr_sha256": "9dc80b84d2f882fa67881857c8849fb3f15876282997060af32066a3bb76a042",
       "en_sha256": "5a90f8e7fc1114f67f5c59052540855c9b094d19778d6039c86d062322a37e4f",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=9106403].levelList[level=1].name": {
-      "pl": "Backstitch - Weft",
+      "pl": "Zszywanie - Wątek",
       "kr_sha256": "5163a8fb531b9da0f68347caf4cd3603045d854d17e2881e41e05bda70a538f9",
       "en_sha256": "dd0448a268ef9bda265db0a74148d70317fb23e8a6ba8bd58e9bf7f0e8a052db",
       "origin": "ai"
@@ -667,7 +667,7 @@
       "origin": "ai"
     },
     "dataList[id=9106404].levelList[level=1].name": {
-      "pl": "Blind Stitch - Weft",
+      "pl": "Ślepy Szew - Wątek",
       "kr_sha256": "a46a1403a53c27984721ac33179c15afa3641515514169f6ccea23f84fe02df3",
       "en_sha256": "2f67af385912efa4da1be37e632b74ce41ef693298dcd37bb318c18115ba9d20",
       "origin": "ai"
@@ -697,7 +697,7 @@
       "origin": "ai"
     },
     "dataList[id=9106601].levelList[level=1].name": {
-      "pl": "Don't touch me...!",
+      "pl": "Nie dotykaj...!",
       "kr_sha256": "5606424e9534cb488bf9414bdda9162621887128688c8cffbcc02a9a3d091b4e",
       "en_sha256": "b7343e42dff5045affdc26dc69ee8d8369a08e09a20e265c5d360066ffd71e86",
       "origin": "ai"
@@ -727,7 +727,7 @@
       "origin": "ai"
     },
     "dataList[id=9106602].levelList[level=1].name": {
-      "pl": "Get your hands off me...!",
+      "pl": "Zabierz łapy...!",
       "kr_sha256": "6d4e34e74b78513b5adda325b3401a36a8f4e8a15b413a4626f5a1ce67b586f4",
       "en_sha256": "d9ee5d0a19e17a806c147cfec9c130828aabb0da8c6cd0f52dc880bcc91d8705",
       "origin": "ai"
@@ -763,7 +763,7 @@
       "origin": "ai"
     },
     "dataList[id=9106603].levelList[level=1].name": {
-      "pl": "We shouldn't be doing anything...!",
+      "pl": "Nie powinniśmy nic robić...!",
       "kr_sha256": "df2664e230087485f4dc07526dd51da9c9e3f09357e0744be22d6f5567478685",
       "en_sha256": "1b615d4a85f954c32a864f32720a640a71d40f890f5c192771789e91efc52f1c",
       "origin": "ai"

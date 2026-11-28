@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=122801].levelList[level=1].name": {
-      "pl": "Are You Afraid?",
+      "pl": "Strach Cię Wziął?",
       "kr_sha256": "e9f163eb8a18ab49f7334c0f12dad88d0cc5eb4ae772b64c1522795ecedf0876",
       "en_sha256": "3d21b4710245ab9cdbc431a9784fb2996b18e4c899de4cd38602cd6afdd00245",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=122802].levelList[level=1].name": {
-      "pl": "Punishment For Time Killers",
+      "pl": "Kara za Zabijanie Czasu",
       "kr_sha256": "e4a35d1e0ee8082d76f3a8431c7e93d6e4ff12b30be82bb16896f26c44382f6a",
       "en_sha256": "436cae0e6ef7323da6ff84412b28ec029d04254028ac76a336b7c8c23e0e096f",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=122805].levelList[level=1].name": {
-      "pl": "Time to be Saved",
+      "pl": "Czas na Zbawienie",
       "kr_sha256": "4e07534b05b36e75a4bfb899b4ef98af3fcc9bf0d00f61057fec5a5ef61b584d",
       "en_sha256": "0bc6edf4c88ef23be3995c5e561bb179a3f65f5aa07f56b254e415f0c8964c60",
       "origin": "ai"
@@ -193,7 +193,7 @@
       "origin": "ai"
     },
     "dataList[id=122807].levelList[level=1].name": {
-      "pl": "My...",
+      "pl": "O nie...",
       "kr_sha256": "b125ef986cefafb8d82db8d5f47518a945fe2183374b4c0931827720365500d9",
       "en_sha256": "56ef9e2de10fe1ce5c4bede177e6fc95dbd990ac0ee0038d068808858770afd8",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=122808].levelList[level=1].name": {
-      "pl": "Running Out of Time",
+      "pl": "Brakuje Czasu",
       "kr_sha256": "e2b36355f33fb66fddce2c8873766ac8ef1d135cef206091c1f5b66a87980e82",
       "en_sha256": "53027df58fff214dce03b95b6633add226087fe3cfed2dae8b0f73b24a7bb4e6",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=122901].levelList[level=1].name": {
-      "pl": "Are You Afraid?",
+      "pl": "Strach Cię Wziął?",
       "kr_sha256": "e9f163eb8a18ab49f7334c0f12dad88d0cc5eb4ae772b64c1522795ecedf0876",
       "en_sha256": "3d21b4710245ab9cdbc431a9784fb2996b18e4c899de4cd38602cd6afdd00245",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=122902].levelList[level=1].name": {
-      "pl": "Punishment For Time Killers",
+      "pl": "Kara za Zabijanie Czasu",
       "kr_sha256": "e4a35d1e0ee8082d76f3a8431c7e93d6e4ff12b30be82bb16896f26c44382f6a",
       "en_sha256": "436cae0e6ef7323da6ff84412b28ec029d04254028ac76a336b7c8c23e0e096f",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=122905].levelList[level=1].name": {
-      "pl": "Time to be Saved",
+      "pl": "Czas na Zbawienie",
       "kr_sha256": "4e07534b05b36e75a4bfb899b4ef98af3fcc9bf0d00f61057fec5a5ef61b584d",
       "en_sha256": "0bc6edf4c88ef23be3995c5e561bb179a3f65f5aa07f56b254e415f0c8964c60",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=122908].levelList[level=1].name": {
-      "pl": "We Need More Time!",
+      "pl": "Potrzebujemy Więcej Czasu!",
       "kr_sha256": "46e23e9d4c99a31fa4dcee9ccb2ef4d4ec47ddac34f962a9bef24fecfe904f5d",
       "en_sha256": "5bf816c516e7880a6cea96ce7ade2e5676f6ff34754b78c382075f70e6cf0d01",
       "origin": "ai"

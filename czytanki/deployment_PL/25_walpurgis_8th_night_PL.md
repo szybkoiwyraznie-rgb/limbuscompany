@@ -35,25 +35,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -96,25 +96,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -157,25 +157,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -218,25 +218,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chomping Gobble — id 136901
+##### Umiejętność: Chrupanie z Połykaniem — id 136901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Filling a Medium-sized Orange Bubble — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: More Potent, More Plentiful — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej — id 136903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Feed Consumption for BongBong Procreation — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -288,25 +288,25 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -349,25 +349,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -410,25 +410,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -471,25 +471,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chomping Gobble — id 136901
+##### Umiejętność: Chrupanie z Połykaniem — id 136901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Filling a Medium-sized Orange Bubble — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: More Potent, More Plentiful — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej — id 136903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Feed Consumption for BongBong Procreation — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -541,25 +541,25 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -602,25 +602,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -663,25 +663,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -724,25 +724,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chomping Gobble — id 136901
+##### Umiejętność: Chrupanie z Połykaniem — id 136901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Filling a Medium-sized Orange Bubble — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: More Potent, More Plentiful — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej — id 136903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Feed Consumption for BongBong Procreation — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -794,25 +794,25 @@ na koniec tury, przy 0 [Przygotowanie do Wędrówki Stada], przywołuje w nastę
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -855,25 +855,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -916,25 +916,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BongBong [Orange]
 
-##### Umiejętność: Pounce (×2) — id 136601
+##### Umiejętność: Natarcie (×2) — id 136601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Gnawing Gobble (×2) — id 136602
+##### Umiejętność: Gryzące Pożeranie (×2) — id 136602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Orange-flavored Bubble Supplement — id 136603
+##### Umiejętność: Uzupełnienie Pomarańczowych Bąbli — id 136603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Add a Note of Bubbly Flavor — id 136604
+##### Umiejętność: Nutka Bąbelkowego Smaku — id 136604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -977,25 +977,25 @@ jeżeli na polu bitwy jest „BunBun", ta pasywka nie aktywuje się
 
 *Opis:* Korpus BunBun [Juicy Squeezer - Orange]
 
-##### Umiejętność: Chomping Gobble — id 136901
+##### Umiejętność: Chrupanie z Połykaniem — id 136901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Filling a Medium-sized Orange Bubble — id 136902
+##### Umiejętność: Napełnianie Średniego Pomarańczowego Bąbla — id 136902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +4 |      2 |    1 |
 
-##### Umiejętność: More Potent, More Plentiful — id 136903
+##### Umiejętność: Bardziej Gęste i Więcej — id 136903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          7 |         +3 |      3 |    1 |
 
-##### Umiejętność: Feed Consumption for BongBong Procreation — id 136904
+##### Umiejętność: Pożywienie na Rozród BongBong — id 136904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |

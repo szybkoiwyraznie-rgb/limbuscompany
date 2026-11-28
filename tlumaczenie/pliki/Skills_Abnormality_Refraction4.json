@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=860501].levelList[level=1].name": {
-      "pl": "Leave This Place",
+      "pl": "Wynos się Stąd",
       "kr_sha256": "57f93ad654c010f95e587af29e8e946ff3ef33a38cef968e5f3de66b16e98eb1",
       "en_sha256": "5b8cb1e8453584e62e9b0ced15d693c9907944d6b9db1ddd132311513439a49d",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=860502].levelList[level=1].name": {
-      "pl": "Don't Make That Face",
+      "pl": "Nie Rób Takiej Minki",
       "kr_sha256": "2ac1834b38eec9ad46e91db260ae1cce9c821c92faeacc623cb4c648bd45e25d",
       "en_sha256": "f39d047ed20ce4a057d6d6a333d4c5d07e3df7071ebd024ca3d504aebc26df67",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=860503].levelList[level=1].name": {
-      "pl": "Who Might You Be?",
+      "pl": "Kim Ty Jesteś?",
       "kr_sha256": "f3b25d5585350cf568d36e81f8e264f2376a894256c22ec565414ed1e79fade9",
       "en_sha256": "d4533d8bb6055e0c90f179d4a30148ca8b5d5ccb57118c8ec7d9b36504aa6fee",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=860504].levelList[level=1].name": {
-      "pl": "Interloper, Are You?",
+      "pl": "Czy to Intruz?",
       "kr_sha256": "f96f38617e04486aa821d4e86c5862208239df2e9c189c9b01aea43e20df7671",
       "en_sha256": "ec66bdc41de4cd2b7e28b85d31706f0744d097ffaac33bcd040b98bbf8880a1f",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=860505].levelList[level=1].name": {
-      "pl": "Leave, Interloper",
+      "pl": "Wynos, Intruzie",
       "kr_sha256": "6347f601a4f77b1995a5552f8509fae25fe8ca5fcde415646b992d283a4f43b7",
       "en_sha256": "5d44f9e71245bc8d5249e115201f4deec1c7f9f64db5e5ffa15248dfa820f033",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=860507].levelList[level=1].name": {
-      "pl": "My Tragic Master",
+      "pl": "Mój Tragiczny Pan",
       "kr_sha256": "00adb75abdf2b1119279b5859f5c88bf5452bbd40d717c74a9e6560bcbf76001",
       "en_sha256": "49fdc7ffff180637f6950a91ec449b97656403be9846310b301ed2a363991c53",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=860801].levelList[level=1].name": {
-      "pl": "Horned Charge",
+      "pl": "Bodnięcie Rogiem",
       "kr_sha256": "85d57a86f51028793a639b4b4f8972e599614e4c9839eb341865dcbc5cadb56f",
       "en_sha256": "1654cbaaf77479593ddce37f68d273a7900528298d2b1658127e7b026a289ccf",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=860802].levelList[level=1].name": {
-      "pl": "Ram Charge",
+      "pl": "Bodnięcie Baranich Rogów",
       "kr_sha256": "693d901312aa6331243f6dca28df7a1646d32b78e5586c8cefb8103e49a3f10f",
       "en_sha256": "94d5762a68d7380a274c33fa574d94445769d58aa65b41aa419e188669647b64",
       "origin": "ai"
@@ -265,7 +265,7 @@
       "origin": "ai"
     },
     "dataList[id=860803].levelList[level=1].name": {
-      "pl": "Lamb's Cry",
+      "pl": "Bekanie Jagnięcia",
       "kr_sha256": "3a1f2b6059435d5e1b96cdb4146c2c326fc627590b204fd62b23551c527df0fd",
       "en_sha256": "0787b5e10aa4b248c9ca9a6a851db6d91cb0118031874e127a91f070ff1ae2d8",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=860804].levelList[level=1].name": {
-      "pl": "Lightning Manipulation",
+      "pl": "Manipulacja Piorunami",
       "kr_sha256": "d0ef58daaa6241bc64e8bd4c5a88882725f6a9bd09ab0c26e437e366b124b371",
       "en_sha256": "cd3d82e52d68ca420e497bd6af9d8c94b5465e4093f15ae4834101e0b3ef5222",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=860807].levelList[level=1].name": {
-      "pl": "Grounding Refusal",
+      "pl": "Odmowa Uziemienia",
       "kr_sha256": "983ef8ef1c9ca38e2cdb32bb18c0adb255d9f79420494b3fffc64aedcf12c6d7",
       "en_sha256": "6a9a6778d7b1fbae97095deaf93381223393cd824f358d1b307fbbe875bdb164",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=862801].levelList[level=1].name": {
-      "pl": "Overcharge Release",
+      "pl": "Uwolnienie Przeładowania",
       "kr_sha256": "eda7acc190acdb20f19844128836cea32f34b9233da98a93bb288d8cfd3357ac",
       "en_sha256": "6c80da2c1eada110eb3dded5872c4de899c448aee9bd122c2660ece03c4f586e",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=862901].levelList[level=1].name": {
-      "pl": "Enveloping Resignation",
+      "pl": "Owijająca Rezygnacja",
       "kr_sha256": "8d840d9216b8d35b94fa06f3bdb1664b185b4ff7c56d77da1e8f94e2a03e8f15",
       "en_sha256": "45e0b9a21c8555895e6ace9cff468bb2560f06c5df3755102ad0a6a208cd3d19",
       "origin": "ai"
@@ -421,7 +421,7 @@
       "origin": "ai"
     },
     "dataList[id=862902].levelList[level=1].name": {
-      "pl": "Strangling Despair",
+      "pl": "Dławiąca Rozpacz",
       "kr_sha256": "b3a5a8b0ad48a94822a98e9aecd469d407e1bd2355f11a8d7823aba0e54844d3",
       "en_sha256": "5bf995c8874d19ee799815b30117efbdf38ab5fa784f56e7e58a0f81023dbdcb",
       "origin": "ai"
@@ -457,7 +457,7 @@
       "origin": "ai"
     },
     "dataList[id=862903].levelList[level=1].name": {
-      "pl": "Chainbreaker",
+      "pl": "Przerwanie Łańcucha",
       "kr_sha256": "2ab227cde1ebc80d290e8f537d7a1a4f1d7b1e21e66e5d2fb66cae9662ef62f2",
       "en_sha256": "bc622c3a6a7d2104d1eb30f36efe5a2fda49fa9bdc2fcf9424344f7756e6d02c",
       "origin": "ai"
@@ -499,7 +499,7 @@
       "origin": "ai"
     },
     "dataList[id=862905].levelList[level=1].name": {
-      "pl": "Thou Wilt Sink",
+      "pl": "Zatopisz się",
       "kr_sha256": "2cc57fca235b9eecbcf33c726152009af4bd1bff191dfa5d857fda4d07eaf6b3",
       "en_sha256": "53aa0b2feac6751eb2e6ff3b1e2e49f91ad9f71e68139bf9430baaed165eaaa8",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=862906].levelList[level=1].name": {
-      "pl": "Present Thyself Before the King",
+      "pl": "Staw się przed Królem",
       "kr_sha256": "ab39f03fc8c69c8281b5aa55e5dc2844e6ec93a2688010b1237ec7ace2896b77",
       "en_sha256": "ba9d992695efd6e8692d00f43c93e4df561c946ed667d4e6e28f9cd3ca1c9548",
       "origin": "ai"

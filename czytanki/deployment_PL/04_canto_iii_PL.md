@@ -35,17 +35,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 8018
 
@@ -74,17 +76,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grind — id 801801
+##### Umiejętność: Grinding — id 801801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 801802
+##### Umiejętność: Dumne Miażdżenie — id 801802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-2 · Kontrola
 
@@ -102,8 +106,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka — id 9000401
@@ -111,6 +119,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Ostry Chuligan — id 90005
 
@@ -123,8 +133,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie — id 9000501
@@ -132,6 +146,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Chuligan z Wielkim Łbem — id 90007
 
@@ -144,8 +160,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3) — id 9000701
@@ -166,6 +186,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Wygłodniały Chuligan — id 90006
 
 *Wystąpienia: ×1 (poz. 16).*
@@ -177,8 +199,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Słabiutkie Uderzenie — id 9000601
@@ -186,6 +212,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-4 · Tabu
 
@@ -202,8 +230,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -246,8 +278,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stłumienie (×3) — id 9002901
@@ -294,8 +330,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -338,8 +378,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stłumienie (×3) — id 9002901
@@ -382,8 +426,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
@@ -420,8 +468,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
@@ -462,8 +514,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -506,8 +562,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stłumienie (×3) — id 9002901
@@ -550,8 +610,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
@@ -588,8 +652,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
@@ -645,25 +713,25 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -703,25 +771,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -766,17 +834,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Strike Down — id 801701
+##### Umiejętność: Ściągnięcie — id 801701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 801702
+##### Umiejętność: Przebijające Pożądanie — id 801702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 8018
 
@@ -805,17 +875,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Grind — id 801801
+##### Umiejętność: Grinding — id 801801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 801802
+##### Umiejętność: Dumne Miażdżenie — id 801802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-9 · Umowa z tamtego dnia
 
@@ -854,13 +926,13 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Lookout — id 802702
+##### Umiejętność: Wypatrywanie — id 802702
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Blind Charge — id 802703
+##### Umiejętność: Ślepy Szturm — id 802703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -899,17 +971,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-10 · Inkwizytorzy
 
@@ -926,8 +1000,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3) — id 9003201
@@ -968,8 +1046,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3) — id 9003201
@@ -1005,8 +1087,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3) — id 9003301
@@ -1046,8 +1132,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3) — id 9003201
@@ -1083,8 +1173,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3) — id 9003301
@@ -1120,8 +1214,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 50% / 25%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2) — id 9003202
@@ -1161,8 +1259,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3) — id 9003201
@@ -1198,8 +1300,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3) — id 9003301
@@ -1235,8 +1341,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. —                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -1279,8 +1389,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
@@ -1323,8 +1437,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -1367,8 +1485,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2) — id 9003901
@@ -1411,8 +1533,12 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | Szybkość           | 3–5                                                          |
 | Sloty akcji        | start: 2/3/3 · maks. 5                                       |
 | Progi oszołomienia | 60% / 30%                                                    |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie Gwoździ (×3) — id 9100501
@@ -1468,8 +1594,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3) — id 9003201
@@ -1505,8 +1635,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3) — id 9003301
@@ -1542,8 +1676,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. —                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -1586,8 +1724,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
@@ -1634,8 +1776,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3) — id 9003201
@@ -1671,8 +1817,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3) — id 9003301
@@ -1712,8 +1862,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 50% / 25%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2) — id 9003202
@@ -1749,8 +1903,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. —                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -1793,8 +1951,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
@@ -1837,8 +1999,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -1881,8 +2047,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -1925,8 +2095,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2) — id 9003901
@@ -1973,8 +2147,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 50% / 25%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2) — id 9003202
@@ -2010,8 +2188,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. —                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -2054,8 +2236,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
@@ -2098,8 +2284,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -2142,8 +2332,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2) — id 9003901
@@ -2186,8 +2380,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -2230,8 +2428,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -2278,8 +2480,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie (×3) — id 9003201
@@ -2315,8 +2521,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Stukanie (×3) — id 9003301
@@ -2352,8 +2562,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. —                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -2396,8 +2610,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
@@ -2440,8 +2658,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -2484,8 +2706,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -2528,8 +2754,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2) — id 9003901
@@ -2572,8 +2802,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–5                                                          |
 | Sloty akcji        | start: 2/3/3 · maks. 5                                       |
 | Progi oszołomienia | 60% / 30%                                                    |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wbicie Gwoździ (×3) — id 9100601
@@ -2648,8 +2882,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 50% / 25%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2) — id 9003202
@@ -2685,8 +2923,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -2734,8 +2976,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 50% / 25%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Gwoździowanie (×2) — id 9003202
@@ -2771,8 +3017,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
@@ -2815,8 +3065,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. —                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -2859,8 +3113,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -2903,8 +3161,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -2947,8 +3209,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2) — id 9003901
@@ -2996,8 +3262,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamaszyste Młotowanie (×2) — id 9003602
@@ -3040,8 +3310,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. —                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -3084,8 +3358,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Surowe Gwoździowanie (×2) — id 9003502
@@ -3128,8 +3406,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -3172,8 +3454,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Panujący Młot (×2) — id 9003901
@@ -3216,8 +3502,12 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 | Szybkość           | 2–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Przebijający Gwóźdź (×2) — id 9003801
@@ -3280,17 +3570,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 8017
 
@@ -3319,17 +3611,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Strike Down — id 801701
+##### Umiejętność: Ściągnięcie — id 801701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 801702
+##### Umiejętność: Przebijające Pożądanie — id 801702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 8018
 
@@ -3358,17 +3652,19 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Grind — id 801801
+##### Umiejętność: Grinding — id 801801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 801802
+##### Umiejętność: Dumne Miażdżenie — id 801802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-25
 
@@ -3400,25 +3696,25 @@ gdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3459,17 +3755,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Strike Down — id 801701
+##### Umiejętność: Ściągnięcie — id 801701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 801702
+##### Umiejętność: Przebijające Pożądanie — id 801702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-27
 
@@ -3502,7 +3800,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Coiling Arms (×2) — id 803301
+##### Umiejętność: Owijające Ramiona (×2) — id 803301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3514,23 +3812,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Swipe — id 803302
+##### Umiejętność: Zamach — id 803302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Thwack — id 803303
+##### Umiejętność: Walicie — id 803303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
 
-##### Umiejętność: Poison Spray — id 803305
+##### Umiejętność: Wyplucie Jady — id 803305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         −2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Inkwizytor Idący Naprzód — id 8024
 
@@ -3558,25 +3858,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3627,13 +3927,13 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Lookout — id 802702
+##### Umiejętność: Wypatrywanie — id 802702
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Blind Charge — id 802703
+##### Umiejętność: Ślepy Szturm — id 802703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3672,17 +3972,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Grind — id 801801
+##### Umiejętność: Grinding — id 801801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 801802
+##### Umiejętność: Dumne Miażdżenie — id 801802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 8017
 
@@ -3711,17 +4013,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Strike Down — id 801701
+##### Umiejętność: Ściągnięcie — id 801701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 801702
+##### Umiejętność: Przebijające Pożądanie — id 801702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-29
 
@@ -3753,25 +4057,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3811,25 +4115,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3874,17 +4178,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 8017
 
@@ -3913,17 +4219,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Strike Down — id 801701
+##### Umiejętność: Ściągnięcie — id 801701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 801702
+##### Umiejętność: Przebijające Pożądanie — id 801702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 8018
 
@@ -3952,17 +4260,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Grind — id 801801
+##### Umiejętność: Grinding — id 801801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 801802
+##### Umiejętność: Dumne Miażdżenie — id 801802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-36
 
@@ -4007,43 +4317,43 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Coiling Arms — id 802801
+##### Umiejętność: Owijające Ramiona — id 802801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Coil Up — id 802802
+##### Umiejętność: Zwinięcie w Kłębek — id 802802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Swinging Arms — id 802803
+##### Umiejętność: Machanie Ramionami — id 802803
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Thrashing Arms — id 802804
+##### Umiejętność: Walicie Ramionami — id 802804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Held Breath — id 802805
+##### Umiejętność: Zatrzymany Oddech — id 802805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Pained Writhing — id 802807
+##### Umiejętność: Bolesne Miętołenie — id 802807
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         −1 |      3 |    1 |
 
-##### Umiejętność: Pained Struggle — id 802808
+##### Umiejętność: Bolesny Opor — id 802808
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4084,25 +4394,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 0 — defensywnych
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4142,25 +4452,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4205,31 +4515,31 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Violent Scratch — id 802501
+##### Umiejętność: Gwałtowne Drapanie — id 802501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Rabid Ram — id 802502
+##### Umiejętność: Wściekły Taran — id 802502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tear Apart — id 802503
+##### Umiejętność: Poszarpanie — id 802503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      4 |    1 |
 
-##### Umiejętność: Furious Chase — id 802504
+##### Umiejętność: Wściekły Pościg — id 802504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         13 |        −10 |      1 |    1 |
 
-##### Umiejętność: Sharp Alertness — id 802505
+##### Umiejętność: Ostra Czujność — id 802505
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4275,13 +4585,13 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Lookout — id 802702
+##### Umiejętność: Wypatrywanie — id 802702
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Blind Charge — id 802703
+##### Umiejętność: Ślepy Szturm — id 802703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4324,17 +4634,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Strike Down — id 801701
+##### Umiejętność: Ściągnięcie — id 801701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 801702
+##### Umiejętność: Przebijające Pożądanie — id 801702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 8007
 
@@ -4363,17 +4675,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 8018
 
@@ -4402,17 +4716,19 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Grind — id 801801
+##### Umiejętność: Grinding — id 801801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 801802
+##### Umiejętność: Dumne Miażdżenie — id 801802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-44
 
@@ -4445,31 +4761,31 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Violent Scratch — id 802501
+##### Umiejętność: Gwałtowne Drapanie — id 802501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      3 |    1 |
 
-##### Umiejętność: Rabid Ram — id 802502
+##### Umiejętność: Wściekły Taran — id 802502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tear Apart — id 802503
+##### Umiejętność: Poszarpanie — id 802503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +1 |      4 |    1 |
 
-##### Umiejętność: Furious Chase — id 802504
+##### Umiejętność: Wściekły Pościg — id 802504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         13 |        −10 |      1 |    1 |
 
-##### Umiejętność: Sharp Alertness — id 802505
+##### Umiejętność: Ostra Czujność — id 802505
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4515,13 +4831,13 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         −3 |      1 |    1 |
 
-##### Umiejętność: Lookout — id 802702
+##### Umiejętność: Wypatrywanie — id 802702
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Blind Charge — id 802703
+##### Umiejętność: Ślepy Szturm — id 802703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4563,25 +4879,25 @@ jeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.
 
 *Opis:* Część
 
-##### Umiejętność: Eerie Eyes — id 802401
+##### Umiejętność: Dziwne Oczy — id 802401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         −1 |      2 |    1 |
 
-##### Umiejętność: Imperfect Imitation — id 802402
+##### Umiejętność: Niedoskonała Imitacja — id 802402
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Adjust Shell — id 802403
+##### Umiejętność: Poprawa Skorupy — id 802403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Bone Blast — id 802404
+##### Umiejętność: Wybuch Kości — id 802404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4622,17 +4938,19 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Strike Down — id 801701
+##### Umiejętność: Ściągnięcie — id 801701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          1 |         +8 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 801702
+##### Umiejętność: Przebijające Pożądanie — id 801702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-47
 
@@ -4665,7 +4983,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Coiling Arms (×2) — id 803301
+##### Umiejętność: Owijające Ramiona (×2) — id 803301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4677,23 +4995,25 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Swipe — id 803302
+##### Umiejętność: Zamach — id 803302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Thwack — id 803303
+##### Umiejętność: Walicie — id 803303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |        +12 |      1 |    1 |
 
-##### Umiejętność: Poison Spray — id 803305
+##### Umiejętność: Wyplucie Jady — id 803305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          7 |         −2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 3-48
 
@@ -4726,7 +5046,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 
 *Opis:* Część
 
-##### Umiejętność: Deep Thrust — id 802902
+##### Umiejętność: Głębokie Przebicie — id 802902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4744,7 +5064,7 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Sin-skewering Nail — id 802905
+##### Umiejętność: Gwóźdź Nadziający Grzechy — id 802905
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4756,13 +5076,13 @@ przy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — de
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: I Shall Claim Your Life! — id 802908
+##### Umiejętność: Odbiorę Wam Życie! — id 802908
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         12 |         +5 |      1 |    1 |
 
-##### Umiejętność: You Are Nothing — id 802910
+##### Umiejętność: Jesteście Niczym — id 802910
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

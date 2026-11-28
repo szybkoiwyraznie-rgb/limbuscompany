@@ -19,29 +19,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guidance of the Gears — id 9017801
+##### Umiejętność: Wola Zębatek — id 9017801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Stop — id 9017802
+##### Umiejętność: Mięsna Zębatka: Stop — id 9017802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Vapour — id 9017803
+##### Umiejętność: Para — id 9017803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017804
+##### Umiejętność: Rozkaz Uniku — id 9017804
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -66,29 +72,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guided by Gears — id 9017901
+##### Umiejętność: Za Zębatkami — id 9017901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Grapple — id 9017902
+##### Umiejętność: Mięsna Zębatka: Chwyt — id 9017902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Assault Order — id 9017903
+##### Umiejętność: Rozkaz Szturmu — id 9017903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017904
+##### Umiejętność: Rozkaz Uniku — id 9017904
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -113,35 +125,41 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 40% / -20%                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Meat Gear: Command — id 9018001
+##### Umiejętność: Mięsna Zębatka: Rozkaz — id 9018001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Thought Gear: Collect — id 9018002
+##### Umiejętność: Zębatka Myśli: Zbiór — id 9018002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Meat Gear: Restrict — id 9018003
+##### Umiejętność: Mięsna Zębatka: Ograniczenie — id 9018003
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Thought Gear: Remove — id 9018004
+##### Umiejętność: Zębatka Myśli: Usunięcie — id 9018004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Thought Gear: Vapour — id 9018005
+##### Umiejętność: Zębatka Myśli: Para — id 9018005
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -170,29 +188,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guidance of the Gears — id 9017801
+##### Umiejętność: Wola Zębatek — id 9017801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Stop — id 9017802
+##### Umiejętność: Mięsna Zębatka: Stop — id 9017802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Vapour — id 9017803
+##### Umiejętność: Para — id 9017803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017804
+##### Umiejętność: Rozkaz Uniku — id 9017804
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -217,29 +241,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guided by Gears — id 9017901
+##### Umiejętność: Za Zębatkami — id 9017901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Grapple — id 9017902
+##### Umiejętność: Mięsna Zębatka: Chwyt — id 9017902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Assault Order — id 9017903
+##### Umiejętność: Rozkaz Szturmu — id 9017903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017904
+##### Umiejętność: Rozkaz Uniku — id 9017904
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -264,35 +294,41 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 40% / -20%                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Meat Gear: Command — id 9018001
+##### Umiejętność: Mięsna Zębatka: Rozkaz — id 9018001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Thought Gear: Collect — id 9018002
+##### Umiejętność: Zębatka Myśli: Zbiór — id 9018002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Meat Gear: Restrict — id 9018003
+##### Umiejętność: Mięsna Zębatka: Ograniczenie — id 9018003
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Thought Gear: Remove — id 9018004
+##### Umiejętność: Zębatka Myśli: Usunięcie — id 9018004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Thought Gear: Vapour — id 9018005
+##### Umiejętność: Zębatka Myśli: Para — id 9018005
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -321,29 +357,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guidance of the Gears — id 9017801
+##### Umiejętność: Wola Zębatek — id 9017801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Stop — id 9017802
+##### Umiejętność: Mięsna Zębatka: Stop — id 9017802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Vapour — id 9017803
+##### Umiejętność: Para — id 9017803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017804
+##### Umiejętność: Rozkaz Uniku — id 9017804
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -368,29 +410,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guided by Gears — id 9017901
+##### Umiejętność: Za Zębatkami — id 9017901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Grapple — id 9017902
+##### Umiejętność: Mięsna Zębatka: Chwyt — id 9017902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Assault Order — id 9017903
+##### Umiejętność: Rozkaz Szturmu — id 9017903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017904
+##### Umiejętność: Rozkaz Uniku — id 9017904
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -415,35 +463,41 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 40% / -20%                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Meat Gear: Command — id 9018001
+##### Umiejętność: Mięsna Zębatka: Rozkaz — id 9018001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Thought Gear: Collect — id 9018002
+##### Umiejętność: Zębatka Myśli: Zbiór — id 9018002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Meat Gear: Restrict — id 9018003
+##### Umiejętność: Mięsna Zębatka: Ograniczenie — id 9018003
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Thought Gear: Remove — id 9018004
+##### Umiejętność: Zębatka Myśli: Usunięcie — id 9018004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Thought Gear: Vapour — id 9018005
+##### Umiejętność: Zębatka Myśli: Para — id 9018005
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -472,29 +526,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guidance of the Gears — id 9017801
+##### Umiejętność: Wola Zębatek — id 9017801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Stop — id 9017802
+##### Umiejętność: Mięsna Zębatka: Stop — id 9017802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Vapour — id 9017803
+##### Umiejętność: Para — id 9017803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017804
+##### Umiejętność: Rozkaz Uniku — id 9017804
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -519,29 +579,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guided by Gears — id 9017901
+##### Umiejętność: Za Zębatkami — id 9017901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Grapple — id 9017902
+##### Umiejętność: Mięsna Zębatka: Chwyt — id 9017902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Assault Order — id 9017903
+##### Umiejętność: Rozkaz Szturmu — id 9017903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017904
+##### Umiejętność: Rozkaz Uniku — id 9017904
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -566,35 +632,41 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 40% / -20%                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Meat Gear: Command — id 9018001
+##### Umiejętność: Mięsna Zębatka: Rozkaz — id 9018001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Thought Gear: Collect — id 9018002
+##### Umiejętność: Zębatka Myśli: Zbiór — id 9018002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Meat Gear: Restrict — id 9018003
+##### Umiejętność: Mięsna Zębatka: Ograniczenie — id 9018003
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Thought Gear: Remove — id 9018004
+##### Umiejętność: Zębatka Myśli: Usunięcie — id 9018004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Thought Gear: Vapour — id 9018005
+##### Umiejętność: Zębatka Myśli: Para — id 9018005
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -621,29 +693,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guidance of the Gears — id 9017801
+##### Umiejętność: Wola Zębatek — id 9017801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Stop — id 9017802
+##### Umiejętność: Mięsna Zębatka: Stop — id 9017802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Vapour — id 9017803
+##### Umiejętność: Para — id 9017803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017804
+##### Umiejętność: Rozkaz Uniku — id 9017804
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -668,29 +746,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 70% / 0%                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Guided by Gears — id 9017901
+##### Umiejętność: Za Zębatkami — id 9017901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Meat Gear: Grapple — id 9017902
+##### Umiejętność: Mięsna Zębatka: Chwyt — id 9017902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Assault Order — id 9017903
+##### Umiejętność: Rozkaz Szturmu — id 9017903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Evade Order — id 9017904
+##### Umiejętność: Rozkaz Uniku — id 9017904
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -715,35 +799,41 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                              |
 | Sloty akcji        | start: 1/1/1/1 · maks. 1                         |
 | Progi oszołomienia | 40% / -20%                                       |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45   |
+| Typ paniki         | Kościół                                          |
 | Odporności         | Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +1.
+Początek Tury: zyskaj 3 [Wrażliwość], 2 [Wzrost Obrażeń] i 1 [Wzrost Mocy Obrony]
+**Efekt Paniki:** Zyskując [Dym] lub Licznik [Dym] w walce, zyskaj dodatkowo +2.
+Początek Tury: zyskaj 3 [Wrażliwość], 4 [Wzrost Obrażeń] i 2 [Wzrost Mocy Obrony]
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Meat Gear: Command — id 9018001
+##### Umiejętność: Mięsna Zębatka: Rozkaz — id 9018001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Thought Gear: Collect — id 9018002
+##### Umiejętność: Zębatka Myśli: Zbiór — id 9018002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Meat Gear: Restrict — id 9018003
+##### Umiejętność: Mięsna Zębatka: Ograniczenie — id 9018003
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Thought Gear: Remove — id 9018004
+##### Umiejętność: Zębatka Myśli: Usunięcie — id 9018004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Thought Gear: Vapour — id 9018005
+##### Umiejętność: Zębatka Myśli: Para — id 9018005
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

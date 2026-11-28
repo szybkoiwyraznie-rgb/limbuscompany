@@ -21,19 +21,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -51,13 +51,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | 65                     |
-| HP          | 384 (+18,52 za poziom) |
-| Sloty akcji | start: 5 · maks. 7     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 65                                             |
+| HP           | 384 (+18,52 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 7                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podręcznik                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Moc Starcia +1 przeciw celom z [Eskalacja Pojedynku]
+Przegrane Starcie: zyskaj 1 [Wrażliwość] w następnej turze (raz na turę)
+**Efekt Paniki:** Moc Starcia +2 przeciw celom z [Eskalacja Pojedynku]
+Przegrane Starcie: zyskaj 2 [Wrażliwość] w następnej turze (raz na turę)
 **Części (anatomia):**
 
 ##### Korpus — id 130601
@@ -96,11 +102,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +4 |      4 |    3 |
 
-##### Umiejętność: Measuring Blade Reach — id 130605
+##### Umiejętność: Pomiar Zasięgu Ostrza — id 130605
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          4 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### The Ring Corporist Automanikin - Combatant — id 1316
 
@@ -127,19 +135,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -180,17 +188,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 1083
 
@@ -219,17 +229,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis? — id 1092
 
@@ -258,19 +270,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Leap In — id 815201
+##### Umiejętność: Wpadnięcie — id 815201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Snap At — id 815202
+##### Umiejętność: Zgryzienie — id 815202
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Water Bomb — id 815203
+##### Umiejętność: Wodna Bomba — id 815203
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -281,6 +293,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gulae? — id 1090
 
@@ -307,29 +321,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Maul — id 816001
+##### Umiejętność: Rozszarpanie — id 816001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Devouring — id 816002
+##### Umiejętność: Czas Na Żarcie — id 816002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ravenous Devouring — id 816003
+##### Umiejętność: Zarłaczna Uczta — id 816003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Counter — id 816004
+##### Umiejętność: Kontra — id 816004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Superbiae? — id 1097
 
@@ -358,29 +374,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 837401
+##### Umiejętność: Mielenie — id 837401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Crush — id 837402
+##### Umiejętność: Rozgniotenie — id 837402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Prideful Crush — id 837403
+##### Umiejętność: Dumny Zgniot — id 837403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Counter — id 837404
+##### Umiejętność: Kontra — id 837404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 1089
 
@@ -409,17 +427,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 1096
 
@@ -454,11 +474,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pigritiae? — id 1087
 
@@ -485,29 +507,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grasp — id 815901
+##### Umiejętność: Chwyt — id 815901
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Piling Rocks — id 815902
+##### Umiejętność: Układanie Kamieni — id 815902
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Slothful Press — id 815903
+##### Umiejętność: Leniwy Zgniot — id 815903
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Guard — id 815904
+##### Umiejętność: Garda — id 815904
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -536,19 +560,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -559,6 +583,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Luxuriae? — id 1095
 
@@ -587,29 +613,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pin Down — id 837301
+##### Umiejętność: Przygniecenie — id 837301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Impaled Desire — id 837302
+##### Umiejętność: Przebite Pożądanie — id 837302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Repressed Desire — id 837303
+##### Umiejętność: Stłumione Pożądanie — id 837303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Guard — id 837304
+##### Umiejętność: Garda — id 837304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 9-6 · Abikyōkan 2
 
@@ -642,17 +670,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 1096
 
@@ -687,11 +717,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis? — id 1092
 
@@ -720,19 +752,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Leap In — id 815201
+##### Umiejętność: Wpadnięcie — id 815201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Snap At — id 815202
+##### Umiejętność: Zgryzienie — id 815202
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Water Bomb — id 815203
+##### Umiejętność: Wodna Bomba — id 815203
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -743,6 +775,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Luxuriae? — id 1095
 
@@ -771,29 +805,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pin Down — id 837301
+##### Umiejętność: Przygniecenie — id 837301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Impaled Desire — id 837302
+##### Umiejętność: Przebite Pożądanie — id 837302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Repressed Desire — id 837303
+##### Umiejętność: Stłumione Pożądanie — id 837303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Guard — id 837304
+##### Umiejętność: Garda — id 837304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gulae? — id 1090
 
@@ -820,29 +856,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Maul — id 816001
+##### Umiejętność: Rozszarpanie — id 816001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Devouring — id 816002
+##### Umiejętność: Czas Na Żarcie — id 816002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ravenous Devouring — id 816003
+##### Umiejętność: Zarłaczna Uczta — id 816003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Counter — id 816004
+##### Umiejętność: Kontra — id 816004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -871,19 +909,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -894,6 +932,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 1083
 
@@ -922,17 +962,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 1094
 
@@ -967,11 +1009,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Superbiae? — id 1097
 
@@ -1000,29 +1044,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 837401
+##### Umiejętność: Mielenie — id 837401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Crush — id 837402
+##### Umiejętność: Rozgniotenie — id 837402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Prideful Crush — id 837403
+##### Umiejętność: Dumny Zgniot — id 837403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Counter — id 837404
+##### Umiejętność: Kontra — id 837404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pigritiae? — id 1087
 
@@ -1049,29 +1095,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grasp — id 815901
+##### Umiejętność: Chwyt — id 815901
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Piling Rocks — id 815902
+##### Umiejętność: Układanie Kamieni — id 815902
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Slothful Press — id 815903
+##### Umiejętność: Leniwy Zgniot — id 815903
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Guard — id 815904
+##### Umiejętność: Garda — id 815904
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 9-8 · Ułuda
 
@@ -1115,25 +1163,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Part
 
-##### Umiejętność: Snagged Lure — id 130801
+##### Umiejętność: Zahaczona Przynęta — id 130801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Burrowing Roots — id 130802
+##### Umiejętność: Kopiące Korzenie — id 130802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Expanding Roots — id 130803
+##### Umiejętność: Rozrastające się Korzenie — id 130803
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    2 |
 
-##### Umiejętność: Infusing Stems — id 130804
+##### Umiejętność: Nasiąkające Pędy — id 130804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1145,7 +1193,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         10 |         +8 |      1 |    5 |
 
-##### Umiejętność: Snagged Lure — id 130807
+##### Umiejętność: Zahaczona Przynęta — id 130807
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1202,43 +1250,43 @@ przy ponownym ukryciu Korpusu usuwa wszystkie posiadane bonusy i debuffy
 
 *Opis:* Part
 
-##### Umiejętność: Dimensional Slice — id 130901
+##### Umiejętność: Cięcie Wymiaru — id 130901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Dimensional Slice — id 130902
+##### Umiejętność: Ciągłe Cięcie Wymiaru — id 130902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Discharge Byproducts — id 130903
+##### Umiejętność: Zrzut Produktów Ubocznych — id 130903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          8 |         +6 |      1 |    2 |
 
-##### Umiejętność: Rip Space — id 130904
+##### Umiejętność: Rozcięcie Przestrzeni — id 130904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |         15 |         +3 |      2 |    1 |
 
-##### Umiejętność: Prepared Retribution — id 130905
+##### Umiejętność: Zagrana Zemsta — id 130905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Vomit Byproducts — id 130906
+##### Umiejętność: Zwracanie Produktów Ubocznych — id 130906
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          6 |         +8 |      1 |    3 |
 
-##### Umiejętność: High-speed Rip Space — id 130907
+##### Umiejętność: Wysokoprędkościowe Rozdarcie Przestrzeni — id 130907
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1282,19 +1330,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131001
+##### Umiejętność: Skok Wymiarowy — id 131001
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1330,19 +1378,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131101
+##### Umiejętność: Skok Wymiarowy — id 131101
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1378,19 +1426,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131201
+##### Umiejętność: Skok Wymiarowy — id 131201
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1426,19 +1474,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131301
+##### Umiejętność: Skok Wymiarowy — id 131301
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1515,73 +1563,73 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Część
 
-##### Umiejętność: Vain Fruit — id 130701
+##### Umiejętność: Owoc Marności — id 130701
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |         15 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bring Me Snow White. — id 130702
+##### Umiejętność: Przyprowadź Mi Królewnę Śnieżkę. — id 130702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Such Insolence! — id 130703
+##### Umiejętność: Cóż za Bezczelność! — id 130703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          6 |         +4 |      2 |    3 |
 
-##### Umiejętność: Just a Little More... — id 130704
+##### Umiejętność: Jeszcze Chwilę... — id 130704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Distrust — id 130705
+##### Umiejętność: Nieufność — id 130705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Pale Stem — id 130706
+##### Umiejętność: Blady Pęd — id 130706
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Thorny Stem — id 130707
+##### Umiejętność: Kolczasty Pęd — id 130707
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Shared Pain — id 130708
+##### Umiejętność: Wspólny Ból — id 130708
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +8 |      1 |    7 |
 
-##### Umiejętność: Root Spike — id 130709
+##### Umiejętność: Korzeniowy Kolec — id 130709
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |        +10 |      1 |    5 |
 
-##### Umiejętność: Envying Roots — id 130711
+##### Umiejętność: Zazdrosne Korzenie — id 130711
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |         10 |         +4 |      1 |    7 |
 
-##### Umiejętność: Burrowing Roots — id 130712
+##### Umiejętność: Kopiące Korzenie — id 130712
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Vain Fruit — id 130713
+##### Umiejętność: Owoc Marności — id 130713
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1615,19 +1663,19 @@ gdy Część Owocu zostaje zniszczona, traci [Zuchwałość...!]
 | Progi oszołomienia | 50%                                                                                                                                |
 | Odporności         | Obuch ×0,75; Gniew ×2 (Fatal); Żądza ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Bound Muscles — id 9103801
+##### Umiejętność: Skrepowane Mięśnie — id 9103801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Tear and Rip — id 9103802
+##### Umiejętność: Szarp i Rozdzieraj — id 9103802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tightening Ribbons — id 9103805
+##### Umiejętność: Ściskające Wstążki — id 9103805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1653,19 +1701,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1688,19 +1736,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1727,19 +1775,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                                                |
 | Odporności         | Obuch ×0,75; Gniew ×2 (Fatal); Żądza ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Bound Muscles — id 9103801
+##### Umiejętność: Skrepowane Mięśnie — id 9103801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Tear and Rip — id 9103802
+##### Umiejętność: Szarp i Rozdzieraj — id 9103802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tightening Ribbons — id 9103805
+##### Umiejętność: Ściskające Wstążki — id 9103805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1765,19 +1813,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1800,19 +1848,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1839,19 +1887,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                                                |
 | Odporności         | Obuch ×0,75; Gniew ×2 (Fatal); Żądza ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Bound Muscles — id 9103801
+##### Umiejętność: Skrepowane Mięśnie — id 9103801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Tear and Rip — id 9103802
+##### Umiejętność: Szarp i Rozdzieraj — id 9103802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tightening Ribbons — id 9103805
+##### Umiejętność: Ściskające Wstążki — id 9103805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1877,19 +1925,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1912,19 +1960,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1942,13 +1990,17 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 300 (+10 za poziom)   |
-| Sloty akcji | start: 5 · maks. 5    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 300 (+10 za poziom)                            |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Rwany Oddech                                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: trać 3 Siły [Oddech]
+**Efekt Paniki:** Początek Tury: trać 5 Siły [Oddech]
 **Części (anatomia):**
 
 ##### Korpus — id 131801
@@ -1963,55 +2015,55 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 
 *Opis:* Część
 
-##### Umiejętność: Swerve [回] — id 131801
+##### Umiejętność: Zwrot [回] — id 131801
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Defend [守] — id 131802
+##### Umiejętność: Obrona [守] — id 131802
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Reflect [反] — id 131803
+##### Umiejętność: Odbicie [反] — id 131803
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Unnamed Cut [無名閃] — id 131804
+##### Umiejętność: Bezimienny Cios [無名閃] — id 131804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    3 |
 
-##### Umiejętność: Chainslash [連鎖斬] — id 131805
+##### Umiejętność: Łańcuchowe Cięcie [連鎖斬] — id 131805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +6 |      1 |    3 |
 
-##### Umiejętność: Fallstar Slayer [落星一殺] — id 131807
+##### Umiejętność: Zabójca Spadającej Gwiazdy [落星一殺] — id 131807
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          8 |         +9 |      1 |    8 |
 
-##### Umiejętność: Retreat Form [收勢] — id 131808
+##### Umiejętność: Forma Wycofania [收勢] — id 131808
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Twinstrike [二擊] — id 131809
+##### Umiejętność: Podwójny Cios [二擊] — id 131809
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Triplestrike [三擊] — id 131810
+##### Umiejętność: Potrójny Cios [三擊] — id 131810
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2033,13 +2085,17 @@ otrzymuje o 20% mniej obrażeń od celów innych niż Ryōshū
 
 *Wystąpienia: ×1 (poz. 65) · też jako wsparcie.*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 417 (+14,38 za poziom) |
-| Sloty akcji | start: 1 · maks. 1     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 417 (+14,38 za poziom)                         |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żelazna Dziewica                               |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spadek Poziomu Ataku] i 1 [Wzrost Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Spadek Poziomu Ataku] i 2 [Wzrost Poziomu Obrony]
 **Części (anatomia):**
 
 ##### Korpus — id 131901
@@ -2054,43 +2110,43 @@ otrzymuje o 20% mniej obrażeń od celów innych niż Ryōshū
 
 *Opis:* Część
 
-##### Umiejętność: Butcher - Ribs — id 131901
+##### Umiejętność: Ubój - Żebra — id 131901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rotator Crush — id 131902
+##### Umiejętność: Zgniot Obrotowy — id 131902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tendon Tear — id 131903
+##### Umiejętność: Pęknięcie Ścięgna — id 131903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Fascia Hungers — id 131904
+##### Umiejętność: Fascia jest głodna. — id 131904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Repressed Flesh — id 131905
+##### Umiejętność: Tłumione Ciało — id 131905
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      4 |    1 |
 
-##### Umiejętność: Exhibition Arrangements — id 131906
+##### Umiejętność: Przygotowanie Wystawy — id 131906
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Iron Curtain — id 131907
+##### Umiejętność: Żelazna Kurtyna — id 131907
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2135,19 +2191,19 @@ otrzymuje o 50% mniej obrażeń od [Krwawienie]
 
 *Opis:* Część
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2182,19 +2238,19 @@ otrzymuje o 50% mniej obrażeń od [Krwawienie]
 
 *Opis:* Część
 
-##### Umiejętność: Bound Muscles — id 9103801
+##### Umiejętność: Skrepowane Mięśnie — id 9103801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Tear and Rip — id 9103802
+##### Umiejętność: Szarp i Rozdzieraj — id 9103802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tightening Ribbons — id 9103805
+##### Umiejętność: Ściskające Wstążki — id 9103805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2220,19 +2276,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                        |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2255,19 +2311,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                        |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2290,19 +2346,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                        |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Bound Muscles (×3) — id 9103801
+##### Umiejętność: Skrepowane Mięśnie (×3) — id 9103801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Tear and Rip (×2) — id 9103802
+##### Umiejętność: Szarp i Rozdzieraj (×2) — id 9103802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tightening Ribbons — id 9103805
+##### Umiejętność: Ściskające Wstążki — id 9103805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2326,21 +2382,29 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Le Regole                                                                  |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Concussive Stab (×3) — id 9021701
+**Efekt Niskiego Morale:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 1 [Wzrost Obrażeń Lenistwa]
+Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 1 [Wzrost Obrażeń Gniewu]
+Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
+Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
+Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+##### Umiejętność: Głuszący Sztych (×3) — id 9021701
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Burning Stab (×2) — id 9021702
+##### Umiejętność: Płonący Sztych (×2) — id 9021702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Propulsion Slice — id 9021703
+##### Umiejętność: Cięcie na Napędzie — id 9021703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2364,21 +2428,29 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Le Regole                                                                  |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Concussive Penetration (×3) — id 9021801
+**Efekt Niskiego Morale:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 1 [Wzrost Obrażeń Lenistwa]
+Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 1 [Wzrost Obrażeń Gniewu]
+Jeśli nie nałożono żadnego z nich: zyskaj 2 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Jeśli w poprzedniej turze nałożono 2+ [Wstrząs]: zyskaj 2 [Wzrost Obrażeń Lenistwa]
+Jeśli w poprzedniej turze nałożono 2+ [Podpalenie]: zyskaj 2 [Wzrost Obrażeń Gniewu]
+Jeśli nie nałożono żadnego z nich: zyskaj 3 [Spadek Poziomu Obrony]
+##### Umiejętność: Głuszące Przebicie (×3) — id 9021801
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Burning Penetration (×2) — id 9021802
+##### Umiejętność: Płonące Przebicie (×2) — id 9021802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Propulsion Cleave — id 9021803
+##### Umiejętność: Rozcięcie na Napędzie — id 9021803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2402,41 +2474,45 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | Szybkość           | 1–2                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 75% / 0%                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Wzburzenie                                                                 |
 | Odporności         | Cięcie ×0,75; Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Right in the Solar Plexus — id 9009601
+##### Umiejętność: Prosto w Solarny Splot — id 9009601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: We Remember! — id 9009602
+##### Umiejętność: Pamiętamy! — id 9009602
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Skull Crushing — id 9009603
+##### Umiejętność: Rozbicie Czaszki — id 9009603
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ready to Write — id 9009604
+##### Umiejętność: Gotów do Zapisu — id 9009604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Vengeance — id 9009605
+##### Umiejętność: Zemsta — id 9009605
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         15 |         −3 |      2 |    1 |
 
-##### Umiejętność: Multifold Retribution — id 9009606
+##### Umiejętność: Wielokrotna Zemsta — id 9009606
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2459,41 +2535,45 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | Szybkość           | 1–2                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 70% / 0%                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Wzburzenie                                                                 |
 | Odporności         | Cięcie ×0,75; Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Right in the Solar Plexus — id 9009701
+##### Umiejętność: Prosto w Solarny Splot — id 9009701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Write Their Sins! — id 9009702
+##### Umiejętność: Wyryj Ich Grzechy! — id 9009702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Skull Bursting — id 9009703
+##### Umiejętność: Rozbijanie Czaszki — id 9009703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +7 |      2 |    1 |
 
-##### Umiejętność: Ready to Write — id 9009704
+##### Umiejętność: Gotów do Zapisu — id 9009704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Vengeance — id 9009705
+##### Umiejętność: Zemsta — id 9009705
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         14 |         −2 |      2 |    1 |
 
-##### Umiejętność: Multifold Retribution — id 9009706
+##### Umiejętność: Wielokrotna Zemsta — id 9009706
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2538,17 +2618,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 1083
 
@@ -2577,17 +2659,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 1094
 
@@ -2622,11 +2706,13 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis? — id 1092
 
@@ -2655,19 +2741,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Leap In — id 815201
+##### Umiejętność: Wpadnięcie — id 815201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Snap At — id 815202
+##### Umiejętność: Zgryzienie — id 815202
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Water Bomb — id 815203
+##### Umiejętność: Wodna Bomba — id 815203
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -2678,6 +2764,8 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Obżarstwa — id 1089
 
@@ -2706,17 +2794,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Nibble (×3) — id 800501
+##### Umiejętność: Bite (×3) — id 800501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Greedy Gluttons — id 800502
+##### Umiejętność: Chciwe Żarcie — id 800502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +1 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 1096
 
@@ -2751,11 +2841,13 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 1091
 
@@ -2784,17 +2876,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 1084
 
@@ -2823,19 +2917,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2846,6 +2940,8 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 9-22 · Nowi Pracownicy 2
 
@@ -2884,11 +2980,13 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 1096
 
@@ -2923,11 +3021,13 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pigritiae? — id 1087
 
@@ -2954,29 +3054,31 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Grasp — id 815901
+##### Umiejętność: Chwyt — id 815901
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Piling Rocks — id 815902
+##### Umiejętność: Układanie Kamieni — id 815902
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Slothful Press — id 815903
+##### Umiejętność: Leniwy Zgniot — id 815903
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Guard — id 815904
+##### Umiejętność: Garda — id 815904
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +15 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gulae? — id 1090
 
@@ -3003,29 +3105,31 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Maul — id 816001
+##### Umiejętność: Rozszarpanie — id 816001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Devouring — id 816002
+##### Umiejętność: Czas Na Żarcie — id 816002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Ravenous Devouring — id 816003
+##### Umiejętność: Zarłaczna Uczta — id 816003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Counter — id 816004
+##### Umiejętność: Kontra — id 816004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Gniewu — id 1083
 
@@ -3054,17 +3158,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Lenistwa — id 1086
 
@@ -3093,17 +3199,19 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Superbiae? — id 1097
 
@@ -3132,29 +3240,31 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 837401
+##### Umiejętność: Mielenie — id 837401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Crush — id 837402
+##### Umiejętność: Rozgniotenie — id 837402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Prideful Crush — id 837403
+##### Umiejętność: Dumny Zgniot — id 837403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Counter — id 837404
+##### Umiejętność: Kontra — id 837404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Luxuriae? — id 1095
 
@@ -3183,29 +3293,31 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Pin Down — id 837301
+##### Umiejętność: Przygniecenie — id 837301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Impaled Desire — id 837302
+##### Umiejętność: Przebite Pożądanie — id 837302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Repressed Desire — id 837303
+##### Umiejętność: Stłumione Pożądanie — id 837303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Guard — id 837304
+##### Umiejętność: Garda — id 837304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 9-25 · Wstrząsowa Stonoga
 
@@ -3250,61 +3362,61 @@ jeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następ
 
 *Opis:* Część
 
-##### Umiejętność: Bite — id 132101
+##### Umiejętność: Gryzienie — id 132101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tail Poke — id 132102
+##### Umiejętność: Klu Ogonem — id 132102
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wrapping Coil — id 132103
+##### Umiejętność: Owijka — id 132103
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Electric Load — id 132104
+##### Umiejętność: Zalanie Prądem — id 132104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Electric Release — id 132105
+##### Umiejętność: Elektryczny Wyładowywnik — id 132105
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Electric Discharge — id 132106
+##### Umiejętność: Wyładowanie Elektryczne — id 132106
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: High-voltage Electric Discharge — id 132107
+##### Umiejętność: Wyładowanie o Wysokim Napięciu — id 132107
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    4 |
 
-##### Umiejętność: Coil Up — id 132108
+##### Umiejętność: Zwinięcie w Kłębek — id 132108
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Wriggling Head — id 132109
+##### Umiejętność: Wiercąca Głowa — id 132109
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wriggling Tail — id 132110
+##### Umiejętność: Wiercący Ogon — id 132110
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3332,19 +3444,19 @@ zyskuje 10 [Samoładowanie], gdy ten efekt się uruchomi
 | Progi oszołomienia | 50%                                                                                                                                |
 | Odporności         | Obuch ×0,75; Gniew ×2 (Fatal); Żądza ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Bound Muscles — id 9103801
+##### Umiejętność: Skrepowane Mięśnie — id 9103801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Tear and Rip — id 9103802
+##### Umiejętność: Szarp i Rozdzieraj — id 9103802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tightening Ribbons — id 9103805
+##### Umiejętność: Ściskające Wstążki — id 9103805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3370,19 +3482,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3405,19 +3517,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3470,43 +3582,43 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 
 *Opis:* Część
 
-##### Umiejętność: Flame Strike — id 132001
+##### Umiejętność: Uderzenie Ogniem — id 132001
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ardor Blossom Pinions — id 132002
+##### Umiejętność: Skrzydła Rozżarzenia — id 132002
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Spark — id 132003
+##### Umiejętność: Iskra — id 132003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dust Explosion — id 132004
+##### Umiejętność: Wybuch Pyłu — id 132004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ardor Blossom Star — id 132005
+##### Umiejętność: Gwiazda Żarzącego Kwiatu — id 132005
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         10 |         +3 |      3 |    4 |
 
-##### Umiejętność: Evade — id 132006
+##### Umiejętność: Unik — id 132006
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Stoke the Flames — id 132007
+##### Umiejętność: Rozdmuchanie Płomieni — id 132007
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3545,19 +3657,19 @@ na koniec tury przywraca Korpusowi HP równe (Licznik [Podpalenie] jednostki x 5
 | Progi oszołomienia | 50%                                                                                                                                |
 | Odporności         | Obuch ×0,75; Gniew ×2 (Fatal); Żądza ×0,5 (Ineff.); Pycha ×1,5 (Weak); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Bound Muscles — id 9103801
+##### Umiejętność: Skrepowane Mięśnie — id 9103801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Tear and Rip — id 9103802
+##### Umiejętność: Szarp i Rozdzieraj — id 9103802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tightening Ribbons — id 9103805
+##### Umiejętność: Ściskające Wstążki — id 9103805
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3583,19 +3695,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3618,19 +3730,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 | Progi oszołomienia | 50%                                                                                                  |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Gniew ×1,25; Żądza ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3648,13 +3760,19 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 474 (+15,79 za poziom) |
-| Sloty akcji | start: 5 · maks. 5     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 474 (+15,79 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ryzyko Złamania Nakazu                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 **Części (anatomia):**
 
 ##### Korpus — id 132501
@@ -3668,55 +3786,55 @@ następnie na każdym Początku tury zyskuje 2 [Wrażliwość] i 1 [Wzrost Mocy 
 
 *Opis:* Część
 
-##### Umiejętność: Skull Crushing — id 132501
+##### Umiejętność: Rozbicie Czaszki — id 132501
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Ah, Please be Quiet — id 132502
+##### Umiejętność: Proszę o Ciszę — id 132502
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: I-I Have to Execute the Prescript Soon...! — id 132503
+##### Umiejętność: M-muszę szybko wykonać Z-zlecenie...! — id 132503
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Please Don't Resist and just be Crushed to Death — id 132504
+##### Umiejętność: Proszę Nie Oporu, daj się Zgnieść — id 132504
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      4 |    1 |
 
-##### Umiejętność: Let These Hands be the Proxy... — id 132505
+##### Umiejętność: Niech te dłonie będą zastępstwem… — id 132505
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Disembowel, Eviscerate... — id 132506
+##### Umiejętność: Wypatroszyć, Wypatroszę... — id 132506
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Procuration: Engrave — id 132507
+##### Umiejętność: Pełnomocnictwo: Wyrycie — id 132507
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Procuration: Annihilate — id 132508
+##### Umiejętność: Pełnomocnictwo: Zaznaczenie — id 132508
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Procuration: Annihilation - Mang of Immanent Yearning [本望] — id 132509
+##### Umiejętność: Prokura: Zagłada - Mang Ostatecznej Tęsknoty [本望] — id 132509
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3772,13 +3890,17 @@ przy HP równym 20% lub mniej, [Ekstremalny Nacisk] osiąga maksimum
 
 *Wystąpienia: ×1 (poz. 77).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 532 (+18 za poziom)   |
-| Sloty akcji | start: 7 · maks. 8    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 532 (+18 za poziom)                            |
+| Sloty akcji  | start: 7 · maks. 8                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Miłość i Urąganie                              |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +10%
+**Efekt Paniki:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +20%
 **Części (anatomia):**
 
 ##### Korpus — id 132201
@@ -3793,43 +3915,43 @@ przy HP równym 20% lub mniej, [Ekstremalny Nacisk] osiąga maksimum
 
 *Opis:* Część
 
-##### Umiejętność: Twinslash [二連] — id 132201
+##### Umiejętność: Bliźniacze Cięcie [二連] — id 132201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          7 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tripleslash [三連] — id 132202
+##### Umiejętność: Potrójne Cięcie [三連] — id 132202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          7 |         +2 |      3 |    1 |
 
-##### Umiejętność: Swift Glimmer [快閃] — id 132203
+##### Umiejętność: Rychły Błysk [快閃] — id 132203
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |         +6 |      1 |    3 |
 
-##### Umiejętność: Formless Cut [無形斬] — id 132204
+##### Umiejętność: Bezcielesne Cięcie [無形斬] — id 132204
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         12 |         +1 |      1 |    4 |
 
-##### Umiejętność: Rend Space [空間斬] — id 132205
+##### Umiejętność: Rozprucie Przestrzeni [空間斬] — id 132205
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         15 |         +4 |      1 |    7 |
 
-##### Umiejętność: Phantom Step [殘像步] — id 132206
+##### Umiejętność: Krok Fantoma [殘像步] — id 132206
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      1 |    1 |
 
-##### Umiejętność: Silent Regard — id 132207
+##### Umiejętność: Obserwacja — id 132207
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3841,7 +3963,7 @@ przy HP równym 20% lub mniej, [Ekstremalny Nacisk] osiąga maksimum
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          9 |         +5 |      2 |    1 |
 
-##### Umiejętność: Rend Space - String Connection [空間斬-緣] — id 132209
+##### Umiejętność: Cięcie Przestrzeni - Powiązanie [空間斬-緣] — id 132209
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3893,43 +4015,43 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 
 *Opis:* Część
 
-##### Umiejętność: Spiked Whip — id 837601
+##### Umiejętność: Kolczasty Bicz — id 837601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Whip Crack — id 837602
+##### Umiejętność: Machnięcie Biczem — id 837602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Strangling Crown of Thorns — id 837603
+##### Umiejętność: Dusząca Korona Cierni — id 837603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Withdraw Whip — id 837604
+##### Umiejętność: Cofnięcie Bicza — id 837604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +3 |      4 |    3 |
 
-##### Umiejętność: Barbed Lasso — id 837605
+##### Umiejętność: Kolczaste Lasso — id 837605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      4 |    5 |
 
-##### Umiejętność: Whip Wreath — id 837606
+##### Umiejętność: Owinięcie Biczem — id 837606
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Snaring Lasso — id 837607
+##### Umiejętność: Lasso Chwytające — id 837607
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3970,7 +4092,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 *Opis:* Część
 
-##### Umiejętność: Thorns — id 837701
+##### Umiejętność: Cierń — id 837701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4020,25 +4142,25 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 *Opis:* Part
 
-##### Umiejętność: Snagged Lure — id 854901
+##### Umiejętność: Zahaczona Przynęta — id 854901
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Burrowing Roots — id 854902
+##### Umiejętność: Kopiące Korzenie — id 854902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Expanding Roots — id 854903
+##### Umiejętność: Rozrastające się Korzenie — id 854903
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +8 |      1 |    2 |
 
-##### Umiejętność: Encroaching Stems — id 854904
+##### Umiejętność: Podżerające Pędy — id 854904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4099,65 +4221,67 @@ wszystkie Buffy i Debuffy wygasają, gdy Korpus ponownie się ukryje
 
 *Opis:* Część
 
-##### Umiejętność: Bite — id 132101
+##### Umiejętność: Gryzienie — id 132101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          7 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tail Poke — id 132102
+##### Umiejętność: Klu Ogonem — id 132102
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wrapping Coil — id 132103
+##### Umiejętność: Owijka — id 132103
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Electric Load — id 132104
+##### Umiejętność: Zalanie Prądem — id 132104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Electric Release — id 132105
+##### Umiejętność: Elektryczny Wyładowywnik — id 132105
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Electric Discharge — id 132106
+##### Umiejętność: Wyładowanie Elektryczne — id 132106
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: High-voltage Electric Discharge — id 132107
+##### Umiejętność: Wyładowanie o Wysokim Napięciu — id 132107
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    4 |
 
-##### Umiejętność: Coil Up — id 132108
+##### Umiejętność: Zwinięcie w Kłębek — id 132108
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: Wriggling Head — id 132109
+##### Umiejętność: Wiercąca Głowa — id 132109
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wriggling Tail — id 132110
+##### Umiejętność: Wiercący Ogon — id 132110
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          8 |         +3 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Wayward Passenger — id 8767
 
@@ -4200,43 +4324,43 @@ wszystkie Buffy i Debuffy wygasają, gdy Korpus ponownie się ukryje
 
 *Opis:* Part
 
-##### Umiejętność: Dimensional Slice — id 130901
+##### Umiejętność: Cięcie Wymiaru — id 130901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Dimensional Slice — id 130902
+##### Umiejętność: Ciągłe Cięcie Wymiaru — id 130902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Discharge Byproducts — id 130903
+##### Umiejętność: Zrzut Produktów Ubocznych — id 130903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          8 |         +6 |      1 |    2 |
 
-##### Umiejętność: Rip Space — id 130904
+##### Umiejętność: Rozcięcie Przestrzeni — id 130904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |         15 |         +3 |      2 |    1 |
 
-##### Umiejętność: Prepared Retribution — id 130905
+##### Umiejętność: Zagrana Zemsta — id 130905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Vomit Byproducts — id 130906
+##### Umiejętność: Zwracanie Produktów Ubocznych — id 130906
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          6 |         +8 |      1 |    3 |
 
-##### Umiejętność: High-speed Rip Space — id 130907
+##### Umiejętność: Wysokoprędkościowe Rozdarcie Przestrzeni — id 130907
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4280,19 +4404,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131001
+##### Umiejętność: Skok Wymiarowy — id 131001
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4328,19 +4452,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131101
+##### Umiejętność: Skok Wymiarowy — id 131101
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4376,19 +4500,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131201
+##### Umiejętność: Skok Wymiarowy — id 131201
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4424,19 +4548,19 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Part
 
-##### Umiejętność: Opportunity Spotted — id 130908
+##### Umiejętność: Zauważona Okazja — id 130908
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: Rift Attack — id 130909
+##### Umiejętność: Atak w Szparę — id 130909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +8 |      1 |    2 |
 
-##### Umiejętność: Dimensional Leap — id 131301
+##### Umiejętność: Skok Wymiarowy — id 131301
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4487,43 +4611,43 @@ następnie traci 5 Licznika [Ładowanie], a wszystkie jej Części otrzymują 30
 
 *Opis:* Część
 
-##### Umiejętność: Flame Strike — id 132001
+##### Umiejętność: Uderzenie Ogniem — id 132001
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ardor Blossom Pinions — id 132002
+##### Umiejętność: Skrzydła Rozżarzenia — id 132002
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Spark — id 132003
+##### Umiejętność: Iskra — id 132003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dust Explosion — id 132004
+##### Umiejętność: Wybuch Pyłu — id 132004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Ardor Blossom Star — id 877205
+##### Umiejętność: Gwiazda Żarzącego Kwiatu — id 877205
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +2 |      3 |    4 |
 
-##### Umiejętność: Evade — id 132006
+##### Umiejętność: Unik — id 132006
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Stoke the Flames — id 132007
+##### Umiejętność: Rozdmuchanie Płomieni — id 132007
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4609,73 +4733,73 @@ przy trafieniu przywraca HP równe (liczba Umiejętności Gniewu, których Ardor
 
 *Opis:* Część
 
-##### Umiejętność: Vain Fruit — id 130701
+##### Umiejętność: Owoc Marności — id 130701
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |         15 |         +9 |      1 |    1 |
 
-##### Umiejętność: Bring Me Snow White. — id 130702
+##### Umiejętność: Przyprowadź Mi Królewnę Śnieżkę. — id 130702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Such Insolence! — id 130703
+##### Umiejętność: Cóż za Bezczelność! — id 130703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          6 |         +4 |      2 |    3 |
 
-##### Umiejętność: Just a Little More... — id 130704
+##### Umiejętność: Jeszcze Chwilę... — id 130704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Distrust — id 130705
+##### Umiejętność: Nieufność — id 130705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Pale Stem — id 130706
+##### Umiejętność: Blady Pęd — id 130706
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Thorny Stem — id 130707
+##### Umiejętność: Kolczasty Pęd — id 130707
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Shared Pain — id 130708
+##### Umiejętność: Wspólny Ból — id 130708
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +8 |      1 |    7 |
 
-##### Umiejętność: Root Spike — id 130709
+##### Umiejętność: Korzeniowy Kolec — id 130709
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |        +10 |      1 |    5 |
 
-##### Umiejętność: Envying Roots — id 877311
+##### Umiejętność: Zazdrosne Korzenie — id 877311
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |         10 |         +4 |      1 |    7 |
 
-##### Umiejętność: Burrowing Roots — id 130712
+##### Umiejętność: Kopiące Korzenie — id 130712
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Vain Fruit — id 130713
+##### Umiejętność: Owoc Marności — id 130713
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4720,47 +4844,49 @@ gdy Część Owocu zostaje zniszczona, traci [Zuchwałość...!]
 
 *Opis:* Część
 
-##### Umiejętność: Expression of Love — id 837901
+##### Umiejętność: Wyrażenie Miłości — id 837901
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Clawing — id 837902
+##### Umiejętność: Drapanie — id 837902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Violent Clawing — id 837903
+##### Umiejętność: Dzikie Drapanie — id 837903
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Timid Expression of Love — id 837904
+##### Umiejętność: Nieśmiałe Wyrażenie Miłości — id 837904
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rough Expression of Love — id 837905
+##### Umiejętność: Brutalne Wyrażenie Miłości — id 837905
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: A Sad Embrace — id 837906
+##### Umiejętność: Smutny Uścisk — id 837906
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: An Old, Nostalgic Embrace — id 837907
+##### Umiejętność: Tęskniony Uścisk Dawnych Czasów — id 837907
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    6 |
+
+**Pasywki:** brak
 
 ## Część: Canto IX · część 3 (`a1c9p3`)
 
@@ -4793,19 +4919,19 @@ gdy Część Owocu zostaje zniszczona, traci [Zuchwałość...!]
 
 *Opis:* Część
 
-##### Umiejętność: Pierce — id 9103601
+##### Umiejętność: Przebicie — id 9103601
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Flesh Rip — id 9103602
+##### Umiejętność: Rozdzieranie Mięsa — id 9103602
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103605
+##### Umiejętność: Kurcz Mięśni — id 9103605
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4840,19 +4966,19 @@ gdy Część Owocu zostaje zniszczona, traci [Zuchwałość...!]
 
 *Opis:* Część
 
-##### Umiejętność: Jab — id 9103701
+##### Umiejętność: Sztych — id 9103701
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          6 |         +4 |      1 |    1 |
 
-##### Umiejętność: Vascular Tear — id 9103702
+##### Umiejętność: Rozdzieranie Naczyń — id 9103702
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Muscular Contraction — id 9103705
+##### Umiejętność: Kurcz Mięśni — id 9103705
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4866,13 +4992,17 @@ gdy Część Owocu zostaje zniszczona, traci [Zuchwałość...!]
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 417 (+14,38 za poziom) |
-| Sloty akcji | start: 4 · maks. 4     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 417 (+14,38 za poziom)                         |
+| Sloty akcji  | start: 4 · maks. 4                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żelazna Dziewica                               |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spadek Poziomu Ataku] i 1 [Wzrost Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Spadek Poziomu Ataku] i 2 [Wzrost Poziomu Obrony]
 **Części (anatomia):**
 
 ##### Korpus — id 133301
@@ -4887,43 +5017,43 @@ gdy Część Owocu zostaje zniszczona, traci [Zuchwałość...!]
 
 *Opis:* Część
 
-##### Umiejętność: Butcher - Ribs — id 131901
+##### Umiejętność: Ubój - Żebra — id 131901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rotator Crush — id 131902
+##### Umiejętność: Zgniot Obrotowy — id 131902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tendon Tear — id 131903
+##### Umiejętność: Pęknięcie Ścięgna — id 131903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Fascia Hungers — id 131904
+##### Umiejętność: Fascia jest głodna. — id 131904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Repressed Flesh — id 131905
+##### Umiejętność: Tłumione Ciało — id 131905
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      4 |    1 |
 
-##### Umiejętność: Exhibition Arrangements — id 131906
+##### Umiejętność: Przygotowanie Wystawy — id 131906
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Iron Curtain — id 131907
+##### Umiejętność: Żelazna Kurtyna — id 131907
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4988,13 +5118,17 @@ otrzymuje o 50% mniej obrażeń od [Krwawienie]
 
 *Wystąpienia: ×1 (poz. 65) · też jako wsparcie.*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 417 (+14,38 za poziom) |
-| Sloty akcji | start: 6 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 417 (+14,38 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Przestarzała Sztuka                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
 **Części (anatomia):**
 
 ##### Korpus — id 133601
@@ -5009,43 +5143,43 @@ otrzymuje o 50% mniej obrażeń od [Krwawienie]
 
 *Opis:* Część
 
-##### Umiejętność: Butcher - Ribs — id 133601
+##### Umiejętność: Ubój - Żebra — id 133601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Rotator Crush — id 133602
+##### Umiejętność: Zgniot Obrotowy — id 133602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tendon Tear — id 133603
+##### Umiejętność: Pęknięcie Ścięgna — id 133603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Time to Eat, Fascia — id 133604
+##### Umiejętność: Czas na Obiad, Powiezi — id 133604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Liberation of the Repressed Flesh — id 133605
+##### Umiejętność: Wyzwolenie Tłumionego Ciała — id 133605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +4 |      4 |    4 |
 
-##### Umiejętność: The Exhibition Begins — id 133606
+##### Umiejętność: Wystawa się rozpoczęła — id 133606
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: You there. Vandalism is Prohibited. — id 133607
+##### Umiejętność: Ty tam. Wandalizm jest Zakazany. — id 133607
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5073,13 +5207,17 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Wystąpienia: ×1 (poz. 83) · też jako wsparcie.*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 730 (+25,17 za poziom) |
-| Sloty akcji | start: 6 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 730 (+25,17 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Przestarzała Sztuka                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
 *Opis:* The Ring Nursefather
 
 **Części (anatomia):**
@@ -5096,49 +5234,49 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Opis:* Część
 
-##### Umiejętność: Installation Art no. 3: Improvised Ribcage — id 133101
+##### Umiejętność: Sztuka Instalacji nr 3: Improwizowana Klatka Piersiowa — id 133101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Anatomize — id 133102
+##### Umiejętność: Anatomizacja — id 133102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Gather Ingredient - Blood-bathed Objet — id 133103
+##### Umiejętność: Zdobądź Składnik - Przedmiot Kąpiący się we Krwi — id 133103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          7 |         +6 |      2 |    1 |
 
-##### Umiejętność: Tibia's Melody - Anatomization of the Unanatomized by the Anatomized — id 133104
+##### Umiejętność: Melodia Kości Piszczelowej - Anatomizacja Nzanatomizowanego przez Anatomizowane — id 133104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +4 |      4 |    6 |
 
-##### Umiejętność: Oh, How We Love the Flesh and the Blood — id 133105
+##### Umiejętność: O, Jak Kochamy Ciało i Krew — id 133105
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Curating the Exhibition — id 133106
+##### Umiejętność: Prowadzenie Wystawy — id 133106
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Please. Vandalism is Prohibited. — id 133107
+##### Umiejętność: Prosimy. Wandalizm jest Wzbroniony. — id 133107
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          7 |         +6 |      2 |    1 |
 
-##### Umiejętność: Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats — id 133108
+##### Umiejętność: Zamknięcie - Instalacja nr 1 „Wasze Ciało i Kości jako Siedziska Galerii” — id 133108
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5181,13 +5319,17 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 500 (+60 za poziom)   |
-| Sloty akcji | start: 5 · maks. 5    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 500 (+60 za poziom)                            |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Szaleńcza Furia                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 4 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+**Efekt Paniki:** Początek Tury: zyskaj 3 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 *Opis:* The Middle Nursefather
 
 **Części (anatomia):**
@@ -5204,73 +5346,73 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Opis:* The Middle Nursefather Part
 
-##### Umiejętność: Stomping — id 132701
+##### Umiejętność: Deptanie — id 132701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         10 |         +3 |      2 |    1 |
 
-##### Umiejętność: Punting — id 132702
+##### Umiejętność: Wykop — id 132702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         11 |         +2 |      2 |    1 |
 
-##### Umiejętność: Stamp of Vengeance — id 132703
+##### Umiejętność: Pieczątka Zemsty — id 132703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         13 |         +1 |      4 |    1 |
 
-##### Umiejętność: Don't Let Somethin' Like This Break Ya! — id 132704
+##### Umiejętność: Nie daj się złamać takiej drobnostce! — id 132704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         12 |         +1 |      3 |    1 |
 
-##### Umiejętność: Rule Violation — id 132705
+##### Umiejętność: Naruszenie Regulaminu — id 132705
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |         14 |         +2 |      2 |    1 |
 
-##### Umiejętność: Gonna Unbox a Layer of Packaging! — id 132706
+##### Umiejętność: Odpakuję Warstwę Opakowania! — id 132706
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         15 |         +1 |      3 |    1 |
 
-##### Umiejętność: Stomping — id 132707
+##### Umiejętność: Deptanie — id 132707
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         11 |         +3 |      2 |    1 |
 
-##### Umiejętność: Punting — id 132708
+##### Umiejętność: Wykop — id 132708
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         13 |         +2 |      2 |    1 |
 
-##### Umiejętność: Stamp of Vengeance — id 132709
+##### Umiejętność: Pieczątka Zemsty — id 132709
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         16 |         +1 |      4 |    1 |
 
-##### Umiejętność: Are Ya Feelin' the Heat?! — id 132710
+##### Umiejętność: Robi się gorąco?! — id 132710
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         15 |         +1 |      3 |    1 |
 
-##### Umiejętność: Rule Violation — id 132711
+##### Umiejętność: Naruszenie Regulaminu — id 132711
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |         16 |         +2 |      2 |    1 |
 
-##### Umiejętność: Looks Like I Gotta Unbox the Second Layer, too. — id 132712
+##### Umiejętność: Trzeba Odpakować Drugą Warstwę. — id 132712
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5301,13 +5443,17 @@ otrzymuje o 50% mniej wzrostu Próg Oszołomienia (zaokrąglając w dół)
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 400 (+15,6 za poziom) |
-| Sloty akcji | start: 4 · maks. 4    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 400 (+15,6 za poziom)                          |
+| Sloty akcji  | start: 4 · maks. 4                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Uniesienie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 *Opis:* The Middle Apprentice
 
 **Części (anatomia):**
@@ -5324,37 +5470,37 @@ otrzymuje o 50% mniej wzrostu Próg Oszołomienia (zaokrąglając w dół)
 
 *Opis:* The Middle Apprentice Part
 
-##### Umiejętność: Time for Some Warm-up! — id 132801
+##### Umiejętność: Rozgrzewka! — id 132801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Totally Badass Ass-kicking — id 132802
+##### Umiejętność: Totalny Sznyt — id 132802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Fixer Disemboweling! — id 132803
+##### Umiejętność: Wypatroszenie Fiksera! — id 132803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Crossing Dervish! — id 132804
+##### Umiejętność: Wirujący Krzyż! — id 132804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Violet~ Breaking Slam! — id 132805
+##### Umiejętność: Fioletowy~ Rozbijający Slam! — id 132805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +2 |      5 |    1 |
 
-##### Umiejętność: I'll Get You Back for This...! — id 132806
+##### Umiejętność: Wykorę Wam To...! — id 132806
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5389,13 +5535,17 @@ na koniec tury, przy mniej niż 3 [Dostałam Pochwałę!], [Ostrza Termiczne - O
 
 *Wystąpienia: ×1 (poz. 77).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 532 (+18 za poziom)   |
-| Sloty akcji | start: 7 · maks. 8    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 532 (+18 za poziom)                            |
+| Sloty akcji  | start: 7 · maks. 8                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Miłość i Urąganie                              |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +10%
+**Efekt Paniki:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +20%
 *Opis:* The Pinky Nursefather
 
 **Części (anatomia):**
@@ -5412,37 +5562,37 @@ na koniec tury, przy mniej niż 3 [Dostałam Pochwałę!], [Ostrza Termiczne - O
 
 *Opis:* Część
 
-##### Umiejętność: Twinslash [二連] — id 132201
+##### Umiejętność: Bliźniacze Cięcie [二連] — id 132201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          7 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tripleslash [三連] — id 132202
+##### Umiejętność: Potrójne Cięcie [三連] — id 132202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          7 |         +2 |      3 |    1 |
 
-##### Umiejętność: Swift Glimmer [快閃] — id 132203
+##### Umiejętność: Rychły Błysk [快閃] — id 132203
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |         +6 |      1 |    3 |
 
-##### Umiejętność: Formless Cut [無形斬] — id 132204
+##### Umiejętność: Bezcielesne Cięcie [無形斬] — id 132204
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         12 |         +1 |      1 |    4 |
 
-##### Umiejętność: Phantom Step [殘像步] — id 132206
+##### Umiejętność: Krok Fantoma [殘像步] — id 132206
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +3 |      1 |    1 |
 
-##### Umiejętność: Silent Regard — id 132207
+##### Umiejętność: Obserwacja — id 132207
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5454,19 +5604,19 @@ na koniec tury, przy mniej niż 3 [Dostałam Pochwałę!], [Ostrza Termiczne - O
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          9 |         +5 |      2 |    1 |
 
-##### Umiejętność: Uttermost Rend Space - String Severance [空間斬 - 絕緣] — id 132210
+##### Umiejętność: Najdalsze Cięcie Przestrzeni - Odcięcie Powiązania [空間斬 - 絕緣] — id 132210
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         14 |        +10 |      1 |    7 |
 
-##### Umiejętność: Destinated Opponent — id 132211
+##### Umiejętność: Wyznaczony Przeciwnik — id 132211
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: You Have Failed to Stop the Future - Scartrail Slash [殘痕斬] — id 132212
+##### Umiejętność: Nie Udało Ci się Zatrzymać Przyszłości - Cięcie Zostawionego Śladu [殘痕斬] — id 132212
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5501,13 +5651,19 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | 65                     |
-| HP          | 384 (+18,52 za poziom) |
-| Sloty akcji | start: 4 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 65                                             |
+| HP           | 384 (+18,52 za poziom)                         |
+| Sloty akcji  | start: 4 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podręcznik                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Moc Starcia +1 przeciw celom z [Eskalacja Pojedynku]
+Przegrane Starcie: zyskaj 1 [Wrażliwość] w następnej turze (raz na turę)
+**Efekt Paniki:** Moc Starcia +2 przeciw celom z [Eskalacja Pojedynku]
+Przegrane Starcie: zyskaj 2 [Wrażliwość] w następnej turze (raz na turę)
 **Części (anatomia):**
 
 ##### Korpus — id 132601
@@ -5546,17 +5702,25 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +4 |      4 |    3 |
 
+**Pasywki:** brak
+
 #### The Thumb Nursefather - Valencina — id 1314
 
 *Wystąpienia: ×1 (poz. 77) · też jako wsparcie.*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | 77                     |
-| HP          | 451 (+35,75 za poziom) |
-| Sloty akcji | start: 4 · maks. 7     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 77                                             |
+| HP           | 451 (+35,75 za poziom)                         |
+| Sloty akcji  | start: 4 · maks. 7                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Hańba Rodu                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Obrażeń Cięcia], 1 [Wzrost Mocy Starcia] i 1 [Wrażliwość]
+Nie może zyskać Mang przy użyciu umiejętności
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Obrażeń Cięcia], 2 [Wzrost Mocy Starcia] i 2 [Wrażliwość]
+Nie może zyskać Mang przy użyciu umiejętności
 *Opis:* The Thumb Nursefather
 
 **Części (anatomia):**
@@ -5597,7 +5761,7 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +4 |      3 |    1 |
 
-##### Umiejętność: I'll Gladly Blast a Hole Through You — id 131405
+##### Umiejętność: Chętnie przebiję cię tym pociskiem. — id 131405
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -5609,11 +5773,13 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Disposal — id 131407
+##### Umiejętność: Utylizacja — id 131407
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +2 |      5 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 9-43 · Wyklucie
 
@@ -5623,13 +5789,17 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 417 (+14,38 za poziom) |
-| Sloty akcji | start: 6 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 417 (+14,38 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Przestarzała Sztuka                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
 **Części (anatomia):**
 
 ##### Korpus — id 134601
@@ -5644,37 +5814,37 @@ na koniec tury co 4 tury w tej walce zyskuje 2 [Wrażliwość] i 2 [Wzrost Obra�
 
 *Opis:* Część
 
-##### Umiejętność: Rotator Crush — id 133602
+##### Umiejętność: Zgniot Obrotowy — id 133602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tendon Tear — id 133603
+##### Umiejętność: Pęknięcie Ścięgna — id 133603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Time to Eat, Fascia — id 133604
+##### Umiejętność: Czas na Obiad, Powiezi — id 133604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Liberation of the Repressed Flesh — id 134605
+##### Umiejętność: Wyzwolenie Tłumionego Ciała — id 134605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +4 |      4 |    4 |
 
-##### Umiejętność: The Exhibition Begins — id 133606
+##### Umiejętność: Wystawa się rozpoczęła — id 133606
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: You there. Vandalism is Prohibited. — id 133607
+##### Umiejętność: Ty tam. Wandalizm jest Zakazany. — id 133607
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5702,13 +5872,17 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Wystąpienia: ×1 (poz. 83).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 730 (+25,17 za poziom) |
-| Sloty akcji | start: 6 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 730 (+25,17 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Przestarzała Sztuka                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Poziomu Ataku]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]
 *Opis:* The Ring Nursefather
 
 **Części (anatomia):**
@@ -5725,37 +5899,37 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Opis:* Część
 
-##### Umiejętność: Anatomize — id 134502
+##### Umiejętność: Anatomizacja — id 134502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +6 |      2 |    1 |
 
-##### Umiejętność: Gather Ingredient - Blood-bathed Objet — id 134503
+##### Umiejętność: Zdobądź Składnik - Przedmiot Kąpiący się we Krwi — id 134503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          7 |         +6 |      2 |    1 |
 
-##### Umiejętność: Tibia's Melody - Anatomization of the Unanatomized by the Anatomized — id 134504
+##### Umiejętność: Melodia Kości Piszczelowej - Anatomizacja Nzanatomizowanego przez Anatomizowane — id 134504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +4 |      4 |    6 |
 
-##### Umiejętność: Curating the Exhibition — id 133106
+##### Umiejętność: Prowadzenie Wystawy — id 133106
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Please. Vandalism is Prohibited. — id 133107
+##### Umiejętność: Prosimy. Wandalizm jest Wzbroniony. — id 133107
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          7 |         +6 |      2 |    1 |
 
-##### Umiejętność: Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats — id 134508
+##### Umiejętność: Zamknięcie - Instalacja nr 1 „Wasze Ciało i Kości jako Siedziska Galerii” — id 134508
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5838,13 +6012,17 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 500 (+60 za poziom)   |
-| Sloty akcji | start: 6 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 500 (+60 za poziom)                            |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Szaleńcza Furia                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 4 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+**Efekt Paniki:** Początek Tury: zyskaj 3 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 *Opis:* The Middle Nursefather
 
 **Części (anatomia):**
@@ -5860,85 +6038,85 @@ na koniec tury zyskuje 1 [Spadek Poziomu Obrony] w następnej turze za każde 4 
 
 *Opis:* Część
 
-##### Umiejętność: Stomping — id 132707
+##### Umiejętność: Deptanie — id 132707
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         11 |         +3 |      2 |    1 |
 
-##### Umiejętność: Punting — id 132708
+##### Umiejętność: Wykop — id 132708
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         13 |         +2 |      2 |    1 |
 
-##### Umiejętność: Rule Violation — id 132711
+##### Umiejętność: Naruszenie Regulaminu — id 132711
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |         16 |         +2 |      2 |    1 |
 
-##### Umiejętność: Looks Like I Gotta Unbox the Second Layer, too. — id 132712
+##### Umiejętność: Trzeba Odpakować Drugą Warstwę. — id 132712
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         14 |         +1 |      4 |    1 |
 
-##### Umiejętność: Stomping! — id 134101
+##### Umiejętność: Depcz! — id 134101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         13 |         +3 |      2 |    1 |
 
-##### Umiejętność: Punting! — id 134102
+##### Umiejętność: Wykop! — id 134102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         15 |         +2 |      2 |    1 |
 
-##### Umiejętność: Stamp of Complete and Total Extermination! — id 134103
+##### Umiejętność: Pieczątka Natychmiastowej Totalnej Eksterminacji! — id 134103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         18 |         +1 |      4 |    1 |
 
-##### Umiejętność: Time to Melt Away and Die — id 134104
+##### Umiejętność: Czas Topić się i Umrzeć — id 134104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         16 |         +1 |      3 |    1 |
 
-##### Umiejętność: Rule Violation! — id 134105
+##### Umiejętność: Naruszenie Regulaminu! — id 134105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |         17 |         +2 |      2 |    1 |
 
-##### Umiejętność: Lævateinn - Been a While Since I Had to Unbox the Whole Thing! — id 134106
+##### Umiejętność: Lævateinn - Dawno Nie Odpakowywałem Całości! — id 134106
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |         19 |         +1 |      4 |    1 |
 
-##### Umiejętność: I'll Gut Ya Like a Fish — id 134107
+##### Umiejętność: Wypatroszę cię jak rybę. — id 134107
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         12 |         +2 |      2 |    1 |
 
-##### Umiejętność: Gut Stab [Lævateinn] — id 134108
+##### Umiejętność: Cios w Brzuch [Lævateinn] — id 134108
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |         15 |         +1 |      5 |    1 |
 
-##### Umiejętność: ... Complete and Total Extermination [Lævateinn] — id 134109
+##### Umiejętność: ... Pełna i Totalna Eksterminacja [Lævateinn] — id 134109
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |         20 |         +1 |      5 |    1 |
 
-##### Umiejętność: Rule Violation!! — id 134110
+##### Umiejętność: Naruszenie Regulaminu!! — id 134110
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5971,13 +6149,17 @@ wskazuje jednostkę posiadającą [Głęboki Oddech - Czerwień]
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 400 (+15,6 za poziom) |
-| Sloty akcji | start: 4 · maks. 4    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 400 (+15,6 za poziom)                          |
+| Sloty akcji  | start: 4 · maks. 4                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Uniesienie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]; zyskaj 1 [Wzrost Obrażeń] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)
 *Opis:* The Middle Apprentice
 
 **Części (anatomia):**
@@ -5994,37 +6176,37 @@ wskazuje jednostkę posiadającą [Głęboki Oddech - Czerwień]
 
 *Opis:* Część
 
-##### Umiejętność: Time for Some Warm-up! — id 132801
+##### Umiejętność: Rozgrzewka! — id 132801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Totally Badass Ass-kicking — id 132802
+##### Umiejętność: Totalny Sznyt — id 132802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Fixer Disemboweling! — id 132803
+##### Umiejętność: Wypatroszenie Fiksera! — id 132803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +2 |      2 |    1 |
 
-##### Umiejętność: Crossing Dervish! — id 132804
+##### Umiejętność: Wirujący Krzyż! — id 132804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Violet~ Breaking Slam! — id 132805
+##### Umiejętność: Fioletowy~ Rozbijający Slam! — id 132805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +2 |      5 |    1 |
 
-##### Umiejętność: I'll Get You Back for This...! — id 132806
+##### Umiejętność: Wykorę Wam To...! — id 132806
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6062,13 +6244,17 @@ na koniec tury przy HP niższym niż 80% / 60% / 40% zyskuje [Środkowy - Uraza]
 
 *Wystąpienia: ×1 (poz. 90).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 538 (+27,81 za poziom) |
-| Sloty akcji | start: 6 · maks. 7     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 538 (+27,81 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 7                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | „Z-zabij… zabij mnie…”                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 8 [Spadek Mocy Starcia] i 5 [Spadek Mocy]
+**Efekt Paniki:** Początek Tury: zyskaj 10 [Spadek Mocy Starcia] i 5 [Spadek Mocy]
 *Opis:* broń G Corp.
 
 **Części (anatomia):**
@@ -6085,55 +6271,55 @@ na koniec tury przy HP niższym niż 80% / 60% / 40% zyskuje [Środkowy - Uraza]
 
 *Opis:* Część
 
-##### Umiejętność: The Emperor's Fist — id 133901
+##### Umiejętność: Pięść Cesarza — id 133901
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         12 |        +11 |      2 |    1 |
 
-##### Umiejętność: The Emperor's Whip & Fist — id 133902
+##### Umiejętność: Bicz i Pięść Cesarza — id 133902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         12 |         +8 |      3 |    1 |
 
-##### Umiejętność: The Emperor's Devouring — id 133903
+##### Umiejętność: Pożeranie Cesarza — id 133903
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         13 |        +13 |      1 |    1 |
 
-##### Umiejętność: The Emperor's Flogging — id 133904
+##### Umiejętność: Chłosta Cesarza — id 133904
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |         14 |        +13 |      2 |    7 |
 
-##### Umiejętność: March of Roaches — id 133905
+##### Umiejętność: Marsz Karaluchów — id 133905
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         10 |        +10 |      3 |    1 |
 
-##### Umiejętność: The Emperor's Quaking — id 133906
+##### Umiejętność: Rezonans Cesarza — id 133906
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         17 |         +8 |      4 |    7 |
 
-##### Umiejętność: The Emperor's Excision — id 133907
+##### Umiejętność: Wycięcie Cesarza — id 133907
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         +8 |      2 |    7 |
 
-##### Umiejętność: The Emperor's Feast — id 133908
+##### Umiejętność: Uczta Cesarza — id 133908
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         +9 |      2 |    1 |
 
-##### Umiejętność: 'Son, don't forget to go for the heart.' — id 133909
+##### Umiejętność: „Synie, nie zapomnij celować w serce.” — id 133909
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6178,13 +6364,17 @@ następnie obowiązują następujące efekty:
 
 *Wystąpienia: ×1 (poz. 77).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 532 (+18 za poziom)   |
-| Sloty akcji | start: 5 · maks. 5    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 532 (+18 za poziom)                            |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Miłość i Urąganie                              |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +10%
+**Efekt Paniki:** Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +20%
 *Opis:* The Pinky Nursefather
 
 **Części (anatomia):**
@@ -6200,31 +6390,31 @@ następnie obowiązują następujące efekty:
 
 *Opis:* Część
 
-##### Umiejętność: Twinslash [二連] — id 132201
+##### Umiejętność: Bliźniacze Cięcie [二連] — id 132201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          7 |         +3 |      2 |    1 |
 
-##### Umiejętność: Tripleslash [三連] — id 132202
+##### Umiejętność: Potrójne Cięcie [三連] — id 132202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          7 |         +2 |      3 |    1 |
 
-##### Umiejętność: Swift Glimmer [快閃] — id 132203
+##### Umiejętność: Rychły Błysk [快閃] — id 132203
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |         +6 |      1 |    3 |
 
-##### Umiejętność: Formless Cut [無形斬] — id 132204
+##### Umiejętność: Bezcielesne Cięcie [無形斬] — id 132204
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         12 |         +1 |      1 |    4 |
 
-##### Umiejętność: Phantom Step [殘像步] — id 132206
+##### Umiejętność: Krok Fantoma [殘像步] — id 132206
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -6236,49 +6426,49 @@ następnie obowiązują następujące efekty:
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          9 |         +5 |      2 |    1 |
 
-##### Umiejętność: Uttermost Rend Space - String Severance [空間斬 - 絕緣] — id 132210
+##### Umiejętność: Najdalsze Cięcie Przestrzeni - Odcięcie Powiązania [空間斬 - 絕緣] — id 132210
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         14 |        +10 |      1 |    7 |
 
-##### Umiejętność: Destinated Opponent — id 132211
+##### Umiejętność: Wyznaczony Przeciwnik — id 132211
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: Twinslash - Echoshear [二連 - 殘] — id 132213
+##### Umiejętność: Bliźniacze Cięcie - Przecięcie Echa [二連 - 殘] — id 132213
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          8 |         +7 |      1 |    1 |
 
-##### Umiejętność: Inevitable Termination [必然殺] — id 132214
+##### Umiejętność: Nieuchronna Egzekucja [必然殺] — id 132214
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         14 |        +10 |      1 |    1 |
 
-##### Umiejętność: Resentment [怨望] — id 132216
+##### Umiejętność: Uraza [怨望] — id 132216
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |         10 |         +4 |      1 |    1 |
 
-##### Umiejętność: Futility [非望] — id 132217
+##### Umiejętność: Beznadzieja [非望] — id 132217
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |         10 |         +4 |      1 |    1 |
 
-##### Umiejętność: Dismay [落望] — id 132218
+##### Umiejętność: Zniechęcenie [落望] — id 132218
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +1 |      1 |    1 |
 
-##### Umiejętność: I resent you so. But... — id 132219
+##### Umiejętność: Ciebie Obwiniam, ale... — id 132219
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6315,13 +6505,19 @@ na koniec walki: **jeżeli wszystkie Umiejętności „Destinated Opponent” u�
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 474 (+15,79 za poziom) |
-| Sloty akcji | start: 5 · maks. 5     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 474 (+15,79 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ryzyko Złamania Nakazu                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 *Opis:* Ryōshū
 
 **Części (anatomia):**
@@ -6337,37 +6533,37 @@ na koniec walki: **jeżeli wszystkie Umiejętności „Destinated Opponent” u�
 
 *Opis:* Część
 
-##### Umiejętność: Let These Hands be the Proxy... — id 133701
+##### Umiejętność: Niech te dłonie będą zastępstwem… — id 133701
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Disembowel, Eviscerate... — id 133702
+##### Umiejętność: Wypatroszyć, Wypatroszę... — id 133702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Procuration: Engrave — id 133703
+##### Umiejętność: Pełnomocnictwo: Wyrycie — id 133703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Procuration: Annihilate — id 133704
+##### Umiejętność: Pełnomocnictwo: Zaznaczenie — id 133704
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Procuration: Annihilation - Mang of Immanent Yearning [本望] — id 133705
+##### Umiejętność: Prokura: Zagłada - Mang Ostatecznej Tęsknoty [本望] — id 133705
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      5 |    1 |
 
-##### Umiejętność: Hear all. Hope all. With these Hands, all will... — id 133706
+##### Umiejętność: Słuchać wszystko. Spodziewać się wszystkiego. Tymi Dłońmi wszystko... — id 133706
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6415,13 +6611,17 @@ Min. i Maks. Szybkość +10 w turze użycia potężnego ataku
 
 *Wystąpienia: ×1 (poz. 65).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 300 (+10 za poziom)   |
-| Sloty akcji | start: 5 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 300 (+10 za poziom)                            |
+| Sloty akcji  | start: 5 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Rwany Oddech                                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: trać 3 Siły [Oddech]
+**Efekt Paniki:** Początek Tury: trać 5 Siły [Oddech]
 *Opis:* Ryōshū
 
 **Części (anatomia):**
@@ -6437,49 +6637,49 @@ Min. i Maks. Szybkość +10 w turze użycia potężnego ataku
 
 *Opis:* Część
 
-##### Umiejętność: Defend [守] — id 133801
+##### Umiejętność: Obrona [守] — id 133801
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Reflect [反] — id 133802
+##### Umiejętność: Odbicie [反] — id 133802
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: kontra |          8 |        +12 |      1 |    1 |
 
-##### Umiejętność: Unnamed Cut [無名閃] — id 133803
+##### Umiejętność: Bezimienny Cios [無名閃] — id 133803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         11 |         +7 |      1 |    3 |
 
-##### Umiejętność: Chainslash [連鎖斬] — id 133804
+##### Umiejętność: Łańcuchowe Cięcie [連鎖斬] — id 133804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |         +8 |      1 |    3 |
 
-##### Umiejętność: Twinstrike [二擊] — id 133805
+##### Umiejętność: Podwójny Cios [二擊] — id 133805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Triplestrike [三擊] — id 133806
+##### Umiejętność: Potrójny Cios [三擊] — id 133806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Fallstar Slayer [落星一殺] — id 133807
+##### Umiejętność: Zabójca Spadającej Gwiazdy [落星一殺] — id 133807
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         14 |         +9 |      1 |    8 |
 
-##### Umiejętność: Rend Space - Azureslash [空間斬 - 靑] — id 133808
+##### Umiejętność: Cięcie Przestrzeni - Błękit [空間斬 - 靑] — id 133808
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6505,13 +6705,19 @@ otrzymuje o 20% mniej obrażeń od celów innych niż Ryōshū
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 635 (+44 za poziom)   |
-| Sloty akcji | start: 6 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 635 (+44 za poziom)                            |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Imitacja Ojca                                  |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Początek Tury: zyskaj 5 [Podpalenie] i 5 [Krwawienie]
+- Otrzymywane obrażenia od Grzeszniczki Ryōshū +10%
+**Efekt Paniki:** - Początek Tury: zyskaj 5 [Podpalenie], +3 Licznika [Podpalenie], 5 [Krwawienie] i +3 Licznika [Krwawienie]
+- Otrzymywane obrażenia od Grzeszniczki Ryōshū +20%
 *Opis:* The Index Nursefather
 
 **Części (anatomia):**
@@ -6528,55 +6734,55 @@ otrzymuje o 20% mniej obrażeń od celów innych niż Ryōshū
 
 *Opis:* Część
 
-##### Umiejętność: Slam Down with Weight, Topple the Body — id 134701
+##### Umiejętność: Zbij w Dół z Ciężarem, Łam Tors — id 134701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Lay Vertical The End, Insert Up to the Wick — id 134702
+##### Umiejętność: Ustaw Pion, Wsuń aż do Knotu — id 134702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Lay the Blade on its Side, Slice Like a Severed Breath — id 134703
+##### Umiejętność: Połóż Ostrze Płasko, Tnij jak Urwany Oddech — id 134703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Swing to Fell, Have it Meet the Ground — id 134704
+##### Umiejętność: Machnij, by Powalić, Połącz z Ziemią — id 134704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aim Toward a Point, Let it Echo Within — id 134705
+##### Umiejętność: Celuj w Punkt, Daj Zabrzmieć w Środku — id 134705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Carve at a Low Slant, Peel What Remains — id 134706
+##### Umiejętność: Tnij po Niskim Skosie, Zedrzyj, Co Pozostało — id 134706
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: Destroy the Sound, Crush Flat the Thought — id 134707
+##### Umiejętność: Zniszcz Dźwięk, Rozgnieć Płasko Myśl — id 134707
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Stab the Silence's Heart, Penetrate the Memory — id 134708
+##### Umiejętność: Przebij Serce Ciszy, Przeniknij Pamięć — id 134708
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: With Tempered Secret, Cut the Form — id 134709
+##### Umiejętność: Z Naostrzoną Tajemnicą, Utnij Formę — id 134709
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -6653,13 +6859,19 @@ zyskuje 10 [Karma] na następnym Początku tury za każdy zyskany Licznik
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 635 (+44 za poziom)   |
-| Sloty akcji | start: 6 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 635 (+44 za poziom)                            |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Imitacja Ojca                                  |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Początek Tury: zyskaj 5 [Podpalenie] i 5 [Krwawienie]
+- Otrzymywane obrażenia od Grzeszniczki Ryōshū +10%
+**Efekt Paniki:** - Początek Tury: zyskaj 5 [Podpalenie], +3 Licznika [Podpalenie], 5 [Krwawienie] i +3 Licznika [Krwawienie]
+- Otrzymywane obrażenia od Grzeszniczki Ryōshū +20%
 *Opis:* The Index Nursefather
 
 **Części (anatomia):**
@@ -6675,61 +6887,61 @@ zyskuje 10 [Karma] na następnym Początku tury za każdy zyskany Licznik
 
 *Opis:* Część
 
-##### Umiejętność: Slam Down with Weight, Topple the Body — id 134801
+##### Umiejętność: Zbij w Dół z Ciężarem, Łam Tors — id 134801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Lay Vertical The End, Insert Up to the Wick — id 134802
+##### Umiejętność: Ustaw Pion, Wsuń aż do Knotu — id 134802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Lay the Blade on its Side, Slice Like a Severed Breath — id 134803
+##### Umiejętność: Połóż Ostrze Płasko, Tnij jak Urwany Oddech — id 134803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Swing to Fell, Have it Meet the Ground — id 134804
+##### Umiejętność: Machnij, by Powalić, Połącz z Ziemią — id 134804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Aim Toward a Point, Let it Echo Within — id 134805
+##### Umiejętność: Celuj w Punkt, Daj Zabrzmieć w Środku — id 134805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Carve at a Low Slant, Peel What Remains — id 134806
+##### Umiejętność: Tnij po Niskim Skosie, Zedrzyj, Co Pozostało — id 134806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      3 |    1 |
 
-##### Umiejętność: Destroy the Sound, Crush Flat the Thought — id 134807
+##### Umiejętność: Zniszcz Dźwięk, Rozgnieć Płasko Myśl — id 134807
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Stab the Heart of Silence, Penetrate the Memory — id 134808
+##### Umiejętność: Przebij Serce Ciszy, Przeniknij Pamięć — id 134808
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: With Tempered Secret, Sever the Form — id 134809
+##### Umiejętność: Z Naostrzoną Tajemnicą, Utnij Formę — id 134809
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Remember This, Sweetheart? Only You Can Clash Against This Move. — id 134810
+##### Umiejętność: Pamiętasz, Skarbie? Tylko Ty Zdążysz walczyć z tym Ciosiem. — id 134810
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -6816,23 +7028,29 @@ uruchamia następujący efekt od tury, w której zmieniła się faza
 | Szybkość           | 3–5                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                |
 | Progi oszołomienia | 50% / 0%                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                    |
+| Typ paniki         | Ryzyko Złamania Nakazu                                            |
 | Odporności         | Cięcie ×0,75; Kłucie ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 *Opis:* Prozelita The Index
 
-##### Umiejętność: Target Sighted — id 9103401
+##### Umiejętność: Cel Zauważony — id 9103401
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: To Where the Prescript Points — id 9103402
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Undertake Prescript — id 9103403
+##### Umiejętność: Wykonaj Z-zlecenie — id 9103403
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -6867,23 +7085,29 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 | Szybkość           | 3–5                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                |
 | Progi oszołomienia | 50% / 0%                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                    |
+| Typ paniki         | Ryzyko Złamania Nakazu                                            |
 | Odporności         | Cięcie ×0,75; Kłucie ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 *Opis:* Prozelita The Index
 
-##### Umiejętność: Target Sighted — id 9103501
+##### Umiejętność: Cel Zauważony — id 9103501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: To Where the Prescript Points — id 9103502
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Undertake Prescript — id 9103503
+##### Umiejętność: Wykonaj Z-zlecenie — id 9103503
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |

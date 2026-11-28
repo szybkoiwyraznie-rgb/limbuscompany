@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9008801].levelList[level=1].name": {
-      "pl": "Sow Fear",
+      "pl": "Sianie Strachu",
       "kr_sha256": "864b1079f644759261ceac128c1120a287fb3c2c3be776962c9469c04a3348ad",
       "en_sha256": "3fca92ce74bb32b0615cc5ecc30490abe4710420cd0b30dd736d7084c1c32e10",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=9008802].levelList[level=1].name": {
-      "pl": "Engrave Horror",
+      "pl": "Wyrycie Grozy",
       "kr_sha256": "7fde5208ba9f3fe5d44993975379f3fcc30578643255c995e37ab8ae53ff0b26",
       "en_sha256": "07b22349949b90ab37c2cfbc3447646ae2e2b2f1f066c32f93dcae9032f20f05",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=9008803].levelList[level=1].name": {
-      "pl": "Reap Horror",
+      "pl": "Żniwa Grozy",
       "kr_sha256": "402d7bd6fa78e31616e1c35c5bb848d0d61d16c22f2b4df786a549762bfa8926",
       "en_sha256": "883f170d58c63553c733e15b22485396b83eb1b4e98c6920166e042d61c5e2c1",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=9008804].levelList[level=1].name": {
-      "pl": "Paralyze Mind",
+      "pl": "Paraliż Umysłu",
       "kr_sha256": "fa56db4cbb4748dca13ae2ecd05dc42344fd0c058aad79b471e994d54192bb08",
       "en_sha256": "d13f663d6f4a911b8ab178973dc4494a10571b48dc0a629632a6139fc49729cd",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=9009601].levelList[level=1].name": {
-      "pl": "Right in the Solar Plexus",
+      "pl": "Prosto w Solarny Splot",
       "kr_sha256": "2ae4a27b4748b77f365e4b8715c4307126179c48382aafe412e38a2dc9cabcb7",
       "en_sha256": "e0da64f9a66e2673e3945ad9a5d1047ab1bf2ce357303f962909400a0e320450",
       "origin": "ai"
@@ -679,7 +679,7 @@
       "origin": "ai"
     },
     "dataList[id=9009602].levelList[level=1].name": {
-      "pl": "We Remember!",
+      "pl": "Pamiętamy!",
       "kr_sha256": "b430ecccc16b04df5e020fcf015ef32ea262353e9125313c8ff5b76d712e3b91",
       "en_sha256": "5876317022874c76f748e8c9016bf590dd1fe655c7c395f78e0698f485665b9c",
       "origin": "ai"
@@ -697,7 +697,7 @@
       "origin": "ai"
     },
     "dataList[id=9009603].levelList[level=1].name": {
-      "pl": "Skull Crushing",
+      "pl": "Rozbicie Czaszki",
       "kr_sha256": "0f6d000fabc0ece068a96afaf54f67831b47e0765b7d28ea1bf42030838b3169",
       "en_sha256": "8efedbd30460ccc826ca29fc65ac146da1cea9f58ab0ca50a6bd93582740515d",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=9009604].levelList[level=1].name": {
-      "pl": "Ready to Write",
+      "pl": "Gotów do Zapisu",
       "kr_sha256": "7a1045f3316997bb52d0dfba742783cff02b969ecf3e7cc3640ceaa8309bcaf3",
       "en_sha256": "fd532da5ad674be42a959c47c0165ed5497d1b3439f9a380e5f64c78052845c1",
       "origin": "ai"
@@ -733,7 +733,7 @@
       "origin": "ai"
     },
     "dataList[id=9009605].levelList[level=1].name": {
-      "pl": "Vengeance",
+      "pl": "Zemsta",
       "kr_sha256": "808288a75656d34867bdc260e5f3b8bfc53074f46dd0cfaea6ed5c01481ebc55",
       "en_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
       "origin": "ai"
@@ -757,7 +757,7 @@
       "origin": "ai"
     },
     "dataList[id=9009606].levelList[level=1].name": {
-      "pl": "Multifold Retribution",
+      "pl": "Wielokrotna Zemsta",
       "kr_sha256": "7403d4a9fc1db23096cf3091775d3c8e9c32f22decc803933cc8bae01c1ddcb6",
       "en_sha256": "cb25a2398d7d56e0cc3329858a2ce3722244d21b7037eb94f437a9c1f666a6de",
       "origin": "ai"
@@ -769,7 +769,7 @@
       "origin": "ai"
     },
     "dataList[id=9009701].levelList[level=1].name": {
-      "pl": "Right in the Solar Plexus",
+      "pl": "Prosto w Solarny Splot",
       "kr_sha256": "2ae4a27b4748b77f365e4b8715c4307126179c48382aafe412e38a2dc9cabcb7",
       "en_sha256": "e0da64f9a66e2673e3945ad9a5d1047ab1bf2ce357303f962909400a0e320450",
       "origin": "ai"
@@ -793,7 +793,7 @@
       "origin": "ai"
     },
     "dataList[id=9009702].levelList[level=1].name": {
-      "pl": "Write Their Sins!",
+      "pl": "Wyryj Ich Grzechy!",
       "kr_sha256": "11d30b87ad1f19c0e6a2a480e6030cf40c8892c18a7b6aa2658087d4fc35f002",
       "en_sha256": "ef374579269252a9f58e8c63abcf2bf874bf6b9a10b3f63997fa60cdceb123dd",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=9009703].levelList[level=1].name": {
-      "pl": "Skull Bursting",
+      "pl": "Rozbijanie Czaszki",
       "kr_sha256": "776a8ebc2179f1fcffcf344b73031d81ab5e248d85e8c983ab389211f982907a",
       "en_sha256": "b7e9521ae8bb3dfefc96d295faa7429cad221629185a83726d2f9f52cb4e3420",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=9009704].levelList[level=1].name": {
-      "pl": "Ready to Write",
+      "pl": "Gotów do Zapisu",
       "kr_sha256": "7a1045f3316997bb52d0dfba742783cff02b969ecf3e7cc3640ceaa8309bcaf3",
       "en_sha256": "fd532da5ad674be42a959c47c0165ed5497d1b3439f9a380e5f64c78052845c1",
       "origin": "ai"
@@ -847,7 +847,7 @@
       "origin": "ai"
     },
     "dataList[id=9009705].levelList[level=1].name": {
-      "pl": "Vengeance",
+      "pl": "Zemsta",
       "kr_sha256": "808288a75656d34867bdc260e5f3b8bfc53074f46dd0cfaea6ed5c01481ebc55",
       "en_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
       "origin": "ai"
@@ -871,7 +871,7 @@
       "origin": "ai"
     },
     "dataList[id=9009706].levelList[level=1].name": {
-      "pl": "Multifold Retribution",
+      "pl": "Wielokrotna Zemsta",
       "kr_sha256": "7403d4a9fc1db23096cf3091775d3c8e9c32f22decc803933cc8bae01c1ddcb6",
       "en_sha256": "cb25a2398d7d56e0cc3329858a2ce3722244d21b7037eb94f437a9c1f666a6de",
       "origin": "ai"

@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=814701].levelList[level=1].name": {
-      "pl": "Stab",
+      "pl": "Pchnięcie",
       "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
       "en_sha256": "289a9c9cffb746ba9e0b6dbd10fc984da5cf6b3cb08f9c3c062baf162cc1cf25",
       "origin": "ai"
@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=814702].levelList[level=1].name": {
-      "pl": "Pin Down",
+      "pl": "Przygniecenie",
       "kr_sha256": "da6cc9c7e202b8746178d8e6f2d560716fa129a6e5b0b5ad0b08dc713b1a8cf6",
       "en_sha256": "537c6d819d591dd0f767a547a5a66aa4bb988fbfc6672faf1642e26e6d6305a9",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=814703].levelList[level=1].name": {
-      "pl": "Pain",
+      "pl": "Ból",
       "kr_sha256": "84e22bc49fad97e980ccd09d7712167dbe128930fe48051072368af7834016a6",
       "en_sha256": "b94dac135b0befd5f0ec921c222d0b1214781e0b06c738191587ba72ec3e82e6",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=814704].levelList[level=1].name": {
-      "pl": "Defend",
+      "pl": "Garda",
       "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
       "en_sha256": "8e2b77617882e02292923215f823f9bcecf697a16e793ad38e172f98c6c64023",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=814801].levelList[level=1].name": {
-      "pl": "Stab",
+      "pl": "Pchnięcie",
       "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
       "en_sha256": "289a9c9cffb746ba9e0b6dbd10fc984da5cf6b3cb08f9c3c062baf162cc1cf25",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=814802].levelList[level=1].name": {
-      "pl": "Pin Down",
+      "pl": "Przygniecenie",
       "kr_sha256": "da6cc9c7e202b8746178d8e6f2d560716fa129a6e5b0b5ad0b08dc713b1a8cf6",
       "en_sha256": "537c6d819d591dd0f767a547a5a66aa4bb988fbfc6672faf1642e26e6d6305a9",
       "origin": "ai"
@@ -139,13 +139,13 @@
       "origin": "ai"
     },
     "dataList[id=814803].levelList[level=1].name": {
-      "pl": "Pain",
+      "pl": "Ból",
       "kr_sha256": "84e22bc49fad97e980ccd09d7712167dbe128930fe48051072368af7834016a6",
       "en_sha256": "b94dac135b0befd5f0ec921c222d0b1214781e0b06c738191587ba72ec3e82e6",
       "origin": "ai"
     },
     "dataList[id=814804].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=814901].levelList[level=1].name": {
-      "pl": "Stab",
+      "pl": "Pchnięcie",
       "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
       "en_sha256": "289a9c9cffb746ba9e0b6dbd10fc984da5cf6b3cb08f9c3c062baf162cc1cf25",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=814902].levelList[level=1].name": {
-      "pl": "Pin Down",
+      "pl": "Przygniecenie",
       "kr_sha256": "da6cc9c7e202b8746178d8e6f2d560716fa129a6e5b0b5ad0b08dc713b1a8cf6",
       "en_sha256": "537c6d819d591dd0f767a547a5a66aa4bb988fbfc6672faf1642e26e6d6305a9",
       "origin": "ai"
@@ -223,13 +223,13 @@
       "origin": "ai"
     },
     "dataList[id=814903].levelList[level=1].name": {
-      "pl": "Pain",
+      "pl": "Ból",
       "kr_sha256": "84e22bc49fad97e980ccd09d7712167dbe128930fe48051072368af7834016a6",
       "en_sha256": "b94dac135b0befd5f0ec921c222d0b1214781e0b06c738191587ba72ec3e82e6",
       "origin": "ai"
     },
     "dataList[id=814904].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=815001].levelList[level=1].name": {
-      "pl": "Stab",
+      "pl": "Pchnięcie",
       "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
       "en_sha256": "289a9c9cffb746ba9e0b6dbd10fc984da5cf6b3cb08f9c3c062baf162cc1cf25",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=815002].levelList[level=1].name": {
-      "pl": "Pin Down",
+      "pl": "Przygniecenie",
       "kr_sha256": "da6cc9c7e202b8746178d8e6f2d560716fa129a6e5b0b5ad0b08dc713b1a8cf6",
       "en_sha256": "537c6d819d591dd0f767a547a5a66aa4bb988fbfc6672faf1642e26e6d6305a9",
       "origin": "ai"
@@ -343,13 +343,13 @@
       "origin": "ai"
     },
     "dataList[id=815003].levelList[level=1].name": {
-      "pl": "Pain",
+      "pl": "Ból",
       "kr_sha256": "84e22bc49fad97e980ccd09d7712167dbe128930fe48051072368af7834016a6",
       "en_sha256": "b94dac135b0befd5f0ec921c222d0b1214781e0b06c738191587ba72ec3e82e6",
       "origin": "ai"
     },
     "dataList[id=815004].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"

@@ -225,6 +225,33 @@ def _unit2nameid(static: StaticData) -> dict[int, int]:
 
 
 # ----------------------------------------------------------------- lokalizacja
+def _panic_map(snapshot) -> dict[int, dict]:
+    """id → wiersz PanicInfo (pl z fallbackiem en) ze wszystkich plików PanicInfo*."""
+    out: dict[int, dict] = {}
+    for lang in ("pl", "en"):
+        for logical in sorted(snapshot.files.get(lang, {})):
+            PureName = PurePosixPath(logical).name
+            if not PureName.startswith("PanicInfo"):
+                continue
+            try:
+                data = load_lenient(snapshot.read(lang, logical))
+            except Exception:
+                continue
+            rows = data.get("dataList") if isinstance(data, dict) else data
+            for r in rows or []:
+                pid = r.get("id")
+                if pid is None:
+                    continue
+                rec = {k: r.get(k) for k in ("panicName", "lowMoraleDescription", "panicDescription")}
+                if not rec.get("panicName"):
+                    continue
+                cur = out.setdefault(int(pid), {})
+                for k, v in rec.items():
+                    if v and not cur.get(k):
+                        cur[k] = v
+    return out
+
+
 def _loc_row(enemies_loc: dict[int, dict], unit2nameid: dict[int, int], uid: int) -> dict:
     row = enemies_loc.get(uid, {})
     nid = unit2nameid.get(uid)
@@ -247,7 +274,7 @@ def _enemy_text_maps(texts: Texts) -> tuple[dict[int, dict], dict[int, list], di
         except (KeyError, TypeError, ValueError):
             continue
     skills: dict[int, list] = {}
-    for table in ("Skills_Enemy", "Skills_Abnormality"):
+    for table in ("Skills_Enemy", "Skills_Abnormality", "Skills_Tutorial"):
         for row in texts.family(table):
             try:
                 skills[int(row["id"])] = row.get("levelList", []) or []
@@ -299,7 +326,7 @@ class Renderer:
                 parts.append(f"{label} ×{number(value)}" + (f" ({note})" if note else ""))
         return "; ".join(parts) or "wszystkie ×1 (Normal)"
 
-    def stats_table(self, row: dict) -> list[str]:
+    def stats_table(self, row: dict, panic_name: str | None = None) -> list[str]:
         hp = row.get("hp", {}) or {}
         out = ["| Parametr | Wartość |", "|---|---|"]
         out.append(f"| Poziom | {number(row.get('level', '—'))} |")
@@ -319,7 +346,35 @@ class Renderer:
         stagger = " / ".join(f"{v}%" for v in (row.get("breakSection", {}) or {}).get("sectionList", []))
         if stagger:
             out.append(f"| Progi oszołomienia | {stagger} |")
+        out += self._sp_rows(row, panic_name)
         out.append(f"| Odporności | {self.resists(row.get('resistInfo', {}) or {})} |")
+        return out
+
+    def _sp_rows(self, row: dict, panic_name: str | None = None) -> list[str]:
+        """Wiersze poczytalności (progi) i typu paniki; (0,0) = brak mechaniki SP."""
+        low, pan = row.get("lowMorale"), row.get("panic")
+        out: list[str] = []
+        if low is not None and (low != 0 or (pan or 0) != 0):
+            bits = [f"Niskie Morale przy SP {number(low)}"]
+            if pan is not None and pan != 0:
+                bits.append(f"Panika przy SP {number(pan)}")
+            out.append("| Poczytalność | " + " · ".join(bits) + " |")
+        ptype = row.get("panicType")
+        if ptype:
+            out.append(f"| Typ paniki | {panic_name or f'id {ptype} (brak danych)'} |")
+        return out
+
+    def sp_effects(self, row: dict, panic_rec: dict | None) -> list[str]:
+        """Efekt Niskiego Morale / Efekt Paniki wg PanicInfo; tylko gdy dane istnieją."""
+        low, pan = row.get("lowMorale"), row.get("panic")
+        out: list[str] = []
+        if low is not None and (low != 0 or (pan or 0) != 0):
+            low_d = panic_rec.get("lowMoraleDescription") if panic_rec else None
+            if low_d:
+                out.append(f"**Efekt Niskiego Morale:** {self.kw(low_d)}")
+            pan_d = panic_rec.get("panicDescription") if panic_rec else None
+            if pan_d:
+                out.append(f"**Efekt Paniki:** {self.kw(pan_d)}")
         return out
 
 
@@ -388,6 +443,11 @@ def _render_passives(out: list[str], renderer: Renderer, passive_ids: list,
         out += ["**Pasywki:**", ""]
         out += lines
         out.append("")
+    elif passive_ids:
+        missing = ", ".join(str(p) for p in passive_ids)
+        out += [f"**Pasywki:** *(wpisy id: {missing} — brak danych lokalizacji)*", ""]
+    else:
+        out += ["**Pasywki:** brak", ""]
 
 
 class Context:
@@ -402,6 +462,7 @@ class Context:
         self.skills_static = _skill_static(self.static)
         self.unit2nameid = _unit2nameid(self.static)
         self.uid2static = _uid2static(self.static)
+        self.panic_map = _panic_map(texts.snapshot)
         self.stage_fam = _stage_fam_map(texts)
         self.waves = _all_waves(self.static, self.stage_fam)
         self.families = _families(self.static)
@@ -449,8 +510,10 @@ class Context:
         if not row:
             out += ["*Brak danych statystyk w StaticData.*", ""]
             return
-        out += self.renderer.stats_table(row)
+        panic_rec = self.panic_map.get(row.get("panicType")) or None
+        out += self.renderer.stats_table(row, (panic_rec or {}).get("panicName"))
         out.append("")
+        out += self.renderer.sp_effects(row, panic_rec)
         desc = self.renderer.kw(_loc_row(self.enemies_loc, self.unit2nameid, uid).get("desc"))
         if desc:
             out += [f"*Opis:* {desc}", ""]
@@ -464,8 +527,10 @@ class Context:
                 pname = one_line(to_markdown(ploc.get("name"))) or f"część id {pid}"
                 out += [f"{heading}# {pname} — id {pid}", ""]
                 if prow:
-                    out += self.renderer.stats_table(prow)
+                    p_panic = self.panic_map.get(prow.get("panicType")) or None
+                    out += self.renderer.stats_table(prow, (p_panic or {}).get("panicName"))
                     out.append("")
+                    out += self.renderer.sp_effects(prow, p_panic)
                 pdesc = self.renderer.kw(ploc.get("desc"))
                 if pdesc:
                     out += [f"*Opis:* {pdesc}", ""]

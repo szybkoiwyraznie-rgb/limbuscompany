@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=130605].levelList[level=1].name": {
-      "pl": "Measuring Blade Reach",
+      "pl": "Pomiar Zasięgu Ostrza",
       "kr_sha256": "aa24482f2b67861cc4eb3c3e707f717a105dea4b0a24f3cedb6e792e8d0a8496",
       "en_sha256": "dac69a6dd1e67cdec896842e56ecb9cd9642700184b0b50cc4f274605575f5bf",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=130701].levelList[level=1].name": {
-      "pl": "Vain Fruit",
+      "pl": "Owoc Marności",
       "kr_sha256": "a15f07ddcf7dd75390776cdf00a99a55f4703dc51e332fdd54171fc09b5237c6",
       "en_sha256": "e9877be1b925a53af5bdcffcaeef9deecebc8ff4a3614336479e3bbd9026449e",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=130702].levelList[level=1].name": {
-      "pl": "Bring Me Snow White.",
+      "pl": "Przyprowadź Mi Królewnę Śnieżkę.",
       "kr_sha256": "e7d01e870e4416b0b2791b85d2ec8540750ad05f6c0fdafb5fc366fbb9a5ac83",
       "en_sha256": "10a437972be4c6182b72d4926ec39d6b8b04f894f68848a533856c580d072f5a",
       "origin": "ai"
@@ -271,13 +271,13 @@
       "origin": "ai"
     },
     "dataList[id=130703].levelList[level=1].name": {
-      "pl": "Such Insolence!",
+      "pl": "Cóż za Bezczelność!",
       "kr_sha256": "033ccd32c5312eb985b9de978abc8a58eeaede92f1dac3a0773601a059c8a081",
       "en_sha256": "cb7a201b2a3b74fe1100c333a644f8fe2368d680b069d0600b88de2a82af84a2",
       "origin": "ai"
     },
     "dataList[id=130704].levelList[level=1].name": {
-      "pl": "Just a Little More...",
+      "pl": "Jeszcze Chwilę...",
       "kr_sha256": "9757c9ea4b9a6d790ac8ed44fb8979659d0da3eb93eadecc911730d167091e89",
       "en_sha256": "ab1d9a3202c1d228c0c86f22ba35e74fa87ed00e6453fdfc1f5d52fd779d3cbe",
       "origin": "ai"
@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=130705].levelList[level=1].name": {
-      "pl": "Distrust",
+      "pl": "Nieufność",
       "kr_sha256": "4fa0c857c7d7472a1ca712bdb990da9bb93cb29ee7d45b8908397d38b7741dac",
       "en_sha256": "e0f63169874a52ecb734bd3e5379b6900e7df00f6a97c882687167d96b2cc4d5",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=130706].levelList[level=1].name": {
-      "pl": "Pale Stem",
+      "pl": "Blady Pęd",
       "kr_sha256": "a8b8104b9bee6d3f73e3f14d9c941539e6cceb53c05993bbd7461f7267de211f",
       "en_sha256": "5e4aff0a9a0885dfac9c876647df146fa3313eb5060fce77c23d2107a0ef14d5",
       "origin": "ai"
@@ -361,7 +361,7 @@
       "origin": "ai"
     },
     "dataList[id=130707].levelList[level=1].name": {
-      "pl": "Thorny Stem",
+      "pl": "Kolczasty Pęd",
       "kr_sha256": "3a4ffeee6a6d25419ce825060abacd715047fed3430f97e64d291311c0a299a7",
       "en_sha256": "5087dc4a4453576e880682114fb8462c2bb1eed2d64f60963addc47e08655aac",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=130708].levelList[level=1].name": {
-      "pl": "Shared Pain",
+      "pl": "Wspólny Ból",
       "kr_sha256": "6012ee5768bc1e1d1503402a004da22a1fcec8910fc7e7088b46e81d9cfdafff",
       "en_sha256": "35acea8a87d936be32b8170423a18f95f6f5e9a415799b0fbdb0c559813f3855",
       "origin": "ai"
@@ -415,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=130709].levelList[level=1].name": {
-      "pl": "Root Spike",
+      "pl": "Korzeniowy Kolec",
       "kr_sha256": "dd2b2622ab0275490f419eca8fb626be847a46c53232e4d0202f0f237bfe93de",
       "en_sha256": "1812cdb30566f92da257c8291780f89bd99cf7ac0fb210029d893d35e4583d62",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=130711].levelList[level=1].name": {
-      "pl": "Envying Roots",
+      "pl": "Zazdrosne Korzenie",
       "kr_sha256": "20c97a5e6ef988ac9842a3daa0b903e1f2c6ddb1b6da49ef051fbe82a75ea0b3",
       "en_sha256": "00995ce79409241257932c9d3016006a838e1f325682bebe47c8730f6d5afc99",
       "origin": "ai"
@@ -463,13 +463,13 @@
       "origin": "ai"
     },
     "dataList[id=130712].levelList[level=1].name": {
-      "pl": "Burrowing Roots",
+      "pl": "Kopiące Korzenie",
       "kr_sha256": "7bfa4325d535d6481524006388d40057776a0d818683657e87472bffa88a642a",
       "en_sha256": "81a13efd95a7aad2736df920be980e7ab9f6bcfc5792a6dbb051b416a43cb617",
       "origin": "ai"
     },
     "dataList[id=130713].levelList[level=1].name": {
-      "pl": "Vain Fruit",
+      "pl": "Owoc Marności",
       "kr_sha256": "a15f07ddcf7dd75390776cdf00a99a55f4703dc51e332fdd54171fc09b5237c6",
       "en_sha256": "e9877be1b925a53af5bdcffcaeef9deecebc8ff4a3614336479e3bbd9026449e",
       "origin": "ai"
@@ -499,7 +499,7 @@
       "origin": "ai"
     },
     "dataList[id=130801].levelList[level=1].name": {
-      "pl": "Snagged Lure",
+      "pl": "Zahaczona Przynęta",
       "kr_sha256": "433c74988158a2f8654641d32e25f3f74f49f750828a19673317eca4e63f3e49",
       "en_sha256": "bdb788649feb0858bcea300065940153764d90ad32528c2450feb83fc4c204ff",
       "origin": "ai"
@@ -517,7 +517,7 @@
       "origin": "ai"
     },
     "dataList[id=130802].levelList[level=1].name": {
-      "pl": "Burrowing Roots",
+      "pl": "Kopiące Korzenie",
       "kr_sha256": "7bfa4325d535d6481524006388d40057776a0d818683657e87472bffa88a642a",
       "en_sha256": "81a13efd95a7aad2736df920be980e7ab9f6bcfc5792a6dbb051b416a43cb617",
       "origin": "ai"
@@ -535,7 +535,7 @@
       "origin": "ai"
     },
     "dataList[id=130803].levelList[level=1].name": {
-      "pl": "Expanding Roots",
+      "pl": "Rozrastające się Korzenie",
       "kr_sha256": "78cf5638ea4018d37b0c4ad8d8ef0dd27c75de83f77c2f3b4f23efb3e131fe64",
       "en_sha256": "13ba1d5c8ad0431c63433357b2e35ef590d1b2a27ac2082ce3bc82104a76c42d",
       "origin": "ai"
@@ -553,7 +553,7 @@
       "origin": "ai"
     },
     "dataList[id=130804].levelList[level=1].name": {
-      "pl": "Infusing Stems",
+      "pl": "Nasiąkające Pędy",
       "kr_sha256": "09197ddd807ae1a984c578df24a0e786c7a9738fd1272c0db07ebc494e38197d",
       "en_sha256": "1bb5eb00f7fa1323deaac55768aec3bc6847a422d13fbbbc50c49bf45beaf695",
       "origin": "ai"
@@ -583,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=130806].levelList[level=1].name": {
-      "pl": "Charmed Consciousness",
+      "pl": "Urzeczona Świadomość",
       "kr_sha256": "7c1cf978410e8de6bf66087f663d0a50056f73de107b45f81b3be187ac5ce7c6",
       "en_sha256": "c6ff40a2e12def1717af2f745cd553253783ac0423f0ee7f1fc08d3c65594aa3",
       "origin": "ai"
@@ -613,7 +613,7 @@
       "origin": "ai"
     },
     "dataList[id=130807].levelList[level=1].name": {
-      "pl": "Snagged Lure",
+      "pl": "Zahaczona Przynęta",
       "kr_sha256": "433c74988158a2f8654641d32e25f3f74f49f750828a19673317eca4e63f3e49",
       "en_sha256": "bdb788649feb0858bcea300065940153764d90ad32528c2450feb83fc4c204ff",
       "origin": "ai"
@@ -631,7 +631,7 @@
       "origin": "ai"
     },
     "dataList[id=130901].levelList[level=1].name": {
-      "pl": "Dimensional Slice",
+      "pl": "Cięcie Wymiaru",
       "kr_sha256": "eedb58a315901c8568132850f53fdf7f15e7675553f1da7bdc5a59742ad8a356",
       "en_sha256": "1bedc9eca3e893b48974f9b9dd8117c60363a597b6fb95a2e9a547a526c46601",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=130902].levelList[level=1].name": {
-      "pl": "Consecutive Dimensional Slice",
+      "pl": "Ciągłe Cięcie Wymiaru",
       "kr_sha256": "1ff37aee26cdf10f6d831d63503fdf7b4824b2640953b6d50136b1cceb767930",
       "en_sha256": "879de0fec233dc79216438d1ddfb288bce138241e54651ebacc2465f0727192b",
       "origin": "ai"
@@ -673,7 +673,7 @@
       "origin": "ai"
     },
     "dataList[id=130903].levelList[level=1].name": {
-      "pl": "Discharge Byproducts",
+      "pl": "Zrzut Produktów Ubocznych",
       "kr_sha256": "0f03a099c76060b7ee630535db2b881a6ef42f9ed1f2e533d923ba92d4defdeb",
       "en_sha256": "badae18f352e1aee0ca37521c1b6ffb83551c05f97c078f4070dec9c9e72c750",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=130904].levelList[level=1].name": {
-      "pl": "Rip Space",
+      "pl": "Rozcięcie Przestrzeni",
       "kr_sha256": "dea82ec45f4f99eb55f1e623cba52697261f3b52aaeda95ed19d46fcc16f26f4",
       "en_sha256": "aa87f257221d0ddeac59c8057f9173e60991acbdb6e753db657068cafcdd2c41",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=130905].levelList[level=1].name": {
-      "pl": "Prepared Retribution",
+      "pl": "Zagrana Zemsta",
       "kr_sha256": "3e9a9a996b0fff28554999ad28246d7a709130f2cfc83da2296015c5d4eae76c",
       "en_sha256": "28e71369da0be515895547ac6290435fbbcb3792239ee6ed0b157c9eb9db0ad8",
       "origin": "ai"
@@ -769,7 +769,7 @@
       "origin": "ai"
     },
     "dataList[id=130906].levelList[level=1].name": {
-      "pl": "Vomit Byproducts",
+      "pl": "Zwracanie Produktów Ubocznych",
       "kr_sha256": "4e4ad29965124329f2b50de42ca83f024d898a3ea13ad9345c67697fedddd673",
       "en_sha256": "8be437bf84f17ad5ca31e7ca5b312dfaa21fd3cd51bae851f3eeef1c6f9a4009",
       "origin": "ai"
@@ -793,7 +793,7 @@
       "origin": "ai"
     },
     "dataList[id=130907].levelList[level=1].name": {
-      "pl": "High-speed Rip Space",
+      "pl": "Wysokoprędkościowe Rozdarcie Przestrzeni",
       "kr_sha256": "a8ca1e03c0d5bc4f39ca252f1b0595d734ce0e010a8c732096148fa22c90b521",
       "en_sha256": "60eb3ace43db5187c89cdd36bf03371471b62c7da42680620ee45d76080a9f92",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=130908].levelList[level=1].name": {
-      "pl": "Opportunity Spotted",
+      "pl": "Zauważona Okazja",
       "kr_sha256": "b913e979c571c3a799dce7c5d8e0960c1c8ee7e09da1075a80aa652cc3631ad4",
       "en_sha256": "369a255aa7456950e151c52c8ccf17354ed2570f5dc976274d1f72caafa0e138",
       "origin": "ai"
@@ -829,7 +829,7 @@
       "origin": "ai"
     },
     "dataList[id=130909].levelList[level=1].name": {
-      "pl": "Rift Attack",
+      "pl": "Atak w Szparę",
       "kr_sha256": "2ff5b990481557f5a2c4a57e8671bad88bd06d79a38162619494c36b9f4787c7",
       "en_sha256": "c862f87e02a1d8b988190e175dd928abea42d8aa01ef2669878cd92fa2440d4c",
       "origin": "ai"
@@ -841,7 +841,7 @@
       "origin": "ai"
     },
     "dataList[id=131001].levelList[level=1].name": {
-      "pl": "Dimensional Leap",
+      "pl": "Skok Wymiarowy",
       "kr_sha256": "9c865b5f4a06473dca97a01877ce53e6dc387cec997080072f46bd4f33c05127",
       "en_sha256": "9d617764d4a390067e776efbeb1c3de1b1457918a6dfc0088ccc089f4ea65ec8",
       "origin": "ai"
@@ -853,7 +853,7 @@
       "origin": "ai"
     },
     "dataList[id=131101].levelList[level=1].name": {
-      "pl": "Dimensional Leap",
+      "pl": "Skok Wymiarowy",
       "kr_sha256": "9c865b5f4a06473dca97a01877ce53e6dc387cec997080072f46bd4f33c05127",
       "en_sha256": "9d617764d4a390067e776efbeb1c3de1b1457918a6dfc0088ccc089f4ea65ec8",
       "origin": "ai"
@@ -865,7 +865,7 @@
       "origin": "ai"
     },
     "dataList[id=131201].levelList[level=1].name": {
-      "pl": "Dimensional Leap",
+      "pl": "Skok Wymiarowy",
       "kr_sha256": "9c865b5f4a06473dca97a01877ce53e6dc387cec997080072f46bd4f33c05127",
       "en_sha256": "9d617764d4a390067e776efbeb1c3de1b1457918a6dfc0088ccc089f4ea65ec8",
       "origin": "ai"
@@ -877,7 +877,7 @@
       "origin": "ai"
     },
     "dataList[id=131301].levelList[level=1].name": {
-      "pl": "Dimensional Leap",
+      "pl": "Skok Wymiarowy",
       "kr_sha256": "9c865b5f4a06473dca97a01877ce53e6dc387cec997080072f46bd4f33c05127",
       "en_sha256": "9d617764d4a390067e776efbeb1c3de1b1457918a6dfc0088ccc089f4ea65ec8",
       "origin": "ai"
@@ -889,7 +889,7 @@
       "origin": "ai"
     },
     "dataList[id=131801].levelList[level=1].name": {
-      "pl": "Swerve [回]",
+      "pl": "Zwrot [回]",
       "kr_sha256": "062f585f775e77d339e017cb19d31ff40a4f9048fa7ca4538cf76f6d1f11b61c",
       "en_sha256": "b43922da8922c8b2690f7cdcbdb9487bbc37f5fa31da2c26d98a447cfdebe466",
       "origin": "ai"
@@ -907,7 +907,7 @@
       "origin": "ai"
     },
     "dataList[id=131802].levelList[level=1].name": {
-      "pl": "Defend [守]",
+      "pl": "Obrona [守]",
       "kr_sha256": "9659373e714b40b15406e94a83334095ed5394bf6e1f8e72a81b023c5ee65bbb",
       "en_sha256": "582b0e9a952d65e1328c3d31c6d26b5c1689983e96dc52fdbacb6065a21d8865",
       "origin": "ai"
@@ -925,7 +925,7 @@
       "origin": "ai"
     },
     "dataList[id=131803].levelList[level=1].name": {
-      "pl": "Reflect [反]",
+      "pl": "Odbicie [反]",
       "kr_sha256": "d397410f2007376ba80533aac80a627d0734334e5a5f5b78e5969016f46d5232",
       "en_sha256": "20b0ffbacf9f7bc449e292181b63b918fb35ee101453f5ccaeb93170e76dd49b",
       "origin": "ai"
@@ -937,7 +937,7 @@
       "origin": "ai"
     },
     "dataList[id=131804].levelList[level=1].name": {
-      "pl": "Unnamed Cut [無名閃]",
+      "pl": "Bezimienny Cios [無名閃]",
       "kr_sha256": "fc6afea37eb53b5c5d586bf3853831b68251f56f00e7aa5903856bbecf8a3be4",
       "en_sha256": "add088c282450f5960ad53d37d6a60537f08d1366a0813334af4792cc5ec112e",
       "origin": "ai"
@@ -949,7 +949,7 @@
       "origin": "ai"
     },
     "dataList[id=131805].levelList[level=1].name": {
-      "pl": "Chainslash [連鎖斬]",
+      "pl": "Łańcuchowe Cięcie [連鎖斬]",
       "kr_sha256": "30e10baabd0139313df0cb07287d89c78e492b408f9015fce59f7d67f9e64806",
       "en_sha256": "26e2e824719fe6b23f28953abaa2c6e029b167a513e8728aa3c910c8d5f656bb",
       "origin": "ai"
@@ -979,7 +979,7 @@
       "origin": "ai"
     },
     "dataList[id=131807].levelList[level=1].name": {
-      "pl": "Fallstar Slayer [落星一殺]",
+      "pl": "Zabójca Spadającej Gwiazdy [落星一殺]",
       "kr_sha256": "7f6d0e44db63c21c0bd436ec1cf37c8b6a36b0a0277f9e980b82f2da7e42bb3c",
       "en_sha256": "8b8aabdac168dea556884cbae01e80afe8874eafb09f5ad0c33a29ea70517518",
       "origin": "ai"
@@ -991,7 +991,7 @@
       "origin": "ai"
     },
     "dataList[id=131808].levelList[level=1].name": {
-      "pl": "Retreat Form [收勢]",
+      "pl": "Forma Wycofania [收勢]",
       "kr_sha256": "c9a982a2b2016143d741d4ad1e56184c3b9ee72b9db2b05649d933016a621efc",
       "en_sha256": "57b31e82495fb226076776aa18337ba8a64de83ba5fd956179d36c3862ebb2a0",
       "origin": "ai"
@@ -1015,7 +1015,7 @@
       "origin": "ai"
     },
     "dataList[id=131809].levelList[level=1].name": {
-      "pl": "Twinstrike [二擊]",
+      "pl": "Podwójny Cios [二擊]",
       "kr_sha256": "6c23cbf4f176f8dc852f2a71e8ea661da215edb1c2718668dea1da566ff4a0ff",
       "en_sha256": "23e029fb5b2f780033ab62c75368cf9518885d15becea664e6dcefa77115afa4",
       "origin": "ai"
@@ -1045,7 +1045,7 @@
       "origin": "ai"
     },
     "dataList[id=131810].levelList[level=1].name": {
-      "pl": "Triplestrike [三擊]",
+      "pl": "Potrójny Cios [三擊]",
       "kr_sha256": "06a6972927281b42b686d9d4e71cd9fc01c23c757e6a21ebd132b9d60ff293d4",
       "en_sha256": "55291be5312c688d89651c1ed3f2f46f7a44cbfff2ce411c31bdb21ab3afb634",
       "origin": "ai"
@@ -1075,7 +1075,7 @@
       "origin": "ai"
     },
     "dataList[id=131901].levelList[level=1].name": {
-      "pl": "Butcher - Ribs",
+      "pl": "Ubój - Żebra",
       "kr_sha256": "dc125249b52ca45a291aa9ff8d0729f1846c3de0fb5ed7b40c1a4c13b0295b79",
       "en_sha256": "0ee1e439583dfd4b76734cbd0c8260dd47d1eceb6f2f3a198cf401ad11d88150",
       "origin": "ai"
@@ -1105,7 +1105,7 @@
       "origin": "ai"
     },
     "dataList[id=131902].levelList[level=1].name": {
-      "pl": "Rotator Crush",
+      "pl": "Zgniot Obrotowy",
       "kr_sha256": "b50285f14e7d1b7cb592424e458a7f5105e01171004e93aeaf1f582ca6a38b9b",
       "en_sha256": "2c5ff511e5290253c3c838bc1abeee75ddb2af7ba9c775dfb715fc952fb4bde3",
       "origin": "ai"
@@ -1141,7 +1141,7 @@
       "origin": "ai"
     },
     "dataList[id=131903].levelList[level=1].name": {
-      "pl": "Tendon Tear",
+      "pl": "Pęknięcie Ścięgna",
       "kr_sha256": "148c90f398318062915839853f963861def8bd12b6f4d92b28b9df36806c6784",
       "en_sha256": "2162ee75c83d66a93a9926654093b10b8eb0abbf1ed8535f4e2609318ee678d2",
       "origin": "ai"
@@ -1201,7 +1201,7 @@
       "origin": "ai"
     },
     "dataList[id=131904].levelList[level=1].name": {
-      "pl": "Fascia Hungers",
+      "pl": "Fascia jest głodna.",
       "kr_sha256": "aaf86799e186a1f67ea2ea7de1d72d4c5613b3fc1a7e9d476612c9ade54345c3",
       "en_sha256": "8cabf4f61ebff7122523b6d44afe5b4a2047a9aeaa2b3dd0b07824afa2840248",
       "origin": "ai"
@@ -1285,7 +1285,7 @@
       "origin": "ai"
     },
     "dataList[id=131905].levelList[level=1].name": {
-      "pl": "Repressed Flesh",
+      "pl": "Tłumione Ciało",
       "kr_sha256": "7befefcf889487edb36de4ccb3a945ab81c818636ad9818503eecd4bae23316f",
       "en_sha256": "60b3b4ebab1405b77a002e4173a6ac540e557325864c5b1e93e51e956ac6ccfe",
       "origin": "ai"
@@ -1297,7 +1297,7 @@
       "origin": "ai"
     },
     "dataList[id=131906].levelList[level=1].name": {
-      "pl": "Exhibition Arrangements",
+      "pl": "Przygotowanie Wystawy",
       "kr_sha256": "8b1a554d3f3d1569d670d7ece1916bd6a0ce0efd3819ab3fcc19f40e87dcc7e4",
       "en_sha256": "504aed2446f25cdbc80d2d82b217e797f2913d03318d15d7959ec4fe53f4fd50",
       "origin": "ai"
@@ -1309,7 +1309,7 @@
       "origin": "ai"
     },
     "dataList[id=131907].levelList[level=1].name": {
-      "pl": "Iron Curtain",
+      "pl": "Żelazna Kurtyna",
       "kr_sha256": "e46fb65fe06768d3f529f30463b6c89c8e7f5d307891a598f0ce91904b56fa89",
       "en_sha256": "a4d4dee3b24a1bb44dc826ae41c925f8b427c6667bb88a7a4c78bbfa9875ebe3",
       "origin": "ai"

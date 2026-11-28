@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9021301].levelList[level=1].name": {
-      "pl": "Burst Wounds",
+      "pl": "Wybuch Ran",
       "kr_sha256": "b4e69c1e98e700e7cd688530cbe9d721983c3f3d6b0ee7f9db66509574f418f5",
       "en_sha256": "76f116a32b5366ae0094f99e8d4e59064f4902d8535cc93539a513ee692e65a2",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=9021302].levelList[level=1].name": {
-      "pl": "Snag Wounds",
+      "pl": "Zaplecenie Ran",
       "kr_sha256": "c655f69ffc2c6c7331700159e2a387aee3b2bc940095b0d15b90533a3ff0a817",
       "en_sha256": "0603947a539b6da39330de4add400fbfff23b71ece91362c53cd8a29837c1d18",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=9021303].levelList[level=1].name": {
-      "pl": "Flesh Melting",
+      "pl": "Roztapianie Mięsa",
       "kr_sha256": "fa78a6a2054de17e49fce4131a8747b527b4aad93c7750bbd16550ff04fbd713",
       "en_sha256": "56a7a118bf9d0aca511bc3de9ba59b5a01c4e3e1c12bf5da16187848debf8395",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=9021304].levelList[level=1].name": {
-      "pl": "Casting Shade",
+      "pl": "Rzucający Cień",
       "kr_sha256": "09b3740a3059abaa6158a83e585985ae2c49b2897e542e2e72de3cf4230892fb",
       "en_sha256": "e0b37ab990f0de1c7225e8df94912d752b6f1d8469e88d3ecc24373a19a66396",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=9021401].levelList[level=1].name": {
-      "pl": "Tear Up Wound",
+      "pl": "Rozdzieranie Ran",
       "kr_sha256": "28a3369f33a79c23a4cd372145f5c5f8123ee80cdfbf1f672d5423dc1d902585",
       "en_sha256": "b78f821b5e4617c74b8d09e5c60ec4d47b2fbc25fda973c7b22e5d6d2ea7d307",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=9021402].levelList[level=1].name": {
-      "pl": "Skim Wounds",
+      "pl": "Brush Wounds",
       "kr_sha256": "b20806e19382ccc584bf967557b80d438a65264e43c99d8eeaac7b0fa0ffea33",
       "en_sha256": "8c504685be9f9d42da5ae9c4dfc2a1883b8def8a2ddc17d80bb1e1be3e84bba5",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=9021403].levelList[level=1].name": {
-      "pl": "Flesh Tearing",
+      "pl": "Dzieranie Mięsa",
       "kr_sha256": "5cb28419d6f1794ce6b7576b150244862cc12b9c7fd389973da829ec7c56eb0d",
       "en_sha256": "4a8abff40a0b7a6876e3964f5611975d8dcd5768d4cd6873ed7c6ae4a33c8219",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=9021404].levelList[level=1].name": {
-      "pl": "Casting Shade",
+      "pl": "Rzucający Cień",
       "kr_sha256": "09b3740a3059abaa6158a83e585985ae2c49b2897e542e2e72de3cf4230892fb",
       "en_sha256": "e0b37ab990f0de1c7225e8df94912d752b6f1d8469e88d3ecc24373a19a66396",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=9021701].levelList[level=1].name": {
-      "pl": "Concussive Stab",
+      "pl": "Głuszący Sztych",
       "kr_sha256": "a51b6bed881328a1b2ce7dd6696311411ff576a91432eea808a79670135310bb",
       "en_sha256": "7371305de3d0c4686ba48633d986aa34989f15aee7588bf06440f5facf5c4a8d",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=9021702].levelList[level=1].name": {
-      "pl": "Burning Stab",
+      "pl": "Płonący Sztych",
       "kr_sha256": "7d62a21692bb9cdfad51a5e0fdbc5fde4739bb3f09cf638d23a5ce0a373b97d9",
       "en_sha256": "7419ce32e92793d13b7e34ac88001799ad1ec8c3a3b52b1091c5dff8e3f57a98",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=9021703].levelList[level=1].name": {
-      "pl": "Propulsion Slice",
+      "pl": "Cięcie na Napędzie",
       "kr_sha256": "a5d4bbcc365eda8d6bdd81725c2b0fa909dd8fc9f9b0801e53581a1fce570b4d",
       "en_sha256": "fd05b431ed423f052e151f6a1587b2e203c3ce2f0ede8701eedd322f0b908e75",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=9021704].levelList[level=1].name": {
-      "pl": "Propellant Ammo Reload",
+      "pl": "Przeładowanie Amunicji Napędowej",
       "kr_sha256": "bbea7381c9f2ba6b1449893bcb0d72b56483fa5810e988c5b0527ce4a3a3c50d",
       "en_sha256": "4ba25d74c37ef3bce2874152901ad67bd3fa64da2403c25dd38e7aaa1ee850d3",
       "origin": "ai"
@@ -295,7 +295,7 @@
       "origin": "ai"
     },
     "dataList[id=9021801].levelList[level=1].name": {
-      "pl": "Concussive Penetration",
+      "pl": "Głuszące Przebicie",
       "kr_sha256": "536f48a01448dd5550ab51124cf37ee7b987681f8b99a876172a22a2fabe5c48",
       "en_sha256": "b41b19c9a8829a67a4501d1e9013bc5cbacdf46645052fd2eaa2b8e782d341f1",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=9021802].levelList[level=1].name": {
-      "pl": "Burning Penetration",
+      "pl": "Płonące Przebicie",
       "kr_sha256": "103ad91a2641de546bf1140aff5728374b8ffe34099036907a3e48d7c118e594",
       "en_sha256": "70e53e530e6c6bad12bef74011f36fc463546e29cf734bdf0644f767e2f67aca",
       "origin": "ai"
@@ -379,7 +379,7 @@
       "origin": "ai"
     },
     "dataList[id=9021803].levelList[level=1].name": {
-      "pl": "Propulsion Cleave",
+      "pl": "Rozcięcie na Napędzie",
       "kr_sha256": "e3d14e0da23ed808b68c13e28a51bd3d336ac945275febc1518f5882f3861e04",
       "en_sha256": "e3ff7cdf166ab21cd22dca4a66f6cbcf0791fc4a93eac4da7729dcbdb4d8644c",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=9021804].levelList[level=1].name": {
-      "pl": "Propellant Ammo Reload",
+      "pl": "Przeładowanie Amunicji Napędowej",
       "kr_sha256": "bbea7381c9f2ba6b1449893bcb0d72b56483fa5810e988c5b0527ce4a3a3c50d",
       "en_sha256": "4ba25d74c37ef3bce2874152901ad67bd3fa64da2403c25dd38e7aaa1ee850d3",
       "origin": "ai"

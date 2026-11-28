@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=9007702].levelList[level=1].name": {
-      "pl": "Shell Tackle!",
+      "pl": "Pancerne Tarany!",
       "kr_sha256": "0695194461f2d0199846df9257c1fa9b15fe79ee132d3ffc9c539242b6369151",
       "en_sha256": "fb77fa6488f695587dd064875a4c552d2746eb4c24534f88c9d001525847ac25",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=9007704].levelList[level=1].name": {
-      "pl": "Foaming",
+      "pl": "Pienienie",
       "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
       "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=9007705].levelList[level=1].name": {
-      "pl": "Hermit Crab",
+      "pl": "Pustelnik",
       "kr_sha256": "74e90e4365e4347aab35ef9b92ec530d086a449d23e8b93506eb0819a66b8aef",
       "en_sha256": "48e31fa01d31aed0fca812fca689a3823313ad9011ac848e952089bb55408c90",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=9007802].levelList[level=1].name": {
-      "pl": "Shell Tackle!",
+      "pl": "Pancerne Tarany!",
       "kr_sha256": "0695194461f2d0199846df9257c1fa9b15fe79ee132d3ffc9c539242b6369151",
       "en_sha256": "fb77fa6488f695587dd064875a4c552d2746eb4c24534f88c9d001525847ac25",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=9007804].levelList[level=1].name": {
-      "pl": "Foaming",
+      "pl": "Pienienie",
       "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
       "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9007805].levelList[level=1].name": {
-      "pl": "Hermit Crab",
+      "pl": "Pustelnik",
       "kr_sha256": "74e90e4365e4347aab35ef9b92ec530d086a449d23e8b93506eb0819a66b8aef",
       "en_sha256": "48e31fa01d31aed0fca812fca689a3823313ad9011ac848e952089bb55408c90",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=9007902].levelList[level=1].name": {
-      "pl": "Shell Tackle!",
+      "pl": "Pancerne Tarany!",
       "kr_sha256": "0695194461f2d0199846df9257c1fa9b15fe79ee132d3ffc9c539242b6369151",
       "en_sha256": "fb77fa6488f695587dd064875a4c552d2746eb4c24534f88c9d001525847ac25",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=9007904].levelList[level=1].name": {
-      "pl": "Foaming",
+      "pl": "Pienienie",
       "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
       "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=9007905].levelList[level=1].name": {
-      "pl": "Hermit Crab",
+      "pl": "Pustelnik",
       "kr_sha256": "74e90e4365e4347aab35ef9b92ec530d086a449d23e8b93506eb0819a66b8aef",
       "en_sha256": "48e31fa01d31aed0fca812fca689a3823313ad9011ac848e952089bb55408c90",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=9008001].levelList[level=1].name": {
-      "pl": "Thwack",
+      "pl": "Bęc",
       "kr_sha256": "9359914af1e2bfc624813a38371230f433c57c271f119dc39c5efe5eac00a56d",
       "en_sha256": "5c3a36eb4c654a467a21febfc48620a8ae8c6ba5fd2c4a851e626e2db9f1046e",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=9008002].levelList[level=1].name": {
-      "pl": "Thwack Thwack Thwack",
+      "pl": "Bęc Bęc Bęc",
       "kr_sha256": "25505253f88b30df4ee2812c15fb1d820b84ab5fda99daf2531a03f3a683386a",
       "en_sha256": "8d3ffe932e0a00d5f979c83b57915445d6b3ccd41d843b43b5230d61916c8abf",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=9008003].levelList[level=1].name": {
-      "pl": "Foaming",
+      "pl": "Pienienie",
       "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
       "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=9008004].levelList[level=1].name": {
-      "pl": "Delicious Crab Guts!",
+      "pl": "Ostrzał Krabiem!",
       "kr_sha256": "70a57912e6df9e01f9b8cc157096c8073785c3fe2015d680d7bed45cf64afef3",
       "en_sha256": "dd3f73a931e58145e55f9bf891304ea9a270b0044317487ff549f20ced987321",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=9008101].levelList[level=1].name": {
-      "pl": "Thwack",
+      "pl": "Bęc",
       "kr_sha256": "9359914af1e2bfc624813a38371230f433c57c271f119dc39c5efe5eac00a56d",
       "en_sha256": "5c3a36eb4c654a467a21febfc48620a8ae8c6ba5fd2c4a851e626e2db9f1046e",
       "origin": "ai"
@@ -379,7 +379,7 @@
       "origin": "ai"
     },
     "dataList[id=9008102].levelList[level=1].name": {
-      "pl": "Thwack Thwack Thwack",
+      "pl": "Bęc Bęc Bęc",
       "kr_sha256": "25505253f88b30df4ee2812c15fb1d820b84ab5fda99daf2531a03f3a683386a",
       "en_sha256": "8d3ffe932e0a00d5f979c83b57915445d6b3ccd41d843b43b5230d61916c8abf",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=9008103].levelList[level=1].name": {
-      "pl": "Foaming",
+      "pl": "Pienienie",
       "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
       "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=9008104].levelList[level=1].name": {
-      "pl": "Shell Tackle!!!",
+      "pl": "Pancerne Tarany!!!",
       "kr_sha256": "e3bf209d5c50dc0f7e9b160b2da4be562059397c7b23189f6d65f23cc23300ca",
       "en_sha256": "93071845c6e82c9e19476b0b0bfe5eb70dabf438efa4d05efe5c5270653c0a38",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=9008105].levelList[level=1].name": {
-      "pl": "Firing Molted Shell Shot",
+      "pl": "Strzał Wylinki",
       "kr_sha256": "0d46bc5333850745ab9014b4dcdd7fe9156ebdcde74f471c4dd79acdf56dee1f",
       "en_sha256": "a5832e8782b7ceb4127a376fb358ba9a3c871809c09995a6ecde90170f7d2b17",
       "origin": "ai"

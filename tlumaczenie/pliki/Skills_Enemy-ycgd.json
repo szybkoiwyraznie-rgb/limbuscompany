@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=9011003].levelList[level=1].name": {
-      "pl": "Lenticular Scatter",
+      "pl": "Rozpadająca się Chmura",
       "kr_sha256": "bc058e47990ddb426ae1a72920cca1bccf52a9861d5500979d25dd7b8d169717",
       "en_sha256": "4e5aad408b04789f02bf160451dedf2fddc02f7886921acde18ecec3b8be56d5",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=9011103].levelList[level=1].name": {
-      "pl": "Keen Slash",
+      "pl": "Ostre Cięcie",
       "kr_sha256": "c5e0821bb0151d937e80da4ca7f0064d0396494dfc0fb95e86831ec414eb1c26",
       "en_sha256": "3889a2638f691a2c78eeb6dcd38f278329bf2a7ce6d26fc2d3cbca057f3c7ea6",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=9011202].levelList[level=1].name": {
-      "pl": "Reverse Slash",
+      "pl": "Odbite Cięcie",
       "kr_sha256": "7c448edc58e7f490cf29e371dde0df8b9b609bd66ff15e1b8ff1088b2d3acd48",
       "en_sha256": "6a377a873876d9292690f4b22d5e6b53dd7c59183099eaf91421f34baaf06a76",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=9011204].levelList[level=1].name": {
-      "pl": "Defend",
+      "pl": "Garda",
       "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
       "en_sha256": "8e2b77617882e02292923215f823f9bcecf697a16e793ad38e172f98c6c64023",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=9011301].levelList[level=1].name": {
-      "pl": "Penetrating Slash",
+      "pl": "Przebijające Cięcie",
       "kr_sha256": "64a7b2d6db05c7a7213cb3ba81b50bfcda0b6481b58fb8da8989e84c8d1ceccd",
       "en_sha256": "926b4231e368d3d3ea8e01367cc681fbe955f47a6fb2364ed8e229f39b7ac350",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=9011304].levelList[level=1].name": {
-      "pl": "Defend",
+      "pl": "Garda",
       "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
       "en_sha256": "8e2b77617882e02292923215f823f9bcecf697a16e793ad38e172f98c6c64023",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=9101303].levelList[level=1].name": {
-      "pl": "Lenticular Slash",
+      "pl": "Soczewkowate Cięcie",
       "kr_sha256": "dfc76696990b4e32b9daeeae81d1d413920e435f8eeecfd8002720f2ab957bb7",
       "en_sha256": "d45f6ee6b56fb0281b9f0ed537068b8a4490c3a17695b557fdd37f608b004404",
       "origin": "ai"
@@ -415,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=9101304].levelList[level=1].name": {
-      "pl": "Sharp Edge",
+      "pl": "Ostra Krawędź",
       "kr_sha256": "bb879ad6f2e1c3f03c40c07aaee1a08513143edf1d7006e60080f85acc0b5b39",
       "en_sha256": "c6eff4310d976d2e163acc1798a3efe8c71065da5b06d7ceb1f6a2d23f61066b",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=9101306].levelList[level=1].name": {
-      "pl": "Rules of the Backstreets",
+      "pl": "Zasady Zauloków",
       "kr_sha256": "80338be937cf992b54f97c21d67ce924e03a25b8b8ffe98b628db00fb6c66b92",
       "en_sha256": "33b52b90ae92641f39bb48b11f46d5e9c6a1eba7e9bb0ec8b3466681b48c55d5",
       "origin": "ai"

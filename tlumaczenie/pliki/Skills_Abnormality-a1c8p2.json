@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=113101].levelList[level=1].name": {
-      "pl": "Startling Strike",
+      "pl": "Niespodziewane Uderzenie",
       "kr_sha256": "bdc201f500c6626233a0732a2408a0a529c567276714eda3e0909d6c9dccdd5d",
       "en_sha256": "e8d5a422616651a3fe9e45e161d04d0e15e2ec1288e1504f7eedb9c3d4b407c6",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=113102].levelList[level=1].name": {
-      "pl": "Restraint",
+      "pl": "Powstrzymanie",
       "kr_sha256": "bfda920c1d2c46e8fbee21fd588c7e75116ad36ebf5f1118a89ed11d3362e4ed",
       "en_sha256": "35d2aa55957aef1d2ae84741edfcd0008d28ee013e9bb6d92a184f917b360acd",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=113103].levelList[level=1].name": {
-      "pl": "Feather Strike",
+      "pl": "Strzał Piór",
       "kr_sha256": "0952862c2ba02389f1fc5ff383c38510e6475dbbc56efd4ebf44d6dab52ad941",
       "en_sha256": "87265eaae5e67db268a69f2b91ba8cd3c21aa71b7cd108d28132f5acd1ed2c52",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=113104].levelList[level=1].name": {
-      "pl": "Windup",
+      "pl": "Zamachnięcie",
       "kr_sha256": "92a2b1adcb2c36ecc9f7c497a57c392793c8c053bd6deeeea3a5dbc60e9f81a9",
       "en_sha256": "20b8041c87a9c3db8af88f7a4fc498555d53cd6a827bcb63311f344544c42f0a",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=113201].levelList[level=1].name": {
-      "pl": "Pursuit",
+      "pl": "Pościg",
       "kr_sha256": "786e5af0f8aec923a8dccde45399081b604aca1ab7cc36d58e1c557fcea3820c",
       "en_sha256": "2660022c74d518c3869f3736766972641b0347a5c705fdfea103197df0ab1bb9",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=113202].levelList[level=1].name": {
-      "pl": "Overwhelm",
+      "pl": "Przytłoczenie",
       "kr_sha256": "bf56e0403ddc021df805bb8b73a8e080bf07682d67c3a8933ccc02dabc9c933a",
       "en_sha256": "b16a751d3503b8e9564354ff22c1e243e6ec1dc9fe0f77097d611a1d9c3c0e65",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=113203].levelList[level=1].name": {
-      "pl": "Umbra Strike",
+      "pl": "Cios z Cienia",
       "kr_sha256": "8a9dc97171933aa6e73dcf9b21952179288ca91ddb1f0efc8c0e295e42626639",
       "en_sha256": "e19ce55db0b9d34307fa92b5c75031516f667970f86e9d6a83d03ecfdfab2b78",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=113204].levelList[level=1].name": {
-      "pl": "Windup",
+      "pl": "Zamachnięcie",
       "kr_sha256": "92a2b1adcb2c36ecc9f7c497a57c392793c8c053bd6deeeea3a5dbc60e9f81a9",
       "en_sha256": "20b8041c87a9c3db8af88f7a4fc498555d53cd6a827bcb63311f344544c42f0a",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=113301].levelList[level=1].name": {
-      "pl": "Startling Strike",
+      "pl": "Niespodziewane Uderzenie",
       "kr_sha256": "bdc201f500c6626233a0732a2408a0a529c567276714eda3e0909d6c9dccdd5d",
       "en_sha256": "e8d5a422616651a3fe9e45e161d04d0e15e2ec1288e1504f7eedb9c3d4b407c6",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=113302].levelList[level=1].name": {
-      "pl": "Perforating Kill",
+      "pl": "Zabójcze Wiercenie",
       "kr_sha256": "5a984cfa9cb43b4a1330d86086cb8db6b25006ba314a17119aced103211e6aa8",
       "en_sha256": "fd8c9463395d97efab0862843b51439fee41f31fd5b11371f2813a3d8f49e34b",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=113303].levelList[level=1].name": {
-      "pl": "Etching Strike",
+      "pl": "Uderzenie Grawerem",
       "kr_sha256": "56769b3126b7374810c9c43f8280fa8dfb1149b42cbc566817efcc95e30a2f22",
       "en_sha256": "4baec7005f788a3ec498a2c39c9d750f723c86abed4d07f20220ed9cc55106c0",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=113304].levelList[level=1].name": {
-      "pl": "Cursewrit Butcherblade - Blinkstep",
+      "pl": "Klątwna Klinga Rzeźnika - Skok w Mig",
       "kr_sha256": "d266d4439d17b61127443f1331827977c3f121beb8b4eb4e3c97bc31a7c7746e",
       "en_sha256": "55d763a17c869aabcffd64f7322cf01fab4b89159c92eda7a9dd577315d921e0",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=113305].levelList[level=1].name": {
-      "pl": "Cursewrit",
+      "pl": "Klętwopis",
       "kr_sha256": "857a13037ceeb2674da1d2218d3a8aad91b36a6b72093ae70fec057df4e84b88",
       "en_sha256": "1040a4233b687ab4cb0dccec40288b87990ea0e0113c31ea1086939ad8f149a2",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=113306].levelList[level=1].name": {
-      "pl": "Incomplete Seal Release: <Tianjiu Star's Blade>",
+      "pl": "Częściowe Uwolnienie Złotej Pieczęci: <Klinga Gwiazdy Tianjiu>",
       "kr_sha256": "a1ad5cb61e21a70fff56eb04434cf4e8cacf864f3e81d1de9d3533da93de2dac",
       "en_sha256": "7b0f9817e4ab8f59e3d9c4c03f46d5da46affd46f9ee8d54103dd556223abd42",
       "origin": "ai"
@@ -463,7 +463,7 @@
       "origin": "ai"
     },
     "dataList[id=113307].levelList[level=1].name": {
-      "pl": "Swiftfeet Protection",
+      "pl": "Ochrona Zwinnych Stóp",
       "kr_sha256": "9b49726d416f67bed84d0327ef2f4fdfea56748af4cd400066b61a006f0f36b5",
       "en_sha256": "90e91b78e0a38c717ae609bc39f6a194cc137f9f14575f78eed3b8e05ee711bc",
       "origin": "ai"
@@ -511,7 +511,7 @@
       "origin": "ai"
     },
     "dataList[id=113308].levelList[level=1].name": {
-      "pl": "Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation",
+      "pl": "Wyższy Heishou - Technika Mao: Objawienie Morza Chmur",
       "kr_sha256": "d20664f8e7949d54199e963486c7e54b0d392bdf18cf8ea3a738cfbeecca9b60",
       "en_sha256": "a199dbbf0f2bf9fcf3d353f892e23fffd42d762cae90dc164d6f36847a444113",
       "origin": "ai"
@@ -529,7 +529,7 @@
       "origin": "ai"
     },
     "dataList[id=113701].levelList[level=1].name": {
-      "pl": "Question (問)",
+      "pl": "Pytanie (問)",
       "kr_sha256": "1cd84e8ca6fe46cd52efa51a41a1062fe70160f65f0d35fb90d8f9c84e400018",
       "en_sha256": "b17bfa7fc627b8f11ce3284ed6708643f93367fc9c6232cf06b4362e98094916",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=113702].levelList[level=1].name": {
-      "pl": "Answer (答)",
+      "pl": "Odpowiedź (答)",
       "kr_sha256": "a50f08a3d57abf1cbd160c047a1d1e8919ffc88ac5fbac52427dc53d4f16dc4d",
       "en_sha256": "4ea5022cd81a2cd4af1c3f8048c0a6aafc05bb8f332509e52e7a3fab77ca53a1",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=113703].levelList[level=1].name": {
-      "pl": "Act Not With Impropriety (非禮勿動)",
+      "pl": "Nie Działaj Niewłaściwie (非禮勿動)",
       "kr_sha256": "ffcf529b0745f1f6ed068aff27f8d5907f3ddfe2897848715f6aadb8c12d7986",
       "en_sha256": "b63914396aa20d76a2750c0e21862360ea2f13f3c2d24f9cf5fb6e75aa2bcdaf",
       "origin": "ai"
@@ -601,7 +601,7 @@
       "origin": "ai"
     },
     "dataList[id=113704].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -625,7 +625,7 @@
       "origin": "ai"
     },
     "dataList[id=113705].levelList[level=1].name": {
-      "pl": "Thunderstrike",
+      "pl": "Gromobójcze Miażdżenie",
       "kr_sha256": "37c719e965c96abe0d89e2279289ac41c702cebe1e2c9d3b256d2b9b88c0f287",
       "en_sha256": "041a641fb3f84c627201b1e5d1f4ec1303d7ef7d68dd2c08e86311f4f1190916",
       "origin": "ai"
@@ -661,7 +661,7 @@
       "origin": "ai"
     },
     "dataList[id=113706].levelList[level=1].name": {
-      "pl": "Cut them Down, Mao",
+      "pl": "Ścinaj, Mao",
       "kr_sha256": "9423709a3b88ebf3c447087fa0209b957678a68e59af041e64010046d5e74a18",
       "en_sha256": "be3f373bf23d495454780b8905ac8d2cef1e1843edd82bbb78415afe0e971f7e",
       "origin": "ai"
@@ -715,7 +715,7 @@
       "origin": "ai"
     },
     "dataList[id=113707].levelList[level=1].name": {
-      "pl": "I Must Push You Further",
+      "pl": "Muszę Was Napierać Mocniej",
       "kr_sha256": "c02f0b6456ccaa57f0bfe70ed011a305cfe7c6f34fe422a4da53f1618367d31b",
       "en_sha256": "e50c1ab3fc133a17ff86b7ae094cf80cec3107e816e36fd03634cd0a9f79bf11",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=113708].levelList[level=1].name": {
-      "pl": "Do Not Meddle",
+      "pl": "Nie Mieszajcie Się",
       "kr_sha256": "ef3fec45ba5da2414ab8ceaf60b18456a9102ffc40926f09ae2a73585978b62b",
       "en_sha256": "04e2120f62b5e4fbc23b0cbbd1ca679267d8a31ba5945cc9b34537c1f97a3f5c",
       "origin": "ai"
@@ -769,7 +769,7 @@
       "origin": "ai"
     },
     "dataList[id=114101].levelList[level=1].name": {
-      "pl": "I Ask Again",
+      "pl": "Zapytam Jeszcze Raz",
       "kr_sha256": "c1145358eba2d0a276d46774f32a0a75befd0c246e25afd9bc08a7cc3445b33a",
       "en_sha256": "123fedb20a1b6c73156cb1dedadb85c39366c0af0b293261e914c321293b13de",
       "origin": "ai"
@@ -799,7 +799,7 @@
       "origin": "ai"
     },
     "dataList[id=114102].levelList[level=1].name": {
-      "pl": "Act Not With Impropriety (非禮勿動)",
+      "pl": "Nie Działaj Niewłaściwie (非禮勿動)",
       "kr_sha256": "ffcf529b0745f1f6ed068aff27f8d5907f3ddfe2897848715f6aadb8c12d7986",
       "en_sha256": "b63914396aa20d76a2750c0e21862360ea2f13f3c2d24f9cf5fb6e75aa2bcdaf",
       "origin": "ai"
@@ -829,7 +829,7 @@
       "origin": "ai"
     },
     "dataList[id=114103].levelList[level=1].name": {
-      "pl": "You Will Not Meddle",
+      "pl": "Nie Wypada Się Wtrącać",
       "kr_sha256": "ef3fec45ba5da2414ab8ceaf60b18456a9102ffc40926f09ae2a73585978b62b",
       "en_sha256": "2a524051f375f114c52cc06d91ab145bd8780c99f3f3e53a0da7a5a9cad6d109",
       "origin": "ai"
@@ -853,7 +853,7 @@
       "origin": "ai"
     },
     "dataList[id=114104].levelList[level=1].name": {
-      "pl": "Thunderstrike - Ripple (波)",
+      "pl": "Gromobójcze Miażdżenie - Fala (波)",
       "kr_sha256": "7e0c2c3543ee7607f41f75ad1d8862d8eb54dc05a1b6a58e675dd1cff7e509f3",
       "en_sha256": "0918545a32077950da7daf197e147abd77bd69c016ec5d8d4e1e62e8154cd833",
       "origin": "ai"
@@ -973,7 +973,7 @@
       "origin": "ai"
     },
     "dataList[id=114106].levelList[level=1].name": {
-      "pl": "Heed Me, Zilu",
+      "pl": "Usłuchaj, Zilu",
       "kr_sha256": "183f4193313870ffaf89bf541a42c39bce7d2a68f610ee25a70d03e48a768b33",
       "en_sha256": "7bc374ce8229858f3ee78c6910ab152d9eb3dbab75148607477bacdcaf9ba71b",
       "origin": "ai"
@@ -997,7 +997,7 @@
       "origin": "ai"
     },
     "dataList[id=114107].levelList[level=1].name": {
-      "pl": "Deathrite Deluge",
+      "pl": "Powódź Obrzędu Śmierci",
       "kr_sha256": "ffe92b7a37218caf58a2493159165d2291a546c0194e1978dc0a099ff4a10042",
       "en_sha256": "65f6fed42adf9d5dc22b09c5285f52c76b480952195ab2798cde44473094e7fa",
       "origin": "ai"
@@ -1057,7 +1057,7 @@
       "origin": "ai"
     },
     "dataList[id=114108].levelList[level=1].name": {
-      "pl": "Answer Me, Jia Baoyu",
+      "pl": "Odpowiedz Mi, Jia Baoyu",
       "kr_sha256": "3b23d91a34b34af9a1ca84467c24e536c969c832a6c0822b2fb3652d044bf100",
       "en_sha256": "ac67b0deb87368302c50de4838b04c94bcceafef5cea46b028740d348683f9e7",
       "origin": "ai"
@@ -1117,7 +1117,7 @@
       "origin": "ai"
     },
     "dataList[id=114109].levelList[level=1].name": {
-      "pl": "Tiangang Star - Form (格)",
+      "pl": "Gwiazda Tiangan - Forma (格)",
       "kr_sha256": "23ec1ae734cfb7e483094cb36f9b9f8719d2dd2fac402c3d142a8ebcbebe3682",
       "en_sha256": "1c8d0a014dee26fd4517a3535f7cd9a256c65b8da46602b8f57ff19331aceec9",
       "origin": "ai"
@@ -1135,7 +1135,7 @@
       "origin": "ai"
     },
     "dataList[id=114110].levelList[level=1].name": {
-      "pl": "Like a Roaring Storm",
+      "pl": "Jak Rycząca Burza",
       "kr_sha256": "8f3939865835b427584716a30e9bb27f8b1b141b035d38f2247c03d04736b523",
       "en_sha256": "184183fc227dac5aed8948bc0db6c77094ab123bf8b5c2f63c2da12f9f8053e0",
       "origin": "ai"
@@ -1159,7 +1159,7 @@
       "origin": "ai"
     },
     "dataList[id=115701].levelList[level=1].name": {
-      "pl": "Weaklings...",
+      "pl": "Słabeusze...",
       "kr_sha256": "deb2be35164b204302c57cb3ec34a98ad325d20f1fb3bb139101bdd9969a21bb",
       "en_sha256": "c3760ac80251afa54736182f5e2afa8b37442d39eedfcb2681a4ed6b0aa41413",
       "origin": "ai"
@@ -1183,7 +1183,7 @@
       "origin": "ai"
     },
     "dataList[id=115702].levelList[level=1].name": {
-      "pl": "Dolts...",
+      "pl": "Gapie...",
       "kr_sha256": "f51d4bd87f0946666097f1586245e700de538d9b5dc436fbe31b76133c01a8f7",
       "en_sha256": "1531cdae28d9620acf8785787226c3d77e02c35b15a8fcbe608cc9bc10e41ebe",
       "origin": "ai"
@@ -1231,7 +1231,7 @@
       "origin": "ai"
     },
     "dataList[id=115703].levelList[level=1].name": {
-      "pl": "I'm Gonna Kill You!",
+      "pl": "Zabiję Cię!",
       "kr_sha256": "bd010a92b4b61c6a1923c450565af2b022ba666591b2eac2f7eac67197d138b3",
       "en_sha256": "6b33f9746120a83a869930d28fc0c1579041dc3866fe48e867067b7a0d2d468e",
       "origin": "ai"
@@ -1261,7 +1261,7 @@
       "origin": "ai"
     },
     "dataList[id=115704].levelList[level=1].name": {
-      "pl": "Jump In!!",
+      "pl": "Wpadnij!!",
       "kr_sha256": "7cdfe48e1c636019f53315b80757e591501eea279ac8797bf45cd327625d2cec",
       "en_sha256": "82097c215ab9ed29ffb9efe600c879aca45d954bed2ebce00dbe45c71477fbd3",
       "origin": "ai"
@@ -1291,7 +1291,7 @@
       "origin": "ai"
     },
     "dataList[id=115705].levelList[level=1].name": {
-      "pl": "Let's Watch This Spectacle, All Together!",
+      "pl": "Ten Spektakl Warto Oglądać Wszyscy!",
       "kr_sha256": "25228e99347d57f3294b7d23b1a557e49e7d8c6159ec2b341f24e1f5ce6dcf41",
       "en_sha256": "53423961d2f85cd2bb689cf03bdcff4415ae2f5c415d0b6d9b8ff7e8066b1a57",
       "origin": "ai"
@@ -1327,7 +1327,7 @@
       "origin": "ai"
     },
     "dataList[id=115801].levelList[level=1].name": {
-      "pl": "Take This!",
+      "pl": "Bierz To!",
       "kr_sha256": "24b42d0a40d18f1d2d3c4bd676dcd7f38e61a70cb767fae3c5605fb29c0e1b7b",
       "en_sha256": "59c7fcc1506c3c2872a0613248f73bd5ac470121ba37a6b88b2749be31075497",
       "origin": "ai"
@@ -1375,7 +1375,7 @@
       "origin": "ai"
     },
     "dataList[id=115802].levelList[level=1].name": {
-      "pl": "KNEEL!",
+      "pl": "Padnij na Kolana!",
       "kr_sha256": "75ad22c01c7e872f16790a8d3f8801ea2a8dd939387d1f43ed3ea8ac6cdc35e6",
       "en_sha256": "d1af4e91a4f43feb21d27c8d34055bb07f8cab09e5a132a0da1277b88ef6f6f5",
       "origin": "ai"
@@ -1411,7 +1411,7 @@
       "origin": "ai"
     },
     "dataList[id=115803].levelList[level=1].name": {
-      "pl": "Look at You Flaming Idiots!",
+      "pl": "Popatrzcie na Siebie, Dziecinady!",
       "kr_sha256": "2bb68967457f2dc0bc76feb24a64b89d73e8ae0654117187a3e4c930a914db4b",
       "en_sha256": "2ac8214f3b44c999c6cf111c6901b07ca32cf8bfb7d80b1a5d6721cbc316f14d",
       "origin": "ai"
@@ -1495,7 +1495,7 @@
       "origin": "ai"
     },
     "dataList[id=115804].levelList[level=1].name": {
-      "pl": "Know Your Place!",
+      "pl": "Znaj Swoje Miejsce!",
       "kr_sha256": "b610597d56975cc040b2ee6d1d68cce6cf0f0117c5a787000cbb357611479e71",
       "en_sha256": "5e042b32c6110405cc5c6a276cc750cd108b190e773c300e8587ee7a50eca82e",
       "origin": "ai"
@@ -1525,7 +1525,7 @@
       "origin": "ai"
     },
     "dataList[id=115805].levelList[level=1].name": {
-      "pl": "Kowtow Before Me!",
+      "pl": "Padnijcie Na Twarze!",
       "kr_sha256": "4e4d274fe919c10cb07da8ff2065d5435b011b4106c30ea700d0906f1416c267",
       "en_sha256": "4fb628e87277bce4f23cba80887531ee6b4f6fe3d919caec263d4af29fd4fdbd",
       "origin": "ai"
@@ -1555,7 +1555,7 @@
       "origin": "ai"
     },
     "dataList[id=115806].levelList[level=1].name": {
-      "pl": "I'll Give You a Chance",
+      "pl": "Dam Ci Szansę",
       "kr_sha256": "ece67a2b86e7e9dee0c1cb776bf53e6455d28dece4b9638e132c0edf3e30a39d",
       "en_sha256": "b82569152e85d7a574ac600d53c3d3270a8bc09072b3922566999eb1fedecf62",
       "origin": "ai"
@@ -1579,7 +1579,7 @@
       "origin": "ai"
     },
     "dataList[id=115901].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Talisman Strike",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Uderzenie Talizmanem",
       "kr_sha256": "7eef10d559931e83bafeacb96dd7b8891c9da075daf81e06769b6be6a7d5ff38",
       "en_sha256": "6fd7e51ce910cdf1665d41cde3c2905fdbca01ec649c02fc2f2af0ee0241eb6a",
       "origin": "ai"
@@ -1609,7 +1609,7 @@
       "origin": "ai"
     },
     "dataList[id=115902].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Trigger Effect",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Aktywacja Efektu",
       "kr_sha256": "a52cbdd465c2a88ccba7c0ce819af84b0e974c0ec3c2cd43e23e203298f306ae",
       "en_sha256": "884248bee94b61914e2adffb02f30843578e69ec21e15cf3fe4289919fe1a991",
       "origin": "ai"
@@ -1639,7 +1639,7 @@
       "origin": "ai"
     },
     "dataList[id=115903].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Deathrite Doll",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Lalka Obrzędu Śmierci",
       "kr_sha256": "1b848bd8991f9789fecd59be3dca95f70e57055629175510fd027506776275bf",
       "en_sha256": "840f3d73843dcce036e57a45112cb280c575c14c020b44ef6da313d340e043b4",
       "origin": "ai"
@@ -1699,7 +1699,7 @@
       "origin": "ai"
     },
     "dataList[id=115904].levelList[level=1].name": {
-      "pl": "Spirit Talisman School - Vilerage",
+      "pl": "Szkoła Talizmanów Ducha (符靈術) - Szpetna Wściekłość",
       "kr_sha256": "5a289d225405d7de9b9a8eb935a8d36e4199983b2b0f03fec3abc7c5d031d092",
       "en_sha256": "f230d6bdab1ee0ca0620321fdfa3de794bdc4c8aaa2a998ec6887a5489b56662",
       "origin": "ai"
@@ -1723,7 +1723,7 @@
       "origin": "ai"
     },
     "dataList[id=116001].levelList[level=1].name": {
-      "pl": "Charge Fist Style - Faceoff",
+      "pl": "Styl Naładowanej Pięści (充拳流) - Konfrontacja",
       "kr_sha256": "5f563842c2c458f5cb2f3ffd480873455125cdcc07db039e4902f94ce96e6cc4",
       "en_sha256": "66a9c64e12bcadcc4415a11d75142ce2542c3e9e143599c925f50e55d749e84e",
       "origin": "ai"
@@ -1753,7 +1753,7 @@
       "origin": "ai"
     },
     "dataList[id=116002].levelList[level=1].name": {
-      "pl": "Charge Fist Style - Roundhouse Punch",
+      "pl": "Styl Naładowanej Pięści (充拳流) - Cios Okrężny",
       "kr_sha256": "4cd8b7a2efca635efc446e0601e3f903188cea0b498fb9c63d4a98d826049ab7",
       "en_sha256": "aa0d1e6883a8df93d1771bcc835c09bb19aca8d22d4fa347cc4af03142c39c25",
       "origin": "ai"
@@ -1819,7 +1819,7 @@
       "origin": "ai"
     },
     "dataList[id=116003].levelList[level=1].name": {
-      "pl": "Charge Fist Style - Destroy",
+      "pl": "Styl Naładowanej Pięści (充拳流) - Rozbijanie",
       "kr_sha256": "9de6cf82ea084ed8feb4955b363551cb66afbab2e4162793ab29b40498255338",
       "en_sha256": "8f6e92da59db1c7ce3a0d010188bbc3d7e3bd12909d001ee1ff0d6a66e4a0045",
       "origin": "ai"
@@ -1843,7 +1843,7 @@
       "origin": "ai"
     },
     "dataList[id=116004].levelList[level=1].name": {
-      "pl": "Charge Fist Style - Rhythm Matching",
+      "pl": "Styl Naładowanej Pięści (充拳流) - Trzymanie Rytmu",
       "kr_sha256": "8b38788caa728e477cf2e6f96ae03885da3f9751e78eea9853e734b764ffc816",
       "en_sha256": "e77623da2fe2187236bb8cd5472db12bd54fd78ab8df79dcd3b006cdafe5ea52",
       "origin": "ai"
@@ -1867,7 +1867,7 @@
       "origin": "ai"
     },
     "dataList[id=116701].levelList[level=1].name": {
-      "pl": "Charge Blade Style - Downward Cleave",
+      "pl": "Styl Naładowanej Klingi (充刀流) - Cięcie z Góry",
       "kr_sha256": "69a07d490304f9aebfe676d835e63338c7b7f187bbbf6c7e83daa1b4b1a77810",
       "en_sha256": "a134503f89052f974be7b2c9a304bc7c1addbaa8ef47a648dc3bdc517ef9ba4f",
       "origin": "ai"
@@ -1903,7 +1903,7 @@
       "origin": "ai"
     },
     "dataList[id=116702].levelList[level=1].name": {
-      "pl": "Charge Blade Style - Windup Slash",
+      "pl": "Styl Naładowanej Klingi (充刀流) - Cięcie z Zamachem",
       "kr_sha256": "a881f8a9550b38698f6b070f199e2a2098449518180a2f3d093ed9b50ad0094f",
       "en_sha256": "54a60fe13cd8fbd2bb5957e221189c4167f268a0e0b5855239b03cc206df9883",
       "origin": "ai"
@@ -1969,7 +1969,7 @@
       "origin": "ai"
     },
     "dataList[id=116703].levelList[level=1].name": {
-      "pl": "Charge Blade Style - Crushing Slice",
+      "pl": "Styl Naładowanej Klingi (充刀流) - Zgniatające Cięcie",
       "kr_sha256": "40c3f7115677ab3e7a8cf1fcbccfa274a9fab19c41a7fc9e7a6114ad3a073c62",
       "en_sha256": "70ca1c7689b58105c4880cd0bb503aad2829f872d9e78905c6c3d84045ca8edd",
       "origin": "ai"
@@ -1993,7 +1993,7 @@
       "origin": "ai"
     },
     "dataList[id=116704].levelList[level=1].name": {
-      "pl": "Charge Blade Style - Flowing Slash",
+      "pl": "Styl Naładowanej Klingi (充刀流) - Płynne Cięcie",
       "kr_sha256": "f106b6c96751df48a3fc9a0e155f39640f9b944bedebd92e34dabdd7f0a223da",
       "en_sha256": "0612685e888494fa4880b255f740eaf17cf9b6006f1016b5233f6ceb76e1b906",
       "origin": "ai"

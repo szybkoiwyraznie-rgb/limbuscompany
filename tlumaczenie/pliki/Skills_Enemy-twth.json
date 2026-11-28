@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=9103401].levelList[level=1].name": {
-      "pl": "Target Sighted",
+      "pl": "Cel Zauważony",
       "kr_sha256": "fb856fcc8ead7487d6bc0323d82ea620c29265414c3ce737ec16c1779ab935da",
       "en_sha256": "ebd4d667287b9fa5c7514d1e6abe792af6298b1042e4be68090ad9f3fe713998",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=9103402].levelList[level=1].name": {
-      "pl": "To Where the Prescript Points",
+      "pl": "Dokąd Wskazuje Z-zlecenie",
       "kr_sha256": "e1f9b5602290990a419e811f22a82bd544f88584096022594e8de52848195b85",
       "en_sha256": "a4e02161974d96f4465439ad18148707edf9d3b6d6da0c81fb703fa8268d60c5",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=9103403].levelList[level=1].name": {
-      "pl": "Undertake Prescript",
+      "pl": "Wykonaj Z-zlecenie",
       "kr_sha256": "1ffd6ae09a78acfdc55ec11bdaad2f406c96399e90ff1cc4c8d59ea0c0eab2ca",
       "en_sha256": "60dd326db9fa452a5450e4c34c2fea9c3ca09a1d7a1a6faae7263e4d23114eb4",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=9103501].levelList[level=1].name": {
-      "pl": "Target Sighted",
+      "pl": "Cel Zauważony",
       "kr_sha256": "fb856fcc8ead7487d6bc0323d82ea620c29265414c3ce737ec16c1779ab935da",
       "en_sha256": "ebd4d667287b9fa5c7514d1e6abe792af6298b1042e4be68090ad9f3fe713998",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=9103502].levelList[level=1].name": {
-      "pl": "To Where the Prescript Points",
+      "pl": "Dokąd Wskazuje Z-zlecenie",
       "kr_sha256": "e1f9b5602290990a419e811f22a82bd544f88584096022594e8de52848195b85",
       "en_sha256": "a4e02161974d96f4465439ad18148707edf9d3b6d6da0c81fb703fa8268d60c5",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=9103503].levelList[level=1].name": {
-      "pl": "Undertake Prescript",
+      "pl": "Wykonaj Z-zlecenie",
       "kr_sha256": "1ffd6ae09a78acfdc55ec11bdaad2f406c96399e90ff1cc4c8d59ea0c0eab2ca",
       "en_sha256": "60dd326db9fa452a5450e4c34c2fea9c3ca09a1d7a1a6faae7263e4d23114eb4",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=9104301].levelList[level=1].name": {
-      "pl": "Wildstroke",
+      "pl": "Dzikie Walicie",
       "kr_sha256": "734ad8f9fa0ecdc6b03cc0cfc0c1d40bd316effe8f3b2a27977ba8809e3b6fe8",
       "en_sha256": "ba1273e53219bf59b0d8148a010a34cf9236ee5b5c0d8093a62aa3d8b2ce494c",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=9104302].levelList[level=1].name": {
-      "pl": "Dessin Rapide",
+      "pl": "Szybki Dessin",
       "kr_sha256": "2358aea005c4d66985f078925750d88fb5206024e6fb23224b5e57c23d826b37",
       "en_sha256": "57f4e468bc6318e12a83426839af620bf1bd3148a8d874aac1de98c74655c343",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=9104303].levelList[level=1].name": {
-      "pl": "Le Fauvisme - Paint and Unfurl",
+      "pl": "Le Fauvisme - Maluj i Rozwiń",
       "kr_sha256": "837e558973dae69426b382373cb28d03459c215b7c9465205a5d7b4d75fbf3a2",
       "en_sha256": "c14175a7e760c5378d68485f65085061133dbaad642a13362926aded63d6b9bf",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=9104304].levelList[level=1].name": {
-      "pl": "Gusset",
+      "pl": "Wstawka",
       "kr_sha256": "19ce0f6f8c53a73806267147d17c745e57f461967a3f49652d37f0121b026ec4",
       "en_sha256": "e780b5a1fdf2ad40802307bc81a2958be6d564096d1c1f0a77eac5d1f402732c",
       "origin": "ai"
@@ -325,7 +325,7 @@
       "origin": "ai"
     },
     "dataList[id=9104401].levelList[level=1].name": {
-      "pl": "Wildstroke",
+      "pl": "Dzikie Walicie",
       "kr_sha256": "734ad8f9fa0ecdc6b03cc0cfc0c1d40bd316effe8f3b2a27977ba8809e3b6fe8",
       "en_sha256": "ba1273e53219bf59b0d8148a010a34cf9236ee5b5c0d8093a62aa3d8b2ce494c",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=9104402].levelList[level=1].name": {
-      "pl": "Dessin Rapide",
+      "pl": "Szybki Dessin",
       "kr_sha256": "2358aea005c4d66985f078925750d88fb5206024e6fb23224b5e57c23d826b37",
       "en_sha256": "57f4e468bc6318e12a83426839af620bf1bd3148a8d874aac1de98c74655c343",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=9104403].levelList[level=1].name": {
-      "pl": "Le Fauvisme - Paint and Unfurl",
+      "pl": "Le Fauvisme - Maluj i Rozwiń",
       "kr_sha256": "837e558973dae69426b382373cb28d03459c215b7c9465205a5d7b4d75fbf3a2",
       "en_sha256": "c14175a7e760c5378d68485f65085061133dbaad642a13362926aded63d6b9bf",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=9104404].levelList[level=1].name": {
-      "pl": "Gusset",
+      "pl": "Wstawka",
       "kr_sha256": "19ce0f6f8c53a73806267147d17c745e57f461967a3f49652d37f0121b026ec4",
       "en_sha256": "e780b5a1fdf2ad40802307bc81a2958be6d564096d1c1f0a77eac5d1f402732c",
       "origin": "ai"
@@ -451,7 +451,7 @@
       "origin": "ai"
     },
     "dataList[id=9104501].levelList[level=1].name": {
-      "pl": "Artwork Preparation",
+      "pl": "Przygotowanie Dzieła",
       "kr_sha256": "4ba91b94ef78ff1e21e7c54108e723017f8edb8c542d163d22f44c5c363b2be7",
       "en_sha256": "024a6ed83b925df1de67eba60ef856e12ca417b0e4b1b9a441222f4d31ca9cc1",
       "origin": "ai"
@@ -481,7 +481,7 @@
       "origin": "ai"
     },
     "dataList[id=9104502].levelList[level=1].name": {
-      "pl": "Brisk Expression",
+      "pl": "Szybka Ekspresja",
       "kr_sha256": "e9374099b6a753e25e7f68ef6a641e5211ecb41b47777755c327ab8d293bd786",
       "en_sha256": "e96e4ef56750327885200bebf7b267ed46925287752471c5ecc791016e171005",
       "origin": "ai"
@@ -535,7 +535,7 @@
       "origin": "ai"
     },
     "dataList[id=9104503].levelList[level=1].name": {
-      "pl": "Finishing Touch",
+      "pl": "Wykończenie Dzieła",
       "kr_sha256": "a2b0ebce7822def26edc01dea683b51fbdf4a7f8663af3eae1fe38c8e795eb1a",
       "en_sha256": "e4b4d2f966b06696e327ee70a074b4a4f7a0dc2e44bf7c763f1a27971afdbbb4",
       "origin": "ai"
@@ -559,7 +559,7 @@
       "origin": "ai"
     },
     "dataList[id=9104504].levelList[level=1].name": {
-      "pl": "Partial Rework",
+      "pl": "Częściowa Korekta",
       "kr_sha256": "01892c2433a74cc9d26f03be1df4a5cd297a52371945aba6c5baa27fc189248b",
       "en_sha256": "ce0c9684744390465d648b3ede5337b28a6e9b97c5aecbb2f5a831c1c1bab0bd",
       "origin": "ai"
@@ -583,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=9104601].levelList[level=1].name": {
-      "pl": "Artwork Preparation",
+      "pl": "Przygotowanie Dzieła",
       "kr_sha256": "4ba91b94ef78ff1e21e7c54108e723017f8edb8c542d163d22f44c5c363b2be7",
       "en_sha256": "024a6ed83b925df1de67eba60ef856e12ca417b0e4b1b9a441222f4d31ca9cc1",
       "origin": "ai"
@@ -613,7 +613,7 @@
       "origin": "ai"
     },
     "dataList[id=9104602].levelList[level=1].name": {
-      "pl": "Brisk Expression",
+      "pl": "Szybka Ekspresja",
       "kr_sha256": "e9374099b6a753e25e7f68ef6a641e5211ecb41b47777755c327ab8d293bd786",
       "en_sha256": "e96e4ef56750327885200bebf7b267ed46925287752471c5ecc791016e171005",
       "origin": "ai"
@@ -667,7 +667,7 @@
       "origin": "ai"
     },
     "dataList[id=9104603].levelList[level=1].name": {
-      "pl": "Finishing Touch",
+      "pl": "Wykończenie Dzieła",
       "kr_sha256": "a2b0ebce7822def26edc01dea683b51fbdf4a7f8663af3eae1fe38c8e795eb1a",
       "en_sha256": "e4b4d2f966b06696e327ee70a074b4a4f7a0dc2e44bf7c763f1a27971afdbbb4",
       "origin": "ai"
@@ -691,7 +691,7 @@
       "origin": "ai"
     },
     "dataList[id=9104604].levelList[level=1].name": {
-      "pl": "Partial Rework",
+      "pl": "Częściowa Korekta",
       "kr_sha256": "01892c2433a74cc9d26f03be1df4a5cd297a52371945aba6c5baa27fc189248b",
       "en_sha256": "ce0c9684744390465d648b3ede5337b28a6e9b97c5aecbb2f5a831c1c1bab0bd",
       "origin": "ai"

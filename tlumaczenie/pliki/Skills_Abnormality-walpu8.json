@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=136601].levelList[level=1].name": {
-      "pl": "Pounce",
+      "pl": "Natarcie",
       "kr_sha256": "8a8da6fe11212f11b7583ba6f766730931a0bcdb5ab5d67ffd5dd509f712b85e",
       "en_sha256": "706a5cdec2608e34262b1ab36b3d8ff24e87054b4041ddf2a63e9083775430c9",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=136602].levelList[level=1].name": {
-      "pl": "Gnawing Gobble",
+      "pl": "Gryzące Pożeranie",
       "kr_sha256": "54e203161caed830fe9495a286ea557c1a90a94156b276b842a969382812188e",
       "en_sha256": "4146d72cfde8a9420e629562c5c337839e9d5580c1973a65ad91ee04639c485c",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=136603].levelList[level=1].name": {
-      "pl": "Orange-flavored Bubble Supplement",
+      "pl": "Uzupełnienie Pomarańczowych Bąbli",
       "kr_sha256": "614b67021606a4c14da5664daf3d4a58d444569784cb2ed3d5f89d81acd989ee",
       "en_sha256": "31a24b7d0d82f0688e816d879a689e8e49bf82bed94adb45581fed10d658827b",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=136604].levelList[level=1].name": {
-      "pl": "Add a Note of Bubbly Flavor",
+      "pl": "Nutka Bąbelkowego Smaku",
       "kr_sha256": "bd07c5fda9cf95b73b555a671c94394058e5074a606734d300bb2a32a8e828d9",
       "en_sha256": "2610a3929360ce92ab4dd5e4f176f69c9f34ffff54b3b3a435c5b1914fecae0c",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=136605].levelList[level=1].name": {
-      "pl": "Herd Migration",
+      "pl": "Wędrówka Stada",
       "kr_sha256": "a9f85db2b5fabc5367da900c3313074af615e598f456f1242a3467509adab53d",
       "en_sha256": "0271e3580f1367eb79fcfb91c0dcdacab084dde615e6439db973f7b17b8b435b",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=136901].levelList[level=1].name": {
-      "pl": "Chomping Gobble",
+      "pl": "Chrupanie z Połykaniem",
       "kr_sha256": "82df53b2e4dd4209f887305c3d267fd94dc41ac8c5a10647a3a2efb4a8e00583",
       "en_sha256": "1e770ac2f10ac09323723c214f9d2a0f827a0eecb719dea01552e269b11bf8b3",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=136902].levelList[level=1].name": {
-      "pl": "Filling a Medium-sized Orange Bubble",
+      "pl": "Napełnianie Średniego Pomarańczowego Bąbla",
       "kr_sha256": "6730518683fed9049a99a448be7ed2c4ff0ba7857a03fef2c7a937e3130b9b01",
       "en_sha256": "6ddb763856701fdb042170fad4e83adf6e0469422ebb4d33d488124beaf9f06d",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=136903].levelList[level=1].name": {
-      "pl": "More Potent, More Plentiful",
+      "pl": "Bardziej Gęste i Więcej",
       "kr_sha256": "40a01a47f54eba8b99ad966a425158cbcc9e5920dc30c26a97e4670e10fd5559",
       "en_sha256": "ba55e1d2798a8deeddd6a9c0c240a02873bcf1631817a1c1673aa6d56d5a7ccc",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=136904].levelList[level=1].name": {
-      "pl": "Feed Consumption for BongBong Procreation",
+      "pl": "Pożywienie na Rozród BongBong",
       "kr_sha256": "0d9f3adcdd4b8c984dd94dd60dc53142d275343f4b002279cf02ba9921c74d12",
       "en_sha256": "6a4bcd437d1e7a3dddbfb99e662935155a0b2cc122b413e7edab3ffb3db6b463",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=136905].levelList[level=1].name": {
-      "pl": "Herd Migration",
+      "pl": "Wędrówka Stada",
       "kr_sha256": "a9f85db2b5fabc5367da900c3313074af615e598f456f1242a3467509adab53d",
       "en_sha256": "0271e3580f1367eb79fcfb91c0dcdacab084dde615e6439db973f7b17b8b435b",
       "origin": "ai"

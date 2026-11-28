@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=851001].levelList[level=1].name": {
-      "pl": "Crying Slap",
+      "pl": "Klaps Płaczu",
       "kr_sha256": "d66e9022063a35a61e699dad38e7b48f0423f20a15782c22e3464d920081fe28",
       "en_sha256": "7de4bf2bf82166d70ac5b4312818bce89a114ab659a7dd626dee6eafb2d53374",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=851002].levelList[level=1].name": {
-      "pl": "Gloomy Slap",
+      "pl": "Posępne Klaskanie",
       "kr_sha256": "6f43340b092c58a876c542a8f915a9c8641693f665ae47fed8b33e721e53c97b",
       "en_sha256": "4fcd9baf4ca526dbab7669971ea6500e596e0abdf42ef4b1c90a64cae4b9d819",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=851003].levelList[level=1].name": {
-      "pl": "Melty Eyeball",
+      "pl": "Rozpływająca się Gałka Oczowa",
       "kr_sha256": "484f4b89259ab231cfa893b9fc60809869735933d554ea7d64da0fbf6d17b3a9",
       "en_sha256": "181505fdc3c4818d8399d87fb73a0a3dbb29d9376359ba8c8c48428c49cfc83c",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=851004].levelList[level=1].name": {
-      "pl": "Gushing Gloom",
+      "pl": "Nawał Posępności",
       "kr_sha256": "76bd82c58ab23277bc45ec321f9597360e361176f5cb21b86a167aacbd5b796f",
       "en_sha256": "a8890096ad704c3848bcd0d5dd387a5509a5ad515468bb4a5100c466546c5e87",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=851005].levelList[level=1].name": {
-      "pl": "Eyeball Weight",
+      "pl": "Ciężarek Gałki Oczowej",
       "kr_sha256": "3bd07f7c9c1bc9198bdd5dbd611827e9906cf1b25c52d5a21efb8f1a9e203c73",
       "en_sha256": "af25df2331376ad761cf84b69302db362124bf6fdacbab26156a30725827dc2a",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=851006].levelList[level=1].name": {
-      "pl": "Melted Eyeball",
+      "pl": "Roztopiona Gałka Oczowa",
       "kr_sha256": "24f7f9b41eec564fbd43c63746c221b85714409d77c5a68fdc9d17139e758028",
       "en_sha256": "a29741de211c308504c23388a71927a5bdd6f209eb5c1a9183e8475b823a098c",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=851007].levelList[level=1].name": {
-      "pl": "Melted Eyeball",
+      "pl": "Roztopiona Gałka Oczowa",
       "kr_sha256": "24f7f9b41eec564fbd43c63746c221b85714409d77c5a68fdc9d17139e758028",
       "en_sha256": "a29741de211c308504c23388a71927a5bdd6f209eb5c1a9183e8475b823a098c",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=851901].levelList[level=1].name": {
-      "pl": "Booting Town Tour",
+      "pl": "Start Wycieczki po Miasteczku",
       "kr_sha256": "9c3d03d04c01a9ff94e8a25f452134d382463747df81cac11e10914e3ed6e210",
       "en_sha256": "2cac27ec8867f294ea9972e6dcad0f2a7ccdedde5921b0c990701bf1c64b0e7e",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=851902].levelList[level=1].name": {
-      "pl": "Welcome to the Tour",
+      "pl": "Witamy na Wycieczce",
       "kr_sha256": "219d867648d08184cee11425418535b33c7d7cb8880ea540e7efaf73f6d82a89",
       "en_sha256": "22c8cfb7550fcf7b866de412ec502be1975e8d23ba5becf8f9c204a53b43ba0a",
       "origin": "ai"
@@ -193,7 +193,7 @@
       "origin": "ai"
     },
     "dataList[id=851903].levelList[level=1].name": {
-      "pl": "Please Cooperate!",
+      "pl": "Proszę o współpracę!",
       "kr_sha256": "6a608b5085caa92378f1535f83d17012b2f544e6cb0b08c2fb176c0dc678618b",
       "en_sha256": "c59b41b076bb2ba33857de2413cfc3c6858c2db2bea84e7f4e3d69101ff748eb",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=851904].levelList[level=1].name": {
-      "pl": "Processing Transfer Reg",
+      "pl": "Przetwarzanie Zgłoszenia Transferu",
       "kr_sha256": "be88ef9244af3d07bcef9a0a175d8afc5e81e1400773bc75ef51ba546d48ca57",
       "en_sha256": "6447eefc86b4f7ab2c1fd2cf2e9f620f6be25143fc2097e3fe313fa58476dda0",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=851905].levelList[level=1].name": {
-      "pl": "Pleased to Meet You, Dear Neighbor",
+      "pl": "Miło Was Poznać, Drogi Sąsiedzie",
       "kr_sha256": "62aa6008cf3f4b1ffd81739f9e47e4735eb0c90123ef43cb339ca1e35634c1cc",
       "en_sha256": "af8321a736cd594430b2d85ec7ea9f733de8d893b83844ac25ee4ed9cc2da480",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=851906].levelList[level=1].name": {
-      "pl": "System Error Detected",
+      "pl": "Wykryto Błąd Systemu",
       "kr_sha256": "406c49afd0aa2dfa2851fa0a3ee14842226a19e18d8311a796f2078dbc1646cd",
       "en_sha256": "30c05224adfbd32da58a0f3ccbbe158f79fe84cf807a1f0d1ad1bd0510be9367",
       "origin": "ai"
@@ -265,13 +265,13 @@
       "origin": "ai"
     },
     "dataList[id=851907].levelList[level=1].name": {
-      "pl": "Processing Computation",
+      "pl": "Przetwarzanie Obliczeń",
       "kr_sha256": "ca2640be33647f6176444ab3709ffd6e5a5271fd40eb1a61e0fba13e8608caf9",
       "en_sha256": "3eb9d754d368fa315957af3b488dbfc44872d879ead0719ef0379da90b30ce6f",
       "origin": "ai"
     },
     "dataList[id=851908].levelList[level=1].name": {
-      "pl": "Rebooting…",
+      "pl": "Restartowanie…",
       "kr_sha256": "303f7d46417daede26ed788b9f28c8acd3256a0339a92e0c3748807604bf8626",
       "en_sha256": "568681c5c2b8b4e614eee8782c164e4b71f2da4ef18f248441d8d799cffd7f98",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=851909].levelList[level=1].name": {
-      "pl": "Processing Transfer Reg",
+      "pl": "Przetwarzanie Zgłoszenia Transferu",
       "kr_sha256": "1583ab9cba9a275fa410952f21fac81e7d974b8707430fe0196cf6bc8838b4da",
       "en_sha256": "6447eefc86b4f7ab2c1fd2cf2e9f620f6be25143fc2097e3fe313fa58476dda0",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=852101].levelList[level=1].name": {
-      "pl": "Do Not Enter",
+      "pl": "No Entry",
       "kr_sha256": "f8849d58f6aa475a22daa3eaf195bb0eac3688f79b97255adc1060d4df578d76",
       "en_sha256": "9349619170d1fc6ac19acf4486d7c073825d2e8f595d33803c8dc6b1f8a98c3b",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=852102].levelList[level=1].name": {
-      "pl": "Subdue",
+      "pl": "Stłumienie",
       "kr_sha256": "25719563dd7545c67e65d145e11ba77ad4153dd45a4f9f58e95a3a5273c1cecc",
       "en_sha256": "eef3fc174cdfbdd2502346af0b9a203c0e068832776d43befc815752f6735fbf",
       "origin": "ai"
@@ -343,7 +343,7 @@
       "origin": "ai"
     },
     "dataList[id=852103].levelList[level=1].name": {
-      "pl": "Forbid Entry",
+      "pl": "Blokada Wejścia",
       "kr_sha256": "9a1c17324ae7647bfbdd42f43186bc7be2ade1edf9132efe48188f2f790280ec",
       "en_sha256": "208528a9841f9f658ea55928edbcf921ea71461600e19a9caefa172e73faab88",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=852301].levelList[level=1].name": {
-      "pl": "Suspicious Individuals",
+      "pl": "Wykryto Podejrzanych",
       "kr_sha256": "16da4af6f96cafdbfb3df03f6cd7af16542d9cbd757f54e02a2c1a1c07728c2f",
       "en_sha256": "5cdd9c9c80c760252e31137125045d478bbd4ffc82b89c6448d5d967c79df0b8",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=852302].levelList[level=1].name": {
-      "pl": "Restrain",
+      "pl": "Powstrzymanie",
       "kr_sha256": "80032b543c1e845c00b5bffce2964a5bf6137477a5d62088e9cb8a7c4e28a642",
       "en_sha256": "ed48b3479d20b4e8ed6c4df1380096a0deb5025c0c79d7608560da3bed3ae9a3",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=852303].levelList[level=1].name": {
-      "pl": "No Trespassing",
+      "pl": "Blokada Podejrzanych",
       "kr_sha256": "032a3cfe31e9cac85788f34441e0c2b817437d7d0de990330dc4e1572aa4eb35",
       "en_sha256": "fc4938e6fd5fcfc8857c223da07f7b611bb335264266bf4639cbfaedf662fb20",
       "origin": "ai"
@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=852702].levelList[level=1].name": {
-      "pl": "Expound Sutras",
+      "pl": "Głoszenie Sutr",
       "kr_sha256": "2d955c8fe7d5dd3c190358224a0de2f594851b281ae7c732f56014bed0d08427",
       "en_sha256": "279a254a71434c0e15ce4d4fe07931fcf4da22524d172daa8f6b066c352c2605",
       "origin": "ai"
@@ -511,7 +511,7 @@
       "origin": "ai"
     },
     "dataList[id=852707].levelList[level=1].name": {
-      "pl": "Compulsory Offering",
+      "pl": "Przymusowa Ofiara",
       "kr_sha256": "71ff9483a8fdb1f4318a2ac2daa09c5efe0880176838cb708d7a63fde71d5db3",
       "en_sha256": "66b55074e0ab6bbed47ee01f4e7cf809ac02c496b3d938e061c07138c96c7666",
       "origin": "ai"
@@ -535,7 +535,7 @@
       "origin": "ai"
     },
     "dataList[id=852708].levelList[level=1].name": {
-      "pl": "Sluggard Waker",
+      "pl": "Budzenie Klapkiem",
       "kr_sha256": "ec6a7705ebbf0ed10af3b3023cb6c2d793103559baa647018885a799b7a0d9bf",
       "en_sha256": "b130fb52019d1867db167ab210830a41325d112129e1a6ba2e009cd53d4fdeb9",
       "origin": "ai"
@@ -583,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=852710].levelList[level=1].name": {
-      "pl": "Sluggard Waker",
+      "pl": "Budzenie Klapkiem",
       "kr_sha256": "ec6a7705ebbf0ed10af3b3023cb6c2d793103559baa647018885a799b7a0d9bf",
       "en_sha256": "b130fb52019d1867db167ab210830a41325d112129e1a6ba2e009cd53d4fdeb9",
       "origin": "ai"
@@ -607,7 +607,7 @@
       "origin": "ai"
     },
     "dataList[id=852801].levelList[level=1].name": {
-      "pl": "Drive",
+      "pl": "Pchnięcie",
       "kr_sha256": "4a3517d75ea24d32b92683c4ce30b9aefdaab0d25efa10a0277d55e0a7f0653c",
       "en_sha256": "6312b4b9baf12770fd7dc7307169bfa3676fbec14485abe37264952d8502645e",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=852802].levelList[level=1].name": {
-      "pl": "…Be Cleansed",
+      "pl": "…Bądź Oczyszczony",
       "kr_sha256": "0f37533aad5fb22fed677dfb629e9d6cd116acf1e0b28d1ad74652d9dbe3051d",
       "en_sha256": "1cf3a21420bdc98f60cd38e73e9ebc4129495e6e75ab7295469c74af32426669",
       "origin": "ai"
@@ -631,7 +631,7 @@
       "origin": "ai"
     },
     "dataList[id=852803].levelList[level=1].name": {
-      "pl": "Inquisitional Retribution",
+      "pl": "Potępienie Heretyka",
       "kr_sha256": "fdc88ff5fdac50e703a395837f6ea0ee421ee92be4b492c8cb5f3b229a12ec29",
       "en_sha256": "f7e02696cd5d9520099ed84ac7505920c65608279ebfcb8a46265bcea83d5529",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=852901].levelList[level=1].name": {
-      "pl": "Rápidamente~",
+      "pl": "Zwinnie~",
       "kr_sha256": "57c3ebdec28ee7fd029223bbf16709cc32ac4dd0d3d3d8ebb5c52c29f4b2779c",
       "en_sha256": "70bfde9d064cf0c0799f0b57a95b385d74e4960c0a563ce7a87d8e4459ece185",
       "origin": "ai"
@@ -673,7 +673,7 @@
       "origin": "ai"
     },
     "dataList[id=853001].levelList[level=1].name": {
-      "pl": "Flesh Surge",
+      "pl": "Puls Cielota",
       "kr_sha256": "9bf1d48ac3d5c0b0c22195aee96a97a0f7e75c387bf310ef1f9fc213cc3d51e6",
       "en_sha256": "a2bdf97a60c9d10a95f5e6e8185f740e3d729bb47f01bdd3ec8d0aa3a160ba32",
       "origin": "ai"
@@ -685,7 +685,7 @@
       "origin": "ai"
     },
     "dataList[id=853002].levelList[level=1].name": {
-      "pl": "Dominate Mind",
+      "pl": "Zdominowanie Umysłu",
       "kr_sha256": "20fc4368b7b6c01c933b0d190f89f5ef98342a6d83e6678fa6ae2957e4e4b027",
       "en_sha256": "a45ab4312caf128e0164e604301475273a241e54fb55e3c70548b15f903f6bc0",
       "origin": "ai"

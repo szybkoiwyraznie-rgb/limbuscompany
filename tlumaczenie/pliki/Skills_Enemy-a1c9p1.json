@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=9103601].levelList[level=1].name": {
-      "pl": "Pierce",
+      "pl": "Przebicie",
       "kr_sha256": "b1b6f9c01d5e9586d24aaadeb92a48f8ac9750a938cc88cf6ec6aa238d3e1cba",
       "en_sha256": "712c62949e028a91e3967aa595c3fde29a772118d0e0fa5952f90b9bbf40f9fa",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=9103602].levelList[level=1].name": {
-      "pl": "Flesh Rip",
+      "pl": "Rozdzieranie Mięsa",
       "kr_sha256": "1944819b87dc86b890077dc2452e0af6a93860b80ebbb960e259e55a2baaffa9",
       "en_sha256": "96b939a6c9794e17185128b0bf464f893b1ded803770b0ef64e408b679e8f18c",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=9103603].levelList[level=1].name": {
-      "pl": "Artwork: Liberation of Bones Contingent on Cardiac Rhythm",
+      "pl": "Dzieło: Wyzwolenie Kości Zależne od Rytmu Serca",
       "kr_sha256": "4c01dac97eca333236648379d8d4b2f3a72f07bfbbb8962750185c96d87f88a6",
       "en_sha256": "2d80cc53a98172a2847584b0c3e3f68839bb6a7a3503ff470327105b8debf5ca",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=9103605].levelList[level=1].name": {
-      "pl": "Muscular Contraction",
+      "pl": "Kurcz Mięśni",
       "kr_sha256": "6e7071461bfd003cb0dc7cf28f3714a11f536c176d7f58c20682acb8c0be77ff",
       "en_sha256": "ce47cf62d8e308e2bfff87e3969ac6e20af21ab19423c88128dc380982321b7e",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=9103701].levelList[level=1].name": {
-      "pl": "Jab",
+      "pl": "Sztych",
       "kr_sha256": "8acd03767db6d7c0cc950e444c3a48a8e37582b60c13e9268bcac1e120cfec49",
       "en_sha256": "ba93802c7e3fc81d13932d29412269a134b7711ac208fd51ee7abf978b8e2f9c",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9103702].levelList[level=1].name": {
-      "pl": "Vascular Tear",
+      "pl": "Rozdzieranie Naczyń",
       "kr_sha256": "ede8364ecc8ea3e8f7538ad6ef50bf563e7b1a01616bae565b259c83569a58b2",
       "en_sha256": "11d9a44f761e359cb63b93c1b8acccea58a1cfb423b242e8471f74e1bcaf06b0",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=9103703].levelList[level=1].name": {
-      "pl": "Artwork: Liberation of Bones Contingent on Cardiac Rhythm",
+      "pl": "Dzieło: Wyzwolenie Kości Zależne od Rytmu Serca",
       "kr_sha256": "4c01dac97eca333236648379d8d4b2f3a72f07bfbbb8962750185c96d87f88a6",
       "en_sha256": "2d80cc53a98172a2847584b0c3e3f68839bb6a7a3503ff470327105b8debf5ca",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=9103705].levelList[level=1].name": {
-      "pl": "Muscular Contraction",
+      "pl": "Kurcz Mięśni",
       "kr_sha256": "6e7071461bfd003cb0dc7cf28f3714a11f536c176d7f58c20682acb8c0be77ff",
       "en_sha256": "ce47cf62d8e308e2bfff87e3969ac6e20af21ab19423c88128dc380982321b7e",
       "origin": "ai"
@@ -265,7 +265,7 @@
       "origin": "ai"
     },
     "dataList[id=9103801].levelList[level=1].name": {
-      "pl": "Bound Muscles",
+      "pl": "Skrepowane Mięśnie",
       "kr_sha256": "1f591cfbb8bfb6638748453e4759d2e8c48522adaf8b6f5678362fa4af2bb78f",
       "en_sha256": "3e261c0d948ba1567c45fbfceeabe46ac4f45c884fb2a0a7521b9331cbec05fc",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=9103802].levelList[level=1].name": {
-      "pl": "Tear and Rip",
+      "pl": "Szarp i Rozdzieraj",
       "kr_sha256": "fb192c7f867d9fe23ea4b68ccdc16715200a1240b4885b41c0e910e7c87e0dce",
       "en_sha256": "8e1d7d29fef8d6d5f88e7aebd9a8afab5a7e845ede4b7988a8821974719a06ba",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=9103803].levelList[level=1].name": {
-      "pl": "Artwork Adorned by Desire",
+      "pl": "Dzieło Ozdobione Pożądaniem",
       "kr_sha256": "afc4d5f9ac1b6d80a952c96d165398c64408e351e3e00e03640068545f043e09",
       "en_sha256": "f68cf0f4d148c6e374cde0cb9b9f76708778f40cb2c2332246d32b62e3272cab",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=9103805].levelList[level=1].name": {
-      "pl": "Tightening Ribbons",
+      "pl": "Ściskające Wstążki",
       "kr_sha256": "b8370e4b15c5b94b4ab6b4b4b714756d41c0c830134f44c9bd796c4fa9e066c0",
       "en_sha256": "7e31ccd77d402bb406119dc1abf1589d225f46c59500607b5a9fe32a8d853a6d",
       "origin": "ai"

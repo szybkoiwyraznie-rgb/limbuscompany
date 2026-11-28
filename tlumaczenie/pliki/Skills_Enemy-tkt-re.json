@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=9102401].levelList[level=1].name": {
-      "pl": "Have You No Shame?",
+      "pl": "Wstydu Nie Masz?",
       "kr_sha256": "7981b0a391880d2123c8c91da6a3de23429a00613d1ebc5dfa008a0b78c4c229",
       "en_sha256": "807634baea68b077c71eae5717299d72c4db3c752927a48fdeeaffc30f3b2997",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=9102402].levelList[level=1].name": {
-      "pl": "I See, You Have No Shame",
+      "pl": "Widzę, Wstydu Nie Masz",
       "kr_sha256": "60a2fef6c65e94a423a132c27697d947b78bc6216c24d28f62af589a2c1b47a0",
       "en_sha256": "ca6a2ca06ce4212bc54efc57f07a4d71d2e6887b54713d9b0393e4cf459c05a7",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=9102403].levelList[level=1].name": {
-      "pl": "Can You Protect Them?",
+      "pl": "Zdołasz Ich Chronić?",
       "kr_sha256": "80c6d69aac610f589b13e281ce7d81ac3313cfee2854b4609c3fd545337b8a01",
       "en_sha256": "b90b880af1e77f8846ff77b06a0eaa424c297e67af45ef9d7bb3f00399366384",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=9102404].levelList[level=1].name": {
-      "pl": "Can't Use That Weapon Now",
+      "pl": "Tej Broni Już Nie Użyjesz",
       "kr_sha256": "3026d53716f357baa7938e158852fa8753c30b4166884506e19ba04c7704c2b5",
       "en_sha256": "c6582bae0e8150f0db0042b57ec0465fdea4665b5da405cf7b294ce38089c376",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=9102405].levelList[level=1].name": {
-      "pl": "Ready For A Beating?",
+      "pl": "Gotowy na Bitę?",
       "kr_sha256": "7aa53cc98cea4317094e75043bb5e29aaafd7ddca4de21185f489a24de4494a4",
       "en_sha256": "3dcb87311807c891d09a688a14cc2adc8da397245c6f0b4c513a6f6a20bf3ae7",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=9102407].levelList[level=1].name": {
-      "pl": "For the Greater Good",
+      "pl": "Dla Większego Dobra",
       "kr_sha256": "a6d392b0dca6bbf0b229a42785a470ea8510ff4fe3120fc48f0d59fed764b1e0",
       "en_sha256": "5d47399888143817f5af1e68a6e6cf757b416f2d9262ff66365b963a3bcc40c7",
       "origin": "ai"

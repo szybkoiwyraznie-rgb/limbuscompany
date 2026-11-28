@@ -19,29 +19,35 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 60% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Wildstroke (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3) — id 9104301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2) — id 9104302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset (×2) — id 9104304
+##### Umiejętność: Wstawka (×2) — id 9104304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -67,29 +73,35 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 70% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Artwork Preparation (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104503
+##### Umiejętność: Wykończenie Dzieła — id 9104503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2) — id 9104504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -120,29 +132,35 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 60% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Wildstroke (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3) — id 9104301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2) — id 9104302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset (×2) — id 9104304
+##### Umiejętność: Wstawka (×2) — id 9104304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -168,29 +186,35 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 70% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Artwork Preparation (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104503
+##### Umiejętność: Wykończenie Dzieła — id 9104503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2) — id 9104504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -221,29 +245,35 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 60% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Wildstroke (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3) — id 9104301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2) — id 9104302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset (×2) — id 9104304
+##### Umiejętność: Wstawka (×2) — id 9104304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -269,29 +299,35 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 60% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Wildstroke (×3) — id 9104401
+##### Umiejętność: Dzikie Walicie (×3) — id 9104401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide (×2) — id 9104402
+##### Umiejętność: Szybki Dessin (×2) — id 9104402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104403
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset (×2) — id 9104404
+##### Umiejętność: Wstawka (×2) — id 9104404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -317,29 +353,35 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 70% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Artwork Preparation (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104503
+##### Umiejętność: Wykończenie Dzieła — id 9104503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2) — id 9104504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -366,29 +408,35 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 70% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Artwork Preparation (×3) — id 9104601
+##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression (×2) — id 9104602
+##### Umiejętność: Szybka Ekspresja (×2) — id 9104602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104603
+##### Umiejętność: Wykończenie Dzieła — id 9104603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework (×2) — id 9104604
+##### Umiejętność: Częściowa Korekta (×2) — id 9104604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -419,29 +467,35 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 60% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Wildstroke (×3) — id 9104301
+##### Umiejętność: Dzikie Walicie (×3) — id 9104301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide (×2) — id 9104302
+##### Umiejętność: Szybki Dessin (×2) — id 9104302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset (×2) — id 9104304
+##### Umiejętność: Wstawka (×2) — id 9104304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -467,29 +521,35 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 60% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Wildstroke (×3) — id 9104401
+##### Umiejętność: Dzikie Walicie (×3) — id 9104401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide (×2) — id 9104402
+##### Umiejętność: Szybki Dessin (×2) — id 9104402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104403
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset (×2) — id 9104404
+##### Umiejętność: Wstawka (×2) — id 9104404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -515,29 +575,35 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 70% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Artwork Preparation (×3) — id 9104501
+##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression (×2) — id 9104502
+##### Umiejętność: Szybka Ekspresja (×2) — id 9104502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104503
+##### Umiejętność: Wykończenie Dzieła — id 9104503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework (×2) — id 9104504
+##### Umiejętność: Częściowa Korekta (×2) — id 9104504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -564,29 +630,35 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 | Szybkość           | 2–4                                                                                                                               |
 | Sloty akcji        | start: 1 · maks. 3                                                                                                                |
 | Progi oszołomienia | 70% / 0%                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                    |
+| Typ paniki         | Gasnące Natchnienie                                                                                                               |
 | Odporności         | Obuch ×1,25; Żądza ×1,25; Lenistwo ×0,75 (Endured); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
-##### Umiejętność: Artwork Preparation (×3) — id 9104601
+##### Umiejętność: Przygotowanie Dzieła (×3) — id 9104601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression (×2) — id 9104602
+##### Umiejętność: Szybka Ekspresja (×2) — id 9104602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104603
+##### Umiejętność: Wykończenie Dzieła — id 9104603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework (×2) — id 9104604
+##### Umiejętność: Częściowa Korekta (×2) — id 9104604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -610,13 +682,19 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 *Wystąpienia: ×4 (poz. 58) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 70 (+2,41 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 70 (+2,41 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ryzyko Złamania Nakazu                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -633,19 +711,19 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 *Opis:* Część
 
-##### Umiejętność: Target Sighted — id 9103401
+##### Umiejętność: Cel Zauważony — id 9103401
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: To Where the Prescript Points — id 9103402
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Undertake Prescript — id 9103403
+##### Umiejętność: Wykonaj Z-zlecenie — id 9103403
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -673,13 +751,19 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Wystąpienia: ×4 (poz. 58) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 70 (+2,41 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 70 (+2,41 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ryzyko Złamania Nakazu                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -696,19 +780,19 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Opis:* Część
 
-##### Umiejętność: Target Sighted — id 9103501
+##### Umiejętność: Cel Zauważony — id 9103501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: To Where the Prescript Points — id 9103502
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Undertake Prescript — id 9103503
+##### Umiejętność: Wykonaj Z-zlecenie — id 9103503
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -740,13 +824,19 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Wystąpienia: ×5 (poz. 58) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 70 (+2,41 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 70 (+2,41 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ryzyko Złamania Nakazu                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -763,19 +853,19 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Opis:* Część
 
-##### Umiejętność: Target Sighted — id 9103401
+##### Umiejętność: Cel Zauważony — id 9103401
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: To Where the Prescript Points — id 9103402
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Undertake Prescript — id 9103403
+##### Umiejętność: Wykonaj Z-zlecenie — id 9103403
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -803,13 +893,19 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Wystąpienia: ×5 (poz. 58) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 70 (+2,41 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 70 (+2,41 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ryzyko Złamania Nakazu                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +20%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +10%
+**Efekt Paniki:** Zadawane obrażenia celowi [Cel Nakazu - Wskazujący] +30%
+Otrzymywane obrażenia od celów niebędących [Cel Nakazu - Wskazujący] +20%
 *Opis:* Prozelita The Index
 
 **Części (anatomia):**
@@ -826,19 +922,19 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Opis:* Część
 
-##### Umiejętność: Target Sighted — id 9103501
+##### Umiejętność: Cel Zauważony — id 9103501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: To Where the Prescript Points — id 9103502
+##### Umiejętność: Dokąd Wskazuje Z-zlecenie — id 9103502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Undertake Prescript — id 9103503
+##### Umiejętność: Wykonaj Z-zlecenie — id 9103503
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -870,13 +966,19 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 81 (+2,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 81 (+2,79 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Gasnące Natchnienie                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -893,25 +995,25 @@ przy trafieniu celu z [Cel Nakazu - Wskazujący], zyskuje 1 [Oddech] i nakłada 
 
 *Opis:* Część
 
-##### Umiejętność: Wildstroke — id 9104301
+##### Umiejętność: Dzikie Walicie — id 9104301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide — id 9104302
+##### Umiejętność: Szybki Dessin — id 9104302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104303
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset — id 9104304
+##### Umiejętność: Wstawka — id 9104304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -931,13 +1033,19 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 81 (+2,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 81 (+2,79 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Gasnące Natchnienie                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -954,25 +1062,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 *Opis:* Część
 
-##### Umiejętność: Wildstroke — id 9104401
+##### Umiejętność: Dzikie Walicie — id 9104401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Dessin Rapide — id 9104402
+##### Umiejętność: Szybki Dessin — id 9104402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Le Fauvisme - Paint and Unfurl — id 9104403
+##### Umiejętność: Le Fauvisme - Maluj i Rozwiń — id 9104403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Gusset — id 9104404
+##### Umiejętność: Wstawka — id 9104404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -992,13 +1100,19 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 64 (+2,21 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 64 (+2,21 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Gasnące Natchnienie                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -1015,25 +1129,25 @@ za każde nałożone 4 [Rwana Barwa [Rouge]] zyskuje 1 [Wzrost Mocy Ataku] w nas
 
 *Opis:* Część
 
-##### Umiejętność: Artwork Preparation — id 9104501
+##### Umiejętność: Przygotowanie Dzieła — id 9104501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression — id 9104502
+##### Umiejętność: Szybka Ekspresja — id 9104502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104503
+##### Umiejętność: Wykończenie Dzieła — id 9104503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework — id 9104504
+##### Umiejętność: Częściowa Korekta — id 9104504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1054,13 +1168,19 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 64 (+2,21 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 64 (+2,21 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Gasnące Natchnienie                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +10%
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Jeśli atakowany cel ma Rozszarpaną Barwę, zadawane obrażenia +20%
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fowistyczny Student
 
 **Części (anatomia):**
@@ -1077,25 +1197,25 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 *Opis:* Część
 
-##### Umiejętność: Artwork Preparation — id 9104601
+##### Umiejętność: Przygotowanie Dzieła — id 9104601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Brisk Expression — id 9104602
+##### Umiejętność: Szybka Ekspresja — id 9104602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Finishing Touch — id 9104603
+##### Umiejętność: Wykończenie Dzieła — id 9104603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Partial Rework — id 9104604
+##### Umiejętność: Częściowa Korekta — id 9104604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1116,13 +1236,19 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 
 *Wystąpienia: ×1 (poz. 66).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 480 (+29,81 za poziom) |
-| Sloty akcji | start: 3 · maks. 7     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 480 (+29,81 za poziom)                         |
+| Sloty akcji  | start: 3 · maks. 7                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Coloriage Impulsif                             |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Zadawane obrażenia +2,5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 15%)
+- Zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - Zadawane obrażenia +5% za każdy rodzaj efektu negatywnego na atakowanym celu (maks. 30%)
+- Zyskaj 2 [Wrażliwość]
 *Opis:* Fauvist Docent
 
 **Części (anatomia):**
@@ -1162,3 +1288,5 @@ za każde nałożone 4 [Rwana Barwa [Bleu]] zyskuje 1 [Pośpiech] w następnej t
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak

@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=857102].levelList[level=1].name": {
-      "pl": "Scorn Not the Prophecy",
+      "pl": "Nie Pogardzaj Przepowiednią",
       "kr_sha256": "128b989cb019c481ab5625033a605398c916a270a17f7c9bd52a976d0aee7124",
       "en_sha256": "610f5d3d76a789f7b30031e9c0fdf0007cbeecc74c370a2c8a6bd862418469d3",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=857701].levelList[level=1].name": {
-      "pl": "Flame Strike",
+      "pl": "Uderzenie Ogniem",
       "kr_sha256": "b0a74d8ba19c9da26e788bc9260a4b37bf33849bfc6483584efb8ddd1c06bf2e",
       "en_sha256": "5a00094785687f0258a0624d2725165daa71f267fc0605ad10b0c33dc657f168",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=857702].levelList[level=1].name": {
-      "pl": "Ardor Blossom Pinions",
+      "pl": "Skrzydła Rozżarzenia",
       "kr_sha256": "b9ea580b8d55d2513544c7aaab392ce8b3f1b9f9517d953cb446f7b5cac84204",
       "en_sha256": "7e03be260d77b3327d9c65008f62528a845d75c036d50de53e041cd518242be0",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=857704].levelList[level=1].name": {
-      "pl": "Dust Explosion",
+      "pl": "Wybuch Pyłu",
       "kr_sha256": "5e4d1716090d9c73dea340b2cdd32be6b0f162c05a4763bccb150d446b97f61d",
       "en_sha256": "e2d4e698a7218c2659a7781aefd76eaf35c682772350bd80ee74d754fc57b627",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=857712].levelList[level=1].name": {
-      "pl": "Stoke the Flames",
+      "pl": "Rozdmuchanie Płomieni",
       "kr_sha256": "8dd46e15f1afaea7fba8f2306c8f12c8a6c879c24671c89a62aef7f14f9104da",
       "en_sha256": "efbd16f9756b85a56ac00b47f18887da836742d9a78d122ad370fae6dc91f514",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=857801].levelList[level=1].name": {
-      "pl": "Gossypium Planting",
+      "pl": "Sadzenie Bawełny",
       "kr_sha256": "320c0de8128687e6d6d5ad8ccd4017f3e6f33e99f0d1c089a6f4111e87db8b46",
       "en_sha256": "df02d83a0e6cc80b169711c5b6785c32475f2dfe93279da92bb9f6e836ee673e",
       "origin": "ai"
@@ -265,7 +265,7 @@
       "origin": "ai"
     },
     "dataList[id=857802].levelList[level=1].name": {
-      "pl": "Wound Planting",
+      "pl": "Zasianie Rany",
       "kr_sha256": "fe840a7cdc7080cbadc95154168fb3117073184ce74ade7438f2190f1e392bdd",
       "en_sha256": "287ed0a76c94489ebcbfb6f375892cbf9e50e93af2ca70b329cf6cf6983b5e76",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=857803].levelList[level=1].name": {
-      "pl": "Draining Roots",
+      "pl": "Ssące Korzenie",
       "kr_sha256": "82638290755668069a30fc5a04365c3ed091de1d912a1e8b7a941cb7fb68537d",
       "en_sha256": "945c2dfc62f2a5594ddc6908f89c11c990e3b6685c86c861b02bcd8d5c6c7cef",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=857806].levelList[level=1].name": {
-      "pl": "Scattering Wind",
+      "pl": "Rozwiany Wiatr",
       "kr_sha256": "f2813fec08fef1b0c7c8b9598e509c9068bb40e81d8ba7f92173e6e525bb79b9",
       "en_sha256": "de566d58e6ed97adb9385a3af101e064e4d05b6888b4aafc2d8b7b9c7a571755",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=858201].levelList[level=1].name": {
-      "pl": "Insidious Pallidification",
+      "pl": "Skradające się Pobladienie",
       "kr_sha256": "e151f066fe2e6dc2edacc842204fbb0c490f57101c6dcbfa29150761284c4504",
       "en_sha256": "32a02e441a2757122aff919a853f84e07c9759c71b815a0e728e9839f7d4e625",
       "origin": "ai"

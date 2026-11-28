@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=9101905].levelList[level=1].name": {
-      "pl": "Sky-clearing Cut",
+      "pl": "Przecinak Rozpogadzający",
       "kr_sha256": "1017fad801715cdd5e9d73ae653fd4fdb9f10f0329cb8b8ce072b1a4997ca4a9",
       "en_sha256": "82e1f04cf78ff4599ecb21ad4d4546762044f0a1afebeaf71251b35c3fedf37b",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=9101906].levelList[level=1].name": {
-      "pl": "Rules of the Backstreets",
+      "pl": "Zasady Zauloków",
       "kr_sha256": "80338be937cf992b54f97c21d67ce924e03a25b8b8ffe98b628db00fb6c66b92",
       "en_sha256": "33b52b90ae92641f39bb48b11f46d5e9c6a1eba7e9bb0ec8b3466681b48c55d5",
       "origin": "ai"

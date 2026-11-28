@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=950101].levelList[level=1].name": {
-      "pl": "Sweep",
+      "pl": "Zmiatanie",
       "kr_sha256": "ca8cf812938caa57e312d5dc0cf8c9082efdcabef9827079fd4d9c4b5be477f9",
       "en_sha256": "310b02ef1be9f84e6ddabdbe096fe331dc45ddd412cdb247681c366be84fb97e",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=950102].levelList[level=1].name": {
-      "pl": "Multi-block",
+      "pl": "Blok Seryjny",
       "kr_sha256": "1076039b2b19686dfa8c8100b4a2b198590c17967082c38119d884d845ace13d",
       "en_sha256": "bbff5e75ccce81a97e734ed8cc25ce158e0e8e4b9d12ec481899df2bf5bf72f5",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=950201].levelList[level=1].name": {
-      "pl": "Stab",
+      "pl": "Pchnięcie",
       "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
       "en_sha256": "289a9c9cffb746ba9e0b6dbd10fc984da5cf6b3cb08f9c3c062baf162cc1cf25",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=950202].levelList[level=1].name": {
-      "pl": "Quick Jabs",
+      "pl": "Seria Pchnięć",
       "kr_sha256": "a28b69aaa9d0e5fbf606519668d43eb16684c6ff9529a82e80dc265ed01370df",
       "en_sha256": "2b7a4c74d12d116bf615ee1da61517f6af3c108fc70f565d8b38c32ee6ad7679",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=950301].levelList[level=1].name": {
-      "pl": "Swipe",
+      "pl": "Zamach",
       "kr_sha256": "c5d3f21f0f1beead9048b00dfbb63f79982ac3122d73bf55638b89add50411eb",
       "en_sha256": "3f275d858425700456cc0acbc2c3ee28a7ac38148288438596f9a3d0115048a0",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=950302].levelList[level=1].name": {
-      "pl": "Slice",
+      "pl": "Rozcięcie",
       "kr_sha256": "ed8c4301cb5e0ca439e377eed4bd9f4201c6574e6e0c580dbe7ec8d5e67cb383",
       "en_sha256": "87bd786502645b41722cc9421c3b8b79c1a64b1ab6e44eb856cdf1c1efc54b1d",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=950401].levelList[level=1].name": {
-      "pl": "Crier",
+      "pl": "Rozdźwięk",
       "kr_sha256": "a78f4e48db67505236a0f07776052c6bf72c467c932ad320a7deab01602436f1",
       "en_sha256": "b92df747d2ec6b0b9d1838614d07a6d3c8d90d60b9685a9c75e39b4e52dfb472",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=950402].levelList[level=1].name": {
-      "pl": "Rampart Command",
+      "pl": "Rozkaz Obrony",
       "kr_sha256": "8b948a7dc99222ff7288a138b1122e0af5e62f168c4fa703bcdccb63520f4703",
       "en_sha256": "be8cca536716dd2c023ff9351b32ebb100509049aac606a77ad9b3510f565a59",
       "origin": "ai"
@@ -175,13 +175,13 @@
       "origin": "ai"
     },
     "dataList[id=950403].levelList[level=1].name": {
-      "pl": "Onslaught Command",
+      "pl": "Rozkaz Natarcia",
       "kr_sha256": "4f0bf9f1c509b2ca45dd23a6ffca3a31217f52e721fb705e6c09b28c67ed3052",
       "en_sha256": "ed0f27d654127f2e18f69a4d31d95bb95694180e5398f42d208a72381575e1d9",
       "origin": "ai"
     },
     "dataList[id=950404].levelList[level=1].name": {
-      "pl": "Harden",
+      "pl": "Wytrzymałość",
       "kr_sha256": "237649b87dd9b0684b119a01bd6bd9078f0feb082e53b7bae47b7584e7c88de1",
       "en_sha256": "949dbd463e0447f4d2a4e139a0ba8ab3732bc2a193287d9e6653d182180f1c78",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=950501].levelList[level=1].name": {
-      "pl": "Danza de Paz",
+      "pl": "Taniec Pokoju",
       "kr_sha256": "a9f44e87dc7a189eb3394085d6a154fcdc072ed10be993103a5bc5a01b5d17f5",
       "en_sha256": "54684fd5170b3bf440dae5baa0b436828dc2779189767f6540fc1a617b6b17ef",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=950503].levelList[level=1].name": {
-      "pl": "Duelo de Baile",
+      "pl": "Pojedynek Taneczny",
       "kr_sha256": "ce5cd4694ba906344eb5f57f57ca6d5b2ec83796c599df0f43a102b18ace5bad",
       "en_sha256": "00a88b166f5b819e65e83c5a2a2164a1356f1bfc8f7b163c5def4679b21e9aae",
       "origin": "ai"
@@ -265,7 +265,7 @@
       "origin": "ai"
     },
     "dataList[id=950504].levelList[level=1].name": {
-      "pl": "Puñales Joviales",
+      "pl": "Wesołe Pchnięcia",
       "kr_sha256": "5a08a91c28d47915a470f5841ebad3da46749142e1c56c9771e018c18e6cab74",
       "en_sha256": "c22e7848c22da0e9c653179bc7ac64635e18771df7d78146f5df383be65d2e6d",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=950601].levelList[level=1].name": {
-      "pl": "Danza de Emoción",
+      "pl": "Taniec Namiętności",
       "kr_sha256": "924e98027292a0930a4324605dde39a019ee8139db5ecb563b7dc3c928d2d011",
       "en_sha256": "2d10b63e0b13e0a3d9dfc8a1a98084f22fe2a9aa4731edf9d964d067ebbe054a",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=950602].levelList[level=1].name": {
-      "pl": "Duelo de Baile",
+      "pl": "Pojedynek Taneczny",
       "kr_sha256": "ce5cd4694ba906344eb5f57f57ca6d5b2ec83796c599df0f43a102b18ace5bad",
       "en_sha256": "00a88b166f5b819e65e83c5a2a2164a1356f1bfc8f7b163c5def4679b21e9aae",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=950603].levelList[level=1].name": {
-      "pl": "Puñales Joviales",
+      "pl": "Wesołe Pchnięcia",
       "kr_sha256": "5a08a91c28d47915a470f5841ebad3da46749142e1c56c9771e018c18e6cab74",
       "en_sha256": "c22e7848c22da0e9c653179bc7ac64635e18771df7d78146f5df383be65d2e6d",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=950701].levelList[level=1].name": {
-      "pl": "Gruesome Welcome",
+      "pl": "Krwawe Powitanie",
       "kr_sha256": "f4383f92752712bb28dff1fc9704175e4786425810cdba91b1d9b3a4500084b9",
       "en_sha256": "d0a584a6d61edb2e3df267443a1429c148ab3545111189bf83a360855b4e6665",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=950704].levelList[level=1].name": {
-      "pl": "Ey!",
+      "pl": "No!",
       "kr_sha256": "80ff1f72eefe59c08cab46bbf1a6d8140369fe672bac65a0870fbda5c10eeee0",
       "en_sha256": "881c78fac2b7ed9637a491cf2a13665f5251aeda7e3c7653bf890c63f4a17f4a",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=950801].levelList[level=1].name": {
-      "pl": "Gruesome Welcome",
+      "pl": "Krwawe Powitanie",
       "kr_sha256": "f4383f92752712bb28dff1fc9704175e4786425810cdba91b1d9b3a4500084b9",
       "en_sha256": "d0a584a6d61edb2e3df267443a1429c148ab3545111189bf83a360855b4e6665",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=950804].levelList[level=1].name": {
-      "pl": "Ey!",
+      "pl": "No!",
       "kr_sha256": "80ff1f72eefe59c08cab46bbf1a6d8140369fe672bac65a0870fbda5c10eeee0",
       "en_sha256": "881c78fac2b7ed9637a491cf2a13665f5251aeda7e3c7653bf890c63f4a17f4a",
       "origin": "ai"
@@ -511,7 +511,7 @@
       "origin": "ai"
     },
     "dataList[id=950901].levelList[level=1].name": {
-      "pl": "Puñales Joviales",
+      "pl": "Wesołe Pchnięcia",
       "kr_sha256": "5a08a91c28d47915a470f5841ebad3da46749142e1c56c9771e018c18e6cab74",
       "en_sha256": "c22e7848c22da0e9c653179bc7ac64635e18771df7d78146f5df383be65d2e6d",
       "origin": "ai"
@@ -529,7 +529,7 @@
       "origin": "ai"
     },
     "dataList[id=950902].levelList[level=1].name": {
-      "pl": "¿Eso es todo?",
+      "pl": "To Wszystko, Co Masz?",
       "kr_sha256": "112b99349e15ab5e86a9ffd397a173d1bca681171b2097ab93a5aa6479569605",
       "en_sha256": "605efed49199dc957992d0ecafb213846cac0cb4dd50a2a62134aecb8dc41b7c",
       "origin": "ai"
@@ -559,7 +559,7 @@
       "origin": "ai"
     },
     "dataList[id=950904].levelList[level=1].name": {
-      "pl": "¡Bruscamente!",
+      "pl": "Ostro!",
       "kr_sha256": "d39a7f3de62551446d6fbb3d9ce1c122464c6ba326cff2ccaca348db8487bd70",
       "en_sha256": "bcd5ec107f72047150ee7c00ba742c98094a738d868c90d052b6b06a1861693c",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=950905].levelList[level=1].name": {
-      "pl": "Rápidamente~",
+      "pl": "Zwinnie~",
       "kr_sha256": "57c3ebdec28ee7fd029223bbf16709cc32ac4dd0d3d3d8ebb5c52c29f4b2779c",
       "en_sha256": "70bfde9d064cf0c0799f0b57a95b385d74e4960c0a563ce7a87d8e4459ece185",
       "origin": "ai"
@@ -661,7 +661,7 @@
       "origin": "ai"
     },
     "dataList[id=951001].levelList[level=1].name": {
-      "pl": "Crying Slap",
+      "pl": "Klaps Płaczu",
       "kr_sha256": "d66e9022063a35a61e699dad38e7b48f0423f20a15782c22e3464d920081fe28",
       "en_sha256": "7de4bf2bf82166d70ac5b4312818bce89a114ab659a7dd626dee6eafb2d53374",
       "origin": "ai"
@@ -679,7 +679,7 @@
       "origin": "ai"
     },
     "dataList[id=951002].levelList[level=1].name": {
-      "pl": "Gloomy Slap",
+      "pl": "Posępne Klaskanie",
       "kr_sha256": "6f43340b092c58a876c542a8f915a9c8641693f665ae47fed8b33e721e53c97b",
       "en_sha256": "4fcd9baf4ca526dbab7669971ea6500e596e0abdf42ef4b1c90a64cae4b9d819",
       "origin": "ai"
@@ -703,7 +703,7 @@
       "origin": "ai"
     },
     "dataList[id=951003].levelList[level=1].name": {
-      "pl": "Melty Eyeball",
+      "pl": "Rozpływająca się Gałka Oczowa",
       "kr_sha256": "484f4b89259ab231cfa893b9fc60809869735933d554ea7d64da0fbf6d17b3a9",
       "en_sha256": "181505fdc3c4818d8399d87fb73a0a3dbb29d9376359ba8c8c48428c49cfc83c",
       "origin": "ai"
@@ -733,7 +733,7 @@
       "origin": "ai"
     },
     "dataList[id=951004].levelList[level=1].name": {
-      "pl": "Gushing Gloom",
+      "pl": "Nawał Posępności",
       "kr_sha256": "76bd82c58ab23277bc45ec321f9597360e361176f5cb21b86a167aacbd5b796f",
       "en_sha256": "a8890096ad704c3848bcd0d5dd387a5509a5ad515468bb4a5100c466546c5e87",
       "origin": "ai"
@@ -751,7 +751,7 @@
       "origin": "ai"
     },
     "dataList[id=951005].levelList[level=1].name": {
-      "pl": "Eyeball Weight",
+      "pl": "Ciężarek Gałki Oczowej",
       "kr_sha256": "3bd07f7c9c1bc9198bdd5dbd611827e9906cf1b25c52d5a21efb8f1a9e203c73",
       "en_sha256": "af25df2331376ad761cf84b69302db362124bf6fdacbab26156a30725827dc2a",
       "origin": "ai"
@@ -775,7 +775,7 @@
       "origin": "ai"
     },
     "dataList[id=951101].levelList[level=1].name": {
-      "pl": "Plunge In",
+      "pl": "Wbicie",
       "kr_sha256": "92fb0c209941b125efdc8142ff948181404c0f26cc12e0e075020c4003d28f59",
       "en_sha256": "fdbcce10bb64e78278fa01ea32ceef3c85079a4356ad7861441ef199eca1252f",
       "origin": "ai"
@@ -799,7 +799,7 @@
       "origin": "ai"
     },
     "dataList[id=951102].levelList[level=1].name": {
-      "pl": "Nail Pin",
+      "pl": "Gwoździowanie",
       "kr_sha256": "ff0257aa42237d68ffb9dedc7ac77f35c43c457c216e9b22e815fb561c189d8e",
       "en_sha256": "6ebfea31331e5cf5ed53d52ddc1d53e891274728743e1fd23c60c71fd9a6bc75",
       "origin": "ai"
@@ -817,7 +817,7 @@
       "origin": "ai"
     },
     "dataList[id=951103].levelList[level=1].name": {
-      "pl": "Inquisition",
+      "pl": "Inkwizycja",
       "kr_sha256": "8e20f1b86fe8c55e8193b852d98822a109ebfce09f763b47317daa7622ea95b9",
       "en_sha256": "b7b1c329fdeaea2589eb94bac99886416a02a6557d2832c2ed269e95473fd6bb",
       "origin": "ai"
@@ -829,7 +829,7 @@
       "origin": "ai"
     },
     "dataList[id=951201].levelList[level=1].name": {
-      "pl": "Knock",
+      "pl": "Stukanie",
       "kr_sha256": "a43a17947ffcf5da81a712fe3bd860c1922f8c17e32b4042bd3420108d42ecc3",
       "en_sha256": "61622162cdb3f20833b7dafb006f1257bd7c4698e480b395cdc2c09e71d4997e",
       "origin": "ai"
@@ -847,7 +847,7 @@
       "origin": "ai"
     },
     "dataList[id=951202].levelList[level=1].name": {
-      "pl": "Hammer",
+      "pl": "Młotowanie",
       "kr_sha256": "126e363167a58f5ef7834367c702b12618638f95e8b4d7c065dfcaa7911632db",
       "en_sha256": "c157cbf647f56e730a083e3cfd4de511b593e9f0e665b0b81fed4815137358ce",
       "origin": "ai"
@@ -865,7 +865,7 @@
       "origin": "ai"
     },
     "dataList[id=951203].levelList[level=1].name": {
-      "pl": "Inquisition",
+      "pl": "Inkwizycja",
       "kr_sha256": "8e20f1b86fe8c55e8193b852d98822a109ebfce09f763b47317daa7622ea95b9",
       "en_sha256": "b7b1c329fdeaea2589eb94bac99886416a02a6557d2832c2ed269e95473fd6bb",
       "origin": "ai"
@@ -889,7 +889,7 @@
       "origin": "ai"
     },
     "dataList[id=951301].levelList[level=1].name": {
-      "pl": "Rough Nailing",
+      "pl": "Surowe Gwoździowanie",
       "kr_sha256": "e9ee6c75e157a3f3f7eb5d32e249238d75e0430c99b8ed654a5b5ee953273bba",
       "en_sha256": "e60819d5bc6f18ccaca0a651c19f31da2836041dd865a06861fc1ba01f3d954e",
       "origin": "ai"
@@ -901,7 +901,7 @@
       "origin": "ai"
     },
     "dataList[id=951302].levelList[level=1].name": {
-      "pl": "You dare!",
+      "pl": "Jak śmiesz!",
       "kr_sha256": "b4de2636b5ac86578fd669681268845a663803fa1cddde29b0b950e88f3d1fba",
       "en_sha256": "77c3a11dc30bab04b2b0c5a3f5c1a3bbd4e46e8db173af922597e368f85bdf05",
       "origin": "ai"
@@ -919,7 +919,7 @@
       "origin": "ai"
     },
     "dataList[id=951303].levelList[level=1].name": {
-      "pl": "Aggressive Preaching",
+      "pl": "Agresywne Kazanie",
       "kr_sha256": "22d1b89079a4038350d2efce7b7e41a73dc038a3809e495762112fb3eae995f4",
       "en_sha256": "4b08612e5f1b9089501404eefd33a83e262a8b9c6b9f4d400a31daf2d6d39ec4",
       "origin": "ai"
@@ -937,7 +937,7 @@
       "origin": "ai"
     },
     "dataList[id=951304].levelList[level=1].name": {
-      "pl": "Assertive Inquisition",
+      "pl": "Bezwzględna Inkwizycja",
       "kr_sha256": "859e3e2fc0251ee54c72e4716b9cf41b236f444639d7fd5687b1bce7c5806c41",
       "en_sha256": "c948e7d6be3970319642c42796e601b75664e0a77bf72cc2b37037bc4da15776",
       "origin": "ai"
@@ -949,7 +949,7 @@
       "origin": "ai"
     },
     "dataList[id=951401].levelList[level=1].name": {
-      "pl": "Vigorous Hammering",
+      "pl": "Zamaszyste Młotowanie",
       "kr_sha256": "820a8c27edc9668f729d160faa59d2d4a7310a158b9659757a34bb9349c69f51",
       "en_sha256": "27c7f471ca23e5a83525d5e46b3c5bffc07cbe507593472c1b4cc744b3e60fd4",
       "origin": "ai"
@@ -961,7 +961,7 @@
       "origin": "ai"
     },
     "dataList[id=951402].levelList[level=1].name": {
-      "pl": "You dare!",
+      "pl": "Jak śmiesz!",
       "kr_sha256": "b4de2636b5ac86578fd669681268845a663803fa1cddde29b0b950e88f3d1fba",
       "en_sha256": "77c3a11dc30bab04b2b0c5a3f5c1a3bbd4e46e8db173af922597e368f85bdf05",
       "origin": "ai"
@@ -979,7 +979,7 @@
       "origin": "ai"
     },
     "dataList[id=951403].levelList[level=1].name": {
-      "pl": "Oppressive Preaching",
+      "pl": "Przytłaczające Kazanie",
       "kr_sha256": "c8e9348efa660d23d2923697a01d7a957fc6f4b885ad85c831f6fb4046444947",
       "en_sha256": "d22d2a5daa1a57d2c266b5ea57857be6128ce712985380a6626fff5dd7956b5f",
       "origin": "ai"
@@ -997,7 +997,7 @@
       "origin": "ai"
     },
     "dataList[id=951404].levelList[level=1].name": {
-      "pl": "Assertive Inquisition",
+      "pl": "Bezwzględna Inkwizycja",
       "kr_sha256": "859e3e2fc0251ee54c72e4716b9cf41b236f444639d7fd5687b1bce7c5806c41",
       "en_sha256": "c948e7d6be3970319642c42796e601b75664e0a77bf72cc2b37037bc4da15776",
       "origin": "ai"
@@ -1015,7 +1015,7 @@
       "origin": "ai"
     },
     "dataList[id=951501].levelList[level=1].name": {
-      "pl": "Thrusting Nail",
+      "pl": "Przebijający Gwóźdź",
       "kr_sha256": "f87cd1c3586218441bc3106f2c7d0ea5fb215ca242a73371697065d3d41663d6",
       "en_sha256": "4dcfb366a650cccfdfa0d468e7df7b20de172db74ce9afe8ab703acfed2c305e",
       "origin": "ai"
@@ -1027,7 +1027,7 @@
       "origin": "ai"
     },
     "dataList[id=951502].levelList[level=1].name": {
-      "pl": "Hardy Faith",
+      "pl": "Twarda Wiara",
       "kr_sha256": "7b822cc666fe1b11c8838ac0b0cde6430759fbec0e06ff80a83eda7ebef5ce5e",
       "en_sha256": "6ad89a716d3b3eaecb70b02d43b9f20e5b0cafbe876f75768e9b5bca06039ab4",
       "origin": "ai"
@@ -1045,7 +1045,7 @@
       "origin": "ai"
     },
     "dataList[id=951503].levelList[level=1].name": {
-      "pl": "Congregate",
+      "pl": "Zbiórka",
       "kr_sha256": "48eb5e6ac1a71af6ae23eb69abedd5f2a096d40bda10a98d9704edaf3bc68c52",
       "en_sha256": "56cd90fd5554f342df2664bdb2501c41ef1ff696d8f362d7a1dd8ffb6de8f321",
       "origin": "ai"
@@ -1063,7 +1063,7 @@
       "origin": "ai"
     },
     "dataList[id=951504].levelList[level=1].name": {
-      "pl": "Ponderous Inquisition",
+      "pl": "Masywna Inkwizycja",
       "kr_sha256": "eef69192dc545b713f26eda78db3ff3d07532fbba89acbcfbfc053d89794db4d",
       "en_sha256": "6d1b826b8238e5ffef286e36868a8bb269015d5a332abb38159371cd3a19d0a1",
       "origin": "ai"
@@ -1081,7 +1081,7 @@
       "origin": "ai"
     },
     "dataList[id=951601].levelList[level=1].name": {
-      "pl": "Ruling Hammer",
+      "pl": "Panujący Młot",
       "kr_sha256": "3bc75ed041a322c67cbafb19ae4d16788d76bcf773717fd4079f2742e39f0e10",
       "en_sha256": "7f574dec5b2083fb1d39363d0db08d2f85e39ede2ee5cb51e5a53f194bd71b89",
       "origin": "ai"
@@ -1093,7 +1093,7 @@
       "origin": "ai"
     },
     "dataList[id=951602].levelList[level=1].name": {
-      "pl": "Hardy Faith",
+      "pl": "Twarda Wiara",
       "kr_sha256": "7b822cc666fe1b11c8838ac0b0cde6430759fbec0e06ff80a83eda7ebef5ce5e",
       "en_sha256": "6ad89a716d3b3eaecb70b02d43b9f20e5b0cafbe876f75768e9b5bca06039ab4",
       "origin": "ai"
@@ -1111,7 +1111,7 @@
       "origin": "ai"
     },
     "dataList[id=951603].levelList[level=1].name": {
-      "pl": "Congregate",
+      "pl": "Zbiórka",
       "kr_sha256": "48eb5e6ac1a71af6ae23eb69abedd5f2a096d40bda10a98d9704edaf3bc68c52",
       "en_sha256": "56cd90fd5554f342df2664bdb2501c41ef1ff696d8f362d7a1dd8ffb6de8f321",
       "origin": "ai"
@@ -1129,7 +1129,7 @@
       "origin": "ai"
     },
     "dataList[id=951604].levelList[level=1].name": {
-      "pl": "Ponderous Inquisition",
+      "pl": "Masywna Inkwizycja",
       "kr_sha256": "eef69192dc545b713f26eda78db3ff3d07532fbba89acbcfbfc053d89794db4d",
       "en_sha256": "6d1b826b8238e5ffef286e36868a8bb269015d5a332abb38159371cd3a19d0a1",
       "origin": "ai"
@@ -1159,7 +1159,7 @@
       "origin": "ai"
     },
     "dataList[id=951701].levelList[level=1].name": {
-      "pl": "Spike Drive",
+      "pl": "Wbicie Gwoździ",
       "kr_sha256": "bae3b3b169eb335bb0876a9929010a9d1a5c8237b9aab7bc04c4581869b81d20",
       "en_sha256": "e850f8e68a9a9a1621b183e3d9b80004a3ca4b24fe74735be4ca105f947d64ce",
       "origin": "ai"
@@ -1177,7 +1177,7 @@
       "origin": "ai"
     },
     "dataList[id=951702].levelList[level=1].name": {
-      "pl": "Drive",
+      "pl": "Pchnięcie",
       "kr_sha256": "4a3517d75ea24d32b92683c4ce30b9aefdaab0d25efa10a0277d55e0a7f0653c",
       "en_sha256": "6312b4b9baf12770fd7dc7307169bfa3676fbec14485abe37264952d8502645e",
       "origin": "ai"
@@ -1189,7 +1189,7 @@
       "origin": "ai"
     },
     "dataList[id=951703].levelList[level=1].name": {
-      "pl": "Stalwart Faith",
+      "pl": "Niezłomna Wiara",
       "kr_sha256": "103e118a2d04403c8bb1eab47988d8119ae30f0f760d99329b0ec7cd33b75361",
       "en_sha256": "ba284df0578d5e9c3279c22e09d2bb3ce2544a3af69424554a46da8491d44f4d",
       "origin": "ai"
@@ -1207,7 +1207,7 @@
       "origin": "ai"
     },
     "dataList[id=951704].levelList[level=1].name": {
-      "pl": "The Great Task Will Be Done…!",
+      "pl": "Wielkie Dzieło Zostanie Spełnione…!",
       "kr_sha256": "769355c398b2f22901639c533e038849f58ad5271a15d68951ac268317618fdd",
       "en_sha256": "72abf7ffedb2397e54693d7a0827f809498561e7e94ff2864862aaf39d1ae7b3",
       "origin": "ai"
@@ -1231,7 +1231,7 @@
       "origin": "ai"
     },
     "dataList[id=951705].levelList[level=1].name": {
-      "pl": "Be Cleansed… of Sin!",
+      "pl": "Oczyść Się… z Grzechu!",
       "kr_sha256": "6318f8c285f40d9f46d0b86380f88b18434cbafdb11073851c8e25beb0b3cf9d",
       "en_sha256": "ec430a586edbda4a5ecfe7f58d6f3f88f9552fcccd4776cb96a05515cd5c2222",
       "origin": "ai"
@@ -1255,7 +1255,7 @@
       "origin": "ai"
     },
     "dataList[id=951706].levelList[level=1].name": {
-      "pl": "Annihilate Heretics",
+      "pl": "Zagłada Heretyków",
       "kr_sha256": "40d60debd5006d885252e7608f68947627ad07950362ae09336f5cf3ec6bf105",
       "en_sha256": "65854d1b84ff221dfd0bbe6485a5981ef2b851bddcbf13da9674f79d17a5d712",
       "origin": "ai"
@@ -1273,7 +1273,7 @@
       "origin": "ai"
     },
     "dataList[id=951801].levelList[level=1].name": {
-      "pl": "Claw",
+      "pl": "Clawing",
       "kr_sha256": "fe4c2368deea2d3541b55d393ed4a3c2102ea5b2f15f1c6a54995d3b3ee34dc8",
       "en_sha256": "587cfbbbcd42a71ba7f33f8051d5c354707fa1ff227cab11452c3ba2147a8682",
       "origin": "ai"
@@ -1291,7 +1291,7 @@
       "origin": "ai"
     },
     "dataList[id=951802].levelList[level=1].name": {
-      "pl": "Constant Voltage",
+      "pl": "Stałe Napięcie",
       "kr_sha256": "d641643d622be8ef26780262a08a88746729ec1e365a4f50e4b394d2e8da5122",
       "en_sha256": "e9bcbc8f68a717299820d535975d79ad4b2d81cd50b1213d45a95c288bc68da9",
       "origin": "ai"
@@ -1315,7 +1315,7 @@
       "origin": "ai"
     },
     "dataList[id=951803].levelList[level=1].name": {
-      "pl": "Electromotive Pursuit",
+      "pl": "Elektromotoryczny Pościg",
       "kr_sha256": "e6e3c1eec2b55ad04cd195441b52959a0747a880a319d7145b57862a78f855eb",
       "en_sha256": "078590f9026b057bb7adbba0c74d9ab9f7906e315f822c0fc4420da759174bf7",
       "origin": "ai"
@@ -1351,7 +1351,7 @@
       "origin": "ai"
     },
     "dataList[id=951804].levelList[level=1].name": {
-      "pl": "Howl",
+      "pl": "Wyj",
       "kr_sha256": "ecf4534eb96abb690be8346af913ca00046bd328804e326e11b08101258537b8",
       "en_sha256": "7d61692bb448a6de4af39c8222f21dff0942cba53694b15c795b93fa25172321",
       "origin": "ai"
@@ -1381,7 +1381,7 @@
       "origin": "ai"
     },
     "dataList[id=951805].levelList[level=1].name": {
-      "pl": "Electrified Howl",
+      "pl": "Zelektryfikowany Wyj",
       "kr_sha256": "1b51c094be60becba14d598108a92ee7880514ab7f09c3741a11f8e616973ec9",
       "en_sha256": "dad6de9ec558dde5a3bfe130cfc3bd222467248354d77885e7ab7d3ea8711704",
       "origin": "ai"
@@ -1399,7 +1399,7 @@
       "origin": "ai"
     },
     "dataList[id=951806].levelList[level=1].name": {
-      "pl": "Lightning Rod",
+      "pl": "Piorunochron",
       "kr_sha256": "27d465063232a608d3acae920052946de5c4128135cd956476c204e7c0e86dc1",
       "en_sha256": "5d907e09f9c22fec429d7e0e83ddf443cd4f6d0204328c3d7203456032a48dab",
       "origin": "ai"
@@ -1423,7 +1423,7 @@
       "origin": "ai"
     },
     "dataList[id=951807].levelList[level=1].name": {
-      "pl": "Red Bolts",
+      "pl": "Czerwone Pociski",
       "kr_sha256": "8bc9b7a77c2f2bc9ccb8cb74b0d235b3798b79664959b9df9573ee962066e7f8",
       "en_sha256": "db3d6c8d4580a48c4b6d3aa596399c183a478a401d41fac32c1e0529fa5111e3",
       "origin": "ai"
@@ -1453,7 +1453,7 @@
       "origin": "ai"
     },
     "dataList[id=951808].levelList[level=1].name": {
-      "pl": "Howl",
+      "pl": "Wyj",
       "kr_sha256": "ecf4534eb96abb690be8346af913ca00046bd328804e326e11b08101258537b8",
       "en_sha256": "7d61692bb448a6de4af39c8222f21dff0942cba53694b15c795b93fa25172321",
       "origin": "ai"
@@ -1465,7 +1465,7 @@
       "origin": "ai"
     },
     "dataList[id=951901].levelList[level=1].name": {
-      "pl": "Booting Town Tour",
+      "pl": "Start Wycieczki po Miasteczku",
       "kr_sha256": "9c3d03d04c01a9ff94e8a25f452134d382463747df81cac11e10914e3ed6e210",
       "en_sha256": "2cac27ec8867f294ea9972e6dcad0f2a7ccdedde5921b0c990701bf1c64b0e7e",
       "origin": "ai"
@@ -1477,7 +1477,7 @@
       "origin": "ai"
     },
     "dataList[id=951902].levelList[level=1].name": {
-      "pl": "Welcome to the Tour",
+      "pl": "Witamy na Wycieczce",
       "kr_sha256": "219d867648d08184cee11425418535b33c7d7cb8880ea540e7efaf73f6d82a89",
       "en_sha256": "22c8cfb7550fcf7b866de412ec502be1975e8d23ba5becf8f9c204a53b43ba0a",
       "origin": "ai"
@@ -1495,7 +1495,7 @@
       "origin": "ai"
     },
     "dataList[id=951903].levelList[level=1].name": {
-      "pl": "Please Cooperate!",
+      "pl": "Proszę o współpracę!",
       "kr_sha256": "6a608b5085caa92378f1535f83d17012b2f544e6cb0b08c2fb176c0dc678618b",
       "en_sha256": "c59b41b076bb2ba33857de2413cfc3c6858c2db2bea84e7f4e3d69101ff748eb",
       "origin": "ai"
@@ -1513,7 +1513,7 @@
       "origin": "ai"
     },
     "dataList[id=951904].levelList[level=1].name": {
-      "pl": "Processing Transfer Reg",
+      "pl": "Przetwarzanie Zgłoszenia Transferu",
       "kr_sha256": "be88ef9244af3d07bcef9a0a175d8afc5e81e1400773bc75ef51ba546d48ca57",
       "en_sha256": "6447eefc86b4f7ab2c1fd2cf2e9f620f6be25143fc2097e3fe313fa58476dda0",
       "origin": "ai"
@@ -1531,7 +1531,7 @@
       "origin": "ai"
     },
     "dataList[id=951905].levelList[level=1].name": {
-      "pl": "Pleased to Meet You, Dear Neighbor",
+      "pl": "Miło Was Poznać, Drogi Sąsiedzie",
       "kr_sha256": "62aa6008cf3f4b1ffd81739f9e47e4735eb0c90123ef43cb339ca1e35634c1cc",
       "en_sha256": "af8321a736cd594430b2d85ec7ea9f733de8d893b83844ac25ee4ed9cc2da480",
       "origin": "ai"
@@ -1555,7 +1555,7 @@
       "origin": "ai"
     },
     "dataList[id=951906].levelList[level=1].name": {
-      "pl": "System Error Detected",
+      "pl": "Wykryto Błąd Systemu",
       "kr_sha256": "406c49afd0aa2dfa2851fa0a3ee14842226a19e18d8311a796f2078dbc1646cd",
       "en_sha256": "30c05224adfbd32da58a0f3ccbbe158f79fe84cf807a1f0d1ad1bd0510be9367",
       "origin": "ai"
@@ -1567,13 +1567,13 @@
       "origin": "ai"
     },
     "dataList[id=951907].levelList[level=1].name": {
-      "pl": "Processing Computation",
+      "pl": "Przetwarzanie Obliczeń",
       "kr_sha256": "ca2640be33647f6176444ab3709ffd6e5a5271fd40eb1a61e0fba13e8608caf9",
       "en_sha256": "3eb9d754d368fa315957af3b488dbfc44872d879ead0719ef0379da90b30ce6f",
       "origin": "ai"
     },
     "dataList[id=951908].levelList[level=1].name": {
-      "pl": "Rebooting…",
+      "pl": "Restartowanie…",
       "kr_sha256": "303f7d46417daede26ed788b9f28c8acd3256a0339a92e0c3748807604bf8626",
       "en_sha256": "568681c5c2b8b4e614eee8782c164e4b71f2da4ef18f248441d8d799cffd7f98",
       "origin": "ai"
@@ -1591,7 +1591,7 @@
       "origin": "ai"
     },
     "dataList[id=951909].levelList[level=1].name": {
-      "pl": "Processing Transfer Reg",
+      "pl": "Przetwarzanie Zgłoszenia Transferu",
       "kr_sha256": "1583ab9cba9a275fa410952f21fac81e7d974b8707430fe0196cf6bc8838b4da",
       "en_sha256": "6447eefc86b4f7ab2c1fd2cf2e9f620f6be25143fc2097e3fe313fa58476dda0",
       "origin": "ai"
@@ -1603,7 +1603,7 @@
       "origin": "ai"
     },
     "dataList[id=952101].levelList[level=1].name": {
-      "pl": "Clap",
+      "pl": "Klaskanie",
       "kr_sha256": "07a913f927488c7c13cc3849cd9646150707daa48db877b5f51e07416ebcb90b",
       "en_sha256": "146b0417ca146dfea55b9bc9eb4bf9f00d42f73e439d79c19c93a40d94cfccf2",
       "origin": "ai"
@@ -1615,7 +1615,7 @@
       "origin": "ai"
     },
     "dataList[id=952102].levelList[level=1].name": {
-      "pl": "Powerful Clap",
+      "pl": "Mocne Klaskanie",
       "kr_sha256": "290c0c92f77fcbde20c11cc7dfe6f634bce2d12154c3604fe758e5c001b80215",
       "en_sha256": "3068823f3eb1b2bde4c8631bb26fe3bfbe25fc55938f92a1c540b1b571517075",
       "origin": "ai"
@@ -1633,7 +1633,7 @@
       "origin": "ai"
     },
     "dataList[id=952103].levelList[level=1].name": {
-      "pl": "Tail Whip",
+      "pl": "Bicz Ogonem",
       "kr_sha256": "cb42108e99ee13e68fd6ede1a82c57ed915775da213e6dd5279c16504a0627ac",
       "en_sha256": "1bd4075ef5eda51b41eec0ef1d800a54a8e866fcd42ca89400d61800fda8fcb0",
       "origin": "ai"
@@ -1645,7 +1645,7 @@
       "origin": "ai"
     },
     "dataList[id=952104].levelList[level=1].name": {
-      "pl": "Pressing Sac",
+      "pl": "Ucisk Worka",
       "kr_sha256": "85e264ad9473c8110b341033760fbba18513be160812d7857cb836f0002889c1",
       "en_sha256": "870b356e3aa65da7d3f6f6892ff59c096285d272c053d090f2eb68392369e776",
       "origin": "ai"
@@ -1675,7 +1675,7 @@
       "origin": "ai"
     },
     "dataList[id=952105].levelList[level=1].name": {
-      "pl": "Blood Cannon",
+      "pl": "Działo Krwi",
       "kr_sha256": "8b6cfceb04aaa8b526a20b60d69f4012102562bc220656662b3e80bf05967b2f",
       "en_sha256": "0d1b6e03484f0cc2ef58bc2c72473a9180842108aca0be57ffa1cb9a2b25502c",
       "origin": "ai"
@@ -1705,7 +1705,7 @@
       "origin": "ai"
     },
     "dataList[id=952106].levelList[level=1].name": {
-      "pl": "Clotting",
+      "pl": "Zbieranie Krwi",
       "kr_sha256": "17478493e7dd0d8dd139305f92177a7436c850dcd7c8338bbc0ab3bf60cfea30",
       "en_sha256": "b094d361e077b036f637e6fef76395080f3f0948cb1b4a2619590169aec6167b",
       "origin": "ai"
@@ -1729,7 +1729,7 @@
       "origin": "ai"
     },
     "dataList[id=952201].levelList[level=1].name": {
-      "pl": "Eerie Eyes",
+      "pl": "Dziwne Oczy",
       "kr_sha256": "3b8bf6978163633c98b82526efa637d9f71ec4c93e152f310abc9c2b0d24f164",
       "en_sha256": "e38d017fe58d2722400678f26cca784a8d9fc931c45ccda2c6a5fba0e1d49a1c",
       "origin": "ai"
@@ -1741,7 +1741,7 @@
       "origin": "ai"
     },
     "dataList[id=952202].levelList[level=1].name": {
-      "pl": "Imperfect Imitation",
+      "pl": "Niedoskonała Imitacja",
       "kr_sha256": "116ab120b80eef5bb7d8f2be05c9b24fcedc1b4f1267b88d00e2fd219ce6e961",
       "en_sha256": "711c2a567df32206a702660854148d6ecbdbe2f3226a13054cfacea85c4074f7",
       "origin": "ai"
@@ -1765,7 +1765,7 @@
       "origin": "ai"
     },
     "dataList[id=952203].levelList[level=1].name": {
-      "pl": "Adjust Shell",
+      "pl": "Poprawa Skorupy",
       "kr_sha256": "1166555862a4abafb757cff29a74616c0fd97a9f855f72e7dbf6868ca6cc489d",
       "en_sha256": "54e229a44904b880ade230f27c9481bdbc9f7df0c73c633be5565bb18ae41a51",
       "origin": "ai"
@@ -1789,7 +1789,7 @@
       "origin": "ai"
     },
     "dataList[id=952204].levelList[level=1].name": {
-      "pl": "Bone Blast",
+      "pl": "Wybuch Kości",
       "kr_sha256": "7df7032d4d25a899ef054172a21b0853f2e5fa486cfc04c2c87339742d11d104",
       "en_sha256": "263627374fcb1f79f048685fd2dadef6d171fdb19a1751ee730a2bc7a94bec47",
       "origin": "ai"
@@ -1813,7 +1813,7 @@
       "origin": "ai"
     },
     "dataList[id=952301].levelList[level=1].name": {
-      "pl": "Eerie Eyes",
+      "pl": "Dziwne Oczy",
       "kr_sha256": "3b8bf6978163633c98b82526efa637d9f71ec4c93e152f310abc9c2b0d24f164",
       "en_sha256": "e38d017fe58d2722400678f26cca784a8d9fc931c45ccda2c6a5fba0e1d49a1c",
       "origin": "ai"
@@ -1825,7 +1825,7 @@
       "origin": "ai"
     },
     "dataList[id=952302].levelList[level=1].name": {
-      "pl": "Imperfect Imitation",
+      "pl": "Niedoskonała Imitacja",
       "kr_sha256": "116ab120b80eef5bb7d8f2be05c9b24fcedc1b4f1267b88d00e2fd219ce6e961",
       "en_sha256": "711c2a567df32206a702660854148d6ecbdbe2f3226a13054cfacea85c4074f7",
       "origin": "ai"
@@ -1849,7 +1849,7 @@
       "origin": "ai"
     },
     "dataList[id=952303].levelList[level=1].name": {
-      "pl": "Adjust Shell",
+      "pl": "Poprawa Skorupy",
       "kr_sha256": "1166555862a4abafb757cff29a74616c0fd97a9f855f72e7dbf6868ca6cc489d",
       "en_sha256": "54e229a44904b880ade230f27c9481bdbc9f7df0c73c633be5565bb18ae41a51",
       "origin": "ai"
@@ -1873,7 +1873,7 @@
       "origin": "ai"
     },
     "dataList[id=952304].levelList[level=1].name": {
-      "pl": "Bone Blast",
+      "pl": "Wybuch Kości",
       "kr_sha256": "7df7032d4d25a899ef054172a21b0853f2e5fa486cfc04c2c87339742d11d104",
       "en_sha256": "263627374fcb1f79f048685fd2dadef6d171fdb19a1751ee730a2bc7a94bec47",
       "origin": "ai"
@@ -1903,7 +1903,7 @@
       "origin": "ai"
     },
     "dataList[id=952401].levelList[level=1].name": {
-      "pl": "Raid",
+      "pl": "Szturm",
       "kr_sha256": "7bfcad71ec5cdb5d2aa8e49accec9733cf7a59ac013ee8259bd7d63ef17b34b9",
       "en_sha256": "7dabeb6342b33d863483f6c40284dd16b780f9a7f41bebbeed9e61e9c6f76497",
       "origin": "ai"
@@ -1927,7 +1927,7 @@
       "origin": "ai"
     },
     "dataList[id=952402].levelList[level=1].name": {
-      "pl": "Neutralize Target",
+      "pl": "Unieszkodliwienie Celu",
       "kr_sha256": "1a9c411c06aae5c3b3f66d651a3aed042915fdebeddf6ce115eb2c42c1b904f2",
       "en_sha256": "73fb327166af80738dfec0140cddde0a6039ec5724aeeb445c3b28ade33bca19",
       "origin": "ai"
@@ -1939,7 +1939,7 @@
       "origin": "ai"
     },
     "dataList[id=952403].levelList[level=1].name": {
-      "pl": "Activate HP Bullet",
+      "pl": "Aktywacja Pocisków HP",
       "kr_sha256": "8e558e9d37439c562574a07fee365c86e9b5943348e523812b8aebc424e1847c",
       "en_sha256": "8be74878ef2b3db5eeda9d6ed6605d3a2933248a2432411e7b0c4ce4ae02fe71",
       "origin": "ai"
@@ -1957,7 +1957,7 @@
       "origin": "ai"
     },
     "dataList[id=952404].levelList[level=1].name": {
-      "pl": "Takedown",
+      "pl": "Stłumienie",
       "kr_sha256": "25719563dd7545c67e65d145e11ba77ad4153dd45a4f9f58e95a3a5273c1cecc",
       "en_sha256": "d4e3275abcae6ce4a31f3797b2940aef3ee8c7b78c712d601ad51a94918c5191",
       "origin": "ai"
@@ -1969,7 +1969,7 @@
       "origin": "ai"
     },
     "dataList[id=952501].levelList[level=1].name": {
-      "pl": "Activate HP Bullet",
+      "pl": "Aktywacja Pocisków HP",
       "kr_sha256": "8e558e9d37439c562574a07fee365c86e9b5943348e523812b8aebc424e1847c",
       "en_sha256": "8be74878ef2b3db5eeda9d6ed6605d3a2933248a2432411e7b0c4ce4ae02fe71",
       "origin": "ai"
@@ -1981,7 +1981,7 @@
       "origin": "ai"
     },
     "dataList[id=952502].levelList[level=1].name": {
-      "pl": "Shelter",
+      "pl": "Defend",
       "kr_sha256": "81562a17b7bef395856cf8dba471544c8235ca99eb330d0bc929e2164664d94f",
       "en_sha256": "cfcd1f3d6aeb187475efdb655ac5b948fcc05c97fac3cef2f07c8563d96da28c",
       "origin": "ai"
@@ -1999,7 +1999,7 @@
       "origin": "ai"
     },
     "dataList[id=952503].levelList[level=1].name": {
-      "pl": "Cover",
+      "pl": "Osłona",
       "kr_sha256": "a0380760d1510904caf185b81cb3081769a552cc7518c77521721e70ed7f4daa",
       "en_sha256": "fa8d84566676ee2ee6627116304e7eef7c9b06875d230435a4b23264fcc34f98",
       "origin": "ai"
@@ -2017,7 +2017,7 @@
       "origin": "ai"
     },
     "dataList[id=952601].levelList[level=1].name": {
-      "pl": "Do Not Enter",
+      "pl": "No Entry",
       "kr_sha256": "f8849d58f6aa475a22daa3eaf195bb0eac3688f79b97255adc1060d4df578d76",
       "en_sha256": "9349619170d1fc6ac19acf4486d7c073825d2e8f595d33803c8dc6b1f8a98c3b",
       "origin": "ai"
@@ -2041,7 +2041,7 @@
       "origin": "ai"
     },
     "dataList[id=952602].levelList[level=1].name": {
-      "pl": "Subdue",
+      "pl": "Stłumienie",
       "kr_sha256": "25719563dd7545c67e65d145e11ba77ad4153dd45a4f9f58e95a3a5273c1cecc",
       "en_sha256": "eef3fc174cdfbdd2502346af0b9a203c0e068832776d43befc815752f6735fbf",
       "origin": "ai"
@@ -2071,7 +2071,7 @@
       "origin": "ai"
     },
     "dataList[id=952603].levelList[level=1].name": {
-      "pl": "Forbid Entry",
+      "pl": "Blokada Wejścia",
       "kr_sha256": "9a1c17324ae7647bfbdd42f43186bc7be2ade1edf9132efe48188f2f790280ec",
       "en_sha256": "208528a9841f9f658ea55928edbcf921ea71461600e19a9caefa172e73faab88",
       "origin": "ai"
@@ -2089,7 +2089,7 @@
       "origin": "ai"
     },
     "dataList[id=952701].levelList[level=1].name": {
-      "pl": "Suspicious Individuals",
+      "pl": "Wykryto Podejrzanych",
       "kr_sha256": "16da4af6f96cafdbfb3df03f6cd7af16542d9cbd757f54e02a2c1a1c07728c2f",
       "en_sha256": "5cdd9c9c80c760252e31137125045d478bbd4ffc82b89c6448d5d967c79df0b8",
       "origin": "ai"
@@ -2113,7 +2113,7 @@
       "origin": "ai"
     },
     "dataList[id=952702].levelList[level=1].name": {
-      "pl": "Restrain",
+      "pl": "Powstrzymanie",
       "kr_sha256": "80032b543c1e845c00b5bffce2964a5bf6137477a5d62088e9cb8a7c4e28a642",
       "en_sha256": "ed48b3479d20b4e8ed6c4df1380096a0deb5025c0c79d7608560da3bed3ae9a3",
       "origin": "ai"
@@ -2191,7 +2191,7 @@
       "origin": "ai"
     },
     "dataList[id=952703].levelList[level=1].name": {
-      "pl": "No Trespassing",
+      "pl": "Blokada Podejrzanych",
       "kr_sha256": "032a3cfe31e9cac85788f34441e0c2b817437d7d0de990330dc4e1572aa4eb35",
       "en_sha256": "fc4938e6fd5fcfc8857c223da07f7b611bb335264266bf4639cbfaedf662fb20",
       "origin": "ai"
@@ -2221,7 +2221,7 @@
       "origin": "ai"
     },
     "dataList[id=952801].levelList[level=1].name": {
-      "pl": "Violent Scratch",
+      "pl": "Gwałtowne Drapanie",
       "kr_sha256": "b5be7a05e1dbcf746b7152aeef9488ae7982f2a9fa8cefb8dde517c135ce3873",
       "en_sha256": "de873c31fd32920c7a2c46388b55e2da29455fb37f7d7fb8e1083b89e2a203e6",
       "origin": "ai"
@@ -2245,7 +2245,7 @@
       "origin": "ai"
     },
     "dataList[id=952802].levelList[level=1].name": {
-      "pl": "Rabid Ram",
+      "pl": "Wściekły Taran",
       "kr_sha256": "ee5714bea6fdcd4b32b6bdd0ff589ca582bb7ebc3678b9522786df7be4abaeb5",
       "en_sha256": "a3e6a5167232405e3f0640baa2ae530edb70726a8aa21e0216f5543edc3eada6",
       "origin": "ai"
@@ -2305,7 +2305,7 @@
       "origin": "ai"
     },
     "dataList[id=952803].levelList[level=1].name": {
-      "pl": "Tear Apart",
+      "pl": "Poszarpanie",
       "kr_sha256": "2ffd81e14805fa7c819857b78481e2efde07d63dd2f0722ed484c91d0a971963",
       "en_sha256": "f17e645f72381c3ee5d37327157e1b8556bad7cb138b0cc57b4382c6b2cc8597",
       "origin": "ai"
@@ -2329,7 +2329,7 @@
       "origin": "ai"
     },
     "dataList[id=952804].levelList[level=1].name": {
-      "pl": "Furious Chase",
+      "pl": "Wściekły Pościg",
       "kr_sha256": "fd1af3f12e1987eb2e6cd9c962e8a3b1e79960dbd47321909380d675dcf0cb2c",
       "en_sha256": "91931f10983473459570deefd67a15f967985cc7bf53548d345a25edbe6b5185",
       "origin": "ai"
@@ -2341,7 +2341,7 @@
       "origin": "ai"
     },
     "dataList[id=952805].levelList[level=1].name": {
-      "pl": "Sharp Alertness",
+      "pl": "Ostra Czujność",
       "kr_sha256": "b9b113c12aef37cb6059fa5890edbf27133d372ba2947be3898906472947ed63",
       "en_sha256": "b582cc9f602408e10fa0fa489dd26b40ff82b844270f901ffd61dcd492c99a91",
       "origin": "ai"
@@ -2359,7 +2359,7 @@
       "origin": "ai"
     },
     "dataList[id=952901].levelList[level=1].name": {
-      "pl": "Coiling Arms",
+      "pl": "Owijające Ramiona",
       "kr_sha256": "70829e586c11142989c424782fae3473b2769f077cfa87fbafd1c1289c171273",
       "en_sha256": "37e2e747f45f0c99ceb1838a58547b85da99c1a0f45586457d25b0a4f7cfac56",
       "origin": "ai"
@@ -2383,7 +2383,7 @@
       "origin": "ai"
     },
     "dataList[id=952902].levelList[level=1].name": {
-      "pl": "Coil Up",
+      "pl": "Zwinięcie w Kłębek",
       "kr_sha256": "126358813f2e98ac1c43409ef151f20bc117a15b9f3e30e79e52ea11313e8cf3",
       "en_sha256": "8271f3bf3fb116047a3d48c8422171f9ccaad3d87b6939be52ce0771395abe09",
       "origin": "ai"
@@ -2413,7 +2413,7 @@
       "origin": "ai"
     },
     "dataList[id=952903].levelList[level=1].name": {
-      "pl": "Swinging Arms",
+      "pl": "Machanie Ramionami",
       "kr_sha256": "bcdc8547948ae2fa4d54c0558a786384446d1df064bb4142a186472266c500a4",
       "en_sha256": "df1238df21d42188d96a32f24a87221324ae8db1140b5c90169bb3a8e6ec544c",
       "origin": "ai"
@@ -2437,7 +2437,7 @@
       "origin": "ai"
     },
     "dataList[id=952904].levelList[level=1].name": {
-      "pl": "Thrashing Arms",
+      "pl": "Walicie Ramionami",
       "kr_sha256": "6a80e24bb6ca71396271c4d9410cc0fc40e5412e1b6c79bd88f86666bc90fc35",
       "en_sha256": "74e1c89ad030ad126a899468fcf652234e76b3a0b105b68f659b97abd48b2bc8",
       "origin": "ai"
@@ -2449,7 +2449,7 @@
       "origin": "ai"
     },
     "dataList[id=952905].levelList[level=1].name": {
-      "pl": "Held Breath",
+      "pl": "Zatrzymany Oddech",
       "kr_sha256": "019aabf1b2401b6d6a5e22ed8b3cecd3fd16f544863fb63716bd55f75a26e124",
       "en_sha256": "696a5bda533f22d3af3a64dcfb3b1dd5c56450dc0c44807229a91db97c5b7035",
       "origin": "ai"
@@ -2497,7 +2497,7 @@
       "origin": "ai"
     },
     "dataList[id=952906].levelList[level=1].name": {
-      "pl": "Pained Writhing",
+      "pl": "Bolesne Miętołenie",
       "kr_sha256": "dcef8aa70a6328797a778c545299963ecb08388a03507a9fb2da4b653ea6af47",
       "en_sha256": "ed1f1424ebabde5e33f7dbe7f5643d5bb3c842a983ec67e72fe5ee1fe47eed6b",
       "origin": "ai"
@@ -2521,7 +2521,7 @@
       "origin": "ai"
     },
     "dataList[id=952907].levelList[level=1].name": {
-      "pl": "Pained Struggle",
+      "pl": "Bolesny Opor",
       "kr_sha256": "d527a40270df3db67a41cd3b84c678fe32eab11525959c6b14ab96651e6f9125",
       "en_sha256": "bde80f9435541653e8ce9f34e6f0574219ed572962516cdad8b061ebc7ae405b",
       "origin": "ai"
@@ -2539,7 +2539,7 @@
       "origin": "ai"
     },
     "dataList[id=953201].levelList[level=1].name": {
-      "pl": "Deep Thrust",
+      "pl": "Głębokie Przebicie",
       "kr_sha256": "1d5899500ec17845b91ee86eb04db5173d6377b2ef868799a0e70d6742fccdaa",
       "en_sha256": "d98afb2df1b8fc987dc13983de3b9d995ab9497ce0d0f6e984ae3b891e4bbd65",
       "origin": "ai"
@@ -2557,7 +2557,7 @@
       "origin": "ai"
     },
     "dataList[id=953202].levelList[level=1].name": {
-      "pl": "The Gripping",
+      "pl": "Ściskanie",
       "kr_sha256": "04d88b6c5b1717d6188f7d913477a057f9c3b5bcc6758c380018642632835a30",
       "en_sha256": "a117cfa1f7af9809ee9a9f4762b6684d4a1f42640fa59980c14b8f2872a79c91",
       "origin": "ai"
@@ -2575,7 +2575,7 @@
       "origin": "ai"
     },
     "dataList[id=953203].levelList[level=1].name": {
-      "pl": "Cackle",
+      "pl": "Chichot",
       "kr_sha256": "bc9a7193460a8b2d26878cc84733d537a8dd91f64fb383bf886154383cfa466f",
       "en_sha256": "86b143210759fb9435a6b55f7fbf0743f700f86d3b1b69963882f00d7d03d81c",
       "origin": "ai"
@@ -2611,7 +2611,7 @@
       "origin": "ai"
     },
     "dataList[id=953204].levelList[level=1].name": {
-      "pl": "Sin-skewering Nail",
+      "pl": "Gwóźdź Nadziający Grzechy",
       "kr_sha256": "fe170808877babbd59f4311b0a3d99fabd897cf8032423b47190a4ff2c302f0b",
       "en_sha256": "c8e2f28abeb9e786bd923fd17b1b53684e370b557347eae9cab33f14c5d079ff",
       "origin": "ai"
@@ -2671,7 +2671,7 @@
       "origin": "ai"
     },
     "dataList[id=953205].levelList[level=1].name": {
-      "pl": "Purify",
+      "pl": "Oczyszczenie",
       "kr_sha256": "40fc585cd76a1db573f5189bef0dae516f2fd762c1080b984661a52e25ee844c",
       "en_sha256": "b3828a2f606c9a623d7cb963aee08f2db91b0d79a1fcd087f0caa79d8c4a7a49",
       "origin": "ai"
@@ -2689,7 +2689,7 @@
       "origin": "ai"
     },
     "dataList[id=953206].levelList[level=1].name": {
-      "pl": "I Shall Claim Your Life!",
+      "pl": "Odbiorę Wam Życie!",
       "kr_sha256": "2d58c7d040395dfcee5e2d26c417c798e4e321aa397e4ecf730c7539a11cb004",
       "en_sha256": "07fdc0f7822f5efc24967375269d6049c55f5e7c0c70aab2ecac5116aa422bd4",
       "origin": "ai"
@@ -2701,7 +2701,7 @@
       "origin": "ai"
     },
     "dataList[id=953207].levelList[level=1].name": {
-      "pl": "You Are Nothing",
+      "pl": "Jesteście Niczym",
       "kr_sha256": "16c59581fdcd35f2edec1974ef7ba48c7c644a124cdf76778674de7e569efef5",
       "en_sha256": "2852328c2ace2de9cd052db721219d86704a2e1565f266b45ef012dbaa50e681",
       "origin": "ai"
@@ -2779,7 +2779,7 @@
       "origin": "ai"
     },
     "dataList[id=953303].levelList[level=1].name": {
-      "pl": "Innocent Flutters",
+      "pl": "Niewinny Trzepot",
       "kr_sha256": "79e51e062971c50769abd3e815375aaa0a5ea087931851880c8ff05c3af83943",
       "en_sha256": "87f6ebfad2f3825f598a84de34b780c30d0419c37aa2ef5c5f7bdd7bcb73f5fb",
       "origin": "ai"
@@ -2815,7 +2815,7 @@
       "origin": "ai"
     },
     "dataList[id=953304].levelList[level=1].name": {
-      "pl": "Broken Wings",
+      "pl": "Połamane Skrzydła",
       "kr_sha256": "6c8ccf9bb21c37571b691b12726bea81c4775a67777673485aab3397e5e989a5",
       "en_sha256": "8800be42450677683b06aa4eab680f3449bb3b5217fa3d868c770b7171f246d1",
       "origin": "ai"
@@ -2851,7 +2851,7 @@
       "origin": "ai"
     },
     "dataList[id=953305].levelList[level=1].name": {
-      "pl": "Broken Wings",
+      "pl": "Połamane Skrzydła",
       "kr_sha256": "6c8ccf9bb21c37571b691b12726bea81c4775a67777673485aab3397e5e989a5",
       "en_sha256": "8800be42450677683b06aa4eab680f3449bb3b5217fa3d868c770b7171f246d1",
       "origin": "ai"
@@ -2887,7 +2887,7 @@
       "origin": "ai"
     },
     "dataList[id=953306].levelList[level=1].name": {
-      "pl": "Enraged Flutters",
+      "pl": "Wściekłe Trzepotanie",
       "kr_sha256": "53ad0ec1d0dcce6f5f3a7d9e6370e197a93fbaf9dad9eebae1efa181b9d7d21d",
       "en_sha256": "020f3cfcf1dfe41ea1f5e95d2c697444b5fe8ce1b0a96fad92f242a2781fe573",
       "origin": "ai"
@@ -2953,7 +2953,7 @@
       "origin": "ai"
     },
     "dataList[id=953307].levelList[level=1].name": {
-      "pl": "Noble Purification",
+      "pl": "Wzniosłe Oczyszczenie",
       "kr_sha256": "43fba89f3634be8d6f372d2a716e63e3e1adc8a0023f5cd2505d7cd1d91705a7",
       "en_sha256": "fa10a3dfc78c7a818ab2610b25feec158fd708104a68fa2214c99477a11a09ef",
       "origin": "ai"
@@ -2983,7 +2983,7 @@
       "origin": "ai"
     },
     "dataList[id=953308].levelList[level=1].name": {
-      "pl": "Honorable Grip",
+      "pl": "Chwyt Pełen Honoru",
       "kr_sha256": "a2e157fa375f052dae8970c0455d52ac23ffeb7504d789693de5b5e35727dcc7",
       "en_sha256": "db17ef99393ba3b8b0b3503ad18cbb7dfd0e1c3fa696e72c3956cfd4387e2d0a",
       "origin": "ai"
@@ -3013,7 +3013,7 @@
       "origin": "ai"
     },
     "dataList[id=953309].levelList[level=1].name": {
-      "pl": "Repent!!",
+      "pl": "Pokutujcie!!",
       "kr_sha256": "4ad3e8539c6572b38a7ca2d68b84a3cac6a2f1db145259df8508f0d8c6df6422",
       "en_sha256": "8ed77c2e3315b03e9ad089be8151610b030432ed1e127f7d986974ca4952fa20",
       "origin": "ai"
@@ -3025,7 +3025,7 @@
       "origin": "ai"
     },
     "dataList[id=953310].levelList[level=1].name": {
-      "pl": "Peerless Flesh",
+      "pl": "Bezskazowe Cielo",
       "kr_sha256": "9a5e1f1ebe00cba778b6d6f2054c6d333f06b8619e8f70ba61409caf170ebffc",
       "en_sha256": "5ed60ce9dfaaba2f4255cd7af4b73e6cd27cc24db038f9e6e5b9546961551189",
       "origin": "ai"
@@ -3043,7 +3043,7 @@
       "origin": "ai"
     },
     "dataList[id=953401].levelList[level=1].name": {
-      "pl": "Expound Sutras",
+      "pl": "Głoszenie Sutr",
       "kr_sha256": "2d955c8fe7d5dd3c190358224a0de2f594851b281ae7c732f56014bed0d08427",
       "en_sha256": "279a254a71434c0e15ce4d4fe07931fcf4da22524d172daa8f6b066c352c2605",
       "origin": "ai"
@@ -3127,7 +3127,7 @@
       "origin": "ai"
     },
     "dataList[id=953406].levelList[level=1].name": {
-      "pl": "Compulsory Offering",
+      "pl": "Przymusowa Ofiara",
       "kr_sha256": "71ff9483a8fdb1f4318a2ac2daa09c5efe0880176838cb708d7a63fde71d5db3",
       "en_sha256": "66b55074e0ab6bbed47ee01f4e7cf809ac02c496b3d938e061c07138c96c7666",
       "origin": "ai"
@@ -3151,7 +3151,7 @@
       "origin": "ai"
     },
     "dataList[id=953407].levelList[level=1].name": {
-      "pl": "Sluggard Waker",
+      "pl": "Budzenie Klapkiem",
       "kr_sha256": "ec6a7705ebbf0ed10af3b3023cb6c2d793103559baa647018885a799b7a0d9bf",
       "en_sha256": "b130fb52019d1867db167ab210830a41325d112129e1a6ba2e009cd53d4fdeb9",
       "origin": "ai"
@@ -3181,7 +3181,7 @@
       "origin": "ai"
     },
     "dataList[id=953502].levelList[level=1].name": {
-      "pl": "Drive",
+      "pl": "Pchnięcie",
       "kr_sha256": "4a3517d75ea24d32b92683c4ce30b9aefdaab0d25efa10a0277d55e0a7f0653c",
       "en_sha256": "6312b4b9baf12770fd7dc7307169bfa3676fbec14485abe37264952d8502645e",
       "origin": "ai"
@@ -3193,7 +3193,7 @@
       "origin": "ai"
     },
     "dataList[id=953503].levelList[level=1].name": {
-      "pl": "…Be Cleansed",
+      "pl": "…Bądź Oczyszczony",
       "kr_sha256": "0f37533aad5fb22fed677dfb629e9d6cd116acf1e0b28d1ad74652d9dbe3051d",
       "en_sha256": "1cf3a21420bdc98f60cd38e73e9ebc4129495e6e75ab7295469c74af32426669",
       "origin": "ai"
@@ -3205,7 +3205,7 @@
       "origin": "ai"
     },
     "dataList[id=953504].levelList[level=1].name": {
-      "pl": "Inquisitional Retribution",
+      "pl": "Potępienie Heretyka",
       "kr_sha256": "fdc88ff5fdac50e703a395837f6ea0ee421ee92be4b492c8cb5f3b229a12ec29",
       "en_sha256": "f7e02696cd5d9520099ed84ac7505920c65608279ebfcb8a46265bcea83d5529",
       "origin": "ai"
@@ -3217,7 +3217,7 @@
       "origin": "ai"
     },
     "dataList[id=953601].levelList[level=1].name": {
-      "pl": "Rápidamente~",
+      "pl": "Zwinnie~",
       "kr_sha256": "57c3ebdec28ee7fd029223bbf16709cc32ac4dd0d3d3d8ebb5c52c29f4b2779c",
       "en_sha256": "70bfde9d064cf0c0799f0b57a95b385d74e4960c0a563ce7a87d8e4459ece185",
       "origin": "ai"
@@ -3247,7 +3247,7 @@
       "origin": "ai"
     },
     "dataList[id=953701].levelList[level=1].name": {
-      "pl": "Flesh Surge",
+      "pl": "Puls Cielota",
       "kr_sha256": "9bf1d48ac3d5c0b0c22195aee96a97a0f7e75c387bf310ef1f9fc213cc3d51e6",
       "en_sha256": "a2bdf97a60c9d10a95f5e6e8185f740e3d729bb47f01bdd3ec8d0aa3a160ba32",
       "origin": "ai"
@@ -3259,7 +3259,7 @@
       "origin": "ai"
     },
     "dataList[id=953702].levelList[level=1].name": {
-      "pl": "Dominate Mind",
+      "pl": "Zdominowanie Umysłu",
       "kr_sha256": "20fc4368b7b6c01c933b0d190f89f5ef98342a6d83e6678fa6ae2957e4e4b027",
       "en_sha256": "a45ab4312caf128e0164e604301475273a241e54fb55e3c70548b15f903f6bc0",
       "origin": "ai"

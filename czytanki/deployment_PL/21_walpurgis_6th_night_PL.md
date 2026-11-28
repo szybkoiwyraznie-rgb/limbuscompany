@@ -35,37 +35,37 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* KoD Part
 
-##### Umiejętność: Cascading Despair — id 122301
+##### Umiejętność: Kaskada Rozpaczy — id 122301
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Sharp Teardrops — id 122302
+##### Umiejętność: Ostre Łzy — id 122302
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: River of Despairing Tears — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Shared Sorrow, Dulled — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Violent Cascade of Hollow Despair — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arcana: Tear and Pierce — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie — id 122306
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -110,31 +110,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122401
+##### Umiejętność: Wyblakła Wiara — id 122401
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122402
+##### Umiejętność: Zwietrzała Duma — id 122402
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122403
+##### Umiejętność: Nieskończona Rozpacz — id 122403
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122404
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122404
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122405
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122405
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -179,37 +179,37 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Part
 
-##### Umiejętność: Cascading Despair — id 122301
+##### Umiejętność: Kaskada Rozpaczy — id 122301
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Sharp Teardrops — id 122302
+##### Umiejętność: Ostre Łzy — id 122302
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: River of Despairing Tears — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Shared Sorrow, Dulled — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Violent Cascade of Hollow Despair — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arcana: Tear and Pierce — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie — id 122306
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -254,31 +254,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122501
+##### Umiejętność: Wyblakła Wiara — id 122501
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122502
+##### Umiejętność: Zwietrzała Duma — id 122502
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122503
+##### Umiejętność: Nieskończona Rozpacz — id 122503
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122504
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122504
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122505
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122505
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -318,31 +318,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122601
+##### Umiejętność: Wyblakła Wiara — id 122601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122602
+##### Umiejętność: Zwietrzała Duma — id 122602
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122603
+##### Umiejętność: Nieskończona Rozpacz — id 122603
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122604
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122604
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122605
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122605
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -382,31 +382,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122701
+##### Umiejętność: Wyblakła Wiara — id 122701
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122702
+##### Umiejętność: Zwietrzała Duma — id 122702
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122703
+##### Umiejętność: Nieskończona Rozpacz — id 122703
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122704
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122704
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122705
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122705
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -451,37 +451,37 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Part
 
-##### Umiejętność: Cascading Despair — id 122301
+##### Umiejętność: Kaskada Rozpaczy — id 122301
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Sharp Teardrops — id 122302
+##### Umiejętność: Ostre Łzy — id 122302
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: River of Despairing Tears — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Shared Sorrow, Dulled — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Violent Cascade of Hollow Despair — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arcana: Tear and Pierce — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie — id 122306
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -526,31 +526,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122401
+##### Umiejętność: Wyblakła Wiara — id 122401
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122402
+##### Umiejętność: Zwietrzała Duma — id 122402
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122403
+##### Umiejętność: Nieskończona Rozpacz — id 122403
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122404
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122404
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122405
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122405
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -595,37 +595,37 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Part
 
-##### Umiejętność: Cascading Despair — id 122301
+##### Umiejętność: Kaskada Rozpaczy — id 122301
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Sharp Teardrops — id 122302
+##### Umiejętność: Ostre Łzy — id 122302
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: River of Despairing Tears — id 122303
+##### Umiejętność: Płynące Łzy Rozpaczy — id 122303
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      5 |    1 |
 
-##### Umiejętność: Shared Sorrow, Dulled — id 122304
+##### Umiejętność: Dzielony Smutek, Stępiały — id 122304
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +11 |      1 |    1 |
 
-##### Umiejętność: Violent Cascade of Hollow Despair — id 122305
+##### Umiejętność: Gwałtowna Kaskada Pustej Rozpaczy — id 122305
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |        +10 |      1 |   10 |
 
-##### Umiejętność: Arcana: Tear and Pierce — id 122306
+##### Umiejętność: Arkan: Łza i Przebicie — id 122306
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -670,31 +670,31 @@ na koniec tury po pierwszym Oszołamieniu, jeżeli wszyscy Grzesznicy mają [Zim
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122501
+##### Umiejętność: Wyblakła Wiara — id 122501
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122502
+##### Umiejętność: Zwietrzała Duma — id 122502
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122503
+##### Umiejętność: Nieskończona Rozpacz — id 122503
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122504
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122504
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122505
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122505
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -734,31 +734,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122601
+##### Umiejętność: Wyblakła Wiara — id 122601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122602
+##### Umiejętność: Zwietrzała Duma — id 122602
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122603
+##### Umiejętność: Nieskończona Rozpacz — id 122603
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122604
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122604
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122605
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122605
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -798,31 +798,31 @@ na koniec tury, jeżeli HP tej jednostki spadnie do 1, gdy nie ma [Bezsilne Łzy
 
 *Opis:* KoD Sword Part
 
-##### Umiejętność: Faded Faith — id 122701
+##### Umiejętność: Wyblakła Wiara — id 122701
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weathered Pride — id 122702
+##### Umiejętność: Zwietrzała Duma — id 122702
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Endless Despair — id 122703
+##### Umiejętność: Nieskończona Rozpacz — id 122703
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Sword Sharpened with Tears — id 122704
+##### Umiejętność: Miecz Zaostrzony Łzami — id 122704
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Sword Laced with Grief — id 122705
+##### Umiejętność: Klinga Przesiąknięta Żałobą — id 122705
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |

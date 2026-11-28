@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=128801].levelList[level=1].name": {
-      "pl": "Tidepiercer Lance",
+      "pl": "Włócznia Przebijająca Fale",
       "kr_sha256": "461f923b0f0d254811a3d0d750aa4936fb4549f0856bd6bce98434279d39a0ac",
       "en_sha256": "6ec01912e6410e8b9865ef47a65eaeaf8a8af19de553c6cc4256e887dfba1204",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=128802].levelList[level=1].name": {
-      "pl": "Tidebreaker Lance",
+      "pl": "Włócznia Rozbijająca Fale",
       "kr_sha256": "422646ea9a979e7b546e15b717cf35e304334505710ed377b73ad30c78ebbb9a",
       "en_sha256": "d40aeb944bf3aabdc9e1e36b2f709c32a0e0cebb6bf499730290e1b8fb6ea505",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=128803].levelList[level=1].name": {
-      "pl": "Tide-Hunt",
+      "pl": "Polowanie Przypływu",
       "kr_sha256": "f651ed5cc48e00b49113c5cf180284eafb9a2e6fd2b2193f6a0b85b9e8bff1d1",
       "en_sha256": "2f6a2fca3703cc3f5ac4f84f5f8e699aba2cbaa40f6f774e4fdcf2031cd12315",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=128804].levelList[level=1].name": {
-      "pl": "Slay the Ocean, Slay the Ocean!!",
+      "pl": "Zabijcie Ocean, Zabijcie Ocean!!",
       "kr_sha256": "ee380439ad61e57d985c3dfbd5bf2c2fe2f39a53dfc72560d69fda14791a26e6",
       "en_sha256": "4e814e5727682d437d84c436d36fe86db5dce1b2d6764889691bdaca97526958",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=128805].levelList[level=1].name": {
-      "pl": "Slay the Ocean, Slay the Ocean!!",
+      "pl": "Zabijcie Ocean, Zabijcie Ocean!!",
       "kr_sha256": "ee380439ad61e57d985c3dfbd5bf2c2fe2f39a53dfc72560d69fda14791a26e6",
       "en_sha256": "4e814e5727682d437d84c436d36fe86db5dce1b2d6764889691bdaca97526958",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=128806].levelList[level=1].name": {
-      "pl": "The Indomitable Knight",
+      "pl": "Nieugięty Rycerz",
       "kr_sha256": "5a73fabcdf31b7d6fa6a544cc3fd7d6b5a5151bb81396a6e1469763a2ef1d44c",
       "en_sha256": "ddb58892804ff00a316a940299da6df58be3ebea4f89609aefab9c2180ee2927",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=128901].levelList[level=1].name": {
-      "pl": "Cell Injection",
+      "pl": "Wstrzyknięcie Komórek",
       "kr_sha256": "a220e659d781f073fb122d80d985b89669b80eb17a9e857d1120f36b41cbc58a",
       "en_sha256": "60d40d4b4e2b86cc90db2b823c0eac707017c5294443f0de0b2692f994eaf365",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=128902].levelList[level=1].name": {
-      "pl": "Ripping Slice",
+      "pl": "Rozdzierające Cięcie",
       "kr_sha256": "d1621ef59cf0e502264d998eed7885c57b16e8edc7ac3b4c1cce4466451fb853",
       "en_sha256": "db940353476cb01da9c6476bf68e0e313688051840264b3023c23aed95144a16",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=128903].levelList[level=1].name": {
-      "pl": "Swinging Slice",
+      "pl": "Cięcie z Machnięcia",
       "kr_sha256": "0f0e9f664f227477c7bfbfc58fe343da1f344e70b7a9b4e381685c3503caf6f5",
       "en_sha256": "18638f1295cfc6bfd74f2689d60c9d35b68f13662b78d94efac4e53ba657bf8d",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=128904].levelList[level=1].name": {
-      "pl": "Multiple Jabs",
+      "pl": "Seria Pchnięć",
       "kr_sha256": "a28b69aaa9d0e5fbf606519668d43eb16684c6ff9529a82e80dc265ed01370df",
       "en_sha256": "789f7b8ec83f6f89f71fac20ff1cdfdebe184af86aa238c8a7543cef1bc14fd4",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=129101].levelList[level=1].name": {
-      "pl": "United Will",
+      "pl": "Zjednoczona Wola",
       "kr_sha256": "ee4f2e5d2c701b4622025651d74674d3f229c0c55d162f8f4cbfbaaa12fc3257",
       "en_sha256": "1ada1a0146f4ee152feaf8250df91a76766cb62d900d73941087d0a9351e06d6",
       "origin": "ai"
@@ -361,7 +361,7 @@
       "origin": "ai"
     },
     "dataList[id=129102].levelList[level=1].name": {
-      "pl": "Propagating Bliss",
+      "pl": "Rozprzestrzeniająca się Rozkosz",
       "kr_sha256": "726f81e196340e2f4173be70926eb7458b016ad348173c13ae36e4b9959ed80c",
       "en_sha256": "74dc8ec9dd7d03eac79e0b1988939fb4d5cfdc303b520cfefd1bc61d4f5d9934",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=129103].levelList[level=1].name": {
-      "pl": "Rite of Liberation",
+      "pl": "Obrzęd Uwolnienia",
       "kr_sha256": "d456fa8003d6d1b8ca79e2a224074b8be42ac2f173a901e94ac56e3774a9f2c8",
       "en_sha256": "0a55b37b9c90e0d9c58b94b49e54cb562341c6a6b12ee4cf535b1abc8b73c2e8",
       "origin": "ai"
@@ -421,7 +421,7 @@
       "origin": "ai"
     },
     "dataList[id=129104].levelList[level=1].name": {
-      "pl": "Environmental Adaptation",
+      "pl": "Adaptacja do Środowiska",
       "kr_sha256": "ec9129be2af7a9c8f85aa496aa707276f459c40ec3ebf60b8088488e02678943",
       "en_sha256": "5b59781c0a0ab0f76ef1c5847b15eb613771678b84ec35085e60a3662083058b",
       "origin": "ai"
@@ -487,7 +487,7 @@
       "origin": "ai"
     },
     "dataList[id=129105].levelList[level=1].name": {
-      "pl": "For the Landbound Kins",
+      "pl": "Dla Lądowych Rodaków",
       "kr_sha256": "3c57d7e7948fe23960c15b2f883df20cd88f0e9a667fc8cc5b806e6cbc846131",
       "en_sha256": "36d373e17874097369a038f1fc8b71219e9dfba38a7b08660d6477b61b674b29",
       "origin": "ai"
@@ -499,7 +499,7 @@
       "origin": "ai"
     },
     "dataList[id=129701].levelList[level=1].name": {
-      "pl": "The Impatient Ego's Byway",
+      "pl": "Boczna Ścieżka Niecierpliwego Ego",
       "kr_sha256": "11c58b301eaf176af52941a8bb205ae54a47721bf655769ce86cab0f784f2dc2",
       "en_sha256": "9e9f083a6c91e26fde4c39f2fabe39d67fa4188367e835ddcc4602062ec74fa9",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=129702].levelList[level=1].name": {
-      "pl": "Echoes of Respite",
+      "pl": "Echa Odpoczynku",
       "kr_sha256": "1ea1d8ccecda3c1c66d53ee7f358ce1e47beeec449c5cf5806481809154c96d0",
       "en_sha256": "7b6b0ca17aaefdbf9eed015c8377c862a490807b9ab8828a096d7c870c0e45e3",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=129703].levelList[level=1].name": {
-      "pl": "Echoes of Ascending",
+      "pl": "Echa Wznoszenia",
       "kr_sha256": "2f6165a88e700c5a619b4f878c9e7d2e2ecedfe5bb42de1b5562ca15424c3d52",
       "en_sha256": "6d5a1d85aa6d552a9ca5c107f986275c29053795433930b411951f5af28c4e81",
       "origin": "ai"
@@ -565,7 +565,7 @@
       "origin": "ai"
     },
     "dataList[id=129704].levelList[level=1].name": {
-      "pl": "Cyclical Ecosystem",
+      "pl": "Cykliczny Ekosystem",
       "kr_sha256": "28f8761f0ae8a05c17f5aad1c311bb895f7004783505d5c90d15331b63c1b285",
       "en_sha256": "c60be90d2a3f9487c49eef183cad632a4e5067eda9c92db9059739d7e47036d5",
       "origin": "ai"
@@ -631,7 +631,7 @@
       "origin": "ai"
     },
     "dataList[id=129705].levelList[level=1].name": {
-      "pl": "With Deep Blue Charity.",
+      "pl": "Z Głęboką Błękitną Życzliwością.",
       "kr_sha256": "ab11ead3e42d618096c2a7d9d167f0a474fa8f6d00365f98a4b49b98176f1d6a",
       "en_sha256": "00d6532a818215c4b0fee0066f8ec6ff365384d47f1619b73c10d4b51826edeb",
       "origin": "ai"
@@ -673,7 +673,7 @@
       "origin": "ai"
     },
     "dataList[id=129706].levelList[level=1].name": {
-      "pl": "Tidal Arc",
+      "pl": "Tor Fali",
       "kr_sha256": "95d842ca4874d41453e328de71b134f09af150db7ca9d40c37a42c39cfdd6f4e",
       "en_sha256": "be128c52c5fc42c1c9cf3e26e7648130b3d839e1790bb748b78968c6a2719ab0",
       "origin": "ai"
@@ -715,7 +715,7 @@
       "origin": "ai"
     },
     "dataList[id=129707].levelList[level=1].name": {
-      "pl": "Fierce Currents",
+      "pl": "Gwałtowne Prądy",
       "kr_sha256": "b620223633abb374d8ec8aabc603794e6f696d81f0621e7178d80eb45b347777",
       "en_sha256": "20816d1582a1eece73bc23743ce11e60bec178ccd30bcafb26f2c32cbaf2faeb",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=129708].levelList[level=1].name": {
-      "pl": "Undulating Waves",
+      "pl": "Kołyszące się Fale",
       "kr_sha256": "fb2f0c38b05f26562e1eed0a383c9e3cef3626fa73b07b28ff688e4a89a85aff",
       "en_sha256": "23f9e662df5cc9ee3c1d114813ef98e62486709fb10cc44aceb8efb89a37dbe0",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=129709].levelList[level=1].name": {
-      "pl": "Before the compassion they believe in loses its worth.",
+      "pl": "Zanim dobroć, w którą wierzą, straci wartość.",
       "kr_sha256": "2854da6ec936c919daebd262de5bddfe24be8f6f03a763eb46872fe5cb6249da",
       "en_sha256": "ffd70e171909fbf2f8df0271dffc6c0013c7f2b4778fcb0d34d51c9a81eb7315",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=130301].levelList[level=1].name": {
-      "pl": "The Impatient Ego's Byway",
+      "pl": "Boczna Ścieżka Niecierpliwego Ego",
       "kr_sha256": "11c58b301eaf176af52941a8bb205ae54a47721bf655769ce86cab0f784f2dc2",
       "en_sha256": "9e9f083a6c91e26fde4c39f2fabe39d67fa4188367e835ddcc4602062ec74fa9",
       "origin": "ai"
@@ -847,7 +847,7 @@
       "origin": "ai"
     },
     "dataList[id=130302].levelList[level=1].name": {
-      "pl": "Echoes of Respite",
+      "pl": "Echa Odpoczynku",
       "kr_sha256": "1ea1d8ccecda3c1c66d53ee7f358ce1e47beeec449c5cf5806481809154c96d0",
       "en_sha256": "7b6b0ca17aaefdbf9eed015c8377c862a490807b9ab8828a096d7c870c0e45e3",
       "origin": "ai"
@@ -871,7 +871,7 @@
       "origin": "ai"
     },
     "dataList[id=130303].levelList[level=1].name": {
-      "pl": "Echoes of Ascending",
+      "pl": "Echa Wznoszenia",
       "kr_sha256": "2f6165a88e700c5a619b4f878c9e7d2e2ecedfe5bb42de1b5562ca15424c3d52",
       "en_sha256": "6d5a1d85aa6d552a9ca5c107f986275c29053795433930b411951f5af28c4e81",
       "origin": "ai"
@@ -889,7 +889,7 @@
       "origin": "ai"
     },
     "dataList[id=130304].levelList[level=1].name": {
-      "pl": "Cyclical Ecosystem",
+      "pl": "Cykliczny Ekosystem",
       "kr_sha256": "28f8761f0ae8a05c17f5aad1c311bb895f7004783505d5c90d15331b63c1b285",
       "en_sha256": "c60be90d2a3f9487c49eef183cad632a4e5067eda9c92db9059739d7e47036d5",
       "origin": "ai"
@@ -955,7 +955,7 @@
       "origin": "ai"
     },
     "dataList[id=130305].levelList[level=1].name": {
-      "pl": "With Deep Blue Charity.",
+      "pl": "Z Głęboką Błękitną Życzliwością.",
       "kr_sha256": "ab11ead3e42d618096c2a7d9d167f0a474fa8f6d00365f98a4b49b98176f1d6a",
       "en_sha256": "00d6532a818215c4b0fee0066f8ec6ff365384d47f1619b73c10d4b51826edeb",
       "origin": "ai"
@@ -991,7 +991,7 @@
       "origin": "ai"
     },
     "dataList[id=130306].levelList[level=1].name": {
-      "pl": "Tidal Arc",
+      "pl": "Tor Fali",
       "kr_sha256": "95d842ca4874d41453e328de71b134f09af150db7ca9d40c37a42c39cfdd6f4e",
       "en_sha256": "be128c52c5fc42c1c9cf3e26e7648130b3d839e1790bb748b78968c6a2719ab0",
       "origin": "ai"
@@ -1033,7 +1033,7 @@
       "origin": "ai"
     },
     "dataList[id=130307].levelList[level=1].name": {
-      "pl": "Fierce Currents",
+      "pl": "Gwałtowne Prądy",
       "kr_sha256": "b620223633abb374d8ec8aabc603794e6f696d81f0621e7178d80eb45b347777",
       "en_sha256": "20816d1582a1eece73bc23743ce11e60bec178ccd30bcafb26f2c32cbaf2faeb",
       "origin": "ai"
@@ -1063,7 +1063,7 @@
       "origin": "ai"
     },
     "dataList[id=130308].levelList[level=1].name": {
-      "pl": "Undulating Waves",
+      "pl": "Kołyszące się Fale",
       "kr_sha256": "fb2f0c38b05f26562e1eed0a383c9e3cef3626fa73b07b28ff688e4a89a85aff",
       "en_sha256": "23f9e662df5cc9ee3c1d114813ef98e62486709fb10cc44aceb8efb89a37dbe0",
       "origin": "ai"

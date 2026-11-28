@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=135509].levelList[level=1].name": {
-      "pl": "Procuration: Annihilation - Mang of Immanent Yearning [本望]",
+      "pl": "Prokura: Zagłada - Mang Ostatecznej Tęsknoty [本望]",
       "kr_sha256": "47bb4d2a4eaa2007c109b91abb9acabd19ede0b3e19a8bcb3c23c76639ed4f03",
       "en_sha256": "c45796f1cefd2b11cdddb42f383c11e62a92faac9a06344d72ad0edd54424ecd",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=136401].levelList[level=1].name": {
-      "pl": "Wriggling Head",
+      "pl": "Wiercąca Głowa",
       "kr_sha256": "ec4b39c44c99afa145f86e9a3d404b8a350dd630f3fdba3ce3f058a50273e523",
       "en_sha256": "24a93ae94c3797c46ad42df3ac795405c4578f69ff75cfba5f263bded8d42e40",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=136402].levelList[level=1].name": {
-      "pl": "Wriggling Tail",
+      "pl": "Wiercący Ogon",
       "kr_sha256": "16aad1d9db70fa1f43ac79ea1b8d78b1771dc9fd4f782f21cf51c608dd6a89e6",
       "en_sha256": "df149127884993e34a36e6883690efe40969a49fbd409b484cdd437c75ea831d",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=137908].levelList[level=1].name": {
-      "pl": "Precognition",
+      "pl": "Przeczuwanie",
       "kr_sha256": "7278cba408bf4d6924ce73a05f58ac211bb0e4b95e63f04a06526d17ef6e9071",
       "en_sha256": "f9daa1d5ba035a108578617f81ebcc6618cb5eabc519936c8e0eda788bf72154",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=138107].levelList[level=1].name": {
-      "pl": "Destroy the Sound, Crush Flat the Thought",
+      "pl": "Zniszcz Dźwięk, Rozgnieć Płasko Myśl",
       "kr_sha256": "80dc6a283493dbe4cc5def40b544f94806ca45c07e53789a1fc87e7b161fb140",
       "en_sha256": "b19429dd6cdc1b763ddd4a6164d8c60ac6c5d2e5be772991817fc40886240d78",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=138108].levelList[level=1].name": {
-      "pl": "Stab the Heart of Silence, Penetrate the Memory",
+      "pl": "Przebij Serce Ciszy, Przeniknij Pamięć",
       "kr_sha256": "4640b49d5b5051392fd290ccbe670b872fd6cb497bd87656b2116c10f01a9ee5",
       "en_sha256": "ddaaef63f995a89586477f316db257ee1ef8a5ac18f44eee5e8666411f9a0dce",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=138109].levelList[level=1].name": {
-      "pl": "With Tempered Secret, Sever the Form",
+      "pl": "Z Naostrzoną Tajemnicą, Utnij Formę",
       "kr_sha256": "5f7660988b20bb9d4611d8eff15f789b5f24bea4c1d84d6884b13a1a66645f57",
       "en_sha256": "eec0c104681a5a7ed54aabe6e4c2511200cafdaedb79ba93e19c5d6508d65f3e",
       "origin": "ai"
@@ -457,7 +457,7 @@
       "origin": "ai"
     },
     "dataList[id=138201].levelList[level=1].name": {
-      "pl": "Stomping",
+      "pl": "Deptanie",
       "kr_sha256": "0eba79bcd27eb96bfc51e497686036ba0460d4f0ca305f9c12475bffbd8b0e9d",
       "en_sha256": "1e148e22ac0232cf1c00c6c43961a66db7d8b39c3ea3864098e3a2577969b730",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=138203].levelList[level=1].name": {
-      "pl": "Stamp of Vengeance",
+      "pl": "Pieczątka Zemsty",
       "kr_sha256": "c44ed157ba1290204a00b596ebff883b34fc4c55614ff6aa5e0570876b50d818",
       "en_sha256": "c46fd73887a48d174292fd7b044407ab7a9e32ff6e856154490e613a5093e214",
       "origin": "ai"
@@ -571,7 +571,7 @@
       "origin": "ai"
     },
     "dataList[id=138204].levelList[level=1].name": {
-      "pl": "Don't Let Somethin' Like This Break Ya!",
+      "pl": "Nie daj się złamać takiej drobnostce!",
       "kr_sha256": "13e09dc99831a8b378f7f4d0df3bc1648ec3f8eb6ea7ef34e7b8a5312e4bd5cc",
       "en_sha256": "609b0d2d1263ff26d0ae821a4c9db758fce9bd34aa92828f3cf68fd4c039041b",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=138206].levelList[level=1].name": {
-      "pl": "Gonna Unbox a Layer of Packaging!",
+      "pl": "Odpakuję Warstwę Opakowania!",
       "kr_sha256": "9e7a9145b78c2119ff1cead397d0cec604e67d906549041f8627af639807f4ba",
       "en_sha256": "d258d2ef6ec6d74af977c050b032221b2c77b85159874aa7b98c2fed62b11ce2",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=138207].levelList[level=1].name": {
-      "pl": "Stomping",
+      "pl": "Deptanie",
       "kr_sha256": "0eba79bcd27eb96bfc51e497686036ba0460d4f0ca305f9c12475bffbd8b0e9d",
       "en_sha256": "1e148e22ac0232cf1c00c6c43961a66db7d8b39c3ea3864098e3a2577969b730",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=138209].levelList[level=1].name": {
-      "pl": "Stamp of Vengeance",
+      "pl": "Pieczątka Zemsty",
       "kr_sha256": "c44ed157ba1290204a00b596ebff883b34fc4c55614ff6aa5e0570876b50d818",
       "en_sha256": "c46fd73887a48d174292fd7b044407ab7a9e32ff6e856154490e613a5093e214",
       "origin": "ai"
@@ -787,7 +787,7 @@
       "origin": "ai"
     },
     "dataList[id=138210].levelList[level=1].name": {
-      "pl": "Are Ya Feelin' the Heat?!",
+      "pl": "Robi się gorąco?!",
       "kr_sha256": "f028061e0aca290ea9a5b434345c3abe818fe5f4d38bee5b0cef287e080f89a0",
       "en_sha256": "6341e17af7b4df42254caf6c3aa3b352b83a085aaadbd5a61bc08b2046f255d0",
       "origin": "ai"
@@ -847,7 +847,7 @@
       "origin": "ai"
     },
     "dataList[id=138212].levelList[level=1].name": {
-      "pl": "Looks Like I Gotta Unbox the Second Layer, too.",
+      "pl": "Trzeba Odpakować Drugą Warstwę.",
       "kr_sha256": "71d22e75783cc302856721c14c0808cb76805944778288f4addd29162ea525fb",
       "en_sha256": "1f25ac806e2aa24f33ddb0c9d9a272183c09bf5131d175a11eadce6e7721f719",
       "origin": "ai"
@@ -883,7 +883,7 @@
       "origin": "ai"
     },
     "dataList[id=138213].levelList[level=1].name": {
-      "pl": "Stomping!",
+      "pl": "Depcz!",
       "kr_sha256": "b25cb939da931e353377f93027b7e7b1bac84d0251d52ffbee4c45081cc04f5c",
       "en_sha256": "d2869861275a195e10e12fdd946910317f3642f0161c9f8477d56ed57200bb06",
       "origin": "ai"
@@ -949,7 +949,7 @@
       "origin": "ai"
     },
     "dataList[id=138215].levelList[level=1].name": {
-      "pl": "Stamp of Complete and Total Extermination!",
+      "pl": "Pieczątka Natychmiastowej Totalnej Eksterminacji!",
       "kr_sha256": "a3cc8fd9c6dc878a3b2239b926de26a6310d983b21705c40c7fbdb8e68f2e580",
       "en_sha256": "aabe4ec033e71325788b9b711ac910e4f0cb4eb3b76421717ae05354f2ac3163",
       "origin": "ai"
@@ -1015,7 +1015,7 @@
       "origin": "ai"
     },
     "dataList[id=138216].levelList[level=1].name": {
-      "pl": "Time to Melt Away and Die",
+      "pl": "Czas Topić się i Umrzeć",
       "kr_sha256": "ec243fdf961fac4e5eb6450fd1e634f494540919cca1a223959ffb85e2174aaf",
       "en_sha256": "a57b687b70df7755ceb5861e081526de9d6b2b5960302150b8db83bebaa46d1d",
       "origin": "ai"
@@ -1075,7 +1075,7 @@
       "origin": "ai"
     },
     "dataList[id=138218].levelList[level=1].name": {
-      "pl": "Lævateinn - Been a While Since I Had to Unbox the Whole Thing!",
+      "pl": "Lævateinn - Dawno Nie Odpakowywałem Całości!",
       "kr_sha256": "ee1af2f7bf4319f3bfc739946c1d8ee226b09bb272c96c96fe3a9c7e1047a052",
       "en_sha256": "13851fc6b91911239af53965ff9f357591827d9693b8c313bd92c79bd7710308",
       "origin": "ai"
@@ -1147,7 +1147,7 @@
       "origin": "ai"
     },
     "dataList[id=138220].levelList[level=1].name": {
-      "pl": "Gut Stab [Lævateinn]",
+      "pl": "Cios w Brzuch [Lævateinn]",
       "kr_sha256": "79d29339a90b91aeef8f6932ed444541d35b929982fb38ff7648ec9a9c9d2bbb",
       "en_sha256": "f8bb52db4c9efe480d22aeb0862592d2e3c4ef4c25a5f7b86e946bc6c6edac9c",
       "origin": "ai"
@@ -1177,7 +1177,7 @@
       "origin": "ai"
     },
     "dataList[id=138301].levelList[level=1].name": {
-      "pl": "Installation Art no. 3: Improvised Ribcage",
+      "pl": "Sztuka Instalacji nr 3: Improwizowana Klatka Piersiowa",
       "kr_sha256": "75307f2dc6263faf25fcaa8c0813baeabd9dc17362e0fb4dd29e7e163067fcba",
       "en_sha256": "5f04c19ce96f11abfe9b0d7bcf80447d12c2e25b3cd591bf3083c01761e10279",
       "origin": "ai"
@@ -1225,7 +1225,7 @@
       "origin": "ai"
     },
     "dataList[id=138302].levelList[level=1].name": {
-      "pl": "Anatomize",
+      "pl": "Anatomizacja",
       "kr_sha256": "7b2e176a794b9eab55d42975db843350edb57b2bf35ffc351bf8de680d501318",
       "en_sha256": "a820598ede04c311b84ff3fccbffac77806482ccc382928adff18bbb9b7de2d2",
       "origin": "ai"
@@ -1273,7 +1273,7 @@
       "origin": "ai"
     },
     "dataList[id=138303].levelList[level=1].name": {
-      "pl": "Gather Ingredient - Blood-bathed Objet",
+      "pl": "Zdobądź Składnik - Przedmiot Kąpiący się we Krwi",
       "kr_sha256": "5bda04597b999b9f50746599818b634355471fe29ba288e6b4cc7b353d0dc5e9",
       "en_sha256": "70a3b17a08e62ca85e39279a1a0dfafb450ed6922c775ed6013a9ed37bf7684f",
       "origin": "ai"
@@ -1351,7 +1351,7 @@
       "origin": "ai"
     },
     "dataList[id=138304].levelList[level=1].name": {
-      "pl": "Tibia's Melody - Anatomization of the Unanatomized by the Anatomized",
+      "pl": "Melodia Kości Piszczelowej - Anatomizacja Nzanatomizowanego przez Anatomizowane",
       "kr_sha256": "c5f6bbab8be494d2327aef443220120fc0d3123d85dc00f9e41579382bf76d77",
       "en_sha256": "e836f2502a7f82112dbae880decfba4d50f4a61a1f6446d1feceac09dbc21e52",
       "origin": "ai"
@@ -1387,7 +1387,7 @@
       "origin": "ai"
     },
     "dataList[id=138305].levelList[level=1].name": {
-      "pl": "Oh, How We Love the Flesh and the Blood",
+      "pl": "O, Jak Kochamy Ciało i Krew",
       "kr_sha256": "a10d74f3d8cf5f9f5a36c83000020c8b5ec8a7518bb3ec26730161e206d051aa",
       "en_sha256": "efe90b017c7eb570db2c830038388170865505bf2965bd1e8cabe8bcd620205f",
       "origin": "ai"
@@ -1399,7 +1399,7 @@
       "origin": "ai"
     },
     "dataList[id=138306].levelList[level=1].name": {
-      "pl": "Curating the Exhibition",
+      "pl": "Prowadzenie Wystawy",
       "kr_sha256": "6d084b45acf0c494376e1e972c81516e9f1452484232cc0a444f7216729aa8f2",
       "en_sha256": "5ae757e8931e2a0820b7a87e88f37f99f15cdf3bdbff0983f9232e77312fbcfd",
       "origin": "ai"
@@ -1435,7 +1435,7 @@
       "origin": "ai"
     },
     "dataList[id=138307].levelList[level=1].name": {
-      "pl": "Please. Vandalism is Prohibited.",
+      "pl": "Prosimy. Wandalizm jest Wzbroniony.",
       "kr_sha256": "47b927906852a21d328176df390664469f92f7d9d447391e8ad38d5a747ce04d",
       "en_sha256": "041b197cd6fc9bd9ef4cff4fca72a9b37498659afaf938962c7491e332e3d1c4",
       "origin": "ai"
@@ -1477,7 +1477,7 @@
       "origin": "ai"
     },
     "dataList[id=138801].levelList[level=1].name": {
-      "pl": "Time for Some Warm-up!",
+      "pl": "Rozgrzewka!",
       "kr_sha256": "ff455bd614b3d45668578ea0930029f5f221931a1cbef53b1f9fb8288f03d1b9",
       "en_sha256": "0a89bfe5f441dad6cc81451cc6821f51506987f2fd38a10dbb83838464d87f6f",
       "origin": "ai"
@@ -1543,7 +1543,7 @@
       "origin": "ai"
     },
     "dataList[id=138804].levelList[level=1].name": {
-      "pl": "Crossing Dervish!",
+      "pl": "Wirujący Krzyż!",
       "kr_sha256": "7514acb50b42ba3e496b9f88da0bdc6125ecf6983d8798f1d607b733da139d4d",
       "en_sha256": "65b05ca4de62cc2b671041580a216f1bb98855b78ef9633c1e17072a347abc00",
       "origin": "ai"
@@ -1603,7 +1603,7 @@
       "origin": "ai"
     },
     "dataList[id=141704].levelList[level=1].name": {
-      "pl": "Time to Eat, Fascia",
+      "pl": "Czas na Obiad, Powiezi",
       "kr_sha256": "6a14cffb626e05a45e808e90f25e01abc6543d564d28265d154b7518d9d6442f",
       "en_sha256": "1227fafb7744ec1eb3cb5e8dd3f8fc230dce9a6f03550a0a492e4623c70b65d7",
       "origin": "ai"
@@ -1681,7 +1681,7 @@
       "origin": "ai"
     },
     "dataList[id=141705].levelList[level=1].name": {
-      "pl": "Liberation of the Repressed Flesh",
+      "pl": "Wyzwolenie Tłumionego Ciała",
       "kr_sha256": "901bfbc2f188904d2f634d7f4fb7ab2843e3755470438916a13dafeae2f9065e",
       "en_sha256": "bb7e127d3689cae7c5c89701baff46a9f42221aad8d7265d02953cdb3c35190c",
       "origin": "ai"
@@ -1693,7 +1693,7 @@
       "origin": "ai"
     },
     "dataList[id=141706].levelList[level=1].name": {
-      "pl": "The Exhibition Begins",
+      "pl": "Wystawa się rozpoczęła",
       "kr_sha256": "23c214b322e2e20776e51bb1fddcb62f4f4d91d00bc07562d485c01a8f9b5248",
       "en_sha256": "57cdac9af4de6ac1d5451e8510287032f310ba1ae75a4d2e8c19fb1c36b42680",
       "origin": "ai"

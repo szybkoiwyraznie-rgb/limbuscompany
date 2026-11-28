@@ -265,6 +265,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×4 (poz. 50) · też jako wsparcie.*
@@ -303,6 +305,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Założyciel Głębin — id 1295
 
@@ -343,6 +347,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Wydzielacz Głębin — id 1296
 
 *Wystąpienia: ×2 (poz. 54) · też jako wsparcie.*
@@ -382,6 +388,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
+**Pasywki:** brak
+
 ### Etap 7 · Obracający się Zegar
 
 - **Fala 1:** Zwinny Wyznawca Głębin ×3 (poz. 50); Wytrwały Wyznawca Głębin ×3 (poz. 50); Fabius ×1 (poz. 50)
@@ -390,13 +398,16 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -413,19 +424,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Multiple Jabs — id 128904
+##### Umiejętność: Seria Pchnięć — id 128904
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -439,13 +450,16 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -462,19 +476,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Cell Injection — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek — id 128901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -488,12 +502,16 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Wystąpienia: ×1 (poz. 50).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 55                    |
-| HP         | 247 (+6,81 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 247 (+6,81 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zew Krewniaków                                 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+**Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -510,25 +528,25 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: United Will — id 129101
+##### Umiejętność: Zjednoczona Wola — id 129101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Propagating Bliss — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rite of Liberation — id 129103
+##### Umiejętność: Obrzęd Uwolnienia — id 129103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Environmental Adaptation — id 129104
+##### Umiejętność: Adaptacja do Środowiska — id 129104
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -586,6 +604,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
@@ -624,6 +644,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1304
 
@@ -670,6 +692,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×6 (poz. 52) · też jako wsparcie.*
@@ -709,6 +733,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Wydzielacz Głębin — id 1296
 
 *Wystąpienia: ×3 (poz. 54) · też jako wsparcie.*
@@ -747,6 +773,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
+
+**Pasywki:** brak
 
 ### Etap 9 · Operacja Odbicia Latarni
 
@@ -791,6 +819,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×10 (poz. 50) · też jako wsparcie.*
@@ -829,6 +859,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1304
 
@@ -875,6 +907,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
@@ -913,6 +947,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 10 · Wzburzone Fale
 
@@ -957,6 +993,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×9 (poz. 50) · też jako wsparcie.*
@@ -995,6 +1033,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1304
 
@@ -1041,6 +1081,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
@@ -1079,6 +1121,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Wydzielacz Głębin — id 1296
 
@@ -1119,6 +1163,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
+**Pasywki:** brak
+
 ### Etap 11 · Rycerz z Baśni
 
 - **Fala 1:** Ostatni Rycerz ×1 (poz. 85)
@@ -1127,13 +1173,18 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 85                    |
-| HP          | 157 (+4,32 za poziom) |
-| Sloty akcji | start: 6 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 85                                             |
+| HP           | 157 (+4,32 za poziom)                          |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Świadomość Roju                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Wszystkie odporności zmieniają się na „Zwykła”
+**Efekt Paniki:** Wszystkie odporności zmieniają się na „Zwykła”
+Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zyskiwanej z efektów umiejętności
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1150,37 +1201,37 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Tidepiercer Lance — id 128801
+##### Umiejętność: Włócznia Przebijająca Fale — id 128801
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tidebreaker Lance — id 128802
+##### Umiejętność: Włócznia Rozbijająca Fale — id 128802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tide-Hunt — id 128803
+##### Umiejętność: Polowanie Przypływu — id 128803
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +3 |      3 |    3 |
 
-##### Umiejętność: Slay the Ocean, Slay the Ocean!! — id 128804
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +1 |      3 |    7 |
 
-##### Umiejętność: Slay the Ocean, Slay the Ocean!! — id 128805
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128805
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +3 |      3 |    7 |
 
-##### Umiejętność: The Indomitable Knight — id 128806
+##### Umiejętność: Nieugięty Rycerz — id 128806
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1247,6 +1298,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×1 (poz. 50).*
@@ -1285,6 +1338,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1304
 
@@ -1331,6 +1386,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×2 (poz. 52).*
@@ -1369,6 +1426,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Wydzielacz Głębin — id 1296
 
@@ -1409,17 +1468,22 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
+**Pasywki:** brak
+
 #### Zwinny Wyznawca Głębin — id 1289
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1436,19 +1500,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Multiple Jabs — id 128904
+##### Umiejętność: Seria Pchnięć — id 128904
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1462,13 +1526,16 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1485,19 +1552,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Cell Injection — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek — id 128901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1511,12 +1578,16 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Wystąpienia: ×1 (poz. 55).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 55                    |
-| HP         | 247 (+6,81 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 247 (+6,81 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zew Krewniaków                                 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+**Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1533,31 +1604,31 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: United Will — id 129101
+##### Umiejętność: Zjednoczona Wola — id 129101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Propagating Bliss — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rite of Liberation — id 129103
+##### Umiejętność: Obrzęd Uwolnienia — id 129103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Environmental Adaptation — id 129104
+##### Umiejętność: Adaptacja do Środowiska — id 129104
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |          9 |         +5 |      1 |    1 |
 
-##### Umiejętność: For the Landbound Kins — id 129105
+##### Umiejętność: Dla Lądowych Rodaków — id 129105
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1839,6 +1910,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×4 (poz. 50) · też jako wsparcie.*
@@ -1877,6 +1950,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Założyciel Głębin — id 1295
 
@@ -1917,6 +1992,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Wydzielacz Głębin — id 1296
 
 *Wystąpienia: ×2 (poz. 54) · też jako wsparcie.*
@@ -1956,6 +2033,8 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
+**Pasywki:** brak
+
 ### Etap 7 · Obracający się Zegar
 
 - **Fala 1:** Zwinny Wyznawca Głębin ×3 (poz. 50); Wytrwały Wyznawca Głębin ×3 (poz. 50); Fabius ×1 (poz. 50)
@@ -1964,13 +2043,16 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1987,19 +2069,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Multiple Jabs — id 128904
+##### Umiejętność: Seria Pchnięć — id 128904
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2013,13 +2095,16 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2036,19 +2121,19 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: Cell Injection — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek — id 128901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2062,12 +2147,16 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Wystąpienia: ×1 (poz. 50).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 55                    |
-| HP         | 247 (+8,51 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 247 (+8,51 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zew Krewniaków                                 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+**Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2084,25 +2173,25 @@ na koniec tury w stanie [Stan Bojowy], otrzymuje stałe obrażenia równe 10% HP
 
 *Opis:* Część
 
-##### Umiejętność: United Will — id 129101
+##### Umiejętność: Zjednoczona Wola — id 129101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Propagating Bliss — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rite of Liberation — id 129103
+##### Umiejętność: Obrzęd Uwolnienia — id 129103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Environmental Adaptation — id 129104
+##### Umiejętność: Adaptacja do Środowiska — id 129104
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2160,6 +2249,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×8 (poz. 50) · też jako wsparcie.*
@@ -2198,6 +2289,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1294
 
@@ -2244,6 +2337,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×6 (poz. 52) · też jako wsparcie.*
@@ -2283,6 +2378,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Wydzielacz Głębin — id 1296
 
 *Wystąpienia: ×3 (poz. 54) · też jako wsparcie.*
@@ -2321,6 +2418,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
+
+**Pasywki:** brak
 
 ### Etap 9 · Operacja Odbicia Latarni
 
@@ -2365,6 +2464,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×10 (poz. 50) · też jako wsparcie.*
@@ -2403,6 +2504,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1294
 
@@ -2449,6 +2552,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
@@ -2487,6 +2592,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 10 · Wzburzone Fale
 
@@ -2531,6 +2638,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×9 (poz. 50) · też jako wsparcie.*
@@ -2569,6 +2678,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1294
 
@@ -2615,6 +2726,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×2 (poz. 52) · też jako wsparcie.*
@@ -2653,6 +2766,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Wydzielacz Głębin — id 1296
 
@@ -2693,6 +2808,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
+**Pasywki:** brak
+
 ### Etap 11 · Rycerz z Baśni
 
 - **Fala 1:** Ostatni Rycerz ×1 (poz. 90)
@@ -2701,13 +2818,18 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Wystąpienia: ×1 (poz. 90).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 90                    |
-| HP          | 203 (+9,12 za poziom) |
-| Sloty akcji | start: 6 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 90                                             |
+| HP           | 203 (+9,12 za poziom)                          |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Świadomość Roju                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Wszystkie odporności zmieniają się na „Zwykła”
+**Efekt Paniki:** Wszystkie odporności zmieniają się na „Zwykła”
+Podwaja ilość Siły [Podpalenie], [Krwawienie], [Wstrząs] oraz [Rozdarcie] zyskiwanej z efektów umiejętności
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2724,37 +2846,37 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Tidepiercer Lance — id 128801
+##### Umiejętność: Włócznia Przebijająca Fale — id 128801
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tidebreaker Lance — id 128802
+##### Umiejętność: Włócznia Rozbijająca Fale — id 128802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tide-Hunt — id 128803
+##### Umiejętność: Polowanie Przypływu — id 128803
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +3 |      3 |    3 |
 
-##### Umiejętność: Slay the Ocean, Slay the Ocean!! — id 128804
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128804
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +1 |      3 |    7 |
 
-##### Umiejętność: Slay the Ocean, Slay the Ocean!! — id 128805
+##### Umiejętność: Zabijcie Ocean, Zabijcie Ocean!! — id 128805
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +3 |      3 |    7 |
 
-##### Umiejętność: The Indomitable Knight — id 128806
+##### Umiejętność: Nieugięty Rycerz — id 128806
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2821,6 +2943,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ślizgacz Morskiej Niziny — id 1293
 
 *Wystąpienia: ×1 (poz. 50).*
@@ -2859,6 +2983,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Żniwiarz Morskiej Niecki — id 1294
 
@@ -2905,6 +3031,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +3 |      2 |    1 |
 
+**Pasywki:** brak
+
 #### Założyciel Głębin — id 1295
 
 *Wystąpienia: ×2 (poz. 52).*
@@ -2943,6 +3071,8 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |         +3 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Wydzielacz Głębin — id 1296
 
@@ -2983,17 +3113,22 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +3 |      3 |    3 |
 
+**Pasywki:** brak
+
 #### Zwinny Wyznawca Głębin — id 1289
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3010,19 +3145,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Multiple Jabs — id 128904
+##### Umiejętność: Seria Pchnięć — id 128904
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3036,13 +3171,16 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 67 (+2,29 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 67 (+2,29 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Panika                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3059,19 +3197,19 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: Cell Injection — id 128901
+##### Umiejętność: Wstrzyknięcie Komórek — id 128901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +6 |      1 |    1 |
 
-##### Umiejętność: Ripping Slice (×2) — id 128902
+##### Umiejętność: Rozdzierające Cięcie (×2) — id 128902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swinging Slice — id 128903
+##### Umiejętność: Cięcie z Machnięcia — id 128903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3085,12 +3223,16 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Wystąpienia: ×1 (poz. 55).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 55                    |
-| HP         | 247 (+8,51 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 247 (+8,51 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zew Krewniaków                                 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
+**Efekt Paniki:** Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Wrażliwość], aby nałożyć po 1 [Wzrost Mocy Ataku] i [Wrażliwość] na wszystkich sojuszników
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -3107,31 +3249,31 @@ zamiast efektów [Spadek Poziomu Ataku] i [Spadek Poziomu Obrony] z [Asymilacja 
 
 *Opis:* Część
 
-##### Umiejętność: United Will — id 129101
+##### Umiejętność: Zjednoczona Wola — id 129101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Propagating Bliss — id 129102
+##### Umiejętność: Rozprzestrzeniająca się Rozkosz — id 129102
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Rite of Liberation — id 129103
+##### Umiejętność: Obrzęd Uwolnienia — id 129103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Environmental Adaptation — id 129104
+##### Umiejętność: Adaptacja do Środowiska — id 129104
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |          9 |         +5 |      1 |    1 |
 
-##### Umiejętność: For the Landbound Kins — id 129105
+##### Umiejętność: Dla Lądowych Rodaków — id 129105
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |

@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=815901].levelList[level=1].name": {
-      "pl": "Grasp",
+      "pl": "Chwyt",
       "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
       "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=815902].levelList[level=1].name": {
-      "pl": "Piling Rocks",
+      "pl": "Układanie Kamieni",
       "kr_sha256": "cda4ef397e162c931a485a84321585e880103d2aaf4eed48b406a0bfaa8b03cf",
       "en_sha256": "cab13b9d8a183a83c0c98c0975af9543ca2997bc495995ffcbc18c375c15951a",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=815903].levelList[level=1].name": {
-      "pl": "Slothful Press",
+      "pl": "Leniwy Zgniot",
       "kr_sha256": "1dfc5f5568a736f0bec95d5c3fbd0ebfb6ac8f6ad67b823a7cc09b694ece223e",
       "en_sha256": "c36dbc807f36aff6be9b3a5cbfccac882cb9446f46fbd0cf5e09684e6e456a6c",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=815904].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=816001].levelList[level=1].name": {
-      "pl": "Maul",
+      "pl": "Rozszarpanie",
       "kr_sha256": "4ed6ed4e5964d9e5ddc8f637ff7909aa3496a58f7cfdd3d017adf23724fdf53a",
       "en_sha256": "4d405e383765b0d5e2c6f3ac7fc288033808d159753029ebc9209182dbb2094f",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=816002].levelList[level=1].name": {
-      "pl": "Devouring",
+      "pl": "Czas Na Żarcie",
       "kr_sha256": "7d3be26a7b2fcbe6cc0a1a0ece1a05629926f3b62abf87aa4132585dc082c8c9",
       "en_sha256": "948df5209d387a50145dcd9c39457de4825d3a51f44c2490de753ce4d87b0bdd",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=816003].levelList[level=1].name": {
-      "pl": "Ravenous Devouring",
+      "pl": "Zarłaczna Uczta",
       "kr_sha256": "fb3d55c3f9b97d25ba03f329ee9da29aa9bc452b3d9b540d18bfc3f39949870c",
       "en_sha256": "8ca501e7e6cd17367a44da9e1ed6b11e983a96b25f18121670a6099a08f89881",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=816004].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=816401].levelList[level=1].name": {
-      "pl": "Bat Bash",
+      "pl": "Cios Kijem",
       "kr_sha256": "cc5219e563e3a17d8788a93b1210464eb1c7b98c913f5dfe27ea51730b5c7c29",
       "en_sha256": "c8221b191fd246a3530e654d9b2e412880ec37064a758a3e8eb165982638bb28",
       "origin": "ai"
@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=816402].levelList[level=1].name": {
-      "pl": "Smackdown",
+      "pl": "Roztrzaskanie",
       "kr_sha256": "8585ce52ee1a4c51fec409d539ec62ea14d1c4e2baf5dd4d23ad97da74874794",
       "en_sha256": "d677cbad6cb2bced3cb2a3121e21deb9e5d3247690c2c2874aa7c63fa88ebccd",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=816403].levelList[level=1].name": {
-      "pl": "Upheaval",
+      "pl": "Zryw",
       "kr_sha256": "320ae4808971d1b5e6c14753360d36bb9ab97e65446741e74f12a3aaf0d4c151",
       "en_sha256": "6eff9b83d41eaaea2306eb0a71526b9a937f2c14ba234b2da2ca318ab7937619",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=816404].levelList[level=1].name": {
-      "pl": "Time to Repent",
+      "pl": "Czas na Pokutę",
       "kr_sha256": "437c239c4645989b4607eda76169b495583600b6e894d2bd75f982ab41357a92",
       "en_sha256": "a54e6fbdfc19e02504b62c0e715b236002c7973245f56553aaec4aeb155548d9",
       "origin": "ai"
@@ -415,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=816405].levelList[level=1].name": {
-      "pl": "You Must Suffer More!",
+      "pl": "Musisz Cierpieć Więcej!",
       "kr_sha256": "e9db7136b2d700b7d6b42fa6d25049acf3bf6db2582e98848a8a6221677aaea4",
       "en_sha256": "9d8a154170944b8d455c788264272bc684e793aa78ae16d24bb747aef7e70016",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=816406].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=816407].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=816501].levelList[level=1].name": {
-      "pl": "I'll Remove You",
+      "pl": "Usuwam Cię",
       "kr_sha256": "652568722d33b12fd841b04c3c210727bb7a8f9585e518531f38ef178f95a347",
       "en_sha256": "15c7ba87e9c204abf6a91e9794da01237eb6b0f222c6e59571053716ac3cc2b6",
       "origin": "ai"
@@ -505,7 +505,7 @@
       "origin": "ai"
     },
     "dataList[id=816502].levelList[level=1].name": {
-      "pl": "Bloody Bastard!",
+      "pl": "Przeklęty Łobuz!",
       "kr_sha256": "add7e771f4387e1aa932a72a497b22e442f8f6032a7f45493749bf433cac4a77",
       "en_sha256": "07ce0a995a166e92ff759b6e815525316148dda2c2658c55ddcb6963cd6f7a28",
       "origin": "ai"
@@ -553,7 +553,7 @@
       "origin": "ai"
     },
     "dataList[id=816503].levelList[level=1].name": {
-      "pl": "This Is My Home!",
+      "pl": "To Jest Mój Dom!",
       "kr_sha256": "24e4127e86bdceecbb448e0c69c99af047083b4111012e08958fc2e206a172ea",
       "en_sha256": "807cfe6a75b57235ac334fcef821cb4febf52ab26d98143fee1214453a07c4b5",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=816504].levelList[level=1].name": {
-      "pl": "I'll Get You...!",
+      "pl": "Ciebie Szczególnie...!",
       "kr_sha256": "353562504c2aa0192686ef760899b97f6790d5f8882cff3adda18f0fdc12ebd9",
       "en_sha256": "d5b133e0570694d168abefdb47c3c0f3c133be2a42a4c73d07d707d4cd4ee5f0",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=816505].levelList[level=1].name": {
-      "pl": "Give It Back...!!",
+      "pl": "Oddaj To...!!",
       "kr_sha256": "156ee049c9735d3e3191a051c2982faa31224713ac5c43631f8ba711d1c3880b",
       "en_sha256": "08f03673b92da4865f9f34b0b6b378c11e52291fb88122679e9d93809b7cad2a",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=816506].levelList[level=1].name": {
-      "pl": "You Little...",
+      "pl": "Ty Gnojku...",
       "kr_sha256": "29011518d4d75152774b77f982b128d3a09767d4fdf45c69acc63647feb9d82e",
       "en_sha256": "eb06bf18a244d9745708100e4c8b10750ed63fdfadf652a3682818e25bb04d51",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=816507].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -667,7 +667,7 @@
       "origin": "ai"
     },
     "dataList[id=816508].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=816509].levelList[level=1].name": {
-      "pl": "This is My Place!",
+      "pl": "To Moje Miejsce!",
       "kr_sha256": "5529d4be0f505f71cf3151786ede26ac9d64105ef18789b2e195dea6f6ce7d2e",
       "en_sha256": "3efba8631eeb8e844983230fddc5717c8b4bd1bcd412a34880902388a45e7af7",
       "origin": "ai"

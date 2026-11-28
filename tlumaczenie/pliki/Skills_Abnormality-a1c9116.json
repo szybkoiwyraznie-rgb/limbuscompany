@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=112601].levelList[level=1].name": {
-      "pl": "Startling Strike",
+      "pl": "Niespodziewane Uderzenie",
       "kr_sha256": "bdc201f500c6626233a0732a2408a0a529c567276714eda3e0909d6c9dccdd5d",
       "en_sha256": "e8d5a422616651a3fe9e45e161d04d0e15e2ec1288e1504f7eedb9c3d4b407c6",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=112602].levelList[level=1].name": {
-      "pl": "Perforating Kill",
+      "pl": "Zabójcze Wiercenie",
       "kr_sha256": "5a984cfa9cb43b4a1330d86086cb8db6b25006ba314a17119aced103211e6aa8",
       "en_sha256": "fd8c9463395d97efab0862843b51439fee41f31fd5b11371f2813a3d8f49e34b",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=112603].levelList[level=1].name": {
-      "pl": "Etching Strike",
+      "pl": "Uderzenie Grawerem",
       "kr_sha256": "56769b3126b7374810c9c43f8280fa8dfb1149b42cbc566817efcc95e30a2f22",
       "en_sha256": "4baec7005f788a3ec498a2c39c9d750f723c86abed4d07f20220ed9cc55106c0",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=112604].levelList[level=1].name": {
-      "pl": "Cursewrit Butcherblade - Blinkstep",
+      "pl": "Klątwna Klinga Rzeźnika - Skok w Mig",
       "kr_sha256": "d266d4439d17b61127443f1331827977c3f121beb8b4eb4e3c97bc31a7c7746e",
       "en_sha256": "55d763a17c869aabcffd64f7322cf01fab4b89159c92eda7a9dd577315d921e0",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=112605].levelList[level=1].name": {
-      "pl": "Cursewrit",
+      "pl": "Klętwopis",
       "kr_sha256": "857a13037ceeb2674da1d2218d3a8aad91b36a6b72093ae70fec057df4e84b88",
       "en_sha256": "1040a4233b687ab4cb0dccec40288b87990ea0e0113c31ea1086939ad8f149a2",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=112701].levelList[level=1].name": {
-      "pl": "No More Tests",
+      "pl": "Testy Zakończone",
       "kr_sha256": "2c56eb8c9494f9755010b249ca97962c960480456e16ff6db12ed23bfb418815",
       "en_sha256": "0437fe9ac5e72590a7b54f2adfff1dd883f212b0d6d2c4bbb07f18f4695898d6",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=112702].levelList[level=1].name": {
-      "pl": "Promised Suffering",
+      "pl": "Obiecane Cierpienie",
       "kr_sha256": "0b51554170e237d72d47ce275e16b35c5a635af38321ea52ec385f6a3b67ad84",
       "en_sha256": "18f761b8cb50b282a2c7aa13ea2dba36628f08813a59aab697e4b19daa5a2264",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=112703].levelList[level=1].name": {
-      "pl": "Enough Games",
+      "pl": "Zabawa się Skończyła",
       "kr_sha256": "0516751cf716cf2ed8134682f8c114f09536db9eb44b1a2260905925aec7089b",
       "en_sha256": "a4692fae59dfda7124c3b53ad828de772524f23ef8a8c21e80e6c0e45acaf782",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=112704].levelList[level=1].name": {
-      "pl": "COMPLETE AND TOTAL EXTERMINATION!!!",
+      "pl": "WSZYSCY — DO EKSTERMINACJI!!!",
       "kr_sha256": "4003c8619c1d657283cc99b455afbbcdc03ef44fe178aa24e4f1e504a80070a9",
       "en_sha256": "8e1de781c004c73b55b72c8005bdb5f4962f2fd582fd99d3da477351850e1778",
       "origin": "ai"

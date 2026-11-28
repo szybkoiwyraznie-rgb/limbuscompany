@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=122301].levelList[level=1].name": {
-      "pl": "Cascading Despair",
+      "pl": "Kaskada Rozpaczy",
       "kr_sha256": "a140d00cac6a349adbd01967f2c53afc1ebdc8656448777dd92b95810c787d27",
       "en_sha256": "2ee65d7ba26a412fb1193ba9f8f5409b210e52b20ee9a5d3f0672ae38bf63452",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=122302].levelList[level=1].name": {
-      "pl": "Sharp Teardrops",
+      "pl": "Ostre Łzy",
       "kr_sha256": "3f3490b13676bfd8c7e3fb42c063b02389643d03ed8f2bbd3a05b946b2c19a3a",
       "en_sha256": "e10e2aac80264faef3c7d8a4c864d2d9c6744e18cbae389a852872d55c7d6a24",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=122303].levelList[level=1].name": {
-      "pl": "River of Despairing Tears",
+      "pl": "Płynące Łzy Rozpaczy",
       "kr_sha256": "2d7ee34a8015fdf5afde32de851e57fe29ff21901674734078e77dac8fbd3375",
       "en_sha256": "50ec80241d0f172b8cb9a6c07f6bd20fcf49c22e512b0d788124451dc389fc03",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=122304].levelList[level=1].name": {
-      "pl": "Shared Sorrow, Dulled",
+      "pl": "Dzielony Smutek, Stępiały",
       "kr_sha256": "3f0ad40cad752e7d032c65389a17800207629cbaff6233baeddfe8c861b3fd6b",
       "en_sha256": "0ed4de8599bf5a8edf404093979eaf06632f71bafce5c94277b606fa616d9a9d",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=122305].levelList[level=1].name": {
-      "pl": "Violent Cascade of Hollow Despair",
+      "pl": "Gwałtowna Kaskada Pustej Rozpaczy",
       "kr_sha256": "d8b37c578d893aac9a1aacd33f7c21a005ea92ec6659cc586854c88172fa0b02",
       "en_sha256": "78be3edf1ea389ec74732b509f11e9f20034481bff0682f749a29cca8ee5650a",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=122306].levelList[level=1].name": {
-      "pl": "Arcana: Tear and Pierce",
+      "pl": "Arkan: Łza i Przebicie",
       "kr_sha256": "cdbeea8a83fe32019adddbb4a81f93695f149affa39197b084052303e0cecf04",
       "en_sha256": "4d0c1f59a1bc6affc795f12579e28d163fa2fd52be888d68820c52dfad8e9a17",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=122401].levelList[level=1].name": {
-      "pl": "Faded Faith",
+      "pl": "Wyblakła Wiara",
       "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
       "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
       "origin": "ai"
@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=122402].levelList[level=1].name": {
-      "pl": "Weathered Pride",
+      "pl": "Zwietrzała Duma",
       "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
       "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=122403].levelList[level=1].name": {
-      "pl": "Endless Despair",
+      "pl": "Nieskończona Rozpacz",
       "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
       "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=122404].levelList[level=1].name": {
-      "pl": "Sword Sharpened with Tears",
+      "pl": "Miecz Zaostrzony Łzami",
       "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
       "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=122405].levelList[level=1].name": {
-      "pl": "Sword Laced with Grief",
+      "pl": "Klinga Przesiąknięta Żałobą",
       "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
       "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
       "origin": "ai"
@@ -415,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=122501].levelList[level=1].name": {
-      "pl": "Faded Faith",
+      "pl": "Wyblakła Wiara",
       "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
       "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=122502].levelList[level=1].name": {
-      "pl": "Weathered Pride",
+      "pl": "Zwietrzała Duma",
       "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
       "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
       "origin": "ai"
@@ -481,7 +481,7 @@
       "origin": "ai"
     },
     "dataList[id=122503].levelList[level=1].name": {
-      "pl": "Endless Despair",
+      "pl": "Nieskończona Rozpacz",
       "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
       "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
       "origin": "ai"
@@ -499,7 +499,7 @@
       "origin": "ai"
     },
     "dataList[id=122504].levelList[level=1].name": {
-      "pl": "Sword Sharpened with Tears",
+      "pl": "Miecz Zaostrzony Łzami",
       "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
       "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=122505].levelList[level=1].name": {
-      "pl": "Sword Laced with Grief",
+      "pl": "Klinga Przesiąknięta Żałobą",
       "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
       "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=122601].levelList[level=1].name": {
-      "pl": "Faded Faith",
+      "pl": "Wyblakła Wiara",
       "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
       "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=122602].levelList[level=1].name": {
-      "pl": "Weathered Pride",
+      "pl": "Zwietrzała Duma",
       "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
       "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
       "origin": "ai"
@@ -613,7 +613,7 @@
       "origin": "ai"
     },
     "dataList[id=122603].levelList[level=1].name": {
-      "pl": "Endless Despair",
+      "pl": "Nieskończona Rozpacz",
       "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
       "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
       "origin": "ai"
@@ -631,7 +631,7 @@
       "origin": "ai"
     },
     "dataList[id=122604].levelList[level=1].name": {
-      "pl": "Sword Sharpened with Tears",
+      "pl": "Miecz Zaostrzony Łzami",
       "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
       "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=122605].levelList[level=1].name": {
-      "pl": "Sword Laced with Grief",
+      "pl": "Klinga Przesiąknięta Żałobą",
       "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
       "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
       "origin": "ai"
@@ -679,7 +679,7 @@
       "origin": "ai"
     },
     "dataList[id=122701].levelList[level=1].name": {
-      "pl": "Faded Faith",
+      "pl": "Wyblakła Wiara",
       "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
       "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=122702].levelList[level=1].name": {
-      "pl": "Weathered Pride",
+      "pl": "Zwietrzała Duma",
       "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
       "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=122703].levelList[level=1].name": {
-      "pl": "Endless Despair",
+      "pl": "Nieskończona Rozpacz",
       "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
       "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
       "origin": "ai"
@@ -763,7 +763,7 @@
       "origin": "ai"
     },
     "dataList[id=122704].levelList[level=1].name": {
-      "pl": "Sword Sharpened with Tears",
+      "pl": "Miecz Zaostrzony Łzami",
       "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
       "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
       "origin": "ai"
@@ -787,7 +787,7 @@
       "origin": "ai"
     },
     "dataList[id=122705].levelList[level=1].name": {
-      "pl": "Sword Laced with Grief",
+      "pl": "Klinga Przesiąknięta Żałobą",
       "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
       "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
       "origin": "ai"

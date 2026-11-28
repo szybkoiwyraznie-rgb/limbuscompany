@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=9009801].levelList[level=1].name": {
-      "pl": "Stab",
+      "pl": "Pchnięcie",
       "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
       "en_sha256": "289a9c9cffb746ba9e0b6dbd10fc984da5cf6b3cb08f9c3c062baf162cc1cf25",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=9009802].levelList[level=1].name": {
-      "pl": "Tear Up Wound",
+      "pl": "Rozdzieranie Ran",
       "kr_sha256": "28a3369f33a79c23a4cd372145f5c5f8123ee80cdfbf1f672d5423dc1d902585",
       "en_sha256": "b78f821b5e4617c74b8d09e5c60ec4d47b2fbc25fda973c7b22e5d6d2ea7d307",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=9009803].levelList[level=1].name": {
-      "pl": "Protect the Town!",
+      "pl": "Chrońcie Miasteczko!",
       "kr_sha256": "ba10d2a95232c30d22887e63b69ebb065530beec4b50332698d4a33574f49e18",
       "en_sha256": "f457a9d19406d044e58526af4b350a54013b01996b2b9899a22b7b00cddbf987",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=9009804].levelList[level=1].name": {
-      "pl": "Javelin",
+      "pl": "Włócznia",
       "kr_sha256": "e7ccbf856f11b16ab72985246f825995d17c1bac1fdbbfdafda5c2aa43a3c0e2",
       "en_sha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=9009805].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=9009902].levelList[level=1].name": {
-      "pl": "Carve Wound",
+      "pl": "Wyzłobienie Rany",
       "kr_sha256": "06734f4712239d7b5dde031cc770e41df605c6fae2d75d411dd327ab15d33c98",
       "en_sha256": "7901420e32bb903dda8fc33343741a44a9b5be1d5ad29c75af0e394b77cc5905",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=9009903].levelList[level=1].name": {
-      "pl": "Protect the Town!",
+      "pl": "Chrońcie Miasteczko!",
       "kr_sha256": "ba10d2a95232c30d22887e63b69ebb065530beec4b50332698d4a33574f49e18",
       "en_sha256": "f457a9d19406d044e58526af4b350a54013b01996b2b9899a22b7b00cddbf987",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=9009904].levelList[level=1].name": {
-      "pl": "Javelin",
+      "pl": "Włócznia",
       "kr_sha256": "e7ccbf856f11b16ab72985246f825995d17c1bac1fdbbfdafda5c2aa43a3c0e2",
       "en_sha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=9009905].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"

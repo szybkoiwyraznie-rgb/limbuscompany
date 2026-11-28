@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=123804].levelList[level=1].name": {
-      "pl": "The Parade's Prince",
+      "pl": "Książę Parady",
       "kr_sha256": "2cb5bcca87f8f0509b3a1a66c0b4ea45b94165e5e54da3779a20b0616bfca15b",
       "en_sha256": "327bdab91778cc2e86a12a5ced1b65c4b594ed3edb4eae8da171ff4a31c85367",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=123807].levelList[level=1].name": {
-      "pl": "I Am... The Prince... of the Parade...!",
+      "pl": "Jestem... Księciem... tej Parady...!",
       "kr_sha256": "9425d6bfb6287c35d71cb4e2f7f0ebda3d6209786f42a2c3d42def0e7bf97485",
       "en_sha256": "0dbc3b7b431d4f4e271156691df53530a253bcd841757a8245743cd6ebd3ccb5",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=123808].levelList[level=1].name": {
-      "pl": "I'm... Never... Going Back...!",
+      "pl": "Nigdy... Nie Wracam...!",
       "kr_sha256": "0f9a9cda50aa9621fc0d52349dd8bbd61082821a733722461f09eae467715a24",
       "en_sha256": "7ce0cb990b718759c0627fa492a5a90c58246f7c6b81b014dd98dec6e4ddbd20",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=130501].levelList[level=1].name": {
-      "pl": "Activate Prosthesis",
+      "pl": "Aktywacja Protezy",
       "kr_sha256": "8880dd5c0273538ab97f5d6b04b614ca649145f23634ba6be963a2839bf8a11a",
       "en_sha256": "0de3b78959a0acb71a406962a8a58e9a3da72be0c9b349d7ce91ac11a5fa6767",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=130503].levelList[level=1].name": {
-      "pl": "Bioenergy Conversion Charge",
+      "pl": "Ładowanie z Konwersji Bioenergii",
       "kr_sha256": "fd20901430893528f91817b5a17d346a44e807e3f09908fc54929a9439e3d60c",
       "en_sha256": "ed867b8f2a12cc1150874b81c8094c3721efa80f0b157d22df6cae7d38edde26",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=130504].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=130506].levelList[level=1].name": {
-      "pl": "Bioenergy Conversion Recharge",
+      "pl": "Przeładowanie z Konwersji Bioenergii",
       "kr_sha256": "b389bd56874fb599a92d02144f6fe1e752f34a595644b3a866041776d6b40c49",
       "en_sha256": "2ac805becf779b4c1db3a15c1fabb4cf607bcc9c79d599b30e2443411e5f9d7b",
       "origin": "ai"

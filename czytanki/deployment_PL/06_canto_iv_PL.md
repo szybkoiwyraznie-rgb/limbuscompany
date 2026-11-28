@@ -19,6 +19,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30% / -10%                                                     |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -51,6 +52,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30% / 0% / -10%                                                |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -95,6 +97,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30% / 0% / -10%                                                |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -195,6 +198,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Spiżowy Byk — Łzawiący — id 8041
 
 *Wystąpienia: ×1 (poz. 29).*
@@ -222,13 +227,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ram — id 804101
+##### Umiejętność: Taranowanie — id 804101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Pin Down — id 804102
+##### Umiejętność: Przygniecenie — id 804102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -240,19 +245,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Overflowing Sorrow — id 804104
+##### Umiejętność: Rozlewający się Smutek — id 804104
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Heated Cries — id 804105
+##### Umiejętność: Rozgrzany Płacz — id 804105
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Heated Screams — id 804106
+##### Umiejętność: Rozgrzane Krzyki — id 804106
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -277,6 +282,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30% / 0% / -10%                                                |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -321,6 +327,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30% / 0% / -10%                                                |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -375,6 +382,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30% / 0% / -10%                                                |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -419,6 +427,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30% / 0% / -10%                                                |
+| Typ paniki         | Przytłoczenie                                                  |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -489,13 +498,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ram — id 804101
+##### Umiejętność: Taranowanie — id 804101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Pin Down — id 804102
+##### Umiejętność: Przygniecenie — id 804102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -507,19 +516,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Overflowing Sorrow — id 804104
+##### Umiejętność: Rozlewający się Smutek — id 804104
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Heated Cries — id 804105
+##### Umiejętność: Rozgrzany Płacz — id 804105
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Heated Screams — id 804106
+##### Umiejętność: Rozgrzane Krzyki — id 804106
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -572,43 +581,43 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Wanna Get Drunk? — id 804801
+##### Umiejętność: Chcesz się Zapić? — id 804801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Let's Share the Drink! — id 804802
+##### Umiejętność: Podzielmy się Napitkiem! — id 804802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: This is All I Got! — id 804803
+##### Umiejętność: Mam tylko To! — id 804803
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: I'll Have This! — id 804804
+##### Umiejętność: To Ja To Zjem! — id 804804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: I'll Have This! — id 804805
+##### Umiejętność: To Ja To Zjem! — id 804805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Not This Time! — id 804806
+##### Umiejętność: Nie Tym Razem! — id 804806
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: You Like This Brew? — id 804807
+##### Umiejętność: Smakuje Wam ten Winiak? — id 804807
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -652,6 +661,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +0 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-10 · Organizacja Terrorystyczna
 
 - **Fala 1:** Prymitywny Robot z Piłą ×2 (poz. 28); Prymitywny Robot z Kulą Rozbiórkową ×3 (poz. 28)
@@ -667,6 +678,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -700,6 +712,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -737,6 +750,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -770,6 +784,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -807,6 +822,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -840,6 +856,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -873,6 +890,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -923,6 +941,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -956,6 +975,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -989,6 +1009,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1040,6 +1061,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1073,6 +1095,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1106,6 +1129,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -10% / -30%                                            |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Wróg-Boss
@@ -1181,6 +1205,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1214,6 +1239,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1251,6 +1277,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1284,6 +1311,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1317,6 +1345,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1363,6 +1392,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1413,6 +1443,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1446,6 +1477,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1479,6 +1511,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1525,6 +1558,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1575,6 +1609,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1608,6 +1643,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1654,6 +1690,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1700,6 +1737,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -10% / -30%                                            |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Wróg-Boss
@@ -1776,6 +1814,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1809,6 +1848,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 30% / -10%                                                    |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1842,6 +1882,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1888,6 +1929,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -20%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -1934,6 +1976,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -10% / -30%                                            |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Wróg-Boss
@@ -2009,8 +2052,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 4–6                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 60% / 30%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2) — id 9005201
@@ -2037,6 +2084,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
 
 *Wystąpienia: ×2 (poz. 33).*
@@ -2048,8 +2097,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 70% / 40%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2) — id 9005301
@@ -2076,6 +2129,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Rep Warsztatu Rosespanner Niko — id 91008
 
 *Wystąpienia: ×1 (poz. 33).*
@@ -2087,8 +2142,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/3 · maks. 5                                        |
 | Progi oszołomienia | 40% / 10%                                                     |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Proszę Się Odsunąć! (×2) — id 9100801
@@ -2155,8 +2214,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 4–6                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 60% / 30%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2) — id 9005201
@@ -2183,6 +2246,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
 
 *Wystąpienia: ×2 (poz. 31).*
@@ -2194,8 +2259,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 70% / 40%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2) — id 9005301
@@ -2221,6 +2290,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 4-23 · Zdrajca 3
 
@@ -2237,8 +2308,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 40% / 20%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zakręci Ci w Głowie (×2) — id 9005101
@@ -2265,6 +2340,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Dumny Fikser Warsztatu Rosespanner — id 90052
 
 *Wystąpienia: ×2 (poz. 31).*
@@ -2276,8 +2353,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 4–6                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 60% / 30%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2) — id 9005201
@@ -2304,6 +2385,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
 
 *Wystąpienia: ×2 (poz. 31).*
@@ -2315,8 +2398,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 70% / 40%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2) — id 9005301
@@ -2342,6 +2429,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 4-24 · Zdrajca 4
 
@@ -2358,8 +2447,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 40% / 20%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zakręci Ci w Głowie (×2) — id 9005101
@@ -2386,6 +2479,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Dumny Fikser Warsztatu Rosespanner — id 90052
 
 *Wystąpienia: ×1 (poz. 32).*
@@ -2397,8 +2492,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 4–6                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 60% / 30%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2) — id 9005201
@@ -2425,6 +2524,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
 
 *Wystąpienia: ×1 (poz. 32).*
@@ -2436,8 +2537,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 70% / 40%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2) — id 9005301
@@ -2464,6 +2569,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Solidny Robot Zespolony — id 91007
 
 *Wystąpienia: ×1 (poz. 32).*
@@ -2475,6 +2582,7 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 20% / -10% / -30%                                            |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Wróg-Boss
@@ -2550,8 +2658,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–2                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 40% / 20%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zakręci Ci w Głowie (×2) — id 9005101
@@ -2578,6 +2690,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Dumny Fikser Warsztatu Rosespanner — id 90052
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
@@ -2589,8 +2703,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 4–6                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 60% / 30%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zjedz To! (×2) — id 9005201
@@ -2617,6 +2735,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Trzęsący Się Fikser Warsztatu Rosespanner — id 90053
 
 *Wystąpienia: ×2 (poz. 33) · też jako wsparcie.*
@@ -2628,8 +2748,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                         |
 | Progi oszołomienia | 70% / 40%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Narastające Tarcie (×2) — id 9005301
@@ -2656,6 +2780,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Rep Warsztatu Rosespanner Niko — id 91008
 
 *Wystąpienia: ×1 (poz. 33) · też jako wsparcie.*
@@ -2667,8 +2793,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/3 · maks. 5                                        |
 | Progi oszołomienia | 40% / 10%                                                     |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Proszę Się Odsunąć! (×2) — id 9100801
@@ -2751,17 +2881,19 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 8016
 
@@ -2790,17 +2922,19 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 4-30 · Gwiazdozbiory
 
@@ -2817,8 +2951,12 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -2862,8 +3000,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
@@ -2901,6 +3043,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -2950,8 +3093,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -2995,8 +3142,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -3040,6 +3191,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -3089,8 +3241,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
@@ -3134,6 +3290,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -3183,8 +3340,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Błądzenie                                                                                |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
+**Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
+Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
@@ -3211,6 +3373,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
 
 *Wystąpienia: ×3 (poz. 31).*
@@ -3222,8 +3386,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Samobójczy Pęd                                                                            |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
+**Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
@@ -3249,6 +3417,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 4-34 · Bystrzy Złoczyńcy 2
 
@@ -3265,8 +3435,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Błądzenie                                                                                |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
+**Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
+Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
@@ -3293,6 +3468,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
 
 *Wystąpienia: ×3 (poz. 31).*
@@ -3304,8 +3481,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Samobójczy Pęd                                                                            |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
+**Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
@@ -3331,6 +3512,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 4-35 · Pilne Wezwanie
 
@@ -3347,8 +3530,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Błądzenie                                                                                |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
+**Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
+Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
@@ -3375,6 +3563,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
 
 *Wystąpienia: ×1 (poz. 32).*
@@ -3386,8 +3576,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Samobójczy Pęd                                                                            |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
+**Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
@@ -3414,6 +3608,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Lobotomy E.G.O::Czerwone Prześcieradło — id 90061
 
 *Wystąpienia: ×2 (poz. 32).*
@@ -3425,8 +3621,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Obłęd                                                                                     |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -3459,6 +3659,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-36 · Pilne Wezwanie 2
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32); Lobotomy E.G.O::Chlupotanie ×1 (poz. 32)
@@ -3474,8 +3676,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Błądzenie                                                                                |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Koniec Tury: zadaj 2 obrażeń SP sojusznikom
+**Efekt Paniki:** Koniec Tury: przez 3 tury zadaje 5 obrażeń SP sojusznikom
+Po zakończeniu 3. tury ucieka z walki
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9005801
@@ -3502,6 +3709,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Lobotomy E.G.O::Czerwone Prześcieradło — id 90059
 
 *Wystąpienia: ×1 (poz. 32).*
@@ -3513,8 +3722,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Samobójczy Pęd                                                                            |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale nie może działać
+**Efekt Paniki:** Nie może działać przez 3 tury. Po 3 turach ginie na początku tury; po śmierci wszyscy sojusznicy tracą dodatkowo 10 SP przy każdym warunku utraty SP
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9005901
@@ -3541,6 +3754,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +6 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Lobotomy E.G.O::Chlupotanie — id 90060
 
 *Wystąpienia: ×2 (poz. 32).*
@@ -3552,8 +3767,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Obłęd                                                                                    |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -3600,8 +3819,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Obłęd                                                                                    |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -3644,8 +3867,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Obłęd                                                                                     |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -3678,6 +3905,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-38 · Świetlana Przeszłość
 
 - **Fala 1:** Skrępowany Strażnik Punktu Kontrolnego K Corp. ×2 (poz. 31); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 31); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 31)
@@ -3693,8 +3922,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
@@ -3732,8 +3965,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -3777,6 +4014,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -3826,8 +4064,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
@@ -3865,8 +4107,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -3910,6 +4156,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -3959,8 +4206,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×2) — id 9002804
@@ -3998,8 +4249,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -4043,6 +4298,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -4110,8 +4366,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
@@ -4155,8 +4415,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -4200,6 +4464,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -4263,8 +4528,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Obłęd                                                                                    |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -4307,8 +4576,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Obłęd                                                                                     |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -4341,6 +4614,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-42 · Klasa 1. 2
 
 - **Fala 1:** Zastraszony Pracownik 1. Klasy K Corp. ×2 (poz. 33); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 33); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie)
@@ -4356,8 +4631,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
@@ -4401,8 +4680,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -4446,8 +4729,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Obłęd                                                                                    |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -4490,8 +4777,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Obłęd                                                                                     |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -4524,6 +4815,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-43 · Epoka bez Technologii
 
 - **Fala 1:** Lobotomy E.G.O::Chlupotanie ×3 (poz. 34); Lobotomy E.G.O::Czerwone Prześcieradło ×2 (poz. 34); Lobotomy E.G.O::Chlupotanie ×1 (poz. 34) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 34) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 34) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło - Marile ×1 (poz. 34) (wsparcie)
@@ -4539,8 +4832,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Obłęd                                                                                    |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -4583,8 +4880,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Obłęd                                                                                     |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -4617,6 +4918,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Lobotomy E.G.O::Czerwone Prześcieradło - Marile — id 91009
 
 *Wystąpienia: ×1 (poz. 34) · też jako wsparcie.*
@@ -4628,8 +4931,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                      |
 | Sloty akcji        | start: 1/2/3 · maks. 5                                                                   |
 | Progi oszołomienia | 60% / 30%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                                           |
+| Typ paniki         | Wzburzenie                                                                               |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Gniew ×0,6; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Spętająca Klątwa (×2) — id 9100901
@@ -4696,8 +5003,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
@@ -4741,8 +5052,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -4786,6 +5101,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -4853,8 +5169,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Obłęd                                                                                    |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -4897,8 +5217,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Obłęd                                                                                     |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -4931,6 +5255,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-46 · Propozycja Pracy 2
 
 - **Fala 1:** Przerażony Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 33); Skamieniały Strażnik Punktu Kontrolnego K Corp. ×1 (poz. 33); Zaniepokojony Pracownik 1. Klasy K Corp. ×2 (poz. 33); Zhakowany Dron Regeneracyjny K Corp. ×1 (poz. 33); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Czerwone Prześcieradło ×1 (poz. 33) (wsparcie); Lobotomy E.G.O::Chlupotanie ×1 (poz. 33) (wsparcie)
@@ -4946,8 +5272,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -4991,8 +5321,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Aktywacja Pocisków HP (×3) — id 9002804
@@ -5030,8 +5364,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -5075,6 +5413,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 30% / -10%                                                   |
+| Typ paniki         | Przytłoczenie                                                |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Zwykły Wróg
@@ -5138,8 +5477,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 40% / 20%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Obłęd                                                                                    |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -5182,8 +5525,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                    |
 | Progi oszołomienia | 60% / 30%                                                                                 |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                            |
+| Typ paniki         | Obłęd                                                                                     |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przy pierwszym wejściu w Niskie Morale atakuje cele bez rozróżnienia
+**Efekt Paniki:** Atakuje bez rozróżnienia; Moc Starcia +1 oraz zyskaj 2 Wzrost Obrażeń
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -5216,6 +5563,8 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-47 · Sala Projekcyjna
 
 - **Fala 1:** Lobotomy E.G.O::Mżawka - Dongbaek ×1 (poz. 35); Stary Parasol ×4 (poz. 34) (wsparcie)
@@ -5224,13 +5573,17 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Wystąpienia: ×1 (poz. 35).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 10                    |
-| HP          | 205 (+8,44 za poziom) |
-| Sloty akcji | start: 3 · maks. 5    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 10                                             |
+| HP           | 205 (+8,44 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki   | Niestabilność                                  |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku oraz 3 Spętanie
+**Efekt Paniki:** Początek Tury: wpada w Oszołomienie
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5247,37 +5600,37 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Stinging Memories — id 804301
+##### Umiejętność: Kolące Wspomnienia — id 804301
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Thorny Memories — id 804302
+##### Umiejętność: Kolczaste Wspomnienia — id 804302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Self-defense — id 804303
+##### Umiejętność: Obrona Własna — id 804303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         10 |         −5 |      1 |    1 |
 
-##### Umiejętność: Aching Heart — id 804304
+##### Umiejętność: Bolące Serce — id 804304
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         13 |         −4 |      2 |    1 |
 
-##### Umiejętność: Sink It All — id 804305
+##### Umiejętność: Zatopcie Wszystko — id 804305
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         26 |        −10 |      1 |    7 |
 
-##### Umiejętność: Get It Away — id 804306
+##### Umiejętność: Zabierz to Stąd — id 804306
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5341,13 +5694,17 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Wystąpienia: ×1 (poz. 35).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | 6                      |
-| HP          | 521 (+26,97 za poziom) |
-| Sloty akcji | start: 4 · maks. 4     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 6                                              |
+| HP           | 521 (+26,97 za poziom)                         |
+| Sloty akcji  | start: 4 · maks. 4                             |
+| Poczytalność | Niskie Morale przy SP -25 · Panika przy SP -45 |
+| Typ paniki   | Niestabilność                                  |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku oraz 3 Spętanie
+**Efekt Paniki:** Początek Tury: wpada w Oszołomienie
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5363,61 +5720,61 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Scattering Fragrance — id 804401
+##### Umiejętność: Niosąca się Won — id 804401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pungent Fragrance — id 804402
+##### Umiejętność: Koląca Won — id 804402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +1 |      2 |    3 |
 
-##### Umiejętność: Flowering Buds — id 804403
+##### Umiejętność: Kwitnące Pąki — id 804403
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: Like Flowers in Full Bloom... — id 804404
+##### Umiejętność: Jak Kwiaty w Pełnym Rozkwicie... — id 804404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          8 |         +1 |      3 |    1 |
 
-##### Umiejętność: Magnificent Spring Breeze — id 804405
+##### Umiejętność: Wspaniała Wiosenna Bryza — id 804405
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         16 |         +4 |      1 |    7 |
 
-##### Umiejętność: Must Cover With Dirt — id 804406
+##### Umiejętność: Trzeba Zasypać Ziemią — id 804406
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Withering Flower — id 804408
+##### Umiejętność: Usychający Kwiat — id 804408
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          8 |         +1 |      3 |    1 |
 
-##### Umiejętność: Culminating Fragrance — id 804409
+##### Umiejętność: Won Kulminacji — id 804409
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         20 |         +5 |      3 |   15 |
 
-##### Umiejętność: Piquant Scent — id 804410
+##### Umiejętność: Kolący Refleks Woniu — id 804410
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          6 |         +2 |      1 |    1 |
 
-##### Umiejętność: Awaiting the Moment — id 804411
+##### Umiejętność: Czekając na Tę Chwilę — id 804411
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5461,31 +5818,31 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 
 *Opis:* Część
 
-##### Umiejętność: Floral Breeze — id 805401
+##### Umiejętność: Wiosienko Kwiatów — id 805401
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Fragrant Breeze — id 805402
+##### Umiejętność: Wonny Wiatr — id 805402
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +2 |      2 |    1 |
 
-##### Umiejętność: Pungent Breeze — id 805403
+##### Umiejętność: Koląca Bryza — id 805403
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +1 |      3 |    2 |
 
-##### Umiejętność: Borne Scent — id 805404
+##### Umiejętność: Nasiąknięta Won — id 805404
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Fully Bloomed — id 805405
+##### Umiejętność: Pełen Rozkwit — id 805405
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5528,6 +5885,8 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +4 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 4-49 · Nic
 
 - **Fala 1:** Ożywiony Strażnik K Corp. ×1 (poz. 32); Ożywiony Strażnik K Corp. ×1 (poz. 32); Ożywiony Pracownik 1. Klasy K Corp. ×1 (poz. 32); Ożywiony Pracownik 1. Klasy K Corp. ×1 (poz. 32)
@@ -5543,8 +5902,12 @@ jeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -5583,8 +5946,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Defend (×3) — id 9003001
@@ -5623,8 +5990,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
@@ -5669,8 +6040,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -5719,8 +6094,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Szturm (×3) — id 9002801
@@ -5759,8 +6138,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Defend (×3) — id 9003001
@@ -5799,8 +6182,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Powstrzymać Intruza (×3) — id 9005401
@@ -5845,8 +6232,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Przygnębienie                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Pauza! Stój! (×3) — id 9005501
@@ -5895,8 +6286,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                     |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                  |
 | Progi oszołomienia | 40% / 20%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                          |
+| Typ paniki         | Przygnębienie                                                                           |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -5941,8 +6336,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 60% / 30%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Przygnębienie                                                                            |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -5989,8 +6388,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–3                                                                                     |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                  |
 | Progi oszołomienia | 40% / 20%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                          |
+| Typ paniki         | Przygnębienie                                                                           |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obżar. ×0,8; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Płyn Stłumienia (×2) — id 9006001
@@ -6035,8 +6438,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 3–5                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                   |
 | Progi oszołomienia | 60% / 30%                                                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                                           |
+| Typ paniki         | Przygnębienie                                                                            |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Gniew ×0,8; Posępność ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Raniąca Klątwa (×2) — id 9006101
@@ -6083,23 +6490,27 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 45% / 0%                                                      |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×2; Kłucie ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
-##### Umiejętność: Do Not Enter (×5) — id 852101
+##### Umiejętność: No Entry (×5) — id 852101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Subdue (×3) — id 852102
+##### Umiejętność: Stłumienie (×3) — id 852102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Forbid Entry (×2) — id 852103
+##### Umiejętność: Blokada Wejścia (×2) — id 852103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6115,14 +6526,18 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Wystąpienia: ×3 (poz. 35) · też jako wsparcie.*
 
-| Parametr    | Wartość                                                       |
-| ----------- | ------------------------------------------------------------- |
-| Poziom      | 3                                                             |
-| HP          | 74 (+2,55 za poziom)                                          |
-| Szybkość    | 1–5                                                           |
-| Sloty akcji | start: 1/2/2 · maks. 2                                        |
-| Odporności  | Cięcie ×2; Kłucie ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                       |
+| ------------ | ------------------------------------------------------------- |
+| Poziom       | 3                                                             |
+| HP           | 74 (+2,55 za poziom)                                          |
+| Szybkość     | 1–5                                                           |
+| Sloty akcji  | start: 1/2/2 · maks. 2                                        |
+| Poczytalność | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki   | Wzburzenie                                                    |
+| Odporności   | Cięcie ×2; Kłucie ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Podejrzanych (×5) — id 9006801
@@ -6182,13 +6597,13 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Opis:* Część
 
-##### Umiejętność: Ram — id 804101
+##### Umiejętność: Taranowanie — id 804101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Pin Down — id 804102
+##### Umiejętność: Przygniecenie — id 804102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6200,19 +6615,19 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Overflowing Sorrow — id 804104
+##### Umiejętność: Rozlewający się Smutek — id 804104
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Heated Cries — id 804105
+##### Umiejętność: Rozgrzany Płacz — id 804105
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Heated Screams — id 804106
+##### Umiejętność: Rozgrzane Krzyki — id 804106
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |

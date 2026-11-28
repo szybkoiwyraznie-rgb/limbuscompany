@@ -19,29 +19,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                         |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Ramię Cienia                                                     |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Elongating Palm (×3) — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3) — id 9021501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Puncturing Serpent Arm (×2) — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2) — id 9021502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Concealed Puncture — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Eyeing for a Chance — id 9021504
+##### Umiejętność: Rozglądanie za Okazją — id 9021504
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -64,29 +68,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                         |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Ramię Cienia                                                     |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Elongating Arm (×3) — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3) — id 9021601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Gnawing Serpent Arm (×2) — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2) — id 9021602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Shadowed Puncture — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Observe for a Chance — id 9021604
+##### Umiejętność: Szukam Okazji — id 9021604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -109,29 +117,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                             |
 | Sloty akcji        | start: 1/2/3/3 · maks. 3                                        |
 | Progi oszołomienia | 50% / 0%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                  |
+| Typ paniki         | Ramię Cienia                                                    |
 | Odporności         | Cięcie ×1,25; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Mutated Elongating Arm (×3) — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3) — id 9102301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Elongating Serpent Arm (×2) — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2) — id 9102302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Serpent's Keenlance — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Wait for a Chance — id 9102304
+##### Umiejętność: Czekaj na Okazję — id 9102304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -159,29 +171,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                         |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Ramię Cienia                                                     |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Elongating Palm (×3) — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3) — id 9021501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Puncturing Serpent Arm (×2) — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2) — id 9021502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Concealed Puncture — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Eyeing for a Chance — id 9021504
+##### Umiejętność: Rozglądanie za Okazją — id 9021504
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -204,29 +220,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                         |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Ramię Cienia                                                     |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Elongating Arm (×3) — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3) — id 9021601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Gnawing Serpent Arm (×2) — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2) — id 9021602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Shadowed Puncture — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Observe for a Chance — id 9021604
+##### Umiejętność: Szukam Okazji — id 9021604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -249,29 +269,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                             |
 | Sloty akcji        | start: 1/2/3/3 · maks. 3                                        |
 | Progi oszołomienia | 50% / 0%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                  |
+| Typ paniki         | Ramię Cienia                                                    |
 | Odporności         | Cięcie ×1,25; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Mutated Elongating Arm (×3) — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3) — id 9102301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Elongating Serpent Arm (×2) — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2) — id 9102302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Serpent's Keenlance — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Wait for a Chance — id 9102304
+##### Umiejętność: Czekaj na Okazję — id 9102304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -292,13 +316,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 75).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 816 (+28,14 za poziom) |
-| Sloty akcji | start: 7 · maks. 7     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 816 (+28,14 za poziom)                         |
+| Sloty akcji  | start: 7 · maks. 7                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Rumak bez Uzdy                                 |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku] i 1 [Wrażliwość]
+**Efekt Paniki:** Początek Tury: Maks. Szybkość +1, zyskaj 2 [Wzrost Poziomu Ataku] i 2 [Wrażliwość]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -315,49 +343,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Ironsteed Trample — id 124701
+##### Umiejętność: Zgniot Żelaznego Konia (鐵馬碎) — id 124701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Rupturing Trample — id 124702
+##### Umiejętność: Zgniot Fal (破蹈碎) — id 124702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          9 |         −2 |      4 |    1 |
 
-##### Umiejętność: Line-Crushing Cavalry Charge — id 124703
+##### Umiejętność: Miażdżenie Konnej Linii (馬陣粉碎) — id 124703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: Trample and Decapitate — id 124704
+##### Umiejętność: Zadeptanie i Ścięcie (擊碎斬) — id 124704
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |         11 |         −3 |      3 |    1 |
 
-##### Umiejętność: Filthy snakes... I'll crush you all... — id 124705
+##### Umiejętność: Brudne węże... Wszystkich Was Zgniotę... — id 124705
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         12 |         −2 |      4 |    3 |
 
-##### Umiejętność: Swiftsteed Linebreaker — id 124706
+##### Umiejętność: Gwałtowny Wierzchowiec Przebijający Szyk (奔馬穿陣) — id 124706
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         10 |         −4 |      2 |    5 |
 
-##### Umiejętność: You Shall Not Pass...! — id 124707
+##### Umiejętność: Nie Przejdziesz Dalej...! — id 124707
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |         12 |         −2 |      4 |    1 |
 
-##### Umiejętność: Mad Steed's Voidrender — id 124708
+##### Umiejętność: Rozdarcie Pustki Szalonym Wierzchowcem (狂馬裂空衝) — id 124708
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -388,13 +416,17 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 
 *Wystąpienia: ×1 (poz. 70).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 200 (+14,5 za poziom) |
-| Sloty akcji | start: 7 · maks. 7    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 200 (+14,5 za poziom)                          |
+| Sloty akcji  | start: 7 · maks. 7                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podao                                          |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%
+**Efekt Paniki:** Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -411,19 +443,19 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 
 *Opis:* Część
 
-##### Umiejętność: Frontal Swirl — id 9102101
+##### Umiejętność: Przednie Wirowanie — id 9102101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: Way of the Open-throat Chugging — id 9102102
+##### Umiejętność: Wino na Otwarte Gardło — id 9102102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Waterfall — id 9102103
+##### Umiejętność: Wodospad — id 9102103
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -435,19 +467,19 @@ przy Szybkości 5+ dodatkowo zyskuje 1 [Wzrost Obrażeń Cięcia] i 1 [Wzrost Ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Drunken Returning Strike — id 9102105
+##### Umiejętność: Pijacki Cios Powrotny — id 9102105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: True Decapitation Deathblow — id 9102506
+##### Umiejętność: Prawdziwa Dekapitacja — id 9102506
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |        +20 |      1 |    1 |
 
-##### Umiejętność: Intoxicated Leaning — id 9102107
+##### Umiejętność: Pochył pijaka — id 9102107
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -475,29 +507,33 @@ Szybkość w następnej turze jest ustalona na 10
 | Szybkość           | 2–5                                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                         |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Ramię Cienia                                                     |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Elongating Palm (×3) — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手) (×3) — id 9021501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Puncturing Serpent Arm (×2) — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) (×2) — id 9021502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Concealed Puncture — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Eyeing for a Chance — id 9021504
+##### Umiejętność: Rozglądanie za Okazją — id 9021504
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -520,29 +556,33 @@ Szybkość w następnej turze jest ustalona na 10
 | Szybkość           | 2–5                                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                         |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Ramię Cienia                                                     |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Elongating Arm (×3) — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕) (×3) — id 9021601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Gnawing Serpent Arm (×2) — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) (×2) — id 9021602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Shadowed Puncture — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Observe for a Chance — id 9021604
+##### Umiejętność: Szukam Okazji — id 9021604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -565,29 +605,33 @@ Szybkość w następnej turze jest ustalona na 10
 | Szybkość           | 3–5                                                             |
 | Sloty akcji        | start: 1/2/3/3 · maks. 3                                        |
 | Progi oszołomienia | 50% / 0%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                  |
+| Typ paniki         | Ramię Cienia                                                    |
 | Odporności         | Cięcie ×1,25; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Mutated Elongating Arm (×3) — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) (×3) — id 9102301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Elongating Serpent Arm (×2) — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) (×2) — id 9102302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Serpent's Keenlance — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Wait for a Chance — id 9102304
+##### Umiejętność: Czekaj na Okazję — id 9102304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -608,13 +652,17 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Wystąpienia: ×1 (poz. 70).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 810 (+31,44 za poziom) |
-| Sloty akcji | start: 7 · maks. 7     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 810 (+31,44 za poziom)                         |
+| Sloty akcji  | start: 7 · maks. 7                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Nocny Wędrowiec Pijanej Dłoni                  |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Otrzymywane obrażenia od Jia Xichun +10%; obrażenia Kontrataków +30%
+**Efekt Paniki:** Moc Końcowa +1; otrzymywane obrażenia od Jia Xichun +20%; obrażenia Kontrataków +50%
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -631,19 +679,19 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Frontal Swirl (前旋斬) — id 127201
+##### Umiejętność: Przednie Wirowanie (前旋斬) — id 127201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Way of the Open-throat Chugging (咽道酒) — id 127202
+##### Umiejętność: Wino na Otwarte Gardło (咽道酒) — id 127202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Waterfall (落酒) — id 127203
+##### Umiejętność: Wodospad (落酒) — id 127203
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -655,37 +703,37 @@ Szybkość w następnej turze jest ustalona na 10
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: True Decapitation Deathblow (眞鎭終斬) — id 127205
+##### Umiejętność: Prawdziwa Dekapitacja (眞鎭終斬) — id 127205
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    2 |
 
-##### Umiejętność: Intoxicated Leaning (醉靠) — id 127206
+##### Umiejętność: Pochył pijaka (醉靠) — id 127206
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          7 |        +13 |      1 |    1 |
 
-##### Umiejętność: Drunken Returning Strike (醉回攻) — id 127207
+##### Umiejętność: Pijacki Cios Powrotny (醉回攻) — id 127207
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Ultimate True Decapitation Deathblow (眞-眞鎭終斬) — id 127208
+##### Umiejętność: Ostateczna Prawdziwa Dekapitacja (眞-眞鎭終斬) — id 127208
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Drunken Decapitation Bladefall (落醉斬) — id 127209
+##### Umiejętność: Pijane Ścięcie (落醉斬) — id 127209
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Drunken Shadowwalking (醉影步) — id 127210
+##### Umiejętność: Pijackie Kroki Cienia (醉影步) — id 127210
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -700,13 +748,17 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Wystąpienia: ×2 (poz. 60) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,79 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ramię Cienia                                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -723,25 +775,25 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Elongating Palm — id 9021501
+##### Umiejętność: Rozciągająca Dłoń (伸長手) — id 9021501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Puncturing Serpent Arm — id 9021502
+##### Umiejętność: Ręka Przebijającego Węża (蛇貫腕) — id 9021502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Concealed Puncture — id 9021503
+##### Umiejętność: Wężowe Skryte Przebicie (隱擊貫蛇) — id 9021503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +13 |      1 |    1 |
 
-##### Umiejętność: Eyeing for a Chance — id 9021504
+##### Umiejętność: Rozglądanie za Okazją — id 9021504
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -755,13 +807,17 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+1,79 za poziom)  |
-| Sloty akcji | start: 1 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+1,79 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ramię Cienia                                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -778,25 +834,25 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Elongating Arm — id 9021601
+##### Umiejętność: Rozciągająca Ręka (伸長腕) — id 9021601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Gnawing Serpent Arm — id 9021602
+##### Umiejętność: Ręka Gryzącego Węża (蛇噛腕) — id 9021602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Serpent's Shadowed Puncture — id 9021603
+##### Umiejętność: Wężowe Cieniste Przebicie (陰擊貫蛇) — id 9021603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Observe for a Chance — id 9021604
+##### Umiejętność: Szukam Okazji — id 9021604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -810,13 +866,17 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Wystąpienia: ×1 (poz. 60) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 76 (+2,63 za poziom)  |
-| Sloty akcji | start: 1 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 76 (+2,63 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Ramię Cienia                                   |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Moc Starcia -1; otrzymywane obrażenia -10%
+**Efekt Paniki:** Moc Starcia -2; otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -833,25 +893,25 @@ Szybkość w następnej turze jest ustalona na 10
 
 *Opis:* Część
 
-##### Umiejętność: Mutated Elongating Arm — id 9102301
+##### Umiejętność: Zmutowana Rozciągnięta Ręka (變形伸腕) — id 9102301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Elongating Serpent Arm — id 9102302
+##### Umiejętność: Ręka Rozciągającego Węża (蛇伸長腕) — id 9102302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Serpent's Keenlance — id 9102303
+##### Umiejętność: Wężowy Ostry Kolec (蛇尖貫極) — id 9102303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |        +16 |      1 |    1 |
 
-##### Umiejętność: Wait for a Chance — id 9102304
+##### Umiejętność: Czekaj na Okazję — id 9102304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |

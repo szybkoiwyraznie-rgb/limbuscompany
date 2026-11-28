@@ -19,23 +19,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                             |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                          |
 | Progi oszołomienia | 40% / 0%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                  |
+| Typ paniki         | Wzburzenie                                                      |
 | Odporności         | Cięcie ×0,6; Kłucie ×1,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Collection Stop-and-search — id 9014201
+##### Umiejętność: Naliczenie: Kontrola — id 9014201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Please Stop. — id 9014202
+##### Umiejętność: Proszę Się Zatrzymać. — id 9014202
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Enforcing Collections. — id 9014203
+##### Umiejętność: Egzekwuję Naliczenie. — id 9014203
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -59,8 +63,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                        |
 | Progi oszołomienia | 70% / 0%                                                      |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przygotowanie do Zbierania — id 9014301
@@ -75,13 +83,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Your Timepiece, If You Will. — id 9014303
+##### Umiejętność: Twój Zegarek, jeśli wolno. — id 9014303
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Enforcing Collections. — id 9014304
+##### Umiejętność: Egzekwuję Naliczenie. — id 9014304
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -109,8 +117,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -119,13 +131,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -152,23 +164,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -199,8 +215,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -209,13 +229,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -242,23 +262,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -289,8 +313,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -299,13 +327,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -332,23 +360,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -379,8 +411,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -389,13 +425,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -422,23 +458,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -463,13 +503,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×4 (poz. 44).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 45 (+2,34 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 45 (+2,34 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złamana Jedność                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -492,13 +536,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -518,13 +562,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×4 (poz. 44).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 43 (+2,23 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 43 (+2,23 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złamana Jedność                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -541,19 +589,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -573,13 +621,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 44).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 156 (+9,69 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 156 (+9,69 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złamana Jedność                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -596,31 +648,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Have You No Shame? — id 9101701
+##### Umiejętność: Wstydu Nie Masz? — id 9101701
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: I See, You Have No Shame — id 9101702
+##### Umiejętność: Widzę, Wstydu Nie Masz — id 9101702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Can You Protect Them? — id 9101703
+##### Umiejętność: Zdołasz Ich Chronić? — id 9101703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Can't Use That Weapon Now — id 9101704
+##### Umiejętność: Tej Broni Już Nie Użyjesz — id 9101704
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ready For A Beating? — id 9101705
+##### Umiejętność: Gotowy na Bitę? — id 9101705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -632,7 +684,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: For the Greater Good — id 9101707
+##### Umiejętność: Dla Większego Dobra — id 9101707
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -650,13 +702,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 45).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 501 (+17,28 za poziom) |
-| Sloty akcji | start: 3 · maks. 3     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 501 (+17,28 za poziom)                         |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zadrza                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -673,13 +729,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Are You Afraid? — id 827701
+##### Umiejętność: Strach Cię Wziął? — id 827701
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Punishment For Time Killers — id 827702
+##### Umiejętność: Kara za Zabijanie Czasu — id 827702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -697,7 +753,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Time to be Saved — id 827705
+##### Umiejętność: Czas na Zbawienie — id 827705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -709,13 +765,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: My... — id 827707
+##### Umiejętność: O nie... — id 827707
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Running Out of Time — id 827708
+##### Umiejętność: Brakuje Czasu — id 827708
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -755,41 +811,47 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tick (×2) — id 827901
+##### Umiejętność: Tik (×2) — id 827901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tock — id 827902
+##### Umiejętność: Ta-ak — id 827902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ticktick-Tock — id 827903
+##### Umiejętność: Tik-tik-Tak — id 827903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tock — id 827904
+##### Umiejętność: Tak — id 827904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          2 |         +8 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### The Time Ripper — id 8278
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 1038 (+21,5 za poziom) |
-| Sloty akcji | start: 5 · maks. 5     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 1038 (+21,5 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zadrza                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -854,13 +916,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Are You Afraid? — id 827801
+##### Umiejętność: Strach Cię Wziął? — id 827801
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Punishment For Time Killers — id 827802
+##### Umiejętność: Kara za Zabijanie Czasu — id 827802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -878,7 +940,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Time to be Saved — id 827805
+##### Umiejętność: Czas na Zbawienie — id 827805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -896,7 +958,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |         48 |        +48 |      1 |    1 |
 
-##### Umiejętność: We Need More Time! — id 827808
+##### Umiejętność: Potrzebujemy Więcej Czasu! — id 827808
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -920,13 +982,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 45).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 501 (+17,28 za poziom) |
-| Sloty akcji | start: 3 · maks. 3     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 501 (+17,28 za poziom)                         |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zadrza                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -943,13 +1009,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Are You Afraid? — id 827701
+##### Umiejętność: Strach Cię Wziął? — id 827701
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Punishment For Time Killers — id 827702
+##### Umiejętność: Kara za Zabijanie Czasu — id 827702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -967,7 +1033,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Time to be Saved — id 827705
+##### Umiejętność: Czas na Zbawienie — id 827705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -979,13 +1045,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          2 |         +6 |      1 |    1 |
 
-##### Umiejętność: My... — id 827707
+##### Umiejętność: O nie... — id 827707
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Running Out of Time — id 827708
+##### Umiejętność: Brakuje Czasu — id 827708
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1015,23 +1081,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                             |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                          |
 | Progi oszołomienia | 40% / 0%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                  |
+| Typ paniki         | Wzburzenie                                                      |
 | Odporności         | Cięcie ×0,6; Kłucie ×1,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Collection Stop-and-search — id 9014201
+##### Umiejętność: Naliczenie: Kontrola — id 9014201
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Please Stop. — id 9014202
+##### Umiejętność: Proszę Się Zatrzymać. — id 9014202
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Enforcing Collections. — id 9014203
+##### Umiejętność: Egzekwuję Naliczenie. — id 9014203
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1055,8 +1125,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                        |
 | Progi oszołomienia | 70% / 0%                                                      |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Przygotowanie do Zbierania — id 9014301
@@ -1071,13 +1145,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Your Timepiece, If You Will. — id 9014303
+##### Umiejętność: Twój Zegarek, jeśli wolno. — id 9014303
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Enforcing Collections. — id 9014304
+##### Umiejętność: Egzekwuję Naliczenie. — id 9014304
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1105,8 +1179,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -1115,13 +1193,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1148,23 +1226,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1195,8 +1277,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -1205,13 +1291,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1238,23 +1324,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1285,8 +1375,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -1295,13 +1389,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1328,23 +1422,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1375,8 +1473,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 70% / 35% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Nie Przeszkadzaj — id 9014001
@@ -1385,13 +1487,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1418,23 +1520,27 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–3                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                     |
 | Progi oszołomienia | 65% / 40% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Złamana Jedność                                              |
 | Odporności         | Cięcie ×0,8; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1459,13 +1565,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×4 (poz. 55).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 45 (+2,34 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 45 (+2,34 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złamana Jedność                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1488,13 +1598,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      1 |    1 |
 
-##### Umiejętność: My Secret Weapon — id 9014002
+##### Umiejętność: Mój Tajny Oręż — id 9014002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Filthy Watch Chains! — id 9014003
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014003
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1514,13 +1624,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×4 (poz. 55).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 43 (+2,23 za poziom)  |
-| Sloty akcji | start: 1 · maks. 1    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 43 (+2,23 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 1                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złamana Jedność                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1537,19 +1651,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Outta My Way — id 9014101
+##### Umiejętność: Z Drogi — id 9014101
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: I'm Pretty Good, You Know — id 9014102
+##### Umiejętność: Mocny Jestem, Co Nie? — id 9014102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +1 |      4 |    1 |
 
-##### Umiejętność: Vile Watch Chains! — id 9014103
+##### Umiejętność: Plugawe Łańcuchy Zegarowe! — id 9014103
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1569,13 +1683,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 55).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 156 (+9,69 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 156 (+9,69 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Złamana Jedność                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1592,31 +1710,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Have You No Shame? — id 9102401
+##### Umiejętność: Wstydu Nie Masz? — id 9102401
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: I See, You Have No Shame — id 9102402
+##### Umiejętność: Widzę, Wstydu Nie Masz — id 9102402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Can You Protect Them? — id 9102403
+##### Umiejętność: Zdołasz Ich Chronić? — id 9102403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Can't Use That Weapon Now — id 9102404
+##### Umiejętność: Tej Broni Już Nie Użyjesz — id 9102404
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Ready For A Beating? — id 9102405
+##### Umiejętność: Gotowy na Bitę? — id 9102405
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1628,7 +1746,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: For the Greater Good — id 9102407
+##### Umiejętność: Dla Większego Dobra — id 9102407
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1646,13 +1764,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 55).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 501 (+17,28 za poziom) |
-| Sloty akcji | start: 3 · maks. 3     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 501 (+17,28 za poziom)                         |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zadrza                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1669,13 +1791,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Are You Afraid? — id 122801
+##### Umiejętność: Strach Cię Wziął? — id 122801
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Punishment For Time Killers — id 122802
+##### Umiejętność: Kara za Zabijanie Czasu — id 122802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1693,7 +1815,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Time to be Saved — id 122805
+##### Umiejętność: Czas na Zbawienie — id 122805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1705,13 +1827,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: My... — id 122807
+##### Umiejętność: O nie... — id 122807
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Running Out of Time — id 122808
+##### Umiejętność: Brakuje Czasu — id 122808
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1752,25 +1874,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tick (×2) — id 827901
+##### Umiejętność: Tik (×2) — id 827901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tock — id 827902
+##### Umiejętność: Ta-ak — id 827902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ticktick-Tock — id 827903
+##### Umiejętność: Tik-tik-Tak — id 827903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Tock — id 827904
+##### Umiejętność: Tak — id 827904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1784,13 +1906,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 1038 (+21,5 za poziom) |
-| Sloty akcji | start: 5 · maks. 5     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 1038 (+21,5 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zadrza                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1855,13 +1981,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Are You Afraid? — id 122901
+##### Umiejętność: Strach Cię Wziął? — id 122901
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Punishment For Time Killers — id 122902
+##### Umiejętność: Kara za Zabijanie Czasu — id 122902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1879,7 +2005,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Time to be Saved — id 122905
+##### Umiejętność: Czas na Zbawienie — id 122905
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1897,7 +2023,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |         48 |        +48 |      1 |    1 |
 
-##### Umiejętność: We Need More Time! — id 122908
+##### Umiejętność: Potrzebujemy Więcej Czasu! — id 122908
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1922,13 +2048,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 55).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 501 (+17,28 za poziom) |
-| Sloty akcji | start: 3 · maks. 3     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 501 (+17,28 za poziom)                         |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zadrza                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1945,13 +2075,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Are You Afraid? — id 122801
+##### Umiejętność: Strach Cię Wziął? — id 122801
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Punishment For Time Killers — id 122802
+##### Umiejętność: Kara za Zabijanie Czasu — id 122802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1969,7 +2099,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Time to be Saved — id 122805
+##### Umiejętność: Czas na Zbawienie — id 122805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1981,13 +2111,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: My... — id 122807
+##### Umiejętność: O nie... — id 122807
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Running Out of Time — id 122808
+##### Umiejętność: Brakuje Czasu — id 122808
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2014,35 +2144,39 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–4                                                             |
 | Sloty akcji        | start: 3/3/3 · maks. 3                                          |
 | Progi oszołomienia | 75% / 0%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                  |
+| Typ paniki         | Złamana Jedność                                                 |
 | Odporności         | Cięcie ×0,6; Kłucie ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Wstrząs] (maks. 3 razy)
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Wstrząs] (maks. 3 razy)
 *Opis:* Główne Ciało
 
-##### Umiejętność: Have You No Shame? — id 9102401
+##### Umiejętność: Wstydu Nie Masz? — id 9102401
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: I See, You Have No Shame — id 9102402
+##### Umiejętność: Widzę, Wstydu Nie Masz — id 9102402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Can You Protect Them? — id 9102403
+##### Umiejętność: Zdołasz Ich Chronić? — id 9102403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Can't Use That Weapon Now — id 9102404
+##### Umiejętność: Tej Broni Już Nie Użyjesz — id 9102404
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Ready For A Beating? — id 9102405
+##### Umiejętność: Gotowy na Bitę? — id 9102405
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2054,7 +2188,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: For the Greater Good — id 9102407
+##### Umiejętność: Dla Większego Dobra — id 9102407
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |

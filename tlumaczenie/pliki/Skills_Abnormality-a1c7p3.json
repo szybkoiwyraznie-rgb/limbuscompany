@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=837301].levelList[level=1].name": {
-      "pl": "Pin Down",
+      "pl": "Przygniecenie",
       "kr_sha256": "da6cc9c7e202b8746178d8e6f2d560716fa129a6e5b0b5ad0b08dc713b1a8cf6",
       "en_sha256": "537c6d819d591dd0f767a547a5a66aa4bb988fbfc6672faf1642e26e6d6305a9",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=837302].levelList[level=1].name": {
-      "pl": "Impaled Desire",
+      "pl": "Przebite Pożądanie",
       "kr_sha256": "f5fb49c6bf9f450a25c5348ffe0e86e99097d6386e81d66e588808b609e17191",
       "en_sha256": "779e403706f5ff08a801a1edb1e1d9f5ea85f9664b2f6ec82133527507b509e4",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=837303].levelList[level=1].name": {
-      "pl": "Repressed Desire",
+      "pl": "Stłumione Pożądanie",
       "kr_sha256": "c18744a33dd913bfc22cbe67cbd4cf7ac7856459a5c026ba16384dda8553e655",
       "en_sha256": "471adb7336dae5f137e00993c218ed1c8c9e09dd37b5ede87799c42ef3b7d131",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=837304].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=837401].levelList[level=1].name": {
-      "pl": "Grinding",
+      "pl": "Mielenie",
       "kr_sha256": "0f8ebb61fd739967ab4c49f1d6b0a8636f190818e518230015178a2215fa8fd4",
       "en_sha256": "1d88098a9455fc1070e797a5612d32c9d480d41602741313d8808a7cb492e211",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=837402].levelList[level=1].name": {
-      "pl": "Crush",
+      "pl": "Rozgniotenie",
       "kr_sha256": "3ccee3fbca67f6101965d1850f89637020b59580927cf6feafcdaf385d52c643",
       "en_sha256": "fd4982bc31020a050d8c067fc834614cf61219ea924918ad39ea13972fc1b8e0",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=837403].levelList[level=1].name": {
-      "pl": "Prideful Crush",
+      "pl": "Dumny Zgniot",
       "kr_sha256": "fcf4144f6889a465865515694d703cb7924cf4a9ddb73278a87f627457af644d",
       "en_sha256": "1b0decd9236135b03da28de88d078bacd476fb26b56aaed507d83e6f8a91bf65",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=837404].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -361,7 +361,7 @@
       "origin": "ai"
     },
     "dataList[id=837601].levelList[level=1].name": {
-      "pl": "Spiked Whip",
+      "pl": "Kolczasty Bicz",
       "kr_sha256": "7e5da44537e72c9656affc8ad440d2d46e028347ba0fff9b3bf1fc5b3bd61099",
       "en_sha256": "33f595183c965ed504d38a3cbf8d53baad1a4b9b1814fc573c9e9f4e30973699",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=837602].levelList[level=1].name": {
-      "pl": "Whip Crack",
+      "pl": "Machnięcie Biczem",
       "kr_sha256": "d566c2da10e897e58adbdd4fcc95b0a1e1f17cbc34a2d0453fd93b8a9432a5bc",
       "en_sha256": "9a2a0cb7547ec715810f6727c87ee6fad6b90c2c3ae1da5bb862090fa946366d",
       "origin": "ai"
@@ -403,7 +403,7 @@
       "origin": "ai"
     },
     "dataList[id=837603].levelList[level=1].name": {
-      "pl": "Strangling Crown of Thorns",
+      "pl": "Dusząca Korona Cierni",
       "kr_sha256": "1056d474ed717182a11112a25ff411c160806c6dc20f8955e23385015191c51d",
       "en_sha256": "6636f59c1bf776be4ab17715e8a8612684ed9ac9014b655df876027a0d9df8f1",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=837604].levelList[level=1].name": {
-      "pl": "Withdraw Whip",
+      "pl": "Cofnięcie Bicza",
       "kr_sha256": "794ee43b4a2dd31130393b3a3b2aac4d5636866c2f50468575ff2bcc02d03ef3",
       "en_sha256": "f26cb185b130a7be138dbc6ff7af7957dae11c3ddb2033b09acbf59aa5a2eabb",
       "origin": "ai"
@@ -481,7 +481,7 @@
       "origin": "ai"
     },
     "dataList[id=837605].levelList[level=1].name": {
-      "pl": "Barbed Lasso",
+      "pl": "Kolczaste Lasso",
       "kr_sha256": "1f53cc71daf481bda8df28118f3ff177942b10f194ed63ad4d6b0c9e9e2b2eee",
       "en_sha256": "09647c90d602b3a5debaa715541b4cae1d1c84013144f9780ad6915dc135e8a4",
       "origin": "ai"
@@ -493,7 +493,7 @@
       "origin": "ai"
     },
     "dataList[id=837606].levelList[level=1].name": {
-      "pl": "Whip Wreath",
+      "pl": "Owinięcie Biczem",
       "kr_sha256": "0705716db325a9433a631fa20c0b36a7df4334aa773e2ca0160ed72e2b3471f2",
       "en_sha256": "6acfe4c3421042a86d811dc4ca54b0dcee1dd38f901a7fa5e844d9eefa4014a7",
       "origin": "ai"
@@ -517,7 +517,7 @@
       "origin": "ai"
     },
     "dataList[id=837607].levelList[level=1].name": {
-      "pl": "Snaring Lasso",
+      "pl": "Lasso Chwytające",
       "kr_sha256": "748dcda452b7c29228f0100e73ebe9dfe627d1028b5e392a5ab3487bf12b4eb3",
       "en_sha256": "9b2ab80187fcc3d2fd398e8edafc25c8c27fb9d9a6875630646cd3d913ff5487",
       "origin": "ai"
@@ -535,7 +535,7 @@
       "origin": "ai"
     },
     "dataList[id=837701].levelList[level=1].name": {
-      "pl": "Thorns",
+      "pl": "Cierń",
       "kr_sha256": "7b77e80a2b3ffa41b6413be74ffdfff2762bd6e4ef092ddc3212eb92109e4593",
       "en_sha256": "d20c5a45f3025088460d38e73c274a5fd9f4f827c9638a3a19df97edd875790c",
       "origin": "ai"
@@ -553,7 +553,7 @@
       "origin": "ai"
     },
     "dataList[id=837801].levelList[level=1].name": {
-      "pl": "This Unforgivable Sin...",
+      "pl": "Grzech, którego Nie Wybaczą...",
       "kr_sha256": "a8014c3e79318939c795138a5245a46da53f9016cd4df8a5a009b47be70d8a18",
       "en_sha256": "796e1865d8f659a63566b008d825fba2532b2bd1192be6231e22f03b18c0ea26",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=837802].levelList[level=1].name": {
-      "pl": "The Deserved Penance...",
+      "pl": "Zasłużona Pokuta...",
       "kr_sha256": "89ac505fdad58235cf12e89d07b40b913318ed003fc2088b76af7e13f79279db",
       "en_sha256": "93987ccc9cf210635ceff41d907978c171617c9c4f494c6b51ae9c4768ad6607",
       "origin": "ai"
@@ -601,7 +601,7 @@
       "origin": "ai"
     },
     "dataList[id=837803].levelList[level=1].name": {
-      "pl": "Did you think about blood today?",
+      "pl": "Myślałeś Dziś o Krwi?",
       "kr_sha256": "50e47a7b6f056754a8b2e57688ea7b2aaa72af5fce681352883fdce62434d64f",
       "en_sha256": "6815299a71482449eff349c377424b0f8f5dcc9649338543e97ab14958a3ff66",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=837804].levelList[level=1].name": {
-      "pl": "Are you still thinking about blood?",
+      "pl": "Wciąż myślisz o krwi?",
       "kr_sha256": "0b679390e670f33b0cae11712392e2aee77b78117ffd6ea6458607af20665fcb",
       "en_sha256": "74e66aee2f41e79332c630d374709fb032cf9b4a715afa9f6b1c6b9019a7fe01",
       "origin": "ai"
@@ -661,7 +661,7 @@
       "origin": "ai"
     },
     "dataList[id=837805].levelList[level=1].name": {
-      "pl": "More, more blood...!",
+      "pl": "Więcej, więcej krwi...!",
       "kr_sha256": "44a96ce9fdde590a0361a371b64759087701580d24996499263955b34c3bd3b4",
       "en_sha256": "7abb18f1ff0585c735819dc0a12ed7e7b8f2ab4427f3662234bd7bc5651772ac",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=837806].levelList[level=1].name": {
-      "pl": "How Bountiful...",
+      "pl": "Jakże Obfita...",
       "kr_sha256": "390a46b79fa91e283846172be95bad5b63a3c25ea11ba94b5b5ea543c11caa11",
       "en_sha256": "be00cbfe74f0c36c0fab0f917f64e1ef8de3bc81fc8883f8d054844834ea5ac3",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=837807].levelList[level=1].name": {
-      "pl": "Sacrifice for the Family",
+      "pl": "Pojednanie dla Rodziny",
       "kr_sha256": "140333c50b6c318515ebfbfafa235fcc9f617d01a4222140e79dc27a9fa063ed",
       "en_sha256": "af24a5574fdc9a2da94cef4bcf24e67465207fc70562a85b1ec914a2a3b26347",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=837808].levelList[level=1].name": {
-      "pl": "Blood...",
+      "pl": "Krwi...",
       "kr_sha256": "a15812895c78ada5f51e8f5f2457df9b1bb330c92917d453320870411d014e5a",
       "en_sha256": "1c87132937702a40f75f28d15cf377e51d9e1d96f2cca248a05cd323378b4072",
       "origin": "ai"
@@ -775,7 +775,7 @@
       "origin": "ai"
     },
     "dataList[id=837901].levelList[level=1].name": {
-      "pl": "Expression of Love",
+      "pl": "Wyrażenie Miłości",
       "kr_sha256": "f880cfa5e89b5a165000884c1ed29e7bbdd53052ffa2048adb7877d8d9cd290f",
       "en_sha256": "17f23d8888b3bcb56fd335830ae618ac396f6f3355a61b94b415bf9f3ef87ac4",
       "origin": "ai"
@@ -799,7 +799,7 @@
       "origin": "ai"
     },
     "dataList[id=837902].levelList[level=1].name": {
-      "pl": "Clawing",
+      "pl": "Drapanie",
       "kr_sha256": "fe4c2368deea2d3541b55d393ed4a3c2102ea5b2f15f1c6a54995d3b3ee34dc8",
       "en_sha256": "f4ce53e24f86c82ea592e29402eb72daf6f56f1e10185b9c73229a1c10d853a0",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=837903].levelList[level=1].name": {
-      "pl": "Violent Clawing",
+      "pl": "Dzikie Drapanie",
       "kr_sha256": "4453a96da113253a548b32a9dfa4dd487e6729df254a81bc562f130e183bbb44",
       "en_sha256": "db8ddbc4cc10e80303bb3e2c78a9d4e6aa9af8ece28c48bf18c66872065c76d4",
       "origin": "ai"
@@ -853,7 +853,7 @@
       "origin": "ai"
     },
     "dataList[id=837904].levelList[level=1].name": {
-      "pl": "Timid Expression of Love",
+      "pl": "Nieśmiałe Wyrażenie Miłości",
       "kr_sha256": "3106769a653756117e3135539e7068d88e521d640e2f2048514ee447a01cd883",
       "en_sha256": "9398b32d35d0dcd98c2e73d6df781e45ecf94359b06c09d41d75801cfc3641cd",
       "origin": "ai"
@@ -889,7 +889,7 @@
       "origin": "ai"
     },
     "dataList[id=837905].levelList[level=1].name": {
-      "pl": "Rough Expression of Love",
+      "pl": "Brutalne Wyrażenie Miłości",
       "kr_sha256": "92481d92b5fa1cbc29ebece990f9513700698dcb8f24481ce277cd3d2036138f",
       "en_sha256": "8ba6e7a163105e906d1b8f5a87a9d1fc986013d361e0d7b4eb78199e175d1549",
       "origin": "ai"
@@ -913,7 +913,7 @@
       "origin": "ai"
     },
     "dataList[id=837906].levelList[level=1].name": {
-      "pl": "A Sad Embrace",
+      "pl": "Smutny Uścisk",
       "kr_sha256": "08a19756924499492ab8341e85cb2ebe682e27df0325dd06defca00fa94dfbf1",
       "en_sha256": "b26e123bdfc3c50dfbda8acebf1ae78ed2dbb8dd8626ddd145c66742587760c9",
       "origin": "ai"
@@ -949,7 +949,7 @@
       "origin": "ai"
     },
     "dataList[id=837907].levelList[level=1].name": {
-      "pl": "An Old, Nostalgic Embrace",
+      "pl": "Tęskniony Uścisk Dawnych Czasów",
       "kr_sha256": "cca52ebdbe3f46a3e9ffbe1d97d4367af6cc7ba64353a3a25de5c7fe2bfec165",
       "en_sha256": "6f36740ce8b391f434ee8716a584774ebfaf079aeec8d1b6e8b03ae3e73f5e15",
       "origin": "ai"
@@ -973,7 +973,7 @@
       "origin": "ai"
     },
     "dataList[id=838001].levelList[level=1].name": {
-      "pl": "Topple",
+      "pl": "Powalenie",
       "kr_sha256": "00a807b2e43c140a54bbb2b2721adb37f353fba1ef68295dc6f7747b30cbe858",
       "en_sha256": "4bdad3aea28f48e9def3104dd179aa913c310f48fc9143142ba60800a27f7b67",
       "origin": "ai"
@@ -1021,7 +1021,7 @@
       "origin": "ai"
     },
     "dataList[id=838003].levelList[level=1].name": {
-      "pl": "Sanguine Joy",
+      "pl": "Krwawa Radość",
       "kr_sha256": "eca5863d5362d644c8dc4418e6342ed74d7d29b5f07a6318d1b615d32db6cb3a",
       "en_sha256": "d119eafafc75da355b7a7970e33244aac7b5ee4295723aa8fed6c6129327c308",
       "origin": "ai"
@@ -1063,7 +1063,7 @@
       "origin": "ai"
     },
     "dataList[id=838004].levelList[level=1].name": {
-      "pl": "Ecstasy of Blood",
+      "pl": "Ekstaza Krwi",
       "kr_sha256": "0cc28682f09b55e3efa482e898858fa4dceeed6824da76a41e2586b554b36e35",
       "en_sha256": "2d9b220aa89dbb49dda0c650f331d5b2a04fced5b674f66c117926241b325d76",
       "origin": "ai"
@@ -1183,7 +1183,7 @@
       "origin": "ai"
     },
     "dataList[id=838008].levelList[level=1].name": {
-      "pl": "Variant Don Quixote Style: Sancho Arts 4 - Track",
+      "pl": "Wariant Don Quixote: Sancho Arts 4 - Tropienie",
       "kr_sha256": "f16824fd6fba1c0ad37ad4289ee5bb6d4f69b2924fc4f2c0c088aee9582979bf",
       "en_sha256": "3075bbf35d7fe89e616a38697db86df6dc22dd17693c754246eaa0d5dcf29c52",
       "origin": "ai"
@@ -1213,7 +1213,7 @@
       "origin": "ai"
     },
     "dataList[id=838009].levelList[level=1].name": {
-      "pl": "Variant Don Quixote Style: Sancho Arts 3 - Ambush",
+      "pl": "Wariant Don Quixote: Sancho Arts 3 - Zasadzka",
       "kr_sha256": "d31e085a3afd7911a17a4b4c0c1a78d406223c610f1a97e6acfd1b02f9115d5a",
       "en_sha256": "9566ca4923c8932bc9164f1e7af3530d3e1e7d6522bbcffe2355b1e9d7874c37",
       "origin": "ai"
@@ -1243,7 +1243,7 @@
       "origin": "ai"
     },
     "dataList[id=838010].levelList[level=1].name": {
-      "pl": "Variant Don Quixote Style: Sancho Arts 2 - La Sangre",
+      "pl": "Wariant Don Quixote: Sancho Arts 2 - La Sangre",
       "kr_sha256": "4b24ac78c21e16f5abda24c9c8f0bc76b34ec6007341e03b61fbdaca47545614",
       "en_sha256": "6c6516645a65b5e71db28a663966cbc1a77ae077199d4d56e755f99676313b14",
       "origin": "ai"
@@ -1291,7 +1291,7 @@
       "origin": "ai"
     },
     "dataList[id=839001].levelList[level=1].name": {
-      "pl": "The Infinite Parade",
+      "pl": "Nieskończony Festiwal",
       "kr_sha256": "4f0aec9c42605419ba74ed1c6f04fdeff572decddd23a8f133fd8dc39ae05680",
       "en_sha256": "2d3533ecc571ea5f133c2cbc9b8d1560990771de0ddcd9757a589553bc3ce4a0",
       "origin": "ai"
@@ -1303,7 +1303,7 @@
       "origin": "ai"
     },
     "dataList[id=839002].levelList[level=1].name": {
-      "pl": "The Eternal Festival",
+      "pl": "Wieczny Festiwal",
       "kr_sha256": "1e00b01c1454855e6bfcf9c0ec911b8f1573b9d3194cba592d1aa78cac5ac884",
       "en_sha256": "f57eb4ad4b0bb83f80ce73880f1a2fec3b043ee76e5ee1f7d384e25bb92fdc4d",
       "origin": "ai"
@@ -1411,7 +1411,7 @@
       "origin": "ai"
     },
     "dataList[id=839601].levelList[level=1].name": {
-      "pl": "Gracefully...",
+      "pl": "Z gracją...",
       "kr_sha256": "1535494a410161d92fbc74f26283f7f533f4c188aeb4bd5f2b468e5c025cf830",
       "en_sha256": "4770b25c6e988863e87de1a69fff2558f43a0d9ea7b4e8975a0e3b9de716c89c",
       "origin": "ai"
@@ -1423,7 +1423,7 @@
       "origin": "ai"
     },
     "dataList[id=840301].levelList[level=1].name": {
-      "pl": "LETMEOUT!!!LETMEOUT!!!",
+      "pl": "WYPUŚĆCIE!!!WYPUŚĆCIE!!!",
       "kr_sha256": "b2a18f473dfe4c5a7a2962422a55764c221fd00239131f973c350712a661e01b",
       "en_sha256": "b48d529e04365ee44c1375f4f2e5c60f536dda86decf997025f0dffd11651fc7",
       "origin": "ai"
@@ -1441,7 +1441,7 @@
       "origin": "ai"
     },
     "dataList[id=840302].levelList[level=1].name": {
-      "pl": "IT'S ABOUT TO BLOW!!!!!",
+      "pl": "WYBUCHA!! WYBUCHA!!!!",
       "kr_sha256": "7e4f4b404642b842cb252990dae2a357e869a13167cd449185fde2dd13c48002",
       "en_sha256": "badf9fb2ec6422db96d465cb33521fe5928cb834c66f82f1812b0618b2bdd07c",
       "origin": "ai"
@@ -1459,7 +1459,7 @@
       "origin": "ai"
     },
     "dataList[id=840303].levelList[level=1].name": {
-      "pl": "The Fanfare!",
+      "pl": "Fanfary!",
       "kr_sha256": "23501f19c5261f176cba3695f9dac3532b1c67bd71339390048cc973693688e3",
       "en_sha256": "d2aa905c6b41b1a198867412b8a95fe5b754333184bf179399a120f09250d3b5",
       "origin": "ai"
@@ -1483,7 +1483,7 @@
       "origin": "ai"
     },
     "dataList[id=841001].levelList[level=1].name": {
-      "pl": "Burning Thirst",
+      "pl": "Palące Pragnienie",
       "kr_sha256": "31dddca6bc822c98fcbbe98bade690cd80d9b1722bbaa1e4ec7fa194df102542",
       "en_sha256": "d6853961c5d5be0b39da8a90d8a336023ac73d289c90cd8261328661f8a16396",
       "origin": "ai"
@@ -1507,7 +1507,7 @@
       "origin": "ai"
     },
     "dataList[id=841002].levelList[level=1].name": {
-      "pl": "Be Impaled",
+      "pl": "Bądź Nadziany",
       "kr_sha256": "e4dd153af8c7d863015659ff6300cb9144dcab60236c43da919b428fc7c54d1b",
       "en_sha256": "9b1d5f0fb1dd1fa93ee79ca07af51813272ae74ab11b752d28a0d82cec22d9f8",
       "origin": "ai"
@@ -1675,7 +1675,7 @@
       "origin": "ai"
     },
     "dataList[id=841005].levelList[level=1].name": {
-      "pl": "Desire for Blood",
+      "pl": "Żądza Krwi",
       "kr_sha256": "ad488b0949d712d098717ee9fe9f2dbcc970b8eb574a4387842ab43589584a72",
       "en_sha256": "745929e5fc64de6893ca886b8b89220d1d99a2cb77d3a3ab4c475be3b3af37e8",
       "origin": "ai"
@@ -1693,7 +1693,7 @@
       "origin": "ai"
     },
     "dataList[id=841006].levelList[level=1].name": {
-      "pl": "Moment of Bloodfeast",
+      "pl": "Czas Uczty Krwi",
       "kr_sha256": "42bd1547735610c4e8d34c818e31d75db2399df9b851219aede0129c8437807e",
       "en_sha256": "7cdf062153bdef15e97f00cdb64713238d9aba6a0040bf1cd1f642916e0cdb1a",
       "origin": "ai"
@@ -1765,7 +1765,7 @@
       "origin": "ai"
     },
     "dataList[id=841009].levelList[level=1].name": {
-      "pl": "Frail, So Frail",
+      "pl": "Słaby, Ach Słaby",
       "kr_sha256": "3d964f007be15bfddc2d6bd003a00a15ca88a770ba95b0b3c2df3ad09a0c459a",
       "en_sha256": "5c009fc8b376d876a924849b7d6e18bd25289b352af14fcb2b8fc3458f37a93f",
       "origin": "ai"
@@ -1831,7 +1831,7 @@
       "origin": "ai"
     },
     "dataList[id=841011].levelList[level=1].name": {
-      "pl": "Be Impaled",
+      "pl": "Bądź Nadziany",
       "kr_sha256": "c56c91fe5bd673a4c341fd0c018be57ae9eb78cc1346120c8081f86c353e088d",
       "en_sha256": "9b1d5f0fb1dd1fa93ee79ca07af51813272ae74ab11b752d28a0d82cec22d9f8",
       "origin": "ai"
@@ -1873,7 +1873,7 @@
       "origin": "ai"
     },
     "dataList[id=841301].levelList[level=1].name": {
-      "pl": "Shining Memories of the Adventure",
+      "pl": "Błyszczące Wspomnienia Przygody",
       "kr_sha256": "dd9a183915afcb63a64f1f92823a14f81bb8e17b1c1ac296dfff898d1f517d5e",
       "en_sha256": "77db3ba971673effc073c755718809c2c66b4158b9c1a5d13a5641ded7c28f5b",
       "origin": "ai"

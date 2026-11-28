@@ -20,29 +20,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -65,29 +69,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -115,29 +123,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -160,29 +172,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -209,29 +225,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -254,29 +274,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -299,35 +323,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -356,29 +384,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -401,29 +433,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -446,35 +482,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -504,29 +544,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -549,29 +593,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -594,35 +642,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -646,35 +698,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -704,29 +760,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -749,29 +809,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -794,35 +858,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -846,35 +914,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -903,29 +975,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -948,29 +1024,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -993,35 +1073,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1045,35 +1129,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1098,41 +1186,45 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 3/3/4 · maks. 5                                        |
 | Progi oszołomienia | 45% / 0%                                                      |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: There, There They Are (×3) — id 9101201
+##### Umiejętność: Tam, tam ich widzę (×3) — id 9101201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: We've Got Company, Boys (×2) — id 9101202
+##### Umiejętność: Chłopaki, mamy gościa (×2) — id 9101202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Battle Command — id 9101203
+##### Umiejętność: Rozkaz Bitewny — id 9101203
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Weakness Spotted! Fire! — id 9101204
+##### Umiejętność: Wyszukana Słabość! Ogień! — id 9101204
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +7 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9101205
+##### Umiejętność: Unik — id 9101205
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9101206
+##### Umiejętność: Grabież — id 9101206
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1166,29 +1258,33 @@ pozostali sojusznicy przywracają 10 SP
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1211,29 +1307,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1256,35 +1356,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1312,29 +1416,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1357,29 +1465,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1402,35 +1514,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1454,35 +1570,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1527,17 +1647,19 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 806501
+##### Umiejętność: Przetaczanie (×3) — id 806501
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 806502
+##### Umiejętność: Leniwy Uścisk — id 806502
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 8067
 
@@ -1566,17 +1688,19 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 806701
+##### Umiejętność: Strzelanie Serią — id 806701
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 806702
+##### Umiejętność: Wybuchająca Posępność — id 806702
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Pychy — id 8069
 
@@ -1611,11 +1735,13 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 5-14 · Pilot 2
 
@@ -1659,49 +1785,49 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Headbutt — id 810201
+##### Umiejętność: Bodnięcie Głową — id 810201
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Pound — id 810202
+##### Umiejętność: Waliszenie — id 810202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Press — id 810203
+##### Umiejętność: Ugniatanie — id 810203
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blind Obsession — id 810204
+##### Umiejętność: Zaślepiona Obsesja — id 810204
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         15 |         +2 |      4 |    1 |
 
-##### Umiejętność: Crashing Siltcurrent — id 810205
+##### Umiejętność: Uderzający Prąd Mułu — id 810205
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +1 |      2 |    6 |
 
-##### Umiejętność: Wayward Blind Obsession — id 810206
+##### Umiejętność: Zabłąkana Zaślepota — id 810206
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Sweep — id 810207
+##### Umiejętność: Zamiatanie — id 810207
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Wriggle — id 810208
+##### Umiejętność: Wiercenie — id 810208
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1760,13 +1886,17 @@ staje się Destroyed Flotsam.
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr    | Wartość                                                      |
-| ----------- | ------------------------------------------------------------ |
-| Poziom      | 2                                                            |
-| HP          | 250 (+9 za poziom)                                           |
-| Sloty akcji | start: 5 · maks. 5                                           |
-| Odporności  | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 250 (+9 za poziom)                                           |
+| Sloty akcji  | start: 5 · maks. 5                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Skaza                                                        |
+| Odporności   | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1783,49 +1913,49 @@ staje się Destroyed Flotsam.
 
 *Opis:* Część
 
-##### Umiejętność: Obey My Orders — id 810501
+##### Umiejętność: Słuchaj Moich Rozkazów — id 810501
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: To Me! — id 810502
+##### Umiejętność: Do mnie! — id 810502
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Track Them to the End! — id 810503
+##### Umiejętność: Gonicie Ich Do Końca! — id 810503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Veteran's Harpoon — id 810504
+##### Umiejętność: Harpun Weterana — id 810504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Burning Harpoon — id 810505
+##### Umiejętność: Płonący Harpun — id 810505
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Foolishness! — id 810506
+##### Umiejętność: Głupstwo! — id 810506
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Exhale! — id 810507
+##### Umiejętność: Wydal Tchnienie! — id 810507
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Tempering of Death — id 810509
+##### Umiejętność: Hartowanie Śmierci — id 810509
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1843,13 +1973,18 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr    | Wartość                               |
-| ----------- | ------------------------------------- |
-| Poziom      | 2                                     |
-| HP          | 300 (+15,8 za poziom)                 |
-| Sloty akcji | start: 5 · maks. 5                    |
-| Odporności  | Cięcie ×0,5; Obuch ×1,5; Zawiść ×1,25 |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 2                                              |
+| HP           | 300 (+15,8 za poziom)                          |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Blada Panika                                   |
+| Odporności   | Cięcie ×0,5; Obuch ×1,5; Zawiść ×1,25          |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1866,49 +2001,49 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 
 *Opis:* Część
 
-##### Umiejętność: Harpooning — id 810302
+##### Umiejętność: Harpunowanie — id 810302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Harpoon — id 810303
+##### Umiejętność: Przebijający Harpun — id 810303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Stalk Prey — id 810306
+##### Umiejętność: Tropienie Zdobyczy — id 810306
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Cut Throat — id 810307
+##### Umiejętność: Przecięcie Gardła — id 810307
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
 
-##### Umiejętność: Deep Breathing — id 810308
+##### Umiejętność: Głęboki Oddech — id 810308
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |          8 |         +1 |      1 |    1 |
 
-##### Umiejętność: Must... Protect — id 810310
+##### Umiejętność: Muszę... Chronić — id 810310
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Persistent Harpoon — id 810311
+##### Umiejętność: Harpun Uporu — id 810311
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         14 |         −3 |      3 |    1 |
 
-##### Umiejętność: Must Finish Hunt... — id 810312
+##### Umiejętność: Trzeba Skończyć Polowanie... — id 810312
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1929,13 +2064,18 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr    | Wartość                                                      |
-| ----------- | ------------------------------------------------------------ |
-| Poziom      | 2                                                            |
-| HP          | 200 (+6,5 za poziom)                                         |
-| Sloty akcji | start: 5 · maks. 5                                           |
-| Odporności  | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 200 (+6,5 za poziom)                                         |
+| Sloty akcji  | start: 5 · maks. 5                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Blada Panika                                                 |
+| Odporności   | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1952,43 +2092,43 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 
 *Opis:* Część
 
-##### Umiejętność: Impale — id 810401
+##### Umiejętność: Przebicie na Wylot — id 810401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Piercing Thrust — id 810402
+##### Umiejętność: Przebijające Dzierżenie — id 810402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: I Follow Orders... — id 810403
+##### Umiejętność: Wykonuję Rozkazy... — id 810403
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: kontra |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ambush — id 810404
+##### Umiejętność: Zasadzka — id 810404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +9 |      1 |    1 |
 
-##### Umiejętność: Fearful Sigh — id 810405
+##### Umiejętność: Westchnienie Strachu — id 810405
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |         12 |         −3 |      3 |    1 |
 
-##### Umiejętność: Determined Harpoon — id 810406
+##### Umiejętność: Harpun Determinacji — id 810406
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         16 |         −5 |      2 |    1 |
 
-##### Umiejętność: To Escape... — id 810407
+##### Umiejętność: Aby Się Stąd Wyrwać... — id 810407
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2025,29 +2165,33 @@ Początek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki 
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2070,29 +2214,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2115,35 +2263,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2167,35 +2319,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2224,29 +2380,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2269,29 +2429,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2314,35 +2478,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2367,35 +2535,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2424,29 +2596,30 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                           |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                   |
+| Typ paniki         | Skaza                                                                                                            |
 | Odporności         | Kłucie ×2; Gniew ×1,5 (Weak); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Vomit Froth (×3) — id 9008301
+##### Umiejętność: Zwracanie Piany (×3) — id 9008301
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Claw (×2) — id 9008302
+##### Umiejętność: Clawing (×2) — id 9008302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Water Jet — id 9008303
+##### Umiejętność: Strumień Wody — id 9008303
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mucous Skin — id 9008304
+##### Umiejętność: Śliski Naskórek — id 9008304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2469,35 +2642,36 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 | Szybkość           | 4–5                                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                   |
 | Progi oszołomienia | 40% / 0% / 0%                                                                                            |
+| Typ paniki         | Skaza                                                                                                    |
 | Odporności         | Kłucie ×2; Gniew ×1,2; Posępność ×0,5 (Ineff.); Pycha ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Water Jet (×3) — id 9101101
+##### Umiejętność: Strumień Wody (×3) — id 9101101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Damp Strike (×2) — id 9101102
+##### Umiejętność: Wilgotne Uderzenie (×2) — id 9101102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +9 |      1 |    1 |
 
-##### Umiejętność: Clutch of the Waves — id 9101103
+##### Umiejętność: Uścisk Fal — id 9101103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Shrieking Waves — id 9101104
+##### Umiejętność: Szlochające Fale — id 9101104
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         12 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mucous Skin — id 9101105
+##### Umiejętność: Śliski Naskórek — id 9101105
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2527,29 +2701,30 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 | Szybkość           | 1–3                                                                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                                           |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                   |
+| Typ paniki         | Skaza                                                                                                            |
 | Odporności         | Kłucie ×2; Gniew ×1,5 (Weak); Posępność ×0,75 (Endured); Pycha ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Vomit Froth (×3) — id 9008301
+##### Umiejętność: Zwracanie Piany (×3) — id 9008301
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Claw (×2) — id 9008302
+##### Umiejętność: Clawing (×2) — id 9008302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Water Jet — id 9008303
+##### Umiejętność: Strumień Wody — id 9008303
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          8 |         +5 |      1 |    1 |
 
-##### Umiejętność: Mucous Skin — id 9008304
+##### Umiejętność: Śliski Naskórek — id 9008304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2572,35 +2747,36 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 | Szybkość           | 4–5                                                                                                      |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                                                                   |
 | Progi oszołomienia | 40% / 0% / 0%                                                                                            |
+| Typ paniki         | Skaza                                                                                                    |
 | Odporności         | Kłucie ×2; Gniew ×1,2; Posępność ×0,5 (Ineff.); Pycha ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Water Jet (×3) — id 9101101
+##### Umiejętność: Strumień Wody (×3) — id 9101101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Damp Strike (×2) — id 9101102
+##### Umiejętność: Wilgotne Uderzenie (×2) — id 9101102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          6 |         +9 |      1 |    1 |
 
-##### Umiejętność: Clutch of the Waves — id 9101103
+##### Umiejętność: Uścisk Fal — id 9101103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      4 |    1 |
 
-##### Umiejętność: Shrieking Waves — id 9101104
+##### Umiejętność: Szlochające Fale — id 9101104
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         12 |         +4 |      1 |    1 |
 
-##### Umiejętność: Mucous Skin — id 9101105
+##### Umiejętność: Śliski Naskórek — id 9101105
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2684,6 +2860,8 @@ powiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Błędny Lis — id 8742
 
@@ -2926,6 +3104,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +0 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Długonoga Wróżka — id 8746
 
@@ -3321,6 +3501,8 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          7 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Przerażony Strażnik Punktu Kontrolnego K Corp. — id 97401
 
 *Wystąpienia: ×0 (poz. —).*
@@ -3332,8 +3514,12 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 40% / 20%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Skurczenie                                                                 |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740101 (×3) — id 9740101
@@ -3377,8 +3563,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 60% / 30%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Skurczenie                                                                 |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740201 (×3) — id 9740201
@@ -3416,8 +3606,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 70% / 40%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Skurczenie                                                                 |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740301 (×3) — id 9740301
@@ -3461,8 +3655,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 60% / 30%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Skurczenie                                                                 |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740401 (×3) — id 9740401
@@ -3506,6 +3704,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 4–6                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 30% / -10%                                                                 |
+| Typ paniki         | Przytłoczenie                                                              |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -3569,8 +3768,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 40% / 20%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                             |
+| Typ paniki         | Przygnębienie                                                              |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740601 (×3) — id 9740601
@@ -3609,8 +3812,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–2                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 60% / 30%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                             |
+| Typ paniki         | Przygnębienie                                                              |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740701 (×3) — id 9740701
@@ -3649,8 +3856,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 70% / 40%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                             |
+| Typ paniki         | Przygnębienie                                                              |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740801 (×3) — id 9740801
@@ -3695,8 +3906,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 2–6                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 60% / 30%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                             |
+| Typ paniki         | Przygnębienie                                                              |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -1 w tym Starciu.
+**Efekt Paniki:** Zyskaj 3 Wrażliwość. Jeśli w Starciu choć jedna Moneta wypadnie Rewersem, Moc Starcia -3 w tym Starciu.
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9740901 (×3) — id 9740901
@@ -3734,14 +3949,18 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                                    |
-| ----------- | -------------------------------------------------------------------------- |
-| Poziom      | 3                                                                          |
-| HP          | 68 (+2,34 za poziom)                                                       |
-| Szybkość    | 1–5                                                                        |
-| Sloty akcji | start: 1/2/2 · maks. 2                                                     |
-| Odporności  | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                                    |
+| ------------ | -------------------------------------------------------------------------- |
+| Poziom       | 3                                                                          |
+| HP           | 68 (+2,34 za poziom)                                                       |
+| Szybkość     | 1–5                                                                        |
+| Sloty akcji  | start: 1/2/2 · maks. 2                                                     |
+| Poczytalność | Niskie Morale przy SP -30 · Panika przy SP -45                             |
+| Typ paniki   | Wzburzenie                                                                 |
+| Odporności   | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9741001 (×5) — id 9741001
@@ -3788,29 +4007,30 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                                 |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                              |
 | Progi oszołomienia | 45% / 0%                                                                                            |
+| Typ paniki         | id 9998 (brak danych)                                                                               |
 | Odporności         | Kłucie ×1,5; Obżar. ×0,8; Posępność ×0,8; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Sow Fear (×3) — id 9008801
+##### Umiejętność: Sianie Strachu (×3) — id 9008801
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Engrave Horror (×2) — id 9008802
+##### Umiejętność: Wyrycie Grozy (×2) — id 9008802
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: Reap Horror — id 9008803
+##### Umiejętność: Żniwa Grozy — id 9008803
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Paralyze Mind — id 9008804
+##### Umiejętność: Paraliż Umysłu — id 9008804
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3836,29 +4056,30 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                                 |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                              |
 | Progi oszołomienia | 45% / 0%                                                                                            |
+| Typ paniki         | id 9998 (brak danych)                                                                               |
 | Odporności         | Kłucie ×1,5; Obżar. ×0,8; Posępność ×0,8; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Sow Fear (×3) — id 9008801
+##### Umiejętność: Sianie Strachu (×3) — id 9008801
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Engrave Horror (×2) — id 9008802
+##### Umiejętność: Wyrycie Grozy (×2) — id 9008802
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |         10 |         −6 |      1 |    1 |
 
-##### Umiejętność: Reap Horror — id 9008803
+##### Umiejętność: Żniwa Grozy — id 9008803
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Paralyze Mind — id 9008804
+##### Umiejętność: Paraliż Umysłu — id 9008804
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -3883,8 +4104,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 45% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                             |
+| Typ paniki         | Skaza                                                                      |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Gniew ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: --. . ...- (×3) — id 9009401
@@ -3928,8 +4153,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                    |
 | Progi oszołomienia | 80% / 45% / 0%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                            |
+| Typ paniki         | Skaza                                                                     |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Gniew ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: .--. - (×3) — id 9009501
@@ -3973,6 +4202,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
+| Typ paniki         | id 9998 (brak danych)                                                                       |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4016,8 +4246,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                    |
 | Progi oszołomienia | 75% / 0%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                            |
+| Typ paniki         | Skaza                                                                     |
 | Odporności         | Kłucie ×2; Obuch ×0,5; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: -- . -.- (×3) — id 9009201
@@ -4062,6 +4296,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
+| Typ paniki         | id 9998 (brak danych)                                                                       |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4101,8 +4336,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                    |
 | Progi oszołomienia | 85% / 50% / 0%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                            |
+| Typ paniki         | Skaza                                                                     |
 | Odporności         | Kłucie ×2; Obuch ×0,5; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: ..-. . (×3) — id 9009301
@@ -4145,6 +4384,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
+| Typ paniki         | id 9998 (brak danych)                                                                       |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4184,6 +4424,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                     |
 | Progi oszołomienia | 80% / 40% / 0%                                                                             |
+| Typ paniki         | id 9998 (brak danych)                                                                      |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Pycha ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4227,8 +4468,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                    |
 | Progi oszołomienia | 75% / 0%                                                                  |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                            |
+| Typ paniki         | Skaza                                                                     |
 | Odporności         | Kłucie ×2; Obuch ×0,5; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: -- . -.- (×3) — id 9009201
@@ -4273,8 +4518,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 45% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                             |
+| Typ paniki         | Skaza                                                                      |
 | Odporności         | Cięcie ×0,75; Kłucie ×2; Gniew ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: --. . ...- (×3) — id 9009401
@@ -4318,8 +4567,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                    |
 | Progi oszołomienia | 85% / 50% / 0%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                            |
+| Typ paniki         | Skaza                                                                     |
 | Odporności         | Kłucie ×2; Obuch ×0,5; Zawiść ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: ..-. . (×3) — id 9009301
@@ -4358,8 +4611,12 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                       |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                    |
 | Progi oszołomienia | 80% / 45% / 0%                                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                            |
+| Typ paniki         | Skaza                                                                     |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Gniew ×1,2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: .--. - (×3) — id 9009501
@@ -4403,6 +4660,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                         |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                      |
 | Progi oszołomienia | 80% / 60% / 0%                                                                              |
+| Typ paniki         | id 9998 (brak danych)                                                                       |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4442,6 +4700,7 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                     |
 | Progi oszołomienia | 80% / 40% / 0%                                                                             |
+| Typ paniki         | id 9998 (brak danych)                                                                      |
 | Odporności         | Kłucie ×1,2; Obuch ×0,8; Posępność ×0,8; Pycha ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4485,29 +4744,33 @@ przy mniej niż 50% HP, dodatkowo przywraca 15 HP.
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Slice (×3) — id 9008401
+##### Umiejętność: Hak: Cięcie (×3) — id 9008401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Consecutive Hook Slice (×2) — id 9008402
+##### Umiejętność: Kolejne Cięcia Hakiem (×2) — id 9008402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008403
+##### Umiejętność: Bitewny Okrzyk — id 9008403
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008404
+##### Umiejętność: Szarp Szparę — id 9008404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4530,29 +4793,33 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,75; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hook Snag (×3) — id 9008501
+##### Umiejętność: Hak: Zahaczenie (×3) — id 9008501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Hook Punch (×2) — id 9008502
+##### Umiejętność: Hak: Uderzenie (×2) — id 9008502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008503
+##### Umiejętność: Bitewny Okrzyk — id 9008503
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tear the Gap — id 9008504
+##### Umiejętność: Szarp Szparę — id 9008504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4575,35 +4842,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 60% / 20%                                                    |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Tear the Flesh (×5) — id 9008601
+##### Umiejętność: Rozdzieranie Cielistki (×5) — id 9008601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Going In (×2) — id 9008602
+##### Umiejętność: Wdzieram się (×2) — id 9008602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Faster — id 9008603
+##### Umiejętność: Szybciej — id 9008603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Battle Cry — id 9008604
+##### Umiejętność: Bitewny Okrzyk — id 9008604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008605
+##### Umiejętność: Grabież — id 9008605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4627,35 +4898,39 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 10% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Główne Ciało
 
-##### Umiejętność: Hit Me Harder (×5) — id 9008701
+##### Umiejętność: Bij Mnie Jeszcze (×5) — id 9008701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Hit Me Right here (×2) — id 9008702
+##### Umiejętność: Uderz właśnie Tutaj (×2) — id 9008702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Even Harder — id 9008703
+##### Umiejętność: Jeszcze Twardziej — id 9008703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9008704
+##### Umiejętność: Garda — id 9008704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +7 |      1 |    1 |
 
-##### Umiejętność: Looting — id 9008705
+##### Umiejętność: Grabież — id 9008705
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4679,12 +4954,16 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Wystąpienia: ×7 (poz. 40) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 74 (+2,54 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 74 (+2,54 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -10 · Panika przy SP -35 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4741,12 +5020,16 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Wystąpienia: ×7 (poz. 40) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 74 (+2,54 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 74 (+2,54 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -10 · Panika przy SP -35 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4803,12 +5086,18 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 732 (+50,51 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 732 (+50,51 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -10 · Panika przy SP -35 |
+| Typ paniki   | Odwet                                          |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Mocy Ataku i 3 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
+(1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
+(1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -4825,55 +5114,55 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Punching — id 809901
+##### Umiejętność: Uderzenia Pięścią — id 809901
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Kicking — id 809902
+##### Umiejętność: Kopniak — id 809902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Payback — id 809903
+##### Umiejętność: Odwet — id 809903
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Domineer — id 809904
+##### Umiejętność: Przytłaczanie — id 809904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Make this Memorable — id 809905
+##### Umiejętność: Wyryj To w Pamięci — id 809905
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |         10 |         +2 |      1 |    1 |
 
-##### Umiejętność: Watch Your Back! — id 809906
+##### Umiejętność: Uważaj na Kark! — id 809906
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         10 |         +6 |      2 |    1 |
 
-##### Umiejętność: Assemble — id 809907
+##### Umiejętność: Zbiórka — id 809907
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: Swear Vengeance — id 809908
+##### Umiejętność: Przeżuwanie Zemsty — id 809908
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |         15 |         +2 |      1 |    1 |
 
-##### Umiejętność: MY HAIR COUPOOOOOOOOOOONS!!! — id 809909
+##### Umiejętność: MOJE KUPONY NA WŁOSYYYYY!!! — id 809909
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4904,6 +5193,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                                                  |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                               |
 | Progi oszołomienia | 80% / 45% / 0%                                                                       |
+| Typ paniki         | id 9998 (brak danych)                                                                |
 | Odporności         | Posępność ×0,8; Pycha ×1,6; Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4943,6 +5233,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–5                                                                                     |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                  |
 | Progi oszołomienia | 60% / 0%                                                                                |
+| Typ paniki         | id 9998 (brak danych)                                                                   |
 | Odporności         | Posępność ×0,5 (Ineff.); Pycha ×1,2; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -4986,6 +5277,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                                                  |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                               |
 | Progi oszołomienia | 80% / 45% / 0%                                                                       |
+| Typ paniki         | id 9998 (brak danych)                                                                |
 | Odporności         | Posępność ×0,8; Pycha ×1,6; Zawiść ×2 (Fatal); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -5025,6 +5317,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–5                                                                                     |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                                  |
 | Progi oszołomienia | 60% / 0%                                                                                |
+| Typ paniki         | id 9998 (brak danych)                                                                   |
 | Odporności         | Posępność ×0,5 (Ineff.); Pycha ×1,2; Zawiść ×1,6; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -5066,41 +5359,45 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 75% / 0%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Right in the Solar Plexus — id 9009601
+##### Umiejętność: Prosto w Solarny Splot — id 9009601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: We Remember! — id 9009602
+##### Umiejętność: Pamiętamy! — id 9009602
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Skull Crushing — id 9009603
+##### Umiejętność: Rozbicie Czaszki — id 9009603
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    1 |
 
-##### Umiejętność: Ready to Write — id 9009604
+##### Umiejętność: Gotów do Zapisu — id 9009604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Vengeance — id 9009605
+##### Umiejętność: Zemsta — id 9009605
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         15 |         −3 |      2 |    1 |
 
-##### Umiejętność: Multifold Retribution — id 9009606
+##### Umiejętność: Wielokrotna Zemsta — id 9009606
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5123,41 +5420,45 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                          |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                       |
 | Progi oszołomienia | 70% / 0%                                                     |
+| Poczytalność       | Niskie Morale przy SP -25 · Panika przy SP -45               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Right in the Solar Plexus — id 9009701
+##### Umiejętność: Prosto w Solarny Splot — id 9009701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Write Their Sins! — id 9009702
+##### Umiejętność: Wyryj Ich Grzechy! — id 9009702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Skull Bursting — id 9009703
+##### Umiejętność: Rozbijanie Czaszki — id 9009703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +7 |      2 |    1 |
 
-##### Umiejętność: Ready to Write — id 9009704
+##### Umiejętność: Gotów do Zapisu — id 9009704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
-##### Umiejętność: Vengeance — id 9009705
+##### Umiejętność: Zemsta — id 9009705
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         14 |         −2 |      2 |    1 |
 
-##### Umiejętność: Multifold Retribution — id 9009706
+##### Umiejętność: Wielokrotna Zemsta — id 9009706
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5180,8 +5481,12 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–2                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 85% / 50% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                             |
+| Typ paniki         | Skaza                                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9750101 (×3) — id 9750101
@@ -5220,8 +5525,12 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 75% / 0%                                                                   |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                             |
+| Typ paniki         | Skaza                                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9750201 (×3) — id 9750201
@@ -5266,8 +5575,12 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 45% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                             |
+| Typ paniki         | Skaza                                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9750301 (×3) — id 9750301
@@ -5311,8 +5624,12 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–4                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 45% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45                             |
+| Typ paniki         | Skaza                                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 ##### Umiejętność: umiejętność 9750401 (×3) — id 9750401
@@ -5356,6 +5673,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–2                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 60% / 0%                                                             |
+| Typ paniki         | id 9998 (brak danych)                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -5395,6 +5713,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 2–5                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 45% / 0%                                                             |
+| Typ paniki         | id 9998 (brak danych)                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -5434,6 +5753,7 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | Szybkość           | 1–3                                                                        |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                                     |
 | Progi oszołomienia | 80% / 40% / 0%                                                             |
+| Typ paniki         | id 9998 (brak danych)                                                      |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
@@ -5492,13 +5812,13 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: All Shall Scatter — id 810001
+##### Umiejętność: Wszystko Się Rozpadnie — id 810001
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Longing... — id 810002
+##### Umiejętność: Tęsknota... — id 810002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5516,19 +5836,19 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         20 |         −4 |      2 |    1 |
 
-##### Umiejętność: All Shall be Revealed — id 810005
+##### Umiejętność: Wszystko Będzie Wyjawione — id 810005
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: All Shall Burn — id 810006
+##### Umiejętność: Wszystko Spłonie — id 810006
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: Scorn Not the Prophecy — id 810007
+##### Umiejętność: Nie Pogardzaj Przepowiednią — id 810007
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5576,43 +5896,43 @@ gdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej tur
 
 *Opis:* Część
 
-##### Umiejętność: Toxic Fluid — id 810101
+##### Umiejętność: Toksykiczny Śluz — id 810101
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Corrosive Fluid — id 810102
+##### Umiejętność: Korozyjny Śluz — id 810102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Paralytic Fluid — id 810103
+##### Umiejętność: Płyn Porażający — id 810103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Devouring Fluid — id 810104
+##### Umiejętność: Płyn Podżerający — id 810104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Effervescent Green Slime — id 810105
+##### Umiejętność: Wrzący Zielony Śluz — id 810105
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |         15 |        +10 |      1 |    5 |
 
-##### Umiejętność: Predation — id 810106
+##### Umiejętność: Drapieżność — id 810106
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         50 |         +1 |      1 |    1 |
 
-##### Umiejętność: Overflowing Poison — id 810107
+##### Umiejętność: Przepełniająca Trucizna — id 810107
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5628,13 +5948,18 @@ gdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                      |
-| ----------- | ------------------------------------------------------------ |
-| Poziom      | 2                                                            |
-| HP          | 300 (+15 za poziom)                                          |
-| Sloty akcji | start: 4 · maks. 4                                           |
-| Odporności  | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 300 (+15 za poziom)                                          |
+| Sloty akcji  | start: 4 · maks. 4                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Blada Panika                                                 |
+| Odporności   | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5651,19 +5976,19 @@ gdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.
 
 *Opis:* Część
 
-##### Umiejętność: Starting Hunt — id 810301
+##### Umiejętność: Początek Polowania — id 810301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Harpooning — id 810302
+##### Umiejętność: Harpunowanie — id 810302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Harpoon — id 810303
+##### Umiejętność: Przebijający Harpun — id 810303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5675,19 +6000,19 @@ gdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Counter — id 810305
+##### Umiejętność: Kontra — id 810305
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stalk Prey — id 810306
+##### Umiejętność: Tropienie Zdobyczy — id 810306
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Cut Throat — id 810307
+##### Umiejętność: Przecięcie Gardła — id 810307
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5709,13 +6034,17 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                        |
-| ----------- | -------------------------------------------------------------- |
-| Poziom      | 2                                                              |
-| HP          | 280 (+9,5 za poziom)                                           |
-| Sloty akcji | start: 6 · maks. 6                                             |
-| Odporności  | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
+| Parametr     | Wartość                                                        |
+| ------------ | -------------------------------------------------------------- |
+| Poziom       | 2                                                              |
+| HP           | 280 (+9,5 za poziom)                                           |
+| Sloty akcji  | start: 6 · maks. 6                                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki   | Skaza                                                          |
+| Odporności   | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5732,31 +6061,31 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 *Opis:* Część
 
-##### Umiejętność: Strike Me Down! — id 810601
+##### Umiejętność: Spróbuj Mnie Dobić! — id 810601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Stab to Kill — id 810602
+##### Umiejętność: Sztych na Śmierć — id 810602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Undying Soul — id 810603
+##### Umiejętność: Nieśmiertelna Dusza — id 810603
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Murky Innocence — id 810604
+##### Umiejętność: Poblakła Niewinność — id 810604
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weight of Guilt — id 810605
+##### Umiejętność: Ciężar Poczucia Winy — id 810605
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -5798,13 +6127,13 @@ Koniec tury: jeżeli [Ego Pipa] wynosi 0, przechodzi w Oszołamienie w następne
 
 *Opis:* Część
 
-##### Umiejętność: Sparked Flame — id 810701
+##### Umiejętność: Rozpalony Żar — id 810701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: So That It Will Burn — id 810702
+##### Umiejętność: Aby Nie Zgasło — id 810702
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5855,13 +6184,18 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                       |
-| ----------- | ------------------------------------------------------------- |
-| Poziom      | 2                                                             |
-| HP          | 26 (+0,75 za poziom)                                          |
-| Sloty akcji | start: 1 · maks. 1                                            |
-| Odporności  | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                       |
+| ------------ | ------------------------------------------------------------- |
+| Poziom       | 2                                                             |
+| HP           | 26 (+0,75 za poziom)                                          |
+| Sloty akcji  | start: 1 · maks. 1                                            |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki   | Blada Panika                                                  |
+| Odporności   | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5878,31 +6212,31 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
 *Opis:* Część
 
-##### Umiejętność: Stab (×2) — id 811001
+##### Umiejętność: Pchnięcie (×2) — id 811001
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 811002
+##### Umiejętność: Rozdzieranie Ran — id 811002
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +4 |      3 |    1 |
 
-##### Umiejętność: Protect the Town! — id 811003
+##### Umiejętność: Chrońcie Miasteczko! — id 811003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
 
-##### Umiejętność: Tangling Javelin — id 811004
+##### Umiejętność: Oszczep Splatujący — id 811004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Guard — id 811005
+##### Umiejętność: Garda — id 811005
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5919,13 +6253,18 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                       |
-| ----------- | ------------------------------------------------------------- |
-| Poziom      | 2                                                             |
-| HP          | 26 (+0,75 za poziom)                                          |
-| Sloty akcji | start: 1 · maks. 1                                            |
-| Odporności  | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                       |
+| ------------ | ------------------------------------------------------------- |
+| Poziom       | 2                                                             |
+| HP           | 26 (+0,75 za poziom)                                          |
+| Sloty akcji  | start: 1 · maks. 1                                            |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki   | Blada Panika                                                  |
+| Odporności   | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5942,31 +6281,31 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
 *Opis:* Część
 
-##### Umiejętność: Quick Jabs (×2) — id 811101
+##### Umiejętność: Seria Pchnięć (×2) — id 811101
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Carve Wound — id 811102
+##### Umiejętność: Wyzłobienie Rany — id 811102
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Protect the Town! — id 811103
+##### Umiejętność: Chrońcie Miasteczko! — id 811103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         −1 |      4 |    1 |
 
-##### Umiejętność: Capturing Javelin — id 811104
+##### Umiejętność: Włócznia Pojmująca — id 811104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Evade — id 811105
+##### Umiejętność: Unik — id 811105
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5983,13 +6322,18 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                      |
-| ----------- | ------------------------------------------------------------ |
-| Poziom      | 2                                                            |
-| HP          | 690 (+4,38 za poziom)                                        |
-| Sloty akcji | start: 5 · maks. 5                                           |
-| Odporności  | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 690 (+4,38 za poziom)                                        |
+| Sloty akcji  | start: 5 · maks. 5                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Blada Panika                                                 |
+| Odporności   | Cięcie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6006,43 +6350,43 @@ gdy Tarcza się wyczerpie, Candle gasną w następnej turze.
 
 *Opis:* Część
 
-##### Umiejętność: Harpooning — id 810302
+##### Umiejętność: Harpunowanie — id 810302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Harpoon — id 810303
+##### Umiejętność: Przebijający Harpun — id 810303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 810305
+##### Umiejętność: Kontra — id 810305
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stalk Prey — id 810306
+##### Umiejętność: Tropienie Zdobyczy — id 810306
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +5 |      3 |    1 |
 
-##### Umiejętność: Cut Throat — id 810307
+##### Umiejętność: Przecięcie Gardła — id 810307
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         13 |         +8 |      1 |    3 |
 
-##### Umiejętność: Deep Breathing — id 810308
+##### Umiejętność: Głęboki Oddech — id 810308
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |          8 |         +1 |      1 |    1 |
 
-##### Umiejętność: To Survive — id 810309
+##### Umiejętność: Pragnienie Przetrwania — id 810309
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6064,13 +6408,17 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                      |
-| ----------- | ------------------------------------------------------------ |
-| Poziom      | 2                                                            |
-| HP          | 271 (+9,36 za poziom)                                        |
-| Sloty akcji | start: 5 · maks. 5                                           |
-| Odporności  | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
+| Parametr     | Wartość                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Poziom       | 2                                                            |
+| HP           | 271 (+9,36 za poziom)                                        |
+| Sloty akcji  | start: 5 · maks. 5                                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki   | Skaza                                                        |
+| Odporności   | Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6087,49 +6435,49 @@ Początek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na 
 
 *Opis:* Część
 
-##### Umiejętność: To Me! — id 810502
+##### Umiejętność: Do mnie! — id 810502
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         15 |         +5 |      1 |    1 |
 
-##### Umiejętność: Track Them to the End! — id 810503
+##### Umiejętność: Gonicie Ich Do Końca! — id 810503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Veteran's Harpoon — id 810504
+##### Umiejętność: Harpun Weterana — id 810504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Burning Harpoon — id 810505
+##### Umiejętność: Płonący Harpun — id 810505
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Foolishness! — id 810506
+##### Umiejętność: Głupstwo! — id 810506
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: unik |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Exhale! — id 810507
+##### Umiejętność: Wydal Tchnienie! — id 810507
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Be Fearless! — id 810508
+##### Umiejętność: Niech Ostatni Strach Zniknie! — id 810508
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Tempering of Death — id 810509
+##### Umiejętność: Hartowanie Śmierci — id 810509
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6148,13 +6496,17 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                        |
-| ----------- | -------------------------------------------------------------- |
-| Poziom      | 2                                                              |
-| HP          | 280 (+9,5 za poziom)                                           |
-| Sloty akcji | start: 5 · maks. 5                                             |
-| Odporności  | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
+| Parametr     | Wartość                                                        |
+| ------------ | -------------------------------------------------------------- |
+| Poziom       | 2                                                              |
+| HP           | 280 (+9,5 za poziom)                                           |
+| Sloty akcji  | start: 5 · maks. 5                                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki   | Skaza                                                          |
+| Odporności   | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6171,31 +6523,31 @@ Koniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.
 
 *Opis:* Część
 
-##### Umiejętność: Strike Me Down! — id 810601
+##### Umiejętność: Spróbuj Mnie Dobić! — id 810601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Stab to Kill — id 810602
+##### Umiejętność: Sztych na Śmierć — id 810602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Swathed Fear — id 810607
+##### Umiejętność: Owinięty Strach — id 810607
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Punctured Weakness — id 810608
+##### Umiejętność: Przebita Słabość — id 810608
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Echoing Cry — id 810609
+##### Umiejętność: Ech Jęku — id 810609
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6218,13 +6570,17 @@ Koniec tury: jeżeli [Ego Starbucka] wynosi 0, przechodzi w Oszołamienie w nast
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                                                        |
-| ----------- | -------------------------------------------------------------- |
-| Poziom      | 2                                                              |
-| HP          | 280 (+9,5 za poziom)                                           |
-| Sloty akcji | start: 6 · maks. 6                                             |
-| Odporności  | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
+| Parametr     | Wartość                                                        |
+| ------------ | -------------------------------------------------------------- |
+| Poziom       | 2                                                              |
+| HP           | 280 (+9,5 za poziom)                                           |
+| Sloty akcji  | start: 6 · maks. 6                                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki   | Skaza                                                          |
+| Odporności   | Kłucie ×1,2; Gniew ×1,2; Pycha ×1,5 (Weak); Zawiść ×1,5 (Weak) |
 
+**Efekt Niskiego Morale:** Zyskaj 1 Wrażliwość. Po przegranym Starciu cel traci 2 SP
+**Efekt Paniki:** Zyskaj 2 Wrażliwość. Po przegranym Starciu cel traci 5 SP
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -6241,31 +6597,31 @@ Koniec tury: jeżeli [Ego Starbucka] wynosi 0, przechodzi w Oszołamienie w nast
 
 *Opis:* Część
 
-##### Umiejętność: Strike Me Down! — id 810601
+##### Umiejętność: Spróbuj Mnie Dobić! — id 810601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Stab to Kill — id 810602
+##### Umiejętność: Sztych na Śmierć — id 810602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Clouded Path — id 810610
+##### Umiejętność: Zmącony Tor — id 810610
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Bleached Atonement — id 810611
+##### Umiejętność: Wyblakła Pokuta — id 810611
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Insidious Pallidification — id 810612
+##### Umiejętność: Skradające się Pobladienie — id 810612
 
 | Poz. | Grzech   | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -6311,6 +6667,8 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 
 *Brak danych o umiejętnościach.*
 
+**Pasywki:** brak
+
 #### Blinded Pequod Town Villager — id 90098
 
 *Wystąpienia: ×0 (poz. —).*
@@ -6322,35 +6680,40 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 45% / 0%                                                      |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Blada Panika                                                  |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
-##### Umiejętność: Stab (×2) — id 9009801
+##### Umiejętność: Pchnięcie (×2) — id 9009801
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9009802
+##### Umiejętność: Rozdzieranie Ran — id 9009802
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Protect the Town! — id 9009803
+##### Umiejętność: Chrońcie Miasteczko! — id 9009803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         12 |         −2 |      4 |    1 |
 
-##### Umiejętność: Javelin — id 9009804
+##### Umiejętność: Włócznia — id 9009804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          7 |         +7 |      1 |    1 |
 
-##### Umiejętność: Guard — id 9009805
+##### Umiejętność: Garda — id 9009805
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -6374,8 +6737,13 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 45% / 0%                                                      |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Blada Panika                                                  |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** [Wydajność Spadku Poczytalności] +2
+**Efekt Paniki:** Co Koniec Tury: w następnej turze zyskaj 2 Spętanie.
+Wszystkie rzucane przez tę jednostkę Monety wypadają Rewersem.
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Seria Pchnięć (×2) — id 9009901
@@ -6384,25 +6752,25 @@ zadaje o 1% więcej obrażeń za każde 0.75% utraconego HP
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Carve Wound — id 9009902
+##### Umiejętność: Wyzłobienie Rany — id 9009902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Kłucie |          3 |         +2 |      4 |    1 |
 
-##### Umiejętność: Protect the Town! — id 9009903
+##### Umiejętność: Chrońcie Miasteczko! — id 9009903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |         12 |         −2 |      4 |    1 |
 
-##### Umiejętność: Javelin — id 9009904
+##### Umiejętność: Włócznia — id 9009904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: Evade — id 9009905
+##### Umiejętność: Unik — id 9009905
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |

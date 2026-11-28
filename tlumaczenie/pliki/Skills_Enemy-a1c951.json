@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=9010101].levelList[level=1].name": {
-      "pl": "Human-omes!",
+      "pl": "Człowiek-om!",
       "kr_sha256": "d1916410c013e22c091cf5b6f6150a7f9f04d91906befde72d4352d5751dcc28",
       "en_sha256": "d389a7e4a8b12025e6c536cdb0ad77d4be353750597a92a0484b90744053214d",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=9010102].levelList[level=1].name": {
-      "pl": "Capture them-ome",
+      "pl": "Złapać Ich-om!",
       "kr_sha256": "d63ffc2d672bb53abb45f961dc750e077f43af2adb03b39d70dfb58f861798af",
       "en_sha256": "71c93f3c0c2b6a01773104173069fee774cbfa0d356aacd1d6fab0def05d5547",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=9010103].levelList[level=1].name": {
-      "pl": "Ome, Ome!!",
+      "pl": "Om, Om!!",
       "kr_sha256": "00f348e802ae9db138ed6a15d76524bd527a6b9334dc17ee053d398db3f9d584",
       "en_sha256": "1e100eddb7752351b63c9cb74dcd4cfe091529b18f269398a907ccd28521f5df",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=9010201].levelList[level=1].name": {
-      "pl": "Fresh Meat-omes",
+      "pl": "Świeżuteńkie Mięsko-om",
       "kr_sha256": "4da3aba448c88d7d470ea2ade1d981080b4223d8911f40fa5690c0cfda88b68c",
       "en_sha256": "750def757b81436cf0fc5557547375553910c75bbddcec02e7cfcc0e2dc08947",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=9010202].levelList[level=1].name": {
-      "pl": "Lookin' Lively-ome!",
+      "pl": "Żwawy Jak Trzeba-om!",
       "kr_sha256": "ea704cad30ee7d1c81da4b58f9a564d896c09acd00c157bc0ec070a263a75c71",
       "en_sha256": "53655b50ce5c54703ac1dcd64618eba404281678f6086e16b87bc3cba2fa9fe7",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=9010203].levelList[level=1].name": {
-      "pl": "No Use-ome!",
+      "pl": "Niczego To Nie Daje-om!",
       "kr_sha256": "4ede0ec1c43f9f931c481e5031985e51e49ea5383dbee7f1adea2b9bca36b398",
       "en_sha256": "05f0100cf0b68ecd6611a35e4dfcc63e2d282bea14e91b90433d108b6872875d",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=9010301].levelList[level=1].name": {
-      "pl": "Turn Ya Into Furniture-omes!",
+      "pl": "Zrobię z Was Mebel-om!",
       "kr_sha256": "d86fcb3fa86fb2395e9369363bbe31eb7e388dadc30b8bcb9573537d54e7362d",
       "en_sha256": "fe9485213b81f81ef18dbbe8a6e2672fb7d98f7f1a03a96bc49a085c8676199b",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=9010302].levelList[level=1].name": {
-      "pl": "Let's Get It Moving-ome",
+      "pl": "Ruchy z Tym-om!",
       "kr_sha256": "94429c34fdd6231299807fbb6e773f1ca74aad92ca43732623fdc3deb101cb21",
       "en_sha256": "89ae96ba7027f5897d1daedd2ae7fbb6b060d420c3f9667002a99121bfc66c5a",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=9010401].levelList[level=1].name": {
-      "pl": "I'll Get You-ome",
+      "pl": "Porwę Was-om!",
       "kr_sha256": "7f2900572b53ac740d139034c6e5cf94b756597689a60a1d4b2024394d6369ca",
       "en_sha256": "063c7d169934a59eca0825d4ec29e146b0b71f46911fcf7370430432a5820b19",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=9010402].levelList[level=1].name": {
-      "pl": "We Struck Gold-ome!",
+      "pl": "Złoto Znalezione-om!",
       "kr_sha256": "6131fb92b6ddac974e674a732678eb23950377899d35a10dadef2bf0cf0944da",
       "en_sha256": "239fb86d3f3dc2e2a918f101cd9f3fd796b6573335e35593436a2b129ef91314",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=9010403].levelList[level=1].name": {
-      "pl": "Local Raw Material-omes!",
+      "pl": "Materiał Lokalny-om!",
       "kr_sha256": "a7cc4b54d6226f4456b71131ade8f87e5cdda245c068599bbb2e209cc7e90b49",
       "en_sha256": "6e5bd5b41db18fe9ad3d24126a0ab6f2cd86d5a4c8492e1076289dba1361a2fd",
       "origin": "ai"
@@ -331,7 +331,7 @@
       "origin": "ai"
     },
     "dataList[id=9010404].levelList[level=1].name": {
-      "pl": "No Use-ome!",
+      "pl": "Niczego To Nie Daje-om!",
       "kr_sha256": "4ede0ec1c43f9f931c481e5031985e51e49ea5383dbee7f1adea2b9bca36b398",
       "en_sha256": "05f0100cf0b68ecd6611a35e4dfcc63e2d282bea14e91b90433d108b6872875d",
       "origin": "ai"

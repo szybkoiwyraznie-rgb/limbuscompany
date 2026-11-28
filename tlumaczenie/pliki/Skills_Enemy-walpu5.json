@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9017801].levelList[level=1].name": {
-      "pl": "Guidance of the Gears",
+      "pl": "Wola Zębatek",
       "kr_sha256": "34bb837d0aaa8c3e3656f5c96c7e84b63ccf1e714054e31b1e786fdc7c895e0f",
       "en_sha256": "47a3fa46f29120d28cd614807ae1fa78ab76f7b26fb886ce130bb6a09079273e",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=9017802].levelList[level=1].name": {
-      "pl": "Meat Gear: Stop",
+      "pl": "Mięsna Zębatka: Stop",
       "kr_sha256": "50862bac9a1e24cd006c948502eb0d90e9cb27fe0d4577ac0867608857fb5f00",
       "en_sha256": "dd1722550c8f1a01c69f313639a92bfa3ba42acbb2dbcacefa819a0a21ecb435",
       "origin": "ai"
@@ -73,7 +73,7 @@
       "origin": "ai"
     },
     "dataList[id=9017803].levelList[level=1].name": {
-      "pl": "Vapour",
+      "pl": "Para",
       "kr_sha256": "844837af07717e6413f3eb99cf87459ca5e82c59912c852587e14e1dfd945087",
       "en_sha256": "8665d5b0e66038439c31ba3aba80a19396e2fd199394e74b22acb7004c7a2bae",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=9017804].levelList[level=1].name": {
-      "pl": "Evade Order",
+      "pl": "Rozkaz Uniku",
       "kr_sha256": "1d7df095b275f35ea5c2d4901086f9cc8767d7612a4e1000a93a53b32d982d12",
       "en_sha256": "79515fdc5ead516c8a7e87d79b739a089f3a873a685fabf9b930f0ba7c58793d",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=9017901].levelList[level=1].name": {
-      "pl": "Guided by Gears",
+      "pl": "Za Zębatkami",
       "kr_sha256": "25d041726010aa3fb97847c5c043d6045906c4ddbc9ef2dd8e319b355f3103c3",
       "en_sha256": "81e8f2f1e172701082e87e8dcbc3a85423790a41d9ef3570d800f2319f4e6432",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=9017902].levelList[level=1].name": {
-      "pl": "Meat Gear: Grapple",
+      "pl": "Mięsna Zębatka: Chwyt",
       "kr_sha256": "c6c6f94122d23715854faf086c2706cb32d9e4840c1f1e5860eb86ee4cf36ea9",
       "en_sha256": "62084713d6f27047639855a01d6776eb945638a2fb1748f43da717a145716682",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9017903].levelList[level=1].name": {
-      "pl": "Assault Order",
+      "pl": "Rozkaz Szturmu",
       "kr_sha256": "a61a15ec28c787906eb6e107259eee09d9eaef67cf3e001071d9fd28e9229ccf",
       "en_sha256": "7f1b81d3d25ee04256949cef288025c719f59f65d79ba2fdfe7c2c41613babb8",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=9017904].levelList[level=1].name": {
-      "pl": "Evade Order",
+      "pl": "Rozkaz Uniku",
       "kr_sha256": "1d7df095b275f35ea5c2d4901086f9cc8767d7612a4e1000a93a53b32d982d12",
       "en_sha256": "79515fdc5ead516c8a7e87d79b739a089f3a873a685fabf9b930f0ba7c58793d",
       "origin": "ai"
@@ -193,7 +193,7 @@
       "origin": "ai"
     },
     "dataList[id=9018001].levelList[level=1].name": {
-      "pl": "Meat Gear: Command",
+      "pl": "Mięsna Zębatka: Rozkaz",
       "kr_sha256": "0dc462a87ee35d6ddb2e7c11d8b3ed1c0025f4761cafc74441bba8784bbd1cff",
       "en_sha256": "8727cd0154517b77163f207558d1034b1756755b343aa3dc54f1125d75c6b598",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=9018002].levelList[level=1].name": {
-      "pl": "Thought Gear: Collect",
+      "pl": "Zębatka Myśli: Zbiór",
       "kr_sha256": "8437ce38e2f4d060072e8850df7e46b3dfe7689330df3022d3f67b374bca6a12",
       "en_sha256": "f3df1825efeb681e0bb4b71f393aec89f79ef1316d5d3f5ad2ed9d101040346a",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=9018003].levelList[level=1].name": {
-      "pl": "Meat Gear: Restrict",
+      "pl": "Mięsna Zębatka: Ograniczenie",
       "kr_sha256": "9cdccfe281a8b8d863cc988e62406adcfa3b192f9a643bb6ef88afdfd0fdacc0",
       "en_sha256": "0d6f683196dba0b5f8fb314afe48f56268d3585154e7e6206354ca43c02b4882",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=9018004].levelList[level=1].name": {
-      "pl": "Thought Gear: Remove",
+      "pl": "Zębatka Myśli: Usunięcie",
       "kr_sha256": "0d4829441f0a7e9c119914040011f02f583dc479a35de367ca8e42db9d218ffb",
       "en_sha256": "5ecc028de685cc3c202076d0966d98a4d2e606ede10dcab028680d29f749eb2e",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=9018005].levelList[level=1].name": {
-      "pl": "Thought Gear: Vapour",
+      "pl": "Zębatka Myśli: Para",
       "kr_sha256": "d0e998f9fcbdf86b48fb9a2fd89518dae1424c89368dfd527274c948be584f69",
       "en_sha256": "2c2b2bc987ef4636da20b1154448a681d7249832a14ebc3471f804cde0db64ed",
       "origin": "ai"

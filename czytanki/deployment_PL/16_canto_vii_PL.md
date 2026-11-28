@@ -42,11 +42,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Prideful Runover — id 806902
+##### Umiejętność: Dumne Miażdżenie — id 806902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Żądzy — id 8392
 
@@ -81,11 +83,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Piercing Lust — id 806802
+##### Umiejętność: Przebijające Pożądanie — id 806802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Luxuriae? — id 8373
 
@@ -114,29 +118,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Pin Down — id 837301
+##### Umiejętność: Przygniecenie — id 837301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Impaled Desire — id 837302
+##### Umiejętność: Przebite Pożądanie — id 837302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Repressed Desire — id 837303
+##### Umiejętność: Stłumione Pożądanie — id 837303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      3 |    1 |
 
-##### Umiejętność: Guard — id 837304
+##### Umiejętność: Garda — id 837304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Superbiae? — id 8374
 
@@ -165,29 +171,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Grinding — id 837401
+##### Umiejętność: Mielenie — id 837401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Crush — id 837402
+##### Umiejętność: Rozgniotenie — id 837402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Prideful Crush — id 837403
+##### Umiejętność: Dumny Zgniot — id 837403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |        +12 |      1 |    1 |
 
-##### Umiejętność: Counter — id 837404
+##### Umiejętność: Kontra — id 837404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          6 |         +7 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 7-2 · O TYM, JAK LIMBUS COMPANY PO RAZ NIEZUPEŁNIE PIERWSZY ZE SKRZYDŁEM WSPÓŁPRACUJE
 
@@ -220,47 +228,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Expression of Love — id 837901
+##### Umiejętność: Wyrażenie Miłości — id 837901
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +4 |      1 |    1 |
 
-##### Umiejętność: Clawing — id 837902
+##### Umiejętność: Drapanie — id 837902
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Violent Clawing — id 837903
+##### Umiejętność: Dzikie Drapanie — id 837903
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Timid Expression of Love — id 837904
+##### Umiejętność: Nieśmiałe Wyrażenie Miłości — id 837904
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Rough Expression of Love — id 837905
+##### Umiejętność: Brutalne Wyrażenie Miłości — id 837905
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: A Sad Embrace — id 837906
+##### Umiejętność: Smutny Uścisk — id 837906
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          1 |         +1 |      1 |    1 |
 
-##### Umiejętność: An Old, Nostalgic Embrace — id 837907
+##### Umiejętność: Tęskniony Uścisk Dawnych Czasów — id 837907
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          6 |         +6 |      2 |    6 |
+
+**Pasywki:** brak
 
 ### Etap 7-3 · O TYM, JAK GRZESZNICY OBYCZAJEM MIASTA UZNANIE WŚRÓD FIKSERÓW ZDOBYWAJĄ
 
@@ -277,29 +287,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                      |
 | Progi oszołomienia | 70% / 30% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Slam — id 9015601
+##### Umiejętność: Rozbicie — id 9015601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Crush Wounds — id 9015602
+##### Umiejętność: Zgniot Ran — id 9015602
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wild Swinging — id 9015603
+##### Umiejętność: Dzikie Machanie — id 9015603
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Hemostasis — id 9015604
+##### Umiejętność: Zastopowanie Krwawienia — id 9015604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -324,29 +338,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                      |
 | Progi oszołomienia | 70% / 30% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Slam — id 9015701
+##### Umiejętność: Rozbicie — id 9015701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Crush Wounds — id 9015702
+##### Umiejętność: Zgniot Ran — id 9015702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wild Swinging — id 9015703
+##### Umiejętność: Dzikie Machanie — id 9015703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Hemostasis — id 9015704
+##### Umiejętność: Zastopowanie Krwawienia — id 9015704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -375,29 +393,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                      |
 | Progi oszołomienia | 70% / 30% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Slam — id 9015601
+##### Umiejętność: Rozbicie — id 9015601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Crush Wounds — id 9015602
+##### Umiejętność: Zgniot Ran — id 9015602
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wild Swinging — id 9015603
+##### Umiejętność: Dzikie Machanie — id 9015603
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Hemostasis — id 9015604
+##### Umiejętność: Zastopowanie Krwawienia — id 9015604
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -422,29 +444,33 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–6                                                           |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                      |
 | Progi oszołomienia | 70% / 30% / 0%                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
-##### Umiejętność: Slam — id 9015701
+##### Umiejętność: Rozbicie — id 9015701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Crush Wounds — id 9015702
+##### Umiejętność: Zgniot Ran — id 9015702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Wild Swinging — id 9015703
+##### Umiejętność: Dzikie Machanie — id 9015703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Hemostasis — id 9015704
+##### Umiejętność: Zastopowanie Krwawienia — id 9015704
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -466,13 +492,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 45).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 52 (+3,59 za poziom)  |
-| Sloty akcji | start: 1 · maks. 4    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 52 (+3,59 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 4                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Specjalista Pojedynków                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]. Przegrane Starcie: zyskaj 1 [Spadek Poziomu Obrony] (maks. 3 na turę). Min. Szybkość -1
+**Efekt Paniki:** Początek Tury: zyskaj 4 [Wzrost Poziomu Ataku]. Przegrane Starcie: zyskaj 2 [Spadek Poziomu Obrony] (maks. 6 na turę). Min. Szybkość -1
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -513,7 +543,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          4 |         +4 |      4 |    1 |
 
-##### Umiejętność: Parry — id 837105
+##### Umiejętność: Paryzacja — id 837105
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -525,6 +555,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          3 |        +10 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 7-8 · O WESOŁEJ OBIETNICY MIĘDZY KIEROWCĄ AUTOBUSU A KIEROWNIKIEM W SPRAWIE WESOŁEGO MIASTECZKA
 
 - **Fala 1:** The Priest ×1 (poz. 70); The Barber ×1 (poz. 70); Dulcinea ×1 (poz. 85)
@@ -533,13 +565,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 70).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 261 (+18 za poziom)   |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 261 (+18 za poziom)                            |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wyrzuty Sumienia                               |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Koniec Tury: zyskaj 1 [Wrażliwość] i 1 [Słabsze Leczenie Poczytalności] w następnej turze
+**Efekt Paniki:** Koniec Tury: zyskaj 2 [Wrażliwość] i 2 [Słabsze Leczenie Poczytalności] w następnej turze.
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -556,49 +592,49 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: This Unforgivable Sin... — id 837801
+##### Umiejętność: Grzech, którego Nie Wybaczą... — id 837801
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: The Deserved Penance... — id 837802
+##### Umiejętność: Zasłużona Pokuta... — id 837802
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Did you think about blood today? — id 837803
+##### Umiejętność: Myślałeś Dziś o Krwi? — id 837803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Are you still thinking about blood? — id 837804
+##### Umiejętność: Wciąż myślisz o krwi? — id 837804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: More, more blood...! — id 837805
+##### Umiejętność: Więcej, więcej krwi...! — id 837805
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +7 |      1 |    1 |
 
-##### Umiejętność: How Bountiful... — id 837806
+##### Umiejętność: Jakże Obfita... — id 837806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +4 |      3 |    1 |
 
-##### Umiejętność: Sacrifice for the Family — id 837807
+##### Umiejętność: Pojednanie dla Rodziny — id 837807
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |         10 |         +4 |      1 |    1 |
 
-##### Umiejętność: Blood... — id 837808
+##### Umiejętność: Krwi... — id 837808
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -614,13 +650,17 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×1 (poz. 70).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 157 (+8,44 za poziom) |
-| Sloty akcji | start: 2 · maks. 2    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 157 (+8,44 za poziom)                          |
+| Sloty akcji  | start: 2 · maks. 2                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Głód                                           |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spętanie] i 2 [Wzrost Mocy Ataku]. Koniec Tury: otrzymaj 5 obrażeń SP
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Spętanie] i 4 [Wzrost Mocy Ataku].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -637,37 +677,37 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: I'll Cut You Up All Pretty! — id 837201
+##### Umiejętność: Poszatkuję Cię Pięknie! — id 837201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Even Sharper — id 837202
+##### Umiejętność: Jeszcze Ostrościej — id 837202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: SNIP!! — id 837203
+##### Umiejętność: CIACH!! — id 837203
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Now, It's Your Turn — id 837205
+##### Umiejętność: Teraz Twoja Kolej — id 837205
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: I'll Cut You Together! — id 837206
+##### Umiejętność: Poszatkuję Was Wspólnie! — id 837206
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      4 |    1 |
 
-##### Umiejętność: I Don't Need Ugly Things!! — id 837208
+##### Umiejętność: Brzydkie Rzeczy Mi Niepotrzebne!! — id 837208
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -691,13 +731,17 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 209 (+14,59 za poziom) |
-| Sloty akcji | start: 3 · maks. 3     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 209 (+14,59 za poziom)                         |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Jarzmienie Nicości                             |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]. Koniec Tury: trać 5 SP.
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 6 [Spadek Poziomu Obrony]. Koniec Tury: odzyskaj 10 SP.
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -714,43 +758,43 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Gracefully... — id 839601
+##### Umiejętność: Z gracją... — id 839601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Walk With Grace... — id 838101
+##### Umiejętność: Krok Pełen Gracji... — id 838101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Move With Beauty... — id 838102
+##### Umiejętność: Ruch z Pięknem... — id 838102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Beckon the Audience Hither... — id 838103
+##### Umiejętność: Przywołaj Widownię Bliżej... — id 838103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Parade of Wonders — id 838104
+##### Umiejętność: Parada Cudów — id 838104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    6 |
 
-##### Umiejętność: And that's all it does... — id 838106
+##### Umiejętność: I to wszystko, co robi... — id 838106
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: The Finale — id 838107
+##### Umiejętność: Finale — id 838107
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -789,8 +833,12 @@ po zmianie wzorca:
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -811,7 +859,7 @@ po zmianie wzorca:
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -839,8 +887,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -861,7 +913,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -893,8 +945,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -915,7 +971,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -943,8 +999,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -965,7 +1025,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -993,35 +1053,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–5                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1055,8 +1119,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -1077,7 +1145,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1105,8 +1173,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -1127,7 +1199,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1155,35 +1227,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–5                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1213,35 +1289,39 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 4–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: More, More! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie! — id 9015501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: I'll Have Some More — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: What Heavenly Taste! — id 9015503
+##### Umiejętność: Raj w Ustach! — id 9015503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: You Rat Bastard! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015505
+##### Umiejętność: Kontra — id 9015505
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1275,8 +1355,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -1297,7 +1381,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1325,8 +1409,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -1347,7 +1435,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1375,35 +1463,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 4–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: More, More! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie! — id 9015501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: I'll Have Some More — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: What Heavenly Taste! — id 9015503
+##### Umiejętność: Raj w Ustach! — id 9015503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: You Rat Bastard! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015505
+##### Umiejętność: Kontra — id 9015505
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1433,35 +1525,39 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–5                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1495,8 +1591,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -1517,7 +1617,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1545,8 +1645,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -1567,7 +1671,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1595,35 +1699,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–5                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1653,35 +1761,39 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 4–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: More, More! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie! — id 9015501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: I'll Have Some More — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: What Heavenly Taste! — id 9015503
+##### Umiejętność: Raj w Ustach! — id 9015503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: You Rat Bastard! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015505
+##### Umiejętność: Kontra — id 9015505
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1715,8 +1827,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -1737,7 +1853,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1765,8 +1881,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -1787,7 +1907,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1815,35 +1935,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–5                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1873,35 +1997,39 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 4–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: More, More! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie! — id 9015501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: I'll Have Some More — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: What Heavenly Taste! — id 9015503
+##### Umiejętność: Raj w Ustach! — id 9015503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: You Rat Bastard! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015505
+##### Umiejętność: Kontra — id 9015505
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1935,8 +2063,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -1957,7 +2089,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1985,35 +2117,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–5                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2043,35 +2179,39 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 4–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Cięcie ×0,8; Gniew ×0,5 (Ineff.); Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: More, More! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie! — id 9015501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: I'll Have Some More — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: What Heavenly Taste! — id 9015503
+##### Umiejętność: Raj w Ustach! — id 9015503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: You Rat Bastard! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015505
+##### Umiejętność: Kontra — id 9015505
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2101,8 +2241,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–4                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,8; Gniew ×0,75 (Endured); Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -2123,7 +2267,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2148,13 +2292,17 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Wystąpienia: ×1 (poz. 70).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 319 (+30 za poziom)   |
-| Sloty akcji | start: 6 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 319 (+30 za poziom)                            |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Głód                                           |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Spętanie] i 2 [Wzrost Mocy Ataku]. Koniec Tury: otrzymaj 5 obrażeń SP
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Spętanie] i 4 [Wzrost Mocy Ataku].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -2171,49 +2319,49 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: I'll Cut You Up All Pretty! — id 837201
+##### Umiejętność: Poszatkuję Cię Pięknie! — id 837201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Even Sharper — id 837202
+##### Umiejętność: Jeszcze Ostrościej — id 837202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: SNIP!! — id 837203
+##### Umiejętność: CIACH!! — id 837203
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: I'll Cut You Up Too! — id 837204
+##### Umiejętność: Ciebie Też Poszatkuję! — id 837204
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      2 |    1 |
 
-##### Umiejętność: Now, It's Your Turn — id 837205
+##### Umiejętność: Teraz Twoja Kolej — id 837205
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: I'll Cut You Together! — id 837206
+##### Umiejętność: Poszatkuję Was Wspólnie! — id 837206
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +5 |      4 |    1 |
 
-##### Umiejętność: How Discourteous! — id 837207
+##### Umiejętność: To Niewypada! — id 837207
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +8 |      1 |    1 |
 
-##### Umiejętność: I Don't Need Ugly Things!! — id 837208
+##### Umiejętność: Brzydkie Rzeczy Mi Niepotrzebne!! — id 837208
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2248,17 +2396,18 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–4                                                             |
 | Sloty akcji        | start: 1/2/2 · maks. 3                                          |
 | Progi oszołomienia | 70% / 30% / 0%                                                  |
+| Typ paniki         | Żądza Krwi                                                      |
 | Odporności         | Cięcie ×1,5; Kłucie ×1,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* jednostka
 
-##### Umiejętność: Plain Villainy — id 9016001
+##### Umiejętność: Czysty Chuliganizm — id 9016001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bullying — id 9016002
+##### Umiejętność: Prześladowanie — id 9016002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2285,6 +2434,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–2                                                             |
 | Sloty akcji        | start: 5/5/5 · maks. 5                                          |
 | Progi oszołomienia | 40% / 0%                                                        |
+| Typ paniki         | Żądza Krwi                                                      |
 | Odporności         | Cięcie ×1,5; Kłucie ×1,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* jednostka
@@ -2301,7 +2451,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +6 |      2 |    1 |
 
-##### Umiejętność: Listen, you sod. It's— "Grrrr." — id 9016103
+##### Umiejętność: Słuchaj, ty łobuzie. To— „Wrrrr.” — id 9016103
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2313,7 +2463,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |         +4 |      1 |    1 |
 
-##### Umiejętność: Oi, can we stop now? — id 9016105
+##### Umiejętność: Hej, mam to dalej robić? — id 9016105
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2342,8 +2492,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9016901
@@ -2358,7 +2512,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9016904
+##### Umiejętność: Kontra — id 9016904
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2385,8 +2539,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9017001
@@ -2401,7 +2559,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9017004
+##### Umiejętność: Kontra — id 9017004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2428,29 +2586,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Obuch ×0,8; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017103
+##### Umiejętność: Zblakła Cierpliwość — id 9017103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017105
+##### Umiejętność: Kontra — id 9017105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2483,8 +2645,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9016901
@@ -2499,7 +2665,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9016904
+##### Umiejętność: Kontra — id 9016904
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2526,8 +2692,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9017001
@@ -2542,7 +2712,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9017004
+##### Umiejętność: Kontra — id 9017004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2569,29 +2739,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Obuch ×0,8; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017103
+##### Umiejętność: Zblakła Cierpliwość — id 9017103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017105
+##### Umiejętność: Kontra — id 9017105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2620,29 +2794,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Obuch ×0,8; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017203
+##### Umiejętność: Zblakła Cierpliwość — id 9017203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017205
+##### Umiejętność: Kontra — id 9017205
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2675,8 +2853,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9016901
@@ -2691,7 +2873,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9016904
+##### Umiejętność: Kontra — id 9016904
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2718,8 +2900,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9017001
@@ -2734,7 +2920,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9017004
+##### Umiejętność: Kontra — id 9017004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2761,29 +2947,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Obuch ×0,8; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017103
+##### Umiejętność: Zblakła Cierpliwość — id 9017103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017105
+##### Umiejętność: Kontra — id 9017105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2812,29 +3002,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Obuch ×0,8; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017203
+##### Umiejętność: Zblakła Cierpliwość — id 9017203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017205
+##### Umiejętność: Kontra — id 9017205
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2867,8 +3061,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9016901
@@ -2883,7 +3081,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9016904
+##### Umiejętność: Kontra — id 9016904
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2910,8 +3108,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–3                                                                                                                                                              |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                         |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                   |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                   |
+| Typ paniki         | Żądza Krwi                                                                                                                                                       |
 | Odporności         | Obuch ×0,8; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9017001
@@ -2926,7 +3128,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9017004
+##### Umiejętność: Kontra — id 9017004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2953,29 +3155,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Obuch ×0,8; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017103
+##### Umiejętność: Zblakła Cierpliwość — id 9017103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017105
+##### Umiejętność: Kontra — id 9017105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3004,29 +3210,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–6                                                                                                                                                             |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                        |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                  |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                  |
+| Typ paniki         | Żądza Krwi                                                                                                                                                      |
 | Odporności         | Obuch ×0,8; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,5 (Weak); Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017203
+##### Umiejętność: Zblakła Cierpliwość — id 9017203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017205
+##### Umiejętność: Kontra — id 9017205
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3052,13 +3262,16 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×1 (poz. 50).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 626 (+43,17 za poziom) |
-| Sloty akcji | start: 1 · maks. 3     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 626 (+43,17 za poziom)                         |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | ???                                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Paniki:** Niemożliwe do zaobserwowania
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -3075,25 +3288,25 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Dragon of the Spring — id 838901
+##### Umiejętność: Smok ze Źródła — id 838901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         11 |         +8 |      2 |    1 |
 
-##### Umiejętność: Lotus in Autumn — id 838902
+##### Umiejętność: Lotos Jesieni — id 838902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         11 |         +8 |      2 |    1 |
 
-##### Umiejętność: Faint Trace — id 838903
+##### Umiejętność: Zwiewny Ślad — id 838903
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          8 |        +11 |      2 |    1 |
 
-##### Umiejętność: Pallid Trace — id 838904
+##### Umiejętność: Blady Ślad — id 838904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3111,13 +3324,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          7 |        +12 |      2 |    1 |
 
-##### Umiejętność: Mirror of Water — id 838907
+##### Umiejętność: Lustro Wody — id 838907
 
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |         15 |        +15 |      1 |    1 |
 
-##### Umiejętność: Electron Accelerator Rail Activation — id 838908
+##### Umiejętność: Aktywacja Szyny Akceleratora Elektronów — id 838908
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3128,6 +3341,8 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Poz. | Grzech  | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | Kłucie |         15 |        +18 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 7-31 · O WALKACH GRZESZNIKÓW W DRODZE NA CZOŁO PARADY
 
@@ -3144,8 +3359,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut — id 9017301
@@ -3160,7 +3379,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017304
+##### Umiejętność: Unik — id 9017304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3193,8 +3412,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash — id 9017401
@@ -3209,7 +3432,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017404
+##### Umiejętność: Unik — id 9017404
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3242,29 +3465,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–4                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3300,29 +3527,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–5                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Let's All Match Our Steps, Dance! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Lose Yourself in the Singing! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017605
+##### Umiejętność: Unik — id 9017605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3362,8 +3593,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut — id 9017301
@@ -3378,7 +3613,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017304
+##### Umiejętność: Unik — id 9017304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3411,8 +3646,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash — id 9017401
@@ -3427,7 +3666,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017404
+##### Umiejętność: Unik — id 9017404
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3460,29 +3699,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–4                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3518,29 +3761,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–5                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Let's All Match Our Steps, Dance! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Lose Yourself in the Singing! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017605
+##### Umiejętność: Unik — id 9017605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3580,8 +3827,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut — id 9017301
@@ -3596,7 +3847,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017304
+##### Umiejętność: Unik — id 9017304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3629,8 +3880,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash — id 9017401
@@ -3645,7 +3900,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017404
+##### Umiejętność: Unik — id 9017404
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3678,29 +3933,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–4                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3736,29 +3995,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–5                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Let's All Match Our Steps, Dance! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Lose Yourself in the Singing! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017605
+##### Umiejętność: Unik — id 9017605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3798,8 +4061,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut — id 9017301
@@ -3814,7 +4081,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017304
+##### Umiejętność: Unik — id 9017304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3847,8 +4114,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–3                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                          |
+| Typ paniki         | Żądza Krwi                                                                                                                                                              |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash — id 9017401
@@ -3863,7 +4134,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017404
+##### Umiejętność: Unik — id 9017404
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3896,29 +4167,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–4                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3954,29 +4229,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–5                                                                                                                                                                    |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                               |
 | Progi oszołomienia | 65% / 30% / 0%                                                                                                                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                         |
+| Typ paniki         | Żądza Krwi                                                                                                                                                             |
 | Odporności         | Kłucie ×0,8; Gniew ×1,25; Żądza ×1,5 (Weak); Lenistwo ×0,5 (Ineff.); Obżar. ×1,5 (Weak); Posępność ×1,25; Pycha ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Let's All Match Our Steps, Dance! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Lose Yourself in the Singing! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017605
+##### Umiejętność: Unik — id 9017605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4009,13 +4288,17 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×1 (poz. 85).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 427 (+27,27 za poziom) |
-| Sloty akcji | start: 4 · maks. 4     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 427 (+27,27 za poziom)                         |
+| Sloty akcji  | start: 4 · maks. 4                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Jarzmienie Nicości                             |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 3 [Spadek Poziomu Obrony]. Koniec Tury: trać 5 SP.
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku] i 6 [Spadek Poziomu Obrony]. Koniec Tury: odzyskaj 10 SP.
 *Opis:* Boss
 
 **Części (anatomia):**
@@ -4032,43 +4315,43 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Walk With Grace... — id 838101
+##### Umiejętność: Krok Pełen Gracji... — id 838101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Move With Beauty... — id 838102
+##### Umiejętność: Ruch z Pięknem... — id 838102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: Beckon the Audience Hither... — id 838103
+##### Umiejętność: Przywołaj Widownię Bliżej... — id 838103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Parade of Wonders — id 838104
+##### Umiejętność: Parada Cudów — id 838104
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          4 |         +4 |      2 |    6 |
 
-##### Umiejętność: The Parade Repeats for Eternity — id 838105
+##### Umiejętność: Parada Powtarza się Wiecznie — id 838105
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +3 |      3 |    6 |
 
-##### Umiejętność: And that's all it does... — id 838106
+##### Umiejętność: I to wszystko, co robi... — id 838106
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: The Finale — id 838107
+##### Umiejętność: Finale — id 838107
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4103,12 +4386,16 @@ w turze po Oszołamieniu przywołuje 2 Kindred Bloodfiends
 
 *Wystąpienia: ×2 (poz. 63) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 69 (+2,531 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 69 (+2,531 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4125,25 +4412,25 @@ w turze po Oszołamieniu przywołuje 2 Kindred Bloodfiends
 
 *Opis:* Część
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Let's All Match Our Steps, Dance! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Lose Yourself in the Singing! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017605
+##### Umiejętność: Unik — id 9017605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4169,12 +4456,16 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×2 (poz. 50) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 50 (+2,752 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 50 (+2,752 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4197,19 +4488,19 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Aimless Wrath — id 9015802
+##### Umiejętność: Bezcelowa Wściekłość — id 9015802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unbridled Smite — id 9015803
+##### Umiejętność: Niepohamowane Zbicie — id 9015803
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Guard — id 9015804
+##### Umiejętność: Garda — id 9015804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4224,12 +4515,16 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 *Wystąpienia: ×2 (poz. 50) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 72 (+2,48 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 72 (+2,48 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4258,7 +4553,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017304
+##### Umiejętność: Unik — id 9017304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4282,12 +4577,16 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | 1                      |
-| HP         | 45 (+2,7125 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 45 (+2,7125 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4310,19 +4609,19 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Aimless Wrath — id 9015902
+##### Umiejętność: Bezcelowa Wściekłość — id 9015902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unbridled Smite — id 9015903
+##### Umiejętność: Niepohamowane Zbicie — id 9015903
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Guard — id 9015904
+##### Umiejętność: Garda — id 9015904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4337,12 +4636,16 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 69 (+2,499 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 69 (+2,499 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4371,7 +4674,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017404
+##### Umiejętność: Unik — id 9017404
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4395,12 +4698,16 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Wystąpienia: ×1 (poz. 63) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 72 (+2,598 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 72 (+2,598 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -4417,25 +4724,25 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4529,6 +4836,8 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Błędny Lis — id 8753
 
@@ -4771,6 +5080,8 @@ na początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          1 |         +0 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Długonoga Wróżka — id 8757
 
@@ -5166,6 +5477,8 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          7 |         +5 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Disgraced Bloodbag — id 90158
 
 *Wystąpienia: ×0 (poz. —).*
@@ -5177,8 +5490,12 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 | Szybkość           | 1–2                                                                                                                                 |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                            |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                      |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                      |
+| Typ paniki         | Wzburzenie                                                                                                                          |
 | Odporności         | Kłucie ×1,5; Obuch ×0,75; Gniew ×1,25; Żądza ×1,2; Lenistwo ×0,75 (Endured); Posępność ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Slam — id 9015801
@@ -5187,19 +5504,19 @@ później, do końca walki, traci Umiejętności wykorzystujące ramiona.
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Aimless Wrath — id 9015802
+##### Umiejętność: Bezcelowa Wściekłość — id 9015802
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unbridled Smite — id 9015803
+##### Umiejętność: Niepohamowane Zbicie — id 9015803
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Guard — id 9015804
+##### Umiejętność: Garda — id 9015804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5224,8 +5541,12 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 | Szybkość           | 1–2                                                                                                                                 |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                            |
 | Progi oszołomienia | 70% / 35% / 0%                                                                                                                      |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                      |
+| Typ paniki         | Wzburzenie                                                                                                                          |
 | Odporności         | Kłucie ×1,5; Obuch ×0,75; Gniew ×1,25; Żądza ×1,2; Lenistwo ×0,75 (Endured); Posępność ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Slam — id 9015901
@@ -5234,19 +5555,19 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Aimless Wrath — id 9015902
+##### Umiejętność: Bezcelowa Wściekłość — id 9015902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +3 |      3 |    1 |
 
-##### Umiejętność: Unbridled Smite — id 9015903
+##### Umiejętność: Niepohamowane Zbicie — id 9015903
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +2 |      4 |    1 |
 
-##### Umiejętność: Guard — id 9015904
+##### Umiejętność: Garda — id 9015904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5271,8 +5592,12 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 | Szybkość           | 1–4                                                                        |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                   |
 | Progi oszołomienia | 70% / 30% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Żądza Krwi                                                                 |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -5293,7 +5618,7 @@ Na koniec tury: jeżeli jednostka nie zadała żadnych obrażeń w tej turze, zy
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5321,8 +5646,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–4                                                                        |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                   |
 | Progi oszołomienia | 70% / 30% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Żądza Krwi                                                                 |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Wedge — id 9015301
@@ -5343,7 +5672,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015304
+##### Umiejętność: Kontra — id 9015304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5371,35 +5700,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–5                                                                       |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                  |
 | Progi oszołomienia | 60% / 20% / -10%                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                            |
+| Typ paniki         | Żądza Krwi                                                                |
 | Odporności         | Cięcie ×2; Kłucie ×0,5; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5429,35 +5762,39 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 4–6                                                                       |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                  |
 | Progi oszołomienia | 60% / 20% / -10%                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                            |
+| Typ paniki         | Żądza Krwi                                                                |
 | Odporności         | Cięcie ×2; Kłucie ×0,5; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: More, More! — id 9015501
+##### Umiejętność: Więcej, Przybywajcie! — id 9015501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +5 |      2 |    1 |
 
-##### Umiejętność: I'll Have Some More — id 9015502
+##### Umiejętność: Zjem Jeszcze Trochę — id 9015502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: What Heavenly Taste! — id 9015503
+##### Umiejętność: Raj w Ustach! — id 9015503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: You Rat Bastard! — id 9015504
+##### Umiejętność: Z Ciebie Szczurzy Zwynd! — id 9015504
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +4 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015505
+##### Umiejętność: Kontra — id 9015505
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5487,8 +5824,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                        |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                   |
 | Progi oszołomienia | 70% / 35% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Żądza Krwi                                                                 |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Downward Cut — id 9017301
@@ -5503,7 +5844,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017304
+##### Umiejętność: Unik — id 9017304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5536,8 +5877,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–3                                                                        |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                   |
 | Progi oszołomienia | 70% / 35% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Żądza Krwi                                                                 |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Lash — id 9017401
@@ -5552,7 +5897,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017404
+##### Umiejętność: Unik — id 9017404
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5585,29 +5930,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–4                                                                       |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                  |
 | Progi oszołomienia | 65% / 30% / 0%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                            |
+| Typ paniki         | Żądza Krwi                                                                |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5643,29 +5992,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–5                                                                       |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                  |
 | Progi oszołomienia | 65% / 30% / 0%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                            |
+| Typ paniki         | Żądza Krwi                                                                |
 | Odporności         | Cięcie ×0,5; Kłucie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017601
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Let's All Match Our Steps, Dance! — id 9017602
+##### Umiejętność: Wszyscy do Tańca w Rytm! — id 9017602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Lose Yourself in the Singing! — id 9017603
+##### Umiejętność: Zanurkuj w Śpiewie! — id 9017603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017605
+##### Umiejętność: Unik — id 9017605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5701,8 +6054,12 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 1–3                                                                        |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                   |
 | Progi oszołomienia | 70% / 30% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Żądza Krwi                                                                 |
 | Odporności         | Cięcie ×0,75; Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9016901
@@ -5717,7 +6074,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9016904
+##### Umiejętność: Kontra — id 9016904
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5744,8 +6101,12 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 1–3                                                                        |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                   |
 | Progi oszołomienia | 70% / 30% / 0%                                                             |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                             |
+| Typ paniki         | Żądza Krwi                                                                 |
 | Odporności         | Cięcie ×0,75; Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Thrash — id 9017001
@@ -5760,7 +6121,7 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9017004
+##### Umiejętność: Kontra — id 9017004
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5787,29 +6148,33 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–6                                                                       |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                                  |
 | Progi oszołomienia | 70% / 30% / 0%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                            |
+| Typ paniki         | Żądza Krwi                                                                |
 | Odporności         | Cięcie ×0,5; Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017103
+##### Umiejętność: Zblakła Cierpliwość — id 9017103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017105
+##### Umiejętność: Kontra — id 9017105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5838,29 +6203,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–6                                                          |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                                     |
 | Progi oszołomienia | 70% / 30% / 0%                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45               |
+| Typ paniki         | Żądza Krwi                                                   |
 | Odporności         | Kłucie ×0,5; Obuch ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017203
+##### Umiejętność: Zblakła Cierpliwość — id 9017203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017205
+##### Umiejętność: Kontra — id 9017205
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5886,13 +6255,17 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 83 (+5,72 za poziom)  |
-| Sloty akcji | start: 4 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 83 (+5,72 za poziom)                           |
+| Sloty akcji  | start: 4 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie Krwi                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+**Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -5945,6 +6318,8 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          3 |        +13 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Rose Hunter — id 8376
 
 *Wystąpienia: ×0 (poz. —).*
@@ -5972,43 +6347,43 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Spiked Whip — id 837601
+##### Umiejętność: Kolczasty Bicz — id 837601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Whip Crack — id 837602
+##### Umiejętność: Machnięcie Biczem — id 837602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Strangling Crown of Thorns — id 837603
+##### Umiejętność: Dusząca Korona Cierni — id 837603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Withdraw Whip — id 837604
+##### Umiejętność: Cofnięcie Bicza — id 837604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +3 |      4 |    3 |
 
-##### Umiejętność: Barbed Lasso — id 837605
+##### Umiejętność: Kolczaste Lasso — id 837605
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +4 |      4 |    5 |
 
-##### Umiejętność: Whip Wreath — id 837606
+##### Umiejętność: Owinięcie Biczem — id 837606
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |         10 |        +10 |      1 |    1 |
 
-##### Umiejętność: Snaring Lasso — id 837607
+##### Umiejętność: Lasso Chwytające — id 837607
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6049,7 +6424,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 *Opis:* Część
 
-##### Umiejętność: Thorns — id 837701
+##### Umiejętność: Cierń — id 837701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6063,13 +6438,17 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 383 (+26,43 za poziom) |
-| Sloty akcji | start: 1 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 383 (+26,43 za poziom)                         |
+| Sloty akcji  | start: 1 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Przebudzona Euforia Rzezi                      |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Co Początek Tury: zyskaj 2 [Wzrost Poziomu Ataku]; skuteczność SP +2
+**Efekt Paniki:** Początek Tury: zyskaj 6 [Wzrost Poziomu Obrony] oraz 3 [Wzrost Poziomu Ataku] w następnej turze
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6086,7 +6465,7 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 
 *Opis:* Część
 
-##### Umiejętność: Topple — id 838001
+##### Umiejętność: Powalenie — id 838001
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -6098,13 +6477,13 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          2 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sanguine Joy — id 838003
+##### Umiejętność: Krwawa Radość — id 838003
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          5 |         +9 |      1 |    1 |
 
-##### Umiejętność: Ecstasy of Blood — id 838004
+##### Umiejętność: Ekstaza Krwi — id 838004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6128,19 +6507,19 @@ z każdą upływającą turą zyskuje po 2 [Wzrost Poziomu Ataku] i [Spadek Pozi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      4 |    6 |
 
-##### Umiejętność: Variant Don Quixote Style: Sancho Arts 4 - Track — id 838008
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 4 - Tropienie — id 838008
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Variant Don Quixote Style: Sancho Arts 3 - Ambush — id 838009
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 3 - Zasadzka — id 838009
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          2 |         +4 |      3 |    1 |
 
-##### Umiejętność: Variant Don Quixote Style: Sancho Arts 2 - La Sangre — id 838010
+##### Umiejętność: Wariant Don Quixote: Sancho Arts 2 - La Sangre — id 838010
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -6185,13 +6564,13 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 *Opis:* Boss
 
-##### Umiejętność: The Infinite Parade — id 839001
+##### Umiejętność: Nieskończony Festiwal — id 839001
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         10 |         +5 |      1 |    7 |
 
-##### Umiejętność: The Eternal Festival — id 839002
+##### Umiejętność: Wieczny Festiwal — id 839002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6209,13 +6588,17 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 63 (+4,34 za poziom)  |
-| Sloty akcji | start: 2 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 63 (+4,34 za poziom)                           |
+| Sloty akcji  | start: 2 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie Krwi                                |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+**Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6256,16 +6639,22 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          8 |        +10 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Well-dressed Bloodbag — id 8397
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 65 (+2,24 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 65 (+2,24 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6300,7 +6689,7 @@ Początek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększ
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: The Fanfare! — id 840303
+##### Umiejętność: Fanfary! — id 840303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6322,12 +6711,16 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 68 (+2,34 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 68 (+2,34 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6344,31 +6737,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: It's a Festival, a Festival! (×2) — id 9015401
+##### Umiejętność: Festiwal, Festiwal! (×2) — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: The Fanfare! — id 840303
+##### Umiejętność: Fanfary! — id 840303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6390,12 +6783,16 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 93 (+3,21 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 93 (+3,21 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6430,7 +6827,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: The Fanfare! — id 840303
+##### Umiejętność: Fanfary! — id 840303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6451,12 +6848,16 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 74 (+2,55 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 74 (+2,55 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6473,31 +6874,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Please answer the survey. (×2) — id 9017201
+##### Umiejętność: Proszę odpowiedzieć na ankietę. (×2) — id 9017201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017202
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017202
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017203
+##### Umiejętność: Zblakła Cierpliwość — id 9017203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017205
+##### Umiejętność: Kontra — id 9017205
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          6 |         +6 |      1 |    1 |
 
-##### Umiejętność: The Fanfare! — id 840303
+##### Umiejętność: Fanfary! — id 840303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6517,12 +6918,16 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | 1                     |
-| HP         | 69 (+2,499 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 69 (+2,499 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6551,13 +6956,13 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9017404
+##### Umiejętność: Unik — id 9017404
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          2 |         +7 |      1 |    1 |
 
-##### Umiejętność: The Fanfare! — id 840303
+##### Umiejętność: Fanfary! — id 840303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6584,12 +6989,16 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | 1                      |
-| HP         | 75 (+2,9758 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 1                                              |
+| HP           | 75 (+2,9758 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* jednostka
 
 **Części (anatomia):**
@@ -6606,31 +7015,31 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 
 *Opis:* Część
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: unik |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: The Fanfare! — id 840303
+##### Umiejętność: Fanfary! — id 840303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6681,13 +7090,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: LETMEOUT!!!LETMEOUT!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: IT'S ABOUT TO BLOW!!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6723,13 +7132,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: LETMEOUT!!!LETMEOUT!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: IT'S ABOUT TO BLOW!!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6765,13 +7174,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: LETMEOUT!!!LETMEOUT!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: IT'S ABOUT TO BLOW!!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6807,13 +7216,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: LETMEOUT!!!LETMEOUT!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: IT'S ABOUT TO BLOW!!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6849,13 +7258,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: LETMEOUT!!!LETMEOUT!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: IT'S ABOUT TO BLOW!!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6891,13 +7300,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: LETMEOUT!!!LETMEOUT!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: IT'S ABOUT TO BLOW!!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6933,13 +7342,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* jednostka
 
-##### Umiejętność: LETMEOUT!!!LETMEOUT!!! — id 840301
+##### Umiejętność: WYPUŚĆCIE!!!WYPUŚĆCIE!!! — id 840301
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | obrona: blok |          3 |         +3 |      1 |    1 |
 
-##### Umiejętność: IT'S ABOUT TO BLOW!!!!! — id 840302
+##### Umiejętność: WYBUCHA!! WYBUCHA!!!! — id 840302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -6953,13 +7362,21 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 626 (+37,78 za poziom) |
-| Sloty akcji | start: 6 · maks. 6     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 626 (+37,78 za poziom)                         |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Brzemię Odpowiedzialności                      |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - Zyskaj 2 [Wzrost Mocy Ataku] i 1 [Wrażliwość]; Maks. Szybkość +2
+- Skuteczność leczenia PŻ +30%
+- Koniec Tury: jeśli wartość [Powracający Popęd Krwi] jest niższa niż na Początku Tury, zyskaj 2 [Wzrost Poziomu Ataku] i 2 [Spadek Poziomu Obrony] w następnej turze
+**Efekt Paniki:** - Zyskaj 2 [Wzrost Mocy Ataku]; Maks. Szybkość +2
+- Skuteczność leczenia PŻ +50%
+- Koniec Tury: jeśli wartość [Powracający Popęd Krwi] jest niższa niż na Początku Tury, zyskaj 3 [Wzrost Poziomu Ataku] i 5 [Spadek Poziomu Obrony] w następnej turze
 *Opis:* Boss
 
 **Części (anatomia):**
@@ -6976,13 +7393,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 
 *Opis:* Część
 
-##### Umiejętność: Burning Thirst — id 841001
+##### Umiejętność: Palące Pragnienie — id 841001
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Be Impaled — id 841002
+##### Umiejętność: Bądź Nadziany — id 841002
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7000,13 +7417,13 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +4 |      3 |    2 |
 
-##### Umiejętność: Desire for Blood — id 841005
+##### Umiejętność: Żądza Krwi — id 841005
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      4 |    7 |
 
-##### Umiejętność: Moment of Bloodfeast — id 841006
+##### Umiejętność: Czas Uczty Krwi — id 841006
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -7024,7 +7441,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: blok |          3 |        +10 |      1 |    1 |
 
-##### Umiejętność: Frail, So Frail — id 841009
+##### Umiejętność: Słaby, Ach Słaby — id 841009
 
 | Poz. | Grzech    | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | -------------- | ---------: | ---------: | -----: | ---: |
@@ -7036,7 +7453,7 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +2 |      4 |    7 |
 
-##### Umiejętność: Be Impaled — id 841011
+##### Umiejętność: Bądź Nadziany — id 841011
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -7174,7 +7591,7 @@ następnie sojusznik przebit przez tę jednostkę otrzymuje stałe obrażenia r�
 
 *Opis:* jednostka
 
-##### Umiejętność: Shining Memories of the Adventure — id 841301
+##### Umiejętność: Błyszczące Wspomnienia Przygody — id 841301
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -7197,8 +7614,12 @@ nakłada specjalny efekt na Grzesznika Don Quixote
 | Szybkość           | 1–4                                                                                                                                                                      |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                 |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                           |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                           |
+| Typ paniki         | Wzburzenie Krwi                                                                                                                                                          |
 | Odporności         | Cięcie ×0,75; Obuch ×1,5; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Zawiść ×0,75 (Endured); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+**Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
 ##### Umiejętność: Hardblood Stab — id 9015201
@@ -7219,7 +7640,7 @@ nakłada specjalny efekt na Grzesznika Don Quixote
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          8 |         +7 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015204
+##### Umiejętność: Kontra — id 9015204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -7257,35 +7678,39 @@ jeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy 
 | Szybkość           | 2–5                                                                                                                                                                   |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                              |
 | Progi oszołomienia | 60% / 20% / -10%                                                                                                                                                      |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                        |
+| Typ paniki         | Wzburzenie Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,5; Obuch ×1,5; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+**Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
-##### Umiejętność: It's a Festival, a Festival! — id 9015401
+##### Umiejętność: Festiwal, Festiwal! — id 9015401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Let's Dress Up — id 9015402
+##### Umiejętność: Przebiorę Cię — id 9015402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          7 |         +5 |      1 |    1 |
 
-##### Umiejętność: We've an Event for You! — id 9015403
+##### Umiejętność: Mamy dla Was Event! — id 9015403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          6 |         +5 |      2 |    1 |
 
-##### Umiejętność: Don't Rush Me — id 9015404
+##### Umiejętność: Nie Pędź Mnie — id 9015404
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |         10 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9015405
+##### Umiejętność: Kontra — id 9015405
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -7326,29 +7751,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–6                                                                                                                                                                   |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                              |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                        |
+| Typ paniki         | Wzburzenie Krwi                                                                                                                                                       |
 | Odporności         | Cięcie ×0,5; Obuch ×1,5; Żądza ×2 (Fatal); Lenistwo ×0,75 (Endured); Obżar. ×1,5 (Weak); Posępność ×1,25; Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+**Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
-##### Umiejętność: Please answer the survey. — id 9017101
+##### Umiejętność: Proszę odpowiedzieć na ankietę. — id 9017101
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +3 |      2 |    1 |
 
-##### Umiejętność: Don't! Don't Cut Me Off! — id 9017102
+##### Umiejętność: Nie! Nie Przerywaj Mi! — id 9017102
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          6 |         +7 |      1 |    1 |
 
-##### Umiejętność: Faded Patience — id 9017103
+##### Umiejętność: Zblakła Cierpliwość — id 9017103
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9017105
+##### Umiejętność: Kontra — id 9017105
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -7388,29 +7817,33 @@ gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole 
 | Szybkość           | 2–6                                                                                                                                                                                     |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                                                                                                                |
 | Progi oszołomienia | 70% / 30% / 0%                                                                                                                                                                          |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                                                                          |
+| Typ paniki         | Wzburzenie Krwi                                                                                                                                                                         |
 | Odporności         | Cięcie ×0,5; Obuch ×1,5; Żądza ×1,5 (Weak); Lenistwo ×0,75 (Endured); Obżar. ×1,25; Posępność ×1,25; Pycha ×0,75 (Endured); Zawiść ×0,5 (Ineff.); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Przeciw celom bez [Krwawienie]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
+**Efekt Paniki:** Przeciw celom z [Krwawienie]: Moc Starcia +2; przeciw celom bez [Krwawienie]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Krwawienie] na celu
 *Opis:* jednostka
 
-##### Umiejętność: Welcome to the Festival of Wonders! — id 9017501
+##### Umiejętność: Witajcie na Festiwalu Czarów! — id 9017501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Join the Joyful Parade! — id 9017502
+##### Umiejętność: Dołącz do Radosnej Parady! — id 9017502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Blossom your Smiles of Joy! — id 9017503
+##### Umiejętność: Zakwitnij Uśmiechami Radości! — id 9017503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Evade — id 9017505
+##### Umiejętność: Unik — id 9017505
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |

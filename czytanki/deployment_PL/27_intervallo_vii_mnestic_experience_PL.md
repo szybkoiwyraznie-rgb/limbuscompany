@@ -12,13 +12,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -35,31 +39,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Constricting Ohra Bonds (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hamstringing (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Avulsion Slash — id 144803
+##### Umiejętność: Rozdzierające Cięcie — id 144803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144804
+##### Umiejętność: Wypalanie Znaku — id 144804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Escape Cutoff — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -73,13 +77,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -96,31 +104,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Trammel (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2) — id 144901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Choke Hold (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2) — id 144902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hunter's Scouring — id 144903
+##### Umiejętność: Zmiatanie Łowcy — id 144903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144904
+##### Umiejętność: Wypalanie Znaku — id 144904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Route Cutoff — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -138,13 +146,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -161,31 +173,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Constricting Ohra Bonds (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hamstringing (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Avulsion Slash — id 144803
+##### Umiejętność: Rozdzierające Cięcie — id 144803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144804
+##### Umiejętność: Wypalanie Znaku — id 144804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Escape Cutoff — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -199,13 +211,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -222,31 +238,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Trammel (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2) — id 144901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Choke Hold (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2) — id 144902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hunter's Scouring — id 144903
+##### Umiejętność: Zmiatanie Łowcy — id 144903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144904
+##### Umiejętność: Wypalanie Znaku — id 144904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Route Cutoff — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -264,13 +280,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -287,31 +307,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Constricting Ohra Bonds (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hamstringing (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Avulsion Slash — id 144803
+##### Umiejętność: Rozdzierające Cięcie — id 144803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144804
+##### Umiejętność: Wypalanie Znaku — id 144804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Escape Cutoff — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -325,13 +345,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -348,31 +372,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Trammel (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2) — id 144901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Choke Hold (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2) — id 144902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hunter's Scouring — id 144903
+##### Umiejętność: Zmiatanie Łowcy — id 144903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144904
+##### Umiejętność: Wypalanie Znaku — id 144904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Route Cutoff — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -390,13 +414,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -413,31 +441,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Constricting Ohra Bonds (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hamstringing (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Avulsion Slash — id 144803
+##### Umiejętność: Rozdzierające Cięcie — id 144803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144804
+##### Umiejętność: Wypalanie Znaku — id 144804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Escape Cutoff — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -451,13 +479,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -474,31 +506,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Trammel (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2) — id 144901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Choke Hold (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2) — id 144902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hunter's Scouring — id 144903
+##### Umiejętność: Zmiatanie Łowcy — id 144903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144904
+##### Umiejętność: Wypalanie Znaku — id 144904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Route Cutoff — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -516,13 +548,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Obsesja Wywiadowcza                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +10%
+- Początek Tury: zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
+- Początek Tury: zyskaj 2 [Wrażliwość]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -539,25 +577,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Briefcase Corner Point (×2) — id 145201
+##### Umiejętność: Uderzenie Narożnikiem Walizki (×2) — id 145201
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weighted Bash (×2) — id 145202
+##### Umiejętność: Uderzenie z Ciężarem (×2) — id 145202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Enframe Subject — id 145203
+##### Umiejętność: Ujęcie Motywu — id 145203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Snapshot — id 145204
+##### Umiejętność: Migawka — id 145204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -571,13 +609,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×5 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Obsesja Wywiadowcza                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +10%
+- Początek Tury: zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
+- Początek Tury: zyskaj 2 [Wrażliwość]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -594,25 +638,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Steel Plate Slam (×2) — id 145301
+##### Umiejętność: Uderzenie Blachą (×2) — id 145301
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nailhead Strike (×2) — id 145302
+##### Umiejętność: Uderzenie w Łeb Gwoździa (×2) — id 145302
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Focus Recompose — id 145303
+##### Umiejętność: Korekta Ostrości — id 145303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Snapshot — id 145304
+##### Umiejętność: Migawka — id 145304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -630,13 +674,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×6 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Obsesja Wywiadowcza                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +10%
+- Początek Tury: zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
+- Początek Tury: zyskaj 2 [Wrażliwość]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -653,25 +703,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Briefcase Corner Point (×2) — id 145201
+##### Umiejętność: Uderzenie Narożnikiem Walizki (×2) — id 145201
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weighted Bash (×2) — id 145202
+##### Umiejętność: Uderzenie z Ciężarem (×2) — id 145202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Enframe Subject — id 145203
+##### Umiejętność: Ujęcie Motywu — id 145203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Snapshot — id 145204
+##### Umiejętność: Migawka — id 145204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -685,13 +735,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×6 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Obsesja Wywiadowcza                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +10%
+- Początek Tury: zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
+- Początek Tury: zyskaj 2 [Wrażliwość]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -708,25 +764,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Steel Plate Slam (×2) — id 145301
+##### Umiejętność: Uderzenie Blachą (×2) — id 145301
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nailhead Strike (×2) — id 145302
+##### Umiejętność: Uderzenie w Łeb Gwoździa (×2) — id 145302
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Focus Recompose — id 145303
+##### Umiejętność: Korekta Ostrości — id 145303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Snapshot — id 145304
+##### Umiejętność: Migawka — id 145304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -744,13 +800,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 66).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 720 (+82 za poziom)   |
-| Sloty akcji | start: 6 · maks. 6    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 720 (+82 za poziom)                            |
+| Sloty akcji  | start: 6 · maks. 6                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wywołane Wspomnienia                           |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Zyskaj 1 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +15%
+**Efekt Paniki:** Zyskaj 2 [Wrażliwość], zadawane obrażenia +10%, obrażenia krytyczne +30% oraz **podwój efekty nakładane przez Monety umiejętności „Łuk Ojczyzny [Sal] - Spuszczenie Strzały”**
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -767,67 +827,67 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Oxsplitter — id 145001
+##### Umiejętność: Przecięcie Wołu — id 145001
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          7 |         +3 |      1 |    1 |
 
-##### Umiejętność: Bearsplitter — id 145002
+##### Umiejętność: Przecięcie Niedźwiedzia — id 145002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          7 |         +4 |      1 |    1 |
 
-##### Umiejętność: Bearspine Breaker — id 145003
+##### Umiejętność: Łamanie Kręgosłupa Niedźwiedzia — id 145003
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |         11 |         +4 |      1 |    1 |
 
-##### Umiejętność: Swordform of the Homeland - Sal's Sundering — id 145005
+##### Umiejętność: Forma Miecza Ojczyzny - Rozłam Sal — id 145005
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Tiger Hunt — id 145006
+##### Umiejętność: Polowanie na Tygrysa — id 145006
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Tigersplitter — id 145007
+##### Umiejętność: Przecięcie Tygrysa — id 145007
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +3 |      4 |    1 |
 
-##### Umiejętność: Sword of the Homeland [Sal] - Reassume Stance — id 145009
+##### Umiejętność: Miecz Ojczyzny [Sal] - Powrót do Postawy — id 145009
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +2 |      1 |    1 |
 
-##### Umiejętność: Sword of the Homeland [Sal] - Swordhoning — id 145010
+##### Umiejętność: Miecz Ojczyzny [Sal] - Naostrzenie — id 145010
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +2 |      1 |    1 |
 
-##### Umiejętność: Bow of the Homeland [Sal] - Arrowloose — id 145011
+##### Umiejętność: Łuk Ojczyzny [Sal] - Wypuszczenie Strzały — id 145011
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |         10 |         +8 |      1 |    1 |
 
-##### Umiejętność: Guardform — id 145012
+##### Umiejętność: Garda — id 145012
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: blok |         10 |         +6 |      1 |    1 |
 
-##### Umiejętność: Counterform — id 145013
+##### Umiejętność: Kontra — id 145013
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -871,13 +931,17 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Wystąpienia: ×2 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -894,31 +958,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Constricting Ohra Bonds (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hamstringing (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Avulsion Slash — id 144803
+##### Umiejętność: Rozdzierające Cięcie — id 144803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144804
+##### Umiejętność: Wypalanie Znaku — id 144804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Escape Cutoff — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -933,13 +997,17 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Wystąpienia: ×2 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -956,31 +1024,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Trammel (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2) — id 144901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Choke Hold (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2) — id 144902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hunter's Scouring — id 144903
+##### Umiejętność: Zmiatanie Łowcy — id 144903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144904
+##### Umiejętność: Wypalanie Znaku — id 144904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Route Cutoff — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1026,13 +1094,19 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Obsesja Wywiadowcza                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +10%
+- Początek Tury: zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
+- Początek Tury: zyskaj 2 [Wrażliwość]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1049,25 +1123,25 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Briefcase Corner Point (×2) — id 145201
+##### Umiejętność: Uderzenie Narożnikiem Walizki (×2) — id 145201
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Weighted Bash (×2) — id 145202
+##### Umiejętność: Uderzenie z Ciężarem (×2) — id 145202
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Enframe Subject — id 145203
+##### Umiejętność: Ujęcie Motywu — id 145203
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Snapshot — id 145204
+##### Umiejętność: Migawka — id 145204
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1082,13 +1156,19 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Wystąpienia: ×1 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Obsesja Wywiadowcza                            |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +10%
+- Początek Tury: zyskaj 1 [Wrażliwość]
+**Efekt Paniki:** - W Starciu z celami mającymi [Zbieranie Informacji]: Moc Bazowa +1 i zadawane obrażenia +20%
+- Początek Tury: zyskaj 2 [Wrażliwość]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1105,25 +1185,25 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Steel Plate Slam (×2) — id 145301
+##### Umiejętność: Uderzenie Blachą (×2) — id 145301
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Nailhead Strike (×2) — id 145302
+##### Umiejętność: Uderzenie w Łeb Gwoździa (×2) — id 145302
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Focus Recompose — id 145303
+##### Umiejętność: Korekta Ostrości — id 145303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Snapshot — id 145304
+##### Umiejętność: Migawka — id 145304
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1142,13 +1222,17 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1165,31 +1249,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Constricting Ohra Bonds (×2) — id 144801
+##### Umiejętność: Naciąganie Wiązadeł Ohra (×2) — id 144801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hamstringing (×2) — id 144802
+##### Umiejętność: Cięcie Ścięgna (×2) — id 144802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Avulsion Slash — id 144803
+##### Umiejętność: Rozdzierające Cięcie — id 144803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144804
+##### Umiejętność: Wypalanie Znaku — id 144804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Escape Cutoff — id 144805
+##### Umiejętność: Odcięcie Dróg Ucieczki — id 144805
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1203,13 +1287,17 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Wystąpienia: ×3 (poz. 50).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 60                    |
-| HP          | 56 (+2,88 za poziom)  |
-| Sloty akcji | start: 1 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 60                                             |
+| HP           | 56 (+2,88 za poziom)                           |
+| Sloty akcji  | start: 1 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Pomieszane Wspomnienia                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1~3 [Wzrost Poziomu Ataku] i 1~3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1~5 [Wzrost Poziomu Ataku] i 1~5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1226,31 +1314,31 @@ jeżeli Siła [Krwawienie] celu trafionego Umiejętnością jednostki jest niżs
 
 *Opis:* Część
 
-##### Umiejętność: Trammel (×2) — id 144901
+##### Umiejętność: Powstrzymanie (×2) — id 144901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Choke Hold (×2) — id 144902
+##### Umiejętność: Ucisk na Gardle (×2) — id 144902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Hunter's Scouring — id 144903
+##### Umiejętność: Zmiatanie Łowcy — id 144903
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Branding — id 144904
+##### Umiejętność: Wypalanie Znaku — id 144904
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Route Cutoff — id 144905
+##### Umiejętność: Odcięcie Dróg Odwrótu — id 144905
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |

@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=113501].levelList[level=1].name": {
-      "pl": "Contempt",
+      "pl": "Pogarda",
       "kr_sha256": "d42f1744b43d6d54932b3d0dfe2d2f53fe4ace375d4d23e21ea65f0c0ea5f8e1",
       "en_sha256": "14139fd94d8983f7ee4adc1ca30f3e925492fb7fb7cceed75135b207a1da2ff0",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=113502].levelList[level=1].name": {
-      "pl": "Awe",
+      "pl": "Uwielbienie",
       "kr_sha256": "ae9f8d1a6144e4ab74ddfd2d6582e0f51a794fbc69ed2366ef2e1589e088a288",
       "en_sha256": "71d3e5f3bf8dfde07406f6ac89cd1fde905306ec8062e86f07124f672895ce36",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=113503].levelList[level=1].name": {
-      "pl": "Contempt, Awe 【Unleashed】",
+      "pl": "Pogarda, Uwielbienie 【Uwolnienie】",
       "kr_sha256": "a6fda81cfd4f74a685898a40d63d64ea5f9336fa45e05371158166b186a2cb56",
       "en_sha256": "16a8151dfae9fcc71a7f5b34f36375ba6e6c41c4b2136ca4732877b75838168f",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=113504].levelList[level=1].name": {
-      "pl": "Contemptuous Thing",
+      "pl": "Rzecz Pełna Pogardy",
       "kr_sha256": "65245cd7b70d0069c01f1341196a5c63fed5e15f5c68312fc6a58bc54fc39293",
       "en_sha256": "762afb8a86af79cd8bea376b38f8f5f23e51f7f4a8f69091464f61adca71c861",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=113505].levelList[level=1].name": {
-      "pl": "Be Awed",
+      "pl": "Oddaj Cześć",
       "kr_sha256": "748a74e90bb28a6cae044e80b13750b34cd4859094b67074c774d7e1aaca0ffb",
       "en_sha256": "6bbeb27ff47391f26649f77ff9d716743ad4131a05be973158913de6542d3d27",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=113506].levelList[level=1].name": {
-      "pl": "You Must Confront This",
+      "pl": "Musisz To Przyjąć",
       "kr_sha256": "7996953e28b26b6f9019fc896b2a0c1054749943b7f3f0781bae8609d5101bab",
       "en_sha256": "3a9f1b64078e0149ca93aaed705c51490acd4f698be3e49ca07c1d97ea1a47f6",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=113507].levelList[level=1].name": {
-      "pl": "Awe, Contempt【Unleashed】",
+      "pl": "Uwielbienie, Pogarda 【Uwolnienie】",
       "kr_sha256": "93a3a277aeb31091fa7ad0cc8338e527385ebc1d4a7195a996b1fb045381be46",
       "en_sha256": "7e2208fb260e864ad9370c12e0232c62c4a3eec5a39b0af169150a6aa65c06ce",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=113508].levelList[level=1].name": {
-      "pl": "Spiral Warp Field",
+      "pl": "Spiralne Pole Zawinięcia",
       "kr_sha256": "2523b3e1bab2a23147daa323c7b5d8cb0d1e982466264c2ee4c1bc5007894f0f",
       "en_sha256": "504d8f05b9c17a05437fd007c7768d41987cc8bbf1aa5ff983df4b249a85f290",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=113601].levelList[level=1].name": {
-      "pl": "Front Line Fire",
+      "pl": "Ostrzał z Przodu",
       "kr_sha256": "b6dfec9b55f4cea3d16afddc6275eefb101db9955fcb12cbf29c34b0d43f85e3",
       "en_sha256": "437d41b67e53a0d62de7aa830fa309e6d375f92f2a75defe6d33a09d0591539c",
       "origin": "ai"
@@ -265,7 +265,7 @@
       "origin": "ai"
     },
     "dataList[id=113602].levelList[level=1].name": {
-      "pl": "Rear Line Fire",
+      "pl": "Ostrzał z Tyłu",
       "kr_sha256": "6de821eeead41478e523273ad32d7e2c51058660d2f6949bd3627cc15e2c71a6",
       "en_sha256": "48304d29a9132afb6db1b6b7fd357a885c1d51125418368eb76256b8b0f4de12",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=113603].levelList[level=1].name": {
-      "pl": "Sigilshattered Bullet",
+      "pl": "Pocisk Rozszczepiony Sigilami",
       "kr_sha256": "10ced7662f23c9ad1666653d533ee169e3b0146a2aef3af817ad9d04d86c0b67",
       "en_sha256": "ba55b6f758e21a34c2690feafd30e94bd447f1db067150e3d1eb827a5cc56201",
       "origin": "ai"
@@ -361,7 +361,7 @@
       "origin": "ai"
     },
     "dataList[id=113604].levelList[level=1].name": {
-      "pl": "Bullet Drenched with the Blood of a Comrade",
+      "pl": "Pocisk Skąpany we Krwi Towarzysza",
       "kr_sha256": "fdaa6f475ace5207e09f0e598f437525c70515170c19f282bda0c4df93874da5",
       "en_sha256": "edb3dd815c7aeb49ac4e8c7f1de337fcb86df52dd68cbc4abcf0bb9b365da044",
       "origin": "ai"
@@ -469,7 +469,7 @@
       "origin": "ai"
     },
     "dataList[id=113605].levelList[level=1].name": {
-      "pl": "Reminiscence Shattering Bullet",
+      "pl": "Pocisk Rozbijający Wspomnienia",
       "kr_sha256": "03713b3d3cab665a14547fbd250f61bbfa5404396ba357b6c4c29e6befbfc084",
       "en_sha256": "9b3f0ab0830be4f6ed626026e77c39bf2478ffe1c0dced27394061b762b7e341",
       "origin": "ai"
@@ -517,7 +517,7 @@
       "origin": "ai"
     },
     "dataList[id=114501].levelList[level=1].name": {
-      "pl": "Double Slash",
+      "pl": "Podwójne Cięcie",
       "kr_sha256": "23bb91a7402a321d91f86791e16f76ee18e6c85a7afe7ff7c5beec56913ea35e",
       "en_sha256": "ce199070357cdffa27f61bffab84ae43d9d8dc87a9838a653623022ee11260d3",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=114502].levelList[level=1].name": {
-      "pl": "Triple Slash",
+      "pl": "Potrójne Cięcie",
       "kr_sha256": "56bfd02a17d775bd534eafc278a2574bf828c4c457d7130b244a793c1c737318",
       "en_sha256": "bd3a1b77a794ec128ef38ee456454095b99054efa8718693ee51ed61b2cdf530",
       "origin": "ai"
@@ -583,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=114503].levelList[level=1].name": {
-      "pl": "Double Slash - Blast [爆]",
+      "pl": "Podwójne Cięcie - Wybuch [爆]",
       "kr_sha256": "4febe75e4d8c35314bff29ccf5385efc8735fefa8633801aa1a8fd5f10690d34",
       "en_sha256": "3c100cf1935db05dfc3980addca98f747e2a01afc2f3bb538da395d4c93aecf1",
       "origin": "ai"
@@ -637,7 +637,7 @@
       "origin": "ai"
     },
     "dataList[id=114504].levelList[level=1].name": {
-      "pl": "Triple Slash - Blast [爆]",
+      "pl": "Potrójne Cięcie - Wybuch [爆]",
       "kr_sha256": "bcda15d4ca6be907f083ebd084d8584a2ddee459046e84b5873823869c1b4de7",
       "en_sha256": "c0b931a5cb2574e6deaf76a677f27a73087afcaaf6c8d50ddc453b98f639ec58",
       "origin": "ai"
@@ -739,7 +739,7 @@
       "origin": "ai"
     },
     "dataList[id=114505].levelList[level=1].name": {
-      "pl": "Blasting Shatterslash [爆碎斬]",
+      "pl": "Wybuchowe Cięcie Roztrzaskujące [爆碎斬]",
       "kr_sha256": "1251ce910eb228964fe6c71bd4054d6f453318565f6fdcfeac17a0029110639c",
       "en_sha256": "5f00573a709e15de561dc9aaf754ead3275e00eee4f0ffc83a909087aa13f05c",
       "origin": "ai"
@@ -901,7 +901,7 @@
       "origin": "ai"
     },
     "dataList[id=114507].levelList[level=1].name": {
-      "pl": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
+      "pl": "Najdziksze Wybuchowe Szaleństwo Rzeźnika Tygrysów [超絕猛虎殺擊亂斬]",
       "kr_sha256": "5320e364e320a5633dd1f78d3128e41fab87b859925829c2ceea08c8f362e59a",
       "en_sha256": "0058a092edee0577598924bad76537f1473659268f8ddb9fbc1858977e0a07e2",
       "origin": "ai"
@@ -937,7 +937,7 @@
       "origin": "ai"
     },
     "dataList[id=114508].levelList[level=1].name": {
-      "pl": "Reloading Tiantui Star's Blade",
+      "pl": "Przeładowanie Ostrza Gwiazdy Tianhui",
       "kr_sha256": "d32ca4eca2deb40919002f0705e74287c989df67e6da35f37d4d14bca551454a",
       "en_sha256": "e1cba4de1ee9ba50deed4d5cabb954ea260b8ad628839edb2ee74f6d7238c658",
       "origin": "ai"
@@ -1177,7 +1177,7 @@
       "origin": "ai"
     },
     "dataList[id=115201].levelList[level=1].name": {
-      "pl": "Precious Jade's Cradle [寶玉搖籃]",
+      "pl": "Kołyska z Klejnotów [寶玉搖籃]",
       "kr_sha256": "41a9362ef93763d407219358bd534f61cfb0345a037cd95c86b7230573c6ef63",
       "en_sha256": "147ff2c8b4e5f2b165a6a8cbeb2deb620ba97ba5a2c77bb56bb47095e02f11a8",
       "origin": "ai"
@@ -1201,7 +1201,7 @@
       "origin": "ai"
     },
     "dataList[id=115202].levelList[level=1].name": {
-      "pl": "Supernatural, Strength, Chaos, and Spirits - Yin Si You [寅巳酉]",
+      "pl": "Nadprzyrodzona Siła, Chaos i Duchy - Yin Si You [寅巳酉]",
       "kr_sha256": "4c782a74cb71cf60f6f8e8b619b3aa7c539684ea26d48e45e1ee306912f9f9ed",
       "en_sha256": "ff2fd003e6ad1ef481321b2b4d24cba602f4365b14370ad4c9704cdd3588f13e",
       "origin": "ai"
@@ -1231,7 +1231,7 @@
       "origin": "ai"
     },
     "dataList[id=115203].levelList[level=1].name": {
-      "pl": "You do not know the fathoms of the eye's powers, its special nature",
+      "pl": "Wciąż nie znacie otchłani mocy tego oka, jego wyjątkowości",
       "kr_sha256": "fe210953b5bdc99e3749b352562f9ddf266e661f222bcb4f4b44057148260b12",
       "en_sha256": "bad9ecff642ebb5f10437d240edb8a6e17fc7366bcfe54c3e700715f4b5bdd8f",
       "origin": "ai"
@@ -1255,7 +1255,7 @@
       "origin": "ai"
     },
     "dataList[id=115204].levelList[level=1].name": {
-      "pl": "Please Watch me, O Xianren...!",
+      "pl": "Proszę, Bądźcie mi świadkami, O Xianren...!",
       "kr_sha256": "1f1be99c06621308f07fe3adb3c5f2955dd60dbe52ac04356ed79a75da7a988e",
       "en_sha256": "fd76256c26831f292f3b6b93db85336b394c9a054591f817af7a0665ed2abc10",
       "origin": "ai"
@@ -1339,7 +1339,7 @@
       "origin": "ai"
     },
     "dataList[id=115206].levelList[level=1].name": {
-      "pl": "Nothing But a Meaningless Struggle...!",
+      "pl": "Nadaremny Wysiłek...!",
       "kr_sha256": "bf8a328b0bdd12ed22f3d46453ffea37fcb183b55538fb8312f0b2dc7669677f",
       "en_sha256": "df37a5ce7098d9ef656c8bfbf9f391305e01ec62d5587a986d785b7070495b63",
       "origin": "ai"
@@ -1381,7 +1381,7 @@
       "origin": "ai"
     },
     "dataList[id=115207].levelList[level=1].name": {
-      "pl": "Still, you can do nothing",
+      "pl": "I tak nie możesz nic zrobić",
       "kr_sha256": "6cdce76944a1f33b4bdf266209e4cea2d426e6ec3c2beed6884df2ab4123cc10",
       "en_sha256": "f2a9afccd9d632dc2f372491e770089f71f8533db4dcb664b671120423be72d2",
       "origin": "ai"
@@ -1441,7 +1441,7 @@
       "origin": "ai"
     },
     "dataList[id=115208].levelList[level=1].name": {
-      "pl": "A Hierarch without the Xianren's blessing is a Hierarch in name only; she will die an insect's death!!!",
+      "pl": "Hierarchini bez błogosławieństwa Xianren to tylko imię; umrze śmiercią robaka!!!",
       "kr_sha256": "f216dcf11b51a9aac4cf6f5de23ffff68380887d1f50ffa36e74bc8fd6e33029",
       "en_sha256": "4a864e42d8db808d6c05aa4bef9d4281b21be7e2218e2021922cb7fd0fc96dc3",
       "origin": "ai"
@@ -1465,7 +1465,7 @@
       "origin": "ai"
     },
     "dataList[id=115209].levelList[level=1].name": {
-      "pl": "Be honored to be in audience of such a great man",
+      "pl": "Bądź Wyróżniony moją Audiencją",
       "kr_sha256": "b7c62f1556236ca9480a41491189bcfd3ac67144e17f3a2ad3e7e0d118b54265",
       "en_sha256": "704739add8881409ceea9b75661761c8a611029dcfbb80f02b49e8288cb777b0",
       "origin": "ai"
@@ -1489,7 +1489,7 @@
       "origin": "ai"
     },
     "dataList[id=115210].levelList[level=1].name": {
-      "pl": "Be with this little girl, O Xianren",
+      "pl": "Bądź z tą dziewczynką, O Xianren",
       "kr_sha256": "30b99a5c2b40ced46933b383039c820baeba9674c154fa87f4449c97222352d1",
       "en_sha256": "27b66aa9b0152ab62b5a55002956a6d64dd9e4f4ac0cb4da215ec78db9f7aa06",
       "origin": "ai"
@@ -1543,7 +1543,7 @@
       "origin": "ai"
     },
     "dataList[id=115212].levelList[level=1].name": {
-      "pl": "Please give me, Shi Miyin, your strength!",
+      "pl": "Proszę, dodajcie mi sił, Shi Miyin!",
       "kr_sha256": "86281e86c7f287c7454844c8318d4f987d7646752fe2ceed0b0fda4a308d5bee",
       "en_sha256": "20870e81db35ecff12512564a70bd22b7c438825c939bdb25c24ec1a6d7efbaf",
       "origin": "ai"
@@ -1573,7 +1573,7 @@
       "origin": "ai"
     },
     "dataList[id=115213].levelList[level=1].name": {
-      "pl": "An Offering of Extreme Extracted Immortality [極仙榨滴供養]",
+      "pl": "Ofiara z Ekstremalnie Wyciśniętej Nieśmiertelności [極仙榨滴供養]",
       "kr_sha256": "08cfe08444ea063ad019620cd6dc527e27ff63823c9fce11c42255fef79d84c8",
       "en_sha256": "865fdee782c122ea017f2b654eb16f8ee43c3cdab74c1a90f2033724c6c675a1",
       "origin": "ai"
@@ -1591,7 +1591,7 @@
       "origin": "ai"
     },
     "dataList[id=115214].levelList[level=1].name": {
-      "pl": "Nothing But a Meaningless Struggle...!",
+      "pl": "Nadaremny Wysiłek...!",
       "kr_sha256": "bf8a328b0bdd12ed22f3d46453ffea37fcb183b55538fb8312f0b2dc7669677f",
       "en_sha256": "df37a5ce7098d9ef656c8bfbf9f391305e01ec62d5587a986d785b7070495b63",
       "origin": "ai"
@@ -1615,7 +1615,7 @@
       "origin": "ai"
     },
     "dataList[id=115301].levelList[level=1].name": {
-      "pl": "I greet you now",
+      "pl": "Składam Uczciwe Pozdrowienia",
       "kr_sha256": "162e712c9a21203971077dae679b65fee2a4b6fb9a7a8cfd6fafc33cd706232f",
       "en_sha256": "dc5b36148c586a660471717c8c71288850bfd1f0cc001d40aa197581f2abd2e0",
       "origin": "ai"
@@ -1633,7 +1633,7 @@
       "origin": "ai"
     },
     "dataList[id=115302].levelList[level=1].name": {
-      "pl": "I'll be docile",
+      "pl": "Będę grzeczna",
       "kr_sha256": "dd941737463dbbcea664607ccb1786c22e9acbb9c59cefc0771d1fd584199d1e",
       "en_sha256": "2d39bbfdc9aeba2e1a36b94963c2f6006c86bcc9aefcb020e6b892d514119d6a",
       "origin": "ai"
@@ -1663,7 +1663,7 @@
       "origin": "ai"
     },
     "dataList[id=115303].levelList[level=1].name": {
-      "pl": "I'll be your amusement",
+      "pl": "Dostarczę Wam Rozrywki",
       "kr_sha256": "fa88e804281fcb824aaf67c144211a3834b67efc3745f316085b04ae9da9ad62",
       "en_sha256": "8afcb32497bd87b09a2eb5815b988500c3e998e0005f9fda6d87d40dd1a4cd62",
       "origin": "ai"
@@ -1699,7 +1699,7 @@
       "origin": "ai"
     },
     "dataList[id=115401].levelList[level=1].name": {
-      "pl": "Give me your vitality",
+      "pl": "Daj mi swój wigor",
       "kr_sha256": "5bf694a2c2fd141116835d218165cef3aff7bb9df531ace301e901724b664473",
       "en_sha256": "5f49013969e0151b1bd2addee8ed12d44d913ee15d90771b473805979cc845b4",
       "origin": "ai"
@@ -1717,7 +1717,7 @@
       "origin": "ai"
     },
     "dataList[id=115402].levelList[level=1].name": {
-      "pl": "Please me",
+      "pl": "Spraw mi Przyjemność",
       "kr_sha256": "436fa9d65f5fbdc2d01e57c27a8d6b05dec58d0e7851fa49edeb0a357ce4f579",
       "en_sha256": "c3ade4619f7fc47797d668095196e9c034b4903067d29edb83a28ca595a950df",
       "origin": "ai"
@@ -1741,7 +1741,7 @@
       "origin": "ai"
     },
     "dataList[id=115403].levelList[level=1].name": {
-      "pl": "The Xianren's Wise Counsel",
+      "pl": "Mądra Rada Xianren",
       "kr_sha256": "579e07fcebef7909a8e35497ca978614df5f8fd342bbe6abf146fa05d6a73809",
       "en_sha256": "b8de8b5dd837f56deb33ae75f2fca0912ed62d7fdbb21317bfec83a2bbc3936d",
       "origin": "ai"
@@ -1759,13 +1759,13 @@
       "origin": "ai"
     },
     "dataList[id=115404].levelList[level=1].name": {
-      "pl": "The Xianren's True Counsel",
+      "pl": "Prawdziwa Rada Xianren",
       "kr_sha256": "6c250d58b07fe507c1e50e5d8238c134c30f0da4da0cdcbec12a7c5b96025ea6",
       "en_sha256": "b111c35e7d3a84036a854e0f14ab7612ce5efb1fe40ac4f2e87f3a46ce1f99ad",
       "origin": "ai"
     },
     "dataList[id=115405].levelList[level=1].name": {
-      "pl": "I need more vitality...",
+      "pl": "Potrzebuję więcej wigoru...",
       "kr_sha256": "54a6a7f0174510f68464d18a84c2c54775edfa911441a32755df8c994b0921c6",
       "en_sha256": "96f85145210931b8a8cc5876e130cc9ce2a4117c6948fd25173fa70655c02ab9",
       "origin": "ai"
@@ -1777,7 +1777,7 @@
       "origin": "ai"
     },
     "dataList[id=117101].levelList[level=1].name": {
-      "pl": "Savage Tigermark Support",
+      "pl": "Wsparcie Znaku Wściekłego Tygrysa",
       "kr_sha256": "ecee0bd70d5cf67b139d604b2c455c69991fe2c68ddb4885ea51ca793b3a9d16",
       "en_sha256": "932c682270fe97e59df00a69ea29de658e839d67fd80b40c12670b4469e2b04a",
       "origin": "ai"

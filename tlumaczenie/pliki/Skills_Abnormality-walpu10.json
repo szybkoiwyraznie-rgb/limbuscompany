@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=158001].levelList[level=1].name": {
-      "pl": "Handle Request",
+      "pl": "Obsługa Zlecenia",
       "kr_sha256": "1569b0ba76cc52290f184cdd9ef14da9d3e9e65fa3217b20365dc7e0b844b3f7",
       "en_sha256": "607e594d1fdba911db4b75926575453b16a21da016092fc1843f18b5983f45fb",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=158002].levelList[level=1].name": {
-      "pl": "Flash of Sunup",
+      "pl": "Błysk Świtu",
       "kr_sha256": "f6b0036e03ce14229f1bfb263a87df763f248ee72ac6dcd35665408777ebb6ed",
       "en_sha256": "e78794746e8ac712f3ae13960feaeb29f85f2c3373dd2bcf09caf124a800294e",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=158003].levelList[level=1].name": {
-      "pl": "Sunset Blade",
+      "pl": "Miecz Zachodzącego Słońca",
       "kr_sha256": "7e65285d59aef270a5334ca41b3a08f8af9d5cc9b50b96f1d0d1b3a358be62b6",
       "en_sha256": "ecca231404bf9e98ee48be04d37547e1487583c8bea41533f350b1f29ce06d4d",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=158004].levelList[level=1].name": {
-      "pl": "Dawnsplitter",
+      "pl": "Rozszczepiacz Świtu",
       "kr_sha256": "1f9fbaf3a96207c84e90b50ca57faed795972317b9bfc1f23b7f2c6ec2dfd1b4",
       "en_sha256": "5c5273217d0be7c1cbb8dbcaa326fadbe1caf24f7f9935696b9fddf4ce870e5a",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=158005].levelList[level=1].name": {
-      "pl": "Crack of Dawn",
+      "pl": "Świt",
       "kr_sha256": "38ee216043b60b75b43b101111173d1622554656309fde1908dadd97d2ac6aa8",
       "en_sha256": "8448f2a8a7aab26c67a9b533ed066525451544be701d5cf94b9b9111dd17bb10",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=158006].levelList[level=1].name": {
-      "pl": "Guardian",
+      "pl": "Strażnik",
       "kr_sha256": "accf98b7aa17779905bdc1b878e585a090b14a0763dd58d4459b77f974a112a2",
       "en_sha256": "1d228f258f494c8a88b8b785a63b8ea22ef34a530f6e9bd5899bbcecd3fce678",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=158007].levelList[level=1].name": {
-      "pl": "Heat Haze",
+      "pl": "Zadymka",
       "kr_sha256": "543e6718e9044b8c1cd95890f9ab360bbbd069a4f07fa9f768f345d0df13c62c",
       "en_sha256": "476248322c56d7b714b6215529ecbe10cd15227920dc8656f65b131fa0d225df",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=158101].levelList[level=1].name": {
-      "pl": "Handle Request",
+      "pl": "Obsługa Zlecenia",
       "kr_sha256": "1569b0ba76cc52290f184cdd9ef14da9d3e9e65fa3217b20365dc7e0b844b3f7",
       "en_sha256": "607e594d1fdba911db4b75926575453b16a21da016092fc1843f18b5983f45fb",
       "origin": "ai"
@@ -343,7 +343,7 @@
       "origin": "ai"
     },
     "dataList[id=158102].levelList[level=1].name": {
-      "pl": "Butterfly Slash",
+      "pl": "Cięcie Motyla",
       "kr_sha256": "97ed14e080cc968fcfc9ef9b62d09ffd5e13e5db1680b8ba066de28056480be4",
       "en_sha256": "c082842acc5d4ce7d69787eba55cf2cee4649ea17a85c72e19ce0723108757b8",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=158103].levelList[level=1].name": {
-      "pl": "Eject",
+      "pl": "Wystrzał",
       "kr_sha256": "f9bd733fbd35d44dff3d9e4dc8224efef7033ca1b2ffcd34bf3614c6d5f57940",
       "en_sha256": "4496452440f3111ac1d2c207b8016d028522b95fe65b3842f047997bad9fbd09",
       "origin": "ai"
@@ -487,7 +487,7 @@
       "origin": "ai"
     },
     "dataList[id=158104].levelList[level=1].name": {
-      "pl": "Eject - High Noon",
+      "pl": "Wystrzał - Wysokie Słońce",
       "kr_sha256": "5c012910a6a51f9044967228bfeef61d932e9635452ae89e8bf703ba0f0e3abd",
       "en_sha256": "fe13f81978721172de4f46059229a29fdb41ed8148aa090583951d38a8fe8a19",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=158105].levelList[level=1].name": {
-      "pl": "Stigmatize",
+      "pl": "Napiętnowanie",
       "kr_sha256": "14d4e8729dcf613a0a19b02c9085f45cfc0047366696f1eea9c343a9da669997",
       "en_sha256": "f50b5b46b6c07ffb9aac7affb6e5a540b2aa7aa004f31377404b2b7701472b4b",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=158106].levelList[level=1].name": {
-      "pl": "Seconded Offensive",
+      "pl": "Łączenie",
       "kr_sha256": "b37ff377b518e4a064c0258f06b1eeacd9d54f147983986aa327737bf1bd98cc",
       "en_sha256": "2b1e6911aa8b366e4c4b51208782f9d14d0188cb9d034b045757706ed3d4166c",
       "origin": "ai"
@@ -583,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=158201].levelList[level=1].name": {
-      "pl": "Handle Request",
+      "pl": "Obsługa Zlecenia",
       "kr_sha256": "1569b0ba76cc52290f184cdd9ef14da9d3e9e65fa3217b20365dc7e0b844b3f7",
       "en_sha256": "607e594d1fdba911db4b75926575453b16a21da016092fc1843f18b5983f45fb",
       "origin": "ai"
@@ -613,7 +613,7 @@
       "origin": "ai"
     },
     "dataList[id=158202].levelList[level=1].name": {
-      "pl": "Sunset Blade",
+      "pl": "Miecz Zachodzącego Słońca",
       "kr_sha256": "7e65285d59aef270a5334ca41b3a08f8af9d5cc9b50b96f1d0d1b3a358be62b6",
       "en_sha256": "ecca231404bf9e98ee48be04d37547e1487583c8bea41533f350b1f29ce06d4d",
       "origin": "ai"
@@ -649,7 +649,7 @@
       "origin": "ai"
     },
     "dataList[id=158203].levelList[level=1].name": {
-      "pl": "Stigmatize",
+      "pl": "Napiętnowanie",
       "kr_sha256": "14d4e8729dcf613a0a19b02c9085f45cfc0047366696f1eea9c343a9da669997",
       "en_sha256": "f50b5b46b6c07ffb9aac7affb6e5a540b2aa7aa004f31377404b2b7701472b4b",
       "origin": "ai"
@@ -661,7 +661,7 @@
       "origin": "ai"
     },
     "dataList[id=158204].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -691,7 +691,7 @@
       "origin": "ai"
     },
     "dataList[id=158301].levelList[level=1].name": {
-      "pl": "High-speed Stabbing",
+      "pl": "Szybkie Dzierżenie",
       "kr_sha256": "15f3b20f947a9514b1d9e027d9adbc940d683c5355b96ecf8c3159a674bbcd2e",
       "en_sha256": "78210761804fac66a387babd3446e1442e3179d6458a4068e55ce3b24d784933",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=158302].levelList[level=1].name": {
-      "pl": "Sparking Spear",
+      "pl": "Błyskawiczna Włócznia",
       "kr_sha256": "c7c2609ae05aed8fbba0adc253194c5d237c35863ba2b16521377fb514668841",
       "en_sha256": "349342cbaa4af860ddf796533c1c59408092fc319fc5d54ddb951ce89fde6530",
       "origin": "ai"
@@ -769,7 +769,7 @@
       "origin": "ai"
     },
     "dataList[id=158303].levelList[level=1].name": {
-      "pl": "Transpierce",
+      "pl": "Pchnięcie",
       "kr_sha256": "4a3517d75ea24d32b92683c4ce30b9aefdaab0d25efa10a0277d55e0a7f0653c",
       "en_sha256": "96a241f4ae02ff1f4e0e94fe7c0e22b6b0721f20201179edebb6197a4f0575d3",
       "origin": "ai"
@@ -847,7 +847,7 @@
       "origin": "ai"
     },
     "dataList[id=158304].levelList[level=1].name": {
-      "pl": "Assume Wedge Formation",
+      "pl": "Przyjęcie Szyku Klina",
       "kr_sha256": "efbc918599767a465df441fcccd3bbd1a4b7f3f959a04a85d46da4cd27c34d89",
       "en_sha256": "039573caab78b14fc5155cb37c12fd0dcb90589dd64d0ee87cce57008aed2812",
       "origin": "ai"
@@ -859,7 +859,7 @@
       "origin": "ai"
     },
     "dataList[id=158305].levelList[level=1].name": {
-      "pl": "Catch Breath",
+      "pl": "Wyrównanie Oddechu",
       "kr_sha256": "6dd4145c381afd979668e63ec96a196a6d3d739aedd6e9b49624772be8cf2497",
       "en_sha256": "230e167f8546b9c509d6faf962879b5500c0b3d224bbee807ada00968f565b27",
       "origin": "ai"
@@ -907,7 +907,7 @@
       "origin": "ai"
     },
     "dataList[id=158306].levelList[level=1].name": {
-      "pl": "Step Aside.",
+      "pl": "Zejdź z Drogi.",
       "kr_sha256": "bd799ffdda98819645ec7e50c2d953e5c7f1a5caa5e4c8296cf11f61c920a58a",
       "en_sha256": "3a7331c7a2dd3d4c3d105e8efe92c41e84d847fcfe103b1e4f513656e9e2a5d6",
       "origin": "ai"
@@ -943,7 +943,7 @@
       "origin": "ai"
     },
     "dataList[id=158401].levelList[level=1].name": {
-      "pl": "Collision",
+      "pl": "Zderzenie",
       "kr_sha256": "64a648b90c8f2c03034ad8e23bc394599da33e2c255fcc2428d2fb24d2262294",
       "en_sha256": "f68a6490116e0bd4f0a69dffb45e4c5b370478d5eaffe35643e99018ed8d7f77",
       "origin": "ai"
@@ -979,7 +979,7 @@
       "origin": "ai"
     },
     "dataList[id=158402].levelList[level=1].name": {
-      "pl": "Riding the Tide of the Offensive",
+      "pl": "Korzystając z Impetu",
       "kr_sha256": "8942a20f6448dd8758a544fdda3ebbc926858652ad2bcbc89304edb5a58564f6",
       "en_sha256": "d21eb22f0d7634fba4e91ea9e1c21a2661ef01e3d1bf37ca4ee4149766acde97",
       "origin": "ai"
@@ -1033,7 +1033,7 @@
       "origin": "ai"
     },
     "dataList[id=158403].levelList[level=1].name": {
-      "pl": "Speared Sweep",
+      "pl": "Zamieć Włócznią",
       "kr_sha256": "240e28117cec0530102170f627771b15dcfb638f7178d354a54a1318b25956c3",
       "en_sha256": "6966ddd42e4e667d26c4a319e20c1a793e4c5eebc24fb150aba6174cec5d489f",
       "origin": "ai"
@@ -1099,7 +1099,7 @@
       "origin": "ai"
     },
     "dataList[id=158404].levelList[level=1].name": {
-      "pl": "I'll Run You Through Quick & True",
+      "pl": "Przebiję cię Szybko i Pewnie",
       "kr_sha256": "7cb8d96e59cc1d7f86b813e26dd7022dbf9a41246d02a4c4bc29f08ffe9620fa",
       "en_sha256": "fb346f106df28e480fd12d9a4d646ed8c26dcf81357aa08be9954eb3f96391f9",
       "origin": "ai"
@@ -1111,7 +1111,7 @@
       "origin": "ai"
     },
     "dataList[id=158405].levelList[level=1].name": {
-      "pl": "Catch Breath",
+      "pl": "Wyrównanie Oddechu",
       "kr_sha256": "6dd4145c381afd979668e63ec96a196a6d3d739aedd6e9b49624772be8cf2497",
       "en_sha256": "230e167f8546b9c509d6faf962879b5500c0b3d224bbee807ada00968f565b27",
       "origin": "ai"
@@ -1135,7 +1135,7 @@
       "origin": "ai"
     },
     "dataList[id=158501].levelList[level=1].name": {
-      "pl": "Collision",
+      "pl": "Zderzenie",
       "kr_sha256": "64a648b90c8f2c03034ad8e23bc394599da33e2c255fcc2428d2fb24d2262294",
       "en_sha256": "f68a6490116e0bd4f0a69dffb45e4c5b370478d5eaffe35643e99018ed8d7f77",
       "origin": "ai"
@@ -1159,7 +1159,7 @@
       "origin": "ai"
     },
     "dataList[id=158502].levelList[level=1].name": {
-      "pl": "Gap Strike",
+      "pl": "Uderzenie w Szczelinę",
       "kr_sha256": "22a8bc6fab8dcf69d29778b76d0289488ab84a6b1a8bd62021765af23997457d",
       "en_sha256": "4487cccadc7fe3df182b4530919ae75b5930cff99967f148577ec147510969fc",
       "origin": "ai"
@@ -1207,7 +1207,7 @@
       "origin": "ai"
     },
     "dataList[id=158503].levelList[level=1].name": {
-      "pl": "Speared Sweep",
+      "pl": "Zamieć Włócznią",
       "kr_sha256": "240e28117cec0530102170f627771b15dcfb638f7178d354a54a1318b25956c3",
       "en_sha256": "6966ddd42e4e667d26c4a319e20c1a793e4c5eebc24fb150aba6174cec5d489f",
       "origin": "ai"
@@ -1255,7 +1255,7 @@
       "origin": "ai"
     },
     "dataList[id=158504].levelList[level=1].name": {
-      "pl": "My Spear Will Puncture You True.",
+      "pl": "Moja włócznia przebije cię bez chyby.",
       "kr_sha256": "4414ea0ab16d2474f704d3adebc2c532ea13c7c7af71f66a054984b215b8c8e7",
       "en_sha256": "f4a46c6091ee1c9d9736cf379220669aea059713d730837a7f3f2ebb981b5c9c",
       "origin": "ai"
@@ -1267,7 +1267,7 @@
       "origin": "ai"
     },
     "dataList[id=158505].levelList[level=1].name": {
-      "pl": "Catch Breath",
+      "pl": "Wyrównanie Oddechu",
       "kr_sha256": "6dd4145c381afd979668e63ec96a196a6d3d739aedd6e9b49624772be8cf2497",
       "en_sha256": "230e167f8546b9c509d6faf962879b5500c0b3d224bbee807ada00968f565b27",
       "origin": "ai"
@@ -1315,7 +1315,7 @@
       "origin": "ai"
     },
     "dataList[id=158601].levelList[level=1].name": {
-      "pl": "Rue",
+      "pl": "Skrucha",
       "kr_sha256": "a146bc1db8a47a35e28a0f0137b5ffeb3312507bdc9afed70389ca91315a593a",
       "en_sha256": "14b06bb8b01406831c0ef01d8b40ed40b6a3709af21ab18aa504e27c568b54e8",
       "origin": "ai"
@@ -1339,7 +1339,7 @@
       "origin": "ai"
     },
     "dataList[id=158701].levelList[level=1].name": {
-      "pl": "Rueful Eventide",
+      "pl": "Smutny Zmierzch",
       "kr_sha256": "2e5ffd48e95f4f593601a057dfaac7e128b0e0c8e4cc40f7abe6338bb4750a7d",
       "en_sha256": "dbfd9b443abb5f2ff005a16647f6b611465fb258def7b0c715b14fda8fd40e75",
       "origin": "ai"
@@ -1363,7 +1363,7 @@
       "origin": "ai"
     },
     "dataList[id=158702].levelList[level=1].name": {
-      "pl": "Feather Shield",
+      "pl": "Tarcza z Piór",
       "kr_sha256": "e0923cede4ff3dba1b1de5f8c84194d951579937cfeb4832b5a5fe2fe801551c",
       "en_sha256": "40af1e78298d9004902a2b26a2367c7d4eead99fdca1c362553d710d5e8530b7",
       "origin": "ai"
@@ -1411,7 +1411,7 @@
       "origin": "ai"
     },
     "dataList[id=158703].levelList[level=1].name": {
-      "pl": "Searing Sword",
+      "pl": "Żarzący się Miecz",
       "kr_sha256": "98e6af74e44bb4e65a193a0149dca879354e0501ba5b9c84af48f76d4da67bc3",
       "en_sha256": "97df7cba2dab046cd90056a5777a3bb74792b44d3a239089f832b1e987c29fcf",
       "origin": "ai"
@@ -1447,7 +1447,7 @@
       "origin": "ai"
     },
     "dataList[id=158704].levelList[level=1].name": {
-      "pl": "Fierce Charge",
+      "pl": "Gwałtowny Napór",
       "kr_sha256": "f9173ef84d3e35472e3e45281e509f16dae00698897627734435b1ce17a9d13c",
       "en_sha256": "320169cba778901b1d191c94f67e49db6dafbf6a43645e1392a648f3d7358385",
       "origin": "ai"
@@ -1477,7 +1477,7 @@
       "origin": "ai"
     },
     "dataList[id=158705].levelList[level=1].name": {
-      "pl": "Blazing Strike",
+      "pl": "Płonący Cios",
       "kr_sha256": "26245c1b98856c34d776fa341b423d334b4a8ce63143bbfaa56a69b5773e5bdb",
       "en_sha256": "ad350a0ad4140280b8f750afe461fe0d9cafdda9c91ca1862aa35311449005c2",
       "origin": "ai"

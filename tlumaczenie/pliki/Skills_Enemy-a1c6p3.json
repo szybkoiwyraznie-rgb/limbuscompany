@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=9013601].levelList[level=1].name": {
-      "pl": "...nocking",
+      "pl": "...ucanie...",
       "kr_sha256": "08252d9b448913ffaa5b64f174e3bae7d243de6ebcc37b95578b011425ceb25a",
       "en_sha256": "15456809a2e574d0d048f44dee3ad00ece73ef37a3f16243f21c4ef50b5bc551",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=9013602].levelList[level=1].name": {
-      "pl": "...to Clean",
+      "pl": "...czenie...",
       "kr_sha256": "c6fc326b6bacef11dd647716706c99d95b080e51f84b906cb5b037ea8ba53ebd",
       "en_sha256": "a7b3daeb8b4a371b3c39d3ef991017b9492f32f6844ecf13dc5d238503f815c2",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=9013603].levelList[level=1].name": {
-      "pl": "...mmands...!",
+      "pl": "...kazy...!",
       "kr_sha256": "ccc0aa06e341f093ff18f0931ece8b7293f37e062012363abbf248765611484f",
       "en_sha256": "70b3ef3410d9004186796a10e1fd784fc4409816eb230de7b23894c76d2073a1",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=9013604].levelList[level=1].name": {
-      "pl": "...of Dust",
+      "pl": "...py...",
       "kr_sha256": "51a47cdd50566d2c2001a5f8710bdf9c093cd7259aee9a581ec10ca14d354993",
       "en_sha256": "f0a14c18d98a219ab1ac563eb89db13677584524fe89abb3f71b3cacf0f32ed5",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9013605].levelList[level=1].name": {
-      "pl": "Slipp...",
+      "pl": "Śliz...",
       "kr_sha256": "3b057a6be7ec272ba671d03ab1befedc2b9da86735b8f37c1146485cdae5a338",
       "en_sha256": "26855f5c31291ebfbd00769fac45caf3b9599f762e533a74c5b244e00293c684",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=9013701].levelList[level=1].name": {
-      "pl": "Damn Pl...",
+      "pl": "Zwy...ndy...",
       "kr_sha256": "e24580ecf27479ffd9e688b3872f44c36d5b41be870989dfe27108059ec52cb6",
       "en_sha256": "1af75353a1dcbf5da35108391743f6b0ee2377a463eb3197687c6270d0be4f85",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=9013702].levelList[level=1].name": {
-      "pl": "I'll Remo...",
+      "pl": "Usun...ię...",
       "kr_sha256": "c0ae9a36a648c11e23b4cf4e67f3265bd6d1e13e72d4af631e5fa9ab91eeee8d",
       "en_sha256": "d0700e0d11d17cf5a0b7cc2cb324ffcd895d141fe2925718f136c8aece2c3b94",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=9013703].levelList[level=1].name": {
-      "pl": "Make Things...",
+      "pl": "Guziki...",
       "kr_sha256": "06b0212f444c5348e4311b1c8c3e5df0ee518bdb1e9ddc8c8d0343317bfe717d",
       "en_sha256": "35a433a28c8a2802c71deeb1c905fcae47ff428249f43536d57ad100072b3fa0",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=9013704].levelList[level=1].name": {
-      "pl": "... ove You",
+      "pl": "...ię...",
       "kr_sha256": "fa89778372abd6a4b038d94ffe1d02f48ccff19d7008868ef6320ea2c7f8f45e",
       "en_sha256": "542ab1b50ad3f4b8137c70771fdbdd1f9a8801d74c75f1cfc202447d2b365739",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=9013705].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=9013802].levelList[level=1].name": {
-      "pl": "...te",
+      "pl": "...tnij...",
       "kr_sha256": "f704d71edae0fd94e96e0ed8e58cc8228a1c8177ca2213ccb0803c7079ef4589",
       "en_sha256": "0df60ed509a8860f5e75adf357174fa3173a8f77dabeb1b5788786236cf0df07",
       "origin": "ai"

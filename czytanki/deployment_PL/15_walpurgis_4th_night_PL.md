@@ -37,19 +37,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Perception (×2) — id 836302
+##### Umiejętność: Percepcja (×2) — id 836302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -86,25 +86,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Salvation — id 836303
+##### Umiejętność: Zbawienie — id 836303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -141,19 +141,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -197,19 +197,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Perception (×2) — id 836302
+##### Umiejętność: Percepcja (×2) — id 836302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -246,25 +246,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Salvation — id 836303
+##### Umiejętność: Zbawienie — id 836303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -301,19 +301,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -373,31 +373,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Mercy — id 836601
+##### Umiejętność: Łaska — id 836601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Love — id 836602
+##### Umiejętność: Miłość — id 836602
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +5 |      2 |    3 |
 
-##### Umiejętność: Flickering Glyphs of Understanding — id 836604
+##### Umiejętność: Migoczące Glify Zrozumienia — id 836604
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    6 |
 
-##### Umiejętność: What is Incomprehensible — id 836605
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rushing Arms of Rest — id 836606
+##### Umiejętność: Pędzące Ramiona Odpoczynku — id 836606
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -441,19 +441,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Perception (×2) — id 836302
+##### Umiejętność: Percepcja (×2) — id 836302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -490,25 +490,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Salvation — id 836303
+##### Umiejętność: Zbawienie — id 836303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -545,19 +545,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -601,19 +601,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Perception (×2) — id 836302
+##### Umiejętność: Percepcja (×2) — id 836302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -650,25 +650,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Salvation — id 836303
+##### Umiejętność: Zbawienie — id 836303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -705,19 +705,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -777,31 +777,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Mercy — id 836601
+##### Umiejętność: Łaska — id 836601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Love — id 836602
+##### Umiejętność: Miłość — id 836602
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +5 |      2 |    3 |
 
-##### Umiejętność: Flickering Glyphs of Understanding — id 836604
+##### Umiejętność: Migoczące Glify Zrozumienia — id 836604
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    6 |
 
-##### Umiejętność: What is Incomprehensible — id 836605
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rushing Arms of Rest — id 836606
+##### Umiejętność: Pędzące Ramiona Odpoczynku — id 836606
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -841,19 +841,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Perception (×2) — id 836302
+##### Umiejętność: Percepcja (×2) — id 836302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -890,25 +890,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Salvation — id 836303
+##### Umiejętność: Zbawienie — id 836303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +3 |      2 |    3 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -945,19 +945,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Understanding — id 836301
+##### Umiejętność: Zrozumienie — id 836301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: What is Incomprehensible — id 836304
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836304
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |          8 |         +4 |      1 |    1 |
 
-##### Umiejętność: Decay — id 836305
+##### Umiejętność: Rozkład — id 836305
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1017,31 +1017,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Wróg zwykły
 
-##### Umiejętność: Mercy — id 836601
+##### Umiejętność: Łaska — id 836601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +4 |      2 |    1 |
 
-##### Umiejętność: Love — id 836602
+##### Umiejętność: Miłość — id 836602
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +5 |      2 |    3 |
 
-##### Umiejętność: Flickering Glyphs of Understanding — id 836604
+##### Umiejętność: Migoczące Glify Zrozumienia — id 836604
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          5 |         +6 |      2 |    6 |
 
-##### Umiejętność: What is Incomprehensible — id 836605
+##### Umiejętność: To, Czego Nie Zrozumieć — id 836605
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Rushing Arms of Rest — id 836606
+##### Umiejętność: Pędzące Ramiona Odpoczynku — id 836606
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |

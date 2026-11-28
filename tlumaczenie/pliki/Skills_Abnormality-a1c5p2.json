@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=809901].levelList[level=1].name": {
-      "pl": "Punching",
+      "pl": "Uderzenia Pięścią",
       "kr_sha256": "57992fc3e44c762d91dd8b2186a5de0b4deb8b8d1621e6065551dceb898e7802",
       "en_sha256": "122224098ac978ae16bf5a4224fc0221d6e05be1ca7d4416a697af6745cee37b",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=809902].levelList[level=1].name": {
-      "pl": "Kicking",
+      "pl": "Kopniak",
       "kr_sha256": "4c25db1ce7c09dd5dc15c846102aeeb788af33cb84035a699202e42e34c89979",
       "en_sha256": "1479215c83d910453c77b6ca61247a90339d553f03076298ebc988efc4dc4f6e",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=809903].levelList[level=1].name": {
-      "pl": "Payback",
+      "pl": "Odwet",
       "kr_sha256": "85daf541fa07a3bb4a30419144bdca0e511091bd1944ed28748afe3a1bd726a4",
       "en_sha256": "debb0b1b8f38af9cc24bd716b46de16bb10ef8b07d196b28c894e0f5327ed986",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=809904].levelList[level=1].name": {
-      "pl": "Domineer",
+      "pl": "Przytłaczanie",
       "kr_sha256": "87f9986f3c491022ccd643fdd2cd2179303643f554464813876ec0f91f49fced",
       "en_sha256": "2e1dce001f2501ca7f3460c1f3566e8506bd1a29522fc7d3d9c0269de5d1aa7b",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=809905].levelList[level=1].name": {
-      "pl": "Make this Memorable",
+      "pl": "Wyryj To w Pamięci",
       "kr_sha256": "fa6c85ff04b301ed194ecd8d2a463c917c9512800f28ee08124e5f446ca0d6b4",
       "en_sha256": "df1fcc867d864368011dbdb92dd7857f5895c0787e6ba99ebce85b8ec3abe62c",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=809906].levelList[level=1].name": {
-      "pl": "Watch Your Back!",
+      "pl": "Uważaj na Kark!",
       "kr_sha256": "c5bd9e28ee54691dd3ea9ef67b12d09be8a1f4c3689f691757ef05f0942eea19",
       "en_sha256": "2ad4831aee9851b6b5e8708a9fbef6dbd1411f00fb352fe632605f72b0b7ce0c",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=809907].levelList[level=1].name": {
-      "pl": "Assemble",
+      "pl": "Zbiórka",
       "kr_sha256": "7bcf832aeaf41d3cc77a404f686983b0165f72eeb18034865ad2a5c0c5fae740",
       "en_sha256": "cfc3f8e950bb812b948d85c1d4e52c27c29f6b8faa0b7215577b675f4225aba4",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=809908].levelList[level=1].name": {
-      "pl": "Swear Vengeance",
+      "pl": "Przeżuwanie Zemsty",
       "kr_sha256": "5af562bab168cec35ecadfa50d8eeb5efc9e3d1013999bbc7c510d9630cf706d",
       "en_sha256": "04810092f6d3ba01513ed850f8ac3768ecb7c3d000d0f6cd6ee76cdf92f1590e",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=809909].levelList[level=1].name": {
-      "pl": "MY HAIR COUPOOOOOOOOOOONS!!!",
+      "pl": "MOJE KUPONY NA WŁOSYYYYY!!!",
       "kr_sha256": "aefe725317a52c7c10e4ae6c4bed8e470acd2cca80a2e4342acaab5b1c424340",
       "en_sha256": "e9467c97206f87236a2b88e3bf2d9a3224a7e2afe4c9bd9acdc12037b213b83b",
       "origin": "ai"

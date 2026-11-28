@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=148501].levelList[level=1].name": {
-      "pl": "Thou hast sinned...",
+      "pl": "Zgrzeszyliście...",
       "kr_sha256": "e81b8f7ea89d93ee2ba784d5f515678420794d496485c2971eecc16e7de2e480",
       "en_sha256": "93ec66cb185bc5395a7a7cde4016257c3ddcbe88a3d6c29d6f399a1c307411c2",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=148502].levelList[level=1].name": {
-      "pl": "Atone.",
+      "pl": "Zadośćuczyn.",
       "kr_sha256": "c55ec9bd5d22e91939eda0c25bb456e476e7d99c44d7ae42e7aab1cb0a7a8fc5",
       "en_sha256": "0bd553d98b2ea2618afb15879f79bca8065685bc970d838ae0d4a47510485fbd",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=148503].levelList[level=1].name": {
-      "pl": "Condemnation",
+      "pl": "Potępienie",
       "kr_sha256": "55b6c0f451b24a8caf56a20631b40fb90403ffe2f8df37d47d47754414771b06",
       "en_sha256": "a1be8b45ba84656ef891a02a10fef1c2760c6e7ee602c38b1bb720f700ea4640",
       "origin": "ai"
@@ -193,7 +193,7 @@
       "origin": "ai"
     },
     "dataList[id=148504].levelList[level=1].name": {
-      "pl": "Your sinfulness shall constrict you.",
+      "pl": "Twoja Grzeszność Cię Uciska",
       "kr_sha256": "9821468a30d193e0456c5771da7bb85a057e151a8e6c23f05301bdee71b79234",
       "en_sha256": "b0fa8fe31b464f063a0b92a2506bb0bc3a852a2cb1788914b793fe34901ddfc8",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=148505].levelList[level=1].name": {
-      "pl": "Divine Retribution",
+      "pl": "Boża Kara",
       "kr_sha256": "395cddbf40e08e7938298ad1001ffa45f4717cd73192d839c3be09849460c013",
       "en_sha256": "5df53ea86ab989d3adb2a82f9227b5e6d1564d83948e642050abaa3758a949e3",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=148601].levelList[level=1].name": {
-      "pl": "Nail of Penance",
+      "pl": "Gwóźdź Pokuty",
       "kr_sha256": "9a4b3c62cfa3035373000c2d8e1e968cb40d756edd370cbdfb20eef7d4cf5132",
       "en_sha256": "a0305f9b6b120aa67f4d6db51f9c54dbf217ba71a8009a6d59f8203f3955fae5",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=148602].levelList[level=1].name": {
-      "pl": "Nail of Punishment",
+      "pl": "Gwóźdź Kary",
       "kr_sha256": "49e0c8553929f26dc3de3798438590f9063307f736abbc2241be4c28aa597617",
       "en_sha256": "a8043c7a97db7ccc74566b3dbb6ed52f426b27f29d182724445f89989891c3e4",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=148603].levelList[level=1].name": {
-      "pl": "Judgment",
+      "pl": "Sąd",
       "kr_sha256": "54f768cdd8d6148f792886ada93f95b8b0a74d444cdeb4b8b41e67510678107f",
       "en_sha256": "c011634b292d658b304c275576b3d250d522e7a0b7f893eee99c1fc6b2352da9",
       "origin": "ai"
@@ -379,7 +379,7 @@
       "origin": "ai"
     },
     "dataList[id=148604].levelList[level=1].name": {
-      "pl": "Atone before God.",
+      "pl": "Odkupienie przed Bogiem.",
       "kr_sha256": "4e4aa0012cdc12078ba7bd5969b58f4d5315231be86810c87766c8f93b6012c7",
       "en_sha256": "221bc16d2d1d3a1dfca1d6e5932cb42980fdfe870259ca2f58390c623f77d837",
       "origin": "ai"
@@ -421,7 +421,7 @@
       "origin": "ai"
     },
     "dataList[id=148605].levelList[level=1].name": {
-      "pl": "Repent.",
+      "pl": "Pokutuj.",
       "kr_sha256": "f114d8087d9f9a3725df2865c1e87b64f62fb9cfd2afce1ce0ac10f872fdb157",
       "en_sha256": "c130bda5f2fe2409055c455052d14a9a0a72b06ae14fbd3e9dba17129863502a",
       "origin": "ai"
@@ -463,7 +463,7 @@
       "origin": "ai"
     },
     "dataList[id=148606].levelList[level=1].name": {
-      "pl": "Receive thy punishment.",
+      "pl": "Przyjmij karę.",
       "kr_sha256": "8877828ebd14f357b836353b8f40ba811cfe6cdd0cf4b91aba04f093251ef2f8",
       "en_sha256": "ced9cbbdc5a3bf7ad1ddd9f173137a3b5edf49965bdd820a221b3d385b12b447",
       "origin": "ai"
@@ -493,7 +493,7 @@
       "origin": "ai"
     },
     "dataList[id=148607].levelList[level=1].name": {
-      "pl": "Judgment... Sentencing... Condemnation!",
+      "pl": "Sąd...! Wyrok...! Potępienie!",
       "kr_sha256": "b52a3b02aaa7193fd206b728dddc93cca516487a48ad365459ab85333c3e58e0",
       "en_sha256": "2282cef4ad5f061969e90fa8c4f5470e47e16182aa8e1bce20aefb219871819b",
       "origin": "ai"
@@ -517,7 +517,7 @@
       "origin": "ai"
     },
     "dataList[id=148608].levelList[level=1].name": {
-      "pl": "Death Unto the Condemned",
+      "pl": "Egzekucja Skazańca",
       "kr_sha256": "81647107a59c7af3d4dad69183bb98b4287fff1a24d5e8695b6c1d416fdbf3d4",
       "en_sha256": "b6245254380ee34e4cbdb2a18e43158846bffd002c7d6b5828b897047de7f985",
       "origin": "ai"
@@ -541,7 +541,7 @@
       "origin": "ai"
     },
     "dataList[id=148609].levelList[level=1].name": {
-      "pl": "Thou hast sinned...",
+      "pl": "Zgrzeszyliście...",
       "kr_sha256": "e81b8f7ea89d93ee2ba784d5f515678420794d496485c2971eecc16e7de2e480",
       "en_sha256": "93ec66cb185bc5395a7a7cde4016257c3ddcbe88a3d6c29d6f399a1c307411c2",
       "origin": "ai"
@@ -565,7 +565,7 @@
       "origin": "ai"
     },
     "dataList[id=148610].levelList[level=1].name": {
-      "pl": "Atone.",
+      "pl": "Zadośćuczyn.",
       "kr_sha256": "c55ec9bd5d22e91939eda0c25bb456e476e7d99c44d7ae42e7aab1cb0a7a8fc5",
       "en_sha256": "0bd553d98b2ea2618afb15879f79bca8065685bc970d838ae0d4a47510485fbd",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=148701].levelList[level=1].name": {
-      "pl": "*sigh* Can you just... get rewound already?",
+      "pl": "Ach… czy nie mógłbyś się już… przewinąć?",
       "kr_sha256": "76765123657ea7c39101819b0fa45ed032402787f702230378efa0e7f6b87dfb",
       "en_sha256": "722815b8f061115d25fc53c6db5150ced37390c111182a100621da7b68864d48",
       "origin": "ai"
@@ -631,7 +631,7 @@
       "origin": "ai"
     },
     "dataList[id=148702].levelList[level=1].name": {
-      "pl": "Come on, let a guy clock out on time for once.",
+      "pl": "No weź, pozwól raz na czas zejść ze zmiany.",
       "kr_sha256": "a88550c011d257073369cdb3fc1d12fd14c865de5eff753ff7eab4a753a9a5bd",
       "en_sha256": "3a6ea143a064046682b37808a651f29996d1635678273f2fc653a35cd46e0dee",
       "origin": "ai"
@@ -679,7 +679,7 @@
       "origin": "ai"
     },
     "dataList[id=148703].levelList[level=1].name": {
-      "pl": "\"Judgment.\"",
+      "pl": "„Sąd.”",
       "kr_sha256": "0b98ecfabcbf315046f762d8fb265dd6dfe03c8463dcf90d50e74c2496f5ecf2",
       "en_sha256": "7b47b3f6748da984d11d0b01a2e9509e901945f9377e24b400a986f7a6cf811e",
       "origin": "ai"
@@ -691,7 +691,7 @@
       "origin": "ai"
     },
     "dataList[id=148704].levelList[level=1].name": {
-      "pl": "\"Atone before God\"... was it?",
+      "pl": "„Odkupienie przed Bogiem”... tak to było?",
       "kr_sha256": "46f45aed17f994086c2d52949d79b5d82cfc00b38564f86713f399a28ea5f268",
       "en_sha256": "69de416e8382ce71e6e53b8e2e669fd890e091d4cf97ac084ed2fb789798b270",
       "origin": "ai"
@@ -739,7 +739,7 @@
       "origin": "ai"
     },
     "dataList[id=148705].levelList[level=1].name": {
-      "pl": "\"Repent.\"",
+      "pl": "„Pokutuj.”",
       "kr_sha256": "04e0e2d745cd943ebeb2aed560a652a5e62171dffb17fa9069e93b67a93635ca",
       "en_sha256": "ef36d8f5f8a369649638f1a90e8aa4bf586729efb1491944555a91deb7227add",
       "origin": "ai"
@@ -787,7 +787,7 @@
       "origin": "ai"
     },
     "dataList[id=148706].levelList[level=1].name": {
-      "pl": "\"Receive thy punishment.\"",
+      "pl": "„Przyjmij karę.”",
       "kr_sha256": "4e1845d6470aadbf2e8db9f863d24b624c3bd569c2c09209ff64b1bd22eb97c0",
       "en_sha256": "196260881c085d69a45dc1f4aa0b953ed14429fea843f2b96a1f3d35a147c184",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=148707].levelList[level=1].name": {
-      "pl": "Do you seriously mean to break the Sisyphe System?",
+      "pl": "Naprawdę chcecie zepsuć System Sisyphe?",
       "kr_sha256": "604c8243f881a220e4d677b57dffa93365aa105639b5a407c152a549052ce6b4",
       "en_sha256": "787f82f5c8d55badd39995569dd4685a17cc088ae9d7d07768a6ef688296c41b",
       "origin": "ai"
@@ -847,7 +847,7 @@
       "origin": "ai"
     },
     "dataList[id=148708].levelList[level=1].name": {
-      "pl": "Systemwide Ban",
+      "pl": "Ban Systemowy",
       "kr_sha256": "be79c394a5ec7c622725a9353a2128cdb9eec255b8a6973334ac83a5d6d62f8c",
       "en_sha256": "30178494c1af0589bcb9b8945c0a5bb67f2c5696593326a210fe53700e33fe71",
       "origin": "ai"
@@ -1495,7 +1495,7 @@
       "origin": "ai"
     },
     "dataList[id=151801].levelList[level=1].name": {
-      "pl": "Take Us In...",
+      "pl": "Przyjmij Nas...",
       "kr_sha256": "91ca4d57de9bf0ab0155a64794ec3961e2539bfa8a80b6bf8d554e76c34c3890",
       "en_sha256": "c3f0f55774117bbc42a353cd0b8287745bd6339bc7f108b600e18cf9c69538b6",
       "origin": "ai"
@@ -1507,7 +1507,7 @@
       "origin": "ai"
     },
     "dataList[id=151802].levelList[level=1].name": {
-      "pl": "Oh... Our Crimson Voice...",
+      "pl": "O... Nasz Szkarłatny Głos...",
       "kr_sha256": "257d383ff2c599a03ef5f4985addf2ef3b82447c77f5dde12fceeef1d044b703",
       "en_sha256": "319fa9beeb731bceded2480f1d954a01b5b6100ea9691caa5d83aca71a3f9091",
       "origin": "ai"
@@ -1531,7 +1531,7 @@
       "origin": "ai"
     },
     "dataList[id=152101].levelList[level=1].name": {
-      "pl": "With sickles mine I answer your calling!",
+      "pl": "Tym Sierpem Odpowiadam na Wasze Wołanie!",
       "kr_sha256": "8f7fc6a213e4e58090e248655e5a4d3b9e2dc5aa060adf2fab112693b745ea9c",
       "en_sha256": "19450c54d38205de80bc948fc67e70cdf0683161587865cab6149fbb290ea910",
       "origin": "ai"
@@ -1567,7 +1567,7 @@
       "origin": "ai"
     },
     "dataList[id=152102].levelList[level=1].name": {
-      "pl": "Accept my offering of flesh!",
+      "pl": "Przyjmijcie Moją Ofiarę z Mięsa!",
       "kr_sha256": "26e45334cc60fc597afe85f9314ca5c00bf12a3e2047052f969b97a8166e2f78",
       "en_sha256": "b3673f671d743f976dcdfa03457c94bf779d60d967f88183bd29cb4c4f10ff39",
       "origin": "ai"
@@ -1615,7 +1615,7 @@
       "origin": "ai"
     },
     "dataList[id=152103].levelList[level=1].name": {
-      "pl": "An offering from my embrace!",
+      "pl": "Ofiara z Mojego Uścisku!",
       "kr_sha256": "6dd2abd31baaf8acf8a5474428117cd3ebf7ac91626d66ed1bcbad10fb4fc4b1",
       "en_sha256": "18b102b3bb28f43ce2cb4c4de587fb17d0a06f5959a7b957862dfea6cf1f2093",
       "origin": "ai"
@@ -1675,7 +1675,7 @@
       "origin": "ai"
     },
     "dataList[id=152104].levelList[level=1].name": {
-      "pl": "We shall devour it all!",
+      "pl": "Pożreć wszystko, co jest!",
       "kr_sha256": "29d9480ab06daa959c505d16da6244603ba6d2521a67c6e83f3eb09e8076dfa4",
       "en_sha256": "91279efac08ce163c401debd91c03e24508c2f44e95faa3095de3df437d8c45b",
       "origin": "ai"
@@ -1705,7 +1705,7 @@
       "origin": "ai"
     },
     "dataList[id=152105].levelList[level=1].name": {
-      "pl": "We shan't yet be laid to rest!",
+      "pl": "Jeszcze Nas Nie Złożono!",
       "kr_sha256": "bada1a2111d14076cd22968326a4ab29d9b8c5be6a74e19d765b44670b1ee769",
       "en_sha256": "14d871faec07a0c8aea2cc535dd04c4ecfb70eff299bd44fe8fbb2b7def32ec8",
       "origin": "ai"
@@ -1717,7 +1717,7 @@
       "origin": "ai"
     },
     "dataList[id=152106].levelList[level=1].name": {
-      "pl": "Supplication Toward the Voice",
+      "pl": "Modlitwa ku Głosowi",
       "kr_sha256": "51ec2c53619e940a444b4baf56cb5c1eb36f1011242feb74f55966ddac45b57c",
       "en_sha256": "897ae9e07bb039bd269c392bee2e492bbdbc84118fa6bfaf6a2576680a286cfa",
       "origin": "ai"
@@ -1741,7 +1741,7 @@
       "origin": "ai"
     },
     "dataList[id=152201].levelList[level=1].name": {
-      "pl": "Readying the Sartorial Nails",
+      "pl": "Przygotowanie Gwoździ Krawieckich",
       "kr_sha256": "c7aff6589845339e7b75bfbca4331ce246f4e2872e05a2f70e7793fd496dd125",
       "en_sha256": "e4ed2e2a1b27766bf645b412282670992434bc79bd9c7da7ebd76d52bede2c91",
       "origin": "ai"
@@ -1777,7 +1777,7 @@
       "origin": "ai"
     },
     "dataList[id=152202].levelList[level=1].name": {
-      "pl": "Patterns and Designs",
+      "pl": "Wzorce i Projekty",
       "kr_sha256": "2b6a610abfc6d96c602084463e031e25759f98fd50c7f0e1e915c07648e65fa7",
       "en_sha256": "bead41a837f8cda0026c2d34838ce6ab35a28854d6382160caeb7ec83900e9c0",
       "origin": "ai"
@@ -1837,7 +1837,7 @@
       "origin": "ai"
     },
     "dataList[id=152203].levelList[level=1].name": {
-      "pl": "Fixed Viewpoint",
+      "pl": "Zamrożenie Punktu Widzenia",
       "kr_sha256": "3bf48121eb49f246c743e12a2455d7c7b055d022417595153c4beb05558ba341",
       "en_sha256": "a9196643e2cf94b50a5cce514ddd2a3599039398e6d133bf139bf03acdfd0493",
       "origin": "ai"
@@ -1849,7 +1849,7 @@
       "origin": "ai"
     },
     "dataList[id=152204].levelList[level=1].name": {
-      "pl": "Within Perspective",
+      "pl": "W Perspektywie",
       "kr_sha256": "8ce07f041ac74ca38f7d663d0d720d53a35857c9dfba5780cdceb8f4fb88f302",
       "en_sha256": "7bc0ffa3e37863a80a4c2db5a9669464bb25f656c271051b36953b2abf8d6ff1",
       "origin": "ai"
@@ -1879,7 +1879,7 @@
       "origin": "ai"
     },
     "dataList[id=152205].levelList[level=1].name": {
-      "pl": "Focusing",
+      "pl": "Skupienie",
       "kr_sha256": "f6d5d6f6823a650b57a98674e81c545da38389fa614821bd4653df504fef400c",
       "en_sha256": "4ba95b42b81c1db5a079385378f730bae078e0ffd485ec6a66c1f9aea922a6e3",
       "origin": "ai"
@@ -1891,7 +1891,7 @@
       "origin": "ai"
     },
     "dataList[id=152301].levelList[level=1].name": {
-      "pl": "First Step",
+      "pl": "Pierwszy Krok",
       "kr_sha256": "ebe54968fd9d651bb6cd5d9d6b25ede73ff20d20b3a2d5f882932816313687d1",
       "en_sha256": "4c3966912fb812bf010d852a5bc559b5a6ee7af84b09d737f486f5ed5399d4c7",
       "origin": "ai"
@@ -1903,7 +1903,7 @@
       "origin": "ai"
     },
     "dataList[id=152302].levelList[level=1].name": {
-      "pl": "Second Pace",
+      "pl": "Drugi Krok",
       "kr_sha256": "67572fa4810c784a1e494e55caea77e7f713f3ee80e37f0052cdd34582f974b0",
       "en_sha256": "f655e2edd88b3d8c0cbf8badb2aa0fd3acefda8f4759ee2de4ddeed5919ec2c9",
       "origin": "ai"
@@ -1915,7 +1915,7 @@
       "origin": "ai"
     },
     "dataList[id=152303].levelList[level=1].name": {
-      "pl": "Third Movement",
+      "pl": "Trzeci Ruch",
       "kr_sha256": "0e6dac4d71180730dbe3b2d2914fdb7fb982aa0f51981d45aca794e36bd59d41",
       "en_sha256": "6991b762f3e19b4e71ffd0c7c265e4937981a302a21ac3b4a0331043b8024c61",
       "origin": "ai"
@@ -1939,7 +1939,7 @@
       "origin": "ai"
     },
     "dataList[id=152304].levelList[level=1].name": {
-      "pl": "You've got to keep to the pattern.",
+      "pl": "Trzeba trzymać się wzorca.",
       "kr_sha256": "b858518272d37c5dce28a7293197c3b511584cc1753e32a7f49ae06288b0094b",
       "en_sha256": "f56b26e4b3e6e449faa0907e4827a53a135450b33c43cfcdb2b72dff0fa1018a",
       "origin": "ai"
@@ -1951,7 +1951,7 @@
       "origin": "ai"
     },
     "dataList[id=152305].levelList[level=1].name": {
-      "pl": "Those times when we chatted together at the café",
+      "pl": "Te czasy, gdy rozmawialiśmy razem w kawiarni",
       "kr_sha256": "f8fa6eda9be930220f89e2ac7262ce8b95c1eb5f027a8381d4f246a00aebe64e",
       "en_sha256": "eeefaa6dc28f682c3f1e538775386c3a7a7591be6f669b9296e954d45a0a3cc7",
       "origin": "ai"
@@ -1963,7 +1963,7 @@
       "origin": "ai"
     },
     "dataList[id=152306].levelList[level=1].name": {
-      "pl": "We had our little quarrels, yes.",
+      "pl": "Mieliśmy swoje małe kłótnie, tak.",
       "kr_sha256": "eaf953f845b90dcb303ecabd16f8c4ba1858e8c43b474bbd69eb61bcfd5cbe16",
       "en_sha256": "bc35990a0979ba2535fcd36faba34ff377ae40037d3045f058d442e382ccf104",
       "origin": "ai"
@@ -1987,7 +1987,7 @@
       "origin": "ai"
     },
     "dataList[id=152401].levelList[level=1].name": {
-      "pl": "Rights: Rebuild",
+      "pl": "Uprawnienia: Odbudowa",
       "kr_sha256": "b2e7f3cbb4a9c44695aed2fe25c659b63b4862a9bd37176356377d3b53613328",
       "en_sha256": "a79172633b8a513c557ac2c4c53495ae575227ba219cc2a7fbae28718e8561c3",
       "origin": "ai"
@@ -2041,7 +2041,7 @@
       "origin": "ai"
     },
     "dataList[id=152402].levelList[level=1].name": {
-      "pl": "Rights: Ban",
+      "pl": "Uprawnienia: Ban",
       "kr_sha256": "3c9f80007f1e1cb9859cf669ad54aefaa729f6f25fd2ff23f8627f44e248e9ba",
       "en_sha256": "336d4b571c9c9a9361cd292f8ffb9d7eb059d73965b4c225f58f62647feae1c6",
       "origin": "ai"
@@ -2053,7 +2053,7 @@
       "origin": "ai"
     },
     "dataList[id=152403].levelList[level=1].name": {
-      "pl": "At least on this stage, everything's set and fixed.",
+      "pl": "Na tej scenie wszystko jest ustalone.",
       "kr_sha256": "1a0ee3e29925470f60fd7a8fd70e72b8be94c116a6e87a54cdb2750f3e8b99ce",
       "en_sha256": "42b651cb51734160020cce8a0263c0fa11cb822610e33a01512839383de3b41a",
       "origin": "ai"
@@ -2083,7 +2083,7 @@
       "origin": "ai"
     },
     "dataList[id=152404].levelList[level=1].name": {
-      "pl": "You went off-pattern.",
+      "pl": "Zboczyłeś ze wzorca.",
       "kr_sha256": "ad1ffa42fa2cc8bea37938f30393087daef2b151e14af95a5fb31a5b946d142e",
       "en_sha256": "db8b762c6d8034a8ca4b4be43ed9dbdd91f8a124abf479af19ff6ba4d57625f7",
       "origin": "ai"
@@ -2095,7 +2095,7 @@
       "origin": "ai"
     },
     "dataList[id=152405].levelList[level=1].name": {
-      "pl": "The designing was up to this point.",
+      "pl": "Projekt Dochodził Do Tutaj.",
       "kr_sha256": "a30087aba785f2cf8b4dbd65ec100e4d2f26f02e0e77442216bc775746b473b8",
       "en_sha256": "a1ec399f74c6e88dc10a57b6970a25614a7f6d9f6b083b107e13dcd17e5ce3c5",
       "origin": "ai"
@@ -2149,7 +2149,7 @@
       "origin": "ai"
     },
     "dataList[id=152406].levelList[level=1].name": {
-      "pl": "Rights: Gaze",
+      "pl": "Uprawnienia: Wzrok",
       "kr_sha256": "4f5772f4507706a167056b451087cf8d8f30b2aa8f23e1c09c42ff2add6867f8",
       "en_sha256": "68e309c1c4ab0594ced8ef3f0844dd5ced903d4c177bed17338397414e930e03",
       "origin": "ai"
@@ -2167,7 +2167,7 @@
       "origin": "ai"
     },
     "dataList[id=152501].levelList[level=1].name": {
-      "pl": "Department Store Blueprint",
+      "pl": "Schemat Domu Towarowego",
       "kr_sha256": "1e9078d972f09b9587c77cef1e5d2ac52f008d4c10c388314165a139b53a810e",
       "en_sha256": "6055b56e253f67484a2a27393237ec4b41346d397fdbd6e6d4c9d917084fc90d",
       "origin": "ai"
@@ -2185,7 +2185,7 @@
       "origin": "ai"
     },
     "dataList[id=152601].levelList[level=1].name": {
-      "pl": "Pattern: \"Desire.\"",
+      "pl": "Wzorzec: „Pożądaj.”",
       "kr_sha256": "054ba3f76aec84d1cde6053b32f7c8610bba230c826aacdbbbd659e60e5c2d07",
       "en_sha256": "32a7ce3e40f8411b08b5b7cd6e9b65d6f2fbb52682801ad40f604b14910c0b11",
       "origin": "ai"
@@ -2209,7 +2209,7 @@
       "origin": "ai"
     },
     "dataList[id=152602].levelList[level=1].name": {
-      "pl": "Pattern: \"Don.\"",
+      "pl": "Wzorzec: „Załóż.”",
       "kr_sha256": "dfc10207ed47e7062cfdf154aec97a2edb59c99ac2d4919ce5afb2c745e8e5c6",
       "en_sha256": "2276b9521f38ae93563777d7cd581997c40795df7f85453d86c1fe53f5d668cd",
       "origin": "ai"
@@ -2233,7 +2233,7 @@
       "origin": "ai"
     },
     "dataList[id=152603].levelList[level=1].name": {
-      "pl": "Pattern: \"Consume.\"",
+      "pl": "Wzorzec: „Spożyj.”",
       "kr_sha256": "2c657a8765fbb0769040ba3af8380ba22bde3c1ac9939d6ba3726240e148b66f",
       "en_sha256": "d781e9f8d550700ff326e19924560a2012c104937808f9db6c4721ad982713f7",
       "origin": "ai"
@@ -2245,7 +2245,7 @@
       "origin": "ai"
     },
     "dataList[id=152604].levelList[level=1].name": {
-      "pl": "Pattern: \"Scrape and gather.\"",
+      "pl": "Wzorzec: „Zgrzybaj i zbieraj.”",
       "kr_sha256": "16e5cc2e7697cc08352b18a238e1882fabf0965e25174088fd1761694939c66a",
       "en_sha256": "d5c21c4650fbd7cb132953f9703bc8ef190d3b93d2d4b07f54e9b3c7378fe294",
       "origin": "ai"
@@ -2263,7 +2263,7 @@
       "origin": "ai"
     },
     "dataList[id=152701].levelList[level=1].name": {
-      "pl": "Tailoring: \"Conserve.\"",
+      "pl": "Krawiectwo: „Zachowaj.”",
       "kr_sha256": "775303445fecb085e16aaf8279a4ce976c9e7758f646f7a378f95c3273b34e9b",
       "en_sha256": "481cc6bdec9d98416531dff1c25683899824c80e6e9c0956e456f57f5b9f28ce",
       "origin": "ai"
@@ -2287,7 +2287,7 @@
       "origin": "ai"
     },
     "dataList[id=152702].levelList[level=1].name": {
-      "pl": "Tailoring: \"Witness in silence.\"",
+      "pl": "Krawiectwo: „Patrz w milczeniu.”",
       "kr_sha256": "647341376ae0ccd33abde9ba5ed4ebc9b873d145a6641d88cb383f6c7cf5a6e8",
       "en_sha256": "309d4f18e6381f5bce892c50bc89b5d1c239634b94b2a53e2f3e6f9675914abc",
       "origin": "ai"
@@ -2311,7 +2311,7 @@
       "origin": "ai"
     },
     "dataList[id=152703].levelList[level=1].name": {
-      "pl": "Tailoring: \"Let all be pinned.\"",
+      "pl": "Krawiectwo: „Niech wszystko zostanie spięte.”",
       "kr_sha256": "5a4728f0544fbac7b1e0ea94c4ec4f1ed679f8fbed690e7f124cd644423fb0e3",
       "en_sha256": "f1f58a4b03542f50a62fa9ee55699982cf318eb457aa14502ef1a92916666c94",
       "origin": "ai"
@@ -2323,7 +2323,7 @@
       "origin": "ai"
     },
     "dataList[id=152704].levelList[level=1].name": {
-      "pl": "Tailoring: \"Cometh the nail.\"",
+      "pl": "Krawiectwo: „Przyjdź gwóźdź.”",
       "kr_sha256": "54ad68907a8565409e067a1e80a03ac1c1eebb749b701eafeb81659d0bbaef0a",
       "en_sha256": "6c27b07e52c3737f071188b26123f457ca8269667937f765085cd434dee2dc81",
       "origin": "ai"

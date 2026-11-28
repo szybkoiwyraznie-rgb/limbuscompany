@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=500101].levelList[level=1].name": {
-      "pl": "Punching",
+      "pl": "Uderzenia Pięścią",
       "kr_sha256": "57992fc3e44c762d91dd8b2186a5de0b4deb8b8d1621e6065551dceb898e7802",
       "en_sha256": "122224098ac978ae16bf5a4224fc0221d6e05be1ca7d4416a697af6745cee37b",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=500102].levelList[level=1].name": {
-      "pl": "Kicking",
+      "pl": "Kopniak",
       "kr_sha256": "4c25db1ce7c09dd5dc15c846102aeeb788af33cb84035a699202e42e34c89979",
       "en_sha256": "1479215c83d910453c77b6ca61247a90339d553f03076298ebc988efc4dc4f6e",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=500103].levelList[level=1].name": {
-      "pl": "Payback",
+      "pl": "Odwet",
       "kr_sha256": "85daf541fa07a3bb4a30419144bdca0e511091bd1944ed28748afe3a1bd726a4",
       "en_sha256": "debb0b1b8f38af9cc24bd716b46de16bb10ef8b07d196b28c894e0f5327ed986",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=500104].levelList[level=1].name": {
-      "pl": "Watch Your Back!",
+      "pl": "Uważaj na Kark!",
       "kr_sha256": "c5bd9e28ee54691dd3ea9ef67b12d09be8a1f4c3689f691757ef05f0942eea19",
       "en_sha256": "2ad4831aee9851b6b5e8708a9fbef6dbd1411f00fb352fe632605f72b0b7ce0c",
       "origin": "ai"
@@ -97,13 +97,13 @@
       "origin": "ai"
     },
     "dataList[id=500105].levelList[level=1].name": {
-      "pl": "Assemble",
+      "pl": "Zbiórka",
       "kr_sha256": "7bcf832aeaf41d3cc77a404f686983b0165f72eeb18034865ad2a5c0c5fae740",
       "en_sha256": "cfc3f8e950bb812b948d85c1d4e52c27c29f6b8faa0b7215577b675f4225aba4",
       "origin": "ai"
     },
     "dataList[id=500106].levelList[level=1].name": {
-      "pl": "Make this Memorable",
+      "pl": "Wyryj To w Pamięci",
       "kr_sha256": "fa6c85ff04b301ed194ecd8d2a463c917c9512800f28ee08124e5f446ca0d6b4",
       "en_sha256": "df1fcc867d864368011dbdb92dd7857f5895c0787e6ba99ebce85b8ec3abe62c",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=500107].levelList[level=1].name": {
-      "pl": "MY HAIR COUPOOOOOOOOOOONS!!!",
+      "pl": "MOJE KUPONY NA WŁOSYYYYY!!!",
       "kr_sha256": "aefe725317a52c7c10e4ae6c4bed8e470acd2cca80a2e4342acaab5b1c424340",
       "en_sha256": "e9467c97206f87236a2b88e3bf2d9a3224a7e2afe4c9bd9acdc12037b213b83b",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=500108].levelList[level=1].name": {
-      "pl": "Promised Suffering",
+      "pl": "Obiecane Cierpienie",
       "kr_sha256": "0b51554170e237d72d47ce275e16b35c5a635af38321ea52ec385f6a3b67ad84",
       "en_sha256": "18f761b8cb50b282a2c7aa13ea2dba36628f08813a59aab697e4b19daa5a2264",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=500109].levelList[level=1].name": {
-      "pl": "Enough Games",
+      "pl": "Zabawa się Skończyła",
       "kr_sha256": "0516751cf716cf2ed8134682f8c114f09536db9eb44b1a2260905925aec7089b",
       "en_sha256": "a4692fae59dfda7124c3b53ad828de772524f23ef8a8c21e80e6c0e45acaf782",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=500110].levelList[level=1].name": {
-      "pl": "COMPLETE AND TOTAL EXTERMINATION!!!",
+      "pl": "WSZYSCY — DO EKSTERMINACJI!!!",
       "kr_sha256": "4003c8619c1d657283cc99b455afbbcdc03ef44fe178aa24e4f1e504a80070a9",
       "en_sha256": "8e1de781c004c73b55b72c8005bdb5f4962f2fd582fd99d3da477351850e1778",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=500111].levelList[level=1].name": {
-      "pl": "Ah, You Were One of the Fam",
+      "pl": "A, Nasz Człowiek",
       "kr_sha256": "6ddd9887fcabd11c34bf66a9cadc70c388c431528f549f58ac1ab08d1363f9fe",
       "en_sha256": "cc05e6fbeba70259636c9c3f5c0beb5c4ef07a214cfd5bb7d2a63e5db13de423",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=500112].levelList[level=1].name": {
-      "pl": "TRICKED ME, DID YOU??!!",
+      "pl": "Oszukałeś Mnie, Co??!!",
       "kr_sha256": "82fa05eb93a24579e2d4a9bd5ace00bb2a0876e186241b7a47355b4780e3f4fb",
       "en_sha256": "e5fd726fd322c6bd60948efacbfd6dac4dde2f55dadd56a57ca454cd91b2ed4f",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=500113].levelList[level=1].name": {
-      "pl": "Swear Vengeance",
+      "pl": "Przeżuwanie Zemsty",
       "kr_sha256": "5af562bab168cec35ecadfa50d8eeb5efc9e3d1013999bbc7c510d9630cf706d",
       "en_sha256": "04810092f6d3ba01513ed850f8ac3768ecb7c3d000d0f6cd6ee76cdf92f1590e",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=500114].levelList[level=1].name": {
-      "pl": "IMMEDIATE, COMPLETE, AND TOTAL EXTERMINATION!",
+      "pl": "NATYCHMIASTOWA, PEŁNA I TOTALNA EKSTERMINACJA!",
       "kr_sha256": "25aecd0d266cd578fa00f6c268d3585d2c110a8e36b93d0cf479ecebd1f70124",
       "en_sha256": "67e46028fc5fdf368b783dca1611d8b00e5be88ff5357e1e25f656f261a66ac8",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=500115].levelList[level=1].name": {
-      "pl": "No More Tests",
+      "pl": "Testy Zakończone",
       "kr_sha256": "2c56eb8c9494f9755010b249ca97962c960480456e16ff6db12ed23bfb418815",
       "en_sha256": "0437fe9ac5e72590a7b54f2adfff1dd883f212b0d6d2c4bbb07f18f4695898d6",
       "origin": "ai"
@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=500116].levelList[level=1].name": {
-      "pl": "Mercy of the Big Brother",
+      "pl": "Łaska Brata",
       "kr_sha256": "ff5ecd4832aea71ce034d5290da04ded914d8ef7d8098e54a9b1f0d3c759222d",
       "en_sha256": "34e2df47f5ced4087f968d8552829b0095e8f8ba01d2ef12e8c13c36ef1e9610",
       "origin": "ai"
@@ -325,13 +325,13 @@
       "origin": "ai"
     },
     "dataList[id=500301].levelList[level=1].name": {
-      "pl": "Seize ya Chance",
+      "pl": "Łap Szansę",
       "kr_sha256": "2cad27303c63c7ee710a558518dbacb1a289b0dc8bee7feec7c6b92713e3f039",
       "en_sha256": "0d51cd56b105ff509f39c7a62a4678029cab9620ba121cc3ad93fcd9014d2b66",
       "origin": "ai"
     },
     "dataList[id=500401].levelList[level=1].name": {
-      "pl": "Multifold Retribution",
+      "pl": "Wielokrotna Zemsta",
       "kr_sha256": "7403d4a9fc1db23096cf3091775d3c8e9c32f22decc803933cc8bae01c1ddcb6",
       "en_sha256": "cb25a2398d7d56e0cc3329858a2ce3722244d21b7037eb94f437a9c1f666a6de",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=501203].levelList[level=1].name": {
-      "pl": "Bearspine Breaker",
+      "pl": "Łamanie Kręgosłupa Niedźwiedzia",
       "kr_sha256": "c620cabc345a7eacee8f9576b7839fc6a28f7c3edda1ddea6d184d1ebfd6fd72",
       "en_sha256": "b446b0d3b23e193144598d4f3c80138d26f22a3a37ea24d353dca55a07ba9735",
       "origin": "ai"
@@ -391,7 +391,7 @@
       "origin": "ai"
     },
     "dataList[id=501207].levelList[level=1].name": {
-      "pl": "Tigersplitter",
+      "pl": "Przecięcie Tygrysa",
       "kr_sha256": "c7b53d45fe8b29b26310aaadaab870bda19d46b0015bcc8c21ade53b340d4246",
       "en_sha256": "f0cdbca20fe7db461748577658873b190f98bb43423dd48fdabfe3035a9c1dc4",
       "origin": "ai"
@@ -403,7 +403,7 @@
       "origin": "ai"
     },
     "dataList[id=501209].levelList[level=1].name": {
-      "pl": "Sword of the Homeland [Sal] - Reassume Stance",
+      "pl": "Miecz Ojczyzny [Sal] - Powrót do Postawy",
       "kr_sha256": "296b19be66db0faf91a3e9e0e3b7efc00f82376b388b1cb4b96eeb4cc01dc6d4",
       "en_sha256": "0f485567964c7aefb2abe20fa6ee39d7383bbca50ca96d53a341161fb80f697c",
       "origin": "ai"
@@ -415,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=501210].levelList[level=1].name": {
-      "pl": "Sword of the Homeland [Sal] - Swordhoning",
+      "pl": "Miecz Ojczyzny [Sal] - Naostrzenie",
       "kr_sha256": "5e22fc0bb2aabf897a95ecadf2646f4191ee089475e4a234322f328968bc8a23",
       "en_sha256": "92ea900b31978336f1123ead8400e59978e2c3d175ff01deb8d33d44c683c066",
       "origin": "ai"
@@ -439,7 +439,7 @@
       "origin": "ai"
     },
     "dataList[id=501303].levelList[level=1].name": {
-      "pl": "Bearspine Breaker",
+      "pl": "Łamanie Kręgosłupa Niedźwiedzia",
       "kr_sha256": "c620cabc345a7eacee8f9576b7839fc6a28f7c3edda1ddea6d184d1ebfd6fd72",
       "en_sha256": "b446b0d3b23e193144598d4f3c80138d26f22a3a37ea24d353dca55a07ba9735",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=501304].levelList[level=1].name": {
-      "pl": "Even Sanguns Shall Be Cleft Under This Sword",
+      "pl": "Nawet Sangun Rozszczepi się pod Tym Ostrzem",
       "kr_sha256": "bf21b0b066b17026c1d48d9834d21501275a3d79093c7270f8889e4e2355237f",
       "en_sha256": "6f18c375167c3a9969a9736596cc1d4999a5df022b5d9d81670bf7ea8f0ba75a",
       "origin": "ai"
@@ -511,7 +511,7 @@
       "origin": "ai"
     },
     "dataList[id=501307].levelList[level=1].name": {
-      "pl": "Tigersplitter",
+      "pl": "Przecięcie Tygrysa",
       "kr_sha256": "c7b53d45fe8b29b26310aaadaab870bda19d46b0015bcc8c21ade53b340d4246",
       "en_sha256": "f0cdbca20fe7db461748577658873b190f98bb43423dd48fdabfe3035a9c1dc4",
       "origin": "ai"
@@ -595,7 +595,7 @@
       "origin": "ai"
     },
     "dataList[id=501308].levelList[level=1].name": {
-      "pl": "No Tiger's Flesh Shall Be Left Uncloven",
+      "pl": "Żaden Tygrys nie zostanie Nierozcięty pod tym Ostrzem",
       "kr_sha256": "da8700e5f3b30abeab68e7806a44fa91320cc30c80b9f7840eb43244e4407892",
       "en_sha256": "cf4b2f20b8e8688ff0ff71923876e201921da88d24fa2ff7ea0ec99f372888a7",
       "origin": "ai"
@@ -607,7 +607,7 @@
       "origin": "ai"
     },
     "dataList[id=501309].levelList[level=1].name": {
-      "pl": "Sword of the Homeland [Sal] - Reassume Stance",
+      "pl": "Miecz Ojczyzny [Sal] - Powrót do Postawy",
       "kr_sha256": "296b19be66db0faf91a3e9e0e3b7efc00f82376b388b1cb4b96eeb4cc01dc6d4",
       "en_sha256": "0f485567964c7aefb2abe20fa6ee39d7383bbca50ca96d53a341161fb80f697c",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=501310].levelList[level=1].name": {
-      "pl": "Sword of the Homeland [Sal] - Swordhoning",
+      "pl": "Miecz Ojczyzny [Sal] - Naostrzenie",
       "kr_sha256": "5e22fc0bb2aabf897a95ecadf2646f4191ee089475e4a234322f328968bc8a23",
       "en_sha256": "92ea900b31978336f1123ead8400e59978e2c3d175ff01deb8d33d44c683c066",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=501901].levelList[level=1].name": {
-      "pl": "Double Slash",
+      "pl": "Podwójne Cięcie",
       "kr_sha256": "23bb91a7402a321d91f86791e16f76ee18e6c85a7afe7ff7c5beec56913ea35e",
       "en_sha256": "ce199070357cdffa27f61bffab84ae43d9d8dc87a9838a653623022ee11260d3",
       "origin": "ai"
@@ -673,7 +673,7 @@
       "origin": "ai"
     },
     "dataList[id=501902].levelList[level=1].name": {
-      "pl": "Triple Slash",
+      "pl": "Potrójne Cięcie",
       "kr_sha256": "56bfd02a17d775bd534eafc278a2574bf828c4c457d7130b244a793c1c737318",
       "en_sha256": "bd3a1b77a794ec128ef38ee456454095b99054efa8718693ee51ed61b2cdf530",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=501903].levelList[level=1].name": {
-      "pl": "Double Slash - Blast [爆]",
+      "pl": "Podwójne Cięcie - Wybuch [爆]",
       "kr_sha256": "4febe75e4d8c35314bff29ccf5385efc8735fefa8633801aa1a8fd5f10690d34",
       "en_sha256": "3c100cf1935db05dfc3980addca98f747e2a01afc2f3bb538da395d4c93aecf1",
       "origin": "ai"
@@ -763,7 +763,7 @@
       "origin": "ai"
     },
     "dataList[id=501904].levelList[level=1].name": {
-      "pl": "Triple Slash - Blast [爆]",
+      "pl": "Potrójne Cięcie - Wybuch [爆]",
       "kr_sha256": "bcda15d4ca6be907f083ebd084d8584a2ddee459046e84b5873823869c1b4de7",
       "en_sha256": "c0b931a5cb2574e6deaf76a677f27a73087afcaaf6c8d50ddc453b98f639ec58",
       "origin": "ai"
@@ -865,7 +865,7 @@
       "origin": "ai"
     },
     "dataList[id=501905].levelList[level=1].name": {
-      "pl": "Blasting Shatterslash [爆碎斬]",
+      "pl": "Wybuchowe Cięcie Roztrzaskujące [爆碎斬]",
       "kr_sha256": "1251ce910eb228964fe6c71bd4054d6f453318565f6fdcfeac17a0029110639c",
       "en_sha256": "5f00573a709e15de561dc9aaf754ead3275e00eee4f0ffc83a909087aa13f05c",
       "origin": "ai"
@@ -1027,7 +1027,7 @@
       "origin": "ai"
     },
     "dataList[id=501907].levelList[level=1].name": {
-      "pl": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
+      "pl": "Najdziksze Wybuchowe Szaleństwo Rzeźnika Tygrysów [超絕猛虎殺擊亂斬]",
       "kr_sha256": "5320e364e320a5633dd1f78d3128e41fab87b859925829c2ceea08c8f362e59a",
       "en_sha256": "0058a092edee0577598924bad76537f1473659268f8ddb9fbc1858977e0a07e2",
       "origin": "ai"
@@ -1063,7 +1063,7 @@
       "origin": "ai"
     },
     "dataList[id=501908].levelList[level=1].name": {
-      "pl": "Reloading Tiantui Star's Blade",
+      "pl": "Przeładowanie Ostrza Gwiazdy Tianhui",
       "kr_sha256": "d32ca4eca2deb40919002f0705e74287c989df67e6da35f37d4d14bca551454a",
       "en_sha256": "e1cba4de1ee9ba50deed4d5cabb954ea260b8ad628839edb2ee74f6d7238c658",
       "origin": "ai"
@@ -1075,7 +1075,7 @@
       "origin": "ai"
     },
     "dataList[id=502001].levelList[level=1].name": {
-      "pl": "Savage Tigermark Support",
+      "pl": "Wsparcie Znaku Wściekłego Tygrysa",
       "kr_sha256": "ecee0bd70d5cf67b139d604b2c455c69991fe2c68ddb4885ea51ca793b3a9d16",
       "en_sha256": "932c682270fe97e59df00a69ea29de658e839d67fd80b40c12670b4469e2b04a",
       "origin": "ai"

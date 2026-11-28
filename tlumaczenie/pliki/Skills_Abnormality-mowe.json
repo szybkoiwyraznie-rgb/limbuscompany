@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=835001].levelList[level=1].name": {
-      "pl": "Grovel Before Me",
+      "pl": "Kulaj przede Mną",
       "kr_sha256": "ecdb18bbbc8642dc562c49cacf4f97a988162476f9bad907bea36b4d849cc24b",
       "en_sha256": "abcd28fcb064f91dbee1cc07fd3a3432fdf0729653b6da0dca3203a80b652d02",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=835002].levelList[level=1].name": {
-      "pl": "Pathetic One",
+      "pl": "Żałosny Stwór",
       "kr_sha256": "a7b87cc5cf687b0e1f194918f18364b069502d3c5c64cb2cb881358e9d65599c",
       "en_sha256": "e62c28e4d45efdd4f3abeee5277366f4f564a298dfd8f4389225738aa0b358cd",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=835003].levelList[level=1].name": {
-      "pl": "Go... Go Away...!",
+      "pl": "Idź... Idź Stąd...!",
       "kr_sha256": "9c24e3a323bcb94655ede63860f6224634eaf528ef6362da6d22dc6f94e9d695",
       "en_sha256": "d23792719b27a10026b5f44ed42f3e59cd6af536e779107e86584c94de7a342e",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=835004].levelList[level=1].name": {
-      "pl": "The Parade's Prince",
+      "pl": "Książę Parady",
       "kr_sha256": "2cb5bcca87f8f0509b3a1a66c0b4ea45b94165e5e54da3779a20b0616bfca15b",
       "en_sha256": "327bdab91778cc2e86a12a5ced1b65c4b594ed3edb4eae8da171ff4a31c85367",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=835005].levelList[level=1].name": {
-      "pl": "Blood... Blood... Blood...!",
+      "pl": "Krew... Krew... Krew...!",
       "kr_sha256": "365920498b071c698651800da2e2fcb2844d7cefd793ea74289910b6f4066c21",
       "en_sha256": "490b9044cb19633846bd0f103316f9a748323f31654d9713984ff96b52522d22",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=835006].levelList[level=1].name": {
-      "pl": "Leave Me Alone...!",
+      "pl": "Zostawcie Mnie...!",
       "kr_sha256": "b2238bb9e2c904c878c71dec04a745a780cf71f23f2e3924fa84ef65ab94ea4d",
       "en_sha256": "64d9d8292322b3956be004ad5f602aaa40d432e0a5a2cc1c806baa025c51a02a",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=835007].levelList[level=1].name": {
-      "pl": "I Am... The Prince... of the Parade...!",
+      "pl": "Jestem... Księciem... tej Parady...!",
       "kr_sha256": "9425d6bfb6287c35d71cb4e2f7f0ebda3d6209786f42a2c3d42def0e7bf97485",
       "en_sha256": "0dbc3b7b431d4f4e271156691df53530a253bcd841757a8245743cd6ebd3ccb5",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=835008].levelList[level=1].name": {
-      "pl": "I'm... Never... Going Back...!",
+      "pl": "Nigdy... Nie Wracam...!",
       "kr_sha256": "0f9a9cda50aa9621fc0d52349dd8bbd61082821a733722461f09eae467715a24",
       "en_sha256": "7ce0cb990b718759c0627fa492a5a90c58246f7c6b81b014dd98dec6e4ddbd20",
       "origin": "ai"

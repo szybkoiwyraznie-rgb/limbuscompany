@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=9015802].levelList[level=1].name": {
-      "pl": "Aimless Wrath",
+      "pl": "Bezcelowa Wściekłość",
       "kr_sha256": "3ab6fef78dcbffd7c3620278a0b13cbae744e2acc3e643e7db37247425fe615f",
       "en_sha256": "0b8deef183f22cf9ab80fa71e3e963509101ebb1273e446acc89b9b8908f9200",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=9015803].levelList[level=1].name": {
-      "pl": "Unbridled Smite",
+      "pl": "Niepohamowane Zbicie",
       "kr_sha256": "ef6cda1ea410e490c59f0978960297c22360c04d9113a30d836e80c707796389",
       "en_sha256": "afa66675c74d3cd5e934f03f08edd06a243c110d744c8a7de6751ee370c8cec1",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=9015804].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=9015902].levelList[level=1].name": {
-      "pl": "Aimless Wrath",
+      "pl": "Bezcelowa Wściekłość",
       "kr_sha256": "3ab6fef78dcbffd7c3620278a0b13cbae744e2acc3e643e7db37247425fe615f",
       "en_sha256": "0b8deef183f22cf9ab80fa71e3e963509101ebb1273e446acc89b9b8908f9200",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=9015903].levelList[level=1].name": {
-      "pl": "Unbridled Smite",
+      "pl": "Niepohamowane Zbicie",
       "kr_sha256": "ef6cda1ea410e490c59f0978960297c22360c04d9113a30d836e80c707796389",
       "en_sha256": "afa66675c74d3cd5e934f03f08edd06a243c110d744c8a7de6751ee370c8cec1",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=9015904].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=9016904].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -463,7 +463,7 @@
       "origin": "ai"
     },
     "dataList[id=9017004].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -487,7 +487,7 @@
       "origin": "ai"
     },
     "dataList[id=9017101].levelList[level=1].name": {
-      "pl": "Please answer the survey.",
+      "pl": "Proszę odpowiedzieć na ankietę.",
       "kr_sha256": "04ef5966ee09a344a11dabc4553e3c8928c80cbeca97027c44275b1ecd5b545b",
       "en_sha256": "d08ca47432d4b3aa7849f4d01737f2bb24253cb8da1edf64de38873c78e15990",
       "origin": "ai"
@@ -511,7 +511,7 @@
       "origin": "ai"
     },
     "dataList[id=9017102].levelList[level=1].name": {
-      "pl": "Don't! Don't Cut Me Off!",
+      "pl": "Nie! Nie Przerywaj Mi!",
       "kr_sha256": "3a6da8c64acc4b4fd61d10f874724f41e0a736b9ffcd78cbcdd96aaca720966d",
       "en_sha256": "f589b81adf86f0a5ba09b6e83d93b966fdb4b7d73a6a27bc80713d724221bac7",
       "origin": "ai"
@@ -535,7 +535,7 @@
       "origin": "ai"
     },
     "dataList[id=9017103].levelList[level=1].name": {
-      "pl": "Faded Patience",
+      "pl": "Zblakła Cierpliwość",
       "kr_sha256": "abebc1b15dc20472dd8513c242ec03e3e71830e6e54dadeddb3c280177f9da33",
       "en_sha256": "7599e2c4ce214846fd0ad2872409bbe9941727009a47e695b17a56f50d96be87",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=9017104].levelList[level=1].name": {
-      "pl": "Endless Atonement",
+      "pl": "Pokuta bez Końca",
       "kr_sha256": "b9e7007b2a9d76c0af545ebc03109b0b9857a01e43a7ba1d9e535b517f45fc29",
       "en_sha256": "3882660f351574d0dbbd4303fa627aad946c05363ae4b0b9369e7b97ec0d0ea0",
       "origin": "ai"
@@ -595,7 +595,7 @@
       "origin": "ai"
     },
     "dataList[id=9017105].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=9017201].levelList[level=1].name": {
-      "pl": "Please answer the survey.",
+      "pl": "Proszę odpowiedzieć na ankietę.",
       "kr_sha256": "04ef5966ee09a344a11dabc4553e3c8928c80cbeca97027c44275b1ecd5b545b",
       "en_sha256": "d08ca47432d4b3aa7849f4d01737f2bb24253cb8da1edf64de38873c78e15990",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=9017202].levelList[level=1].name": {
-      "pl": "Don't! Don't Cut Me Off!",
+      "pl": "Nie! Nie Przerywaj Mi!",
       "kr_sha256": "3a6da8c64acc4b4fd61d10f874724f41e0a736b9ffcd78cbcdd96aaca720966d",
       "en_sha256": "f589b81adf86f0a5ba09b6e83d93b966fdb4b7d73a6a27bc80713d724221bac7",
       "origin": "ai"
@@ -667,7 +667,7 @@
       "origin": "ai"
     },
     "dataList[id=9017203].levelList[level=1].name": {
-      "pl": "Faded Patience",
+      "pl": "Zblakła Cierpliwość",
       "kr_sha256": "abebc1b15dc20472dd8513c242ec03e3e71830e6e54dadeddb3c280177f9da33",
       "en_sha256": "7599e2c4ce214846fd0ad2872409bbe9941727009a47e695b17a56f50d96be87",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=9017204].levelList[level=1].name": {
-      "pl": "Endless Atonement",
+      "pl": "Pokuta bez Końca",
       "kr_sha256": "b9e7007b2a9d76c0af545ebc03109b0b9857a01e43a7ba1d9e535b517f45fc29",
       "en_sha256": "3882660f351574d0dbbd4303fa627aad946c05363ae4b0b9369e7b97ec0d0ea0",
       "origin": "ai"
@@ -727,7 +727,7 @@
       "origin": "ai"
     },
     "dataList[id=9017205].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=9017304].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -919,7 +919,7 @@
       "origin": "ai"
     },
     "dataList[id=9017404].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -943,7 +943,7 @@
       "origin": "ai"
     },
     "dataList[id=9017501].levelList[level=1].name": {
-      "pl": "Welcome to the Festival of Wonders!",
+      "pl": "Witajcie na Festiwalu Czarów!",
       "kr_sha256": "d51d099afdbfbba5bd200f0abca5a1d384d091c4941de92178ad60da2ddc079e",
       "en_sha256": "fc6279358997db45678d1033737162d7c6e1c7d0f03c80b052733a3c91d071ba",
       "origin": "ai"
@@ -979,7 +979,7 @@
       "origin": "ai"
     },
     "dataList[id=9017502].levelList[level=1].name": {
-      "pl": "Join the Joyful Parade!",
+      "pl": "Dołącz do Radosnej Parady!",
       "kr_sha256": "aafe11ece03dcc5ddba4dca22be7968dfae287d806305f3d8bab737cc839a5df",
       "en_sha256": "eeb0b067b2551c3c9fe3387db9f2ae08c78a50b0ff55db449458344a2313206d",
       "origin": "ai"
@@ -1003,7 +1003,7 @@
       "origin": "ai"
     },
     "dataList[id=9017503].levelList[level=1].name": {
-      "pl": "Blossom your Smiles of Joy!",
+      "pl": "Zakwitnij Uśmiechami Radości!",
       "kr_sha256": "1ba2dbaed6ba01ea5c2dd5630821e4b97950a0aa53b4c64f7b82da6011aacfa4",
       "en_sha256": "f50af7623b2b19241f9064465dfbb00b9e1866ae9c73e47693b14f974f200354",
       "origin": "ai"
@@ -1039,7 +1039,7 @@
       "origin": "ai"
     },
     "dataList[id=9017504].levelList[level=1].name": {
-      "pl": "Eternal Kingdom of Happiness, La Manchaland!",
+      "pl": "Wieczne Królestwo Szczęścia, La Manchaland!",
       "kr_sha256": "475b37bb799c97edebf4fb79fb35376423fadc998aee640872dacead6e6e6e6d",
       "en_sha256": "9c6d1a6d8a64cb4dff2b1897ae8c7c9be54fc7cea7495c232493ccaab294eeb7",
       "origin": "ai"
@@ -1051,7 +1051,7 @@
       "origin": "ai"
     },
     "dataList[id=9017505].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -1075,7 +1075,7 @@
       "origin": "ai"
     },
     "dataList[id=9017601].levelList[level=1].name": {
-      "pl": "Welcome to the Festival of Wonders!",
+      "pl": "Witajcie na Festiwalu Czarów!",
       "kr_sha256": "d51d099afdbfbba5bd200f0abca5a1d384d091c4941de92178ad60da2ddc079e",
       "en_sha256": "fc6279358997db45678d1033737162d7c6e1c7d0f03c80b052733a3c91d071ba",
       "origin": "ai"
@@ -1111,7 +1111,7 @@
       "origin": "ai"
     },
     "dataList[id=9017602].levelList[level=1].name": {
-      "pl": "Let's All Match Our Steps, Dance!",
+      "pl": "Wszyscy do Tańca w Rytm!",
       "kr_sha256": "ea95043c9e6bff7c9bb184e7e49b9cf75c9ca91becf026f96364a30714fd3371",
       "en_sha256": "95a6e7f6e406e8b87ddb98150abc653d54b6d69a7db6c1c7b2ea3c5f57809f3f",
       "origin": "ai"
@@ -1135,7 +1135,7 @@
       "origin": "ai"
     },
     "dataList[id=9017603].levelList[level=1].name": {
-      "pl": "Lose Yourself in the Singing!",
+      "pl": "Zanurkuj w Śpiewie!",
       "kr_sha256": "765957d80c1852ac175f697e016417b7862060621a9e628d7522fadf52c0b47c",
       "en_sha256": "d683a36914faf975c5a3cafe71412982d372c7a37b37ab6bfb7ca9a9766f26ff",
       "origin": "ai"
@@ -1171,7 +1171,7 @@
       "origin": "ai"
     },
     "dataList[id=9017604].levelList[level=1].name": {
-      "pl": "Eternal Kingdom of Happiness, La Manchaland!",
+      "pl": "Wieczne Królestwo Szczęścia, La Manchaland!",
       "kr_sha256": "475b37bb799c97edebf4fb79fb35376423fadc998aee640872dacead6e6e6e6d",
       "en_sha256": "9c6d1a6d8a64cb4dff2b1897ae8c7c9be54fc7cea7495c232493ccaab294eeb7",
       "origin": "ai"
@@ -1183,7 +1183,7 @@
       "origin": "ai"
     },
     "dataList[id=9017605].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"

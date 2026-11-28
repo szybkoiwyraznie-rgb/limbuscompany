@@ -798,3 +798,67 @@ prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
   (tkt/mowe/ycgd/twth/exme/91-14+91-24). `plik_META_PL` zredukowany do
   6 plików (spis zawiera tabelę serii deploymentów). Rozmiar serii:
   ~5,4 MB (największy plik ~0,7 MB). Testy 76/76.
+
+## E-022 · 2026-11-28 · Masowe tłumaczenie nazw umiejętności wrogów (2825 wpisów) i karty przeciwników z poczytalnością/paniką — patch v6 + Czytanki v6
+
+Reakcja na przegląd właściciela (przykład z etapu 0-4 „Chuligan Liczący
+Liczby”: umiejętność „Clumsy Chop” pozostawała po angielsku). Zgłoszenie
+właściciela: **najpierw tłumaczenie, potem poprawiona Czytanka**; do kart
+dodać Poczytalność (progi), Typ paniki, Efekt Niskiego Morale, Efekt Paniki
+oraz jawne „Pasywki: brak”.
+
+- **Zasób pracy (gap):** porównanie snapshotu PL z indeksem EN/KR dało
+  **2825 liści (1764 pary KR/EN)** o nazwach/opisach pl==EN w plikach
+  `Skills_Enemy*`, `Skills_Abnormality*` i `Skills_Tutorial` (gra czyta
+  tutorialowe skille z logical `Skills_Tutorial` — wpis tylko w
+  `Skills_Enemy` nie pomaga). Adresy store: `dataList[id=N].levelList[level=L].name|desc`.
+- **Tłumaczenie (własne, AI):** 1535 par residual + 7 opisów przełożone
+  ręcznie w mapach `local/pipeline/tr_skills/skills_{a,b,c}.json`
+  (indeks residual → PL; `null` = celowy 1:1). Zasady zgodne z LESSONS 31:
+  KR fonetyka obcej nazwy → Latin 1:1 wg EN (morse ×24, „Furioso”,
+  „Coup Droit”, „Triple Stitching” — fonetyczne 트리플 스티칭, onomatopeje
+  „WHUMP! THUMP!”, hanja w nawiasach), KR konkret → PL (1340 nazw).
+  Placeholder dev „사용하지않는스킬(번역x)” → 1:1; opis „사용하지 않는 스킬”
+  → „NIEUŻYWANA UMIEJĘTNOŚĆ”.
+- **Zasiew (229 par):** pary wyłączone z residual, bo kr-only zasiew
+  poprzedniej sesji już je pokrył — ale brakowało ich mapowania; odtworzone
+  z magazynu po **obu hashach** (kr_sha256+en_sha256): 204 dokładnie,
+  5 konfliktów rozstrzygniętych większością (Garda/Rozbicie/Kontra/Unik),
+  25 przełożonych świeżo (`overrides.json`, m.in. „Sanguine Dots” →
+  „Krwiste Kropki”, „Captivity” → „Uwięzienie”). Błąd po drodze: pierwszy
+  przebieg kluczył store bez rozszerzenia `.json` (klucz logical = nazwa
+  pliku) i nadpisał zasiew 1:1 — odtworzone z `git show HEAD` i nałożone
+  ponownie.
+- **Aplikacja:** `local/pipeline/skills_batch_apply.py` (TranslationStore
+  + `set_leaf(origin="ai")` + `save_atomic`): 2825 wpisów (2518 PL +
+  288 celowych 1:1 + 18 opisów-tagów `[CantDuel]` itp. + 1 SPECIAL_DESC);
+  pokrycie par 100% (1764/1764), ludzkie wpisy nietknięte.
+- **Karty deploymentów:** w tabeli statystyk nowe wiersze **Poczytalność**
+  (progi `lowMorale`/`panic` z StaticData; (0,0) = brak mechaniki SP) i
+  **Typ paniki** (`panicType` → nazwa z plików `PanicInfo*` snapshotu PL,
+  fallback EN, inaczej „id NNNN (brak danych)”); pod tabelą
+  **Efekt Niskiego Morale** i **Efekt Paniki** (opisy PanicInfo przez
+  `kw()` — markup sprite/link zamieniany na czysty tekst); sekcja Pasywki
+  z jawnym „**Pasywki:** brak” (510 kart) i notą o wpisach bez lokalizacji
+  (28); `_enemy_text_maps` dolicza `Skills_Tutorial` (fallback „umiejętność
+  NNNN” zostaje tylko dla id bez danych wcale — 245 id poza lokalizacją).
+- **Snapshot odświeżony:** `local/cz_snapshot/pl` nadpisany zawartością
+  patcha v6 (2422 JSON), po czym przebudowane wszystkie serie Czytanek
+  (`build_reading`/`build_profiles`/`build_ego`/`build_meta`).
+- **Patch v6:** `dist/LCB_PL_Polski_26917622.zip` = **7 611 083** B, SHA-256
+  `bb25c9128a3d8528bafdb54ae0926a5182d01028e623128e4220a6f6ccd27337`,
+  2422 JSON (1420 zmodyfikowanych), `85 392 / 193 309` liści (licznik
+  nieoddaje wzmocnienia: wpisy zastąpiły placeholdery pl==EN już liczone),
+  `0` znaczników diagnostycznych.
+- **Czytanki v6:** `dist/LCB_Czytanki_PL_2026-11-28_v6.zip` = **99** plików
+  MD (`fabula_PL` 37, `deployment_PL` 32, `plik_ID_PL` 12, `plik_EGO_PL` 12,
+  `plik_META_PL` 6), **2 589 079** B, SHA-256
+  `967ab6add18a789e7645787d2d9baeaebce3d30b270d0e7ac640137894385deb`
+  (v5 = ta sama struktura + 5 rekordów katalogowych zipa).
+- **Dostawa na Dysk Google:** patch
+  `LCB_PL_Polski_26917622_v6.zip` (`1smLctKdFP8syKzun6GwoAS4uTMtxNy3M`) i
+  Czytanki `LCB_Czytanki_PL_2026-11-28_v6.zip`
+  (`1vqSu5vMg55zd993gfpaYHYy0mMnMTQND`); poprzednie wersje (patch v5,
+  Czytanki v5) przeniesione do kosza (odzyskiwalne).
+- **Testy:** `76/76` po przebudowach. `docs/CZYTANKI.md` (opis kart) i
+  `docs/STATUS.md` (odnośnik do v6) zaktualizowane.

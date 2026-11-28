@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=806301].levelList[level=1].name": {
-      "pl": "Brutal Pummelling",
+      "pl": "Brutalne Walicie",
       "kr_sha256": "b4333229a6d7d1fdaa0e73c6770e426bd2cce6b3f08245d9e4ee9c87a1a815ac",
       "en_sha256": "de4a60d7a6e7be9ea5bf8521f7f3715939f28ad1656c4717c8addc0a1fbdaecd",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=806302].levelList[level=1].name": {
-      "pl": "Powerful! Pummel",
+      "pl": "Mocne! Bicie",
       "kr_sha256": "67de902e8c93535d72c2fe7440ce41790a76e3b62a479a66f330b6a937c64313",
       "en_sha256": "ca56ab7ea0104862c3558d42439836617582fc1d38ff7aea96300256c736a54a",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=806303].levelList[level=1].name": {
-      "pl": "Foaming",
+      "pl": "Pienienie",
       "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
       "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=806304].levelList[level=1].name": {
-      "pl": "Shell Attack!!!",
+      "pl": "Atak Pancerzem!!!",
       "kr_sha256": "bd86199ef7f35b63e6e4bba21ce8493a83ef93a3cf7f1de83c078958c7e51ac4",
       "en_sha256": "169e4a0e47758b5bb07131ca189163e2091f4ed57887fcbbc8cb4941b2ccc23a",
       "origin": "ai"
@@ -97,7 +97,7 @@
       "origin": "ai"
     },
     "dataList[id=806305].levelList[level=1].name": {
-      "pl": "Crab Rave",
+      "pl": "Krabia Balanga",
       "kr_sha256": "f9a5a72146e1285f644aaf5e3b61ede82ef041a3fc83af9ebe65671e7cc157bb",
       "en_sha256": "1393394d53b1169248b60025c7ee4876d0b0d5f58a8fca17e5dd5c7407d3982c",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=806306].levelList[level=1].name": {
-      "pl": "Foam Armor",
+      "pl": "Pancerz z Piany",
       "kr_sha256": "d68de4842b4b7206317bf46c34851e1468e59cb4d53d932290d58dec283c5da2",
       "en_sha256": "cfa9140dae6835e3de719f2982cd4fceef77e557cc18862e461255e5c2a4067d",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=806307].levelList[level=1].name": {
-      "pl": "Foam Armor",
+      "pl": "Pancerz z Piany",
       "kr_sha256": "d68de4842b4b7206317bf46c34851e1468e59cb4d53d932290d58dec283c5da2",
       "en_sha256": "cfa9140dae6835e3de719f2982cd4fceef77e557cc18862e461255e5c2a4067d",
       "origin": "ai"

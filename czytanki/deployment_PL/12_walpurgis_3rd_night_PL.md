@@ -58,7 +58,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Queen's Decree — id 826301
+##### Umiejętność: Dekret Królowej — id 826301
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -76,13 +76,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Starved Fluttering — id 826304
+##### Umiejętność: Głodne Trzepotanie — id 826304
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ravening Hunger — id 826305
+##### Umiejętność: Zarłaczny Głód — id 826305
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -129,7 +129,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Umiejętność: Munch Munch — id 826401
+##### Umiejętność: Chrup Chrup — id 826401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -141,7 +141,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tiny Wingbeat — id 826403
+##### Umiejętność: Małe Trzepotanie — id 826403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -212,7 +212,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Umiejętność: Queen's Decree — id 826301
+##### Umiejętność: Dekret Królowej — id 826301
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -230,13 +230,13 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Starved Fluttering — id 826304
+##### Umiejętność: Głodne Trzepotanie — id 826304
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ravening Hunger — id 826305
+##### Umiejętność: Zarłaczny Głód — id 826305
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -248,7 +248,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          5 |        +10 |      1 |    1 |
 
-##### Umiejętność: Time to Pay for My Care — id 826307
+##### Umiejętność: Czas Zapłacić za Moją Opiekę — id 826307
 
 | Poz. | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------------ | ---------: | ---------: | -----: | ---: |
@@ -291,7 +291,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 *Opis:* Część
 
-##### Umiejętność: Munch Munch — id 826401
+##### Umiejętność: Chrup Chrup — id 826401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -303,7 +303,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tiny Wingbeat — id 826403
+##### Umiejętność: Małe Trzepotanie — id 826403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -373,7 +373,7 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 
 *Opis:* Część
 
-##### Umiejętność: Queen's Decree — id 826301
+##### Umiejętność: Dekret Królowej — id 826301
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -391,13 +391,13 @@ na początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          6 |        +10 |      1 |    1 |
 
-##### Umiejętność: Starved Fluttering — id 826304
+##### Umiejętność: Głodne Trzepotanie — id 826304
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Ravening Hunger — id 826305
+##### Umiejętność: Zarłaczny Głód — id 826305
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -444,7 +444,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 
 *Opis:* Część
 
-##### Umiejętność: Munch Munch — id 826401
+##### Umiejętność: Chrup Chrup — id 826401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -456,7 +456,7 @@ na koniec tury: bez żyjących sojuszników, zyskuje 20 [Wzrost Mocy Ataku] w na
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: Tiny Wingbeat — id 826403
+##### Umiejętność: Małe Trzepotanie — id 826403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |

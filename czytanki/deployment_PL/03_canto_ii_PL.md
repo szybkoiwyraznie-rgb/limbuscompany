@@ -35,17 +35,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-2 · Lombard
 
@@ -62,8 +64,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Nieudolna Rąbanka — id 9000401
@@ -71,6 +77,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Ostry Chuligan — id 90005
 
@@ -83,8 +91,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                              |
 | Sloty akcji        | start: 1/2/2/2 · maks. 2                         |
 | Progi oszołomienia | 60%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Przytłoczenie                                    |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Skolcone Pchnięcie — id 9000501
@@ -92,6 +104,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +5 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Chuligan z Wielkim Łbem — id 90007
 
@@ -104,8 +118,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–2                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                           |
 | Progi oszołomienia | 40%                                              |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45   |
+| Typ paniki         | Skurczenie                                       |
 | Odporności         | Cięcie ×2; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Obuch (×3) — id 9000701
@@ -126,6 +144,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 2-4 · Wszy
 
 - **Fala 1:** Przechwalający Się Tingtangczyk ×2 (poz. 7); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 7); Przechwalający Się Tingtangczyk ×1 (poz. 7) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 7) (wsparcie); Przechwalający Się Tingtangczyk ×1 (poz. 7) (wsparcie); Nienawidzący Fasoli Tingtangczyk ×1 (poz. 7) (wsparcie)
@@ -141,8 +161,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3) — id 9001701
@@ -163,6 +187,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Nienawidzący Fasoli Tingtangczyk — id 90019
 
 *Wystąpienia: ×3 (poz. 7) · też jako wsparcie.*
@@ -174,8 +200,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3) — id 9001801
@@ -195,6 +225,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-5 · Jesteśmy z Limbu…
 
@@ -211,8 +243,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3) — id 9001701
@@ -233,6 +269,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Nienawidzący Fasoli Tingtangczyk — id 90019
 
 *Wystąpienia: ×3 (poz. 8) · też jako wsparcie.*
@@ -244,8 +282,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3) — id 9001801
@@ -266,6 +308,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Prowincjonalny Tingtangczyk — id 90017
 
 *Wystąpienia: ×1 (poz. 8) · też jako wsparcie.*
@@ -277,8 +321,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Kłucie (×3) — id 9001901
@@ -298,6 +346,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-6 · Wieża z aut
 
@@ -314,8 +364,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3) — id 9001701
@@ -336,6 +390,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Nienawidzący Fasoli Tingtangczyk — id 90019
 
 *Wystąpienia: ×4 (poz. 9) · też jako wsparcie.*
@@ -347,8 +403,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3) — id 9001801
@@ -369,6 +429,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Prowincjonalny Tingtangczyk — id 90017
 
 *Wystąpienia: ×3 (poz. 9) · też jako wsparcie.*
@@ -380,8 +442,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Kłucie (×3) — id 9001901
@@ -401,6 +467,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-7 · Kanister życzeń
 
@@ -417,8 +485,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 30%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Kłucie (×3) — id 9001901
@@ -439,6 +511,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Przechwalający Się Tingtangczyk — id 90018
 
 *Wystąpienia: ×3 (poz. 11) · też jako wsparcie.*
@@ -450,8 +524,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zamach (×3) — id 9001701
@@ -472,6 +550,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Obuch |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Nienawidzący Fasoli Tingtangczyk — id 90019
 
 *Wystąpienia: ×4 (poz. 11) · też jako wsparcie.*
@@ -483,8 +563,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                            |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                         |
 | Progi oszołomienia | 60%                                                            |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                 |
+| Typ paniki         | Skurczenie                                                     |
 | Odporności         | Cięcie ×2; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Cięcie w Dół (×3) — id 9001801
@@ -505,6 +589,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Boss Gangu Tingtang — id 91003
 
 *Wystąpienia: ×1 (poz. 11) · też jako wsparcie.*
@@ -516,8 +602,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/3 · maks. 5                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×2; Kłucie ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Podcięcie Gardła (×3) — id 9100301
@@ -576,8 +666,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -598,6 +692,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Pewny Siebie Ochroniarz Kasyna — id 90021
 
 *Wystąpienia: ×2 (poz. 10) · też jako wsparcie.*
@@ -609,8 +705,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -630,6 +730,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-9 · Performans
 
@@ -646,8 +748,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -668,6 +774,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Pewny Siebie Ochroniarz Kasyna — id 90021
 
 *Wystąpienia: ×3 (poz. 10) · też jako wsparcie.*
@@ -679,8 +787,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -701,6 +813,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Skupiony Ochroniarz Kasyna — id 90022
 
 *Wystąpienia: ×2 (poz. 10) · też jako wsparcie.*
@@ -712,8 +826,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -728,6 +846,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Szef Ochroniarzy Kasyna — id 90023
 
 *Wystąpienia: ×1 (poz. 10) · też jako wsparcie.*
@@ -739,8 +859,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 40% / 20%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Intruz Namierzony (×2) — id 9002301
@@ -767,6 +891,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          3 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 2-10 · U.K.
 
 - **Fala 1:** Sztywny Ochroniarz Kasyna ×2 (poz. 11); Wesoły Członek Gangu Mariachi ×2 (poz. 11)
@@ -783,8 +909,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -805,6 +935,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Wesoły Członek Gangu Mariachi — id 90024
 
 *Wystąpienia: ×4 (poz. 11).*
@@ -816,8 +948,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -844,6 +980,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Pewny Siebie Ochroniarz Kasyna — id 90021
 
 *Wystąpienia: ×1 (poz. 11).*
@@ -855,8 +993,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -876,6 +1018,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-11 · U.K. 2
 
@@ -893,8 +1037,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -921,6 +1069,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Ożywiony Członek Gangu Mariachi — id 90025
 
 *Wystąpienia: ×4 (poz. 11).*
@@ -932,8 +1082,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -959,6 +1113,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-12 · Porywający taniec
 
@@ -976,8 +1132,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -1003,6 +1163,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
+
+**Pasywki:** brak
 
 #### Ożywiony Członek Gangu Mariachi — id 99028
 
@@ -1015,8 +1177,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -1043,6 +1209,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
 
+**Pasywki:** brak
+
 #### Wesoły Członek Gangu Mariachi — id 90024
 
 *Wystąpienia: ×2 (poz. 12).*
@@ -1054,8 +1222,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -1082,6 +1254,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Ożywiony Członek Gangu Mariachi — id 90025
 
 *Wystąpienia: ×3 (poz. 12).*
@@ -1093,8 +1267,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -1120,6 +1298,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-13 · Powitanie
 
@@ -1136,8 +1316,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -1158,6 +1342,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Pewny Siebie Ochroniarz Kasyna — id 90021
 
 *Wystąpienia: ×4 (poz. 10) · też jako wsparcie.*
@@ -1169,8 +1355,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Przytłoczenie                                                 |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Wykryto Intruza! (×3) — id 9002001
@@ -1191,6 +1381,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Rozgrzewający Się Członek Gangu Tieqiu — id 90027
 
 *Wystąpienia: ×3 (poz. 10) · też jako wsparcie.*
@@ -1202,8 +1394,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Deszcz Obelg (×2) — id 9002603
@@ -1229,6 +1425,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-14 · Powitanie 2
 
@@ -1245,8 +1443,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 50%                                                           |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Krwawe Powitanie (×2) — id 9002602
@@ -1273,6 +1475,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Rozgrzewający Się Członek Gangu Tieqiu — id 90027
 
 *Wystąpienia: ×5 (poz. 11) · też jako wsparcie.*
@@ -1284,8 +1488,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Deszcz Obelg (×2) — id 9002603
@@ -1311,6 +1519,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-15 · Ozór
 
@@ -1327,8 +1537,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 50%                                                           |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Krwawe Powitanie (×2) — id 9002602
@@ -1355,6 +1569,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Rozgrzewający Się Członek Gangu Tieqiu — id 90027
 
 *Wystąpienia: ×6 (poz. 12) · też jako wsparcie.*
@@ -1366,8 +1582,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–4                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 60% / 30%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Kłucie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Deszcz Obelg (×2) — id 9002603
@@ -1393,6 +1613,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |         13 |        −10 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-16 · Wejście zawodniczki
 
@@ -1425,19 +1647,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801301
+##### Umiejętność: Stłumiony Gest — id 801301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801302
+##### Umiejętność: Ściskające Pożądania — id 801302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801303
+##### Umiejętność: Różowy Taniec — id 801303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1475,19 +1697,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801401
+##### Umiejętność: Stłumiony Gest — id 801401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801402
+##### Umiejętność: Ściskające Pożądania — id 801402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801403
+##### Umiejętność: Różowy Taniec — id 801403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1529,17 +1751,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 8016
 
@@ -1568,17 +1792,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Opętane Różowe Buciki — id 8014
 
@@ -1607,19 +1833,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801401
+##### Umiejętność: Stłumiony Gest — id 801401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801402
+##### Umiejętność: Ściskające Pożądania — id 801402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801403
+##### Umiejętność: Różowy Taniec — id 801403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1645,8 +1871,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -1673,6 +1903,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          2 |         +2 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### Ożywiony Członek Gangu Mariachi — id 90025
 
 *Wystąpienia: ×5 (poz. 13) · też jako wsparcie.*
@@ -1684,8 +1916,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                           |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                        |
 | Progi oszołomienia | 70% / 40%                                                     |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                |
+| Typ paniki         | Skurczenie                                                    |
 | Odporności         | Cięcie ×2; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Zwykły Wróg
 
 ##### Umiejętność: Zatańczmy~ (×2) — id 9002401
@@ -1712,6 +1948,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      4 |    1 |
 
+**Pasywki:** brak
+
 #### Ayed — id 91004
 
 *Wystąpienia: ×1 (poz. 13) · też jako wsparcie.*
@@ -1723,8 +1961,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 3–6                                                          |
 | Sloty akcji        | start: 1/2/3 · maks. 5                                       |
 | Progi oszołomienia | 50% / 25%                                                    |
+| Poczytalność       | Niskie Morale przy SP -30 · Panika przy SP -45               |
+| Typ paniki         | Skurczenie                                                   |
 | Odporności         | Cięcie ×2; Obuch ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Początek Tury: zyskaj 4 Spadek Mocy Ataku
 *Opis:* Wróg-Boss
 
 ##### Umiejętność: Żarliwy Krok Taneczny (×2) — id 9100401
@@ -1800,25 +2042,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Work Hard! (×2) — id 801002
+##### Umiejętność: Mocno Pracuj! (×2) — id 801002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Let’s Get to Work… — id 801001
+##### Umiejętność: Do Pracy… — id 801001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: So Busy… — id 801003
+##### Umiejętność: Zajęty... — id 801003
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: E-MER-GEN-CY!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!! — id 801205
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1855,25 +2097,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Best Get It Over With… (×2) — id 801101
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2) — id 801101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: Stay Diligent! — id 801102
+##### Umiejętność: Sumiennie! — id 801102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: So Busy… — id 801103
+##### Umiejętność: Zajęty... — id 801103
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: E-MER-GEN-CY!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!! — id 801205
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1910,19 +2152,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801301
+##### Umiejętność: Stłumiony Gest — id 801301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801302
+##### Umiejętność: Ściskające Pożądania — id 801302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801303
+##### Umiejętność: Różowy Taniec — id 801303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1960,19 +2202,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801401
+##### Umiejętność: Stłumiony Gest — id 801401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801402
+##### Umiejętność: Ściskające Pożądania — id 801402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801403
+##### Umiejętność: Różowy Taniec — id 801403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2014,19 +2256,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801301
+##### Umiejętność: Stłumiony Gest — id 801301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801302
+##### Umiejętność: Ściskające Pożądania — id 801302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801303
+##### Umiejętność: Różowy Taniec — id 801303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2064,19 +2306,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801401
+##### Umiejętność: Stłumiony Gest — id 801401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801402
+##### Umiejętność: Ściskające Pożądania — id 801402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801403
+##### Umiejętność: Różowy Taniec — id 801403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2118,19 +2360,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801301
+##### Umiejętność: Stłumiony Gest — id 801301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801302
+##### Umiejętność: Ściskające Pożądania — id 801302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801303
+##### Umiejętność: Różowy Taniec — id 801303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2168,19 +2410,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801401
+##### Umiejętność: Stłumiony Gest — id 801401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801402
+##### Umiejętność: Ściskające Pożądania — id 801402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801403
+##### Umiejętność: Różowy Taniec — id 801403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2218,25 +2460,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Breadwinning! — id 801501
+##### Umiejętność: Czas Zarobić! — id 801501
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          9 |         −7 |      1 |    1 |
 
-##### Umiejętność: Make Some Riches! — id 801502
+##### Umiejętność: Zarobić! — id 801502
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |         13 |        −10 |      1 |    1 |
 
-##### Umiejętność: Thoroughly Amusing!! — id 801503
+##### Umiejętność: Cóż za Rozrywka!! — id 801503
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          6 |         −2 |      2 |    1 |
 
-##### Umiejętność: Twinkle☆Sprinkle Spinny!? — id 801504
+##### Umiejętność: Błysk☆Błysk Obrot!? — id 801504
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2279,17 +2521,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-23
 
@@ -2322,17 +2566,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 8016
 
@@ -2361,17 +2607,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 2-24
 
@@ -2404,17 +2652,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Zamierający z Zimna Niewolnik Kopalni — id 8021
 
@@ -2443,19 +2693,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2492,19 +2742,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2545,17 +2795,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Roll (×3) — id 800601
+##### Umiejętność: Przetaczanie (×3) — id 800601
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          4 |         −1 |      1 |    1 |
 
-##### Umiejętność: Slothful Grip — id 800602
+##### Umiejętność: Leniwy Uścisk — id 800602
 
 | Poz. | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          5 |         +1 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Zamierający z Zimna Niewolnik Kopalni — id 8021
 
@@ -2584,19 +2836,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2633,19 +2885,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2686,19 +2938,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2735,19 +2987,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2788,19 +3040,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2837,19 +3089,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2893,19 +3145,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Pick — id 801901
+##### Umiejętność: Klucie Dziobem — id 801901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Slicing Smack — id 801902
+##### Umiejętność: Cięcie Klapsm — id 801902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Foot Stomp — id 801903
+##### Umiejętność: Kopniak — id 801903
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2942,19 +3194,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Pick — id 801901
+##### Umiejętność: Klucie Dziobem — id 801901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Slicing Smack — id 801902
+##### Umiejętność: Cięcie Klapsm — id 801902
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      2 |    1 |
 
-##### Umiejętność: Foot Stomp — id 801903
+##### Umiejętność: Kopniak — id 801903
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2991,19 +3243,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3040,19 +3292,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Beak Peck — id 802101
+##### Umiejętność: Dziobanie — id 802101
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          3 |         +5 |      1 |    1 |
 
-##### Umiejętność: Ice Chuck — id 802102
+##### Umiejętność: Plucie Lodem — id 802102
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Beak Smash — id 802103
+##### Umiejętność: Rozbicie Dzioba — id 802103
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3093,25 +3345,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Work Hard! (×2) — id 801002
+##### Umiejętność: Mocno Pracuj! (×2) — id 801002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          2 |         +9 |      1 |    1 |
 
-##### Umiejętność: Let’s Get to Work… — id 801001
+##### Umiejętność: Do Pracy… — id 801001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: So Busy… — id 801003
+##### Umiejętność: Zajęty... — id 801003
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: E-MER-GEN-CY!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!! — id 801205
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3148,25 +3400,25 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Best Get It Over With… (×2) — id 801101
+##### Umiejętność: Najlepiej Skończyć z Tym… (×2) — id 801101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         −1 |      2 |    1 |
 
-##### Umiejętność: Stay Diligent! — id 801102
+##### Umiejętność: Sumiennie! — id 801102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +2 |      3 |    1 |
 
-##### Umiejętność: So Busy… — id 801103
+##### Umiejętność: Zajęty... — id 801103
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          6 |         −2 |      1 |    1 |
 
-##### Umiejętność: E-MER-GEN-CY!!! — id 801205
+##### Umiejętność: A-L-A-R-M!!! — id 801205
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3207,19 +3459,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801301
+##### Umiejętność: Stłumiony Gest — id 801301
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      3 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801302
+##### Umiejętność: Ściskające Pożądania — id 801302
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801303
+##### Umiejętność: Różowy Taniec — id 801303
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3257,19 +3509,19 @@ przy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na p
 
 *Opis:* Część
 
-##### Umiejętność: Repressed Gesture — id 801401
+##### Umiejętność: Stłumiony Gest — id 801401
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Constricting Desires — id 801402
+##### Umiejętność: Ściskające Pożądania — id 801402
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          2 |        +10 |      1 |    1 |
 
-##### Umiejętność: Rosy Dance — id 801403
+##### Umiejętność: Różowy Taniec — id 801403
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |

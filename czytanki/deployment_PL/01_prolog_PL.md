@@ -12,15 +12,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość                        |
-| ------------------ | ------------------------------ |
-| Poziom             | 40                             |
-| HP                 | 999 (+0,19 za poziom)          |
-| Szybkość           | 2–2                            |
-| Sloty akcji        | start: 5/5/5 · maks. 5         |
-| Progi oszołomienia | 40%                            |
-| Odporności         | Cięcie ×0; Kłucie ×0; Obuch ×0 |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 40                                             |
+| HP                 | 999 (+0,19 za poziom)                          |
+| Szybkość           | 2–2                                            |
+| Sloty akcji        | start: 5/5/5 · maks. 5                         |
+| Progi oszołomienia | 40%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×0; Kłucie ×0; Obuch ×0                 |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 ##### Umiejętność: umiejętność 9900101 — id 9900101
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -39,19 +43,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          6 |         +1 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### jednostka 99002 — id 99002
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość                        |
-| ------------------ | ------------------------------ |
-| Poziom             | 42                             |
-| HP                 | 999 (+0,19 za poziom)          |
-| Szybkość           | 5–5                            |
-| Sloty akcji        | start: 3/3/3 · maks. 3         |
-| Progi oszołomienia | 45%                            |
-| Odporności         | Cięcie ×0; Kłucie ×0; Obuch ×0 |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 42                                             |
+| HP                 | 999 (+0,19 za poziom)                          |
+| Szybkość           | 5–5                                            |
+| Sloty akcji        | start: 3/3/3 · maks. 3                         |
+| Progi oszołomienia | 45%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×0; Kłucie ×0; Obuch ×0                 |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 ##### Umiejętność: umiejętność 9900201 — id 9900201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -70,19 +80,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +1 |      3 |    1 |
 
+**Pasywki:** brak
+
 #### jednostka 99003 — id 99003
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość                        |
-| ------------------ | ------------------------------ |
-| Poziom             | 45                             |
-| HP                 | 999 (+0,19 za poziom)          |
-| Szybkość           | 6–10                           |
-| Sloty akcji        | start: 3/3/3 · maks. 3         |
-| Progi oszołomienia | 6%                             |
-| Odporności         | Cięcie ×0; Kłucie ×0; Obuch ×0 |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 45                                             |
+| HP                 | 999 (+0,19 za poziom)                          |
+| Szybkość           | 6–10                                           |
+| Sloty akcji        | start: 3/3/3 · maks. 3                         |
+| Progi oszołomienia | 6%                                             |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×0; Kłucie ×0; Obuch ×0                 |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
 ##### Umiejętność: umiejętność 9900301 — id 9900301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
@@ -101,6 +117,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Kłucie |          4 |         +1 |      2 |    1 |
 
+**Pasywki:** brak
+
 ### Etap 0-2 · Prezentacja
 
 - **Fala 1:** Chuligan Liczący Liczby ×1 (poz. 1); Ostry Chuligan ×2 (poz. 1); Wygłodniały Chuligan ×2 (poz. 1)
@@ -109,58 +127,76 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 5–5                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 5–5                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902201 — id 9902201
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Nieudolna Rąbanka — id 9902201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ostry Chuligan — id 99023
 
 *Wystąpienia: ×2 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 4–4                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 4–4                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902301 — id 9902301
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Skolcone Pchnięcie — id 9902301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Wygłodniały Chuligan — id 99026
 
 *Wystąpienia: ×2 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 1–1                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 1–1                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902601 — id 9902601
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Słabiutkie Uderzenie — id 9902601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 0-3 · W drogę
 
@@ -170,77 +206,101 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 5–5                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 5–5                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902201 — id 9902201
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Nieudolna Rąbanka — id 9902201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ostry Chuligan — id 99023
 
 *Wystąpienia: ×2 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 4–4                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 4–4                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902301 — id 9902301
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Skolcone Pchnięcie — id 9902301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Wygłodniały Chuligan — id 99025
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 2–2                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 2–2                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902501 — id 9902501
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Obuch — id 9902501
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          7 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Wygłodniały Chuligan — id 99026
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 1–1                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 1–1                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902601 — id 9902601
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Słabiutkie Uderzenie — id 9902601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 0-4 · Możliwości
 
@@ -250,55 +310,73 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 5–5                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 5–5                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902201 — id 9902201
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Nieudolna Rąbanka — id 9902201
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +1 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Ostry Chuligan — id 99023
 
 *Wystąpienia: ×2 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 4–4                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 4–4                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902301 — id 9902301
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Skolcone Pchnięcie — id 9902301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Kłucie |          3 |         +2 |      1 |    1 |
 
+**Pasywki:** brak
+
 #### Wygłodniały Chuligan — id 99026
 
 *Wystąpienia: ×2 (poz. 1).*
 
-| Parametr           | Wartość              |
-| ------------------ | -------------------- |
-| Poziom             | 1                    |
-| HP                 | 48 (+2 za poziom)    |
-| Szybkość           | 1–1                  |
-| Sloty akcji        | start: 1/2 · maks. 2 |
-| Progi oszołomienia | 35%                  |
-| Odporności         | Cięcie ×2            |
+| Parametr           | Wartość                                        |
+| ------------------ | ---------------------------------------------- |
+| Poziom             | 1                                              |
+| HP                 | 48 (+2 za poziom)                              |
+| Szybkość           | 1–1                                            |
+| Sloty akcji        | start: 1/2 · maks. 2                           |
+| Progi oszołomienia | 35%                                            |
+| Poczytalność       | Niskie Morale przy SP -10 · Panika przy SP -45 |
+| Typ paniki         | Przytłoczenie                                  |
+| Odporności         | Cięcie ×2                                      |
 
-##### Umiejętność: umiejętność 9902601 — id 9902601
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 Spadek Mocy Ataku
+**Efekt Paniki:** Nie wykonuje działań w tej turze.
+##### Umiejętność: Słabiutkie Uderzenie — id 9902601
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          2 |         +2 |      2 |    1 |
+
+**Pasywki:** brak

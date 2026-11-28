@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=9014501].levelList[level=1].name": {
-      "pl": "Coagulated Arm",
+      "pl": "Zkrzepnięta Ręka",
       "kr_sha256": "a4e8783a7fe70151cc4eabbb17ef066049852d78762e9da271ee40432501a00a",
       "en_sha256": "425541158a7a7ddc2472d387fe2270fdb66e0017c4f4ea05396df3f8877cd397",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=9014503].levelList[level=1].name": {
-      "pl": "Collecting Blood",
+      "pl": "Zbieranie Krwi",
       "kr_sha256": "79b246d3dce7c68da43cd90d35b66f9611ddef480d7cf196035c987760b1f996",
       "en_sha256": "79828279b95fd3e7c437164bfdb54bcd2c693e05c93d3c91deb753becf3e09ad",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=9014504].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=9014601].levelList[level=1].name": {
-      "pl": "Coagulated Arm",
+      "pl": "Zkrzepnięta Ręka",
       "kr_sha256": "a4e8783a7fe70151cc4eabbb17ef066049852d78762e9da271ee40432501a00a",
       "en_sha256": "425541158a7a7ddc2472d387fe2270fdb66e0017c4f4ea05396df3f8877cd397",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=9014603].levelList[level=1].name": {
-      "pl": "Collecting Blood",
+      "pl": "Zbieranie Krwi",
       "kr_sha256": "79b246d3dce7c68da43cd90d35b66f9611ddef480d7cf196035c987760b1f996",
       "en_sha256": "79828279b95fd3e7c437164bfdb54bcd2c693e05c93d3c91deb753becf3e09ad",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9014604].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=9014701].levelList[level=1].name": {
-      "pl": "Coagulated Arm",
+      "pl": "Zkrzepnięta Ręka",
       "kr_sha256": "a4e8783a7fe70151cc4eabbb17ef066049852d78762e9da271ee40432501a00a",
       "en_sha256": "425541158a7a7ddc2472d387fe2270fdb66e0017c4f4ea05396df3f8877cd397",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=9014703].levelList[level=1].name": {
-      "pl": "Collecting Blood",
+      "pl": "Zbieranie Krwi",
       "kr_sha256": "79b246d3dce7c68da43cd90d35b66f9611ddef480d7cf196035c987760b1f996",
       "en_sha256": "79828279b95fd3e7c437164bfdb54bcd2c693e05c93d3c91deb753becf3e09ad",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=9014704].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=9014801].levelList[level=1].name": {
-      "pl": "Rip",
+      "pl": "Przecięcie",
       "kr_sha256": "72efb24e82a6c714affd52cd77d4b910e4cb826d1fb3c9ba327761deddf3ce0b",
       "en_sha256": "60cf0d7e6d7f3abe793534177265d47b0759dad50bd6638ff67bc4a90ff65949",
       "origin": "ai"
@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=9014802].levelList[level=1].name": {
-      "pl": "Stab Down",
+      "pl": "Bicie z Góry",
       "kr_sha256": "cedd359c1ec04ddc1a86b748dd3a899521dd914a59cae6a21f9e58f0d7b45acb",
       "en_sha256": "65a5079cc04081599ba99b64f2f5374ab6b8456302d0eded26db663f2c6278d0",
       "origin": "ai"
@@ -361,7 +361,7 @@
       "origin": "ai"
     },
     "dataList[id=9014804].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=9014901].levelList[level=1].name": {
-      "pl": "Thrust",
+      "pl": "Pchnięcie",
       "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
       "en_sha256": "61315705d257c44078434e26d4b322d29d1657aa6ce51cc15145d56e6a4e0246",
       "origin": "ai"
@@ -421,7 +421,7 @@
       "origin": "ai"
     },
     "dataList[id=9014902].levelList[level=1].name": {
-      "pl": "Cleave",
+      "pl": "Rozcięcie",
       "kr_sha256": "7a1e6ac7a7578684a313fad58017ba7dbdb7c4ccfcdd7c6a81876e8747e273f5",
       "en_sha256": "e946abd159c3e001431a6266172cc524d41158117457180e81e85ef7690a4354",
       "origin": "ai"
@@ -469,7 +469,7 @@
       "origin": "ai"
     },
     "dataList[id=9014904].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -499,7 +499,7 @@
       "origin": "ai"
     },
     "dataList[id=9015001].levelList[level=1].name": {
-      "pl": "Spear Swing",
+      "pl": "Machnięcie Włócznią",
       "kr_sha256": "1883c5d580a2a8b6589cfa6c7473d5a3547564df154a4c4b8b6c16c3dd20e478",
       "en_sha256": "42970e8bc8735be3f47d6e513be81f05bee0ccf4e2d6a9f5ea6707d3da73538d",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=9015002].levelList[level=1].name": {
-      "pl": "Tear Up Wound",
+      "pl": "Rozdzieranie Ran",
       "kr_sha256": "28a3369f33a79c23a4cd372145f5c5f8123ee80cdfbf1f672d5423dc1d902585",
       "en_sha256": "b78f821b5e4617c74b8d09e5c60ec4d47b2fbc25fda973c7b22e5d6d2ea7d307",
       "origin": "ai"
@@ -601,7 +601,7 @@
       "origin": "ai"
     },
     "dataList[id=9015004].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=9015101].levelList[level=1].name": {
-      "pl": "Activate Prosthesis",
+      "pl": "Aktywacja Protezy",
       "kr_sha256": "8880dd5c0273538ab97f5d6b04b614ca649145f23634ba6be963a2839bf8a11a",
       "en_sha256": "0de3b78959a0acb71a406962a8a58e9a3da72be0c9b349d7ce91ac11a5fa6767",
       "origin": "ai"
@@ -649,7 +649,7 @@
       "origin": "ai"
     },
     "dataList[id=9015102].levelList[level=1].name": {
-      "pl": "Harpoon Mark",
+      "pl": "Znak Harpuna",
       "kr_sha256": "3b19a17a6f150b393c022ac11c9c5c4fb36ef8c43bb17e6a1a47d6fe0c425e26",
       "en_sha256": "bc5a8407ccfb1a5f4ce8a4f97e36950c238f4179385acdbbfc099d1e1bb6f5f2",
       "origin": "ai"
@@ -697,7 +697,7 @@
       "origin": "ai"
     },
     "dataList[id=9015104].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=9101801].levelList[level=1].name": {
-      "pl": "Activate Prosthesis",
+      "pl": "Aktywacja Protezy",
       "kr_sha256": "8880dd5c0273538ab97f5d6b04b614ca649145f23634ba6be963a2839bf8a11a",
       "en_sha256": "0de3b78959a0acb71a406962a8a58e9a3da72be0c9b349d7ce91ac11a5fa6767",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=9101803].levelList[level=1].name": {
-      "pl": "Bioenergy Conversion Charge",
+      "pl": "Ładowanie z Konwersji Bioenergii",
       "kr_sha256": "fd20901430893528f91817b5a17d346a44e807e3f09908fc54929a9439e3d60c",
       "en_sha256": "ed867b8f2a12cc1150874b81c8094c3721efa80f0b157d22df6cae7d38edde26",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=9101804].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -907,7 +907,7 @@
       "origin": "ai"
     },
     "dataList[id=9101806].levelList[level=1].name": {
-      "pl": "Bioenergy Conversion Recharge",
+      "pl": "Przeładowanie z Konwersji Bioenergii",
       "kr_sha256": "b389bd56874fb599a92d02144f6fe1e752f34a595644b3a866041776d6b40c49",
       "en_sha256": "2ac805becf779b4c1db3a15c1fabb4cf607bcc9c79d599b30e2443411e5f9d7b",
       "origin": "ai"

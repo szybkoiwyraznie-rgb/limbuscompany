@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9018301].levelList[level=1].name": {
-      "pl": "Unmannerly Attack",
+      "pl": "Niegrzeczne Uderzenie",
       "kr_sha256": "621b812e2e729f1f9845aad808d53acead8a641ac38e3d15926db7161353f0d6",
       "en_sha256": "fcbcbf065ea09911fa2bead48bfef256e0e7b7afd222ad6f6c8d271e38b9b746",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=9018302].levelList[level=1].name": {
-      "pl": "Tendon Slice",
+      "pl": "Cięcie Ścięgna",
       "kr_sha256": "65caf3dc1e9b78b33291aa92b2c0980aa10258af850a4ab0349308f733b36369",
       "en_sha256": "fd1989806afad9a1e278cdb851df70753796ff4a1dd3348954eae6b3ed453f59",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=9018303].levelList[level=1].name": {
-      "pl": "Messy Attack",
+      "pl": "Bałaganiarskie Uderzenie",
       "kr_sha256": "f7e1e289e81517d715422292b538b2c9f303529557900756590e9ffbe96fba6c",
       "en_sha256": "b5bfa44761764af22b5e5daa3391109db0e724ba5d3e30dbaef6d1dbe0e7bebd",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=9018304].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=9018401].levelList[level=1].name": {
-      "pl": "Cleave",
+      "pl": "Rozcięcie",
       "kr_sha256": "4ffe7d60a3e55e0fb5b77bc49adc4367870652a15a67e261953bb2aba9827cd7",
       "en_sha256": "e946abd159c3e001431a6266172cc524d41158117457180e81e85ef7690a4354",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=9018402].levelList[level=1].name": {
-      "pl": "Leg Wound",
+      "pl": "Ranienie Nogi",
       "kr_sha256": "857dc180477ab8df073a5be2ca5d92d89c573cb92d037ae6665ba1b343849a78",
       "en_sha256": "bba54ebc4be0195f6d9f74e5657de37753f236e25f8a0eece4ae209222d4bea6",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=9018404].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=9018501].levelList[level=1].name": {
-      "pl": "Startling Strike",
+      "pl": "Niespodziewane Uderzenie",
       "kr_sha256": "bdc201f500c6626233a0732a2408a0a529c567276714eda3e0909d6c9dccdd5d",
       "en_sha256": "e8d5a422616651a3fe9e45e161d04d0e15e2ec1288e1504f7eedb9c3d4b407c6",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=9018502].levelList[level=1].name": {
-      "pl": "Restraint",
+      "pl": "Powstrzymanie",
       "kr_sha256": "bfda920c1d2c46e8fbee21fd588c7e75116ad36ebf5f1118a89ed11d3362e4ed",
       "en_sha256": "35d2aa55957aef1d2ae84741edfcd0008d28ee013e9bb6d92a184f917b360acd",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=9018503].levelList[level=1].name": {
-      "pl": "Feather Strike",
+      "pl": "Strzał Piór",
       "kr_sha256": "0952862c2ba02389f1fc5ff383c38510e6475dbbc56efd4ebf44d6dab52ad941",
       "en_sha256": "87265eaae5e67db268a69f2b91ba8cd3c21aa71b7cd108d28132f5acd1ed2c52",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=9018504].levelList[level=1].name": {
-      "pl": "The Windup",
+      "pl": "Zamachnięcie",
       "kr_sha256": "92a2b1adcb2c36ecc9f7c497a57c392793c8c053bd6deeeea3a5dbc60e9f81a9",
       "en_sha256": "eb665ecb666a3d94e95dc81b04e00756216736e21fc8200b828b79efd08d2a19",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=9018601].levelList[level=1].name": {
-      "pl": "Pursuit",
+      "pl": "Pościg",
       "kr_sha256": "786e5af0f8aec923a8dccde45399081b604aca1ab7cc36d58e1c557fcea3820c",
       "en_sha256": "2660022c74d518c3869f3736766972641b0347a5c705fdfea103197df0ab1bb9",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=9018602].levelList[level=1].name": {
-      "pl": "Overwhelm",
+      "pl": "Przytłoczenie",
       "kr_sha256": "bf56e0403ddc021df805bb8b73a8e080bf07682d67c3a8933ccc02dabc9c933a",
       "en_sha256": "b16a751d3503b8e9564354ff22c1e243e6ec1dc9fe0f77097d611a1d9c3c0e65",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=9018603].levelList[level=1].name": {
-      "pl": "Umbra Strike",
+      "pl": "Cios z Cienia",
       "kr_sha256": "8a9dc97171933aa6e73dcf9b21952179288ca91ddb1f0efc8c0e295e42626639",
       "en_sha256": "e19ce55db0b9d34307fa92b5c75031516f667970f86e9d6a83d03ecfdfab2b78",
       "origin": "ai"
@@ -379,7 +379,7 @@
       "origin": "ai"
     },
     "dataList[id=9018604].levelList[level=1].name": {
-      "pl": "The Windup",
+      "pl": "Zamachnięcie",
       "kr_sha256": "92a2b1adcb2c36ecc9f7c497a57c392793c8c053bd6deeeea3a5dbc60e9f81a9",
       "en_sha256": "eb665ecb666a3d94e95dc81b04e00756216736e21fc8200b828b79efd08d2a19",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=9018701].levelList[level=1].name": {
-      "pl": "Extract Fuel",
+      "pl": "Wydobycie Paliwa",
       "kr_sha256": "6d8d4c9e0768868024bf5cfada99283c6e31b57d2d1f93093ff4d9d295e3df22",
       "en_sha256": "b5022a38a8c3aa634504551f1fa1470ccd74c434f03e4f2f55b5ffc3be9d82b8",
       "origin": "ai"
@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=9018702].levelList[level=1].name": {
-      "pl": "Sweep the Backstreets",
+      "pl": "Zamiatanie Zaułków",
       "kr_sha256": "0f14cd6a4e3b5118e31283e745dc0fafaa38c24b278efb75cd323984deffb16a",
       "en_sha256": "0fa629f7ee797c679a50fe62dc3622ddbcc71d3b1947ce90bb29e6e37373f017",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=9018703].levelList[level=1].name": {
-      "pl": "Trash Disposal",
+      "pl": "Wywóz Śmieci",
       "kr_sha256": "400fc1a8c51b370bce7e07d9d325695e67d791f09b1527be62854648354671ad",
       "en_sha256": "789e4608f0e9fde05716fd537e7c495adea26faa55b9e2e82c18e37e486b5492",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=9018705].levelList[level=1].name": {
-      "pl": "For the Family",
+      "pl": "Dla Rodziny",
       "kr_sha256": "2a9ebc70d5f8244537f92e6a2f2f7863413d241c12531a637a6fb972c3253255",
       "en_sha256": "427d60ffef1d0b24d32faf7942bc85d965c4ac388163a509cc6aea10b957cecf",
       "origin": "ai"
@@ -571,7 +571,7 @@
       "origin": "ai"
     },
     "dataList[id=9018706].levelList[level=1].name": {
-      "pl": "Night in the Backstreets",
+      "pl": "Noc w Zaułkach",
       "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
       "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=9019301].levelList[level=1].name": {
-      "pl": "Sudden Strike",
+      "pl": "Nagłe Uderzenie",
       "kr_sha256": "fd5d7624e7b16159575bc50c1a614329e425d1d1c4a0a138bbac29cea908fff0",
       "en_sha256": "42fac7065a6a82c2879c7d6076c725709398d46002084309cdebc22addafa4be",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=9019302].levelList[level=1].name": {
-      "pl": "Muscle Slice",
+      "pl": "Cięcie Mięśnia",
       "kr_sha256": "574a7a107797c858ee0500e84caf2535c236f8a770983859822445e54aa681fa",
       "en_sha256": "38559cb755c9f7aa8397746b4abbaca63152f6f496062f5de3d24166a0101014",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=9019303].levelList[level=1].name": {
-      "pl": "Indiscriminate Attack",
+      "pl": "Nieobliczalne Uderzenie",
       "kr_sha256": "12aaba5f4596f2f6d95ab236ae72a14a7c81400786bf598d50bb0d1e80323ba4",
       "en_sha256": "3991e116905a8031d6d886589f45efc715b9a12cf0559abc0e32e32e7cce13e8",
       "origin": "ai"
@@ -655,7 +655,7 @@
       "origin": "ai"
     },
     "dataList[id=9019304].levelList[level=1].name": {
-      "pl": "Guard",
+      "pl": "Garda",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
@@ -697,7 +697,7 @@
       "origin": "ai"
     },
     "dataList[id=9019402].levelList[level=1].name": {
-      "pl": "Muscle Wound",
+      "pl": "Ranienie Mięśnia",
       "kr_sha256": "a600bee94c4be037f2864ea98cd9f7f0cd373889f809eee5c1946e88915a7013",
       "en_sha256": "75a1e1e64c1aabf2a535322cb3b8a226c1c6598281c0600b3af9dde03d234802",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=9019403].levelList[level=1].name": {
-      "pl": "Swift Attack",
+      "pl": "Szybkie Uderzenie",
       "kr_sha256": "5ab446f3e8f1fd98ec26de90e22c108da5551687be807eb3be9fcacbdca90cec",
       "en_sha256": "df2c8bee57aa2c237b6a6d0d87ee537d69064409729fa52c0877762beb7fe6e3",
       "origin": "ai"
@@ -739,7 +739,7 @@
       "origin": "ai"
     },
     "dataList[id=9019404].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -751,7 +751,7 @@
       "origin": "ai"
     },
     "dataList[id=9102001].levelList[level=1].name": {
-      "pl": "Aim for the Solar Plexus",
+      "pl": "Celuj w Solarny Splot",
       "kr_sha256": "e0c7f7db8d730d0618fe7a38a721334eb87919c0766984ae421a267969b66674",
       "en_sha256": "583c477ef14aa6d8274f996e7d236594dd9eab2a7d9433893534b5b2d1c2e5d3",
       "origin": "ai"
@@ -775,7 +775,7 @@
       "origin": "ai"
     },
     "dataList[id=9102002].levelList[level=1].name": {
-      "pl": "Right in the Dome",
+      "pl": "Prosto w Łeb",
       "kr_sha256": "5b08f4f15a8ac0cad5ee77002a7bb6ffc4f8eb95bff837976faafa8c79d9b105",
       "en_sha256": "2e0f5c2ddc49f247ecc7e7401e43074eeabda119c9edccdf073320a19a196735",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=9102003].levelList[level=1].name": {
-      "pl": "Gut Crush",
+      "pl": "Rozgniotenie Brzucha",
       "kr_sha256": "cb80784e38e69cf3b69ef41e6eda3eece48fafda9b764607692360f14735bf86",
       "en_sha256": "87bbf40e57f027445706925a584875eda9448b3e18b89d1ec012d70dbf653091",
       "origin": "ai"
@@ -841,7 +841,7 @@
       "origin": "ai"
     },
     "dataList[id=9102004].levelList[level=1].name": {
-      "pl": "Vengeance awaits you all!",
+      "pl": "Zemsta czeka na was wszystkich!",
       "kr_sha256": "f079dcce0807421ac538af508b1d60c0d17e290d5301f458d583309fd918727e",
       "en_sha256": "d9751eae4ab6cf0b5db44cd60c911a908905fe1ba59b2973ac42e3ec8d30ca3a",
       "origin": "ai"
@@ -877,7 +877,7 @@
       "origin": "ai"
     },
     "dataList[id=9102005].levelList[level=1].name": {
-      "pl": "Seize ya Chance",
+      "pl": "Łap Szansę",
       "kr_sha256": "2cad27303c63c7ee710a558518dbacb1a289b0dc8bee7feec7c6b92713e3f039",
       "en_sha256": "0d51cd56b105ff509f39c7a62a4678029cab9620ba121cc3ad93fcd9014d2b66",
       "origin": "ai"

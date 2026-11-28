@@ -255,9 +255,12 @@ powtarzają między etapami):
   `stage_Tutorial` = Prolog), uzupełniająco `battle-ab` (walki z Anomaliami;
   walka fabularna wygrywa kolizje);
 * karty: statystyki (poziom, HP z przyrostem, szybkość, sloty akcji, progi
-  oszołomienia, odporności), opis, umiejętności (grzech/typ/moc bazowa/moc
-  monety/monety/cele per poziom), pasywki; Anomalie z częściami (per część
-  HP/odporności/opis/umiejętności);
+  oszołomienia, poczytalność z progami Niskiego Morale/Paniki, typ paniki
+  wg `PanicInfo`, odporności), efekty Niskiego Morale i Paniki, opis,
+  umiejętności (grzech/typ/moc bazowa/moc monety/monety/cele per poziom;
+  nazwy PL po E-022, także z `Skills_Tutorial`), pasywki z jawnym
+  „**Pasywki:** brak”, gdy jednostka nie ma pasywek; Anomalie z częściami
+  (per część HP/odporności/opis/umiejętności);
 * pule jednostek: tabele StaticData `enemy` i `abnormality-unit` poza
   proceduralnymi Lustrzanymi Lochami (`mirrordungeon*`, `schema-craft`,
   `shadowenemy`); jednostki nieoczekujące w żadnym etapie lądują w puli na

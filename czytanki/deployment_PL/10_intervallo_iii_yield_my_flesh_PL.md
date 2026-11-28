@@ -19,8 +19,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 60% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9011001
@@ -35,7 +39,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Lenticular Scatter — id 9011003
+##### Umiejętność: Rozpadająca się Chmura — id 9011003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -46,6 +50,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
 
 #### Tense Kurokumo Henchman — id 90111
 
@@ -58,8 +64,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -74,7 +84,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -85,6 +95,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 ### Etap 3 · Ród Władający Ostrzem
 
@@ -101,8 +113,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -117,7 +133,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -128,6 +144,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Adept Kurokumo Henchwoman — id 90112
 
@@ -140,8 +158,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół — id 9011201
@@ -150,7 +172,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Reverse Slash — id 9011202
+##### Umiejętność: Odbite Cięcie — id 9011202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -162,11 +184,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011204
+##### Umiejętność: Garda — id 9011204
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 ### Etap 4 · Nieproszony Gość
 
@@ -183,8 +207,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -199,7 +227,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -210,6 +238,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Tired Kurokumo Henchwoman — id 90113
 
@@ -222,11 +252,15 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Penetrating Slash — id 9011301
+##### Umiejętność: Przebijające Cięcie — id 9011301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -244,11 +278,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011304
+##### Umiejętność: Garda — id 9011304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
 
 ### Etap 5 · W Stronę Budynku Yong-jin
 
@@ -265,8 +301,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -281,7 +321,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -292,6 +332,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Adept Kurokumo Henchwoman — id 90112
 
@@ -304,8 +346,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół — id 9011201
@@ -314,7 +360,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Reverse Slash — id 9011202
+##### Umiejętność: Odbite Cięcie — id 9011202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -326,11 +372,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011204
+##### Umiejętność: Garda — id 9011204
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Determined Kurokumo Henchman — id 90110
 
@@ -343,8 +391,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 60% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9011001
@@ -359,7 +411,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Lenticular Scatter — id 9011003
+##### Umiejętność: Rozpadająca się Chmura — id 9011003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -370,6 +422,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
 
 #### Tired Kurokumo Henchwoman — id 90113
 
@@ -382,11 +436,15 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Penetrating Slash — id 9011301
+##### Umiejętność: Przebijające Cięcie — id 9011301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -404,11 +462,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011304
+##### Umiejętność: Garda — id 9011304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
 
 ### Etap 6 · W Stronę Budynku Yong-jin 2
 
@@ -425,8 +485,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 60% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9011001
@@ -441,7 +505,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Lenticular Scatter — id 9011003
+##### Umiejętność: Rozpadająca się Chmura — id 9011003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -452,6 +516,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
 
 #### Tense Kurokumo Henchman — id 90111
 
@@ -464,8 +530,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -480,7 +550,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -491,6 +561,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Adept Kurokumo Henchwoman — id 90112
 
@@ -503,8 +575,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół — id 9011201
@@ -513,7 +589,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Reverse Slash — id 9011202
+##### Umiejętność: Odbite Cięcie — id 9011202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -525,11 +601,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011204
+##### Umiejętność: Garda — id 9011204
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Tired Kurokumo Henchwoman — id 90113
 
@@ -542,11 +620,15 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Penetrating Slash — id 9011301
+##### Umiejętność: Przebijające Cięcie — id 9011301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -564,11 +646,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011304
+##### Umiejętność: Garda — id 9011304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
 
 ### Etap 7 · Kim w Słomkowym Kapeluszu i Towarzysze
 
@@ -585,8 +669,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 60% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9011001
@@ -601,7 +689,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Lenticular Scatter — id 9011003
+##### Umiejętność: Rozpadająca się Chmura — id 9011003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -612,6 +700,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
 
 #### Tense Kurokumo Henchman — id 90111
 
@@ -624,8 +714,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -640,7 +734,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -651,6 +745,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Adept Kurokumo Henchwoman — id 90112
 
@@ -663,8 +759,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół — id 9011201
@@ -673,7 +773,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Reverse Slash — id 9011202
+##### Umiejętność: Odbite Cięcie — id 9011202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -685,11 +785,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011204
+##### Umiejętność: Garda — id 9011204
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Tired Kurokumo Henchwoman — id 90113
 
@@ -702,11 +804,15 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Penetrating Slash — id 9011301
+##### Umiejętność: Przebijające Cięcie — id 9011301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -724,11 +830,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011304
+##### Umiejętność: Garda — id 9011304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
 
 ### Etap 8 · Kim w Słomkowym Kapeluszu i Towarzysze 2
 
@@ -745,8 +853,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 60% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9011001
@@ -761,7 +873,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Lenticular Scatter — id 9011003
+##### Umiejętność: Rozpadająca się Chmura — id 9011003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -772,6 +884,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
 
 #### Tense Kurokumo Henchman — id 90111
 
@@ -784,8 +898,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -800,7 +918,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -811,6 +929,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Adept Kurokumo Henchwoman — id 90112
 
@@ -823,8 +943,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół — id 9011201
@@ -833,7 +957,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Reverse Slash — id 9011202
+##### Umiejętność: Odbite Cięcie — id 9011202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -845,11 +969,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011204
+##### Umiejętność: Garda — id 9011204
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Tired Kurokumo Henchwoman — id 90113
 
@@ -862,11 +988,15 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Penetrating Slash — id 9011301
+##### Umiejętność: Przebijające Cięcie — id 9011301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -884,11 +1014,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011304
+##### Umiejętność: Garda — id 9011304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
 
 ### Etap 9 · Źródło Grzechu
 
@@ -922,17 +1054,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Sear (×3) — id 800701
+##### Umiejętność: Wypalanie (×3) — id 800701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |         +3 |      2 |    1 |
 
-##### Umiejętność: Explosive Wrath — id 800702
+##### Umiejętność: Wybuchowy Gniew — id 800702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          1 |        +10 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Posępności — id 8016
 
@@ -961,17 +1095,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Fire Off — id 801601
+##### Umiejętność: Strzelanie Serią — id 801601
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Kłucie |          2 |         +1 |      2 |    1 |
 
-##### Umiejętność: Bursting Gloom — id 801602
+##### Umiejętność: Wybuchająca Posępność — id 801602
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          3 |         +6 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Irae? — id 8151
 
@@ -1000,19 +1136,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Plunge In — id 815101
+##### Umiejętność: Wbicie — id 815101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          4 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tail Whisk — id 815102
+##### Umiejętność: Bicz Ogonem — id 815102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Blow in Breath — id 815103
+##### Umiejętność: Wdmuchnięcie Tchnienia — id 815103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1023,6 +1159,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |          4 |         +4 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Peccatulum Morositatis? — id 8152
 
@@ -1051,19 +1189,19 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Leap In — id 815201
+##### Umiejętność: Wpadnięcie — id 815201
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Obuch |          4 |         +2 |      2 |    1 |
 
-##### Umiejętność: Snap At — id 815202
+##### Umiejętność: Zgryzienie — id 815202
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | Cięcie |          4 |         +8 |      1 |    1 |
 
-##### Umiejętność: Water Bomb — id 815203
+##### Umiejętność: Wodna Bomba — id 815203
 
 | Poz. | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ----- | ---------: | ---------: | -----: | ---: |
@@ -1074,6 +1212,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Posępność | obrona: unik |          4 |         +8 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 10 · Czarna Chmura
 
@@ -1090,8 +1230,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 60% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9011001
@@ -1106,7 +1250,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Lenticular Scatter — id 9011003
+##### Umiejętność: Rozpadająca się Chmura — id 9011003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1117,6 +1261,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |         +6 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011002 — brak danych lokalizacji)*
 
 #### Tense Kurokumo Henchman — id 90111
 
@@ -1129,8 +1275,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 70% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Zamach — id 9011101
@@ -1145,7 +1295,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Keen Slash — id 9011103
+##### Umiejętność: Ostre Cięcie — id 9011103
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1156,6 +1306,8 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          3 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Adept Kurokumo Henchwoman — id 90112
 
@@ -1168,8 +1320,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Cięcie w Dół — id 9011201
@@ -1178,7 +1334,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +3 |      2 |    1 |
 
-##### Umiejętność: Reverse Slash — id 9011202
+##### Umiejętność: Odbite Cięcie — id 9011202
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1190,11 +1346,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011204
+##### Umiejętność: Garda — id 9011204
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |         +5 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001 — brak danych lokalizacji)*
 
 #### Tired Kurokumo Henchwoman — id 90113
 
@@ -1207,11 +1365,15 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–4                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 50% / 0%                                                         |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Wzburzenie                                                       |
 | Odporności         | Cięcie ×1,5; Kłucie ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Penetrating Slash — id 9011301
+##### Umiejętność: Przebijające Cięcie — id 9011301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1229,11 +1391,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Defend — id 9011304
+##### Umiejętność: Garda — id 9011304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011301 — brak danych lokalizacji)*
 
 #### Jun, Kapitan Klanu Kurokumo — id 91013
 
@@ -1246,8 +1410,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 2–5                                                             |
 | Sloty akcji        | start: 2/3/3 · maks. 4                                          |
 | Progi oszołomienia | 30% / 0%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                  |
+| Typ paniki         | Wzburzenie                                                      |
 | Odporności         | Cięcie ×1,2; Kłucie ×0,5; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Chmura Cienia — id 9101301
@@ -1262,13 +1430,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Lenticular Slash — id 9101303
+##### Umiejętność: Soczewkowate Cięcie — id 9101303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Sharp Edge — id 9101304
+##### Umiejętność: Ostra Krawędź — id 9101304
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1280,11 +1448,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |         10 |         +4 |      3 |    1 |
 
-##### Umiejętność: Rules of the Backstreets — id 9101306
+##### Umiejętność: Zasady Zauloków — id 9101306
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: kontra |          4 |         +2 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9011001, 9011301, 9101301, 9101302 — brak danych lokalizacji)*
 
 ### Etap 11 · Kim w Słomkowym Kapeluszu
 
@@ -1294,12 +1464,16 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 40).*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 354 (+14,67 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 354 (+14,67 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Zadrza                                         |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 2 [Wzrost Obrażeń] i 3 [Spadek Poziomu Obrony]
+**Efekt Paniki:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku] i 5 [Spadek Poziomu Obrony]
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1322,7 +1496,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          8 |         −3 |      2 |    1 |
 
-##### Umiejętność: Paralyzer — id 815302
+##### Umiejętność: Paraliżer — id 815302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1334,7 +1508,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Overthrow — id 815304
+##### Umiejętność: Obalenie — id 815304
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1352,7 +1526,7 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | obrona: unik |         12 |         −8 |      1 |    1 |
 
-##### Umiejętność: Yield My Flesh — id 815307
+##### Umiejętność: Oddam Ciało — id 815307
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |

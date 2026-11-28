@@ -18,33 +18,39 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 76 (+2,62 za poziom)                                          |
 | Szybkość           | 1–3                                                           |
 | Progi oszołomienia | 70% / 25%                                                     |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -20                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×2; Kłucie ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Unmannerly Attack — id 9018301
+##### Umiejętność: Niegrzeczne Uderzenie — id 9018301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Tendon Slice — id 9018302
+##### Umiejętność: Cięcie Ścięgna — id 9018302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Messy Attack — id 9018303
+##### Umiejętność: Bałaganiarskie Uderzenie — id 9018303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9018304
+##### Umiejętność: Garda — id 9018304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9018301 — brak danych lokalizacji)*
 
 #### Awkward Tri-axe Office Fixer — id 90193
 
@@ -56,33 +62,39 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 76 (+2,62 za poziom)                                          |
 | Szybkość           | 1–3                                                           |
 | Progi oszołomienia | 70% / 25%                                                     |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -20                |
+| Typ paniki         | Wzburzenie                                                    |
 | Odporności         | Cięcie ×2; Kłucie ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Sudden Strike — id 9019301
+##### Umiejętność: Nagłe Uderzenie — id 9019301
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          5 |         +6 |      1 |    1 |
 
-##### Umiejętność: Muscle Slice — id 9019302
+##### Umiejętność: Cięcie Mięśnia — id 9019302
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Indiscriminate Attack — id 9019303
+##### Umiejętność: Nieobliczalne Uderzenie — id 9019303
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +6 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9019304
+##### Umiejętność: Garda — id 9019304
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: blok |          5 |        +10 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9019301 — brak danych lokalizacji)*
 
 ### Etap 4
 
@@ -98,17 +110,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 76 (+2,62 za poziom)                                         |
 | Szybkość           | 1–3                                                          |
 | Progi oszołomienia | 50% / 10%                                                    |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -20               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Cięcie ×2; Obuch ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cleave — id 9018401
+##### Umiejętność: Rozcięcie — id 9018401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Leg Wound — id 9018402
+##### Umiejętność: Ranienie Nogi — id 9018402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -120,11 +136,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9018404
+##### Umiejętność: Kontra — id 9018404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          5 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Sharp-looking Stranger — id 90194
 
@@ -136,8 +154,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 76 (+2,62 za poziom)                                         |
 | Szybkość           | 1–3                                                          |
 | Progi oszołomienia | 50% / 10%                                                    |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -20               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Cięcie ×2; Obuch ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9019401
@@ -146,23 +168,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Muscle Wound — id 9019402
+##### Umiejętność: Ranienie Mięśnia — id 9019402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Swift Attack — id 9019403
+##### Umiejętność: Szybkie Uderzenie — id 9019403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +6 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9019404
+##### Umiejętność: Kontra — id 9019404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          5 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 5
 
@@ -178,8 +202,12 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 76 (+2,62 za poziom)                                         |
 | Szybkość           | 1–3                                                          |
 | Progi oszołomienia | 50% / 10%                                                    |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -20               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Cięcie ×2; Obuch ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 ##### Umiejętność: Rozcięcie — id 9019401
@@ -188,23 +216,25 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Muscle Wound — id 9019402
+##### Umiejętność: Ranienie Mięśnia — id 9019402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      2 |    1 |
 
-##### Umiejętność: Swift Attack — id 9019403
+##### Umiejętność: Szybkie Uderzenie — id 9019403
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          2 |         +6 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9019404
+##### Umiejętność: Kontra — id 9019404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: kontra |          5 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 #### Tough-looking Stranger — id 90184
 
@@ -216,17 +246,21 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 76 (+2,62 za poziom)                                         |
 | Szybkość           | 1–3                                                          |
 | Progi oszołomienia | 50% / 10%                                                    |
+| Poczytalność       | Niskie Morale przy SP -15 · Panika przy SP -20               |
+| Typ paniki         | Wzburzenie                                                   |
 | Odporności         | Cięcie ×2; Obuch ×0,8; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Cleave — id 9018401
+##### Umiejętność: Rozcięcie — id 9018401
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +7 |      1 |    1 |
 
-##### Umiejętność: Leg Wound — id 9018402
+##### Umiejętność: Ranienie Nogi — id 9018402
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -238,11 +272,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9018404
+##### Umiejętność: Kontra — id 9018404
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | obrona: kontra |          5 |         +3 |      1 |    1 |
+
+**Pasywki:** brak
 
 ### Etap 8
 
@@ -258,33 +294,39 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 75 (+2,59 za poziom)                                             |
 | Szybkość           | 3–5                                                              |
 | Progi oszołomienia | 70% / 25%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Podstęp                                                          |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Startling Strike — id 9018501
+##### Umiejętność: Niespodziewane Uderzenie — id 9018501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Restraint — id 9018502
+##### Umiejętność: Powstrzymanie — id 9018502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Feather Strike — id 9018503
+##### Umiejętność: Strzał Piór — id 9018503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: The Windup — id 9018504
+##### Umiejętność: Zamachnięcie — id 9018504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +8 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9018502, 9018503 — brak danych lokalizacji)*
 
 #### Heishou Pack - Mao: Umbrastriker — id 91048
 
@@ -296,33 +338,39 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 75 (+2,59 za poziom)                                             |
 | Szybkość           | 3–5                                                              |
 | Progi oszołomienia | 70% / 25%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Podstęp                                                          |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pursuit — id 9018601
+##### Umiejętność: Pościg — id 9018601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Overwhelm — id 9018602
+##### Umiejętność: Przytłoczenie — id 9018602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Umbra Strike — id 9018603
+##### Umiejętność: Cios z Cienia — id 9018603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: The Windup — id 9018604
+##### Umiejętność: Zamachnięcie — id 9018604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +8 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9018502, 9018503 — brak danych lokalizacji)*
 
 ### Etap 9
 
@@ -338,33 +386,39 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 75 (+2,59 za poziom)                                             |
 | Szybkość           | 3–5                                                              |
 | Progi oszołomienia | 70% / 25%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Podstęp                                                          |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Startling Strike — id 9018501
+##### Umiejętność: Niespodziewane Uderzenie — id 9018501
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Restraint — id 9018502
+##### Umiejętność: Powstrzymanie — id 9018502
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Feather Strike — id 9018503
+##### Umiejętność: Strzał Piór — id 9018503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: The Windup — id 9018504
+##### Umiejętność: Zamachnięcie — id 9018504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +8 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9018502, 9018503 — brak danych lokalizacji)*
 
 #### Heishou Pack - Mao: Umbrastriker — id 91048
 
@@ -376,33 +430,39 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | HP                 | 75 (+2,59 za poziom)                                             |
 | Szybkość           | 3–5                                                              |
 | Progi oszołomienia | 70% / 25%                                                        |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Podstęp                                                          |
 | Odporności         | Cięcie ×1,25; Obuch ×0,75; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
-##### Umiejętność: Pursuit — id 9018601
+##### Umiejętność: Pościg — id 9018601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Overwhelm — id 9018602
+##### Umiejętność: Przytłoczenie — id 9018602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +5 |      2 |    1 |
 
-##### Umiejętność: Umbra Strike — id 9018603
+##### Umiejętność: Cios z Cienia — id 9018603
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Obżar. | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: The Windup — id 9018604
+##### Umiejętność: Zamachnięcie — id 9018604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          3 |         +8 |      1 |    1 |
+
+**Pasywki:** *(wpisy id: 9018502, 9018503 — brak danych lokalizacji)*
 
 ### Etap 10
 
@@ -414,13 +474,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 75).*
 
-| Parametr    | Wartość                |
-| ----------- | ---------------------- |
-| Poziom      | —                      |
-| HP          | 209 (+26,67 za poziom) |
-| Sloty akcji | start: 5 · maks. 5     |
-| Odporności  | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 209 (+26,67 za poziom)                         |
+| Sloty akcji  | start: 5 · maks. 5                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Podstęp                                        |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%
+**Efekt Paniki:** Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -437,31 +501,31 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Startling Strike — id 112601
+##### Umiejętność: Niespodziewane Uderzenie — id 112601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Perforating Kill — id 112602
+##### Umiejętność: Zabójcze Wiercenie — id 112602
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Etching Strike — id 112603
+##### Umiejętność: Uderzenie Grawerem — id 112603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Cursewrit Butcherblade - Blinkstep — id 112604
+##### Umiejętność: Klątwna Klinga Rzeźnika - Skok w Mig — id 112604
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Cursewrit — id 112605
+##### Umiejętność: Klętwopis — id 112605
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -476,13 +540,17 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×4 (poz. 50) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | —                     |
-| HP          | 74 (+2,54 za poziom)  |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 74 (+2,54 za poziom)                           |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -10 · Panika przy SP -35 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -539,12 +607,16 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×3 (poz. 50) · też jako wsparcie.*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 74 (+2,54 za poziom)  |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 74 (+2,54 za poziom)                           |
+| Poczytalność | Niskie Morale przy SP -10 · Panika przy SP -35 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -601,12 +673,18 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Wystąpienia: ×1 (poz. 60).*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 732 (+50,51 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 732 (+50,51 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -10 · Panika przy SP -35 |
+| Typ paniki   | Odwet                                          |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Mocy Ataku i 3 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
+(1 Wzrost Obrażeń za każde 3% Maks. PŻ)
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Mocy Ataku i 6 Spadek Poziomu Obrony oraz zyskaj Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze
+(1 Wzrost Obrażeń za każde 3% Maks. PŻ)
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -623,55 +701,55 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 
 *Opis:* Część
 
-##### Umiejętność: Punching — id 809901
+##### Umiejętność: Uderzenia Pięścią — id 809901
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Kicking — id 809902
+##### Umiejętność: Kopniak — id 809902
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          3 |         +2 |      3 |    1 |
 
-##### Umiejętność: Payback — id 809903
+##### Umiejętność: Odwet — id 809903
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | obrona: kontra |         12 |         −4 |      2 |    1 |
 
-##### Umiejętność: Watch Your Back! — id 809906
+##### Umiejętność: Uważaj na Kark! — id 809906
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Obuch |         10 |         +6 |      2 |    1 |
 
-##### Umiejętność: Assemble — id 809907
+##### Umiejętność: Zbiórka — id 809907
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          6 |         +8 |      1 |    1 |
 
-##### Umiejętność: No More Tests — id 112701
+##### Umiejętność: Testy Zakończone — id 112701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Obuch |          5 |         +7 |      2 |    3 |
 
-##### Umiejętność: Promised Suffering — id 112702
+##### Umiejętność: Obiecane Cierpienie — id 112702
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Obuch |          4 |         +4 |      3 |    1 |
 
-##### Umiejętność: Enough Games — id 112703
+##### Umiejętność: Zabawa się Skończyła — id 112703
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: blok |          8 |         +8 |      1 |    1 |
 
-##### Umiejętność: COMPLETE AND TOTAL EXTERMINATION!!! — id 112704
+##### Umiejętność: WSZYSCY — DO EKSTERMINACJI!!! — id 112704
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -694,12 +772,16 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 
 *Wystąpienia: ×1 (poz. 55).*
 
-| Parametr   | Wartość               |
-| ---------- | --------------------- |
-| Poziom     | —                     |
-| HP         | 100 (+3,45 za poziom) |
-| Odporności | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 100 (+3,45 za poziom)                          |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Wzburzenie                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -746,6 +828,8 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | obrona: kontra |          2 |         +2 |      2 |    1 |
 
+**Pasywki:** *(wpisy id: 9102001, 9102002, 9102003, 9102004 — brak danych lokalizacji)*
+
 ### Etap 11
 
 - **Fala 1:** The City's Sweeper A ×2 (poz. 60); The City's Sweeper B ×2 (poz. 60); The City's Sweeper C ×1 (poz. 60); The City's Sweeper D ×2 (poz. 60); The City's Sweeper A ×1 (poz. 60) (wsparcie); The City's Sweeper B ×1 (poz. 60) (wsparcie); The City's Sweeper C ×1 (poz. 60) (wsparcie); The City's Sweeper D ×1 (poz. 60) (wsparcie); The City's Sweeper A ×1 (poz. 60) (wsparcie); The City's Sweeper C ×1 (poz. 60) (wsparcie); The City's Sweeper D ×1 (poz. 60) (wsparcie)
@@ -763,23 +847,27 @@ otrzymuje o 20% mniej obrażeń od [Podpalenie], [Krwawienie], [Wstrząs], [Rozd
 | Szybkość           | 2–6                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 25%                                                              |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Noc w Zaułkach                                                   |
 | Odporności         | Kłucie ×1,5; Obżar. ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 *Opis:* Główne Ciało
 
-##### Umiejętność: Extract Fuel (×3) — id 9018701
+##### Umiejętność: Wydobycie Paliwa (×3) — id 9018701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sweep the Backstreets (×2) — id 9018702
+##### Umiejętność: Zamiatanie Zaułków (×2) — id 9018702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Trash Disposal — id 9018703
+##### Umiejętność: Wywóz Śmieci — id 9018703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -807,17 +895,21 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 | Szybkość           | 2–6                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 25%                                                              |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Noc w Zaułkach                                                   |
 | Odporności         | Kłucie ×1,5; Obżar. ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 *Opis:* Główne Ciało
 
-##### Umiejętność: Extract Fuel (×3) — id 9018701
+##### Umiejętność: Wydobycie Paliwa (×3) — id 9018701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sweep the Backstreets (×2) — id 9018702
+##### Umiejętność: Zamiatanie Zaułków (×2) — id 9018702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -829,13 +921,13 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: For the Family — id 9018705
+##### Umiejętność: Dla Rodziny — id 9018705
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Night in the Backstreets — id 9018706
+##### Umiejętność: Noc w Zaułkach — id 9018706
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -857,17 +949,21 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 | Szybkość           | 2–6                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 25%                                                              |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Noc w Zaułkach                                                   |
 | Odporności         | Kłucie ×1,5; Obżar. ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 *Opis:* Główne Ciało
 
-##### Umiejętność: Extract Fuel (×3) — id 9018701
+##### Umiejętność: Wydobycie Paliwa (×3) — id 9018701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sweep the Backstreets (×2) — id 9018702
+##### Umiejętność: Zamiatanie Zaułków (×2) — id 9018702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -879,13 +975,13 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: For the Family — id 9018705
+##### Umiejętność: Dla Rodziny — id 9018705
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | obrona: blok |         10 |         +5 |      1 |    1 |
 
-##### Umiejętność: Night in the Backstreets — id 9018706
+##### Umiejętność: Noc w Zaułkach — id 9018706
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -907,23 +1003,27 @@ wszystkie jednostki biorące udział w tej walce nie mogą się wycofać
 | Szybkość           | 2–6                                                              |
 | Sloty akcji        | start: 1/2/2 · maks. 2                                           |
 | Progi oszołomienia | 25%                                                              |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                   |
+| Typ paniki         | Noc w Zaułkach                                                   |
 | Odporności         | Kłucie ×1,5; Obżar. ×1,25; Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 [Wzrost Mocy Ataku], 1 [Wzrost Leczenia HP] i 1 [Wrażliwość]
+**Efekt Paniki:** Początek Tury: zyskaj 2 [Wzrost Mocy Ataku], 2 [Wzrost Leczenia HP] i 1 [Wrażliwość]
 *Opis:* Główne Ciało
 
-##### Umiejętność: Extract Fuel (×3) — id 9018701
+##### Umiejętność: Wydobycie Paliwa (×3) — id 9018701
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Sweep the Backstreets (×2) — id 9018702
+##### Umiejętność: Zamiatanie Zaułków (×2) — id 9018702
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Trash Disposal — id 9018703
+##### Umiejętność: Wywóz Śmieci — id 9018703
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |

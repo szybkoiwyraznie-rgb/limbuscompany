@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=816101].levelList[level=1].name": {
-      "pl": "Impaling",
+      "pl": "Kolejne Sztychy",
       "kr_sha256": "5b53854fb5b3682cf34d69e6d28cda305f8f4ff81d507af8fef6eb82b1c6a8be",
       "en_sha256": "4c2c7a83c60e6e40e9425e7a901ffd763a50aa822ea92069dbff3e82b5bb20f8",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=816102].levelList[level=1].name": {
-      "pl": "Hewing",
+      "pl": "Rąbanie",
       "kr_sha256": "623accbcaf509b481c5086bd7f76dc4c5cef57c6a9c612a1c09c8b993046a6f0",
       "en_sha256": "6bd5d38a434e6533c7fe371f616349b3d90670f2885ea5cc9082686771911365",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=816103].levelList[level=1].name": {
-      "pl": "Erupting Wrath",
+      "pl": "Erupcja Wściekłości",
       "kr_sha256": "c960be53f1b8e64b8197326d0d9767d326efc6e8908d9887f057d6598802dcfe",
       "en_sha256": "261acb09380e6ca90594b8037c7acb3549fcbe126d504e9c865e74da905d758b",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=816104].levelList[level=1].name": {
-      "pl": "Counter",
+      "pl": "Kontra",
       "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
       "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=816601].levelList[level=1].name": {
-      "pl": "Brush Wounds",
+      "pl": "Przeszarpnięcie Ran",
       "kr_sha256": "b20806e19382ccc584bf967557b80d438a65264e43c99d8eeaac7b0fa0ffea33",
       "en_sha256": "bdb3627fd7b8cf9c903b22b3957824fe4163eaf3bf8c5cd05770de8cda7da5e8",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=816602].levelList[level=1].name": {
-      "pl": "Broken Heart",
+      "pl": "Rozdarte Serce",
       "kr_sha256": "53554798d48b8edb7968e9be5b2eb923c3ac3eb958e4f3dffc107347172a2da0",
       "en_sha256": "fbca576fc6411ca56ab453fc7eb408197a01356004d109b1b6c6d3bc6a40790f",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=816603].levelList[level=1].name": {
-      "pl": "Ruination, Wailing, and Lamentation",
+      "pl": "Rozpad, Jęk i Krzyk",
       "kr_sha256": "5a2bcbb21e8e93bc60912be2eb5ce1e57ce28b23af99499ecd039aed58edc67f",
       "en_sha256": "5af8f598f471b3e35f352fcb427d970888f49d3efde2050098545d0727515164",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=816604].levelList[level=1].name": {
-      "pl": "Undeserving of Speech",
+      "pl": "Nie Powinno się Wam Mówić Ludzką Mową",
       "kr_sha256": "26c345847b327defbe0307b9cdb8be1fd71679774bb5b40b499c2a4743978dbc",
       "en_sha256": "0e14924082d6902e38ca1d66ab4354e0747f28e506c5905cdc6f7cccb08b26b7",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=816605].levelList[level=1].name": {
-      "pl": "Bodysack",
+      "pl": "Worek z Zwłok",
       "kr_sha256": "b53b2ec5cfdbb83d5b8314889650469b9356ce84718fdf861301883082de5d29",
       "en_sha256": "26d039dcbeaa34e462f9c4fe540c10ccabadb52a64f0468d687cc009617eeaeb",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=816606].levelList[level=1].name": {
-      "pl": "Lunacy of the Frenzied Wolf",
+      "pl": "Szał Obłąkanego Wilka",
       "kr_sha256": "6b38de3ea80d8dacc073c572751334a99d2030f394ceebcd550f70aa27cd85b3",
       "en_sha256": "686878dbea389c8f42c97f1f21c69e5d835facde99d358b9be2f981aba77a89a",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=816607].levelList[level=1].name": {
-      "pl": "Reflexive Revenge",
+      "pl": "Odruchowa Zemsta",
       "kr_sha256": "38e23e13a7b658e89995ef8bbf7f589a378b82b7073c748df83091bd55b4fb4a",
       "en_sha256": "02abce35f582f357d007ab3490cb6a1fc5a05335d5017a2db1e8b09f3ff652ec",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=817001].levelList[level=1].name": {
-      "pl": "I'll Remo...",
+      "pl": "Usun...ię...",
       "kr_sha256": "c0ae9a36a648c11e23b4cf4e67f3265bd6d1e13e72d4af631e5fa9ab91eeee8d",
       "en_sha256": "d0700e0d11d17cf5a0b7cc2cb324ffcd895d141fe2925718f136c8aece2c3b94",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=817002].levelList[level=1].name": {
-      "pl": "... Bastard",
+      "pl": "...łamań...",
       "kr_sha256": "ddee67f09073360f6f5833ffddc6fc9b02baf6a2ab4672ff2de46c91d0d06361",
       "en_sha256": "5939fe2387493872e6cf85f3be59899ff1c15ca5a44c5d58b27b3277cfc09f4b",
       "origin": "ai"
@@ -415,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=817003].levelList[level=1].name": {
-      "pl": "This is My...",
+      "pl": "To Mój...",
       "kr_sha256": "f3655165af3aeafad0cf84d8aeb229fc406458cf4f7117c809e01e6493b7e74a",
       "en_sha256": "cc3688b5fe59615f3d612be0a44c041fe65e1d32d978979bf211c256e49cfa5a",
       "origin": "ai"
@@ -439,7 +439,7 @@
       "origin": "ai"
     },
     "dataList[id=817004].levelList[level=1].name": {
-      "pl": "Get...",
+      "pl": "Wyn...",
       "kr_sha256": "bb6e3d05ae6ed0978f8e1929c239dbeaff26240223195cc67221353950194227",
       "en_sha256": "3b33c142132bb405a1e62ff82ef57b066dd121b676d7f3c03384e9e79b0ad671",
       "origin": "ai"
@@ -481,7 +481,7 @@
       "origin": "ai"
     },
     "dataList[id=817005].levelList[level=1].name": {
-      "pl": "Back...!!",
+      "pl": "Oddaj...!!",
       "kr_sha256": "a75843bf32e2c08861caf78c60731f2f9ad198f67442180738190888c3270ae5",
       "en_sha256": "adcf87c6f6aab2caa44dd1e28106953309739f2a21cee41469da9c3db4aa856c",
       "origin": "ai"
@@ -505,7 +505,7 @@
       "origin": "ai"
     },
     "dataList[id=817006].levelList[level=1].name": {
-      "pl": "ttle...",
+      "pl": "...go...",
       "kr_sha256": "6963f7d8a881377de015a8931731024ac273eca9a44b82d605355a3e6fb2acf7",
       "en_sha256": "dc16b583a686a0d360beb3fe117ab0f6975b48acccc1b46c19b828d35bc2a1f5",
       "origin": "ai"
@@ -517,7 +517,7 @@
       "origin": "ai"
     },
     "dataList[id=817007].levelList[level=1].name": {
-      "pl": "Gua...",
+      "pl": "Gar...",
       "kr_sha256": "69fb09318768d81c89b67516161a5d1f4cb402a0167e53ece0f36639667a353b",
       "en_sha256": "6b062580f7ef019ffbb3c13550c9387dba111f9cdfd352957e12082b9cd29f2e",
       "origin": "ai"
@@ -529,7 +529,7 @@
       "origin": "ai"
     },
     "dataList[id=817008].levelList[level=1].name": {
-      "pl": "... de",
+      "pl": "...i...",
       "kr_sha256": "52376ed17790a07a0fdc2c7d2c3cebca86a7e151ba3572cfd38b158042c28118",
       "en_sha256": "287489f209c63743a2b6088f0422199d67523ca93c08be4247d64d220a62e882",
       "origin": "ai"
@@ -571,7 +571,7 @@
       "origin": "ai"
     },
     "dataList[id=817009].levelList[level=1].name": {
-      "pl": "This Is...!",
+      "pl": "To Jest...!",
       "kr_sha256": "f5c0eab3a28caf0d5c8d2f157d7742b9f5747d419a7325cae4ef3deb30b52f94",
       "en_sha256": "51da5718364ec2fd7c4b9c8806982addb31151caf76de43759ba1930ba3c1cd1",
       "origin": "ai"
@@ -601,7 +601,7 @@
       "origin": "ai"
     },
     "dataList[id=817101].levelList[level=1].name": {
-      "pl": "Mark Interloper",
+      "pl": "Oznaczenie Intruza",
       "kr_sha256": "aba2a240d052b84e3890dc4c6bf5c09d9363b466039ff6621e428fefa69f158b",
       "en_sha256": "e859b818d6186e78cb59569ebc4fcd8d0a9be906411e9c343d0fcc1691d4a0a0",
       "origin": "ai"
@@ -637,7 +637,7 @@
       "origin": "ai"
     },
     "dataList[id=817102].levelList[level=1].name": {
-      "pl": "Receiving Arts 1: The Hunt",
+      "pl": "Sztuka Gościny 1: Polowanie",
       "kr_sha256": "903d7620d043b6e4fed58eec594b38d5592ff9589a3e9eccd46ed658deffd807",
       "en_sha256": "b658a8488ab10cccaea51a896df6e7cb8e443cb00536c4cc662ee99e3bdfe790",
       "origin": "ai"
@@ -673,7 +673,7 @@
       "origin": "ai"
     },
     "dataList[id=817103].levelList[level=1].name": {
-      "pl": "Reverse Receiving Arts 1: The Hunt",
+      "pl": "Sztuki Powitania Odwrócone 1: Polowanie",
       "kr_sha256": "eea3cfbf46f654dc13a58a55d774cd38e162929da61966e0086f8e0154e5daf3",
       "en_sha256": "8a1f729e330f9c8c18bb87fbc40be61d2aebd60f9cf829aeb09c5e76fcaffc6e",
       "origin": "ai"
@@ -709,7 +709,7 @@
       "origin": "ai"
     },
     "dataList[id=817104].levelList[level=1].name": {
-      "pl": "Overwhelm Interloper",
+      "pl": "Przygnieć Intruza",
       "kr_sha256": "5ff18975f2a2a5d53ec4daa8e989af36ed1d543906f0eb4e1943bf9027634296",
       "en_sha256": "292c3d2f0756f4fcb7d82794d8c208db3febac527794153249ffce8805033a12",
       "origin": "ai"
@@ -733,7 +733,7 @@
       "origin": "ai"
     },
     "dataList[id=817105].levelList[level=1].name": {
-      "pl": "Receiving Arts 2: Collapse",
+      "pl": "Sztuki Powitania 2: Rozpad",
       "kr_sha256": "abac49ff344efb3cbec95f90ed09ddaa74c058b2556e3220593d11bbb985acab",
       "en_sha256": "411e1fdf706ea2f7a769b53111ded689dfbe48860fa7d19cf1b97250e3dd3f12",
       "origin": "ai"
@@ -781,7 +781,7 @@
       "origin": "ai"
     },
     "dataList[id=817106].levelList[level=1].name": {
-      "pl": "Receiving Arts 7: Capture",
+      "pl": "Sztuka Gościny 7: Kapstwo",
       "kr_sha256": "8bbd94a2bd5c505e8eceee2d36c2cbb12cdd70e5e817d7516940f136f0206636",
       "en_sha256": "8cdba7c0679550b313ea27dd7ca8e0d29ae455c71b9aab187fa21c6a65842501",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=817107].levelList[level=1].name": {
-      "pl": "Interloper Apprehension",
+      "pl": "Pojmanie Intruza",
       "kr_sha256": "302fe4126c1b733094b92106068b11340bb19c3a649b0cfb419b8de577b45cad",
       "en_sha256": "792a378e76f09d395b5169cd9c81d1904511c079bd22857544ec3ac7c5dd78c5",
       "origin": "ai"
@@ -865,7 +865,7 @@
       "origin": "ai"
     },
     "dataList[id=817108].levelList[level=1].name": {
-      "pl": "Receiving Arts 3: Binding",
+      "pl": "Sztuki Powitania 3: Skucia",
       "kr_sha256": "ecb5e09106288e3ceca0c34b683c885b988bf75bcae08d530a9a4b7babaa4223",
       "en_sha256": "37c073d4cfca03af8f2c86020e6db2a37b35a01fc48a9215495c63d29324b794",
       "origin": "ai"
@@ -877,7 +877,7 @@
       "origin": "ai"
     },
     "dataList[id=817109].levelList[level=1].name": {
-      "pl": "Evade",
+      "pl": "Unik",
       "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
       "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
       "origin": "ai"
@@ -895,7 +895,7 @@
       "origin": "ai"
     },
     "dataList[id=817110].levelList[level=1].name": {
-      "pl": "Receiving Arts 9: Dissolution",
+      "pl": "Sztuki Powitania 9: Rozkruszenie",
       "kr_sha256": "831cdbda4ae81d3cc935e8e5adbf92321a660d0c092755f79e96f566eb3760e4",
       "en_sha256": "b97924ca9e756c375bc7783eb6e042cae4ef4dfd95c0df3ee4be3df0833e74ef",
       "origin": "ai"
@@ -907,7 +907,7 @@
       "origin": "ai"
     },
     "dataList[id=817201].levelList[level=1].name": {
-      "pl": "Fused Blade of Ruined Mirror Worlds",
+      "pl": "Klinga Zespolona z Pękniętych Światów Luster",
       "kr_sha256": "46c3024f2f00cd19df273ffca1e9140b8735a487336a191187474751a3a67109",
       "en_sha256": "76968d18bc47eb91abb4a3cb1c00d2858181e4c66ca371765924e21d53efdd13",
       "origin": "ai"
@@ -937,7 +937,7 @@
       "origin": "ai"
     },
     "dataList[id=817202].levelList[level=1].name": {
-      "pl": "Smackdown",
+      "pl": "Roztrzaskanie",
       "kr_sha256": "8585ce52ee1a4c51fec409d539ec62ea14d1c4e2baf5dd4d23ad97da74874794",
       "en_sha256": "d677cbad6cb2bced3cb2a3121e21deb9e5d3247690c2c2874aa7c63fa88ebccd",
       "origin": "ai"
@@ -967,7 +967,7 @@
       "origin": "ai"
     },
     "dataList[id=817203].levelList[level=1].name": {
-      "pl": "Resolving Grudges",
+      "pl": "Rozładowanie Uraz",
       "kr_sha256": "fb02f7b55a30060dbdce69c7fa99f6055cad8458d666e89a07f5428177bfc33e",
       "en_sha256": "12182f21ec590faf2b88e2e9ba7dda49b91f52612432aa7f84b270ce05f9cbfb",
       "origin": "ai"
@@ -991,7 +991,7 @@
       "origin": "ai"
     },
     "dataList[id=817204].levelList[level=1].name": {
-      "pl": "The Nightmarish Vengeance, Returned",
+      "pl": "Powrót Koszmarnej Zemsty",
       "kr_sha256": "80372df62356808295655d60cd36bc043bf80f2adbf1e2f66abf69ad6642dc24",
       "en_sha256": "975d3740b40e90df50ce5d8fde1b977390f949556f845174f0f4ada404c6856e",
       "origin": "ai"
@@ -1015,7 +1015,7 @@
       "origin": "ai"
     },
     "dataList[id=817205].levelList[level=1].name": {
-      "pl": "Ride for Death, Dullahan",
+      "pl": "Galopem ku Śmierci, Dullahanie",
       "kr_sha256": "b012237af4a26860f6a96081feb8b589dd30157aa357c2b560a8767d52651a49",
       "en_sha256": "26e9f359f49ff36c9f7b989714941a038903902c7ba43d2faa861381521fd8ff",
       "origin": "ai"
@@ -1027,7 +1027,7 @@
       "origin": "ai"
     },
     "dataList[id=817206].levelList[level=1].name": {
-      "pl": "Wild Hunt of Desolation",
+      "pl": "Wild Hunt Rozpadu",
       "kr_sha256": "de1c6d1a4ddf4a974e2a25fa6868db72bcbc84706d20148e998bb99aebdcca0f",
       "en_sha256": "03d31755854de51536e8bf9c8c6fba2d09096ee0671d5f8374f72f034fe14a64",
       "origin": "ai"
@@ -1039,7 +1039,7 @@
       "origin": "ai"
     },
     "dataList[id=817207].levelList[level=1].name": {
-      "pl": "Withstand",
+      "pl": "Wytrzymanie",
       "kr_sha256": "b29db516a52c2feae455f10598975b49d391b936425e63705605d07d5d5ab1ea",
       "en_sha256": "05cd79e4a721ea509b256cae786342c2a3a2561e77d31a77d24a3d76b2115f8a",
       "origin": "ai"
@@ -1063,7 +1063,7 @@
       "origin": "ai"
     },
     "dataList[id=817208].levelList[level=1].name": {
-      "pl": "Glass Shard of Wailing Sorrow",
+      "pl": "Szklany Odłamek Jęków Smutku",
       "kr_sha256": "aa8c2403ce2fa6cf3c826df94374d24d0ef2ec572c4f81cacf2d33504b89a46c",
       "en_sha256": "8bb7242b582ba706bc0a8a04a71ffe64063e40c42c322538946aeda2c093b031",
       "origin": "ai"
@@ -1075,7 +1075,7 @@
       "origin": "ai"
     },
     "dataList[id=817301].levelList[level=1].name": {
-      "pl": "Greatsword Rend",
+      "pl": "Cięcie Dwuręcznym",
       "kr_sha256": "65b6fb3f2ba6d1d482d815c87ecf140aea6a8751bb2d90f706679ebdefe4a472",
       "en_sha256": "aeb9f0cf44d17d9be6e6026f9cc3ced13a4fc418e0128338e51acfb60a82c546",
       "origin": "ai"
@@ -1105,7 +1105,7 @@
       "origin": "ai"
     },
     "dataList[id=817302].levelList[level=1].name": {
-      "pl": "Smackdown",
+      "pl": "Roztrzaskanie",
       "kr_sha256": "8585ce52ee1a4c51fec409d539ec62ea14d1c4e2baf5dd4d23ad97da74874794",
       "en_sha256": "d677cbad6cb2bced3cb2a3121e21deb9e5d3247690c2c2874aa7c63fa88ebccd",
       "origin": "ai"
@@ -1117,7 +1117,7 @@
       "origin": "ai"
     },
     "dataList[id=817303].levelList[level=1].name": {
-      "pl": "Heed My Call, Wuthering Heights",
+      "pl": "Wysuchaj Memu Wołaniu, Wuthering Heights",
       "kr_sha256": "efd8f7875f7277e02974f07a04c405ec04f89d481a9ac26346aeb3b1bbf6c6a7",
       "en_sha256": "c334f132b8a16f96f7e287312b65fd3a605d67cb158ec00e3a5278dcbf9865b8",
       "origin": "ai"
@@ -1129,7 +1129,7 @@
       "origin": "ai"
     },
     "dataList[id=817304].levelList[level=1].name": {
-      "pl": "You’ll Get Shoved In This Coffin Too",
+      "pl": "Ciebie Też Wepchną do tej Trumny",
       "kr_sha256": "ab59e57f77be94f4a369681cff83c0abfbb5bfea54bad846f75d8885f009aafe",
       "en_sha256": "ae8286de1acbf8cb629cffb0ca06752a847e77a4d93c3df97e88407dd137a6f2",
       "origin": "ai"
@@ -1147,7 +1147,7 @@
       "origin": "ai"
     },
     "dataList[id=817305].levelList[level=1].name": {
-      "pl": "Behead Heathcliffs",
+      "pl": "Ścinam Gardła Heathcliffom",
       "kr_sha256": "23b35c7fd89c2613679bb06c2a3f0fb4429511c7a3369a4a539dda8299bd3863",
       "en_sha256": "1aa614d1652a753510ff41bb66f22f63569751f72c740680cadf8b2f4f12971c",
       "origin": "ai"
@@ -1165,7 +1165,7 @@
       "origin": "ai"
     },
     "dataList[id=817306].levelList[level=1].name": {
-      "pl": "Hollow Coffin Mace",
+      "pl": "Młot Pustej Trumny",
       "kr_sha256": "d84886f7241bc0d7615460f5b4b84dfe287c18c1b75e30d3ff7d47c06bee6088",
       "en_sha256": "c93de98976fe36c28d9eba5fb7c2d01be8027f3382dddee5816825bdd113ce27",
       "origin": "ai"
@@ -1183,7 +1183,7 @@
       "origin": "ai"
     },
     "dataList[id=817307].levelList[level=1].name": {
-      "pl": "Ride for Death, Dullahan",
+      "pl": "Galopem ku Śmierci, Dullahanie",
       "kr_sha256": "b012237af4a26860f6a96081feb8b589dd30157aa357c2b560a8767d52651a49",
       "en_sha256": "26e9f359f49ff36c9f7b989714941a038903902c7ba43d2faa861381521fd8ff",
       "origin": "ai"
@@ -1195,7 +1195,7 @@
       "origin": "ai"
     },
     "dataList[id=817308].levelList[level=1].name": {
-      "pl": "Withstand",
+      "pl": "Wytrzymanie",
       "kr_sha256": "b29db516a52c2feae455f10598975b49d391b936425e63705605d07d5d5ab1ea",
       "en_sha256": "05cd79e4a721ea509b256cae786342c2a3a2561e77d31a77d24a3d76b2115f8a",
       "origin": "ai"
@@ -1225,7 +1225,7 @@
       "origin": "ai"
     },
     "dataList[id=817309].levelList[level=1].name": {
-      "pl": "Sorrow and Lament In The Erlking's Wake.",
+      "pl": "Za Królem Olch idą Smutek i Krzyk.",
       "kr_sha256": "13220076ba6c2ca2a61abbdde6dea91995c78a636e43969383787c45b8124a4c",
       "en_sha256": "f68581ae24a8201624dbf675934e1f15c866eed69efa0e8985263e71908bc31a",
       "origin": "ai"
@@ -1243,13 +1243,13 @@
       "origin": "ai"
     },
     "dataList[id=817310].levelList[level=1].name": {
-      "pl": "Every Heathcliff Must Die...",
+      "pl": "Każdy Heathcliff Musi Umrzeć...",
       "kr_sha256": "d2f22d9065823e8ce55359c422ae9cab9374901f2a5dea523e1325044afcead4",
       "en_sha256": "b0f452e03f09d3cd2360b9ecc687a7859c2714705fe29d0638984f292b8d35c0",
       "origin": "ai"
     },
     "dataList[id=817401].levelList[level=1].name": {
-      "pl": "It's All Pointless",
+      "pl": "Nic To Nie Daje",
       "kr_sha256": "aa119b56db25fa2d9f51e9e8554899d9819e0ef065a924f1bdd6a50e790257f4",
       "en_sha256": "dad2e5611dd1015f5b4ef5cf71b658622c984bcdea045e806303869c0babe59a",
       "origin": "ai"
@@ -1261,7 +1261,7 @@
       "origin": "ai"
     },
     "dataList[id=817402].levelList[level=1].name": {
-      "pl": "For a World Without His Suffering",
+      "pl": "Dla Świata Bez Jego Cierpienia",
       "kr_sha256": "7252efa870d053b60c9dd63c10aa16bade8cc71be1ecb005c2bc136b9593e622",
       "en_sha256": "7976ff32e8cdbb76594d2e8139fc7eb6729bd3e1f4bebf25f6483c17ac04e8ff",
       "origin": "ai"
@@ -1279,7 +1279,7 @@
       "origin": "ai"
     },
     "dataList[id=817403].levelList[level=1].name": {
-      "pl": "Every Catherine Must Die",
+      "pl": "Każda Catherine Musi Umrzeć",
       "kr_sha256": "35d91e7dc67528be7394a70b226dfe7188cad3a96a7011ff68aaacb5e79bb98e",
       "en_sha256": "97f5e769b7ad1795bfdb7db059280961aa05e10634caa2d600fd7039ab52ff46",
       "origin": "ai"
@@ -1303,13 +1303,13 @@
       "origin": "ai"
     },
     "dataList[id=817404].levelList[level=1].name": {
-      "pl": "Breaking Heart",
+      "pl": "Pękające Serce",
       "kr_sha256": "25204303c8063320b5426173fbf5d714ee3a2e08272b80fd3b4ece764eb0e027",
       "en_sha256": "904a1d658e57fefa131a66e68e42edbfac46854308cb8b40771e40288516d1ff",
       "origin": "ai"
     },
     "dataList[id=819201].levelList[level=1].name": {
-      "pl": "Tears of Sorrow",
+      "pl": "Łzy Rozpaczy",
       "kr_sha256": "25f80bd222eb2e796954b21f7c254197e5ad5359999183e1f4691547773fc792",
       "en_sha256": "ca048986be591c3416c569c58d695d5c8e6953ad8714082cdddd583a9aecc886",
       "origin": "ai"
@@ -1327,7 +1327,7 @@
       "origin": "ai"
     },
     "dataList[id=819202].levelList[level=1].name": {
-      "pl": "Clutch of Tragedy",
+      "pl": "Uścisk Tragizmu",
       "kr_sha256": "932b2ade252ebe57dbc6f3b57cfcf075f6bf7ddf63fa68aabdf5aee87878bcfa",
       "en_sha256": "21bc33e5f4509c7e58c73e3ac4465e687c432f245cd9ed411e42fd759f05a4aa",
       "origin": "ai"
@@ -1345,7 +1345,7 @@
       "origin": "ai"
     },
     "dataList[id=819203].levelList[level=1].name": {
-      "pl": "Clutch of Despair",
+      "pl": "Uścisk Rozpaczy",
       "kr_sha256": "29a43ecb07423e826ac4119455ed09deb8a731a29dc27fffea70f988b6425303",
       "en_sha256": "71a21ba4cd0dbdee675cfacb353d6b2b77ac2144b4df4ebbcc79396d8eff9258",
       "origin": "ai"
@@ -1357,7 +1357,7 @@
       "origin": "ai"
     },
     "dataList[id=819204].levelList[level=1].name": {
-      "pl": "Meaningless Writhing",
+      "pl": "Bezsensowne Miętołenie",
       "kr_sha256": "606794fd1a8584e5b6a9cc5479551bee73729f2d852c98a68dc9d1af1c02efaf",
       "en_sha256": "a653819ab503f194892491e71d74ddfd6789e48d9d9c5f281c70a0b803aac93d",
       "origin": "ai"
@@ -1375,13 +1375,13 @@
       "origin": "ai"
     },
     "dataList[id=819205].levelList[level=1].name": {
-      "pl": "Misery is All That Remains...",
+      "pl": "Zostaje już tylko Nędza...",
       "kr_sha256": "c8cbfd26fbee241a1297ceb77ed702946bd2291343c205312a616f8cb86b5f2a",
       "en_sha256": "66dcf69bd5b4cadccbe3ddbfb24505bde03c7259ee575cf342d55dd27a3dcc68",
       "origin": "ai"
     },
     "dataList[id=819206].levelList[level=1].name": {
-      "pl": "Soul Out of Reach",
+      "pl": "Dusza poza Zasięgiem",
       "kr_sha256": "e0aaf683b50db561de0f45458e78164389fd47be3e9076b232161f7f9b7e4f16",
       "en_sha256": "6f89dba6bbd135568ed817e261b1a1aa646feee9e4ec94fc9d8911d7e69acaa2",
       "origin": "ai"

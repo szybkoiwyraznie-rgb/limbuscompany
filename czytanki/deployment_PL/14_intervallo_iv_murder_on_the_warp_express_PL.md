@@ -19,11 +19,15 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -35,13 +39,13 @@ Dla każdego etapu: fale przeciwników, a pod nimi pełne karty (statystyki, opi
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -67,11 +71,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -83,13 +91,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -119,11 +127,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -135,13 +147,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -167,11 +179,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -183,13 +199,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -219,11 +235,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -235,13 +255,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -267,11 +287,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -283,13 +307,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -315,11 +339,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -331,13 +359,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -367,11 +395,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -383,13 +415,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -415,11 +447,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -431,13 +467,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -463,11 +499,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -479,13 +519,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -511,17 +551,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -533,7 +574,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -562,17 +603,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -584,7 +626,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -617,17 +659,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -639,7 +682,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -668,17 +711,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -690,7 +734,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -719,11 +763,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -735,13 +783,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -767,11 +815,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -783,13 +835,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -815,11 +867,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -831,13 +887,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -863,17 +919,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -885,7 +942,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -918,17 +975,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -940,7 +998,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -969,17 +1027,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -991,7 +1050,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1020,17 +1079,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1042,7 +1102,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1071,11 +1131,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1087,13 +1151,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1119,11 +1183,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1135,13 +1203,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1167,11 +1235,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1183,13 +1255,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1219,17 +1291,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1241,7 +1314,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1270,17 +1343,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1292,7 +1366,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1321,17 +1395,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1343,7 +1418,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1372,11 +1447,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1388,13 +1467,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1420,17 +1499,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 0%                                                                                                   |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×1,2; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1442,7 +1522,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1473,11 +1553,15 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1489,13 +1573,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1521,11 +1605,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1537,13 +1625,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1573,17 +1661,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1595,7 +1684,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1624,17 +1713,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 3–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 0%                                                                                                   |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×1,2; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1646,7 +1736,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1677,11 +1767,15 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -1693,13 +1787,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1725,17 +1819,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1747,7 +1842,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1797,7 +1892,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -1809,13 +1904,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1858,13 +1953,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1876,7 +1971,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -1922,13 +2017,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -1940,7 +2035,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -1965,13 +2060,17 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Wystąpienia: ×1 (poz. 45) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 198 (+6,83 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 198 (+6,83 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -1988,7 +2087,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 9101801
+##### Umiejętność: Aktywacja Protezy — id 9101801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2000,13 +2099,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Charge — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9101804
+##### Umiejętność: Garda — id 9101804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2018,7 +2117,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Recharge — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2043,12 +2142,16 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Wystąpienia: ×1 (poz. 45).*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 417 (+28,76 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 417 (+28,76 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2065,49 +2168,49 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Grovel Before Me — id 835001
+##### Umiejętność: Kulaj przede Mną — id 835001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pathetic One — id 835002
+##### Umiejętność: Żałosny Stwór — id 835002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Go... Go Away...! — id 835003
+##### Umiejętność: Idź... Idź Stąd...! — id 835003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: The Parade's Prince — id 835004
+##### Umiejętność: Książę Parady — id 835004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Blood... Blood... Blood...! — id 835005
+##### Umiejętność: Krew... Krew... Krew...! — id 835005
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          8 |         +4 |      2 |    1 |
 
-##### Umiejętność: Leave Me Alone...! — id 835006
+##### Umiejętność: Zostawcie Mnie...! — id 835006
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: I Am... The Prince... of the Parade...! — id 835007
+##### Umiejętność: Jestem... Księciem... tej Parady...! — id 835007
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +1 |      4 |    6 |
 
-##### Umiejętność: I'm... Never... Going Back...! — id 835008
+##### Umiejętność: Nigdy... Nie Wracam...! — id 835008
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2161,13 +2264,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2179,7 +2282,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2203,13 +2306,17 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 198 (+6,83 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 198 (+6,83 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2226,7 +2333,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 9101801
+##### Umiejętność: Aktywacja Protezy — id 9101801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2238,13 +2345,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Charge — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9101804
+##### Umiejętność: Garda — id 9101804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2256,7 +2363,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Recharge — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2304,13 +2411,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2322,7 +2429,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2367,7 +2474,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2379,13 +2486,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2404,12 +2511,16 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 417 (+28,76 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 417 (+28,76 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2426,49 +2537,49 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Grovel Before Me — id 835001
+##### Umiejętność: Kulaj przede Mną — id 835001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pathetic One — id 835002
+##### Umiejętność: Żałosny Stwór — id 835002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Go... Go Away...! — id 835003
+##### Umiejętność: Idź... Idź Stąd...! — id 835003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: The Parade's Prince — id 835004
+##### Umiejętność: Książę Parady — id 835004
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      4 |    1 |
 
-##### Umiejętność: Blood... Blood... Blood...! — id 835005
+##### Umiejętność: Krew... Krew... Krew...! — id 835005
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          8 |         +4 |      2 |    1 |
 
-##### Umiejętność: Leave Me Alone...! — id 835006
+##### Umiejętność: Zostawcie Mnie...! — id 835006
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: I Am... The Prince... of the Parade...! — id 835007
+##### Umiejętność: Jestem... Księciem... tej Parady...! — id 835007
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +1 |      4 |    6 |
 
-##### Umiejętność: I'm... Never... Going Back...! — id 835008
+##### Umiejętność: Nigdy... Nie Wracam...! — id 835008
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2518,13 +2629,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2536,7 +2647,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 2% Maks. HP
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2561,13 +2672,17 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Wystąpienia: ×0 (poz. —).*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 3                     |
-| HP          | 198 (+6,83 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 3                                              |
+| HP           | 198 (+6,83 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -2584,7 +2699,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 9101801
+##### Umiejętność: Aktywacja Protezy — id 9101801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -2596,13 +2711,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Charge — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9101804
+##### Umiejętność: Garda — id 9101804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2614,7 +2729,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Recharge — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2662,13 +2777,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2680,7 +2795,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2726,7 +2841,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2738,13 +2853,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -2787,13 +2902,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2805,7 +2920,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2850,13 +2965,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2868,7 +2983,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2913,13 +3028,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -2931,7 +3046,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -2960,11 +3075,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -2976,13 +3095,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3008,11 +3127,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3024,13 +3147,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3056,11 +3179,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3072,13 +3199,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3104,17 +3231,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3126,7 +3254,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3155,17 +3283,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3177,7 +3306,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3206,17 +3335,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3228,7 +3358,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3257,17 +3387,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 3–4                                                                                                                         |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                                      |
 | Progi oszołomienia | 60% / 0%                                                                                                                    |
+| Typ paniki         | Wzburzenie                                                                                                                  |
 | Odporności         | Cięcie ×0,75; Obuch ×1,2; Żądza ×0,75 (Endured); Posępność ×1,25; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3279,7 +3410,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3310,11 +3441,15 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | Szybkość           | 1–5                                                                                                                                   |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                                                |
 | Progi oszołomienia | 50% / 0%                                                                                                                              |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                        |
+| Typ paniki         | Wzburzenie                                                                                                                            |
 | Odporności         | Obuch ×1,2; Żądza ×0,5 (Ineff.); Lenistwo ×0,75 (Endured); Posępność ×1,25; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Activate Prosthesis — id 9101801
+##### Umiejętność: Aktywacja Protezy — id 9101801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3326,13 +3461,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Charge — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9101804
+##### Umiejętność: Garda — id 9101804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3344,7 +3479,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Recharge — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3376,11 +3511,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 | Szybkość           | 1–5                                                                                                                                   |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                                                |
 | Progi oszołomienia | 50% / 0%                                                                                                                              |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                                                                        |
+| Typ paniki         | Wzburzenie                                                                                                                            |
 | Odporności         | Obuch ×1,2; Żądza ×0,5 (Ineff.); Lenistwo ×0,75 (Endured); Posępność ×1,25; Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Activate Prosthesis — id 9101801
+##### Umiejętność: Aktywacja Protezy — id 9101801
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3392,13 +3531,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Charge — id 9101803
+##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 9101803
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9101804
+##### Umiejętność: Garda — id 9101804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3410,7 +3549,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Recharge — id 9101806
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 9101806
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3448,11 +3587,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3464,13 +3607,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3496,11 +3639,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3512,13 +3659,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3548,11 +3695,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3564,13 +3715,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3596,11 +3747,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3612,13 +3767,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3648,11 +3803,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3664,13 +3823,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3696,11 +3855,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3712,13 +3875,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3744,11 +3907,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3760,13 +3927,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3796,11 +3963,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3812,13 +3983,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3844,11 +4015,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -3860,13 +4035,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3892,11 +4067,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -3908,13 +4087,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -3940,17 +4119,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -3962,7 +4142,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -3991,17 +4171,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4013,7 +4194,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4046,17 +4227,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4068,7 +4250,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4097,17 +4279,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4119,7 +4302,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4148,11 +4331,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -4164,13 +4351,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4196,11 +4383,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4212,13 +4403,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4244,11 +4435,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4260,13 +4455,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4292,17 +4487,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -4314,7 +4510,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4347,17 +4543,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4369,7 +4566,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4398,17 +4595,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -4420,7 +4618,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4449,17 +4647,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4471,7 +4670,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4500,11 +4699,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4516,13 +4719,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4548,11 +4751,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4564,13 +4771,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4596,11 +4803,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -4612,13 +4823,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4648,17 +4859,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4670,7 +4882,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4699,17 +4911,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -4721,7 +4934,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4750,17 +4963,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Rip — id 9014801
+##### Umiejętność: Przecięcie — id 9014801
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Stab Down — id 9014802
+##### Umiejętność: Bicie z Góry — id 9014802
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4772,7 +4986,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9014804
+##### Umiejętność: Garda — id 9014804
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -4801,11 +5015,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -4817,13 +5035,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4849,17 +5067,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 3–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 0%                                                                                                   |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×1,2; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4871,7 +5090,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4902,11 +5121,15 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | Szybkość           | 3–5                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014601
+##### Umiejętność: Zkrzepnięta Ręka — id 9014601
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -4918,13 +5141,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014603
+##### Umiejętność: Zbieranie Krwi — id 9014603
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Cięcie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014604
+##### Umiejętność: Kontra — id 9014604
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -4950,11 +5173,15 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -4966,13 +5193,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5002,17 +5229,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5024,7 +5252,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5053,17 +5281,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | Szybkość           | 3–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 0%                                                                                                   |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Cięcie ×0,75; Obuch ×1,2; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5075,7 +5304,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5106,11 +5335,15 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | Szybkość           | 1–3                                                                                          |
 | Sloty akcji        | start: 1/2/2/3 · maks. 3                                                                     |
 | Progi oszołomienia | 60% / 20% / 0%                                                                               |
+| Poczytalność       | Niskie Morale przy SP -20 · Panika przy SP -45                                               |
+| Typ paniki         | Wzburzenie                                                                                   |
 | Odporności         | Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj 1 Wzrost Obrażeń oraz 2 Wrażliwość
+**Efekt Paniki:** Początek Tury: zyskaj 2 Wzrost Obrażeń oraz 5 Wrażliwość
 *Opis:* Główne Ciało
 
-##### Umiejętność: Coagulated Arm — id 9014701
+##### Umiejętność: Zkrzepnięta Ręka — id 9014701
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5122,13 +5355,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | -------- | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Lenistwo | Obuch |          3 |         +8 |      1 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014703
+##### Umiejętność: Zbieranie Krwi — id 9014703
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014704
+##### Umiejętność: Kontra — id 9014704
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5154,17 +5387,18 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | Szybkość           | 2–4                                                                                                        |
 | Sloty akcji        | start: 1/2/3 · maks. 3                                                                                     |
 | Progi oszołomienia | 60% / 10% / 0%                                                                                             |
+| Typ paniki         | Wzburzenie                                                                                                 |
 | Odporności         | Kłucie ×0,75; Obuch ×1,5; Żądza ×0,75 (Endured); Zawiść ×1,5 (Weak); Szaleń. ×2 (Fatal); Trwoga ×2 (Fatal) |
 
 *Opis:* Główne Ciało
 
-##### Umiejętność: Thrust — id 9014901
+##### Umiejętność: Pchnięcie — id 9014901
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Cleave — id 9014902
+##### Umiejętność: Rozcięcie — id 9014902
 
 | Poz. | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | --------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -5176,7 +5410,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Cięcie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Evade — id 9014904
+##### Umiejętność: Unik — id 9014904
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5226,7 +5460,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Coagulated Arm — id 9014501
+##### Umiejętność: Zkrzepnięta Ręka — id 9014501
 
 | Poz. | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | -------- | ------ | ---------: | ---------: | -----: | ---: |
@@ -5238,13 +5472,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          3 |         +4 |      2 |    1 |
 
-##### Umiejętność: Collecting Blood — id 9014503
+##### Umiejętność: Zbieranie Krwi — id 9014503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Kłucie |          3 |         +3 |      3 |    1 |
 
-##### Umiejętność: Counter — id 9014504
+##### Umiejętność: Kontra — id 9014504
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5287,13 +5521,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 9015101
+##### Umiejętność: Aktywacja Protezy — id 9015101
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          3 |         +7 |      1 |    1 |
 
-##### Umiejętność: Harpoon Mark — id 9015102
+##### Umiejętność: Znak Harpuna — id 9015102
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5305,7 +5539,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 10% zadanych ob
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Gniew  | Cięcie |          4 |         +5 |      2 |    1 |
 
-##### Umiejętność: Counter — id 9015104
+##### Umiejętność: Kontra — id 9015104
 
 | Poz. | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | -------------- | ---------: | ---------: | -----: | ---: |
@@ -5353,13 +5587,13 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 
 *Opis:* Część
 
-##### Umiejętność: Spear Swing — id 9015001
+##### Umiejętność: Machnięcie Włócznią — id 9015001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Kłucie |          5 |         +5 |      1 |    1 |
 
-##### Umiejętność: Tear Up Wound — id 9015002
+##### Umiejętność: Rozdzieranie Ran — id 9015002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5371,7 +5605,7 @@ Na początku tury: przy 5+ Licznikach [Ładowanie], zyskuje 2 [Wzrost Mocy Starc
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          5 |         +4 |      2 |    1 |
 
-##### Umiejętność: Guard — id 9015004
+##### Umiejętność: Garda — id 9015004
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5394,13 +5628,17 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Wystąpienia: ×1 (poz. 55) · też jako wsparcie.*
 
-| Parametr    | Wartość               |
-| ----------- | --------------------- |
-| Poziom      | 55                    |
-| HP          | 212 (+15,6 za poziom) |
-| Sloty akcji | start: 3 · maks. 3    |
-| Odporności  | wszystkie ×1 (Normal) |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | 55                                             |
+| HP           | 212 (+15,6 za poziom)                          |
+| Sloty akcji  | start: 3 · maks. 3                             |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5417,7 +5655,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Activate Prosthesis — id 130501
+##### Umiejętność: Aktywacja Protezy — id 130501
 
 | Poz. | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
@@ -5429,13 +5667,13 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +3 |      3 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Charge — id 130503
+##### Umiejętność: Ładowanie z Konwersji Bioenergii — id 130503
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          5 |         +5 |      2 |    1 |
 
-##### Umiejętność: Guard — id 130504
+##### Umiejętność: Garda — id 130504
 
 | Poz. | Grzech | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------------ | ---------: | ---------: | -----: | ---: |
@@ -5447,7 +5685,7 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 15% zadanych ob
 | ---: | ------ | ----- | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Obuch |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: Bioenergy Conversion Recharge — id 130506
+##### Umiejętność: Przeładowanie z Konwersji Bioenergii — id 130506
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
@@ -5480,12 +5718,16 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Wystąpienia: ×1 (poz. 55).*
 
-| Parametr   | Wartość                |
-| ---------- | ---------------------- |
-| Poziom     | —                      |
-| HP         | 446 (+30,77 za poziom) |
-| Odporności | wszystkie ×1 (Normal)  |
+| Parametr     | Wartość                                        |
+| ------------ | ---------------------------------------------- |
+| Poziom       | —                                              |
+| HP           | 446 (+30,77 za poziom)                         |
+| Poczytalność | Niskie Morale przy SP -20 · Panika przy SP -45 |
+| Typ paniki   | Żądza Krwi                                     |
+| Odporności   | wszystkie ×1 (Normal)                          |
 
+**Efekt Niskiego Morale:** Początek Tury: zyskaj po 1 [Wrażliwość] i [Wzrost Obrażeń]
+**Efekt Paniki:** Początek Tury: zyskaj po 2 [Wrażliwość] i [Wzrost Obrażeń].
 *Opis:* Główne Ciało
 
 **Części (anatomia):**
@@ -5502,49 +5744,49 @@ przy trafieniu, jeżeli cel ma [Krwawienie], przywraca HP równe 25% zadanych ob
 
 *Opis:* Część
 
-##### Umiejętność: Grovel Before Me — id 835001
+##### Umiejętność: Kulaj przede Mną — id 835001
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Pathetic One — id 835002
+##### Umiejętność: Żałosny Stwór — id 835002
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Pycha  | Cięcie |          4 |         +6 |      1 |    1 |
 
-##### Umiejętność: Go... Go Away...! — id 835003
+##### Umiejętność: Idź... Idź Stąd...! — id 835003
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          4 |         +4 |      2 |    1 |
 
-##### Umiejętność: The Parade's Prince — id 123804
+##### Umiejętność: Książę Parady — id 123804
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          5 |         +3 |      4 |    2 |
 
-##### Umiejętność: Blood... Blood... Blood...! — id 835005
+##### Umiejętność: Krew... Krew... Krew...! — id 835005
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Zawiść | Kłucie |          8 |         +4 |      2 |    1 |
 
-##### Umiejętność: Leave Me Alone...! — id 835006
+##### Umiejętność: Zostawcie Mnie...! — id 835006
 
 | Poz. | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------- | ------------ | ---------: | ---------: | -----: | ---: |
 |    1 | Neutral | obrona: unik |          4 |        +10 |      1 |    1 |
 
-##### Umiejętność: I Am... The Prince... of the Parade...! — id 123807
+##### Umiejętność: Jestem... Księciem... tej Parady...! — id 123807
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
 |    1 | Żądza  | Cięcie |          1 |         +1 |      4 |    7 |
 
-##### Umiejętność: I'm... Never... Going Back...! — id 123808
+##### Umiejętność: Nigdy... Nie Wracam...! — id 123808
 
 | Poz. | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Cele |
 | ---: | ------ | ------ | ---------: | ---------: | -----: | ---: |
